@@ -1,0 +1,2010 @@
+{
+ "generated": "2026-10-20T04:54:24.964724+00:00",
+ "prices_generated": "2026-10-20T04:54:24.964724+00:00",
+ "ai": "gemini",
+ "pulse": "Indian markets saw a decline today, likely driven by broader investor caution and negative sentiment following a sharp tech-sector rout in Korea. In the U.S., major indices showed a mixed performance with the Nasdaq gaining, potentially as investors rotate their focus despite ongoing volatility in tech stocks. Meanwhile, oil prices experienced a sharp drop in some benchmarks, and gold continued to attract interest as a steady asset amidst shifting global economic trends.",
+ "ticker_strip": [
+  "^NSEI",
+  "^BSESN",
+  "^GSPC",
+  "^IXIC",
+  "BTC-USD",
+  "USDINR=X",
+  "GC=F",
+  "BZ=F"
+ ],
+ "market_groups": {
+  "India": [
+   "^NSEI",
+   "^BSESN",
+   "^NSEBANK"
+  ],
+  "US": [
+   "^GSPC",
+   "^IXIC",
+   "^DJI"
+  ],
+  "Crypto": [
+   "BTC-USD",
+   "ETH-USD",
+   "SOL-USD"
+  ],
+  "Forex": [
+   "USDINR=X",
+   "EURINR=X",
+   "EURUSD=X",
+   "GBPINR=X"
+  ],
+  "Commodities": [
+   "GC=F",
+   "SI=F",
+   "CL=F",
+   "BZ=F"
+  ]
+ },
+ "watchlist": [
+  "RELIANCE.NS",
+  "TCS.NS",
+  "HDFCBANK.NS",
+  "INFY.NS",
+  "AAPL",
+  "NVDA",
+  "MSFT"
+ ],
+ "quotes": {
+  "^NSEI": {
+   "symbol": "^NSEI",
+   "name": "Nifty 50",
+   "price": 22888.9492,
+   "change": -257.2012,
+   "pct": -1.11,
+   "pct_1m": -2.24,
+   "spark": [
+    23414.3008,
+    23329.0,
+    23446.8008,
+    23063.0996,
+    23140.5,
+    22780.25,
+    22716.1992,
+    22620.4492,
+    22421.9492,
+    22555.75,
+    22776.0996,
+    22603.0508,
+    22231.8008,
+    22520.4492,
+    22363.3496,
+    22721.9492,
+    22622.6992,
+    22997.3496,
+    23146.1504,
+    22888.9492
+   ],
+   "asof": "2026-10-19"
+  },
+  "^BSESN": {
+   "symbol": "^BSESN",
+   "name": "Sensex",
+   "price": 73852.8984,
+   "change": -876.375,
+   "pct": -1.17,
+   "pct_1m": -1.34,
+   "spark": [
+    74858.9922,
+    74529.0781,
+    74828.25,
+    73580.5391,
+    73895.7422,
+    72771.7188,
+    72529.0703,
+    72480.2891,
+    71909.7031,
+    72382.4688,
+    73067.8125,
+    72638.7031,
+    71593.2422,
+    72472.3281,
+    71924.6797,
+    73033.7812,
+    72781.8906,
+    74315.6094,
+    74729.2734,
+    73852.8984
+   ],
+   "asof": "2026-10-19"
+  },
+  "^NSEBANK": {
+   "symbol": "^NSEBANK",
+   "name": "Bank Nifty",
+   "price": 55488.1016,
+   "change": -355.8984,
+   "pct": -0.64,
+   "pct_1m": -1.74,
+   "spark": [
+    56470.6484,
+    56215.5508,
+    56548.8984,
+    55438.5,
+    55580.3984,
+    54471.6484,
+    54259.9492,
+    54633.0508,
+    54450.75,
+    54714.1016,
+    55128.3984,
+    55055.5508,
+    54515.0508,
+    55256.6484,
+    54918.0,
+    55481.0508,
+    55316.0,
+    55810.5,
+    55844.0,
+    55488.1016
+   ],
+   "asof": "2026-10-19"
+  },
+  "^GSPC": {
+   "symbol": "^GSPC",
+   "name": "S&P 500",
+   "price": 7690.73,
+   "change": 31.29,
+   "pct": 0.41,
+   "pct_1m": -0.95,
+   "spark": [
+    7764.7002,
+    7764.6401,
+    7706.0298,
+    7704.1299,
+    7743.4102,
+    7683.6899,
+    7670.8398,
+    7651.54,
+    7666.4502,
+    7722.7202,
+    7773.9502,
+    7818.9302,
+    7801.77,
+    7765.3599,
+    7811.54,
+    7807.2402,
+    7805.4502,
+    7718.9399,
+    7744.0601,
+    7659.4399,
+    7690.73
+   ],
+   "asof": "2026-10-19"
+  },
+  "^IXIC": {
+   "symbol": "^IXIC",
+   "name": "Nasdaq",
+   "price": 26430.8906,
+   "change": 290.8613,
+   "pct": 1.11,
+   "pct_1m": -2.55,
+   "spark": [
+    27122.0898,
+    27244.2793,
+    26936.0391,
+    26939.3691,
+    27068.7207,
+    26820.3809,
+    26797.5391,
+    26861.0605,
+    26871.5996,
+    27190.8594,
+    27477.3105,
+    27599.7891,
+    27538.6895,
+    27193.3398,
+    27366.1699,
+    27245.9004,
+    27204.3809,
+    26692.8691,
+    26713.0293,
+    26140.0293,
+    26430.8906
+   ],
+   "asof": "2026-10-19"
+  },
+  "^DJI": {
+   "symbol": "^DJI",
+   "name": "Dow Jones",
+   "price": 51966.0312,
+   "change": -36.3789,
+   "pct": -0.07,
+   "pct_1m": -0.16,
+   "spark": [
+    52048.8281,
+    51863.6914,
+    51511.5898,
+    51349.9805,
+    51828.6211,
+    51481.5117,
+    51349.9219,
+    50906.0508,
+    50926.5586,
+    51176.9609,
+    51267.8984,
+    51521.2812,
+    51179.8711,
+    51231.6406,
+    51654.9492,
+    51850.5508,
+    51670.1016,
+    51621.4805,
+    52177.6914,
+    52002.4102,
+    51966.0312
+   ],
+   "asof": "2026-10-19"
+  },
+  "BTC-USD": {
+   "symbol": "BTC-USD",
+   "name": "Bitcoin",
+   "price": 81985.2109,
+   "change": -32.3906,
+   "pct": -0.04,
+   "pct_1m": 1.04,
+   "spark": [
+    81142.6094,
+    86602.9141,
+    86172.2812,
+    84383.0078,
+    84379.0625,
+    84034.9219,
+    84406.4531,
+    84458.0859,
+    83502.6094,
+    83622.4297,
+    83553.8516,
+    84853.1016,
+    84497.2109,
+    84763.5781,
+    86480.3047,
+    85786.5938,
+    85557.5625,
+    83275.9297,
+    81676.3359,
+    82546.3203,
+    82912.2266,
+    83679.4688,
+    81762.5625,
+    83095.125,
+    81562.4922,
+    82141.4609,
+    81500.8047,
+    81382.1484,
+    82017.6016,
+    81985.2109
+   ],
+   "asof": "2026-10-20"
+  },
+  "ETH-USD": {
+   "symbol": "ETH-USD",
+   "name": "Ethereum",
+   "price": 2408.95,
+   "change": 0.2085,
+   "pct": 0.01,
+   "pct_1m": -8.86,
+   "spark": [
+    2642.9976,
+    2776.4683,
+    2752.6326,
+    2684.6919,
+    2687.3015,
+    2690.4756,
+    2695.2131,
+    2686.9268,
+    2688.6687,
+    2676.7222,
+    2683.6794,
+    2705.5371,
+    2668.1511,
+    2687.2554,
+    2726.509,
+    2711.0315,
+    2697.5164,
+    2573.5273,
+    2471.9126,
+    2485.5386,
+    2504.0278,
+    2534.6992,
+    2444.3574,
+    2496.6255,
+    2418.207,
+    2440.48,
+    2419.7673,
+    2399.7991,
+    2408.7415,
+    2408.95
+   ],
+   "asof": "2026-10-20"
+  },
+  "SOL-USD": {
+   "symbol": "SOL-USD",
+   "name": "Solana",
+   "price": 105.12,
+   "change": 1.0953,
+   "pct": 1.05,
+   "pct_1m": -5.41,
+   "spark": [
+    111.1329,
+    118.7501,
+    118.5074,
+    114.9753,
+    117.0091,
+    122.0097,
+    121.4256,
+    122.0587,
+    118.8367,
+    119.0555,
+    117.9948,
+    118.3978,
+    118.6151,
+    119.6451,
+    121.5286,
+    120.7507,
+    120.7876,
+    116.2226,
+    109.4423,
+    109.1395,
+    110.034,
+    111.2413,
+    105.5594,
+    106.728,
+    104.0744,
+    105.3306,
+    104.2966,
+    103.3119,
+    104.0247,
+    105.12
+   ],
+   "asof": "2026-10-20"
+  },
+  "USDINR=X": {
+   "symbol": "USDINR=X",
+   "name": "USD/INR",
+   "price": 94.92,
+   "change": -0.0577,
+   "pct": -0.06,
+   "pct_1m": -1.14,
+   "spark": [
+    96.0131,
+    95.712,
+    95.6898,
+    95.7412,
+    96.1613,
+    95.7883,
+    95.9816,
+    96.0507,
+    95.9271,
+    96.2248,
+    96.3253,
+    96.3428,
+    96.3704,
+    96.7568,
+    96.8233,
+    96.7753,
+    95.7759,
+    95.2872,
+    95.1513,
+    94.5248,
+    94.9777,
+    94.92
+   ],
+   "asof": "2026-10-20"
+  },
+  "EURINR=X": {
+   "symbol": "EURINR=X",
+   "name": "EUR/INR",
+   "price": 106.5986,
+   "change": -0.0314,
+   "pct": -0.03,
+   "pct_1m": -3.12,
+   "spark": [
+    110.031,
+    109.771,
+    109.358,
+    108.896,
+    109.089,
+    105.873,
+    109.065,
+    108.769,
+    108.642,
+    108.264,
+    108.157,
+    107.94,
+    108.399,
+    108.325,
+    108.449,
+    105.084,
+    106.803,
+    106.651,
+    106.445,
+    106.514,
+    106.63,
+    106.5986
+   ],
+   "asof": "2026-10-20"
+  },
+  "EURUSD=X": {
+   "symbol": "EURUSD=X",
+   "name": "EUR/USD",
+   "price": 1.1237,
+   "change": 0.0012,
+   "pct": 0.1,
+   "pct_1m": -2.11,
+   "spark": [
+    1.148,
+    1.1465,
+    1.1448,
+    1.1382,
+    1.1375,
+    1.1378,
+    1.1373,
+    1.1341,
+    1.1327,
+    1.125,
+    1.1255,
+    1.1217,
+    1.1254,
+    1.1201,
+    1.1213,
+    1.1205,
+    1.116,
+    1.1204,
+    1.1195,
+    1.1213,
+    1.1225,
+    1.1237
+   ],
+   "asof": "2026-10-20"
+  },
+  "GBPINR=X": {
+   "symbol": "GBPINR=X",
+   "name": "GBP/INR",
+   "price": 126.4993,
+   "change": -0.1554,
+   "pct": -0.12,
+   "pct_1m": -1.6,
+   "spark": [
+    128.5574,
+    127.9596,
+    127.6755,
+    126.7678,
+    127.0376,
+    126.6882,
+    127.2194,
+    127.0541,
+    127.2369,
+    126.9832,
+    127.525,
+    127.3527,
+    127.9062,
+    127.5278,
+    127.9671,
+    128.1368,
+    126.5262,
+    126.3287,
+    125.8495,
+    125.4517,
+    126.6547,
+    126.4993
+   ],
+   "asof": "2026-10-20"
+  },
+  "GC=F": {
+   "symbol": "GC=F",
+   "name": "Gold",
+   "price": 4163.2002,
+   "change": 3.1001,
+   "pct": 0.07,
+   "pct_1m": -5.03,
+   "spark": [
+    4383.8999,
+    4376.3999,
+    4318.3999,
+    4298.0,
+    4321.2002,
+    4168.3999,
+    4179.7002,
+    4186.7002,
+    4202.2998,
+    4162.2998,
+    4156.7998,
+    4187.1001,
+    4140.7002,
+    4157.0,
+    4216.2998,
+    4190.6001,
+    4177.2998,
+    4107.8999,
+    4170.1001,
+    4181.1001,
+    4160.1001,
+    4163.2002
+   ],
+   "asof": "2026-10-20"
+  },
+  "SI=F": {
+   "symbol": "SI=F",
+   "name": "Silver",
+   "price": 57.63,
+   "change": 0.656,
+   "pct": 1.15,
+   "pct_1m": -12.45,
+   "spark": [
+    65.825,
+    65.932,
+    64.382,
+    63.457,
+    64.245,
+    61.22,
+    60.668,
+    60.098,
+    60.725,
+    59.977,
+    60.869,
+    61.168,
+    59.899,
+    59.064,
+    60.67,
+    60.141,
+    59.161,
+    55.55,
+    56.837,
+    56.995,
+    56.974,
+    57.63
+   ],
+   "asof": "2026-10-20"
+  },
+  "CL=F": {
+   "symbol": "CL=F",
+   "name": "WTI Crude",
+   "price": 98.65,
+   "change": -5.01,
+   "pct": -4.83,
+   "pct_1m": 3.0,
+   "spark": [
+    95.78,
+    94.59,
+    92.16,
+    94.61,
+    92.41,
+    92.6,
+    89.38,
+    90.42,
+    92.87,
+    91.11,
+    89.43,
+    89.44,
+    88.28,
+    91.49,
+    91.85,
+    93.74,
+    94.14,
+    95.09,
+    97.97,
+    101.41,
+    103.66,
+    98.65
+   ],
+   "asof": "2026-10-20"
+  },
+  "BZ=F": {
+   "symbol": "BZ=F",
+   "name": "Brent Crude",
+   "price": 109.77,
+   "change": 0.22,
+   "pct": 0.2,
+   "pct_1m": 9.4,
+   "spark": [
+    100.34,
+    99.25,
+    103.08,
+    106.6,
+    104.32,
+    105.28,
+    102.59,
+    103.53,
+    102.31,
+    102.25,
+    100.32,
+    100.58,
+    100.2,
+    104.28,
+    104.72,
+    106.65,
+    105.69,
+    106.06,
+    105.92,
+    109.86,
+    109.55,
+    109.77
+   ],
+   "asof": "2026-10-20"
+  },
+  "RELIANCE.NS": {
+   "symbol": "RELIANCE.NS",
+   "name": "Reliance",
+   "price": 1202.0,
+   "change": -9.2,
+   "pct": -0.76,
+   "pct_1m": -3.64,
+   "spark": [
+    1247.4,
+    1240.4,
+    1248.0,
+    1219.2,
+    1226.0,
+    1197.6,
+    1182.0,
+    1187.0,
+    1167.7,
+    1186.4,
+    1218.0,
+    1207.7,
+    1178.0,
+    1170.3,
+    1158.9,
+    1166.7,
+    1174.6,
+    1215.0,
+    1211.2,
+    1202.0
+   ],
+   "asof": "2026-10-19"
+  },
+  "TCS.NS": {
+   "symbol": "TCS.NS",
+   "name": "TCS",
+   "price": 2460.8999,
+   "change": -4.1001,
+   "pct": -0.17,
+   "pct_1m": 16.22,
+   "spark": [
+    2117.4436,
+    2093.8689,
+    2078.5503,
+    2075.9641,
+    2070.9905,
+    2059.7502,
+    2021.6528,
+    2039.7566,
+    2064.0276,
+    2103.219,
+    2088.8953,
+    2069.2996,
+    2065.0222,
+    2144.5991,
+    2113.7632,
+    2257.3,
+    2304.8999,
+    2350.0,
+    2465.0,
+    2460.8999
+   ],
+   "asof": "2026-10-19"
+  },
+  "HDFCBANK.NS": {
+   "symbol": "HDFCBANK.NS",
+   "name": "HDFC Bank",
+   "price": 712.0,
+   "change": -16.85,
+   "pct": -2.31,
+   "pct_1m": -3.72,
+   "spark": [
+    739.5,
+    738.6,
+    737.25,
+    728.9,
+    735.6,
+    719.05,
+    722.7,
+    708.7,
+    721.2,
+    704.8,
+    711.45,
+    702.75,
+    692.25,
+    707.25,
+    704.9,
+    714.0,
+    710.7,
+    726.85,
+    728.85,
+    712.0
+   ],
+   "asof": "2026-10-19"
+  },
+  "INFY.NS": {
+   "symbol": "INFY.NS",
+   "name": "Infosys",
+   "price": 1130.7,
+   "change": -30.5,
+   "pct": -2.63,
+   "pct_1m": 8.88,
+   "spark": [
+    1038.5,
+    1029.4,
+    1020.5,
+    1014.5,
+    1000.2,
+    1003.2,
+    1015.4,
+    994.1,
+    1035.0,
+    1020.5,
+    1013.85,
+    992.0,
+    997.0,
+    1023.4,
+    1020.0,
+    1062.1,
+    1088.0,
+    1110.0,
+    1161.2,
+    1130.7
+   ],
+   "asof": "2026-10-19"
+  },
+  "AAPL": {
+   "symbol": "AAPL",
+   "name": "Apple",
+   "price": 342.94,
+   "change": -0.52,
+   "pct": -0.15,
+   "pct_1m": 1.17,
+   "spark": [
+    338.98,
+    339.75,
+    337.02,
+    335.92,
+    341.07,
+    338.4,
+    329.4,
+    333.02,
+    330.32,
+    333.69,
+    332.89,
+    333.63,
+    336.67,
+    340.42,
+    336.64,
+    340.97,
+    341.27,
+    342.96,
+    342.0,
+    343.46,
+    342.94
+   ],
+   "asof": "2026-10-19"
+  },
+  "NVDA": {
+   "symbol": "NVDA",
+   "name": "Nvidia",
+   "price": 217.09,
+   "change": 2.96,
+   "pct": 1.38,
+   "pct_1m": -4.53,
+   "spark": [
+    227.38,
+    228.87,
+    225.51,
+    224.58,
+    225.07,
+    228.86,
+    227.21,
+    228.38,
+    230.86,
+    233.95,
+    238.9,
+    239.24,
+    237.47,
+    230.48,
+    229.28,
+    226.32,
+    228.52,
+    221.3,
+    217.23,
+    214.13,
+    217.09
+   ],
+   "asof": "2026-10-19"
+  },
+  "MSFT": {
+   "symbol": "MSFT",
+   "name": "Microsoft",
+   "price": 533.52,
+   "change": 4.47,
+   "pct": 0.84,
+   "pct_1m": 6.36,
+   "spark": [
+    501.61,
+    498.0,
+    500.59,
+    497.93,
+    516.17,
+    509.22,
+    508.96,
+    512.9,
+    512.8,
+    517.53,
+    525.18,
+    529.3,
+    529.76,
+    522.61,
+    535.07,
+    541.15,
+    543.45,
+    533.69,
+    539.44,
+    529.05,
+    533.52
+   ],
+   "asof": "2026-10-19"
+  }
+ },
+ "mutual_funds": [
+  {
+   "code": 120716,
+   "name": "UTI Nifty 50 Index Fund (Direct, Growth)",
+   "nav": 161.2004,
+   "pct": -1.11,
+   "pct_1m": -4.12,
+   "date": "19-10-2026",
+   "spark": [
+    168.1199,
+    168.3146,
+    167.4764,
+    166.461,
+    165.0262,
+    165.3512,
+    164.7893,
+    162.8164,
+    163.5126,
+    163.8847,
+    164.4174,
+    164.893,
+    164.291,
+    165.1195,
+    162.4165,
+    162.9607,
+    160.4204,
+    159.9641,
+    159.2891,
+    157.8901,
+    158.829,
+    160.3789,
+    159.1593,
+    156.5445,
+    158.5759,
+    157.4672,
+    159.991,
+    159.31,
+    161.9479,
+    163.0141,
+    161.2004
+   ]
+  },
+  {
+   "code": 122639,
+   "name": "Parag Parikh Flexi Cap (Direct, Growth)",
+   "nav": 90.3546,
+   "pct": -0.58,
+   "pct_1m": -0.31,
+   "date": "19-10-2026",
+   "spark": [
+    90.6349,
+    90.5289,
+    90.3473,
+    90.0181,
+    89.3946,
+    89.4845,
+    89.5712,
+    89.3125,
+    89.4425,
+    89.7169,
+    89.8569,
+    90.5324,
+    90.2686,
+    90.3403,
+    89.6034,
+    89.958,
+    88.977,
+    88.7188,
+    88.8355,
+    88.2569,
+    88.762,
+    88.997,
+    88.8389,
+    87.6555,
+    88.9258,
+    88.5547,
+    89.5841,
+    89.3598,
+    90.604,
+    90.8844,
+    90.3546
+   ]
+  }
+ ],
+ "segments": {
+  "india": {
+   "label": "India",
+   "articles": [
+    {
+     "id": "19eb396d5f1a",
+     "title": "Allahabad High Court stays conviction of murder convict who wishes to contest 2027 U.P. polls",
+     "link": "https://www.thehindu.com/elections/uttar-pradesh-assembly/allahabad-high-court-stays-conviction-of-murder-convict-who-wishes-to-contest-2027-up-polls/article71603091.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-19T20:57:52+00:00",
+     "summary": "The Allahabad High Court has stayed the conviction of a murder convict who is also a political worker for the BJP. This decision grants him bail, potentially allowing him to participate in the 2027 Uttar Pradesh assembly elections.",
+     "explain": "A stay of conviction suspends the legal consequences of a guilty verdict, such as disqualification from holding office. This happens when a higher court finds that not doing so would cause irreparable harm to the accused, though it does not mean the person is acquitted or proven innocent.",
+     "related": [],
+     "story": {
+      "id": "india-legal-relief-for-political-convicts",
+      "title": "Legal Relief for Political Convicts",
+      "so_far": "In India, Section 8 of the Representation of the People Act generally disqualifies convicted individuals from contesting elections. Courts may grant a stay on a conviction in exceptional circumstances to prevent irreversible damage to a candidate's political career, effectively suspending the disqualification until the appeal process is complete.",
+      "timeline": [
+       {
+        "date": "2026-10-19",
+        "text": "The court stayed a conviction for a murder case, citing the individual's political background and intent to contest upcoming elections.",
+        "link": "https://www.thehindu.com/elections/uttar-pradesh-assembly/allahabad-high-court-stays-conviction-of-murder-convict-who-wishes-to-contest-2027-up-polls/article71603091.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "4305e2e7d3c3",
+     "title": "Naveen Patnaik Slams \"Silence\" On Andhra Poll Notice In 3 Disputed Villages",
+     "link": "https://www.ndtv.com/india-news/naveen-patnaik-slams-silence-on-andhra-poll-notice-in-3-disputed-villages-12208236#publisher=newsstand",
+     "source": "NDTV News Search Records Found 1000",
+     "published": "2026-10-19T17:59:32+00:00",
+     "summary": "Former Odisha CM Naveen Patnaik is questioning the state government's lack of action regarding Andhra Pradesh's decision to conduct elections in disputed border villages.",
+     "explain": "This is a territorial dispute where two states claim the same land for governance, taxation, and electoral purposes. Conducting elections in contested regions is often used as a political assertion of sovereignty, making it a high-stakes issue for state governments.",
+     "related": [],
+     "story": {
+      "id": "india-odisha-andhra-pradesh-border-dispute",
+      "title": "Odisha-Andhra Pradesh Border Dispute",
+      "so_far": "The border dispute between Odisha and Andhra Pradesh involves 21 of the 28 villages in the Kotia Gram Panchayat, which both states claim as part of their territory. A legal battle has been ongoing in the Supreme Court since January 2022 to resolve the jurisdictional ownership of these border areas.",
+      "timeline": [
+       {
+        "date": "2026-10-19",
+        "text": "Naveen Patnaik has criticized the Odisha government for remaining silent on Andhra Pradesh's recent poll notification for villages in the contested Kotia region.",
+        "link": "https://www.ndtv.com/india-news/naveen-patnaik-slams-silence-on-andhra-poll-notice-in-3-disputed-villages-12208236#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-19",
+        "text": "Patnaik highlighted that the decades-old dispute involves competing claims by both states over 21 villages in Kotia.",
+        "link": "https://www.thehindu.com/news/national/odisha/naveen-patnaik-questions-odisha-governments-silence-on-andhras-poll-notification-for-disputed-kotia-villages/article71603050.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "3ff0e3ecc170",
+     "title": "Naveen Patnaik questions Odisha government’s 'silence' on Andhra's poll notification for disputed Kotia villages",
+     "link": "https://www.thehindu.com/news/national/odisha/naveen-patnaik-questions-odisha-governments-silence-on-andhras-poll-notification-for-disputed-kotia-villages/article71603050.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-19T17:28:21+00:00",
+     "summary": "Naveen Patnaik is pressuring the Odisha administration over its silence on Andhra Pradesh's electoral activity in the disputed Kotia villages.",
+     "explain": "See previous entry.",
+     "related": [],
+     "story": {
+      "id": "india-odisha-andhra-pradesh-border-dispute",
+      "title": "Odisha-Andhra Pradesh Border Dispute",
+      "so_far": "The border dispute between Odisha and Andhra Pradesh involves 21 of the 28 villages in the Kotia Gram Panchayat, which both states claim as part of their territory. A legal battle has been ongoing in the Supreme Court since January 2022 to resolve the jurisdictional ownership of these border areas.",
+      "timeline": [
+       {
+        "date": "2026-10-19",
+        "text": "Naveen Patnaik has criticized the Odisha government for remaining silent on Andhra Pradesh's recent poll notification for villages in the contested Kotia region.",
+        "link": "https://www.ndtv.com/india-news/naveen-patnaik-slams-silence-on-andhra-poll-notice-in-3-disputed-villages-12208236#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-19",
+        "text": "Patnaik highlighted that the decades-old dispute involves competing claims by both states over 21 villages in Kotia.",
+        "link": "https://www.thehindu.com/news/national/odisha/naveen-patnaik-questions-odisha-governments-silence-on-andhras-poll-notification-for-disputed-kotia-villages/article71603050.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "5831d09d8cd3",
+     "title": "JEE Main Registration 2027 LIVE: Application Form, Key Instructions, Exam Dates, Guidelines",
+     "link": "https://www.ndtv.com/education/jee-main-registration-2027-live-updates-application-form-key-instructions-exam-dates-guidelines-12209061#publisher=newsstand",
+     "source": "NDTV News Search Records Found 1000",
+     "published": "2026-10-20T03:53:19+00:00",
+     "summary": "The registration process for the 2027 JEE Main, a critical entrance exam for engineering colleges in India, is currently underway.",
+     "explain": "JEE Main is the first stage of the Joint Entrance Examination. It is essential for students in India aspiring to study engineering, as success here is the primary qualification for top-tier college admissions.",
+     "related": [],
+     "story": {
+      "id": "india-2027-jee-main-admissions-process",
+      "title": "2027 JEE Main Admissions Process",
+      "so_far": "JEE Main is the primary gateway for admission into premier engineering institutes like the National Institutes of Technology (NITs) and other centrally funded technical institutions. It is a highly competitive, standardized, multi-session exam conducted annually.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "The National Testing Agency has begun the registration process and is preparing to release the official information bulletin for candidates.",
+        "link": "https://www.ndtv.com/education/jee-main-registration-2027-live-updates-application-form-key-instructions-exam-dates-guidelines-12209061#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       }
+      ]
+     }
+    },
+    {
+     "id": "c260c7c46261",
+     "title": "NIOS Reopens Registration Portal For 6-Month Bridge Course On October 21 In Primary Teacher Education",
+     "link": "https://www.ndtv.com/education/nios-reopens-registration-portal-for-6-month-bridge-course-on-october-21-in-primary-teacher-education-12209092#publisher=newsstand",
+     "source": "NDTV News Search Records Found 1000",
+     "published": "2026-10-20T03:50:44+00:00",
+     "summary": "The National Institute of Open Schooling (NIOS) has reopened registration for its bridge course for primary teachers.",
+     "explain": "A bridge course is a supplementary educational program designed to bridge the gap between a student's existing qualifications and the requirements of a new academic or professional standard.",
+     "related": [],
+     "story": {
+      "id": "india-nios-teacher-education-updates",
+      "title": "NIOS Teacher Education Updates",
+      "so_far": "NIOS provides distance learning and specialized training programs for educators to meet national teaching standards. These bridge courses are designed to upgrade the qualifications of primary teachers to meet government certification requirements.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "Registration has reopened for a limited window, closing definitively on October 28, 2026.",
+        "link": "https://www.ndtv.com/education/nios-reopens-registration-portal-for-6-month-bridge-course-on-october-21-in-primary-teacher-education-12209092#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       }
+      ]
+     }
+    },
+    {
+     "id": "471494650a80",
+     "title": "NDA 'Joining Bonus' For Yusuf Pathan? A 'Plot' Twist In Long Legal Battle",
+     "link": "https://www.ndtv.com/india-news/vadodara-land-row-nda-joining-bonus-for-yusuf-pathan-a-plot-twist-in-long-legal-battle-12209050#publisher=newsstand",
+     "source": "NDTV News Search Records Found 1000",
+     "published": "2026-10-20T03:46:24+00:00",
+     "summary": "Political reports suggest a potential shift in allegiances for Yusuf Pathan and a group of former Trinamool Congress (TMC) Members of Parliament.",
+     "explain": "The 'rebellion' here refers to a group of politicians openly opposing their party leadership. 'Joining bonus' is journalistic shorthand for the incentives or political support a politician might receive when switching parties.",
+     "related": [],
+     "story": {
+      "id": "india-political-realignments-and-legal-battles",
+      "title": "Political Realignments and Legal Battles",
+      "so_far": "In Indian politics, internal party rebellions are frequent occurrences that often lead to party splits or shifts in legislative majorities. These events are usually marked by complex legal challenges regarding anti-defection laws and party loyalty.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "Yusuf Pathan and 20 other MPs have reportedly rebelled against the TMC, leading to speculation about their future political affiliations.",
+        "link": "https://www.ndtv.com/india-news/vadodara-land-row-nda-joining-bonus-for-yusuf-pathan-a-plot-twist-in-long-legal-battle-12209050#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b9e6a0eea586",
+     "title": "Who Is Vikram Rai, GE Aerospace Executive To Attand NDTV World Summit 2026",
+     "link": "https://www.ndtv.com/world-news/who-is-vikram-rai-ge-aerospace-executive-to-attand-ndtv-world-summit-2026-12205755#publisher=newsstand",
+     "source": "NDTV News Search Records Found 1000",
+     "published": "2026-10-20T03:05:42+00:00",
+     "summary": "Vikram Rai, an experienced GE Aerospace executive, is scheduled to participate in the upcoming NDTV World Summit 2026.",
+     "explain": "This summit acts as a platform for networking and knowledge sharing between leaders from different sectors like defense, aviation, and economics.",
+     "related": [],
+     "story": {
+      "id": "india-ndtv-world-summit-2026",
+      "title": "NDTV World Summit 2026",
+      "so_far": "The NDTV World Summit is a recurring forum where business leaders, policymakers, and industry experts convene to discuss global economic, geopolitical, and industrial trends.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "Vikram Rai has been confirmed as a speaker, highlighting his two-decade career in the aerospace industry.",
+        "link": "https://www.ndtv.com/world-news/who-is-vikram-rai-ge-aerospace-executive-to-attand-ndtv-world-summit-2026-12205755#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       }
+      ]
+     }
+    },
+    {
+     "id": "ae845f4d9547",
+     "title": "UPSC Combined Defence Services 2 Result 2026 Out: 8,956 Candidates Qualified, Check Details",
+     "link": "https://www.ndtv.com/education/upsc-combined-defence-services-2-result-2026-out-8-956-candidates-qualified-check-details-12208898#publisher=newsstand",
+     "source": "NDTV News Search Records Found 1000",
+     "published": "2026-10-20T02:23:17+00:00",
+     "summary": "The results for the UPSC Combined Defence Services (CDS) 2 examination held in September 2026 have been released.",
+     "explain": "UPSC is the constitutional body responsible for recruiting officers for the civil services and defense services in India. Passing this exam is the initial step toward commissioned officer training in the armed forces.",
+     "related": [],
+     "story": {
+      "id": "india-upsc-recruitment-results",
+      "title": "UPSC Recruitment Results",
+      "so_far": "The CDS exam is a competitive recruitment test for the Indian Military Academy, Officers Training Academy, Indian Naval Academy, and Indian Air Force Academy. It is conducted twice a year by the Union Public Service Commission (UPSC).",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "A total of 8,956 candidates have successfully qualified following the offline exam conducted on September 13, 2026.",
+        "link": "https://www.ndtv.com/education/upsc-combined-defence-services-2-result-2026-out-8-956-candidates-qualified-check-details-12208898#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       }
+      ]
+     }
+    },
+    {
+     "id": "386b9a7eeb51",
+     "title": "Woman Gets Husband Killed By Painter-Turned-Lover They Hired For New Home",
+     "link": "https://www.ndtv.com/india-news/karnataka-woman-falls-for-painter-together-plot-husbands-murder-12208218#publisher=newsstand",
+     "source": "NDTV News Search Records Found 1000",
+     "published": "2026-10-20T01:42:59+00:00",
+     "summary": "Police have solved a murder case in which a woman allegedly conspired with a painter to kill her husband.",
+     "explain": "This incident highlights criminal activity driven by domestic disputes. The case is now moving through the standard criminal justice process, involving arrests, evidence collection, and future trial proceedings.",
+     "related": [],
+     "story": {
+      "id": "india-crime-and-investigation-reports",
+      "title": "Crime and Investigation Reports",
+      "so_far": "These types of domestic crime investigations typically follow a pattern where local police trace digital footprints, financial transactions, or witness testimony to identify suspects hired by a family member to resolve personal or property disputes.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "Authorities uncovered that the wife hired a painter with whom she was having an affair to commit the murder due to ongoing domestic conflicts.",
+        "link": "https://www.ndtv.com/india-news/karnataka-woman-falls-for-painter-together-plot-husbands-murder-12208218#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Authorities arrested three suspects in Rajasthan's Kota, with one found to be working for the taxi-service app Rapido.",
+        "link": "https://www.ndtv.com/india-news/tiger-shroff-shooter-works-with-rapido-taxi-app-shares-his-work-status-12207440#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       }
+      ]
+     }
+    },
+    {
+     "id": "47ee000b2d93",
+     "title": "Tiger Shroff Shooter Works With Rapido. Taxi App Shares His Work Status",
+     "link": "https://www.ndtv.com/india-news/tiger-shroff-shooter-works-with-rapido-taxi-app-shares-his-work-status-12207440#publisher=newsstand",
+     "source": "NDTV News Search Records Found 1000",
+     "published": "2026-10-20T01:35:03+00:00",
+     "summary": "A suspect allegedly involved in a recent attack related to actor Tiger Shroff has been identified as a delivery worker for the Rapido platform.",
+     "explain": "The investigation involves individuals accused of violent criminal behavior. The mention of the suspect's employment status with a gig-economy app like Rapido often becomes part of public police reports during the tracking and apprehension of suspects.",
+     "related": [],
+     "story": {
+      "id": "india-crime-and-investigation-reports",
+      "title": "Crime and Investigation Reports",
+      "so_far": "These types of domestic crime investigations typically follow a pattern where local police trace digital footprints, financial transactions, or witness testimony to identify suspects hired by a family member to resolve personal or property disputes.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "Authorities uncovered that the wife hired a painter with whom she was having an affair to commit the murder due to ongoing domestic conflicts.",
+        "link": "https://www.ndtv.com/india-news/karnataka-woman-falls-for-painter-together-plot-husbands-murder-12208218#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Authorities arrested three suspects in Rajasthan's Kota, with one found to be working for the taxi-service app Rapido.",
+        "link": "https://www.ndtv.com/india-news/tiger-shroff-shooter-works-with-rapido-taxi-app-shares-his-work-status-12207440#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "world": {
+   "label": "World",
+   "articles": [
+    {
+     "id": "c37e4d5898dc",
+     "title": "Japan launches historic mission to bring back Mars moon samples",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-10-20T04:08:33+00:00",
+     "summary": "Japan has launched an uncrewed mission to retrieve rock samples from Phobos, a moon of Mars. The journey to the moon and back is expected to take five years.",
+     "explain": "Phobos is one of the two natural satellites orbiting Mars. By bringing back physical samples, scientists hope to learn more about the composition of moons in the solar system, which helps clarify how planets and moons are created. This mission is an 'uncrewed' flight, meaning it is controlled remotely from Earth.",
+     "related": [],
+     "story": {
+      "id": "world-japan-s-martian-moon-sample-mission",
+      "title": "Japan's Martian Moon Sample Mission",
+      "so_far": "This is a new space exploration mission. Japan's space agency, JAXA, is attempting to visit Phobos to gather geological data that could reveal how Martian moons formed, potentially providing insights into the early history of our solar system.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "Japan successfully launched the mission to collect samples from the Martian moon Phobos.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b9ec69a574d9",
+     "title": "Gold mine collapse kills at least 14 in southwest Colombia",
+     "link": "https://www.thehindu.com/news/international/gold-mine-collapse-in-colombias-narino-province/article71603089.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-10-20T02:01:30+00:00",
+     "summary": "At least 14 people died following the collapse of an illegal gold mine in the Nariño province of Colombia.",
+     "explain": "Illegal mining happens when workers extract minerals like gold without government licenses or environmental oversight. Because these operations avoid regulation, they rarely implement safety measures like proper ventilation or structural supports, leading to high risks of fatal accidents like collapses.",
+     "related": [],
+     "story": {
+      "id": "world-colombia-gold-mine-collapse",
+      "title": "Colombia Gold Mine Collapse",
+      "so_far": "Illegal mining is a persistent issue in Colombia, often conducted in remote, unregulated, and dangerous conditions. These sites frequently lack the safety infrastructure required to prevent cave-ins, putting workers at significant risk.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "A collapse at an illegal mining site in Nariño province has resulted in 14 confirmed fatalities.",
+        "link": "https://www.thehindu.com/news/international/gold-mine-collapse-in-colombias-narino-province/article71603089.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "a7c2627032a4",
+     "title": "Exiled critic of Rwandan president found beheaded in Uganda",
+     "link": "https://www.aljazeera.com/news/2026/10/20/exiled-critic-of-rwandan-president-found-beheaded-in-uganda?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-10-20T00:06:00+00:00",
+     "summary": "A critic of the Rwandan government living in exile has been found beheaded in Uganda.",
+     "explain": "Being an 'exile' means the person was forced to leave their home country, usually due to political persecution. The discovery of a body in a neighboring country under suspicious circumstances creates international tension, as the victim was a vocal opponent of their home government.",
+     "related": [],
+     "story": {
+      "id": "world-rwandan-exile-found-dead",
+      "title": "Rwandan Exile Found Dead",
+      "so_far": "Relations between Rwanda and its neighbors have often been tense regarding the presence of political dissidents living in exile. This incident follows a pattern of high-profile cases involving the deaths or disappearances of critics of the Rwandan administration.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "Police in Uganda discovered the beheaded body of a Rwandan political critic near Kampala.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/exiled-critic-of-rwandan-president-found-beheaded-in-uganda?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "fa12b3b5040e",
+     "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+     "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-10-19T21:12:30+00:00",
+     "summary": "New court filings allege that a former OpenAI employee accused of planting a device had support from the Saudi government.",
+     "explain": "OpenAI is a leading artificial intelligence company. Planting a device inside such a firm implies an attempt to steal proprietary technology or sensitive data. Allegations of foreign government involvement escalate this from a standard corporate security issue to a potential national security concern.",
+     "related": [],
+     "story": {
+      "id": "world-openai-employee-security-breach",
+      "title": "OpenAI Employee Security Breach",
+      "so_far": "This case involves an investigation into an ex-employee, Abdulrahman Alfozan, who allegedly attempted to compromise OpenAI's internal security. The new disclosures link the defendant directly to foreign government entities.",
+      "timeline": [
+       {
+        "date": "2026-10-19",
+        "text": "Court documents suggest that Abdulrahman Alfozan, accused of planting a device at OpenAI, received assistance from Saudi military and royal family connections.",
+        "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "97352bc171e1",
+     "title": "Ex-OpenAI employee accused of planting device appears to have Saudi backing, court filing shows",
+     "link": "https://www.thehindu.com/news/international/ex-openai-employee-accused-of-planting-device-appears-to-have-saudi-backing-court-filing-shows/article71602972.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-10-19T15:51:27+00:00",
+     "summary": "Court filings allege that an ex-OpenAI worker accused of security breaches was in communication with Saudi royalty and received travel support from the Saudi military.",
+     "explain": "Prosecutors are formalizing their case by establishing a motive and a support network. By linking the defendant to a foreign government, the prosecution suggests that the security breach may have been state-sponsored rather than an act of a lone individual.",
+     "related": [],
+     "story": {
+      "id": "world-ex-openai-employee-accused-of-planting-d",
+      "title": "Ex-OpenAI employee accused of planting device appears to have Saudi backing, cou",
+      "so_far": "Court filings allege that an ex-OpenAI worker accused of security breaches was in communication with Saudi royalty and received travel support from the Saudi military.",
+      "timeline": [
+       {
+        "date": "2026-10-19",
+        "text": "Prosecutors have revealed specific details alleging ties between the accused, Abdulrahman Alfozan, and members of the Saudi Royal family and military.",
+        "link": "https://www.thehindu.com/news/international/ex-openai-employee-accused-of-planting-device-appears-to-have-saudi-backing-court-filing-shows/article71602972.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "6318065c0729",
+     "title": "World Food Programme says ending aid for half million in Gaza due to funding shortfall",
+     "link": "https://www.thehindu.com/news/international/world-food-programme-says-ending-aid-for-half-million-in-gaza-due-to-funding-shortfall/article71602337.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-10-19T07:57:48+00:00",
+     "summary": "The World Food Programme (WFP) is reducing aid to 500,000 people in Gaza due to a lack of funding.",
+     "explain": "The World Food Programme is a UN agency that provides emergency food assistance during crises. 'Funding shortfalls' occur when donor countries do not provide enough money to meet the projected costs of feeding people in a specific region, forcing the organization to prioritize who receives help.",
+     "related": [],
+     "story": {
+      "id": "world-wfp-aid-cuts-in-gaza",
+      "title": "WFP Aid Cuts in Gaza",
+      "so_far": "The WFP has been a primary provider of food and nutrition in Gaza during ongoing regional instability. Rising costs and shrinking international donations have forced the agency to scale back operations across several active conflict zones.",
+      "timeline": [
+       {
+        "date": "2026-10-19",
+        "text": "The WFP confirmed it is cutting aid for 500,000 people in Gaza, reducing its reach from 1.6 million to 1.1 million beneficiaries.",
+        "link": "https://www.thehindu.com/news/international/world-food-programme-says-ending-aid-for-half-million-in-gaza-due-to-funding-shortfall/article71602337.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "a0ed54dd2dc4",
+     "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+     "link": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-10-19T06:00:18+00:00",
+     "summary": "The WFP announced it must reduce its aid coverage in Gaza by approximately one-third due to a severe lack of funds.",
+     "explain": "This cut represents a major blow to the humanitarian infrastructure in Gaza. When aid agencies announce these reductions, it means that half a million people, previously verified to be in need, will no longer receive the food, flour, or financial assistance necessary to meet their basic caloric needs.",
+     "related": [],
+     "story": {
+      "id": "world-funding-shortages-force-world-food-progr",
+      "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+      "so_far": "The WFP announced it must reduce its aid coverage in Gaza by approximately one-third due to a severe lack of funds.",
+      "timeline": [
+       {
+        "date": "2026-10-19",
+        "text": "The agency officially confirmed a reduction in assistance, dropping 500,000 people from its aid programs.",
+        "link": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "54b9b0bb58db",
+     "title": "US Supreme Court to hear case on race in school admissions",
+     "link": "https://www.aljazeera.com/news/2026/10/20/us-supreme-court-to-hear-case-on-race-in-school-admissions?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-10-20T04:38:07+00:00",
+     "summary": "The U.S. Supreme Court will hear a challenge to a local school admission policy that parents argue discriminates against Asian applicants.",
+     "explain": "The Supreme Court is the highest judicial body in the U.S. By agreeing to hear this case, they will set a legal precedent that affects how schools decide which students to admit. The parents' claim rests on the idea that the 'equal protection' clause of the Constitution is violated if a policy uses race to disadvantage one group over another.",
+     "related": [],
+     "story": {
+      "id": "world-supreme-court-admissions-case",
+      "title": "Supreme Court Admissions Case",
+      "so_far": "This case builds on ongoing national debates about the role of race in public institutions. Similar challenges have been brought in previous years regarding university admissions, and this case marks the latest effort to contest race-conscious policies in K-12 schooling.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "The Supreme Court agreed to hear a case regarding whether race-based school admissions policies unfairly prioritize certain demographic groups.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/us-supreme-court-to-hear-case-on-race-in-school-admissions?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "621350f34329",
+     "title": "Fourteen dead in illegal Colombian gold mine collapse",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/fourteen-dead-in-illegal-colombian-gold-mine-collapse?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-10-20T03:55:27+00:00",
+     "summary": "A total of 14 people have been confirmed dead following the collapse of an illegal gold mine in Colombia.",
+     "explain": "Mining is dangerous, and illegal operations avoid the legal requirement for official oversight. When a large-scale accident like this happens, authorities must search the debris, which is why the death toll often rises in the hours after the initial collapse.",
+     "related": [],
+     "story": {
+      "id": "world-fourteen-dead-in-illegal-colombian-gold-",
+      "title": "Fourteen dead in illegal Colombian gold mine collapse",
+      "so_far": "A total of 14 people have been confirmed dead following the collapse of an illegal gold mine in Colombia.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "The death toll from the mine collapse in Nariño province has reached 14.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/fourteen-dead-in-illegal-colombian-gold-mine-collapse?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "0ad0a1e80ab0",
+     "title": "‘Deliberate’ car ramming of Australian MP an isolated incident, police say",
+     "link": "https://www.aljazeera.com/news/2026/10/20/deliberate-car-ramming-of-australian-mp-an-isolated-incident-police-say?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-10-20T03:24:18+00:00",
+     "summary": "Police have stated that the incident involving a man hitting Australian MP Helen Haines with his car was an isolated event.",
+     "explain": "An 'isolated incident' means that investigators currently believe the suspect acted alone and that there is no broader political plot or conspiracy involved. In this context, 'ramming' refers to the intentional use of a vehicle as a weapon against a person or property.",
+     "related": [],
+     "story": {
+      "id": "world-australian-mp-car-ramming",
+      "title": "Australian MP Car Ramming",
+      "so_far": "Political violence, even if isolated, is treated with extreme seriousness in Australia. Helen Haines is an independent member of parliament, and the act of targeting an elected official is currently under criminal investigation to determine the suspect's motives.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "Authorities have taken a 43-year-old suspect into custody following the car ramming of MP Helen Haines.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/deliberate-car-ramming-of-australian-mp-an-isolated-incident-police-say?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "business": {
+   "label": "Business & Finance",
+   "articles": [
+    {
+     "id": "e659ced7bf31",
+     "title": "Japan launches spacecraft to explore Mars’s moons and bring back samples by 2031",
+     "link": "https://www.thehindubusinessline.com/news/science/japan-launches-spacecraft-to-explore-marss-moons-and-bring-back-samples-by-2031/article71603101.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-20T02:18:55+00:00",
+     "summary": "Japan has launched an international mission to Mars’s moons, aiming to land a rover and return samples by 2031.",
+     "explain": "The mission involves sending a spacecraft to Mars's moons, Phobos and Deimos, to understand their origins and composition. By bringing back physical material, scientists hope to gain insights into the early history of the solar system. An international mission means multiple countries are collaborating on the technology and scientific objectives.",
+     "related": [],
+     "story": {
+      "id": "business-japan-launches-mars-moons-mission",
+      "title": "Japan Launches Mars Moons Mission",
+      "so_far": "In October 2026, Japan initiated a multi-year international space exploration project. The mission's goal is to investigate the moons of Mars and bring geological samples back to Earth for analysis by 2031.",
+      "timeline": [
+       {
+        "date": "2026-10-19",
+        "text": "The spacecraft successfully launched to begin its journey toward the Martian moons.",
+        "link": "https://economictimes.indiatimes.com/news/international/world-news/japan-launches-spacecraft-to-mysterious-moons-of-mars-in-a-bold-mission-to-bring-home-soil-samples/articleshow/135055931.cms",
+        "source": "Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "A spacecraft has officially launched on a five-year mission to study and retrieve samples from the Martian moons.",
+        "link": "https://www.thehindubusinessline.com/news/science/japan-launches-spacecraft-to-explore-marss-moons-and-bring-back-samples-by-2031/article71603101.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "3f0d48df66ab",
+     "title": "Japan launches spacecraft to moons of Mars",
+     "link": "https://economictimes.indiatimes.com/news/international/world-news/japan-launches-spacecraft-to-mysterious-moons-of-mars-in-a-bold-mission-to-bring-home-soil-samples/articleshow/135055931.cms",
+     "source": "Economic Times",
+     "published": "2026-10-19T19:47:49+00:00",
+     "summary": "Japan has launched an international mission to Mars’s moons, aiming to land a rover and return samples by 2031.",
+     "explain": "The mission seeks to study Martian moons to provide clues about how Mars and the surrounding space environment formed. A 'rover' is a mobile vehicle designed to travel across the surface of a celestial body to conduct experiments, while a 'lander' is a stationary platform for gathering data at a specific site.",
+     "related": [],
+     "story": {
+      "id": "business-japan-launches-mars-moons-mission",
+      "title": "Japan Launches Mars Moons Mission",
+      "so_far": "In October 2026, Japan initiated a multi-year international space exploration project. The mission's goal is to investigate the moons of Mars and bring geological samples back to Earth for analysis by 2031.",
+      "timeline": [
+       {
+        "date": "2026-10-19",
+        "text": "The spacecraft successfully launched to begin its journey toward the Martian moons.",
+        "link": "https://economictimes.indiatimes.com/news/international/world-news/japan-launches-spacecraft-to-mysterious-moons-of-mars-in-a-bold-mission-to-bring-home-soil-samples/articleshow/135055931.cms",
+        "source": "Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "A spacecraft has officially launched on a five-year mission to study and retrieve samples from the Martian moons.",
+        "link": "https://www.thehindubusinessline.com/news/science/japan-launches-spacecraft-to-explore-marss-moons-and-bring-back-samples-by-2031/article71603101.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "8e7f5ad663ec",
+     "title": "Tata Trusts files response to Venu Srinivasan, Vijay Singh’s complaints with Charity Commissioner of Maharashtra",
+     "link": "https://www.thehindubusinessline.com/companies/tata-trusts-files-response-to-venu-srinivasan-vijay-singhs-complaints-with-charity-commissioner-of-maharashtra/article71602913.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-19T15:10:26+00:00",
+     "summary": "Tata Trusts has formally denied allegations of misgovernance raised by Venu Srinivasan and Vijay Singh.",
+     "explain": "Tata Trusts is a major philanthropic organization that holds a significant stake in Tata Sons, the holding company for the Tata Group. The 'Charity Commissioner' is a government official who regulates public trusts to ensure they operate transparently and within legal mandates. Governance refers to the rules, practices, and processes by which a company or trust is directed and controlled.",
+     "related": [],
+     "story": {
+      "id": "business-tata-trusts-governance-dispute",
+      "title": "Tata Trusts Governance Dispute",
+      "so_far": "Venu Srinivasan and Vijay Singh, who have been associated with Tata entities, filed complaints alleging governance failures within Tata Trusts. The Charity Commissioner of Maharashtra is currently reviewing the matter to determine if the trust acted in compliance with regulatory standards.",
+      "timeline": [
+       {
+        "date": "2026-10-19",
+        "text": "Tata Trusts filed a legal response with the Charity Commissioner of Maharashtra refuting claims of mismanagement.",
+        "link": "https://www.thehindubusinessline.com/companies/tata-trusts-files-response-to-venu-srinivasan-vijay-singhs-complaints-with-charity-commissioner-of-maharashtra/article71602913.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "2e15decb598e",
+     "title": "Even Healthcare raises $50 mn in Series B round led by Khosla Ventures",
+     "link": "https://www.thehindubusinessline.com/companies/even-healthcare-raises-50-mn-in-series-b-round-led-by-khosla-ventures/article71602824.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-19T14:11:12+00:00",
+     "summary": "Healthcare startup Even Healthcare has secured $50 million in Series B funding led by Khosla Ventures to expand its hospital network.",
+     "explain": "A 'Series B' round is a stage of investment where a company has already proven its business model and is looking for capital to scale operations. Even Healthcare aims to reduce the gap between insurance providers and actual medical care by owning and operating its own hospitals, allowing for a more integrated patient experience.",
+     "related": [],
+     "story": {
+      "id": "business-even-healthcare-expansion-funding",
+      "title": "Even Healthcare Expansion Funding",
+      "so_far": "Even Healthcare is an Indian startup focusing on integrating clinical care with insurance services. This new funding round, led by venture capital firm Khosla Ventures, will facilitate the opening of five new facilities in Bengaluru starting in early 2027.",
+      "timeline": [
+       {
+        "date": "2026-10-19",
+        "text": "The company raised $50 million to open five new hospitals in Bengaluru.",
+        "link": "https://www.thehindubusinessline.com/companies/even-healthcare-raises-50-mn-in-series-b-round-led-by-khosla-ventures/article71602824.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-10-19",
+        "text": "The investment is specifically earmarked for building a network of five hospitals in Bengaluru by early 2027.",
+        "link": "https://www.livemint.com/companies/news/even-healthcare-raises-50-million-khosla-ventures-hospital-expansion-health-insurance-11792374713402.html",
+        "source": "mint - companies"
+       }
+      ]
+     }
+    },
+    {
+     "id": "d2668c741594",
+     "title": "Even Healthcare raises $50 million from Khosla Ventures to expand its hospital network across Bengaluru",
+     "link": "https://www.livemint.com/companies/news/even-healthcare-raises-50-million-khosla-ventures-hospital-expansion-health-insurance-11792374713402.html",
+     "source": "mint - companies",
+     "published": "2026-10-19T08:01:01+00:00",
+     "summary": "Even Healthcare has secured $50 million in Series B funding led by Khosla Ventures to expand its hospital network.",
+     "explain": "By integrating 'care, insurance and prevention,' the company is trying to move away from the traditional fragmented healthcare model where patients deal with separate insurers and hospitals. This 'vertical integration' aims to make healthcare more affordable and efficient by controlling the entire process from insurance coverage to the actual delivery of treatment.",
+     "related": [],
+     "story": {
+      "id": "business-even-healthcare-expansion-funding",
+      "title": "Even Healthcare Expansion Funding",
+      "so_far": "Even Healthcare is an Indian startup focusing on integrating clinical care with insurance services. This new funding round, led by venture capital firm Khosla Ventures, will facilitate the opening of five new facilities in Bengaluru starting in early 2027.",
+      "timeline": [
+       {
+        "date": "2026-10-19",
+        "text": "The company raised $50 million to open five new hospitals in Bengaluru.",
+        "link": "https://www.thehindubusinessline.com/companies/even-healthcare-raises-50-mn-in-series-b-round-led-by-khosla-ventures/article71602824.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-10-19",
+        "text": "The investment is specifically earmarked for building a network of five hospitals in Bengaluru by early 2027.",
+        "link": "https://www.livemint.com/companies/news/even-healthcare-raises-50-million-khosla-ventures-hospital-expansion-health-insurance-11792374713402.html",
+        "source": "mint - companies"
+       }
+      ]
+     }
+    },
+    {
+     "id": "06c0e3f6030d",
+     "title": "Inflows in gold ETFs continue to be net positive for the 13th week in a row",
+     "link": "https://www.thehindubusinessline.com/markets/gold/inflows-in-gold-etfs-continue-to-be-net-positive-for-the-13th-week-in-a-row/article71603284.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-20T04:52:38+00:00",
+     "summary": "Gold ETFs continue to see net inflows for the 13th consecutive week as investors view the metal's price as stable.",
+     "explain": "A 'Gold ETF' is an investment fund that tracks the price of gold and trades on stock exchanges like a regular stock. 'Net inflows' means that more money is coming into these funds from investors than is being taken out. Investors often flock to gold during economic uncertainty because it is historically considered a stable store of value.",
+     "related": [],
+     "story": {
+      "id": "business-gold-etf-investment-trends",
+      "title": "Gold ETF Investment Trends",
+      "so_far": "For the past three months, market sentiment has favored gold as a safe-haven asset. Gold Exchange-Traded Funds (ETFs) allow investors to gain exposure to gold prices without physically owning the metal, and current data shows consistent buying pressure.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "Investors have sustained 13 weeks of positive inflows into gold-backed funds, keeping gold prices stable between $4,000 and $4,200 per ounce.",
+        "link": "https://www.thehindubusinessline.com/markets/gold/inflows-in-gold-etfs-continue-to-be-net-positive-for-the-13th-week-in-a-row/article71603284.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "451d6c8dfaeb",
+     "title": "Trump open to Putin, Xi summit but would focus on nuclear arms",
+     "link": "https://www.thehindubusinessline.com/news/world/trump-open-to-putin-xi-summit-but-would-focus-on-nuclear-arms/article71603257.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-20T04:38:03+00:00",
+     "summary": "President Trump has expressed openness to a summit with Vladimir Putin and Xi Jinping, with a specific focus on nuclear disarmament.",
+     "explain": "A 'summit' is a high-level meeting between heads of state to discuss global issues. The APEC summit is an annual gathering of 21 Pacific Rim member economies intended to promote free trade and economic cooperation. 'Nuclear arms' refers to weapons of mass destruction, and talks regarding them usually aim to prevent proliferation or reduce existing stockpiles.",
+     "related": [],
+     "story": {
+      "id": "business-us-diplomatic-strategy-and-summits",
+      "title": "US Diplomatic Strategy and Summits",
+      "so_far": "Following the recent US election and change in administration, the new executive branch is evaluating its diplomatic stance toward Russia and China. The upcoming APEC (Asia-Pacific Economic Cooperation) summit serves as a primary venue for these high-level international discussions.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "President Trump is planning a visit to China for an APEC summit where potential talks on nuclear arms with world leaders may occur.",
+        "link": "https://www.thehindubusinessline.com/news/world/trump-open-to-putin-xi-summit-but-would-focus-on-nuclear-arms/article71603257.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "7f4b24360982",
+     "title": "Software upgrades eat nearly a third of companies' IT budgets, survey finds",
+     "link": "https://www.thehindubusinessline.com/info-tech/software-upgrades-eat-nearly-a-third-of-companies-it-budgets-survey-finds/article71603241.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-20T04:28:15+00:00",
+     "summary": "A new survey reveals that software upgrades and associated maintenance consume nearly 33% of corporate IT budgets.",
+     "explain": "In this context, the 'software tax' is a metaphorical term for the mandatory, unavoidable costs associated with keeping software current and compatible. When companies spend a large portion of their budget just 'keeping the lights on' or maintaining existing systems, they have less capital available to invest in innovation or new product development.",
+     "related": [],
+     "story": {
+      "id": "business-rising-corporate-it-costs",
+      "title": "Rising Corporate IT Costs",
+      "so_far": "As businesses increasingly rely on digital infrastructure, the operational overhead of maintaining and updating software has become a major line item for CIOs. This trend has prompted concerns about hidden costs and disruption to daily business activities.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "Industry research identifies a 'software tax' where recurring upgrade costs drain nearly one-third of IT budgets for over 2,000 surveyed companies.",
+        "link": "https://www.thehindubusinessline.com/info-tech/software-upgrades-eat-nearly-a-third-of-companies-it-budgets-survey-finds/article71603241.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "0e6767fd47c2",
+     "title": "EAM Jaishankar, US Secretary of State Rubio to hold crucial talks in Mumbai",
+     "link": "https://www.thehindubusinessline.com/news/eam-jaishankar-us-secretary-of-state-rubio-to-hold-crucial-talks-in-mumbai/article71603240.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-20T04:27:47+00:00",
+     "summary": "External Affairs Minister Jaishankar and US Secretary of State Marco Rubio are scheduled to meet in Mumbai to address bilateral tensions.",
+     "explain": "EAM stands for External Affairs Minister, India's equivalent of a Secretary of State. 'Bilateral ties' refers to the relationship between two specific countries. Diplomatic friction describes a state where two countries have disagreements over policy, trade, or international relations that make cooperation difficult.",
+     "related": [],
+     "story": {
+      "id": "business-india-us-diplomatic-relations",
+      "title": "India-US Diplomatic Relations",
+      "so_far": "The relationship between India and the United States has faced recent challenges and disagreements, marking a period of diplomatic friction. This visit represents a significant effort to stabilize or reset ties through direct communication between top officials.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "Secretary of State Rubio is visiting India for high-level talks with EAM Jaishankar amid ongoing diplomatic friction.",
+        "link": "https://www.thehindubusinessline.com/news/eam-jaishankar-us-secretary-of-state-rubio-to-hold-crucial-talks-in-mumbai/article71603240.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "832c6dd29fab",
+     "title": "Sister’s oral gift fails; bro gets father’s land",
+     "link": "https://economictimes.indiatimes.com/wealth/legal/will/sisters-husband-claimed-he-got-his-father-in-laws-land-via-oral-gift-and-sold-it-but-her-brothers-objected-madras-hc-rules-in-brothers-favour-for-this-reason/articleshow/135060653.cms",
+     "source": "Economic Times",
+     "published": "2026-10-20T04:23:27+00:00",
+     "summary": "A court ruling has invalidated a sister’s claim to her father’s property based on an alleged oral gift, favoring the brother instead.",
+     "explain": "An 'oral gift' refers to the transfer of property through a verbal promise rather than a written contract. In many legal systems, particularly concerning immovable property like land, verbal agreements are not legally binding without formal registration, as the law requires written evidence to prevent fraudulent claims of ownership after a parent passes away.",
+     "related": [],
+     "story": {
+      "id": "business-inheritance-law-and-property-disputes",
+      "title": "Inheritance Law and Property Disputes",
+      "so_far": "Property disputes involving family inheritances often hinge on the documentation of gifts. Courts frequently require formal, written, and registered documents to validate the transfer of real estate ownership to prevent fraud or confusion.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "The court ruled that an oral transfer of land is legally insufficient, upholding the brother's claim to the estate.",
+        "link": "https://economictimes.indiatimes.com/wealth/legal/will/sisters-husband-claimed-he-got-his-father-in-laws-land-via-oral-gift-and-sold-it-but-her-brothers-objected-madras-hc-rules-in-brothers-favour-for-this-reason/articleshow/135060653.cms",
+        "source": "Economic Times"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "markets": {
+   "label": "Markets & Crypto",
+   "articles": [
+    {
+     "id": "a6cfcd1fdd9f",
+     "title": "Stock Market Holiday 2026: Is stock market closed today for Dussehra? Check remaining holidays for the year",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-2026-is-stock-market-closed-today-for-dussehra-check-remaining-holidays-for-the-year/articleshow/135059981.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-10-20T02:29:59+00:00",
+     "summary": "The Indian stock exchanges are closed today for the Dussehra holiday. Trading will resume on Wednesday, October 21.",
+     "explain": "Stock market holidays are days when trading platforms like the National Stock Exchange (NSE) and Bombay Stock Exchange (BSE) do not process transactions. These closures align with public holidays to maintain consistency with banking operations. Investors cannot buy or sell shares on these dates.",
+     "related": [],
+     "story": {
+      "id": "markets-2026-indian-stock-market-holidays",
+      "title": "2026 Indian Stock Market Holidays",
+      "so_far": "The Indian stock market observes a set calendar of public holidays throughout the year, during which equity, derivative, and currency segments remain suspended. In 2026, 16 such holidays were designated to ensure market closure in observance of major national and religious events.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "The NSE and BSE are closed today for the Dussehra holiday, marking one of 16 scheduled holidays for 2026.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-2026-is-stock-market-closed-today-for-dussehra-check-remaining-holidays-for-the-year/articleshow/135059981.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The NSE and BSE are confirmed to be closed today for Dussehra, with normal operations returning on Wednesday.",
+        "link": "https://www.livemint.com/market/stock-market-news/dussehra-2026-stock-market-holiday-today-or-not-nse-bse-to-remain-open-or-closed-on-20-oct-tuesday-exchange-calendar-11792456900292.html",
+        "source": "mint - markets"
+       }
+      ]
+     }
+    },
+    {
+     "id": "20c0cbe181ed",
+     "title": "Dollar and euro drift, yen slips as markets seek direction",
+     "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-and-euro-drift-yen-slips-as-markets-seek-direction/articleshow/135059705.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-10-20T02:04:00+00:00",
+     "summary": "Global currency markets showed minimal movement as traders looked for clearer economic direction. Major pairs like the euro and British pound remained largely steady.",
+     "explain": "Currency markets, or Forex, involve the trading of global currencies against each other. When markets are 'seeking direction,' it means there is a lack of significant economic news, causing investors to trade cautiously without clear trends. This is common during periods of uncertainty regarding future central bank policies.",
+     "related": [],
+     "story": {
+      "id": "markets-global-currency-market-trends",
+      "title": "Global Currency Market Trends",
+      "so_far": "Currency markets are influenced by global interest rate expectations, inflation data, and geopolitical stability. Investors often monitor these movements to gauge the relative strength of various national economies and central bank policy outlooks.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "The euro and British pound maintained stability against the dollar, while the Australian and New Zealand dollars saw minor gains.",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-and-euro-drift-yen-slips-as-markets-seek-direction/articleshow/135059705.cms",
+        "source": "Markets-Economic Times"
+       }
+      ]
+     }
+    },
+    {
+     "id": "9026a13ef274",
+     "title": "Dussehra 2026: Stock market holiday today or not? NSE, BSE to remain open or closed on 20 Oct Tuesday? Exchange calendar",
+     "link": "https://www.livemint.com/market/stock-market-news/dussehra-2026-stock-market-holiday-today-or-not-nse-bse-to-remain-open-or-closed-on-20-oct-tuesday-exchange-calendar-11792456900292.html",
+     "source": "mint - markets",
+     "published": "2026-10-20T01:00:05+00:00",
+     "summary": "The Indian stock exchanges are closed today for the Dussehra holiday. Trading will resume on Wednesday, October 21.",
+     "explain": "Stock market holidays are days when trading platforms like the National Stock Exchange (NSE) and Bombay Stock Exchange (BSE) do not process transactions. These closures align with public holidays to maintain consistency with banking operations. Investors cannot buy or sell shares on these dates.",
+     "related": [],
+     "story": {
+      "id": "markets-2026-indian-stock-market-holidays",
+      "title": "2026 Indian Stock Market Holidays",
+      "so_far": "The Indian stock market observes a set calendar of public holidays throughout the year, during which equity, derivative, and currency segments remain suspended. In 2026, 16 such holidays were designated to ensure market closure in observance of major national and religious events.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "The NSE and BSE are closed today for the Dussehra holiday, marking one of 16 scheduled holidays for 2026.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-2026-is-stock-market-closed-today-for-dussehra-check-remaining-holidays-for-the-year/articleshow/135059981.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The NSE and BSE are confirmed to be closed today for Dussehra, with normal operations returning on Wednesday.",
+        "link": "https://www.livemint.com/market/stock-market-news/dussehra-2026-stock-market-holiday-today-or-not-nse-bse-to-remain-open-or-closed-on-20-oct-tuesday-exchange-calendar-11792456900292.html",
+        "source": "mint - markets"
+       }
+      ]
+     }
+    },
+    {
+     "id": "393059ee0a55",
+     "title": "Jio Platforms' IPO draws Rs 2.5 lakh crore in anchor bids",
+     "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-draws-rs-2-5-lakh-crore-in-anchor-bids/articleshow/135059075.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-10-20T00:26:17+00:00",
+     "summary": "Jio Platforms' upcoming IPO has attracted massive interest from global investors, drawing Rs 2.5 lakh crore in anchor bids. Major participants include BlackRock, Fidelity, and the Abu Dhabi Investment Authority.",
+     "explain": "An IPO (Initial Public Offering) is the process where a private company sells shares to the public for the first time. 'Anchor bids' are shares allocated to large institutional investors before the IPO opens to the public, signaling strong institutional confidence in the company's valuation.",
+     "related": [],
+     "story": {
+      "id": "markets-jio-platforms-mega-ipo",
+      "title": "Jio Platforms Mega IPO",
+      "so_far": "Jio Platforms, a subsidiary of Reliance Industries, is launching an IPO to raise funds as it pivots from a pure telecom provider to an integrated technology, cloud, and AI platform. It is poised to become India's largest-ever public offering, aiming for a valuation of Rs 10 lakh crore.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "High-profile global institutional investors have committed Rs 2.5 lakh crore in anchor bids ahead of the public issue opening.",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-draws-rs-2-5-lakh-crore-in-anchor-bids/articleshow/135059075.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The IPO is set to open tomorrow, October 21, with a high grey market premium suggesting strong potential listing gains.",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Reliance is reframing Jio's narrative for investors to emphasize its broad technological reach, spanning cloud, AI, and fixed broadband.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-228-a-gb-to-7-5-how-mukesh-ambanis-jio-rewired-indias-internet-and-is-now-seeking-a-10-lakh-crore-valuation/articleshow/135053274.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Official filings confirm the IPO size as Rs 30,213 crore, establishing it as the largest ever in the Indian market.",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-vs-airtel-shares-which-telecom-giant-offers-greater-valuation-comfort-to-investors/articleshow/135053174.cms",
+        "source": "Markets-Economic Times"
+       }
+      ]
+     }
+    },
+    {
+     "id": "46ca95e4b859",
+     "title": "Jio IPO’s GMP rises to 22% as India’s largest ever issue set to open on October 21. Should you subscribe?",
+     "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-10-20T04:22:31+00:00",
+     "summary": "The Jio IPO, India's largest-ever, opens tomorrow with a price band of Rs 1,065–1,119. Strong market demand is reflected in a 22% grey market premium.",
+     "explain": "The 'grey market premium' (GMP) is the difference between the price a stock is expected to trade at when it hits the stock market and its IPO offer price. While not officially regulated, it is often used by investors as an informal indicator of potential listing day gains.",
+     "related": [],
+     "story": {
+      "id": "markets-jio-platforms-mega-ipo",
+      "title": "Jio Platforms Mega IPO",
+      "so_far": "Jio Platforms, a subsidiary of Reliance Industries, is launching an IPO to raise funds as it pivots from a pure telecom provider to an integrated technology, cloud, and AI platform. It is poised to become India's largest-ever public offering, aiming for a valuation of Rs 10 lakh crore.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "High-profile global institutional investors have committed Rs 2.5 lakh crore in anchor bids ahead of the public issue opening.",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-draws-rs-2-5-lakh-crore-in-anchor-bids/articleshow/135059075.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The IPO is set to open tomorrow, October 21, with a high grey market premium suggesting strong potential listing gains.",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Reliance is reframing Jio's narrative for investors to emphasize its broad technological reach, spanning cloud, AI, and fixed broadband.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-228-a-gb-to-7-5-how-mukesh-ambanis-jio-rewired-indias-internet-and-is-now-seeking-a-10-lakh-crore-valuation/articleshow/135053274.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Official filings confirm the IPO size as Rs 30,213 crore, establishing it as the largest ever in the Indian market.",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-vs-airtel-shares-which-telecom-giant-offers-greater-valuation-comfort-to-investors/articleshow/135053174.cms",
+        "source": "Markets-Economic Times"
+       }
+      ]
+     }
+    },
+    {
+     "id": "582f8843fa51",
+     "title": "Korea’s KOSPI crashes another 5% as AI rout deepens; AI bellwether down over 40% from peak",
+     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-kospi-crashes-another-5-as-ai-rout-deepens-ai-bellwether-down-over-40-from-peak/articleshow/135061021.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-10-20T04:08:50+00:00",
+     "summary": "The South Korean KOSPI index dropped another 5% as the sell-off in AI-related stocks intensified. Major industry players like SK Hynix and Samsung have seen significant valuation declines.",
+     "explain": "A 'market rout' refers to a rapid and significant drop in asset prices across a specific sector or index. In this case, the AI-focused 'bellwether' stocks—companies that act as indicators of the health of their sector—are declining as investors worry that the initial hype surrounding AI may not translate into immediate, sustained profits.",
+     "related": [],
+     "story": {
+      "id": "markets-global-ai-sector-sell-off",
+      "title": "Global AI Sector Sell-off",
+      "so_far": "Global tech markets have recently faced volatility as investor enthusiasm for AI-related infrastructure and chip manufacturing cools. Companies that saw massive growth during the AI boom are now struggling with market corrections and reassessments of their long-term earnings potential.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "South Korean tech stocks experienced sharp declines, with major AI suppliers SK Hynix and Samsung falling heavily amid a broader sector rout.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-kospi-crashes-another-5-as-ai-rout-deepens-ai-bellwether-down-over-40-from-peak/articleshow/135061021.cms",
+        "source": "Markets-Economic Times"
+       }
+      ]
+     }
+    },
+    {
+     "id": "4410ec65283a",
+     "title": "US bans DeepSeek from civilian agency IT systems",
+     "link": "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph.com News",
+     "published": "2026-10-20T04:07:58+00:00",
+     "summary": "The U.S. government has expanded its restrictions on the AI model DeepSeek, banning its use within all civilian federal agency IT systems due to national security concerns.",
+     "explain": "This move is part of the ongoing 'tech cold war' between the U.S. and China. By banning the software in civilian agencies, the U.S. is attempting to mitigate the risk of data exfiltration or foreign surveillance via AI models that may have backdoors or security vulnerabilities.",
+     "related": [],
+     "story": {
+      "id": "markets-us-restrictions-on-deepseek-ai",
+      "title": "US Restrictions on DeepSeek AI",
+      "so_far": "DeepSeek is an artificial intelligence platform originating from China. U.S. officials have expressed concerns that the software could be utilized to compromise sensitive federal data, leading to a systematic policy of restricting its presence in government information technology infrastructure.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "U.S. civilian agencies are now officially prohibited from using DeepSeek, broadening existing defense-sector bans.",
+        "link": "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "89b21002685a",
+     "title": "Up 64% in 6 months already; should you still buy Neogen Chemicals? Antique sees 23% upside potential - Check target",
+     "link": "https://www.livemint.com/market/up-64-in-6-months-already-should-you-still-buy-neogen-chemicals-antique-sees-23-upside-potential-check-target-11792425758466.html",
+     "source": "mint - markets",
+     "published": "2026-10-20T04:05:19+00:00",
+     "summary": "Antique Stock Broking has initiated coverage on Neogen Chemicals with a 'Buy' rating, projecting 23% upside potential based on its growth in the battery chemicals sector.",
+     "explain": "Initiating coverage means a brokerage firm has started providing regular analysis and investment advice on a stock. A 'buy rating' with a target price indicates the analysts believe the stock is undervalued and likely to increase in price over the specified period (usually 12 months) based on fundamental growth.",
+     "related": [],
+     "story": {
+      "id": "markets-neogen-chemicals-market-analysis",
+      "title": "Neogen Chemicals Market Analysis",
+      "so_far": "Neogen Chemicals produces specialty organic chemicals and inorganic chemicals for various industries, including pharmaceuticals and agrochemicals. It has been gaining attention recently as investors look for companies that can benefit from the global shift toward electric vehicle battery manufacturing and supply chain diversification away from China.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "Brokerage firm Antique initiated a buy recommendation, citing the company's expansion into battery chemistry and non-Chinese supply chain opportunities.",
+        "link": "https://www.livemint.com/market/up-64-in-6-months-already-should-you-still-buy-neogen-chemicals-antique-sees-23-upside-potential-check-target-11792425758466.html",
+        "source": "mint - markets"
+       }
+      ]
+     }
+    },
+    {
+     "id": "5eff05d3ca00",
+     "title": "From ₹228 a GB to ₹7.5: How Mukesh Ambani’s Jio rewired India’s internet and is now seeking a ₹10 lakh crore valuation",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-228-a-gb-to-7-5-how-mukesh-ambanis-jio-rewired-indias-internet-and-is-now-seeking-a-10-lakh-crore-valuation/articleshow/135053274.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-10-20T04:00:00+00:00",
+     "summary": "Jio Platforms is positioning itself as a comprehensive technology ecosystem rather than just a telecom operator as it seeks a Rs 10 lakh crore valuation.",
+     "explain": "Valuation is the process of determining the current worth of an asset or company. In this case, by positioning itself as a technology platform rather than a telecom company, Jio is trying to justify a higher valuation multiple, as tech companies often trade at higher price-to-earnings ratios than traditional utility-like telecom providers.",
+     "related": [],
+     "story": {
+      "id": "markets-jio-platforms-mega-ipo",
+      "title": "Jio Platforms Mega IPO",
+      "so_far": "Jio Platforms, a subsidiary of Reliance Industries, is launching an IPO to raise funds as it pivots from a pure telecom provider to an integrated technology, cloud, and AI platform. It is poised to become India's largest-ever public offering, aiming for a valuation of Rs 10 lakh crore.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "High-profile global institutional investors have committed Rs 2.5 lakh crore in anchor bids ahead of the public issue opening.",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-draws-rs-2-5-lakh-crore-in-anchor-bids/articleshow/135059075.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The IPO is set to open tomorrow, October 21, with a high grey market premium suggesting strong potential listing gains.",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Reliance is reframing Jio's narrative for investors to emphasize its broad technological reach, spanning cloud, AI, and fixed broadband.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-228-a-gb-to-7-5-how-mukesh-ambanis-jio-rewired-indias-internet-and-is-now-seeking-a-10-lakh-crore-valuation/articleshow/135053274.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Official filings confirm the IPO size as Rs 30,213 crore, establishing it as the largest ever in the Indian market.",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-vs-airtel-shares-which-telecom-giant-offers-greater-valuation-comfort-to-investors/articleshow/135053174.cms",
+        "source": "Markets-Economic Times"
+       }
+      ]
+     }
+    },
+    {
+     "id": "7e2cbecac83d",
+     "title": "Jio IPO vs Airtel shares: Which telecom giant offers greater valuation comfort to investors?",
+     "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-vs-airtel-shares-which-telecom-giant-offers-greater-valuation-comfort-to-investors/articleshow/135053174.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-10-20T04:00:00+00:00",
+     "summary": "The Jio IPO will be the largest in Indian history at Rs 30,213 crore, topping the 2024 record set by Hyundai Motor India. Investors are weighing the offer against established competitors like Airtel.",
+     "explain": "An IPO involves a fresh issue of shares, where the company creates new stock to raise capital, as opposed to an 'Offer for Sale' where existing shareholders sell their stake. The size of the IPO (Rs 30,213 crore) represents the total capital the company aims to raise from the public market.",
+     "related": [],
+     "story": {
+      "id": "markets-jio-platforms-mega-ipo",
+      "title": "Jio Platforms Mega IPO",
+      "so_far": "Jio Platforms, a subsidiary of Reliance Industries, is launching an IPO to raise funds as it pivots from a pure telecom provider to an integrated technology, cloud, and AI platform. It is poised to become India's largest-ever public offering, aiming for a valuation of Rs 10 lakh crore.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "High-profile global institutional investors have committed Rs 2.5 lakh crore in anchor bids ahead of the public issue opening.",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-draws-rs-2-5-lakh-crore-in-anchor-bids/articleshow/135059075.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The IPO is set to open tomorrow, October 21, with a high grey market premium suggesting strong potential listing gains.",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Reliance is reframing Jio's narrative for investors to emphasize its broad technological reach, spanning cloud, AI, and fixed broadband.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-228-a-gb-to-7-5-how-mukesh-ambanis-jio-rewired-indias-internet-and-is-now-seeking-a-10-lakh-crore-valuation/articleshow/135053274.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Official filings confirm the IPO size as Rs 30,213 crore, establishing it as the largest ever in the Indian market.",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-vs-airtel-shares-which-telecom-giant-offers-greater-valuation-comfort-to-investors/articleshow/135053174.cms",
+        "source": "Markets-Economic Times"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ }
+}
