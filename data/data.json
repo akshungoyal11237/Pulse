@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-20T04:54:24.964724+00:00",
- "prices_generated": "2026-10-20T10:19:14.737257+00:00",
+ "generated": "2026-10-20T10:57:52.270277+00:00",
+ "prices_generated": "2026-10-20T10:57:52.270277+00:00",
  "ai": "gemini",
- "pulse": "Indian markets saw a decline today, likely driven by broader investor caution and negative sentiment following a sharp tech-sector rout in Korea. In the U.S., major indices showed a mixed performance with the Nasdaq gaining, potentially as investors rotate their focus despite ongoing volatility in tech stocks. Meanwhile, oil prices experienced a sharp drop in some benchmarks, and gold continued to attract interest as a steady asset amidst shifting global economic trends.",
+ "pulse": "Indian markets saw a sharp decline today as investors possibly reacted to broad selling pressure despite positive developments regarding trade deals and major corporate IPO interest. In the US, indices showed mixed results with the Nasdaq leading gains as tech optimism grew following strong corporate earnings reports. Meanwhile, cryptocurrency prices retreated slightly as traders sought protection, while crude oil prices experienced volatile swings amid ongoing geopolitical focus.",
  "ticker_strip": [
   "^NSEI",
   "^BSESN",
@@ -244,10 +244,10 @@
   "BTC-USD": {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 81485.7812,
-   "change": -367.7578,
-   "pct": -0.45,
-   "pct_1m": 0.42,
+   "price": 81449.9922,
+   "change": -403.5469,
+   "pct": -0.49,
+   "pct_1m": 0.38,
    "spark": [
     81142.6094,
     86602.9141,
@@ -279,17 +279,17 @@
     81382.1484,
     82017.6016,
     81853.5391,
-    81485.7812
+    81449.9922
    ],
    "asof": "2026-10-20"
   },
   "ETH-USD": {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 2385.23,
-   "change": -19.5852,
-   "pct": -0.81,
-   "pct_1m": -9.75,
+   "price": 2384.0601,
+   "change": -20.7551,
+   "pct": -0.86,
+   "pct_1m": -9.8,
    "spark": [
     2642.9976,
     2776.4683,
@@ -321,17 +321,17 @@
     2399.7991,
     2408.7415,
     2404.8152,
-    2385.23
+    2384.0601
    ],
    "asof": "2026-10-20"
   },
   "SOL-USD": {
    "symbol": "SOL-USD",
    "name": "Solana",
-   "price": 104.08,
-   "change": -0.8462,
-   "pct": -0.81,
-   "pct_1m": -6.35,
+   "price": 104.14,
+   "change": -0.7862,
+   "pct": -0.75,
+   "pct_1m": -6.29,
    "spark": [
     111.1329,
     118.7501,
@@ -363,7 +363,7 @@
     103.3119,
     104.0247,
     104.9262,
-    104.08
+    104.14
    ],
    "asof": "2026-10-20"
   },
@@ -436,10 +436,10 @@
   "EURUSD=X": {
    "symbol": "EURUSD=X",
    "name": "EUR/USD",
-   "price": 1.1217,
-   "change": -0.0008,
-   "pct": -0.08,
-   "pct_1m": -2.29,
+   "price": 1.1211,
+   "change": -0.0015,
+   "pct": -0.13,
+   "pct_1m": -2.34,
    "spark": [
     1.148,
     1.1465,
@@ -462,7 +462,7 @@
     1.1195,
     1.1213,
     1.1225,
-    1.1217
+    1.1211
    ],
    "asof": "2026-10-20"
   },
@@ -502,10 +502,10 @@
   "GC=F": {
    "symbol": "GC=F",
    "name": "Gold",
-   "price": 4131.2002,
-   "change": -28.8999,
-   "pct": -0.69,
-   "pct_1m": -5.76,
+   "price": 4140.0,
+   "change": -20.1001,
+   "pct": -0.48,
+   "pct_1m": -5.56,
    "spark": [
     4383.8999,
     4376.3999,
@@ -528,17 +528,17 @@
     4170.1001,
     4181.1001,
     4160.1001,
-    4131.2002
+    4140.0
    ],
    "asof": "2026-10-20"
   },
   "SI=F": {
    "symbol": "SI=F",
    "name": "Silver",
-   "price": 57.235,
-   "change": 0.261,
-   "pct": 0.46,
-   "pct_1m": -13.05,
+   "price": 57.32,
+   "change": 0.346,
+   "pct": 0.61,
+   "pct_1m": -12.92,
    "spark": [
     65.825,
     65.932,
@@ -561,17 +561,17 @@
     56.837,
     56.995,
     56.974,
-    57.235
+    57.32
    ],
    "asof": "2026-10-20"
   },
   "CL=F": {
    "symbol": "CL=F",
    "name": "WTI Crude",
-   "price": 100.6,
-   "change": -3.06,
-   "pct": -2.95,
-   "pct_1m": 5.03,
+   "price": 100.69,
+   "change": -2.97,
+   "pct": -2.87,
+   "pct_1m": 5.13,
    "spark": [
     95.78,
     94.59,
@@ -594,17 +594,17 @@
     97.97,
     101.41,
     103.66,
-    100.6
+    100.69
    ],
    "asof": "2026-10-20"
   },
   "BZ=F": {
    "symbol": "BZ=F",
    "name": "Brent Crude",
-   "price": 111.19,
-   "change": 1.64,
-   "pct": 1.5,
-   "pct_1m": 10.81,
+   "price": 111.46,
+   "change": 1.91,
+   "pct": 1.74,
+   "pct_1m": 11.08,
    "spark": [
     100.34,
     99.25,
@@ -627,7 +627,7 @@
     105.92,
     109.86,
     109.55,
-    111.19
+    111.46
    ],
    "asof": "2026-10-20"
   },
@@ -941,214 +941,240 @@
    "label": "India",
    "articles": [
     {
-     "id": "19eb396d5f1a",
-     "title": "Allahabad High Court stays conviction of murder convict who wishes to contest 2027 U.P. polls",
-     "link": "https://www.thehindu.com/elections/uttar-pradesh-assembly/allahabad-high-court-stays-conviction-of-murder-convict-who-wishes-to-contest-2027-up-polls/article71603091.ece",
+     "id": "381a7799deff",
+     "title": "Amit Shah meets slain anti-drug activist Parvinder Singh Jhota’s family in Punjab’s Mansa",
+     "link": "https://www.thehindu.com/news/national/punjab/amit-shah-punjab-visit-parvinder-singh-jhota-murder-case/article71603773.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-19T20:57:52+00:00",
-     "summary": "The Allahabad High Court has stayed the conviction of a murder convict who is also a political worker for the BJP. This decision grants him bail, potentially allowing him to participate in the 2027 Uttar Pradesh assembly elections.",
-     "explain": "A stay of conviction suspends the legal consequences of a guilty verdict, such as disqualification from holding office. This happens when a higher court finds that not doing so would cause irreparable harm to the accused, though it does not mean the person is acquitted or proven innocent.",
+     "published": "2026-10-20T10:41:08+00:00",
+     "summary": "Union Home Minister Amit Shah visited the family of Parvinder Singh Jhota, an anti-drug activist murdered in Punjab. The state government has transferred the investigation to the Central Bureau of Investigation (CBI).",
+     "explain": "This involves a high-profile criminal investigation involving a murdered activist. The CBI is India's premier federal investigative agency, often brought in to handle sensitive cases to ensure impartiality. This matters because it highlights the political tension surrounding the drug crisis in Punjab.",
      "related": [],
      "story": {
-      "id": "india-legal-relief-for-political-convicts",
-      "title": "Legal Relief for Political Convicts",
-      "so_far": "In India, Section 8 of the Representation of the People Act generally disqualifies convicted individuals from contesting elections. Courts may grant a stay on a conviction in exceptional circumstances to prevent irreversible damage to a candidate's political career, effectively suspending the disqualification until the appeal process is complete.",
-      "timeline": [
-       {
-        "date": "2026-10-19",
-        "text": "The court stayed a conviction for a murder case, citing the individual's political background and intent to contest upcoming elections.",
-        "link": "https://www.thehindu.com/elections/uttar-pradesh-assembly/allahabad-high-court-stays-conviction-of-murder-convict-who-wishes-to-contest-2027-up-polls/article71603091.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "4305e2e7d3c3",
-     "title": "Naveen Patnaik Slams \"Silence\" On Andhra Poll Notice In 3 Disputed Villages",
-     "link": "https://www.ndtv.com/india-news/naveen-patnaik-slams-silence-on-andhra-poll-notice-in-3-disputed-villages-12208236#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-10-19T17:59:32+00:00",
-     "summary": "Former Odisha CM Naveen Patnaik is questioning the state government's lack of action regarding Andhra Pradesh's decision to conduct elections in disputed border villages.",
-     "explain": "This is a territorial dispute where two states claim the same land for governance, taxation, and electoral purposes. Conducting elections in contested regions is often used as a political assertion of sovereignty, making it a high-stakes issue for state governments.",
-     "related": [],
-     "story": {
-      "id": "india-odisha-andhra-pradesh-border-dispute",
-      "title": "Odisha-Andhra Pradesh Border Dispute",
-      "so_far": "The border dispute between Odisha and Andhra Pradesh involves 21 of the 28 villages in the Kotia Gram Panchayat, which both states claim as part of their territory. A legal battle has been ongoing in the Supreme Court since January 2022 to resolve the jurisdictional ownership of these border areas.",
-      "timeline": [
-       {
-        "date": "2026-10-19",
-        "text": "Naveen Patnaik has criticized the Odisha government for remaining silent on Andhra Pradesh's recent poll notification for villages in the contested Kotia region.",
-        "link": "https://www.ndtv.com/india-news/naveen-patnaik-slams-silence-on-andhra-poll-notice-in-3-disputed-villages-12208236#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-10-19",
-        "text": "Patnaik highlighted that the decades-old dispute involves competing claims by both states over 21 villages in Kotia.",
-        "link": "https://www.thehindu.com/news/national/odisha/naveen-patnaik-questions-odisha-governments-silence-on-andhras-poll-notification-for-disputed-kotia-villages/article71603050.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "3ff0e3ecc170",
-     "title": "Naveen Patnaik questions Odisha government’s 'silence' on Andhra's poll notification for disputed Kotia villages",
-     "link": "https://www.thehindu.com/news/national/odisha/naveen-patnaik-questions-odisha-governments-silence-on-andhras-poll-notification-for-disputed-kotia-villages/article71603050.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-19T17:28:21+00:00",
-     "summary": "Naveen Patnaik is pressuring the Odisha administration over its silence on Andhra Pradesh's electoral activity in the disputed Kotia villages.",
-     "explain": "See previous entry.",
-     "related": [],
-     "story": {
-      "id": "india-odisha-andhra-pradesh-border-dispute",
-      "title": "Odisha-Andhra Pradesh Border Dispute",
-      "so_far": "The border dispute between Odisha and Andhra Pradesh involves 21 of the 28 villages in the Kotia Gram Panchayat, which both states claim as part of their territory. A legal battle has been ongoing in the Supreme Court since January 2022 to resolve the jurisdictional ownership of these border areas.",
-      "timeline": [
-       {
-        "date": "2026-10-19",
-        "text": "Naveen Patnaik has criticized the Odisha government for remaining silent on Andhra Pradesh's recent poll notification for villages in the contested Kotia region.",
-        "link": "https://www.ndtv.com/india-news/naveen-patnaik-slams-silence-on-andhra-poll-notice-in-3-disputed-villages-12208236#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-10-19",
-        "text": "Patnaik highlighted that the decades-old dispute involves competing claims by both states over 21 villages in Kotia.",
-        "link": "https://www.thehindu.com/news/national/odisha/naveen-patnaik-questions-odisha-governments-silence-on-andhras-poll-notification-for-disputed-kotia-villages/article71603050.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "5831d09d8cd3",
-     "title": "JEE Main Registration 2027 LIVE: Application Form, Key Instructions, Exam Dates, Guidelines",
-     "link": "https://www.ndtv.com/education/jee-main-registration-2027-live-updates-application-form-key-instructions-exam-dates-guidelines-12209061#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-10-20T03:53:19+00:00",
-     "summary": "The registration process for the 2027 JEE Main, a critical entrance exam for engineering colleges in India, is currently underway.",
-     "explain": "JEE Main is the first stage of the Joint Entrance Examination. It is essential for students in India aspiring to study engineering, as success here is the primary qualification for top-tier college admissions.",
-     "related": [],
-     "story": {
-      "id": "india-2027-jee-main-admissions-process",
-      "title": "2027 JEE Main Admissions Process",
-      "so_far": "JEE Main is the primary gateway for admission into premier engineering institutes like the National Institutes of Technology (NITs) and other centrally funded technical institutions. It is a highly competitive, standardized, multi-session exam conducted annually.",
+      "id": "india-crime-and-investigation-reports",
+      "title": "Crime and Investigation Reports",
+      "so_far": "Public safety incidents involving celebrities in Mumbai frequently trigger immediate political attention and rapid deployment of elite police units due to the high profile of the victims and the risk to the city's reputation.",
       "timeline": [
        {
         "date": "2026-10-20",
-        "text": "The National Testing Agency has begun the registration process and is preparing to release the official information bulletin for candidates.",
-        "link": "https://www.ndtv.com/education/jee-main-registration-2027-live-updates-application-form-key-instructions-exam-dates-guidelines-12209061#publisher=newsstand",
+        "text": "Authorities uncovered that the wife hired a painter with whom she was having an affair to commit the murder due to ongoing domestic conflicts.",
+        "link": "https://www.ndtv.com/india-news/karnataka-woman-falls-for-painter-together-plot-husbands-murder-12208218#publisher=newsstand",
         "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Authorities arrested three suspects in Rajasthan's Kota, with one found to be working for the taxi-service app Rapido.",
+        "link": "https://www.ndtv.com/india-news/tiger-shroff-shooter-works-with-rapido-taxi-app-shares-his-work-status-12207440#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The murder case of anti-drug activist Parvinder Singh Jhota has been handed over to the CBI following a visit by the Union Home Minister.",
+        "link": "https://www.thehindu.com/news/national/punjab/amit-shah-punjab-visit-parvinder-singh-jhota-murder-case/article71603773.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Amit Shah has personally engaged with the family of a murdered activist, underscoring the political significance of the drug issue in Punjab.",
+        "link": "https://www.ndtv.com/india-news/amit-shah-meets-family-of-bikramjit-singh-killed-over-anti-drug-campaign-12210088#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Three suspects involved in the shooting targeting Tiger Shroff have been arrested and are linked to possible organized crime groups.",
+        "link": "https://www.thehindu.com/news/national/maharashtra/bollywood-tiger-shroff-attack-case-on-october-20-2026/article71603475.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The legal resolution of the long-standing Gulshan Kumar murder case continues with this High Court ruling.",
+        "link": "https://www.thehindu.com/news/cities/mumbai/gulshan-kumar-murder-case-bombay-hc-upholds-acquittal-of-producer-ramesh-taurani-confirms-conviction-of-one-accused/article61447838.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "A major investigation is underway following a direct threat and shooting incident targeting a celebrity in Mumbai.",
+        "link": "https://www.thehindu.com/news/cities/mumbai/tiger-shroff-firing-in-mumbai-juhu-october-18-2026/article71600449.ece",
+        "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "c260c7c46261",
-     "title": "NIOS Reopens Registration Portal For 6-Month Bridge Course On October 21 In Primary Teacher Education",
-     "link": "https://www.ndtv.com/education/nios-reopens-registration-portal-for-6-month-bridge-course-on-october-21-in-primary-teacher-education-12209092#publisher=newsstand",
+     "id": "7e7beec602a7",
+     "title": "Amit Shah Meets Family Of Punjab Man Killed Over Anti-Drug Campaign",
+     "link": "https://www.ndtv.com/india-news/amit-shah-meets-family-of-bikramjit-singh-killed-over-anti-drug-campaign-12210088#publisher=newsstand",
      "source": "NDTV News Search Records Found 1000",
-     "published": "2026-10-20T03:50:44+00:00",
-     "summary": "The National Institute of Open Schooling (NIOS) has reopened registration for its bridge course for primary teachers.",
-     "explain": "A bridge course is a supplementary educational program designed to bridge the gap between a student's existing qualifications and the requirements of a new academic or professional standard.",
+     "published": "2026-10-20T09:38:12+00:00",
+     "summary": "Union Home Minister Amit Shah met with the family of Parvinder Singh Jhota, who was killed for his anti-drug activism in Punjab.",
+     "explain": "When federal leaders intervene in local criminal cases, it signifies that the event has reached a level of national importance. In this context, it reflects ongoing concerns about public safety and the influence of illicit drug networks.",
      "related": [],
      "story": {
-      "id": "india-nios-teacher-education-updates",
-      "title": "NIOS Teacher Education Updates",
-      "so_far": "NIOS provides distance learning and specialized training programs for educators to meet national teaching standards. These bridge courses are designed to upgrade the qualifications of primary teachers to meet government certification requirements.",
+      "id": "india-crime-and-investigation-reports",
+      "title": "Crime and Investigation Reports",
+      "so_far": "Public safety incidents involving celebrities in Mumbai frequently trigger immediate political attention and rapid deployment of elite police units due to the high profile of the victims and the risk to the city's reputation.",
       "timeline": [
        {
         "date": "2026-10-20",
-        "text": "Registration has reopened for a limited window, closing definitively on October 28, 2026.",
-        "link": "https://www.ndtv.com/education/nios-reopens-registration-portal-for-6-month-bridge-course-on-october-21-in-primary-teacher-education-12209092#publisher=newsstand",
+        "text": "Authorities uncovered that the wife hired a painter with whom she was having an affair to commit the murder due to ongoing domestic conflicts.",
+        "link": "https://www.ndtv.com/india-news/karnataka-woman-falls-for-painter-together-plot-husbands-murder-12208218#publisher=newsstand",
         "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Authorities arrested three suspects in Rajasthan's Kota, with one found to be working for the taxi-service app Rapido.",
+        "link": "https://www.ndtv.com/india-news/tiger-shroff-shooter-works-with-rapido-taxi-app-shares-his-work-status-12207440#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The murder case of anti-drug activist Parvinder Singh Jhota has been handed over to the CBI following a visit by the Union Home Minister.",
+        "link": "https://www.thehindu.com/news/national/punjab/amit-shah-punjab-visit-parvinder-singh-jhota-murder-case/article71603773.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Amit Shah has personally engaged with the family of a murdered activist, underscoring the political significance of the drug issue in Punjab.",
+        "link": "https://www.ndtv.com/india-news/amit-shah-meets-family-of-bikramjit-singh-killed-over-anti-drug-campaign-12210088#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Three suspects involved in the shooting targeting Tiger Shroff have been arrested and are linked to possible organized crime groups.",
+        "link": "https://www.thehindu.com/news/national/maharashtra/bollywood-tiger-shroff-attack-case-on-october-20-2026/article71603475.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The legal resolution of the long-standing Gulshan Kumar murder case continues with this High Court ruling.",
+        "link": "https://www.thehindu.com/news/cities/mumbai/gulshan-kumar-murder-case-bombay-hc-upholds-acquittal-of-producer-ramesh-taurani-confirms-conviction-of-one-accused/article61447838.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "A major investigation is underway following a direct threat and shooting incident targeting a celebrity in Mumbai.",
+        "link": "https://www.thehindu.com/news/cities/mumbai/tiger-shroff-firing-in-mumbai-juhu-october-18-2026/article71600449.ece",
+        "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "471494650a80",
-     "title": "NDA 'Joining Bonus' For Yusuf Pathan? A 'Plot' Twist In Long Legal Battle",
-     "link": "https://www.ndtv.com/india-news/vadodara-land-row-nda-joining-bonus-for-yusuf-pathan-a-plot-twist-in-long-legal-battle-12209050#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-10-20T03:46:24+00:00",
-     "summary": "Political reports suggest a potential shift in allegiances for Yusuf Pathan and a group of former Trinamool Congress (TMC) Members of Parliament.",
-     "explain": "The 'rebellion' here refers to a group of politicians openly opposing their party leadership. 'Joining bonus' is journalistic shorthand for the incentives or political support a politician might receive when switching parties.",
+     "id": "11868e665feb",
+     "title": "Calcutta HC says inquiry commission headed by retired judge be appointed into Chorbagan stampede",
+     "link": "https://www.thehindu.com/news/cities/kolkata/calcutta-hc-says-inquiry-commission-headed-by-retired-judge-be-appointed-into-chorbagan-stampede/article71604052.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-20T10:52:27+00:00",
+     "summary": "The Calcutta High Court ordered a judicial inquiry into the Chorbagan stampede, stipulating that it must be headed by a retired judge rather than a sitting one.",
+     "explain": "A judicial inquiry is an official investigation conducted by members of the judiciary into matters of public concern. The High Court's insistence on a retired judge is a procedural safeguard meant to ensure that the investigation remains independent and free from executive government pressure.",
+     "related": [],
+     "story": {
+      "id": "india-calcutta-high-court-stampede-inquiry",
+      "title": "Calcutta High Court Stampede Inquiry",
+      "so_far": "Following a deadly stampede in the Chorbagan area, authorities have been debating the structure of a formal investigation. The legal dispute centers on the neutrality and judicial protocols required for such a high-stakes fact-finding commission.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "The court rejected the West Bengal government's proposal for a sitting judge to lead the inquiry, citing Supreme Court directives.",
+        "link": "https://www.thehindu.com/news/cities/kolkata/calcutta-hc-says-inquiry-commission-headed-by-retired-judge-be-appointed-into-chorbagan-stampede/article71604052.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "2d8675ba941f",
+     "title": "Encroachment on 638 hectares of land cleared in eviction drives in 3 districts: Assam CM",
+     "link": "https://www.thehindu.com/news/national/assam/encroachment-on-638-hectares-of-land-cleared-in-eviction-drives-in-3-districts-assam-cm/article71604198.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-20T10:52:14+00:00",
+     "summary": "Assam Chief Minister Himanta Biswa Sarma announced the clearance of 638 hectares of encroached land during recent eviction drives across three districts.",
+     "explain": "Land encroachment occurs when someone occupies property that does not belong to them. These state-led eviction drives are often politically and socially charged, as they involve the displacement of residents, some of whom may have lived on the land for years despite lacking formal legal titles.",
+     "related": [],
+     "story": {
+      "id": "india-assam-land-encroachment-drives",
+      "title": "Assam Land Encroachment Drives",
+      "so_far": "Assam has been aggressively identifying and clearing government or protected land occupied by unauthorized settlers. These drives are frequently justified by the administration as necessary to preserve state resources and enforce land laws.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "The Assam government has successfully cleared over 600 hectares of land identified as illegally encroached.",
+        "link": "https://www.thehindu.com/news/national/assam/encroachment-on-638-hectares-of-land-cleared-in-eviction-drives-in-3-districts-assam-cm/article71604198.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "7b152ad4839e",
+     "title": "Rubio lands in Mumbai; set to meet Jaishankar today",
+     "link": "https://www.thehindu.com/news/national/marco-rubio-mumbai-visit-october-20-2026/article71603994.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-20T10:47:23+00:00",
+     "summary": "U.S. Senator Marco Rubio arrived in Mumbai and toured the Gateway of India with Maharashtra Chief Minister Devendra Fadnavis.",
+     "explain": "A high-level diplomatic visit is a structured interaction between representatives of different countries to discuss international relations. Meetings with state-level officials like the Chief Minister and federal officials like the Foreign Minister are standard in building strategic alliances.",
+     "related": [],
+     "story": {
+      "id": "india-international-diplomatic-visit-to-india",
+      "title": "International Diplomatic Visit to India",
+      "so_far": "High-profile international visits to India typically involve a mix of tourism and diplomatic engagement aimed at strengthening bilateral ties, particularly in trade, defense, and regional security.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "Marco Rubio has landed in Mumbai to begin a series of high-level meetings, including discussions with External Affairs Minister Jaishankar.",
+        "link": "https://www.thehindu.com/news/national/marco-rubio-mumbai-visit-october-20-2026/article71603994.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b46c13e84740",
+     "title": "Ex-gunman of Veena George will face action for false statement: Keralam Health Minister",
+     "link": "https://www.thehindu.com/news/national/kerala/ex-gunman-of-veena-george-will-face-action-for-false-statement-keralam-health-minister/article71604131.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-20T10:36:59+00:00",
+     "summary": "The Kerala Health Minister stated that action will be taken against a former gunman who allegedly lied to an investigation team under instructions from minister Veena George.",
+     "explain": "This situation involves an investigation into administrative integrity. When an aide admits to lying under the direction of an official, it raises questions about the misuse of power and the reliability of internal government investigations.",
      "related": [],
      "story": {
       "id": "india-political-realignments-and-legal-battles",
       "title": "Political Realignments and Legal Battles",
-      "so_far": "In Indian politics, internal party rebellions are frequent occurrences that often lead to party splits or shifts in legislative majorities. These events are usually marked by complex legal challenges regarding anti-defection laws and party loyalty.",
+      "so_far": "Yusuf Pathan, a former cricketer turned politician, was previously associated with the Trinamool Congress (TMC). His recent political switch highlights the fluidity of legislative loyalties and the impact these moves have on resource allocation and political standing.",
       "timeline": [
        {
         "date": "2026-10-20",
         "text": "Yusuf Pathan and 20 other MPs have reportedly rebelled against the TMC, leading to speculation about their future political affiliations.",
         "link": "https://www.ndtv.com/india-news/vadodara-land-row-nda-joining-bonus-for-yusuf-pathan-a-plot-twist-in-long-legal-battle-12209050#publisher=newsstand",
         "source": "NDTV News Search Records Found 1000"
-       }
-      ]
-     }
-    },
-    {
-     "id": "b9e6a0eea586",
-     "title": "Who Is Vikram Rai, GE Aerospace Executive To Attand NDTV World Summit 2026",
-     "link": "https://www.ndtv.com/world-news/who-is-vikram-rai-ge-aerospace-executive-to-attand-ndtv-world-summit-2026-12205755#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-10-20T03:05:42+00:00",
-     "summary": "Vikram Rai, an experienced GE Aerospace executive, is scheduled to participate in the upcoming NDTV World Summit 2026.",
-     "explain": "This summit acts as a platform for networking and knowledge sharing between leaders from different sectors like defense, aviation, and economics.",
-     "related": [],
-     "story": {
-      "id": "india-ndtv-world-summit-2026",
-      "title": "NDTV World Summit 2026",
-      "so_far": "The NDTV World Summit is a recurring forum where business leaders, policymakers, and industry experts convene to discuss global economic, geopolitical, and industrial trends.",
-      "timeline": [
+       },
        {
         "date": "2026-10-20",
-        "text": "Vikram Rai has been confirmed as a speaker, highlighting his two-decade career in the aerospace industry.",
-        "link": "https://www.ndtv.com/world-news/who-is-vikram-rai-ge-aerospace-executive-to-attand-ndtv-world-summit-2026-12205755#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       }
-      ]
-     }
-    },
-    {
-     "id": "ae845f4d9547",
-     "title": "UPSC Combined Defence Services 2 Result 2026 Out: 8,956 Candidates Qualified, Check Details",
-     "link": "https://www.ndtv.com/education/upsc-combined-defence-services-2-result-2026-out-8-956-candidates-qualified-check-details-12208898#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-10-20T02:23:17+00:00",
-     "summary": "The results for the UPSC Combined Defence Services (CDS) 2 examination held in September 2026 have been released.",
-     "explain": "UPSC is the constitutional body responsible for recruiting officers for the civil services and defense services in India. Passing this exam is the initial step toward commissioned officer training in the armed forces.",
-     "related": [],
-     "story": {
-      "id": "india-upsc-recruitment-results",
-      "title": "UPSC Recruitment Results",
-      "so_far": "The CDS exam is a competitive recruitment test for the Indian Military Academy, Officers Training Academy, Indian Naval Academy, and Indian Air Force Academy. It is conducted twice a year by the Union Public Service Commission (UPSC).",
-      "timeline": [
+        "text": "A security aide has admitted to providing false testimony in an ongoing investigation involving a high-ranking official.",
+        "link": "https://www.thehindu.com/news/national/kerala/ex-gunman-of-veena-george-will-face-action-for-false-statement-keralam-health-minister/article71604131.ece",
+        "source": "India Latest News: Top National Headline"
+       },
        {
         "date": "2026-10-20",
-        "text": "A total of 8,956 candidates have successfully qualified following the offline exam conducted on September 13, 2026.",
-        "link": "https://www.ndtv.com/education/upsc-combined-defence-services-2-result-2026-out-8-956-candidates-qualified-check-details-12208898#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
+        "text": "Yusuf Pathan has received a government land allocation amid his recent transition into the BJP-led NDA fold.",
+        "link": "https://www.thehindu.com/news/national/gujarat/gujarat-govt-gifts-part-of-disputed-vadodara-plot-to-yusuf-pathan/article71604103.ece",
+        "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "386b9a7eeb51",
-     "title": "Woman Gets Husband Killed By Painter-Turned-Lover They Hired For New Home",
-     "link": "https://www.ndtv.com/india-news/karnataka-woman-falls-for-painter-together-plot-husbands-murder-12208218#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-10-20T01:42:59+00:00",
-     "summary": "Police have solved a murder case in which a woman allegedly conspired with a painter to kill her husband.",
-     "explain": "This incident highlights criminal activity driven by domestic disputes. The case is now moving through the standard criminal justice process, involving arrests, evidence collection, and future trial proceedings.",
+     "id": "cf544dee8a23",
+     "title": "Tiger Shroff firing incident: Mumbai Police take custody of three arrested in Kota; Bishnoi gang link under probe",
+     "link": "https://www.thehindu.com/news/national/maharashtra/bollywood-tiger-shroff-attack-case-on-october-20-2026/article71603475.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-20T10:30:04+00:00",
+     "summary": "Mumbai Police have taken three suspects into custody in Kota regarding a firing incident involving actor Tiger Shroff, while investigating links to the Bishnoi gang.",
+     "explain": "The Bishnoi gang is a notorious criminal organization known for extortion and violent crimes. Linking a local shooting to such a gang suggests a more sophisticated level of criminal planning rather than a random act of violence.",
      "related": [],
      "story": {
       "id": "india-crime-and-investigation-reports",
       "title": "Crime and Investigation Reports",
-      "so_far": "These types of domestic crime investigations typically follow a pattern where local police trace digital footprints, financial transactions, or witness testimony to identify suspects hired by a family member to resolve personal or property disputes.",
+      "so_far": "Public safety incidents involving celebrities in Mumbai frequently trigger immediate political attention and rapid deployment of elite police units due to the high profile of the victims and the risk to the city's reputation.",
       "timeline": [
        {
         "date": "2026-10-20",
@@ -1161,23 +1187,88 @@
         "text": "Authorities arrested three suspects in Rajasthan's Kota, with one found to be working for the taxi-service app Rapido.",
         "link": "https://www.ndtv.com/india-news/tiger-shroff-shooter-works-with-rapido-taxi-app-shares-his-work-status-12207440#publisher=newsstand",
         "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The murder case of anti-drug activist Parvinder Singh Jhota has been handed over to the CBI following a visit by the Union Home Minister.",
+        "link": "https://www.thehindu.com/news/national/punjab/amit-shah-punjab-visit-parvinder-singh-jhota-murder-case/article71603773.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Amit Shah has personally engaged with the family of a murdered activist, underscoring the political significance of the drug issue in Punjab.",
+        "link": "https://www.ndtv.com/india-news/amit-shah-meets-family-of-bikramjit-singh-killed-over-anti-drug-campaign-12210088#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Three suspects involved in the shooting targeting Tiger Shroff have been arrested and are linked to possible organized crime groups.",
+        "link": "https://www.thehindu.com/news/national/maharashtra/bollywood-tiger-shroff-attack-case-on-october-20-2026/article71603475.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The legal resolution of the long-standing Gulshan Kumar murder case continues with this High Court ruling.",
+        "link": "https://www.thehindu.com/news/cities/mumbai/gulshan-kumar-murder-case-bombay-hc-upholds-acquittal-of-producer-ramesh-taurani-confirms-conviction-of-one-accused/article61447838.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "A major investigation is underway following a direct threat and shooting incident targeting a celebrity in Mumbai.",
+        "link": "https://www.thehindu.com/news/cities/mumbai/tiger-shroff-firing-in-mumbai-juhu-october-18-2026/article71600449.ece",
+        "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "47ee000b2d93",
-     "title": "Tiger Shroff Shooter Works With Rapido. Taxi App Shares His Work Status",
-     "link": "https://www.ndtv.com/india-news/tiger-shroff-shooter-works-with-rapido-taxi-app-shares-his-work-status-12207440#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-10-20T01:35:03+00:00",
-     "summary": "A suspect allegedly involved in a recent attack related to actor Tiger Shroff has been identified as a delivery worker for the Rapido platform.",
-     "explain": "The investigation involves individuals accused of violent criminal behavior. The mention of the suspect's employment status with a gig-economy app like Rapido often becomes part of public police reports during the tracking and apprehension of suspects.",
+     "id": "2679c30f28da",
+     "title": "Gujarat govt ‘gifts’ part of disputed Vadodara plot to Yusuf Pathan",
+     "link": "https://www.thehindu.com/news/national/gujarat/gujarat-govt-gifts-part-of-disputed-vadodara-plot-to-yusuf-pathan/article71604103.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-20T10:28:39+00:00",
+     "summary": "The Gujarat government has allocated a portion of a disputed plot to MP Yusuf Pathan following his political shift from the TMC to the NDA.",
+     "explain": "This refers to the practice of 'crossing the floor' where a politician changes their party affiliation. Such moves often trigger public scrutiny regarding whether benefits or government decisions are being used as political rewards.",
+     "related": [],
+     "story": {
+      "id": "india-political-realignments-and-legal-battles",
+      "title": "Political Realignments and Legal Battles",
+      "so_far": "Yusuf Pathan, a former cricketer turned politician, was previously associated with the Trinamool Congress (TMC). His recent political switch highlights the fluidity of legislative loyalties and the impact these moves have on resource allocation and political standing.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "Yusuf Pathan and 20 other MPs have reportedly rebelled against the TMC, leading to speculation about their future political affiliations.",
+        "link": "https://www.ndtv.com/india-news/vadodara-land-row-nda-joining-bonus-for-yusuf-pathan-a-plot-twist-in-long-legal-battle-12209050#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "A security aide has admitted to providing false testimony in an ongoing investigation involving a high-ranking official.",
+        "link": "https://www.thehindu.com/news/national/kerala/ex-gunman-of-veena-george-will-face-action-for-false-statement-keralam-health-minister/article71604131.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Yusuf Pathan has received a government land allocation amid his recent transition into the BJP-led NDA fold.",
+        "link": "https://www.thehindu.com/news/national/gujarat/gujarat-govt-gifts-part-of-disputed-vadodara-plot-to-yusuf-pathan/article71604103.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "f04443c33bc4",
+     "title": "HC upholds life term of assailant in Gulshan Kumar murder case",
+     "link": "https://www.thehindu.com/news/cities/mumbai/gulshan-kumar-murder-case-bombay-hc-upholds-acquittal-of-producer-ramesh-taurani-confirms-conviction-of-one-accused/article61447838.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-20T10:27:45+00:00",
+     "summary": "The High Court upheld the life sentence for the main assailant in the 1997 Gulshan Kumar murder case, while also confirming the acquittal of film producer Ramesh Taurani.",
+     "explain": "This is a historic criminal case involving the murder of a major Indian media mogul. Upholding a conviction after many years demonstrates the slow but persistent nature of the Indian judicial system in resolving high-profile cold cases.",
      "related": [],
      "story": {
       "id": "india-crime-and-investigation-reports",
       "title": "Crime and Investigation Reports",
-      "so_far": "These types of domestic crime investigations typically follow a pattern where local police trace digital footprints, financial transactions, or witness testimony to identify suspects hired by a family member to resolve personal or property disputes.",
+      "so_far": "Public safety incidents involving celebrities in Mumbai frequently trigger immediate political attention and rapid deployment of elite police units due to the high profile of the victims and the risk to the city's reputation.",
       "timeline": [
        {
         "date": "2026-10-20",
@@ -1190,6 +1281,95 @@
         "text": "Authorities arrested three suspects in Rajasthan's Kota, with one found to be working for the taxi-service app Rapido.",
         "link": "https://www.ndtv.com/india-news/tiger-shroff-shooter-works-with-rapido-taxi-app-shares-his-work-status-12207440#publisher=newsstand",
         "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The murder case of anti-drug activist Parvinder Singh Jhota has been handed over to the CBI following a visit by the Union Home Minister.",
+        "link": "https://www.thehindu.com/news/national/punjab/amit-shah-punjab-visit-parvinder-singh-jhota-murder-case/article71603773.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Amit Shah has personally engaged with the family of a murdered activist, underscoring the political significance of the drug issue in Punjab.",
+        "link": "https://www.ndtv.com/india-news/amit-shah-meets-family-of-bikramjit-singh-killed-over-anti-drug-campaign-12210088#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Three suspects involved in the shooting targeting Tiger Shroff have been arrested and are linked to possible organized crime groups.",
+        "link": "https://www.thehindu.com/news/national/maharashtra/bollywood-tiger-shroff-attack-case-on-october-20-2026/article71603475.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The legal resolution of the long-standing Gulshan Kumar murder case continues with this High Court ruling.",
+        "link": "https://www.thehindu.com/news/cities/mumbai/gulshan-kumar-murder-case-bombay-hc-upholds-acquittal-of-producer-ramesh-taurani-confirms-conviction-of-one-accused/article61447838.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "A major investigation is underway following a direct threat and shooting incident targeting a celebrity in Mumbai.",
+        "link": "https://www.thehindu.com/news/cities/mumbai/tiger-shroff-firing-in-mumbai-juhu-october-18-2026/article71600449.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "799ed4fe78ac",
+     "title": "Actor Tiger Shroff escapes unhurt in Juhu firing incident; suspect detained",
+     "link": "https://www.thehindu.com/news/cities/mumbai/tiger-shroff-firing-in-mumbai-juhu-october-18-2026/article71600449.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-20T10:26:24+00:00",
+     "summary": "Actor Tiger Shroff was unharmed in a shooting incident in Juhu, leading to a prompt investigation ordered by Deputy Chief Minister Devendra Fadnavis.",
+     "explain": "When government officials intervene in specific criminal cases, they are often attempting to show the public that law and order is being prioritized. These cases involve rapid police action, including the use of special detection units to catch suspects.",
+     "related": [],
+     "story": {
+      "id": "india-crime-and-investigation-reports",
+      "title": "Crime and Investigation Reports",
+      "so_far": "Public safety incidents involving celebrities in Mumbai frequently trigger immediate political attention and rapid deployment of elite police units due to the high profile of the victims and the risk to the city's reputation.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "Authorities uncovered that the wife hired a painter with whom she was having an affair to commit the murder due to ongoing domestic conflicts.",
+        "link": "https://www.ndtv.com/india-news/karnataka-woman-falls-for-painter-together-plot-husbands-murder-12208218#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Authorities arrested three suspects in Rajasthan's Kota, with one found to be working for the taxi-service app Rapido.",
+        "link": "https://www.ndtv.com/india-news/tiger-shroff-shooter-works-with-rapido-taxi-app-shares-his-work-status-12207440#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The murder case of anti-drug activist Parvinder Singh Jhota has been handed over to the CBI following a visit by the Union Home Minister.",
+        "link": "https://www.thehindu.com/news/national/punjab/amit-shah-punjab-visit-parvinder-singh-jhota-murder-case/article71603773.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Amit Shah has personally engaged with the family of a murdered activist, underscoring the political significance of the drug issue in Punjab.",
+        "link": "https://www.ndtv.com/india-news/amit-shah-meets-family-of-bikramjit-singh-killed-over-anti-drug-campaign-12210088#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Three suspects involved in the shooting targeting Tiger Shroff have been arrested and are linked to possible organized crime groups.",
+        "link": "https://www.thehindu.com/news/national/maharashtra/bollywood-tiger-shroff-attack-case-on-october-20-2026/article71603475.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The legal resolution of the long-standing Gulshan Kumar murder case continues with this High Court ruling.",
+        "link": "https://www.thehindu.com/news/cities/mumbai/gulshan-kumar-murder-case-bombay-hc-upholds-acquittal-of-producer-ramesh-taurani-confirms-conviction-of-one-accused/article61447838.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "A major investigation is underway following a direct threat and shooting incident targeting a celebrity in Mumbai.",
+        "link": "https://www.thehindu.com/news/cities/mumbai/tiger-shroff-firing-in-mumbai-juhu-october-18-2026/article71600449.ece",
+        "source": "India Latest News: Top National Headline"
        }
       ]
      }
@@ -1199,6 +1379,64 @@
   "world": {
    "label": "World",
    "articles": [
+    {
+     "id": "0b15ddc31dd3",
+     "title": "Albertans reject referendum on independence from Canada",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-alberta-referendum-vote-sv?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-10-20T09:42:04+00:00",
+     "summary": "Voters in the Canadian province of Alberta have decisively rejected a proposal to seek independence from Canada.",
+     "explain": "Alberta is a province in Canada known for its significant oil and gas reserves. Some groups in the province have historically felt that the federal government in Ottawa imposes regulations that hinder the local economy, leading to calls for sovereignty. The referendum is a direct vote by citizens to decide whether the province should initiate a formal process to leave Canada.",
+     "related": [],
+     "story": {
+      "id": "world-alberta-rejects-independence-referendum",
+      "title": "Alberta Rejects Independence Referendum",
+      "so_far": "Alberta, an energy-rich province in Western Canada, has periodically seen political movements advocating for greater autonomy or outright independence. This referendum was initiated to gauge public support for separating from the Canadian federation, driven by long-standing grievances over federal economic and environmental policies.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "The referendum on independence was officially defeated, with approximately 76% of voters choosing to remain part of Canada.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-alberta-referendum-vote-sv?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Finalized count results show 76% of participants voted against separation, while only 23% supported starting the process.",
+        "link": "https://www.thehindu.com/news/international/alberta-referendum-voters-reject-separatism/article71603617.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "961c0c3ac3f7",
+     "title": "Alberta voters reject separation from Canada in referendum",
+     "link": "https://www.thehindu.com/news/international/alberta-referendum-voters-reject-separatism/article71603617.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-10-20T08:02:16+00:00",
+     "summary": "Official vote counts confirm that 76% of Alberta voters oppose separation, effectively ending the independence movement's current push.",
+     "explain": "Referendums are tools of direct democracy where citizens vote on a specific policy proposal rather than for a representative. By a wide margin, Albertans have signaled they prefer to remain under the Canadian government, effectively settling the immediate debate on whether to pursue secession.",
+     "related": [],
+     "story": {
+      "id": "world-alberta-rejects-independence-referendum",
+      "title": "Alberta Rejects Independence Referendum",
+      "so_far": "Alberta, an energy-rich province in Western Canada, has periodically seen political movements advocating for greater autonomy or outright independence. This referendum was initiated to gauge public support for separating from the Canadian federation, driven by long-standing grievances over federal economic and environmental policies.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "The referendum on independence was officially defeated, with approximately 76% of voters choosing to remain part of Canada.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-alberta-referendum-vote-sv?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Finalized count results show 76% of participants voted against separation, while only 23% supported starting the process.",
+        "link": "https://www.thehindu.com/news/international/alberta-referendum-voters-reject-separatism/article71603617.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
     {
      "id": "c37e4d5898dc",
      "title": "Japan launches historic mission to bring back Mars moon samples",
@@ -1223,207 +1461,161 @@
      }
     },
     {
-     "id": "b9ec69a574d9",
-     "title": "Gold mine collapse kills at least 14 in southwest Colombia",
-     "link": "https://www.thehindu.com/news/international/gold-mine-collapse-in-colombias-narino-province/article71603089.ece",
+     "id": "5b9f587c9529",
+     "title": "Zelenskyy says spoke to Rubio over Starlink, Starshield issues",
+     "link": "https://www.thehindu.com/news/international/zelenskyy-says-spoke-to-rubio-over-starlink-starshield-issues/article71604158.ece",
      "source": "World News: Latest International News & ",
-     "published": "2026-10-20T02:01:30+00:00",
-     "summary": "At least 14 people died following the collapse of an illegal gold mine in the Nariño province of Colombia.",
-     "explain": "Illegal mining happens when workers extract minerals like gold without government licenses or environmental oversight. Because these operations avoid regulation, they rarely implement safety measures like proper ventilation or structural supports, leading to high risks of fatal accidents like collapses.",
+     "published": "2026-10-20T10:52:07+00:00",
+     "summary": "Ukrainian President Zelenskyy confirmed discussions with U.S. officials regarding Starshield and Starlink satellite systems.",
+     "explain": "Starlink provides satellite-based internet access, which is vital in war zones where traditional infrastructure is destroyed. Starshield is the military-grade equivalent, allowing the U.S. government to control data and operations to ensure security. The distinction is important because international laws and commercial agreements limit how these technologies can be used in active combat.",
      "related": [],
      "story": {
-      "id": "world-colombia-gold-mine-collapse",
-      "title": "Colombia Gold Mine Collapse",
-      "so_far": "Illegal mining is a persistent issue in Colombia, often conducted in remote, unregulated, and dangerous conditions. These sites frequently lack the safety infrastructure required to prevent cave-ins, putting workers at significant risk.",
+      "id": "world-ukraine-satellite-communication-access",
+      "title": "Ukraine Satellite Communication Access",
+      "so_far": "SpaceX’s Starlink, founded by Elon Musk, has been crucial for civilian and humanitarian connectivity in Ukraine since the Russian invasion began. Starshield is a military-focused version of the same satellite technology, managed directly by the U.S. government.",
       "timeline": [
        {
         "date": "2026-10-20",
-        "text": "A collapse at an illegal mining site in Nariño province has resulted in 14 confirmed fatalities.",
-        "link": "https://www.thehindu.com/news/international/gold-mine-collapse-in-colombias-narino-province/article71603089.ece",
+        "text": "President Zelenskyy held talks regarding the use of Starshield and Starlink technology amidst the ongoing war with Russia.",
+        "link": "https://www.thehindu.com/news/international/zelenskyy-says-spoke-to-rubio-over-starlink-starshield-issues/article71604158.ece",
         "source": "World News: Latest International News & "
        }
       ]
      }
     },
     {
-     "id": "a7c2627032a4",
-     "title": "Exiled critic of Rwandan president found beheaded in Uganda",
-     "link": "https://www.aljazeera.com/news/2026/10/20/exiled-critic-of-rwandan-president-found-beheaded-in-uganda?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-20T00:06:00+00:00",
-     "summary": "A critic of the Rwandan government living in exile has been found beheaded in Uganda.",
-     "explain": "Being an 'exile' means the person was forced to leave their home country, usually due to political persecution. The discovery of a body in a neighboring country under suspicious circumstances creates international tension, as the victim was a vocal opponent of their home government.",
+     "id": "7b152ad4839e",
+     "title": "Rubio lands in Mumbai; set to meet Jaishankar today",
+     "link": "https://www.thehindu.com/news/national/marco-rubio-mumbai-visit-october-20-2026/article71603994.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-10-20T10:47:23+00:00",
+     "summary": "U.S. Senator Marco Rubio arrived in Mumbai and toured the Gateway of India with Maharashtra Chief Minister Devendra Fadnavis.",
+     "explain": "A high-level diplomatic visit is a structured interaction between representatives of different countries to discuss international relations. Meetings with state-level officials like the Chief Minister and federal officials like the Foreign Minister are standard in building strategic alliances.",
      "related": [],
      "story": {
-      "id": "world-rwandan-exile-found-dead",
-      "title": "Rwandan Exile Found Dead",
-      "so_far": "Relations between Rwanda and its neighbors have often been tense regarding the presence of political dissidents living in exile. This incident follows a pattern of high-profile cases involving the deaths or disappearances of critics of the Rwandan administration.",
+      "id": "india-international-diplomatic-visit-to-india",
+      "title": "International Diplomatic Visit to India",
+      "so_far": "High-profile international visits to India typically involve a mix of tourism and diplomatic engagement aimed at strengthening bilateral ties, particularly in trade, defense, and regional security.",
       "timeline": [
        {
         "date": "2026-10-20",
-        "text": "Police in Uganda discovered the beheaded body of a Rwandan political critic near Kampala.",
-        "link": "https://www.aljazeera.com/news/2026/10/20/exiled-critic-of-rwandan-president-found-beheaded-in-uganda?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
+        "text": "Marco Rubio has landed in Mumbai to begin a series of high-level meetings, including discussions with External Affairs Minister Jaishankar.",
+        "link": "https://www.thehindu.com/news/national/marco-rubio-mumbai-visit-october-20-2026/article71603994.ece",
+        "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "fa12b3b5040e",
-     "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-     "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-10-19T21:12:30+00:00",
-     "summary": "New court filings allege that a former OpenAI employee accused of planting a device had support from the Saudi government.",
-     "explain": "OpenAI is a leading artificial intelligence company. Planting a device inside such a firm implies an attempt to steal proprietary technology or sensitive data. Allegations of foreign government involvement escalate this from a standard corporate security issue to a potential national security concern.",
-     "related": [],
-     "story": {
-      "id": "world-openai-employee-security-breach",
-      "title": "OpenAI Employee Security Breach",
-      "so_far": "This case involves an investigation into an ex-employee, Abdulrahman Alfozan, who allegedly attempted to compromise OpenAI's internal security. The new disclosures link the defendant directly to foreign government entities.",
-      "timeline": [
-       {
-        "date": "2026-10-19",
-        "text": "Court documents suggest that Abdulrahman Alfozan, accused of planting a device at OpenAI, received assistance from Saudi military and royal family connections.",
-        "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "97352bc171e1",
-     "title": "Ex-OpenAI employee accused of planting device appears to have Saudi backing, court filing shows",
-     "link": "https://www.thehindu.com/news/international/ex-openai-employee-accused-of-planting-device-appears-to-have-saudi-backing-court-filing-shows/article71602972.ece",
+     "id": "4cb6d76bea63",
+     "title": "Death toll rises to 60 in Houthi strike on Yemen training camp in deadliest attack in months",
+     "link": "https://www.thehindu.com/news/international/death-toll-rises-to-60-in-houthi-strike-on-yemen-training-camp-in-deadliest-attack-in-months/article71604054.ece",
      "source": "World News: Latest International News & ",
-     "published": "2026-10-19T15:51:27+00:00",
-     "summary": "Court filings allege that an ex-OpenAI worker accused of security breaches was in communication with Saudi royalty and received travel support from the Saudi military.",
-     "explain": "Prosecutors are formalizing their case by establishing a motive and a support network. By linking the defendant to a foreign government, the prosecution suggests that the security breach may have been state-sponsored rather than an act of a lone individual.",
+     "published": "2026-10-20T10:43:06+00:00",
+     "summary": "At least 60 people were killed in a Houthi ballistic missile strike on a military training camp in Yemen's Shabwa province.",
+     "explain": "The Houthis are an armed political and religious group that took control of the Yemeni capital, Sanaa, in 2014, triggering the war. A training camp is a facility where recruits are prepared for military duty; striking such a site is a significant escalation of violence in a conflict that has caused widespread death and displacement.",
      "related": [],
      "story": {
-      "id": "world-ex-openai-employee-accused-of-planting-d",
-      "title": "Ex-OpenAI employee accused of planting device appears to have Saudi backing, cou",
-      "so_far": "Court filings allege that an ex-OpenAI worker accused of security breaches was in communication with Saudi royalty and received travel support from the Saudi military.",
+      "id": "world-houthi-strike-on-yemeni-camp",
+      "title": "Houthi Strike on Yemeni Camp",
+      "so_far": "Yemen has been embroiled in a prolonged civil war involving the Houthi rebel movement, which is backed by Iran, against the internationally recognized government supported by a Saudi-led coalition. The conflict has caused one of the world's worst humanitarian crises.",
       "timeline": [
        {
-        "date": "2026-10-19",
-        "text": "Prosecutors have revealed specific details alleging ties between the accused, Abdulrahman Alfozan, and members of the Saudi Royal family and military.",
-        "link": "https://www.thehindu.com/news/international/ex-openai-employee-accused-of-planting-device-appears-to-have-saudi-backing-court-filing-shows/article71602972.ece",
+        "date": "2026-10-20",
+        "text": "The death toll from the missile attack has risen to 60 as officials continue searching for those missing.",
+        "link": "https://www.thehindu.com/news/international/death-toll-rises-to-60-in-houthi-strike-on-yemen-training-camp-in-deadliest-attack-in-months/article71604054.ece",
         "source": "World News: Latest International News & "
        }
       ]
      }
     },
     {
-     "id": "6318065c0729",
-     "title": "World Food Programme says ending aid for half million in Gaza due to funding shortfall",
-     "link": "https://www.thehindu.com/news/international/world-food-programme-says-ending-aid-for-half-million-in-gaza-due-to-funding-shortfall/article71602337.ece",
+     "id": "32069592f360",
+     "title": "Ecosystem of terrorism must be firmly and collectively ‘dismantled’: Rajnath Singh at SCO meet",
+     "link": "https://www.thehindu.com/news/international/ecosystem-of-terrorism-must-be-firmly-and-collectively-dismantled-rajnath-singh-at-sco-meet/article71604143.ece",
      "source": "World News: Latest International News & ",
-     "published": "2026-10-19T07:57:48+00:00",
-     "summary": "The World Food Programme (WFP) is reducing aid to 500,000 people in Gaza due to a lack of funding.",
-     "explain": "The World Food Programme is a UN agency that provides emergency food assistance during crises. 'Funding shortfalls' occur when donor countries do not provide enough money to meet the projected costs of feeding people in a specific region, forcing the organization to prioritize who receives help.",
+     "published": "2026-10-20T10:37:59+00:00",
+     "summary": "India's Defense Minister, Rajnath Singh, called for a collective effort to dismantle the ecosystem of global terrorism at a Shanghai Cooperation Organisation (SCO) meeting.",
+     "explain": "The Shanghai Cooperation Organisation is a regional intergovernmental group focused on security, economic development, and cultural cooperation. 'Dismantling an ecosystem' refers to not just stopping attacks, but also blocking the funding, training, and recruitment networks that allow terrorist organizations to thrive.",
      "related": [],
      "story": {
-      "id": "world-wfp-aid-cuts-in-gaza",
-      "title": "WFP Aid Cuts in Gaza",
-      "so_far": "The WFP has been a primary provider of food and nutrition in Gaza during ongoing regional instability. Rising costs and shrinking international donations have forced the agency to scale back operations across several active conflict zones.",
+      "id": "world-international-terrorism-policy",
+      "title": "International Terrorism Policy",
+      "so_far": "The SCO is a political, security, and economic organization involving nations like China, Russia, India, and Pakistan. Terrorism remains a primary security agenda for several member states.",
       "timeline": [
        {
-        "date": "2026-10-19",
-        "text": "The WFP confirmed it is cutting aid for 500,000 people in Gaza, reducing its reach from 1.6 million to 1.1 million beneficiaries.",
-        "link": "https://www.thehindu.com/news/international/world-food-programme-says-ending-aid-for-half-million-in-gaza-due-to-funding-shortfall/article71602337.ece",
+        "date": "2026-10-20",
+        "text": "Minister Singh urged SCO members to prioritize the dismantling of terror networks to prevent the radicalization of youth.",
+        "link": "https://www.thehindu.com/news/international/ecosystem-of-terrorism-must-be-firmly-and-collectively-dismantled-rajnath-singh-at-sco-meet/article71604143.ece",
         "source": "World News: Latest International News & "
        }
       ]
      }
     },
     {
-     "id": "a0ed54dd2dc4",
-     "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-     "link": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-10-19T06:00:18+00:00",
-     "summary": "The WFP announced it must reduce its aid coverage in Gaza by approximately one-third due to a severe lack of funds.",
-     "explain": "This cut represents a major blow to the humanitarian infrastructure in Gaza. When aid agencies announce these reductions, it means that half a million people, previously verified to be in need, will no longer receive the food, flour, or financial assistance necessary to meet their basic caloric needs.",
-     "related": [],
-     "story": {
-      "id": "world-funding-shortages-force-world-food-progr",
-      "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-      "so_far": "The WFP announced it must reduce its aid coverage in Gaza by approximately one-third due to a severe lack of funds.",
-      "timeline": [
-       {
-        "date": "2026-10-19",
-        "text": "The agency officially confirmed a reduction in assistance, dropping 500,000 people from its aid programs.",
-        "link": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "54b9b0bb58db",
-     "title": "US Supreme Court to hear case on race in school admissions",
-     "link": "https://www.aljazeera.com/news/2026/10/20/us-supreme-court-to-hear-case-on-race-in-school-admissions?traffic_source=rss",
+     "id": "eb245044a2e4",
+     "title": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack",
+     "link": "https://www.aljazeera.com/news/2026/10/20/us-leaving-oil-for-security-approach-not-middle-east-envoy-tom-barrack?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-20T04:38:07+00:00",
-     "summary": "The U.S. Supreme Court will hear a challenge to a local school admission policy that parents argue discriminates against Asian applicants.",
-     "explain": "The Supreme Court is the highest judicial body in the U.S. By agreeing to hear this case, they will set a legal precedent that affects how schools decide which students to admit. The parents' claim rests on the idea that the 'equal protection' clause of the Constitution is violated if a policy uses race to disadvantage one group over another.",
+     "published": "2026-10-20T10:36:57+00:00",
+     "summary": "U.S. envoy Tom Barrack stated that the U.S. is shifting away from an 'oil-for-security' framework in the Middle East while maintaining a presence in the region.",
+     "explain": "The 'oil-for-security' approach describes a long-standing arrangement where the U.S. guaranteed the safety of Middle Eastern oil-producing nations in exchange for steady global oil supplies and price stability. A shift in this policy suggests the U.S. is seeking new ways to engage with the region that are not primarily focused on energy dependency.",
      "related": [],
      "story": {
-      "id": "world-supreme-court-admissions-case",
-      "title": "Supreme Court Admissions Case",
-      "so_far": "This case builds on ongoing national debates about the role of race in public institutions. Similar challenges have been brought in previous years regarding university admissions, and this case marks the latest effort to contest race-conscious policies in K-12 schooling.",
+      "id": "world-u-s-middle-east-policy-shift",
+      "title": "U.S. Middle East Policy Shift",
+      "so_far": "For decades, U.S. foreign policy in the Middle East was largely defined by securing steady oil supplies and managing regional conflicts through arms sales and interventionism.",
       "timeline": [
        {
         "date": "2026-10-20",
-        "text": "The Supreme Court agreed to hear a case regarding whether race-based school admissions policies unfairly prioritize certain demographic groups.",
-        "link": "https://www.aljazeera.com/news/2026/10/20/us-supreme-court-to-hear-case-on-race-in-school-admissions?traffic_source=rss",
+        "text": "Envoy Tom Barrack officially identified the move away from traditional oil-for-security paradigms, acknowledging that past regime change efforts were often counterproductive.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/us-leaving-oil-for-security-approach-not-middle-east-envoy-tom-barrack?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
        }
       ]
      }
     },
     {
-     "id": "621350f34329",
-     "title": "Fourteen dead in illegal Colombian gold mine collapse",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/fourteen-dead-in-illegal-colombian-gold-mine-collapse?traffic_source=rss",
+     "id": "dd60cf8fd5c0",
+     "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
+     "link": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-20T03:55:27+00:00",
-     "summary": "A total of 14 people have been confirmed dead following the collapse of an illegal gold mine in Colombia.",
-     "explain": "Mining is dangerous, and illegal operations avoid the legal requirement for official oversight. When a large-scale accident like this happens, authorities must search the debris, which is why the death toll often rises in the hours after the initial collapse.",
+     "published": "2026-10-20T10:24:28+00:00",
+     "summary": "President Zelenskyy will meet with European officials and U.S. representative Witkoff to discuss the ongoing Russia-Ukraine war.",
+     "explain": "Diplomatic talks involve high-level meetings between heads of state or designated envoys to align military, financial, and humanitarian support strategies. Norway and Finland are key European partners that contribute to these aid efforts and participate in broader Western security alliances.",
      "related": [],
      "story": {
-      "id": "world-fourteen-dead-in-illegal-colombian-gold-",
-      "title": "Fourteen dead in illegal Colombian gold mine collapse",
-      "so_far": "A total of 14 people have been confirmed dead following the collapse of an illegal gold mine in Colombia.",
+      "id": "world-diplomatic-talks-on-ukraine",
+      "title": "Diplomatic Talks on Ukraine",
+      "so_far": "Ukraine continues to face intense pressure from Russian military forces, necessitating ongoing diplomatic and military support from Western allies. These talks are part of a series of efforts to align international policy regarding the defense of Ukraine.",
       "timeline": [
        {
         "date": "2026-10-20",
-        "text": "The death toll from the mine collapse in Nariño province has reached 14.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/fourteen-dead-in-illegal-colombian-gold-mine-collapse?traffic_source=rss",
+        "text": "Upcoming discussions in Oslo include leaders from Norway and Finland to coordinate support and strategy for the war.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
        }
       ]
      }
     },
     {
-     "id": "0ad0a1e80ab0",
-     "title": "‘Deliberate’ car ramming of Australian MP an isolated incident, police say",
-     "link": "https://www.aljazeera.com/news/2026/10/20/deliberate-car-ramming-of-australian-mp-an-isolated-incident-police-say?traffic_source=rss",
+     "id": "d73e879f5938",
+     "title": "Trump’s approval ratings plummet: what that means for the US midterms",
+     "link": "https://www.aljazeera.com/news/2026/10/20/trumps-approval-ratings-plummet-what-that-means-for-the-us-midterms?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-20T03:24:18+00:00",
-     "summary": "Police have stated that the incident involving a man hitting Australian MP Helen Haines with his car was an isolated event.",
-     "explain": "An 'isolated incident' means that investigators currently believe the suspect acted alone and that there is no broader political plot or conspiracy involved. In this context, 'ramming' refers to the intentional use of a vehicle as a weapon against a person or property.",
+     "published": "2026-10-20T10:13:19+00:00",
+     "summary": "President Trump's approval ratings have reached record lows ahead of the U.S. midterm elections, signaling potential challenges for his party.",
+     "explain": "Approval ratings are polls measuring the percentage of the public that approves of the president's job performance. Midterm elections are critical because they determine control of Congress; if a president's approval is low, their political party often struggles to keep control of the House of Representatives and the Senate.",
      "related": [],
      "story": {
-      "id": "world-australian-mp-car-ramming",
-      "title": "Australian MP Car Ramming",
-      "so_far": "Political violence, even if isolated, is treated with extreme seriousness in Australia. Helen Haines is an independent member of parliament, and the act of targeting an elected official is currently under criminal investigation to determine the suspect's motives.",
+      "id": "world-u-s-midterm-election-outlook",
+      "title": "U.S. Midterm Election Outlook",
+      "so_far": "U.S. midterm elections occur halfway through a president's four-year term and often serve as a referendum on the incumbent's performance. The party in power typically faces significant losses in these cycles.",
       "timeline": [
        {
         "date": "2026-10-20",
-        "text": "Authorities have taken a 43-year-old suspect into custody following the car ramming of MP Helen Haines.",
-        "link": "https://www.aljazeera.com/news/2026/10/20/deliberate-car-ramming-of-australian-mp-an-isolated-incident-police-say?traffic_source=rss",
+        "text": "Approval ratings have hit historic lows, raising concerns about the impact on the upcoming midterm races.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/trumps-approval-ratings-plummet-what-that-means-for-the-us-midterms?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
        }
       ]
@@ -1435,221 +1627,13 @@
    "label": "Business & Finance",
    "articles": [
     {
-     "id": "e659ced7bf31",
-     "title": "Japan launches spacecraft to explore Mars’s moons and bring back samples by 2031",
-     "link": "https://www.thehindubusinessline.com/news/science/japan-launches-spacecraft-to-explore-marss-moons-and-bring-back-samples-by-2031/article71603101.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-10-20T02:18:55+00:00",
-     "summary": "Japan has launched an international mission to Mars’s moons, aiming to land a rover and return samples by 2031.",
-     "explain": "The mission involves sending a spacecraft to Mars's moons, Phobos and Deimos, to understand their origins and composition. By bringing back physical material, scientists hope to gain insights into the early history of the solar system. An international mission means multiple countries are collaborating on the technology and scientific objectives.",
-     "related": [],
-     "story": {
-      "id": "business-japan-launches-mars-moons-mission",
-      "title": "Japan Launches Mars Moons Mission",
-      "so_far": "In October 2026, Japan initiated a multi-year international space exploration project. The mission's goal is to investigate the moons of Mars and bring geological samples back to Earth for analysis by 2031.",
-      "timeline": [
-       {
-        "date": "2026-10-19",
-        "text": "The spacecraft successfully launched to begin its journey toward the Martian moons.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/japan-launches-spacecraft-to-mysterious-moons-of-mars-in-a-bold-mission-to-bring-home-soil-samples/articleshow/135055931.cms",
-        "source": "Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "A spacecraft has officially launched on a five-year mission to study and retrieve samples from the Martian moons.",
-        "link": "https://www.thehindubusinessline.com/news/science/japan-launches-spacecraft-to-explore-marss-moons-and-bring-back-samples-by-2031/article71603101.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "3f0d48df66ab",
-     "title": "Japan launches spacecraft to moons of Mars",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/japan-launches-spacecraft-to-mysterious-moons-of-mars-in-a-bold-mission-to-bring-home-soil-samples/articleshow/135055931.cms",
+     "id": "c48b44aaf666",
+     "title": "Rubio returns to India as trade deal nears",
+     "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/marco-rubio-lands-in-mumbai-as-new-delhi-washington-push-to-close-trade-deal/articleshow/135066599.cms",
      "source": "Economic Times",
-     "published": "2026-10-19T19:47:49+00:00",
-     "summary": "Japan has launched an international mission to Mars’s moons, aiming to land a rover and return samples by 2031.",
-     "explain": "The mission seeks to study Martian moons to provide clues about how Mars and the surrounding space environment formed. A 'rover' is a mobile vehicle designed to travel across the surface of a celestial body to conduct experiments, while a 'lander' is a stationary platform for gathering data at a specific site.",
-     "related": [],
-     "story": {
-      "id": "business-japan-launches-mars-moons-mission",
-      "title": "Japan Launches Mars Moons Mission",
-      "so_far": "In October 2026, Japan initiated a multi-year international space exploration project. The mission's goal is to investigate the moons of Mars and bring geological samples back to Earth for analysis by 2031.",
-      "timeline": [
-       {
-        "date": "2026-10-19",
-        "text": "The spacecraft successfully launched to begin its journey toward the Martian moons.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/japan-launches-spacecraft-to-mysterious-moons-of-mars-in-a-bold-mission-to-bring-home-soil-samples/articleshow/135055931.cms",
-        "source": "Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "A spacecraft has officially launched on a five-year mission to study and retrieve samples from the Martian moons.",
-        "link": "https://www.thehindubusinessline.com/news/science/japan-launches-spacecraft-to-explore-marss-moons-and-bring-back-samples-by-2031/article71603101.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "8e7f5ad663ec",
-     "title": "Tata Trusts files response to Venu Srinivasan, Vijay Singh’s complaints with Charity Commissioner of Maharashtra",
-     "link": "https://www.thehindubusinessline.com/companies/tata-trusts-files-response-to-venu-srinivasan-vijay-singhs-complaints-with-charity-commissioner-of-maharashtra/article71602913.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-10-19T15:10:26+00:00",
-     "summary": "Tata Trusts has formally denied allegations of misgovernance raised by Venu Srinivasan and Vijay Singh.",
-     "explain": "Tata Trusts is a major philanthropic organization that holds a significant stake in Tata Sons, the holding company for the Tata Group. The 'Charity Commissioner' is a government official who regulates public trusts to ensure they operate transparently and within legal mandates. Governance refers to the rules, practices, and processes by which a company or trust is directed and controlled.",
-     "related": [],
-     "story": {
-      "id": "business-tata-trusts-governance-dispute",
-      "title": "Tata Trusts Governance Dispute",
-      "so_far": "Venu Srinivasan and Vijay Singh, who have been associated with Tata entities, filed complaints alleging governance failures within Tata Trusts. The Charity Commissioner of Maharashtra is currently reviewing the matter to determine if the trust acted in compliance with regulatory standards.",
-      "timeline": [
-       {
-        "date": "2026-10-19",
-        "text": "Tata Trusts filed a legal response with the Charity Commissioner of Maharashtra refuting claims of mismanagement.",
-        "link": "https://www.thehindubusinessline.com/companies/tata-trusts-files-response-to-venu-srinivasan-vijay-singhs-complaints-with-charity-commissioner-of-maharashtra/article71602913.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "2e15decb598e",
-     "title": "Even Healthcare raises $50 mn in Series B round led by Khosla Ventures",
-     "link": "https://www.thehindubusinessline.com/companies/even-healthcare-raises-50-mn-in-series-b-round-led-by-khosla-ventures/article71602824.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-10-19T14:11:12+00:00",
-     "summary": "Healthcare startup Even Healthcare has secured $50 million in Series B funding led by Khosla Ventures to expand its hospital network.",
-     "explain": "A 'Series B' round is a stage of investment where a company has already proven its business model and is looking for capital to scale operations. Even Healthcare aims to reduce the gap between insurance providers and actual medical care by owning and operating its own hospitals, allowing for a more integrated patient experience.",
-     "related": [],
-     "story": {
-      "id": "business-even-healthcare-expansion-funding",
-      "title": "Even Healthcare Expansion Funding",
-      "so_far": "Even Healthcare is an Indian startup focusing on integrating clinical care with insurance services. This new funding round, led by venture capital firm Khosla Ventures, will facilitate the opening of five new facilities in Bengaluru starting in early 2027.",
-      "timeline": [
-       {
-        "date": "2026-10-19",
-        "text": "The company raised $50 million to open five new hospitals in Bengaluru.",
-        "link": "https://www.thehindubusinessline.com/companies/even-healthcare-raises-50-mn-in-series-b-round-led-by-khosla-ventures/article71602824.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-19",
-        "text": "The investment is specifically earmarked for building a network of five hospitals in Bengaluru by early 2027.",
-        "link": "https://www.livemint.com/companies/news/even-healthcare-raises-50-million-khosla-ventures-hospital-expansion-health-insurance-11792374713402.html",
-        "source": "mint - companies"
-       }
-      ]
-     }
-    },
-    {
-     "id": "d2668c741594",
-     "title": "Even Healthcare raises $50 million from Khosla Ventures to expand its hospital network across Bengaluru",
-     "link": "https://www.livemint.com/companies/news/even-healthcare-raises-50-million-khosla-ventures-hospital-expansion-health-insurance-11792374713402.html",
-     "source": "mint - companies",
-     "published": "2026-10-19T08:01:01+00:00",
-     "summary": "Even Healthcare has secured $50 million in Series B funding led by Khosla Ventures to expand its hospital network.",
-     "explain": "By integrating 'care, insurance and prevention,' the company is trying to move away from the traditional fragmented healthcare model where patients deal with separate insurers and hospitals. This 'vertical integration' aims to make healthcare more affordable and efficient by controlling the entire process from insurance coverage to the actual delivery of treatment.",
-     "related": [],
-     "story": {
-      "id": "business-even-healthcare-expansion-funding",
-      "title": "Even Healthcare Expansion Funding",
-      "so_far": "Even Healthcare is an Indian startup focusing on integrating clinical care with insurance services. This new funding round, led by venture capital firm Khosla Ventures, will facilitate the opening of five new facilities in Bengaluru starting in early 2027.",
-      "timeline": [
-       {
-        "date": "2026-10-19",
-        "text": "The company raised $50 million to open five new hospitals in Bengaluru.",
-        "link": "https://www.thehindubusinessline.com/companies/even-healthcare-raises-50-mn-in-series-b-round-led-by-khosla-ventures/article71602824.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-19",
-        "text": "The investment is specifically earmarked for building a network of five hospitals in Bengaluru by early 2027.",
-        "link": "https://www.livemint.com/companies/news/even-healthcare-raises-50-million-khosla-ventures-hospital-expansion-health-insurance-11792374713402.html",
-        "source": "mint - companies"
-       }
-      ]
-     }
-    },
-    {
-     "id": "06c0e3f6030d",
-     "title": "Inflows in gold ETFs continue to be net positive for the 13th week in a row",
-     "link": "https://www.thehindubusinessline.com/markets/gold/inflows-in-gold-etfs-continue-to-be-net-positive-for-the-13th-week-in-a-row/article71603284.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-10-20T04:52:38+00:00",
-     "summary": "Gold ETFs continue to see net inflows for the 13th consecutive week as investors view the metal's price as stable.",
-     "explain": "A 'Gold ETF' is an investment fund that tracks the price of gold and trades on stock exchanges like a regular stock. 'Net inflows' means that more money is coming into these funds from investors than is being taken out. Investors often flock to gold during economic uncertainty because it is historically considered a stable store of value.",
-     "related": [],
-     "story": {
-      "id": "business-gold-etf-investment-trends",
-      "title": "Gold ETF Investment Trends",
-      "so_far": "For the past three months, market sentiment has favored gold as a safe-haven asset. Gold Exchange-Traded Funds (ETFs) allow investors to gain exposure to gold prices without physically owning the metal, and current data shows consistent buying pressure.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "Investors have sustained 13 weeks of positive inflows into gold-backed funds, keeping gold prices stable between $4,000 and $4,200 per ounce.",
-        "link": "https://www.thehindubusinessline.com/markets/gold/inflows-in-gold-etfs-continue-to-be-net-positive-for-the-13th-week-in-a-row/article71603284.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "451d6c8dfaeb",
-     "title": "Trump open to Putin, Xi summit but would focus on nuclear arms",
-     "link": "https://www.thehindubusinessline.com/news/world/trump-open-to-putin-xi-summit-but-would-focus-on-nuclear-arms/article71603257.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-10-20T04:38:03+00:00",
-     "summary": "President Trump has expressed openness to a summit with Vladimir Putin and Xi Jinping, with a specific focus on nuclear disarmament.",
-     "explain": "A 'summit' is a high-level meeting between heads of state to discuss global issues. The APEC summit is an annual gathering of 21 Pacific Rim member economies intended to promote free trade and economic cooperation. 'Nuclear arms' refers to weapons of mass destruction, and talks regarding them usually aim to prevent proliferation or reduce existing stockpiles.",
-     "related": [],
-     "story": {
-      "id": "business-us-diplomatic-strategy-and-summits",
-      "title": "US Diplomatic Strategy and Summits",
-      "so_far": "Following the recent US election and change in administration, the new executive branch is evaluating its diplomatic stance toward Russia and China. The upcoming APEC (Asia-Pacific Economic Cooperation) summit serves as a primary venue for these high-level international discussions.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "President Trump is planning a visit to China for an APEC summit where potential talks on nuclear arms with world leaders may occur.",
-        "link": "https://www.thehindubusinessline.com/news/world/trump-open-to-putin-xi-summit-but-would-focus-on-nuclear-arms/article71603257.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "7f4b24360982",
-     "title": "Software upgrades eat nearly a third of companies' IT budgets, survey finds",
-     "link": "https://www.thehindubusinessline.com/info-tech/software-upgrades-eat-nearly-a-third-of-companies-it-budgets-survey-finds/article71603241.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-10-20T04:28:15+00:00",
-     "summary": "A new survey reveals that software upgrades and associated maintenance consume nearly 33% of corporate IT budgets.",
-     "explain": "In this context, the 'software tax' is a metaphorical term for the mandatory, unavoidable costs associated with keeping software current and compatible. When companies spend a large portion of their budget just 'keeping the lights on' or maintaining existing systems, they have less capital available to invest in innovation or new product development.",
-     "related": [],
-     "story": {
-      "id": "business-rising-corporate-it-costs",
-      "title": "Rising Corporate IT Costs",
-      "so_far": "As businesses increasingly rely on digital infrastructure, the operational overhead of maintaining and updating software has become a major line item for CIOs. This trend has prompted concerns about hidden costs and disruption to daily business activities.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "Industry research identifies a 'software tax' where recurring upgrade costs drain nearly one-third of IT budgets for over 2,000 surveyed companies.",
-        "link": "https://www.thehindubusinessline.com/info-tech/software-upgrades-eat-nearly-a-third-of-companies-it-budgets-survey-finds/article71603241.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "0e6767fd47c2",
-     "title": "EAM Jaishankar, US Secretary of State Rubio to hold crucial talks in Mumbai",
-     "link": "https://www.thehindubusinessline.com/news/eam-jaishankar-us-secretary-of-state-rubio-to-hold-crucial-talks-in-mumbai/article71603240.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-10-20T04:27:47+00:00",
-     "summary": "External Affairs Minister Jaishankar and US Secretary of State Marco Rubio are scheduled to meet in Mumbai to address bilateral tensions.",
-     "explain": "EAM stands for External Affairs Minister, India's equivalent of a Secretary of State. 'Bilateral ties' refers to the relationship between two specific countries. Diplomatic friction describes a state where two countries have disagreements over policy, trade, or international relations that make cooperation difficult.",
+     "published": "2026-10-20T09:26:48+00:00",
+     "summary": "US official Marco Rubio is visiting India to discuss trade agreements.",
+     "explain": "Marco Rubio is engaging in diplomatic talks with Indian officials and business leaders to strengthen economic ties. These discussions are part of an effort to resolve ongoing diplomatic friction between the two nations, which is critical for future trade cooperation.",
      "related": [],
      "story": {
       "id": "business-india-us-diplomatic-relations",
@@ -1661,29 +1645,249 @@
         "text": "Secretary of State Rubio is visiting India for high-level talks with EAM Jaishankar amid ongoing diplomatic friction.",
         "link": "https://www.thehindubusinessline.com/news/eam-jaishankar-us-secretary-of-state-rubio-to-hold-crucial-talks-in-mumbai/article71603240.ece",
         "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Marco Rubio has returned to India for high-level meetings focused on finalizing a trade deal.",
+        "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/marco-rubio-lands-in-mumbai-as-new-delhi-washington-push-to-close-trade-deal/articleshow/135066599.cms",
+        "source": "Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Rubio's itinerary includes talks on Russian oil imports alongside trade deal negotiations.",
+        "link": "https://www.thehindubusinessline.com/news/rubio-kicks-off-india-visit-with-trade-deal-russian-oil-on-agenda/article71603927.ece",
+        "source": "Business News Today: Latest Business New"
        }
       ]
      }
     },
     {
-     "id": "832c6dd29fab",
-     "title": "Sister’s oral gift fails; bro gets father’s land",
-     "link": "https://economictimes.indiatimes.com/wealth/legal/will/sisters-husband-claimed-he-got-his-father-in-laws-land-via-oral-gift-and-sold-it-but-her-brothers-objected-madras-hc-rules-in-brothers-favour-for-this-reason/articleshow/135060653.cms",
-     "source": "Economic Times",
-     "published": "2026-10-20T04:23:27+00:00",
-     "summary": "A court ruling has invalidated a sister’s claim to her father’s property based on an alleged oral gift, favoring the brother instead.",
-     "explain": "An 'oral gift' refers to the transfer of property through a verbal promise rather than a written contract. In many legal systems, particularly concerning immovable property like land, verbal agreements are not legally binding without formal registration, as the law requires written evidence to prevent fraudulent claims of ownership after a parent passes away.",
+     "id": "e4ca0bb6481e",
+     "title": "Rubio kicks off India visit with trade deal, Russian oil on agenda",
+     "link": "https://www.thehindubusinessline.com/news/rubio-kicks-off-india-visit-with-trade-deal-russian-oil-on-agenda/article71603927.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-20T09:18:38+00:00",
+     "summary": "Marco Rubio's India visit includes meetings with External Affairs Minister Jaishankar and Reliance Industries Chairman Mukesh Ambani.",
+     "explain": "The inclusion of Russian oil on the agenda highlights the complexities of the India-US relationship, as the US seeks to influence India's energy policy amidst global sanctions. These meetings aim to bridge the gap between US geopolitical interests and India's economic needs.",
      "related": [],
      "story": {
-      "id": "business-inheritance-law-and-property-disputes",
-      "title": "Inheritance Law and Property Disputes",
-      "so_far": "Property disputes involving family inheritances often hinge on the documentation of gifts. Courts frequently require formal, written, and registered documents to validate the transfer of real estate ownership to prevent fraud or confusion.",
+      "id": "business-india-us-diplomatic-relations",
+      "title": "India-US Diplomatic Relations",
+      "so_far": "The relationship between India and the United States has faced recent challenges and disagreements, marking a period of diplomatic friction. This visit represents a significant effort to stabilize or reset ties through direct communication between top officials.",
       "timeline": [
        {
         "date": "2026-10-20",
-        "text": "The court ruled that an oral transfer of land is legally insufficient, upholding the brother's claim to the estate.",
-        "link": "https://economictimes.indiatimes.com/wealth/legal/will/sisters-husband-claimed-he-got-his-father-in-laws-land-via-oral-gift-and-sold-it-but-her-brothers-objected-madras-hc-rules-in-brothers-favour-for-this-reason/articleshow/135060653.cms",
+        "text": "Secretary of State Rubio is visiting India for high-level talks with EAM Jaishankar amid ongoing diplomatic friction.",
+        "link": "https://www.thehindubusinessline.com/news/eam-jaishankar-us-secretary-of-state-rubio-to-hold-crucial-talks-in-mumbai/article71603240.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Marco Rubio has returned to India for high-level meetings focused on finalizing a trade deal.",
+        "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/marco-rubio-lands-in-mumbai-as-new-delhi-washington-push-to-close-trade-deal/articleshow/135066599.cms",
         "source": "Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Rubio's itinerary includes talks on Russian oil imports alongside trade deal negotiations.",
+        "link": "https://www.thehindubusinessline.com/news/rubio-kicks-off-india-visit-with-trade-deal-russian-oil-on-agenda/article71603927.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "cdd2910850e5",
+     "title": "PepsiCo India eyes steady festive snacking",
+     "link": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/pepsico-india-expects-festive-snack-sales-to-match-last-year-as-new-launches-roll-out/articleshow/135063870.cms",
+     "source": "Economic Times",
+     "published": "2026-10-20T07:35:42+00:00",
+     "summary": "PepsiCo India expects strong festive sales due to new snack product launches.",
+     "explain": "Snack companies often launch new products or packaging during festive periods when household consumption increases. 'Better-for-you' products refer to snacks marketed as healthier, usually lower in fat, sugar, or salt, responding to growing consumer health awareness.",
+     "related": [],
+     "story": {
+      "id": "business-pepsico-india-festive-strategy",
+      "title": "PepsiCo India Festive Strategy",
+      "so_far": "PepsiCo maintains a significant market presence in India's processed food sector. The company frequently adjusts its product mix based on seasonal consumer demand and changing health trends among the Indian middle class.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "PepsiCo India is banking on a portfolio expansion into premium and healthier snack options to boost sales during the current festive season.",
+        "link": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/pepsico-india-expects-festive-snack-sales-to-match-last-year-as-new-launches-roll-out/articleshow/135063870.cms",
+        "source": "Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The company is specifically targeting diverse consumer segments by rolling out premium snacks and health-conscious food alternatives.",
+        "link": "https://www.thehindubusinessline.com/companies/pepsico-india-expects-steady-festive-snack-sales-driven-by-new-launches/article71603620.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "f942a157b6ee",
+     "title": "PepsiCo India expects steady festive snack sales driven by new launches",
+     "link": "https://www.thehindubusinessline.com/companies/pepsico-india-expects-steady-festive-snack-sales-driven-by-new-launches/article71603620.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-20T07:27:02+00:00",
+     "summary": "PepsiCo India's CMO confirmed that the company is diversifying its snack range for the festival season.",
+     "explain": "By segmenting their market into premium and health-focused tiers, PepsiCo aims to capture spending from different demographics. This strategy allows them to maximize market share during high-traffic shopping periods.",
+     "related": [],
+     "story": {
+      "id": "business-pepsico-india-festive-strategy",
+      "title": "PepsiCo India Festive Strategy",
+      "so_far": "PepsiCo maintains a significant market presence in India's processed food sector. The company frequently adjusts its product mix based on seasonal consumer demand and changing health trends among the Indian middle class.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "PepsiCo India is banking on a portfolio expansion into premium and healthier snack options to boost sales during the current festive season.",
+        "link": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/pepsico-india-expects-festive-snack-sales-to-match-last-year-as-new-launches-roll-out/articleshow/135063870.cms",
+        "source": "Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The company is specifically targeting diverse consumer segments by rolling out premium snacks and health-conscious food alternatives.",
+        "link": "https://www.thehindubusinessline.com/companies/pepsico-india-expects-steady-festive-snack-sales-driven-by-new-launches/article71603620.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "4734901bad38",
+     "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
+     "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+     "source": "Business News",
+     "published": "2026-10-20T10:46:05+00:00",
+     "summary": "General Motors reported Q3 earnings that exceeded analyst expectations.",
+     "explain": "Earnings guidance is a forecast provided by a company about its future financial performance. Beating expectations often signals to investors that the company's operational efficiency is stronger than anticipated, which can boost stock confidence.",
+     "related": [],
+     "story": {
+      "id": "business-general-motors-quarterly-performance",
+      "title": "General Motors Quarterly Performance",
+      "so_far": "General Motors is a major US automaker currently navigating a transition toward electric vehicles while maintaining a core business of internal combustion engine sales. The company has focused on cost discipline and cash management to navigate fluctuating global demand.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "GM has raised its cash flow outlook and narrowed its full-year earnings guidance following a strong third quarter.",
+        "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+        "source": "Business News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "f2ef07b56b4a",
+     "title": "Hindusthan National Glass & Industries to invest up to ₹500 cr in nxt 5 months to ramp up capacity",
+     "link": "https://www.thehindubusinessline.com/companies/hindusthan-national-glass-industries-to-invest-up-to-500-cr-in-nxt-5-months-to-ramp-up-capacity/article71604068.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-20T10:39:56+00:00",
+     "summary": "Hindusthan National Glass is investing ₹500 crore to increase manufacturing capacity.",
+     "explain": "CIRP is a legal procedure in India used when a company cannot pay its debts. A company ramping up capacity post-CIRP indicates it has secured enough business orders to justify significant new capital expenditure to support its restructuring.",
+     "related": [],
+     "story": {
+      "id": "business-hindusthan-national-glass-expansion",
+      "title": "Hindusthan National Glass Expansion",
+      "so_far": "Hindusthan National Glass has been undergoing a resolution process under India's Insolvency and Bankruptcy Code. This process allows distressed companies to reorganize their debts or undergo ownership changes to remain operational.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "The company announced a ₹500 crore investment to boost production capacity over the next five months to fulfill orders from its Corporate Insolvency Resolution Process (CIRP) period.",
+        "link": "https://www.thehindubusinessline.com/companies/hindusthan-national-glass-industries-to-invest-up-to-500-cr-in-nxt-5-months-to-ramp-up-capacity/article71604068.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "a615e10f97a1",
+     "title": "From France to Albania, why protests are sweeping across Europe",
+     "link": "https://www.thehindubusinessline.com/news/world/from-france-to-albania-why-protests-are-sweeping-across-europe/article71603102.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-20T10:35:20+00:00",
+     "summary": "Economic and social pressures are triggering widespread protests across Europe.",
+     "explain": "These protests reflect growing civil unrest in regions facing high inflation and housing crises. When public confidence in state-provided services declines, it often leads to organized demonstrations as citizens demand policy changes.",
+     "related": [],
+     "story": {
+      "id": "business-protests-sweeping-across-europe",
+      "title": "Protests Sweeping Across Europe",
+      "so_far": "Europe has been dealing with post-pandemic economic volatility, including inflation and energy costs. These factors have put strain on social safety nets and public budgets, leading to public dissatisfaction.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "Demonstrations in France, Albania, and other European nations are being driven by a combination of high living costs and perceived failure in public services.",
+        "link": "https://www.thehindubusinessline.com/news/world/from-france-to-albania-why-protests-are-sweeping-across-europe/article71603102.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "cf7b129aaf76",
+     "title": "FSSAI directs nutraceutical makers to ensure mandatory warning statements on products with herbal extracts",
+     "link": "https://www.thehindubusinessline.com/companies/fssai-directs-nutraceutical-makers-to-ensure-mandatory-warning-statements-on-products-with-herbal-extracts/article71604130.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-20T10:34:29+00:00",
+     "summary": "FSSAI has mandated that nutraceutical companies place warning labels on products containing herbal extracts.",
+     "explain": "Nutraceuticals are products derived from food sources with extra health benefits. Warning labels are required to inform consumers of potential side effects or allergic reactions, especially since herbal extracts can interact with other medications or medical conditions.",
+     "related": [],
+     "story": {
+      "id": "business-fssai-labeling-mandates",
+      "title": "FSSAI Labeling Mandates",
+      "so_far": "The Food Safety and Standards Authority of India (FSSAI) is the primary regulatory body for food and supplements. They frequently update guidelines to ensure consumer safety regarding health claims and ingredients.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "India's food regulator, FSSAI, has issued a directive requiring nutraceutical manufacturers to include warning statements on products containing herbs, under threat of license suspension.",
+        "link": "https://www.thehindubusinessline.com/companies/fssai-directs-nutraceutical-makers-to-ensure-mandatory-warning-statements-on-products-with-herbal-extracts/article71604130.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "6553d4ef7d21",
+     "title": "Why phone theft is a political flashpoint in Brazil",
+     "link": "https://economictimes.indiatimes.com/news/international/world-news/in-brazil-a-stolen-phone-can-cost-more-than-money-and-shape-an-election/articleshow/135067629.cms",
+     "source": "Economic Times",
+     "published": "2026-10-20T10:15:05+00:00",
+     "summary": "Phone theft has emerged as a significant political issue in Brazil.",
+     "explain": "When common crimes like phone theft become 'political flashpoints,' it means they have transitioned from simple police matters to issues where politicians are being held accountable. It highlights the public's demand for better security infrastructure in daily life.",
+     "related": [],
+     "story": {
+      "id": "business-brazil-s-phone-theft-crisis",
+      "title": "Brazil's Phone Theft Crisis",
+      "so_far": "Street crime and theft are persistent challenges in many Brazilian urban centers. These issues have historically influenced election cycles and government popularity.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "The rising frequency of smartphone theft has become a focal point of political debate, highlighting broader security challenges in Brazil.",
+        "link": "https://economictimes.indiatimes.com/news/international/world-news/in-brazil-a-stolen-phone-can-cost-more-than-money-and-shape-an-election/articleshow/135067629.cms",
+        "source": "Economic Times"
+       }
+      ]
+     }
+    },
+    {
+     "id": "7a4efeb16afa",
+     "title": "Flipkart to challenge Zomato and Swiggy with ‘Eat-in by Minutes’: Launch date, features explained",
+     "link": "https://www.livemint.com/companies/news/flipkart-to-challenge-zomato-and-swiggy-with-eat-in-by-minutes-launch-date-features-explained-11792488539637.html",
+     "source": "mint - companies",
+     "published": "2026-10-20T10:13:28+00:00",
+     "summary": "Flipkart is testing a new food delivery service called 'Eat-in by Minutes' in Bengaluru.",
+     "explain": "Quick commerce is a sector focused on delivering items in 10-30 minutes. By entering the food delivery market, Flipkart is utilizing its existing logistics network to compete with Zomato and Swiggy, the dominant providers in the Indian food-tech market.",
+     "related": [],
+     "story": {
+      "id": "business-flipkart-food-delivery-entry",
+      "title": "Flipkart Food Delivery Entry",
+      "so_far": "Flipkart, one of India's largest e-commerce retailers, has been expanding into 'quick commerce' and grocery delivery. Entering the food delivery space represents a major diversification of its logistics and last-mile capabilities.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "Flipkart is piloting its food delivery service with staff and plans a public launch by the end of October 2026, directly challenging established players like Zomato and Swiggy.",
+        "link": "https://www.livemint.com/companies/news/flipkart-to-challenge-zomato-and-swiggy-with-eat-in-by-minutes-launch-date-features-explained-11792488539637.html",
+        "source": "mint - companies"
        }
       ]
      }
@@ -1705,7 +1909,7 @@
      "story": {
       "id": "markets-2026-indian-stock-market-holidays",
       "title": "2026 Indian Stock Market Holidays",
-      "so_far": "The Indian stock market observes a set calendar of public holidays throughout the year, during which equity, derivative, and currency segments remain suspended. In 2026, 16 such holidays were designated to ensure market closure in observance of major national and religious events.",
+      "so_far": "The Indian stock market operates under set regulatory guidelines and is influenced by both domestic economic policy and global investor sentiment. Traders monitor major indices like the Nifty—which represents the 50 largest companies listed on the National Stock Exchange—to gauge the health of the Indian economy.",
       "timeline": [
        {
         "date": "2026-10-20",
@@ -1718,6 +1922,12 @@
         "text": "The NSE and BSE are confirmed to be closed today for Dussehra, with normal operations returning on Wednesday.",
         "link": "https://www.livemint.com/market/stock-market-news/dussehra-2026-stock-market-holiday-today-or-not-nse-bse-to-remain-open-or-closed-on-20-oct-tuesday-exchange-calendar-11792456900292.html",
         "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Indian equities saw significant selling in the banking and IT sectors, dragging the Nifty index under the 23,000 threshold.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-federal-bank-among-4-stock-recommendations-for-wednesday/slideshow/135067773.cms",
+        "source": "Markets-Economic Times"
        }
       ]
      }
@@ -1757,7 +1967,7 @@
      "story": {
       "id": "markets-2026-indian-stock-market-holidays",
       "title": "2026 Indian Stock Market Holidays",
-      "so_far": "The Indian stock market observes a set calendar of public holidays throughout the year, during which equity, derivative, and currency segments remain suspended. In 2026, 16 such holidays were designated to ensure market closure in observance of major national and religious events.",
+      "so_far": "The Indian stock market operates under set regulatory guidelines and is influenced by both domestic economic policy and global investor sentiment. Traders monitor major indices like the Nifty—which represents the 50 largest companies listed on the National Stock Exchange—to gauge the health of the Indian economy.",
       "timeline": [
        {
         "date": "2026-10-20",
@@ -1770,6 +1980,12 @@
         "text": "The NSE and BSE are confirmed to be closed today for Dussehra, with normal operations returning on Wednesday.",
         "link": "https://www.livemint.com/market/stock-market-news/dussehra-2026-stock-market-holiday-today-or-not-nse-bse-to-remain-open-or-closed-on-20-oct-tuesday-exchange-calendar-11792456900292.html",
         "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Indian equities saw significant selling in the banking and IT sectors, dragging the Nifty index under the 23,000 threshold.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-federal-bank-among-4-stock-recommendations-for-wednesday/slideshow/135067773.cms",
+        "source": "Markets-Economic Times"
        }
       ]
      }
@@ -1811,18 +2027,24 @@
         "text": "Official filings confirm the IPO size as Rs 30,213 crore, establishing it as the largest ever in the Indian market.",
         "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-vs-airtel-shares-which-telecom-giant-offers-greater-valuation-comfort-to-investors/articleshow/135053174.cms",
         "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The company's IPO successfully attracted anchor bids worth over $25 billion, signaling strong institutional confidence.",
+        "link": "https://www.livemint.com/market/ipo/reliance-jio-ipo-massive-bids-top-25-bn-amount-for-anchor-book-okhow-mukesh-ambani-firm-attracted-top-notch-investors-11792488288719.html",
+        "source": "mint - markets"
        }
       ]
      }
     },
     {
-     "id": "46ca95e4b859",
-     "title": "Jio IPO’s GMP rises to 22% as India’s largest ever issue set to open on October 21. Should you subscribe?",
-     "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms",
-     "source": "Markets-Economic Times",
-     "published": "2026-10-20T04:22:31+00:00",
-     "summary": "The Jio IPO, India's largest-ever, opens tomorrow with a price band of Rs 1,065–1,119. Strong market demand is reflected in a 22% grey market premium.",
-     "explain": "The 'grey market premium' (GMP) is the difference between the price a stock is expected to trade at when it hits the stock market and its IPO offer price. While not officially regulated, it is often used by investors as an informal indicator of potential listing day gains.",
+     "id": "18f0ebdce2f3",
+     "title": "Reliance Jio IPO: Massive bids top $25 bn amount for anchor book! How Mukesh Ambani firm attracted top-notch investors",
+     "link": "https://www.livemint.com/market/ipo/reliance-jio-ipo-massive-bids-top-25-bn-amount-for-anchor-book-okhow-mukesh-ambani-firm-attracted-top-notch-investors-11792488288719.html",
+     "source": "mint - markets",
+     "published": "2026-10-20T10:36:29+00:00",
+     "summary": "Reliance Jio Platforms saw overwhelming demand for its IPO, with anchor investor bids exceeding the available shares by 30 times. The company intends to use most of the proceeds to reduce existing debt.",
+     "explain": "An IPO, or Initial Public Offering, is when a private company sells shares to the public for the first time to raise capital. 'Anchor investors' are large institutional firms invited to buy shares before the public subscription starts, serving as a sign of confidence. Jio Platforms is using these funds to pay off debt, which improves its financial health as it grows its technology and AI offerings.",
      "related": [],
      "story": {
       "id": "markets-jio-platforms-mega-ipo",
@@ -1852,18 +2074,24 @@
         "text": "Official filings confirm the IPO size as Rs 30,213 crore, establishing it as the largest ever in the Indian market.",
         "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-vs-airtel-shares-which-telecom-giant-offers-greater-valuation-comfort-to-investors/articleshow/135053174.cms",
         "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The company's IPO successfully attracted anchor bids worth over $25 billion, signaling strong institutional confidence.",
+        "link": "https://www.livemint.com/market/ipo/reliance-jio-ipo-massive-bids-top-25-bn-amount-for-anchor-book-okhow-mukesh-ambani-firm-attracted-top-notch-investors-11792488288719.html",
+        "source": "mint - markets"
        }
       ]
      }
     },
     {
-     "id": "582f8843fa51",
-     "title": "Korea’s KOSPI crashes another 5% as AI rout deepens; AI bellwether down over 40% from peak",
-     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-kospi-crashes-another-5-as-ai-rout-deepens-ai-bellwether-down-over-40-from-peak/articleshow/135061021.cms",
-     "source": "Markets-Economic Times",
-     "published": "2026-10-20T04:08:50+00:00",
-     "summary": "The South Korean KOSPI index dropped another 5% as the sell-off in AI-related stocks intensified. Major industry players like SK Hynix and Samsung have seen significant valuation declines.",
-     "explain": "A 'market rout' refers to a rapid and significant drop in asset prices across a specific sector or index. In this case, the AI-focused 'bellwether' stocks—companies that act as indicators of the health of their sector—are declining as investors worry that the initial hype surrounding AI may not translate into immediate, sustained profits.",
+     "id": "aa6a070f9287",
+     "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
+     "link": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
+     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
+     "published": "2026-10-20T10:22:55+00:00",
+     "summary": "Bitcoin's price slipped to $81,400 following a broader decline in Asian chip manufacturing stocks. Options traders are purchasing hedging products to protect against further potential price drops.",
+     "explain": "When the broader technology market declines, investors often sell off riskier assets like Bitcoin to cover losses or reduce exposure. 'Options' are financial contracts that allow traders to bet on price movements or hedge against losses, and 'downside protection' refers to strategies used to limit financial damage if an asset's value falls.",
      "related": [],
      "story": {
       "id": "markets-global-ai-sector-sell-off",
@@ -1875,134 +2103,134 @@
         "text": "South Korean tech stocks experienced sharp declines, with major AI suppliers SK Hynix and Samsung falling heavily amid a broader sector rout.",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-kospi-crashes-another-5-as-ai-rout-deepens-ai-bellwether-down-over-40-from-peak/articleshow/135061021.cms",
         "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Broad market pessimism linked to the AI and chip sector is now impacting cryptocurrency prices.",
+        "link": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Market jitters remain elevated as the correction in AI-related equities deepens.",
+        "link": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
        }
       ]
      }
     },
     {
-     "id": "4410ec65283a",
-     "title": "US bans DeepSeek from civilian agency IT systems",
-     "link": "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "id": "7e4e33c86b90",
+     "title": "XRP 30-day exchange inflows pass 6B tokens as whales move to the sidelines",
+     "link": "https://cointelegraph.com/markets/xrp-30-day-exchange-inflows-pass-6b-tokens-as-whales-move-to-the-sidelines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph.com News",
-     "published": "2026-10-20T04:07:58+00:00",
-     "summary": "The U.S. government has expanded its restrictions on the AI model DeepSeek, banning its use within all civilian federal agency IT systems due to national security concerns.",
-     "explain": "This move is part of the ongoing 'tech cold war' between the U.S. and China. By banning the software in civilian agencies, the U.S. is attempting to mitigate the risk of data exfiltration or foreign surveillance via AI models that may have backdoors or security vulnerabilities.",
+     "published": "2026-10-20T10:20:58+00:00",
+     "summary": "Large holders, known as whales, have moved over 6 billion XRP tokens to cryptocurrency exchanges in the last month. This high volume of exchange inflows often suggests that investors are preparing to sell their holdings.",
+     "explain": "Cryptocurrency exchanges are digital marketplaces where users trade assets like XRP. When large amounts of a token move to an exchange, it is often interpreted as a sign that investors intend to liquidate their position, which can lead to increased selling pressure and lower prices. 'Whales' refers to individuals or entities holding massive quantities of a single digital asset.",
      "related": [],
      "story": {
-      "id": "markets-us-restrictions-on-deepseek-ai",
-      "title": "US Restrictions on DeepSeek AI",
-      "so_far": "DeepSeek is an artificial intelligence platform originating from China. U.S. officials have expressed concerns that the software could be utilized to compromise sensitive federal data, leading to a systematic policy of restricting its presence in government information technology infrastructure.",
+      "id": "markets-xrp-exchange-inflow-surge",
+      "title": "XRP Exchange Inflow Surge",
+      "so_far": "XRP is a digital asset associated with Ripple, a payment protocol designed for cross-border financial transactions. It is frequently monitored by market analysts due to its high trading volume and susceptibility to large-scale 'whale' movements, which can heavily influence short-term price stability.",
       "timeline": [
        {
         "date": "2026-10-20",
-        "text": "U.S. civilian agencies are now officially prohibited from using DeepSeek, broadening existing defense-sector bans.",
-        "link": "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "text": "More than 6 billion XRP tokens were moved to exchanges by October 19, marking the highest inflow volume since March.",
+        "link": "https://cointelegraph.com/markets/xrp-30-day-exchange-inflows-pass-6b-tokens-as-whales-move-to-the-sidelines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News"
        }
       ]
      }
     },
     {
-     "id": "89b21002685a",
-     "title": "Up 64% in 6 months already; should you still buy Neogen Chemicals? Antique sees 23% upside potential - Check target",
-     "link": "https://www.livemint.com/market/up-64-in-6-months-already-should-you-still-buy-neogen-chemicals-antique-sees-23-upside-potential-check-target-11792425758466.html",
-     "source": "mint - markets",
-     "published": "2026-10-20T04:05:19+00:00",
-     "summary": "Antique Stock Broking has initiated coverage on Neogen Chemicals with a 'Buy' rating, projecting 23% upside potential based on its growth in the battery chemicals sector.",
-     "explain": "Initiating coverage means a brokerage firm has started providing regular analysis and investment advice on a stock. A 'buy rating' with a target price indicates the analysts believe the stock is undervalued and likely to increase in price over the specified period (usually 12 months) based on fundamental growth.",
+     "id": "5cf3192a460f",
+     "title": "Mt. Gox pushes creditor repayment deadline to 2027 in sixth extension",
+     "link": "https://cointelegraph.com/news/mt-gox-creditor-repayment-deadline-extended-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph.com News",
+     "published": "2026-10-20T10:20:13+00:00",
+     "summary": "The defunct cryptocurrency exchange Mt. Gox has pushed its creditor repayment deadline back to 2027. This represents the sixth time the firm has delayed returning assets to customers following its 2014 collapse.",
+     "explain": "When a company goes bankrupt, creditors are the parties owed money. The Mt. Gox payout has been a long-running saga for the crypto community because the release of large amounts of Bitcoin back to creditors is often feared by the market as a potential catalyst for a massive price drop. The delays stem from complex legal requirements to verify identities and process payments.",
      "related": [],
      "story": {
-      "id": "markets-neogen-chemicals-market-analysis",
-      "title": "Neogen Chemicals Market Analysis",
-      "so_far": "Neogen Chemicals produces specialty organic chemicals and inorganic chemicals for various industries, including pharmaceuticals and agrochemicals. It has been gaining attention recently as investors look for companies that can benefit from the global shift toward electric vehicle battery manufacturing and supply chain diversification away from China.",
+      "id": "markets-mt-gox-creditor-repayment-delays",
+      "title": "Mt. Gox Creditor Repayment Delays",
+      "so_far": "Mt. Gox was a major Bitcoin exchange that declared bankruptcy in 2014 after losing roughly 850,000 Bitcoins to a hack. Since then, court-appointed trustees have been working to recover and distribute remaining assets to the thousands of users who lost money in the breach.",
       "timeline": [
        {
         "date": "2026-10-20",
-        "text": "Brokerage firm Antique initiated a buy recommendation, citing the company's expansion into battery chemistry and non-Chinese supply chain opportunities.",
-        "link": "https://www.livemint.com/market/up-64-in-6-months-already-should-you-still-buy-neogen-chemicals-antique-sees-23-upside-potential-check-target-11792425758466.html",
+        "text": "Mt. Gox officially extended the deadline for returning assets to creditors by another year due to ongoing administrative and technical difficulties.",
+        "link": "https://cointelegraph.com/news/mt-gox-creditor-repayment-deadline-extended-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "03c10a969685",
+     "title": "Market Trading Guide: Federal Bank among 4 stock recommendations for Wednesday",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-federal-bank-among-4-stock-recommendations-for-wednesday/slideshow/135067773.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-10-20T10:18:27+00:00",
+     "summary": "Indian markets experienced a downturn, with the Nifty index falling below 23,000 as investors reacted to weak global performance. Analysts remain focused on specific stocks like Federal Bank and Dr Reddy’s Laboratories for potential recovery.",
+     "explain": "A stock market index like the Nifty tracks a group of representative stocks to provide a snapshot of market performance. When it falls below a round number like 23,000, it is often seen as a sign of bearish or negative market sentiment. This volatility can be driven by 'global cues,' which are economic events in other countries that influence investor confidence everywhere.",
+     "related": [],
+     "story": {
+      "id": "markets-2026-indian-stock-market-holidays",
+      "title": "2026 Indian Stock Market Holidays",
+      "so_far": "The Indian stock market operates under set regulatory guidelines and is influenced by both domestic economic policy and global investor sentiment. Traders monitor major indices like the Nifty—which represents the 50 largest companies listed on the National Stock Exchange—to gauge the health of the Indian economy.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "The NSE and BSE are closed today for the Dussehra holiday, marking one of 16 scheduled holidays for 2026.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-2026-is-stock-market-closed-today-for-dussehra-check-remaining-holidays-for-the-year/articleshow/135059981.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The NSE and BSE are confirmed to be closed today for Dussehra, with normal operations returning on Wednesday.",
+        "link": "https://www.livemint.com/market/stock-market-news/dussehra-2026-stock-market-holiday-today-or-not-nse-bse-to-remain-open-or-closed-on-20-oct-tuesday-exchange-calendar-11792456900292.html",
         "source": "mint - markets"
-       }
-      ]
-     }
-    },
-    {
-     "id": "5eff05d3ca00",
-     "title": "From ₹228 a GB to ₹7.5: How Mukesh Ambani’s Jio rewired India’s internet and is now seeking a ₹10 lakh crore valuation",
-     "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-228-a-gb-to-7-5-how-mukesh-ambanis-jio-rewired-indias-internet-and-is-now-seeking-a-10-lakh-crore-valuation/articleshow/135053274.cms",
-     "source": "Markets-Economic Times",
-     "published": "2026-10-20T04:00:00+00:00",
-     "summary": "Jio Platforms is positioning itself as a comprehensive technology ecosystem rather than just a telecom operator as it seeks a Rs 10 lakh crore valuation.",
-     "explain": "Valuation is the process of determining the current worth of an asset or company. In this case, by positioning itself as a technology platform rather than a telecom company, Jio is trying to justify a higher valuation multiple, as tech companies often trade at higher price-to-earnings ratios than traditional utility-like telecom providers.",
-     "related": [],
-     "story": {
-      "id": "markets-jio-platforms-mega-ipo",
-      "title": "Jio Platforms Mega IPO",
-      "so_far": "Jio Platforms, a subsidiary of Reliance Industries, is launching an IPO to raise funds as it pivots from a pure telecom provider to an integrated technology, cloud, and AI platform. It is poised to become India's largest-ever public offering, aiming for a valuation of Rs 10 lakh crore.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "High-profile global institutional investors have committed Rs 2.5 lakh crore in anchor bids ahead of the public issue opening.",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-draws-rs-2-5-lakh-crore-in-anchor-bids/articleshow/135059075.cms",
-        "source": "Markets-Economic Times"
        },
        {
         "date": "2026-10-20",
-        "text": "The IPO is set to open tomorrow, October 21, with a high grey market premium suggesting strong potential listing gains.",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Reliance is reframing Jio's narrative for investors to emphasize its broad technological reach, spanning cloud, AI, and fixed broadband.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-228-a-gb-to-7-5-how-mukesh-ambanis-jio-rewired-indias-internet-and-is-now-seeking-a-10-lakh-crore-valuation/articleshow/135053274.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Official filings confirm the IPO size as Rs 30,213 crore, establishing it as the largest ever in the Indian market.",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-vs-airtel-shares-which-telecom-giant-offers-greater-valuation-comfort-to-investors/articleshow/135053174.cms",
+        "text": "Indian equities saw significant selling in the banking and IT sectors, dragging the Nifty index under the 23,000 threshold.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-federal-bank-among-4-stock-recommendations-for-wednesday/slideshow/135067773.cms",
         "source": "Markets-Economic Times"
        }
       ]
      }
     },
     {
-     "id": "7e2cbecac83d",
-     "title": "Jio IPO vs Airtel shares: Which telecom giant offers greater valuation comfort to investors?",
-     "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-vs-airtel-shares-which-telecom-giant-offers-greater-valuation-comfort-to-investors/articleshow/135053174.cms",
-     "source": "Markets-Economic Times",
-     "published": "2026-10-20T04:00:00+00:00",
-     "summary": "The Jio IPO will be the largest in Indian history at Rs 30,213 crore, topping the 2024 record set by Hyundai Motor India. Investors are weighing the offer against established competitors like Airtel.",
-     "explain": "An IPO involves a fresh issue of shares, where the company creates new stock to raise capital, as opposed to an 'Offer for Sale' where existing shareholders sell their stake. The size of the IPO (Rs 30,213 crore) represents the total capital the company aims to raise from the public market.",
+     "id": "53776bf07449",
+     "title": "Live updates: Market jitters persist as the AI selloff deepens",
+     "link": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
+     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
+     "published": "2026-10-20T10:14:19+00:00",
+     "summary": "Market volatility continues as the broader sell-off in AI-related stocks persists. Investors are grappling with uncertainty as the tech sector fails to regain its recent momentum.",
+     "explain": "Market jitters refer to a state of nervousness or unease among investors, often characterized by sharp, unpredictable fluctuations in stock prices. The AI sell-off reflects a shift in investor perspective: many are moving from pure hype to questioning whether current AI investments will generate sustainable profits in the near term.",
      "related": [],
      "story": {
-      "id": "markets-jio-platforms-mega-ipo",
-      "title": "Jio Platforms Mega IPO",
-      "so_far": "Jio Platforms, a subsidiary of Reliance Industries, is launching an IPO to raise funds as it pivots from a pure telecom provider to an integrated technology, cloud, and AI platform. It is poised to become India's largest-ever public offering, aiming for a valuation of Rs 10 lakh crore.",
+      "id": "markets-global-ai-sector-sell-off",
+      "title": "Global AI Sector Sell-off",
+      "so_far": "Global tech markets have recently faced volatility as investor enthusiasm for AI-related infrastructure and chip manufacturing cools. Companies that saw massive growth during the AI boom are now struggling with market corrections and reassessments of their long-term earnings potential.",
       "timeline": [
        {
         "date": "2026-10-20",
-        "text": "High-profile global institutional investors have committed Rs 2.5 lakh crore in anchor bids ahead of the public issue opening.",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-draws-rs-2-5-lakh-crore-in-anchor-bids/articleshow/135059075.cms",
+        "text": "South Korean tech stocks experienced sharp declines, with major AI suppliers SK Hynix and Samsung falling heavily amid a broader sector rout.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-kospi-crashes-another-5-as-ai-rout-deepens-ai-bellwether-down-over-40-from-peak/articleshow/135061021.cms",
         "source": "Markets-Economic Times"
        },
        {
         "date": "2026-10-20",
-        "text": "The IPO is set to open tomorrow, October 21, with a high grey market premium suggesting strong potential listing gains.",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms",
-        "source": "Markets-Economic Times"
+        "text": "Broad market pessimism linked to the AI and chip sector is now impacting cryptocurrency prices.",
+        "link": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
        },
        {
         "date": "2026-10-20",
-        "text": "Reliance is reframing Jio's narrative for investors to emphasize its broad technological reach, spanning cloud, AI, and fixed broadband.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-228-a-gb-to-7-5-how-mukesh-ambanis-jio-rewired-indias-internet-and-is-now-seeking-a-10-lakh-crore-valuation/articleshow/135053274.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Official filings confirm the IPO size as Rs 30,213 crore, establishing it as the largest ever in the Indian market.",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-vs-airtel-shares-which-telecom-giant-offers-greater-valuation-comfort-to-investors/articleshow/135053174.cms",
-        "source": "Markets-Economic Times"
+        "text": "Market jitters remain elevated as the correction in AI-related equities deepens.",
+        "link": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
        }
       ]
      }
