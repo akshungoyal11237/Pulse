@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#6001d2">
+<title>Pulse – News & Markets</title>
+<style>
+:root{
+  --bg:#f5f8fa;--card:#fff;--ink:#1d2228;--mute:#5b636a;--line:#e0e4e9;
+  --brand:#6001d2;--brand-soft:#efe5fb;--up:#00873c;--up-bg:#e3f6ea;--down:#d6243a;--down-bg:#fde8eb;
+}
+@media (prefers-color-scheme:dark){
+  :root{--bg:#101518;--card:#1a2025;--ink:#f0f3f5;--mute:#9aa4ac;--line:#2c353c;
+    --brand:#a45df5;--brand-soft:#2a1d3d;--up:#3ccf7a;--up-bg:#12301f;--down:#ff6b7d;--down-bg:#3a1920}
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+a{color:inherit;text-decoration:none}
+button{font:inherit;color:inherit;cursor:pointer}
+.up{color:var(--up)}.down{color:var(--down)}
+.pill{display:inline-block;padding:1px 8px;border-radius:12px;font-weight:600;font-size:13px;white-space:nowrap}
+.pill.up{background:var(--up-bg)}.pill.down{background:var(--down-bg)}
+
+header{background:var(--card);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:20}
+.top{display:flex;align-items:center;gap:12px;max-width:1180px;margin:0 auto;padding:10px 16px}
+.logo{font-weight:800;font-size:20px;color:var(--brand);letter-spacing:-.5px}
+.top .sp{flex:1}
+.stamp{font-size:12px;color:var(--mute);text-align:right}
+.refresh{border:1px solid var(--line);background:var(--card);border-radius:18px;padding:4px 12px;font-size:13px}
+.strip{border-top:1px solid var(--line);overflow-x:auto;scrollbar-width:none}
+.strip::-webkit-scrollbar{display:none}
+.strip-in{display:flex;gap:0;max-width:1180px;margin:0 auto}
+.tk{flex:0 0 auto;padding:8px 16px;border-right:1px solid var(--line);min-width:138px;cursor:pointer}
+.tk b{display:block;font-size:12px;color:var(--mute);font-weight:600}
+.tk span{font-size:14px;font-weight:700}
+.tk i{font-style:normal;font-size:12px;font-weight:600;margin-left:6px}
+nav{max-width:1180px;margin:0 auto;display:flex;overflow-x:auto;scrollbar-width:none;padding:0 8px}
+nav::-webkit-scrollbar{display:none}
+nav button{background:none;border:0;border-bottom:3px solid transparent;padding:10px 14px;font-weight:600;color:var(--mute);white-space:nowrap}
+nav button.on{color:var(--brand);border-color:var(--brand)}
+
+main{max-width:1180px;margin:0 auto;padding:16px}
+.grid{display:grid;gap:16px;grid-template-columns:1fr}
+@media(min-width:900px){.grid.two{grid-template-columns:1.5fr 1fr}}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px}
+.card h2{margin:0 0 10px;font-size:17px}
+.card h3{margin:0 0 6px;font-size:13px;text-transform:uppercase;letter-spacing:.5px;color:var(--mute)}
+.pulse{border-left:4px solid var(--brand);background:var(--brand-soft)}
+.pulse p{margin:0}
+.muted{color:var(--mute)}
+
+.cards{display:grid;gap:10px;grid-template-columns:repeat(auto-fill,minmax(170px,1fr))}
+.idx{border:1px solid var(--line);border-radius:10px;padding:10px 12px;cursor:pointer;background:var(--card)}
+.idx b{font-size:13px;color:var(--mute)}
+.idx .p{font-size:18px;font-weight:700}
+.idx svg{display:block;width:100%;height:34px;margin-top:4px}
+
+table{width:100%;border-collapse:collapse}
+th{font-size:12px;color:var(--mute);text-align:right;font-weight:600;padding:6px 8px;border-bottom:1px solid var(--line)}
+th:first-child,td:first-child{text-align:left}
+td{padding:10px 8px;border-bottom:1px solid var(--line);text-align:right;font-size:14px;white-space:nowrap}
+tr.row{cursor:pointer}
+tr.row:hover{background:var(--bg)}
+td .sym{font-weight:700}
+td .nm{display:block;font-size:12px;color:var(--mute);font-weight:400}
+td svg{width:80px;height:26px;vertical-align:middle}
+.star{background:none;border:0;font-size:16px;color:var(--mute);padding:0 6px 0 0}
+.star.on{color:#f5a800}
+@media(max-width:600px){.hide-m{display:none}}
+
+.news{display:flex;flex-direction:column;gap:12px}
+.art{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+.art .meta{font-size:12px;color:var(--mute);margin-bottom:4px}
+.art h4{margin:0 0 6px;font-size:16px;line-height:1.3}
+.art h4 a:hover{color:var(--brand)}
+.art p{margin:0 0 10px}
+.btns{display:flex;gap:8px;flex-wrap:wrap}
+.btn{border:1px solid var(--line);background:var(--card);border-radius:16px;padding:4px 12px;font-size:13px;font-weight:600}
+.btn.on{background:var(--brand);border-color:var(--brand);color:#fff}
+.tag{display:inline-block;background:var(--brand-soft);color:var(--brand);font-size:12px;font-weight:700;padding:1px 8px;border-radius:10px;margin-right:6px}
+.panel{margin-top:10px;padding:12px;border-radius:10px;background:var(--bg);font-size:14px}
+.panel h5{margin:0 0 4px;font-size:12px;text-transform:uppercase;letter-spacing:.5px;color:var(--mute)}
+.tl{list-style:none;margin:10px 0 0;padding:0 0 0 14px;border-left:2px solid var(--brand)}
+.tl li{margin:0 0 8px;position:relative}
+.tl li::before{content:"";position:absolute;left:-19px;top:6px;width:8px;height:8px;border-radius:50%;background:var(--brand)}
+.tl .d{font-size:12px;color:var(--mute)}
+.tl a{text-decoration:underline;text-decoration-color:var(--line)}
+.mini{display:flex;flex-direction:column;gap:10px}
+.mini a{display:block;padding-bottom:10px;border-bottom:1px solid var(--line)}
+.mini a:last-child{border:0;padding:0}
+.mini small{color:var(--mute)}
+
+dialog{border:0;border-radius:14px;padding:0;width:min(680px,94vw);background:var(--card);color:var(--ink);box-shadow:0 20px 60px rgba(0,0,0,.35)}
+dialog::backdrop{background:rgba(0,0,0,.5)}
+.dlg{padding:18px}
+.dlg .x{float:right;background:none;border:0;font-size:22px;color:var(--mute)}
+.big{font-size:30px;font-weight:800}
+.chart{width:100%;height:220px;margin:10px 0}
+.empty{text-align:center;color:var(--mute);padding:30px}
+footer{max-width:1180px;margin:10px auto 30px;padding:0 16px;color:var(--mute);font-size:12px}
+</style>
+</head>
+<body>
+<header>
+  <div class="top">
+    <div class="logo">Pulse</div>
+    <div class="sp"></div>
+    <div class="stamp" id="stamp">Loading…</div>
+    <button class="refresh" onclick="load(true)">↻</button>
+  </div>
+  <div class="strip"><div class="strip-in" id="strip"></div></div>
+  <nav id="nav"></nav>
+</header>
+<main id="main"></main>
+<footer>Prices from Yahoo Finance (may be delayed) and AMFI via mfapi.in. News summaries are AI-generated and can contain errors; always open the source. Not investment advice.</footer>
+
+<dialog id="dlg"><div class="dlg" id="dlgBody"></div></dialog>
+
+<script>
+const $ = s => document.querySelector(s);
+const esc = s => (s ?? "").toString().replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+let D = null, TAB = location.hash.slice(1) || "home";
+let stars = new Set(); try { stars = new Set(JSON.parse(localStorage.getItem("stars") || "null") || []); } catch(e){}
+let open = {};   // article id -> {story:bool, explain:bool}
+
+function fmt(n, sym){
+  if (n == null) return "–";
+  const big = Math.abs(n) >= 1000;
+  return n.toLocaleString("en-IN", {minimumFractionDigits: big ? 2 : (Math.abs(n) < 10 ? 4 : 2), maximumFractionDigits: big ? 2 : (Math.abs(n) < 10 ? 4 : 2)});
+}
+const sign = n => n > 0 ? "+" : "";
+const cls = n => n >= 0 ? "up" : "down";
+function ago(iso){
+  const m = Math.max(0, (Date.now() - new Date(iso)) / 60000);
+  if (m < 60) return Math.round(m) + "m ago";
+  if (m < 1440) return Math.round(m/60) + "h ago";
+  return Math.round(m/1440) + "d ago";
+}
+function spark(arr, w=100, h=30){
+  if (!arr || arr.length < 2) return "";
+  const mn = Math.min(...arr), mx = Math.max(...arr), r = mx - mn || 1;
+  const pts = arr.map((v,i) => `${(i/(arr.length-1)*w).toFixed(1)},${(h-2-((v-mn)/r)*(h-4)).toFixed(1)}`).join(" ");
+  const c = arr[arr.length-1] >= arr[0] ? "var(--up)" : "var(--down)";
+  return `<svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none"><polyline fill="none" stroke="${c}" stroke-width="1.6" vector-effect="non-scaling-stroke" points="${pts}"/></svg>`;
+}
+const pill = pct => `<span class="pill ${cls(pct)}">${sign(pct)}${pct.toFixed(2)}%</span>`;
+
+/* ------------------------------------------------------------ data */
+async function load(force){
+  try {
+    const r = await fetch("data/data.json?" + (force ? Date.now() : Math.floor(Date.now()/60000)));
+    D = await r.json();
+  } catch(e) {
+    $("#main").innerHTML = `<div class="empty">Couldn't load data/data.json yet. If you just set this up, run the "Update data" workflow once.</div>`;
+    return;
+  }
+  const ist = new Date(D.generated).toLocaleString("en-IN", {timeZone:"Asia/Kolkata", day:"numeric", month:"short", hour:"numeric", minute:"2-digit"});
+  $("#stamp").innerHTML = `News: ${ist} IST<br>Prices: ${ago(D.prices_generated || D.generated)}`;
+  render();
+}
+
+/* ------------------------------------------------------------ chrome */
+function renderStrip(){
+  $("#strip").innerHTML = D.ticker_strip.filter(s => D.quotes[s]).map(s => {
+    const q = D.quotes[s];
+    return `<div class="tk" onclick="openQuote('${esc(s)}')"><b>${esc(q.name)}</b><span>${fmt(q.price)}</span><i class="${cls(q.pct)}">${sign(q.pct)}${q.pct.toFixed(2)}%</i></div>`;
+  }).join("");
+}
+function renderNav(){
+  const tabs = [["home","Home"], ...Object.entries(D.segments).map(([k,v]) => [k, v.label]), ["markets","Markets"], ["funds","Mutual Funds"]];
+  $("#nav").innerHTML = tabs.map(([k,l]) => `<button class="${TAB===k?"on":""}" onclick="go('${k}')">${esc(l)}</button>`).join("");
+}
+function go(t){ TAB = t; location.hash = t; render(); scrollTo(0,0); }
+
+/* ------------------------------------------------------------ news */
+function artHTML(a, compact){
+  const st = open[a.id] || {};
+  const rel = a.related || [];
+  const hasStory = (a.story && (a.story.so_far || a.story.timeline.length)) || rel.length;
+  return `<article class="art">
+    <div class="meta">${a.story ? `<span class="tag">${esc(a.story.title)}</span>` : ""}${esc(a.source)} · ${ago(a.published)}</div>
+    <h4><a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.title)}</a></h4>
+    ${compact ? "" : `<p>${esc(a.summary)}</p>`}
+    <div class="btns">
+      ${hasStory ? `<button class="btn ${st.story?"on":""}" onclick="tog('${a.id}','story')">📖 Story so far</button>` : ""}
+      <button class="btn ${st.explain?"on":""}" onclick="tog('${a.id}','explain')">💡 Explain</button>
+    </div>
+    ${st.story && hasStory ? `<div class="panel">
+      ${a.story && a.story.so_far ? `<h5>Background</h5>${esc(a.story.so_far)}` : ""}
+      ${a.story && a.story.timeline.length ? `<ul class="tl">${a.story.timeline.map(t => `<li><span class="d">${esc(t.date)} · ${esc(t.source)}</span><br><a href="${esc(t.link)}" target="_blank" rel="noopener">${esc(t.text)}</a></li>`).join("")}</ul>` : ""}
+      ${rel.length ? `<h5 style="margin-top:12px">Earlier coverage of this story</h5><ul class="tl">${rel.map(t => `<li><span class="d">${esc(t.date)} · ${esc(t.source)}</span><br><a href="${esc(t.link)}" target="_blank" rel="noopener">${esc(t.title)}</a></li>`).join("")}</ul>` : ""}</div>` : ""}
+    ${st.explain ? `<div class="panel"><h5>In plain words</h5>${a.explain ? esc(a.explain) : `<span class="muted">Explanations need the free AI step. Add your GEMINI_API_KEY as a repo secret (see README Step 4) and they'll appear after the next news update.</span>`}</div>` : ""}
+  </article>`;
+}
+function tog(id, k){ open[id] = open[id] || {}; open[id][k] = !open[id][k]; const y = scrollY; render(); scrollTo(0, y); }
+
+/* ------------------------------------------------------------ market tables */
+function quoteRows(syms){
+  return syms.filter(s => D.quotes[s]).map(q => D.quotes[q]).map(q => `
+    <tr class="row" onclick="openQuote('${esc(q.symbol)}')">
+      <td><button class="star ${stars.has(q.symbol)?"on":""}" onclick="event.stopPropagation();star('${esc(q.symbol)}')">★</button><span class="sym">${esc(q.name)}</span><span class="nm">${esc(q.symbol)}</span></td>
+      <td>${fmt(q.price)}</td>
+      <td class="${cls(q.change)}">${sign(q.change)}${fmt(q.change)}</td>
+      <td>${pill(q.pct)}</td>
+      <td class="hide-m ${cls(q.pct_1m)}">${sign(q.pct_1m)}${q.pct_1m.toFixed(2)}%</td>
+      <td class="hide-m">${spark(q.spark, 80, 26)}</td>
+    </tr>`).join("");
+}
+const tableHead = `<tr><th>Name</th><th>Price</th><th>Change</th><th>% Day</th><th class="hide-m">% 1M</th><th class="hide-m">1M trend</th></tr>`;
+function star(s){ stars.has(s) ? stars.delete(s) : stars.add(s); try{localStorage.setItem("stars", JSON.stringify([...stars]));}catch(e){} render(); }
+
+function openQuote(sym){
+  const q = D.quotes[sym]; if (!q) return;
+  const key = q.name.split(/[ /]/)[0].toLowerCase();
+  const rel = Object.values(D.segments).flatMap(s => s.articles).filter(a => (a.title + " " + a.summary).toLowerCase().includes(key)).slice(0, 5);
+  const mn = Math.min(...q.spark), mx = Math.max(...q.spark);
+  $("#dlgBody").innerHTML = `<button class="x" onclick="dlg.close()">×</button>
+    <div class="muted">${esc(q.symbol)} · as of ${esc(q.asof)}</div>
+    <h2 style="margin:2px 0">${esc(q.name)}</h2>
+    <div><span class="big">${fmt(q.price)}</span> <span class="${cls(q.change)}" style="font-weight:700">${sign(q.change)}${fmt(q.change)}</span> ${pill(q.pct)}</div>
+    <div class="chart">${spark(q.spark, 600, 220).replace('stroke-width="1.6"','stroke-width="2.2"')}</div>
+    <div class="muted" style="display:flex;justify-content:space-between;font-size:13px"><span>1M low ${fmt(mn)}</span><span>1M change <b class="${cls(q.pct_1m)}">${sign(q.pct_1m)}${q.pct_1m.toFixed(2)}%</b></span><span>1M high ${fmt(mx)}</span></div>
+    ${rel.length ? `<h3 style="margin-top:14px">Related headlines</h3><div class="mini">${rel.map(a => `<a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.title)}<br><small>${esc(a.source)} · ${ago(a.published)}</small></a>`).join("")}</div>` : ""}`;
+  dlg.showModal();
+}
+dlg.addEventListener("click", e => { if (e.target === dlg) dlg.close(); });
+
+/* ------------------------------------------------------------ pages */
+function pageHome(){
+  const idx = [...D.market_groups.India.slice(0,2), ...D.market_groups.US.slice(0,2), ...D.market_groups.Crypto.slice(0,1), ...D.market_groups.Commodities.slice(0,1), ...D.market_groups.Forex.slice(0,1)];
+  const watch = [...new Set([...stars, ...D.watchlist])].filter(s => D.quotes[s]);
+  return `
+    ${D.pulse ? `<div class="card pulse" style="margin-bottom:16px"><h3>Why are markets moving? <span style="text-transform:none;font-weight:400">(as of the last news update)</span></h3><p>${esc(D.pulse)}</p></div>` : ""}
+    <div class="card" style="margin-bottom:16px"><h2>Markets</h2>
+      <div class="cards">${idx.filter(s => D.quotes[s]).map(s => { const q = D.quotes[s]; return `<div class="idx" onclick="openQuote('${esc(s)}')"><b>${esc(q.name)}</b><div class="p">${fmt(q.price)}</div>${pill(q.pct)}${spark(q.spark)}</div>`; }).join("")}</div>
+    </div>
+    <div class="grid two">
+      <div class="card"><h2>Watchlist</h2><table>${tableHead}${quoteRows(watch)}</table></div>
+      <div class="card"><h2>Top stories</h2><div class="news">${Object.entries(D.segments).map(([k,s]) => `
+        <div><h3>${esc(s.label)} <a href="#${k}" onclick="go('${k}');return false" style="float:right;color:var(--brand);text-transform:none">All 10 →</a></h3>
+        <div class="mini">${s.articles.slice(0,3).map(a => `<a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.title)}<br><small>${esc(a.source)} · ${ago(a.published)}</small></a>`).join("")}</div></div>`).join("")}</div></div>
+    </div>`;
+}
+function pageNews(k){
+  const s = D.segments[k];
+  if (!s.articles.length) return `<div class="empty">No stories in this section yet.</div>`;
+  return `<div class="news">${s.articles.map(a => artHTML(a)).join("")}</div>`;
+}
+function pageMarkets(){
+  const watch = [...new Set([...stars, ...D.watchlist])].filter(s => D.quotes[s]);
+  return `<div class="news"><div class="card"><h2>Watchlist <span class="muted" style="font-weight:400;font-size:13px">(tap ★ on any row to add)</span></h2><table>${tableHead}${quoteRows(watch)}</table></div>
+  ${Object.entries(D.market_groups).map(([g, syms]) => `<div class="card"><h2>${esc(g)}</h2><table>${tableHead}${quoteRows(syms)}</table></div>`).join("")}</div>`;
+}
+function pageFunds(){
+  if (!D.mutual_funds.length) return `<div class="empty">No mutual funds loaded. Add scheme codes in config.json.</div>`;
+  return `<div class="card"><h2>Mutual funds (NAV)</h2><table><tr><th>Fund</th><th>NAV ₹</th><th>% Day</th><th class="hide-m">% 1M</th><th class="hide-m">1M trend</th></tr>
+    ${D.mutual_funds.map(f => `<tr><td><span class="sym">${esc(f.name)}</span><span class="nm">NAV date ${esc(f.date)}</span></td><td>${fmt(f.nav)}</td><td>${pill(f.pct)}</td><td class="hide-m ${cls(f.pct_1m)}">${sign(f.pct_1m)}${f.pct_1m.toFixed(2)}%</td><td class="hide-m">${spark(f.spark,80,26)}</td></tr>`).join("")}</table>
+    <p class="muted" style="font-size:12px">NAVs are published once a day by AMFI, usually in the evening.</p></div>`;
+}
+
+function render(){
+  if (!D) return;
+  renderStrip(); renderNav();
+  $("#main").innerHTML = TAB === "home" ? pageHome() : TAB === "markets" ? pageMarkets() : TAB === "funds" ? pageFunds() : D.segments[TAB] ? pageNews(TAB) : pageHome();
+}
+addEventListener("hashchange", () => { TAB = location.hash.slice(1) || "home"; render(); });
+load();
+setInterval(() => load(), 5 * 60 * 1000);   // re-read data every 5 min while the page is open
+</script>
+</body>
+</html>

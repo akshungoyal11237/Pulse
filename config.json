@@ -1,0 +1,87 @@
+{
+  "segments": {
+    "india": {
+      "label": "India",
+      "feeds": [
+        "https://www.thehindu.com/news/national/feeder/default.rss",
+        "https://indianexpress.com/section/india/feed/",
+        "https://feeds.feedburner.com/ndtvnews-india-news"
+      ]
+    },
+    "world": {
+      "label": "World",
+      "feeds": [
+        "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "https://www.aljazeera.com/xml/rss/all.xml",
+        "https://www.thehindu.com/news/international/feeder/default.rss"
+      ]
+    },
+    "business": {
+      "label": "Business & Finance",
+      "feeds": [
+        "https://economictimes.indiatimes.com/rssfeedstopstories.cms",
+        "https://www.livemint.com/rss/companies",
+        "https://www.thehindubusinessline.com/feeder/default.rss",
+        "https://www.cnbc.com/id/10001147/device/rss/rss.html"
+      ]
+    },
+    "markets": {
+      "label": "Markets & Crypto",
+      "feeds": [
+        "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
+        "https://www.livemint.com/rss/markets",
+        "https://www.coindesk.com/arc/outboundfeeds/rss/",
+        "https://cointelegraph.com/rss"
+      ]
+    }
+  },
+  "top_n": 10,
+  "max_age_hours": 48,
+
+  "market_groups": {
+    "India": [
+      ["^NSEI", "Nifty 50"],
+      ["^BSESN", "Sensex"],
+      ["^NSEBANK", "Bank Nifty"]
+    ],
+    "US": [
+      ["^GSPC", "S&P 500"],
+      ["^IXIC", "Nasdaq"],
+      ["^DJI", "Dow Jones"]
+    ],
+    "Crypto": [
+      ["BTC-USD", "Bitcoin"],
+      ["ETH-USD", "Ethereum"],
+      ["SOL-USD", "Solana"]
+    ],
+    "Forex": [
+      ["USDINR=X", "USD/INR"],
+      ["EURINR=X", "EUR/INR"],
+      ["EURUSD=X", "EUR/USD"],
+      ["GBPINR=X", "GBP/INR"]
+    ],
+    "Commodities": [
+      ["GC=F", "Gold"],
+      ["SI=F", "Silver"],
+      ["CL=F", "WTI Crude"],
+      ["BZ=F", "Brent Crude"]
+    ]
+  },
+
+  "ticker_strip": ["^NSEI", "^BSESN", "^GSPC", "^IXIC", "BTC-USD", "USDINR=X", "GC=F", "BZ=F"],
+
+  "watchlist": [
+    ["RELIANCE.NS", "Reliance"],
+    ["TCS.NS", "TCS"],
+    ["HDFCBANK.NS", "HDFC Bank"],
+    ["INFY.NS", "Infosys"],
+    ["AAPL", "Apple"],
+    ["NVDA", "Nvidia"],
+    ["MSFT", "Microsoft"]
+  ],
+
+  "mutual_funds": [
+    [120716, "UTI Nifty 50 Index Fund (Direct, Growth)"],
+    [122639, "Parag Parikh Flexi Cap (Direct, Growth)"]
+  ]
+}
