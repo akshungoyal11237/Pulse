@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-21T02:04:30.495652+00:00",
- "prices_generated": "2026-10-21T10:23:06.342431+00:00",
+ "generated": "2026-10-21T10:59:29.173849+00:00",
+ "prices_generated": "2026-10-21T10:59:29.173849+00:00",
  "ai": "gemini",
- "pulse": "Indian markets closed lower today, likely pressured by localized negative sentiment surrounding corporate news and broader caution among investors. In the U.S., indices were mixed as the Dow Jones rose on positive momentum, while concerns over the sustainability of the AI boom possibly kept tech-heavy benchmarks like the Nasdaq flat. Meanwhile, Bitcoin and other cryptocurrencies saw gains following bullish long-term projections, and crude oil volatility continued to impact global commodity sentiment.",
+ "pulse": null,
  "ticker_strip": [
   "^NSEI",
   "^BSESN",
@@ -250,10 +250,10 @@
   "BTC-USD": {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 83179.0078,
-   "change": 238.0078,
-   "pct": 0.29,
-   "pct_1m": -3.95,
+   "price": 83363.1797,
+   "change": 422.1797,
+   "pct": 0.51,
+   "pct_1m": -3.74,
    "spark": [
     86602.9141,
     86172.2812,
@@ -285,17 +285,17 @@
     82017.6016,
     81853.5391,
     82941.0,
-    83179.0078
+    83363.1797
    ],
    "asof": "2026-10-21"
   },
   "ETH-USD": {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 2445.8401,
-   "change": -0.8906,
-   "pct": -0.04,
-   "pct_1m": -11.91,
+   "price": 2459.02,
+   "change": 12.2893,
+   "pct": 0.5,
+   "pct_1m": -11.43,
    "spark": [
     2776.4683,
     2752.6326,
@@ -327,17 +327,17 @@
     2408.7415,
     2404.8152,
     2446.7307,
-    2445.8401
+    2459.02
    ],
    "asof": "2026-10-21"
   },
   "SOL-USD": {
    "symbol": "SOL-USD",
    "name": "Solana",
-   "price": 106.06,
-   "change": -0.3623,
-   "pct": -0.34,
-   "pct_1m": -10.69,
+   "price": 106.77,
+   "change": 0.3477,
+   "pct": 0.33,
+   "pct_1m": -10.09,
    "spark": [
     118.7501,
     118.5074,
@@ -369,7 +369,7 @@
     104.0247,
     104.9262,
     106.4223,
-    106.06
+    106.77
    ],
    "asof": "2026-10-21"
   },
@@ -410,10 +410,10 @@
   "EURINR=X": {
    "symbol": "EURINR=X",
    "name": "EUR/INR",
-   "price": 106.012,
-   "change": -0.362,
-   "pct": -0.34,
-   "pct_1m": -3.65,
+   "price": 106.0569,
+   "change": -0.3171,
+   "pct": -0.3,
+   "pct_1m": -3.61,
    "spark": [
     110.031,
     109.771,
@@ -437,17 +437,17 @@
     106.514,
     106.63,
     106.374,
-    106.012
+    106.0569
    ],
    "asof": "2026-10-21"
   },
   "EURUSD=X": {
    "symbol": "EURUSD=X",
    "name": "EUR/USD",
-   "price": 1.1226,
-   "change": 0.001,
-   "pct": 0.09,
-   "pct_1m": -2.21,
+   "price": 1.1232,
+   "change": 0.0016,
+   "pct": 0.15,
+   "pct_1m": -2.16,
    "spark": [
     1.148,
     1.1465,
@@ -471,16 +471,16 @@
     1.1213,
     1.1225,
     1.1216,
-    1.1226
+    1.1232
    ],
    "asof": "2026-10-21"
   },
   "GBPINR=X": {
    "symbol": "GBPINR=X",
    "name": "GBP/INR",
-   "price": 126.5125,
-   "change": 0.0936,
-   "pct": 0.07,
+   "price": 126.5149,
+   "change": 0.096,
+   "pct": 0.08,
    "pct_1m": -1.59,
    "spark": [
     128.5574,
@@ -505,17 +505,17 @@
     125.4517,
     126.6547,
     126.4189,
-    126.5125
+    126.5149
    ],
    "asof": "2026-10-21"
   },
   "GC=F": {
    "symbol": "GC=F",
    "name": "Gold",
-   "price": 4133.3999,
-   "change": -9.2002,
-   "pct": -0.22,
-   "pct_1m": -5.71,
+   "price": 4144.6001,
+   "change": 2.0,
+   "pct": 0.05,
+   "pct_1m": -5.46,
    "spark": [
     4383.8999,
     4376.3999,
@@ -539,17 +539,17 @@
     4181.1001,
     4160.1001,
     4142.6001,
-    4133.3999
+    4144.6001
    ],
    "asof": "2026-10-21"
   },
   "SI=F": {
    "symbol": "SI=F",
    "name": "Silver",
-   "price": 57.375,
-   "change": -0.331,
-   "pct": -0.57,
-   "pct_1m": -12.84,
+   "price": 57.675,
+   "change": -0.031,
+   "pct": -0.05,
+   "pct_1m": -12.38,
    "spark": [
     65.825,
     65.932,
@@ -573,17 +573,17 @@
     56.995,
     56.974,
     57.706,
-    57.375
+    57.675
    ],
    "asof": "2026-10-21"
   },
   "CL=F": {
    "symbol": "CL=F",
    "name": "WTI Crude",
-   "price": 100.04,
-   "change": -1.75,
-   "pct": -1.72,
-   "pct_1m": 4.45,
+   "price": 99.83,
+   "change": -1.96,
+   "pct": -1.93,
+   "pct_1m": 4.23,
    "spark": [
     95.78,
     94.59,
@@ -607,17 +607,17 @@
     101.41,
     103.66,
     101.79,
-    100.04
+    99.83
    ],
    "asof": "2026-10-21"
   },
   "BZ=F": {
    "symbol": "BZ=F",
    "name": "Brent Crude",
-   "price": 110.9,
-   "change": 2.11,
-   "pct": 1.94,
-   "pct_1m": 10.52,
+   "price": 110.72,
+   "change": 1.93,
+   "pct": 1.77,
+   "pct_1m": 10.34,
    "spark": [
     100.34,
     99.25,
@@ -641,7 +641,7 @@
     109.86,
     109.55,
     108.79,
-    110.9
+    110.72
    ],
    "asof": "2026-10-21"
   },
@@ -962,71 +962,174 @@
    "label": "India",
    "articles": [
     {
-     "id": "8991d5615da0",
-     "title": "'Thank You For Free Publicity': Abhijeet Dipke On Cockroach Effigy In Delhi",
-     "link": "https://www.ndtv.com/india-news/abhijeet-dipke-on-cockroach-effigy-in-delhi-thank-you-for-free-publicity-12212474#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-10-20T23:39:26+00:00",
-     "summary": "A 30-foot cockroach effigy was burned alongside traditional Ravana effigies in Delhi during Dussehra festivities. The display was acknowledged by political commentator Abhijeet Dipke.",
-     "explain": "Burning effigies of Ravana is a customary part of Dussehra, symbolizing the destruction of malevolence. The inclusion of a cockroach effigy serves as a metaphorical protest, likely targeting specific government policies or societal issues, used here as a form of non-violent political commentary.",
+     "id": "0fe7d42e8d5c",
+     "title": "Non-monsoon timetable comes into effect on Konkan route",
+     "link": "https://www.thehindu.com/news/national/kerala/non-monsoon-timetable-comes-into-effect-on-konkan-route/article71606942.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-21T10:53:00+00:00",
+     "summary": "The Konkan Railway has transitioned to its non-monsoon schedule.",
+     "explain": "The Konkan route is famous for its scenic landscapes but is prone to natural disasters like landslides during the rainy season. Changing to a 'monsoon timetable' involves adjusting train speeds and schedules to ensure passenger safety, while the non-monsoon schedule allows for faster transit speeds.",
      "related": [],
      "story": {
-      "id": "india-dussehra-2026-cultural-and-political-eve",
-      "title": "Dussehra 2026 Cultural and Political Events",
-      "so_far": "Large-scale public festivals in Delhi necessitate complex traffic management and enhanced police presence to prevent overcrowding and manage security threats. These logistical plans are coordinated by local police and municipal authorities.",
+      "id": "india-konkan-railway-seasonal-schedule-adjustm",
+      "title": "Konkan Railway Seasonal Schedule Adjustments",
+      "so_far": "The Konkan Railway route spans the western coast of India, connecting Maharashtra, Goa, and Karnataka. Due to the high risk of landslides and track flooding during the heavy monsoon season, the rail operator implements a slower, precautionary 'monsoon timetable' annually before returning to normal operations once the weather stabilizes.",
       "timeline": [
        {
-        "date": "2026-10-20",
-        "text": "A symbolic protest effigy shaped like a cockroach was burned during Dussehra celebrations in Delhi.",
-        "link": "https://www.ndtv.com/india-news/abhijeet-dipke-on-cockroach-effigy-in-delhi-thank-you-for-free-publicity-12212474#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
         "date": "2026-10-21",
-        "text": "Delhi authorities implemented localized traffic restrictions and tightened security for Dussehra celebrations.",
-        "link": "https://www.thehindu.com/news/national/dussehra2026-trafficcurbs-in-dwarka-security-tightened-delhi-ncr/article71604249.ece",
+        "text": "The railway line has officially reverted to its standard non-monsoon timetable.",
+        "link": "https://www.thehindu.com/news/national/kerala/non-monsoon-timetable-comes-into-effect-on-konkan-route/article71606942.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "a0c842a8c171",
-     "title": "Uddhav Thackeray backs youth agitation over voter deletions, slams police crackdown at Dussehra rally",
-     "link": "https://www.thehindu.com/news/national/maharashtra/at-dussehra-rally-uddhav-bats-for-regime-change-promises-acche-din-after-ousting-bjp/article71605421.ece",
+     "id": "aa0c56654061",
+     "title": "Eight web security keys of eMudhra firm used by Govt. and PSUs leaked",
+     "link": "https://www.thehindu.com/sci-tech/technology/eight-web-security-keys-of-firm-used-by-govt-and-psus-leaked/article71606342.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-21T01:46:21+00:00",
-     "summary": "Opposition leader Uddhav Thackeray criticized the government's handling of youth protests regarding alleged voter list deletions. He accused the police of cracking down on demonstrators and ignoring economic grievances.",
-     "explain": "Voter list deletions involve names being removed from electoral rolls, which critics argue disenfranchises eligible citizens. When this is coupled with youth unemployment or exam irregularities, it creates political friction, as opposition leaders attempt to mobilize these frustrated demographics against the ruling administration.",
+     "published": "2026-10-21T10:50:44+00:00",
+     "summary": "Security keys used by eMudhra for government digital certificates have been leaked online.",
+     "explain": "Digital certificates are essentially 'online IDs' used by websites to prove their identity and secure communication. When security keys—tools used to encrypt and protect these certificates—are leaked, it creates a vulnerability that hackers could theoretically use to impersonate trusted government portals.",
      "related": [],
      "story": {
-      "id": "india-political-tensions-and-youth-unrest",
-      "title": "Political Tensions and Youth Unrest",
-      "so_far": "The split in the Shiv Sena has led to a highly polarized political environment in Maharashtra. Competing factions often hold public rallies during major festivals like Dussehra to demonstrate popular support and define their political narratives for the public.",
+      "id": "india-government-digital-security-breach",
+      "title": "Government Digital Security Breach",
+      "so_far": "eMudhra is a major Indian provider of digital signature certificates and authentication services used by various government agencies for secure online transactions. Data breaches in these supply chains can potentially compromise the integrity of digital verification processes for citizens.",
       "timeline": [
        {
-        "date": "2026-10-20",
-        "text": "The Shiv Sena (UBT) and Shinde-led faction held separate rallies, each pivoting to key populist issues ahead of upcoming political cycles.",
-        "link": "https://www.thehindu.com/news/national/maharashtra/rising-crimes-and-farmers-plight-dominate-conversations-at-60th-shiv-sena-ubt-dussera-rally/article71605414.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
         "date": "2026-10-21",
-        "text": "Uddhav Thackeray has publicly aligned with youth groups protesting voter roll inaccuracies in Maharashtra.",
-        "link": "https://www.thehindu.com/news/national/maharashtra/at-dussehra-rally-uddhav-bats-for-regime-change-promises-acche-din-after-ousting-bjp/article71605421.ece",
+        "text": "Eight web security keys from the firm eMudhra, which provides digital certificates for portals like UIDAI and the Income Tax department, have been exposed.",
+        "link": "https://www.thehindu.com/sci-tech/technology/eight-web-security-keys-of-firm-used-by-govt-and-psus-leaked/article71606342.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "f34779b7509f",
-     "title": "Tamil Nadu rain: Schools in Chennai, four other districts declare holiday",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-rain-schools-in-chennai-four-other-districts-declare-holiday/article71606049.ece",
+     "id": "3d2ba92f1452",
+     "title": "Vizianagaram Mayor poll moved to October 29 over Sirimanotsavam; counting stays on October 30",
+     "link": "https://www.thehindu.com/news/national/andhra-pradesh/vizianagaram-mayor-poll-moved-to-october-29-over-sirimanotsavam-counting-stays-on-october-30/article71606033.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-21T01:43:48+00:00",
-     "summary": "Heavy rainfall in Chennai and surrounding districts has led the government to declare a public holiday for schools. Multiple weather stations recorded significant precipitation exceeding 10 cm.",
-     "explain": "Weather stations in India monitor precipitation levels to advise government action, such as school closures, to ensure public safety. Heavy rainfall in urban areas like Chennai can lead to waterlogging, disrupting daily commutes and making travel difficult for students.",
+     "published": "2026-10-21T10:46:14+00:00",
+     "summary": "The Vizianagaram mayoral election has been delayed by one day to avoid conflict with the Sirimanotsavam festival.",
+     "explain": "Local bodies in India often adjust election schedules to ensure maximum voter turnout and administrative efficiency during major regional festivals. Sirimanotsavam is a traditional festival that requires heavy police deployment and street management, making it difficult to conduct elections on the same day.",
+     "related": [],
+     "story": {
+      "id": "india-vizianagaram-local-administrative-update",
+      "title": "Vizianagaram Local Administrative Updates",
+      "so_far": "The Sirimanotsavam is a significant cultural and religious festival in the Vizianagaram district of Andhra Pradesh, drawing large crowds that often disrupt standard administrative and election-related activities.",
+      "timeline": [
+       {
+        "date": "2026-10-21",
+        "text": "The State Election Commission shifted the mayoral poll date to October 29 to accommodate the local Sirimanotsavam festival.",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/vizianagaram-mayor-poll-moved-to-october-29-over-sirimanotsavam-counting-stays-on-october-30/article71606033.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "56f2342f68d4",
+     "title": "Sabarimala pilgrimage: KSRTC to deploy over 1,000 buses",
+     "link": "https://www.thehindu.com/news/national/kerala/sabarimala-pilgrimage-2026-ksrtc-to-deploy-over-1000-buses/article71606818.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-21T10:45:37+00:00",
+     "summary": "The Kerala State Road Transport Corporation (KSRTC) is deploying over 1,000 buses to support the upcoming Sabarimala pilgrimage season.",
+     "explain": "Mandala Pooja and Makaravilakku are the most important festivals at the Sabarimala temple. Because the temple is located in a forest reserve, the state government manages the transit system to ensure safety and prevent overcrowding on the narrow roads leading to the shrine.",
+     "related": [],
+     "story": {
+      "id": "india-sabarimala-pilgrimage-transport-logistic",
+      "title": "Sabarimala Pilgrimage Transport Logistics",
+      "so_far": "The Sabarimala temple in Kerala attracts millions of devotees annually during the winter months. Transporting this volume of people to the hilly, remote temple location requires extensive state-managed logistics and specialized bus services.",
+      "timeline": [
+       {
+        "date": "2026-10-21",
+        "text": "KSRTC announced a massive transport plan involving 1,000+ buses to ferry pilgrims for the Mandala and Makaravilakku poojas.",
+        "link": "https://www.thehindu.com/news/national/kerala/sabarimala-pilgrimage-2026-ksrtc-to-deploy-over-1000-buses/article71606818.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "c951f7ab1f91",
+     "title": "HR Manager cannot be prosecuted for abetment to suicide over denying leave or marking employee absent: Madras High Court",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/hr-manager-cannot-be-prosecuted-for-abetment-to-suicide-over-denying-leave-or-marking-employee-absent-madras-high-court/article71606383.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-21T10:45:06+00:00",
+     "summary": "The Madras High Court ruled that an HR manager cannot be prosecuted for abetment to suicide simply for denying leave or marking an employee absent.",
+     "explain": "Abetment means encouraging or inciting someone to commit a crime. The court held that without 'mens rea' (a guilty mind or specific intent to cause the harm), standard workplace disciplinary actions by an HR manager cannot be labeled as criminal incitement, regardless of the victim's emotional state.",
+     "related": [],
+     "story": {
+      "id": "india-legal-precedents-on-employment-disputes",
+      "title": "Legal Precedents on Employment Disputes",
+      "so_far": "Abetment of suicide is a serious criminal charge in India. Courts have increasingly been asked to determine the limits of employer liability when an employee takes their own life following workplace-related stress or disciplinary actions.",
+      "timeline": [
+       {
+        "date": "2026-10-21",
+        "text": "The court clarified that administrative workplace actions like denying leave do not constitute legal grounds for abetment of suicide.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/hr-manager-cannot-be-prosecuted-for-abetment-to-suicide-over-denying-leave-or-marking-employee-absent-madras-high-court/article71606383.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "796038c3eb40",
+     "title": "Telangana CM Revanth to hold meeting with Congress leaders on El Nino impact",
+     "link": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-to-hold-meeting-with-congress-leaders-on-el-nino-impact/article71607096.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-21T10:43:06+00:00",
+     "summary": "Telangana Chief Minister Revanth Reddy will meet with Congress leaders to discuss potential climate-related impacts.",
+     "explain": "El Nino affects the monsoon patterns, leading to either droughts or excessive flooding. Leaders meet to plan relief measures, monitor water supplies, and ensure farmers have the necessary support to mitigate potential crop failures caused by this climate phenomenon.",
+     "related": [],
+     "story": {
+      "id": "india-telangana-climate-risk-management",
+      "title": "Telangana Climate Risk Management",
+      "so_far": "El Nino is a climate pattern characterized by warmer ocean temperatures, which frequently causes irregular rainfall and extreme heat in parts of India, threatening the state's agriculture-heavy economy.",
+      "timeline": [
+       {
+        "date": "2026-10-21",
+        "text": "The Chief Minister is convening a strategy meeting to address the agricultural and infrastructure impacts of El Nino in Telangana.",
+        "link": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-to-hold-meeting-with-congress-leaders-on-el-nino-impact/article71607096.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "57504da9cf2d",
+     "title": "Modi government has no moral right to remain in power: Congress flags ‘lapses’ in PM-DAKSH scheme",
+     "link": "https://www.thehindu.com/news/national/modi-government-has-no-moral-right-to-remain-in-power-congress-flags-lapses-in-pm-daksh-scheme/article71607013.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-21T10:36:17+00:00",
+     "summary": "The Congress party has accused the government of negligence in the PM-DAKSH skill training scheme.",
+     "explain": "The opposition is criticizing the government for failing to spend allocated funds effectively, suggesting that the intended beneficiaries—marginalized communities—are not receiving the promised job training. Underutilization of budget is often cited as a sign of poor governance.",
+     "related": [],
+     "story": {
+      "id": "india-pm-daksh-scheme-implementation-concerns",
+      "title": "PM-DAKSH Scheme Implementation Concerns",
+      "so_far": "The PM-DAKSH (Pradhan Mantri Dakshta Aur Kushalta Sampann Hitgrahi) scheme is a central government initiative designed to provide skill development training to members of Scheduled Castes, OBCs, and sanitation workers.",
+      "timeline": [
+       {
+        "date": "2026-10-21",
+        "text": "Jairam Ramesh alleged that the PM-DAKSH scheme for marginalized groups has faced severe implementation lapses and massive budget underutilization.",
+        "link": "https://www.thehindu.com/news/national/modi-government-has-no-moral-right-to-remain-in-power-congress-flags-lapses-in-pm-daksh-scheme/article71607013.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "424393f03a4c",
+     "title": "T.N. Minister reviews Northeast monsoon preparedness in Cuddalore",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-minister-reviews-northeast-monsoon-preparedness-in-cuddalore/article71606919.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-21T10:32:46+00:00",
+     "summary": "Authorities in Cuddalore are preparing for the Northeast monsoon with shelters and vulnerability assessments.",
+     "explain": "The Northeast monsoon brings heavy rainfall to coastal Tamil Nadu between October and December. Authorities designate 'vulnerable locations' based on history of flooding and provide cyclone shelters to safely relocate residents living in low-lying or unsafe areas.",
      "related": [],
      "story": {
       "id": "india-tamil-nadu-monsoon-disruptions",
@@ -1038,274 +1141,57 @@
         "text": "Chennai and four other districts have closed schools due to heavy rain and flood alerts.",
         "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-rain-schools-in-chennai-four-other-districts-declare-holiday/article71606049.ece",
         "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "28aac2ac06e9",
-     "title": "J&K government announces annual shifting of capital from Srinagar to Jammu",
-     "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-government-announces-annual-shifting-of-capital-from-srinagar-to-jammu/article71604076.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-21T01:33:48+00:00",
-     "summary": "The Jammu and Kashmir administration has initiated the 'Darbar Move,' shifting official operations from Srinagar to Jammu for the winter season. The transition is scheduled to be complete by November 2.",
-     "explain": "The Darbar Move was established to help the government stay connected to the distinct regions of the territory throughout the year, adapting to the harsh Himalayan winters. It is a unique administrative tradition that balances regional governance needs between the Jammu and Kashmir provinces.",
-     "related": [],
-     "story": {
-      "id": "india-darbar-move-administrative-shift",
-      "title": "Darbar Move Administrative Shift",
-      "so_far": "The 'Darbar Move' is a century-old practice where the Jammu and Kashmir government shifts its secretariat and offices between the two capitals: Srinagar (summer) and Jammu (winter). This bi-annual relocation is a significant logistical operation involving the transfer of thousands of employees and records.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "The annual winter capital shift from Srinagar to Jammu has been officially announced for November 2026.",
-        "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-government-announces-annual-shifting-of-capital-from-srinagar-to-jammu/article71604076.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "f6a8e3dddcac",
-     "title": "Dussehra 2026: Traffic curbs in Dwarka, security tightened in Delhi-NCR and more",
-     "link": "https://www.thehindu.com/news/national/dussehra2026-trafficcurbs-in-dwarka-security-tightened-delhi-ncr/article71604249.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-21T01:28:29+00:00",
-     "summary": "Delhi Traffic Police issued advisories regarding road restrictions in the Dwarka area during Dussehra. Security measures were elevated across the National Capital Region to ensure public safety during the festivities.",
-     "explain": "Traffic advisories are temporary measures used to reroute vehicles away from crowded festival venues. Increased security presence is standard for mass gatherings in capital cities to monitor for potential public order issues or external threats.",
-     "related": [],
-     "story": {
-      "id": "india-dussehra-2026-cultural-and-political-eve",
-      "title": "Dussehra 2026 Cultural and Political Events",
-      "so_far": "Large-scale public festivals in Delhi necessitate complex traffic management and enhanced police presence to prevent overcrowding and manage security threats. These logistical plans are coordinated by local police and municipal authorities.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "A symbolic protest effigy shaped like a cockroach was burned during Dussehra celebrations in Delhi.",
-        "link": "https://www.ndtv.com/india-news/abhijeet-dipke-on-cockroach-effigy-in-delhi-thank-you-for-free-publicity-12212474#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
        },
        {
         "date": "2026-10-21",
-        "text": "Delhi authorities implemented localized traffic restrictions and tightened security for Dussehra celebrations.",
-        "link": "https://www.thehindu.com/news/national/dussehra2026-trafficcurbs-in-dwarka-security-tightened-delhi-ncr/article71604249.ece",
+        "text": "Cuddalore district officials have identified 239 vulnerable areas and readied 233 shelters in anticipation of the Northeast monsoon.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-minister-reviews-northeast-monsoon-preparedness-in-cuddalore/article71606919.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "e9fa501e47f0",
-     "title": "Tiger Shroff firing case: Four arrested for allegedly transporting firearm to Mumbai, helping coordinate operation",
-     "link": "https://www.thehindu.com/news/national/maharashtra/tiger-shroff-firing-case-four-arrested-for-allegedly-transporting-firearm-to-mumbai-helping-coordinate-operation/article71605447.ece",
+     "id": "fdb9612cfb50",
+     "title": "Orange alert for 4 Keralam districts amid heavy rain warning",
+     "link": "https://www.thehindu.com/news/national/kerala/orange-alert-for-4-keralam-districts-amid-heavy-rain-warning/article71606929.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-21T01:28:13+00:00",
-     "summary": "Four additional suspects were arrested in connection with the firing incident involving actor Tiger Shroff. Authorities are investigating their roles in transporting firearms and planning an escape route.",
-     "explain": "This investigation centers on a targeted violent attack. The 'Special Cell' mentioned is an elite investigative unit of the police, typically reserved for high-stakes crimes that involve sophisticated planning or public figures. A 'firing case' refers to an incident where a firearm was discharged, and arrests indicate progress in establishing the culpability of the transport and logistics network behind the attack.",
+     "published": "2026-10-21T10:32:43+00:00",
+     "summary": "Several Kerala districts are on high alert due to heavy rainfall forecasts.",
+     "explain": "An orange alert indicates that authorities and the public should be prepared for heavy rain that could cause damage or travel disruptions. It is one step below a red alert, which implies extreme, life-threatening weather conditions.",
      "related": [],
      "story": {
-      "id": "india-crime-and-investigation-reports",
-      "title": "Crime and Investigation Reports",
-      "so_far": "Public safety incidents involving celebrities in Mumbai frequently trigger immediate political attention and rapid deployment of elite police units due to the high profile of the victims and the risk to the city's reputation.",
+      "id": "india-kerala-heavy-rain-alerts",
+      "title": "Kerala Heavy Rain Alerts",
+      "so_far": "Kerala is frequently impacted by heavy rains that can trigger landslides and waterlogging. The India Meteorological Department (IMD) uses color-coded alerts—Yellow (be aware), Orange (be prepared), and Red (take action)—to inform citizens of impending weather risks.",
       "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "Authorities uncovered that the wife hired a painter with whom she was having an affair to commit the murder due to ongoing domestic conflicts.",
-        "link": "https://www.ndtv.com/india-news/karnataka-woman-falls-for-painter-together-plot-husbands-murder-12208218#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Authorities arrested three suspects in Rajasthan's Kota, with one found to be working for the taxi-service app Rapido.",
-        "link": "https://www.ndtv.com/india-news/tiger-shroff-shooter-works-with-rapido-taxi-app-shares-his-work-status-12207440#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "The murder case of anti-drug activist Parvinder Singh Jhota has been handed over to the CBI following a visit by the Union Home Minister.",
-        "link": "https://www.thehindu.com/news/national/punjab/amit-shah-punjab-visit-parvinder-singh-jhota-murder-case/article71603773.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Amit Shah has personally engaged with the family of a murdered activist, underscoring the political significance of the drug issue in Punjab.",
-        "link": "https://www.ndtv.com/india-news/amit-shah-meets-family-of-bikramjit-singh-killed-over-anti-drug-campaign-12210088#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Three suspects involved in the shooting targeting Tiger Shroff have been arrested and are linked to possible organized crime groups.",
-        "link": "https://www.thehindu.com/news/national/maharashtra/bollywood-tiger-shroff-attack-case-on-october-20-2026/article71603475.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "The legal resolution of the long-standing Gulshan Kumar murder case continues with this High Court ruling.",
-        "link": "https://www.thehindu.com/news/cities/mumbai/gulshan-kumar-murder-case-bombay-hc-upholds-acquittal-of-producer-ramesh-taurani-confirms-conviction-of-one-accused/article61447838.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "A major investigation is underway following a direct threat and shooting incident targeting a celebrity in Mumbai.",
-        "link": "https://www.thehindu.com/news/cities/mumbai/tiger-shroff-firing-in-mumbai-juhu-october-18-2026/article71600449.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "The total number of arrests in the Tiger Shroff shooting case has risen as police expand the investigation to include logistics facilitators.",
-        "link": "https://www.ndtv.com/india-news/4-more-people-including-2-women-arrested-in-tiger-shroff-shooting-case-12212352#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
        {
         "date": "2026-10-21",
-        "text": "Four more individuals have been taken into custody in the ongoing investigation into the shooting incident.",
-        "link": "https://www.thehindu.com/news/national/maharashtra/tiger-shroff-firing-case-four-arrested-for-allegedly-transporting-firearm-to-mumbai-helping-coordinate-operation/article71605447.ece",
+        "text": "An orange alert has been issued for four Kerala districts, while five others remain under a yellow alert for potential severe weather.",
+        "link": "https://www.thehindu.com/news/national/kerala/orange-alert-for-4-keralam-districts-amid-heavy-rain-warning/article71606929.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "255bd9e46001",
-     "title": "Rising Crimes And Farmer’s Plight Dominate Conversations at 60th Shiv Sena (UBT) Dussera Rally",
-     "link": "https://www.thehindu.com/news/national/maharashtra/rising-crimes-and-farmers-plight-dominate-conversations-at-60th-shiv-sena-ubt-dussera-rally/article71605414.ece",
+     "id": "d332ff06adfa",
+     "title": "Kochi’s waste management facilities under scanner after Perumbavoor yard fire",
+     "link": "https://www.thehindu.com/news/cities/Kochi/kochis-waste-management-facilities-under-scanner-after-perumbavoor-yard-fire/article71606932.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-20T23:33:29+00:00",
-     "summary": "Political rhetoric intensified at competing Dussehra rallies in Maharashtra. Both the Shiv Sena (UBT) and the Eknath Shinde-led faction used the platform to address crime, farmer distress, and student grievances over paper leaks.",
-     "explain": "Dussehra rallies are a traditional platform for major political parties in Maharashtra to address their base. When parties focus on issues like farmer plight and paper leaks—where exam questions are leaked before the test, compromising fairness—they are attempting to capture the sentiment of voters impacted by economic and institutional instability.",
+     "published": "2026-10-21T10:21:24+00:00",
+     "summary": "Kochi's waste management infrastructure is under scrutiny following a fire at a facility.",
+     "explain": "The 'Suchitwa Mission' is a program in Kerala aimed at achieving total sanitation and clean waste management. Recent fires in waste dumping yards are common occurrences when improper storage or hazardous materials are left in the heat, leading to investigations into regulatory compliance.",
      "related": [],
      "story": {
-      "id": "india-political-tensions-and-youth-unrest",
-      "title": "Political Tensions and Youth Unrest",
-      "so_far": "The split in the Shiv Sena has led to a highly polarized political environment in Maharashtra. Competing factions often hold public rallies during major festivals like Dussehra to demonstrate popular support and define their political narratives for the public.",
+      "id": "india-waste-management-infrastructure-oversigh",
+      "title": "Waste Management Infrastructure Oversight",
+      "so_far": "Waste management in growing urban centers like Kochi has become a significant environmental and public health issue. The government employs various private firms under the 'Suchitwa Mission' to handle non-biodegradable waste, though unregulated firms continue to operate.",
       "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "The Shiv Sena (UBT) and Shinde-led faction held separate rallies, each pivoting to key populist issues ahead of upcoming political cycles.",
-        "link": "https://www.thehindu.com/news/national/maharashtra/rising-crimes-and-farmers-plight-dominate-conversations-at-60th-shiv-sena-ubt-dussera-rally/article71605414.ece",
-        "source": "India Latest News: Top National Headline"
-       },
        {
         "date": "2026-10-21",
-        "text": "Uddhav Thackeray has publicly aligned with youth groups protesting voter roll inaccuracies in Maharashtra.",
-        "link": "https://www.thehindu.com/news/national/maharashtra/at-dussehra-rally-uddhav-bats-for-regime-change-promises-acche-din-after-ousting-bjp/article71605421.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "3bd80cc154c1",
-     "title": "Left parties should sell books from party offices, not at Durga Puja pandals, says West Bengal CM",
-     "link": "https://www.thehindu.com/news/national/west-bengal/left-parties-should-sell-books-from-party-offices-not-at-durga-puja-pandals-says-west-bengal-cm/article71605199.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-20T23:16:25+00:00",
-     "summary": "West Bengal Chief Minister Suvendu Adhikari sparked controversy by suggesting that Left parties should confine book sales to their party offices rather than Durga Puja pandals. This follows reports of attacks on Left-aligned book stalls at festival sites.",
-     "explain": "A 'pandal' is a temporary structure set up for the public worship of the goddess Durga. Political stalls are common at these sites to engage with the public, but their presence can lead to friction when political rivals view the spaces as exclusive or when security incidents occur, leading to calls for increased regulation.",
-     "related": [],
-     "story": {
-      "id": "india-west-bengal-political-discourse",
-      "title": "West Bengal Political Discourse",
-      "so_far": "Durga Puja in West Bengal is both a significant religious festival and a major cultural event where political parties often set up information stalls. Recent tensions have surfaced between political groups over the use of these public spaces for ideological promotion.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "Chief Minister Suvendu Adhikari commented on the presence of political book stalls at religious festival grounds.",
-        "link": "https://www.thehindu.com/news/national/west-bengal/left-parties-should-sell-books-from-party-offices-not-at-durga-puja-pandals-says-west-bengal-cm/article71605199.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "485c44ba90b5",
-     "title": "4 More People, Including 2 Women, Arrested In Tiger Shroff Shooting Case",
-     "link": "https://www.ndtv.com/india-news/4-more-people-including-2-women-arrested-in-tiger-shroff-shooting-case-12212352#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-10-20T23:10:00+00:00",
-     "summary": "Mumbai police arrested four more individuals, including two women, linked to the shooting incident involving Tiger Shroff. All suspects have been placed into police custody for further interrogation.",
-     "explain": "The investigation is currently tracking the network supporting the shooter. By arresting logistics facilitators—those who help with transportation or planning—the police aim to dismantle the infrastructure that allowed the violent act to take place.",
-     "related": [],
-     "story": {
-      "id": "india-crime-and-investigation-reports",
-      "title": "Crime and Investigation Reports",
-      "so_far": "Public safety incidents involving celebrities in Mumbai frequently trigger immediate political attention and rapid deployment of elite police units due to the high profile of the victims and the risk to the city's reputation.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "Authorities uncovered that the wife hired a painter with whom she was having an affair to commit the murder due to ongoing domestic conflicts.",
-        "link": "https://www.ndtv.com/india-news/karnataka-woman-falls-for-painter-together-plot-husbands-murder-12208218#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Authorities arrested three suspects in Rajasthan's Kota, with one found to be working for the taxi-service app Rapido.",
-        "link": "https://www.ndtv.com/india-news/tiger-shroff-shooter-works-with-rapido-taxi-app-shares-his-work-status-12207440#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "The murder case of anti-drug activist Parvinder Singh Jhota has been handed over to the CBI following a visit by the Union Home Minister.",
-        "link": "https://www.thehindu.com/news/national/punjab/amit-shah-punjab-visit-parvinder-singh-jhota-murder-case/article71603773.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Amit Shah has personally engaged with the family of a murdered activist, underscoring the political significance of the drug issue in Punjab.",
-        "link": "https://www.ndtv.com/india-news/amit-shah-meets-family-of-bikramjit-singh-killed-over-anti-drug-campaign-12210088#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Three suspects involved in the shooting targeting Tiger Shroff have been arrested and are linked to possible organized crime groups.",
-        "link": "https://www.thehindu.com/news/national/maharashtra/bollywood-tiger-shroff-attack-case-on-october-20-2026/article71603475.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "The legal resolution of the long-standing Gulshan Kumar murder case continues with this High Court ruling.",
-        "link": "https://www.thehindu.com/news/cities/mumbai/gulshan-kumar-murder-case-bombay-hc-upholds-acquittal-of-producer-ramesh-taurani-confirms-conviction-of-one-accused/article61447838.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "A major investigation is underway following a direct threat and shooting incident targeting a celebrity in Mumbai.",
-        "link": "https://www.thehindu.com/news/cities/mumbai/tiger-shroff-firing-in-mumbai-juhu-october-18-2026/article71600449.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "The total number of arrests in the Tiger Shroff shooting case has risen as police expand the investigation to include logistics facilitators.",
-        "link": "https://www.ndtv.com/india-news/4-more-people-including-2-women-arrested-in-tiger-shroff-shooting-case-12212352#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-10-21",
-        "text": "Four more individuals have been taken into custody in the ongoing investigation into the shooting incident.",
-        "link": "https://www.thehindu.com/news/national/maharashtra/tiger-shroff-firing-case-four-arrested-for-allegedly-transporting-firearm-to-mumbai-helping-coordinate-operation/article71605447.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "a2ac3c00fd4f",
-     "title": "Dasara gift for Singareni officers, Dy CM fulfils long-pending demand",
-     "link": "https://www.thehindu.com/news/national/telangana/dasara-gift-for-singareni-officers-dy-cm-fulfils-long-pending-demand/article71604614.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-20T23:04:31+00:00",
-     "summary": "Singareni Collieries management has approved a revised pay structure for officers, fulfilling a long-standing demand. The order was issued following board approval on October 19.",
-     "explain": "A 'pay structure' revision typically involves adjusting the base salary and allowances of employees. In the context of a public sector company like Singareni, these revisions require official board approval to ensure compliance with financial regulations and union agreements.",
-     "related": [],
-     "story": {
-      "id": "india-singareni-collieries-pay-revision",
-      "title": "Singareni Collieries Pay Revision",
-      "so_far": "Singareni Collieries Company Limited is a government-owned coal mining enterprise. Pay revision demands are frequent in such public sector undertakings, often involving complex negotiations between employee unions and the board regarding salary grades and market competitiveness.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "A revised pay scale for Singareni officers has been formally implemented after board approval.",
-        "link": "https://www.thehindu.com/news/national/telangana/dasara-gift-for-singareni-officers-dy-cm-fulfils-long-pending-demand/article71604614.ece",
+        "text": "Following a fire at a Perumbavoor waste yard, the local government is investigating the practices of empanelled and unauthorized waste management firms.",
+        "link": "https://www.thehindu.com/news/cities/Kochi/kochis-waste-management-facilities-under-scanner-after-perumbavoor-yard-fire/article71606932.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
@@ -1317,215 +1203,198 @@
    "label": "World",
    "articles": [
     {
-     "id": "10612e0d8742",
-     "title": "Musk confirms SpaceX and Tesla exploring merger",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/musk-confirms-spacex-and-tesla-exploring-merger?traffic_source=rss",
+     "id": "ab2d179eb1a5",
+     "title": "Australian MP loses both legs in vehicle attack as suspect appears in court",
+     "link": "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-21T01:19:22+00:00",
-     "summary": "Elon Musk has announced that SpaceX and Tesla are exploring a potential merger to create a company valued at approximately $3.5 trillion.",
-     "explain": "A corporate merger occurs when two companies combine to form a new, single organization. This often happens to increase market share, combine resources, or diversify business operations. In this case, combining an electric car maker with a space exploration company would be unprecedented, potentially pooling technical expertise in batteries, artificial intelligence, and manufacturing.",
+     "published": "2026-10-21T08:34:37+00:00",
+     "summary": "Independent MP Helen Haines remains in stable condition following a deliberate vehicle attack that resulted in the loss of both her legs.",
+     "explain": "Helen Haines, an independent member of the Australian Parliament, was targeted in a car-ramming incident. Such attacks against elected officials are extremely rare in Australia and are treated as serious crimes; authorities are currently investigating the suspect's motives to determine if the attack was politically motivated.",
      "related": [],
      "story": {
-      "id": "world-potential-tesla-and-spacex-merger",
-      "title": "Potential Tesla and SpaceX Merger",
-      "so_far": "Tesla is a publicly traded electric vehicle and clean energy company led by Elon Musk, while SpaceX is a private aerospace manufacturer and space transportation company. Both are central players in their respective industries, with Musk serving as the CEO of both. A merger would represent one of the largest corporate consolidations in history.",
+      "id": "world-australian-mp-car-ramming",
+      "title": "Australian MP Car Ramming",
+      "so_far": "Political violence, even if isolated, is treated with extreme seriousness in Australia. Helen Haines is an independent member of parliament, and the act of targeting an elected official is currently under criminal investigation to determine the suspect's motives.",
       "timeline": [
        {
         "date": "2026-10-20",
-        "text": "The company boards have formally launched an internal review process regarding the merger.",
-        "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "text": "Authorities have taken a 43-year-old suspect into custody following the car ramming of MP Helen Haines.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/deliberate-car-ramming-of-australian-mp-an-isolated-incident-police-say?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
        },
        {
         "date": "2026-10-21",
-        "text": "Special committees have been established at both companies to evaluate the feasibility of merging into a single entity.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/musk-confirms-spacex-and-tesla-exploring-merger?traffic_source=rss",
+        "text": "The victim has been confirmed to have lost both legs in the incident, and her husband reports she is in stable condition.",
+        "link": "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-21",
+        "text": "The suspect, Brendan Nugent, has been formally charged with three offenses and appeared in court.",
+        "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
        }
       ]
      }
     },
     {
-     "id": "02d0a294e66b",
-     "title": "Elon Musk says Tesla-SpaceX merger being considered",
-     "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+     "id": "b5ddf29d3699",
+     "title": "Australian MP loses both legs after alleged car attack, husband says",
+     "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-10-20T23:24:47+00:00",
-     "summary": "Following initial reports, Elon Musk confirmed that Tesla and SpaceX have formed committees to explore a mega-merger.",
-     "explain": "When companies explore a merger, they usually create committees of independent board members to ensure the deal is fair for shareholders. Because Tesla is a public company and SpaceX is private, such a transaction would be complex, requiring a valuation of SpaceX's shares and approval from regulators.",
+     "published": "2026-10-21T07:56:30+00:00",
+     "summary": "The suspect accused of attacking Australian MP Helen Haines, 43-year-old Brendan Nugent, has made his first court appearance.",
+     "explain": "In the Australian legal system, a first court appearance is a procedural step where charges are read to the defendant. Authorities are now managing the case as a criminal prosecution while the victim recovers.",
      "related": [],
      "story": {
-      "id": "world-potential-tesla-and-spacex-merger",
-      "title": "Potential Tesla and SpaceX Merger",
-      "so_far": "Tesla is a publicly traded electric vehicle and clean energy company led by Elon Musk, while SpaceX is a private aerospace manufacturer and space transportation company. Both are central players in their respective industries, with Musk serving as the CEO of both. A merger would represent one of the largest corporate consolidations in history.",
+      "id": "world-australian-mp-car-ramming",
+      "title": "Australian MP Car Ramming",
+      "so_far": "Political violence, even if isolated, is treated with extreme seriousness in Australia. Helen Haines is an independent member of parliament, and the act of targeting an elected official is currently under criminal investigation to determine the suspect's motives.",
       "timeline": [
        {
         "date": "2026-10-20",
-        "text": "The company boards have formally launched an internal review process regarding the merger.",
-        "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "text": "Authorities have taken a 43-year-old suspect into custody following the car ramming of MP Helen Haines.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/deliberate-car-ramming-of-australian-mp-an-isolated-incident-police-say?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
        },
        {
         "date": "2026-10-21",
-        "text": "Special committees have been established at both companies to evaluate the feasibility of merging into a single entity.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/musk-confirms-spacex-and-tesla-exploring-merger?traffic_source=rss",
+        "text": "The victim has been confirmed to have lost both legs in the incident, and her husband reports she is in stable condition.",
+        "link": "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-21",
+        "text": "The suspect, Brendan Nugent, has been formally charged with three offenses and appeared in court.",
+        "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
        }
       ]
      }
     },
     {
-     "id": "7fd9c7d355d0",
-     "title": "France is divided over who to blame for and what to learn from weekend riots",
-     "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+     "id": "7346b4cf575b",
+     "title": "U.S. envoy to meet Putin after 'positive' talks with Zelenskyy",
+     "link": "https://www.thehindu.com/news/international/us-envoy-witkoff-meets-putin-in-saint-petersburg/article71606691.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-10-21T07:51:17+00:00",
+     "summary": "A U.S. special envoy appointed by President Donald Trump is set to meet Vladimir Putin following productive discussions with Ukrainian President Volodymyr Zelenskyy.",
+     "explain": "A special envoy is a diplomatic representative sent by a country's leader to handle a specific issue. This mission aims to mediate the conflict between Ukraine and Russia, which is significant because the U.S. plays a major role in providing military aid and political support to Ukraine.",
+     "related": [],
+     "story": {
+      "id": "world-u-s-diplomatic-efforts-in-ukraine",
+      "title": "U.S. Diplomatic Efforts in Ukraine",
+      "so_far": "The war in Ukraine began with the 2022 Russian invasion, leading to widespread Western support for Kyiv. Relations between the current U.S. administration and the Ukrainian government have occasionally been strained, complicating international efforts to negotiate a peace or a ceasefire.",
+      "timeline": [
+       {
+        "date": "2026-10-21",
+        "text": "A U.S. envoy is engaging in high-level diplomacy with both Kyiv and Moscow to resolve tensions regarding the ongoing war.",
+        "link": "https://www.thehindu.com/news/international/us-envoy-witkoff-meets-putin-in-saint-petersburg/article71606691.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "ed3e9da6ae99",
+     "title": "US citizen Stephen Hubbard freed by Russia and 'on his way home', Trump says",
+     "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-10-21T01:22:51+00:00",
-     "summary": "France is experiencing intense public and political debate following widespread civil unrest across several cities.",
-     "explain": "Civil unrest involves organized or spontaneous public protests that turn violent. The current debate in France highlights deep divisions over whether these riots stem from systemic social exclusion or a breakdown in law and order, a common theme in French political discourse during times of turmoil.",
+     "published": "2026-10-21T10:52:00+00:00",
+     "summary": "U.S. citizen and former teacher Stephen Hubbard has been released from Russian custody, with President Trump confirming he is returning home.",
+     "explain": "The release of a detained citizen is a high-stakes diplomatic achievement. Often, these releases require years of negotiation, and the fact that no 'swap' (an exchange of prisoners) was required is notable for its impact on U.S.-Russia relations.",
      "related": [],
      "story": {
-      "id": "world-france-civil-unrest-debate",
-      "title": "France Civil Unrest Debate",
-      "so_far": "France frequently grapples with social tension related to economic inequality, policing methods, and integration. Previous periods of unrest have often triggered national introspection regarding the country's social contract, leading to calls for policy reforms or stricter law enforcement.",
+      "id": "world-release-of-u-s-citizen-from-russia",
+      "title": "Release of U.S. Citizen from Russia",
+      "so_far": "Russia has historically held various U.S. citizens in detention, often using them as bargaining chips in broader geopolitical disputes. The process for their release typically involves complex diplomatic negotiations or prisoner swaps between Washington and Moscow.",
       "timeline": [
        {
         "date": "2026-10-21",
-        "text": "Disagreements persist regarding the causes and lessons of the recent riots.",
-        "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+        "text": "Stephen Hubbard, a U.S. citizen, was released by Russia without the need for a prisoner exchange.",
+        "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
        }
       ]
      }
     },
     {
-     "id": "874289b95c7d",
-     "title": "Rubio says India-U.S. trade deal close, urges New Delhi to boost U.S. energy, defence buys",
-     "link": "https://www.thehindu.com/news/international/india-us-talks-push-energy-defence-cooperation/article71606041.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-10-21T01:18:25+00:00",
-     "summary": "U.S. and Indian officials are nearing a bilateral trade agreement, with U.S. representatives encouraging India to increase its energy and defense procurement.",
-     "explain": "A bilateral trade agreement is a deal between two nations to lower trade barriers, such as taxes on imported goods (tariffs), making it easier for businesses to sell products across borders. These deals are significant because they signal closer geopolitical ties and can impact jobs, pricing, and national security.",
-     "related": [],
-     "story": {
-      "id": "world-u-s-india-trade-negotiations",
-      "title": "U.S.-India Trade Negotiations",
-      "so_far": "The U.S. and India have been strengthening their strategic partnership to counter regional influence, particularly regarding China. Trade talks have been ongoing for years, aiming to lower tariffs and streamline economic cooperation between the world's two largest democracies.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "The Indian Ministry of External Affairs confirmed significant progress in recent negotiations.",
-        "link": "https://www.thehindu.com/news/international/india-us-talks-push-energy-defence-cooperation/article71606041.ece",
-        "source": "World News: Latest International News & "
-       }
-      ]
-     }
-    },
-    {
-     "id": "b89a1b698846",
-     "title": "US jails Guatemalan man for 30 years over deadly smuggling operation",
-     "link": "https://www.aljazeera.com/news/2026/10/21/us-jails-guatemalan-man-for-30-years-over-deadly-smuggling-operation?traffic_source=rss",
+     "id": "6c80f267e6d9",
+     "title": "UK approves development of Jackdaw gasfield in North Sea",
+     "link": "https://www.aljazeera.com/news/2026/10/21/uk-approves-development-of-jackdaw-gasfield-in-north-sea?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-21T01:01:25+00:00",
-     "summary": "A Guatemalan man has been sentenced to 30 years in prison in the U.S. for his role in a 2022 human smuggling operation that resulted in 53 deaths.",
-     "explain": "Human smuggling involves the illegal transportation of people across borders. This case illustrates the life-threatening conditions migrants often face when relying on criminal smuggling networks that prioritize profit over human safety. A 30-year sentence is a significant legal penalty intended to deter similar criminal operations.",
+     "published": "2026-10-21T10:28:18+00:00",
+     "summary": "The UK government has authorized the development of the Jackdaw gas field in the North Sea, sparking backlash from environmentalists.",
+     "explain": "A gas field is an area where natural gas is extracted from underground reservoirs. Developing new fields is controversial because, while it helps secure domestic energy supplies, it contradicts efforts to transition to renewable energy to combat climate change.",
      "related": [],
      "story": {
-      "id": "world-deadly-human-smuggling-case",
-      "title": "Deadly Human Smuggling Case",
-      "so_far": "In 2022, a tractor-trailer was found abandoned in San Antonio, Texas, containing dozens of migrants who had succumbed to extreme heat and lack of ventilation. It remains one of the deadliest human smuggling events in U.S. history, highlighting the severe dangers of unregulated border crossing methods.",
+      "id": "world-uk-north-sea-gas-development",
+      "title": "UK North Sea Gas Development",
+      "so_far": "The UK has been under pressure to balance energy security, which often relies on fossil fuels, with its climate commitments to reach net-zero carbon emissions by 2050. Expanding North Sea drilling is a contentious issue pitting economic needs against environmental policy.",
       "timeline": [
        {
         "date": "2026-10-21",
-        "text": "A federal court has issued a 30-year sentence to the defendant involved in the tractor-trailer incident.",
-        "link": "https://www.aljazeera.com/news/2026/10/21/us-jails-guatemalan-man-for-30-years-over-deadly-smuggling-operation?traffic_source=rss",
+        "text": "The UK government approved new fossil fuel extraction in the North Sea despite climate-related opposition.",
+        "link": "https://www.aljazeera.com/news/2026/10/21/uk-approves-development-of-jackdaw-gasfield-in-north-sea?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
        }
       ]
      }
     },
     {
-     "id": "620dc4bc3763",
-     "title": "Musk ordered reduction in Starshield services for Ukraine: report",
-     "link": "https://www.thehindu.com/news/international/musk-ordered-reduced-starshield-services-for-ukraine/article71606038.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-10-21T00:55:31+00:00",
-     "summary": "Reports suggest SpaceX has restricted Starshield services in Ukraine amid political friction over regional military tactics.",
-     "explain": "Starshield is a satellite-based network built by SpaceX specifically for government and military use. Unlike civilian internet, it is designed for secure, hardened communications. The tension here reflects the challenge of relying on private technology companies for critical wartime military operations.",
-     "related": [],
-     "story": {
-      "id": "world-ukraine-satellite-communication-access",
-      "title": "Ukraine Satellite Communication Access",
-      "so_far": "SpaceX’s Starlink has been a vital tool for Ukrainian communications since the 2022 Russian invasion. Starshield, a militarized version of the service, provides encrypted, secure data transmission. Access has previously been a point of contention involving Musk's concerns about the scope of the war and U.S. foreign policy alignment.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "President Zelenskyy held talks regarding the use of Starshield and Starlink technology amidst the ongoing war with Russia.",
-        "link": "https://www.thehindu.com/news/international/zelenskyy-says-spoke-to-rubio-over-starlink-starshield-issues/article71604158.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-10-21",
-        "text": "SpaceX has allegedly reduced military satellite access following disagreements regarding Ukrainian targeting of Russian infrastructure.",
-        "link": "https://www.thehindu.com/news/international/musk-ordered-reduced-starshield-services-for-ukraine/article71606038.ece",
-        "source": "World News: Latest International News & "
-       }
-      ]
-     }
-    },
-    {
-     "id": "b5d913ea2087",
-     "title": "Why former FDLR fighters are returning to Rwanda",
-     "link": "https://www.aljazeera.com/news/2026/10/21/why-former-fdlr-fighters-are-returning-to-rwanda?traffic_source=rss",
+     "id": "253c67ea0fed",
+     "title": "WW1 to Houthis: British jets for Saudi Arabia build on long military bond",
+     "link": "https://www.aljazeera.com/news/2026/10/21/ww1-to-houthis-british-jets-for-saudi-arabia-build-on-long-military-bond?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-21T00:25:43+00:00",
-     "summary": "Former FDLR fighters are returning to Rwanda from the forest to undergo reintegration processes.",
-     "explain": "Reintegration is a process that helps former soldiers leave armed conflict, undergo background checks, and receive training so they can live as civilians. This is a sensitive political process that aims to resolve long-standing instability and lingering trauma from the Rwandan civil war period.",
+     "published": "2026-10-21T10:22:35+00:00",
+     "summary": "A new report highlights the long-standing military bond between the UK and Saudi Arabia, including current deployments to support Saudi defense.",
+     "explain": "Military cooperation refers to the sharing of weapons, intelligence, and personnel between countries. The UK's support for the Saudi-led coalition in Yemen is a core part of this relationship, which is frequently debated in the context of international humanitarian law.",
      "related": [],
      "story": {
-      "id": "world-reintegration-of-fdlr-fighters",
-      "title": "Reintegration of FDLR Fighters",
-      "so_far": "The FDLR is a rebel group primarily active in the Democratic Republic of the Congo, composed of individuals who fled Rwanda following the 1994 genocide. Rwanda has long sought to neutralize this group, viewing them as a significant security threat. Reintegration centers like Mutobo are part of a government initiative to transition former combatants back into society.",
+      "id": "world-uk-saudi-arabia-military-ties",
+      "title": "UK-Saudi Arabia Military Ties",
+      "so_far": "The UK and Saudi Arabia maintain a deep relationship defined by significant arms sales, military training, and strategic defense agreements. This partnership is often criticized by human rights groups due to Saudi involvement in the civil war in Yemen.",
       "timeline": [
        {
         "date": "2026-10-21",
-        "text": "Former members of the armed group are being processed at Mutobo for civilian life.",
-        "link": "https://www.aljazeera.com/news/2026/10/21/why-former-fdlr-fighters-are-returning-to-rwanda?traffic_source=rss",
+        "text": "Journalists have analyzed the historical and current military cooperation between the UK and Saudi Arabia, including the use of British jets.",
+        "link": "https://www.aljazeera.com/news/2026/10/21/ww1-to-houthis-british-jets-for-saudi-arabia-build-on-long-military-bond?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
        }
       ]
      }
     },
     {
-     "id": "1c1f63fe711e",
-     "title": "One year on: Has Kenya’s opposition lost its way without Raila Odinga?",
-     "link": "https://www.aljazeera.com/news/2026/10/21/one-year-on-has-kenyas-opposition-lost-its-way-without-raila-odinga?traffic_source=rss",
+     "id": "5a14bd2252b6",
+     "title": "Paramilitary hitman linked to British right-wing group Turning Point UK",
+     "link": "https://www.aljazeera.com/news/2026/10/21/paramilitary-hitman-linked-to-british-right-wing-group-turning-point-uk?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-21T00:22:19+00:00",
-     "summary": "One year after the transition of leadership, Kenya’s opposition faces internal fractures.",
-     "explain": "An opposition party exists to challenge the ruling government. When a charismatic leader like Odinga leaves, parties often struggle to remain cohesive, as different factions debate whether to oppose the government aggressively or cooperate to gain influence.",
+     "published": "2026-10-21T10:20:41+00:00",
+     "summary": "An investigation has linked a paramilitary hitman to the British right-wing organization Turning Point UK.",
+     "explain": "Turning Point UK is a political group that promotes conservative and right-wing ideologies. Alleged links between such groups and criminal figures are significant because they raise questions about the safety of political discourse and the potential for radicalization.",
      "related": [],
      "story": {
-      "id": "world-kenya-opposition-stability",
-      "title": "Kenya Opposition Stability",
-      "so_far": "Raila Odinga has been a central figure in Kenyan politics for decades, often leading opposition movements against the establishment. His departure from frontline active politics has left a power vacuum, causing his party (ODM) to struggle with its identity and strategy under the current administration.",
+      "id": "world-uk-far-right-and-criminal-links",
+      "title": "UK Far-Right and Criminal Links",
+      "so_far": "In recent years, there has been increased scrutiny of extremist movements in the UK and their potential intersections with organized crime. These investigations often aim to uncover how political groups are funded or supported through illicit means.",
       "timeline": [
        {
         "date": "2026-10-21",
-        "text": "The ODM party is experiencing internal splits regarding its political alignment with President William Ruto.",
-        "link": "https://www.aljazeera.com/news/2026/10/21/one-year-on-has-kenyas-opposition-lost-its-way-without-raila-odinga?traffic_source=rss",
+        "text": "An expose has revealed direct connections between members of the British far-right and the criminal underworld.",
+        "link": "https://www.aljazeera.com/news/2026/10/21/paramilitary-hitman-linked-to-british-right-wing-group-turning-point-uk?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
        }
       ]
      }
     },
     {
-     "id": "d8d888c49f65",
-     "title": "King Charles welcomes Omani sultan, hails peace efforts in UK state visit",
-     "link": "https://www.aljazeera.com/news/2026/10/21/king-charles-welcomes-omani-sultan-hails-peace-efforts-in-uk-state-visit?traffic_source=rss",
+     "id": "2fa6da98b9bf",
+     "title": "UK king welcomes Oman’s sultan in speech quoting Prophet Muhammad",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/uk-king-welcomes-omans-sultan-in-speech-quoting-prophet-muhammad?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-21T00:08:25+00:00",
-     "summary": "King Charles III hosted the Sultan of Oman for a state visit, highlighting Oman's diplomatic role in regional stability.",
-     "explain": "A state visit is a formal visit by a head of state to another country to strengthen diplomatic relations. The mention of the Strait of Hormuz is significant because any threat to this area, often by Iran, creates a risk of global economic disruption due to potential blockages in oil transit.",
+     "published": "2026-10-21T10:17:41+00:00",
+     "summary": "King Charles III hosted Sultan Haitham bin Tariq of Oman for the first state visit between the two nations in 44 years.",
+     "explain": "A state visit is a high-level diplomatic journey made by a head of state to another country to strengthen political and economic ties. Oman is a strategically important partner for the UK due to its influence as a neutral mediator in Middle Eastern conflicts.",
      "related": [],
      "story": {
       "id": "world-uk-oman-diplomatic-ties",
@@ -1537,29 +1406,70 @@
         "text": "The UK acknowledged Oman's efforts to keep the Strait of Hormuz open for global trade.",
         "link": "https://www.aljazeera.com/news/2026/10/21/king-charles-welcomes-omani-sultan-hails-peace-efforts-in-uk-state-visit?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-21",
+        "text": "A major state visit has reinforced long-standing diplomatic relations between the UK and Oman.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/uk-king-welcomes-omans-sultan-in-speech-quoting-prophet-muhammad?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
        }
       ]
      }
     },
     {
-     "id": "a92022f0f7a8",
-     "title": "Iran war live: US warns peace deal with Tehran is extremely difficult",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-21T00:00:00+00:00",
-     "summary": "U.S. officials have expressed concern that reaching a peace deal with Iran remains highly unlikely amid ongoing regional tensions.",
-     "explain": "A peace deal in this context would likely involve Iran curbing its military activities and regional influence in exchange for the lifting of economic sanctions. The difficulty in reaching such a deal stems from mutual distrust and the ongoing cycle of regional violence involving Iranian proxies.",
+     "id": "688b8ee92b07",
+     "title": "Nigeria confirms its first Ebola case is Bundibugyo strain",
+     "link": "https://www.thehindu.com/news/international/nigeria-confirms-its-first-ebola-case-is-bundibugyo-strain/article71607018.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-10-21T09:59:43+00:00",
+     "summary": "Nigerian health authorities have confirmed the country's first case of the Bundibugyo strain of Ebola.",
+     "explain": "The Ebola virus causes severe internal and external bleeding. Bundibugyo is one of several known species of the virus. Identifying the specific strain is important for medical experts to determine the correct treatment and containment protocols.",
      "related": [],
      "story": {
-      "id": "world-u-s-iran-diplomatic-standoff",
-      "title": "U.S.-Iran Diplomatic Standoff",
-      "so_far": "Relations between the U.S. and Iran have been hostile since the 1979 revolution, characterized by sanctions, proxy conflicts, and accusations of state-sponsored terrorism. Tensions often spike over Iranian naval activity in the Persian Gulf and its nuclear enrichment programs.",
+      "id": "world-ebola-outbreak-in-africa",
+      "title": "Ebola Outbreak in Africa",
+      "so_far": "Kenya is experiencing an outbreak of Ebola, prompting a balance between government attempts to reassure the public and international alarm. The disease's high mortality rate often leads to travel restrictions and significant economic strain in affected regions.",
       "timeline": [
        {
         "date": "2026-10-21",
-        "text": "Senator Marco Rubio stated that ongoing attacks in the Strait of Hormuz make formal peace talks extremely difficult.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
+        "text": "Nigeria has identified the specific strain of Ebola affecting its population, following confirmation of the country's first case.",
+        "link": "https://www.thehindu.com/news/international/nigeria-confirms-its-first-ebola-case-is-bundibugyo-strain/article71607018.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-10-21",
+        "text": "The U.S. has issued travel warnings for Kenya amid concerns over the government's ability to contain a nine-case outbreak.",
+        "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "948397bb6601",
+     "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+     "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-10-21T09:55:15+00:00",
+     "summary": "Kenya faces uncertainty regarding the control of an Ebola outbreak after nine cases were confirmed, leading to international travel warnings.",
+     "explain": "Travel advisories are official warnings from governments suggesting citizens exercise caution or avoid traveling to certain locations due to health or safety risks. They are used to manage international health risks during outbreaks.",
+     "related": [],
+     "story": {
+      "id": "world-ebola-outbreak-in-africa",
+      "title": "Ebola Outbreak in Africa",
+      "so_far": "Kenya is experiencing an outbreak of Ebola, prompting a balance between government attempts to reassure the public and international alarm. The disease's high mortality rate often leads to travel restrictions and significant economic strain in affected regions.",
+      "timeline": [
+       {
+        "date": "2026-10-21",
+        "text": "Nigeria has identified the specific strain of Ebola affecting its population, following confirmation of the country's first case.",
+        "link": "https://www.thehindu.com/news/international/nigeria-confirms-its-first-ebola-case-is-bundibugyo-strain/article71607018.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-10-21",
+        "text": "The U.S. has issued travel warnings for Kenya amid concerns over the government's ability to contain a nine-case outbreak.",
+        "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
        }
       ]
      }
@@ -1570,116 +1480,242 @@
    "label": "Business & Finance",
    "articles": [
     {
-     "id": "5abd10516a58",
-     "title": "Schaeffler India CEO taken into police custody over two worker deaths at Pune factory",
-     "link": "https://www.thehindubusinessline.com/companies/schaeffler-india-ceo-taken-into-police-custody-over-two-worker-deaths-at-pune-factory/article71605261.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-10-20T16:21:55+00:00",
-     "summary": "Schaeffler India's CEO, Harsha Gopal Kadam, has been taken into police custody regarding a June 2026 factory accident that resulted in two worker deaths.",
-     "explain": "When a factory accident occurs, police often investigate whether company executives are responsible for failing to provide safe working conditions. If a CEO is taken into custody, it means investigators are probing whether oversight failures directly contributed to the tragedy. This matters because it highlights the legal accountability of corporate leaders in workplace safety incidents.",
-     "related": [],
-     "story": {
-      "id": "business-schaeffler-india-factory-safety-investig",
-      "title": "Schaeffler India Factory Safety Investigation",
-      "so_far": "On June 9, 2026, an accident occurred at the Schaeffler India factory in Talegaon, Pune, which led to the deaths of two employees. Local police have been investigating the incident to determine potential safety failures and corporate negligence. The recent detainment of the CEO marks a significant escalation in the ongoing legal and regulatory scrutiny of the company's manufacturing standards.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "The company confirmed that CEO Harsha Gopal Kadam was taken into custody by Talegaon police for questioning related to the fatal incident in June.",
-        "link": "https://www.thehindubusinessline.com/companies/schaeffler-india-ceo-taken-into-police-custody-over-two-worker-deaths-at-pune-factory/article71605261.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Police custody has been confirmed as part of the official investigation into the June incident.",
-        "link": "https://www.livemint.com/companies/people/schaeffler-india-ceo-harsha-gopal-kadam-taken-into-custody-over-factory-accident-that-killed-2-workers-11792503983919.html",
-        "source": "mint - companies"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "The CEO and Managing Director have been detained in connection with the factory accident investigation.",
-        "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/schaeffler-india-ceo-md-taken-into-custody-over-june-factory-accident/articleshow/135070960.cms",
-        "source": "Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "fb9fcd952730",
-     "title": "Schaeffler India CEO Harsha Gopal Kadam taken into custody over factory accident that killed 2 workers",
-     "link": "https://www.livemint.com/companies/people/schaeffler-india-ceo-harsha-gopal-kadam-taken-into-custody-over-factory-accident-that-killed-2-workers-11792503983919.html",
+     "id": "856bf4a3a05e",
+     "title": "Essar Ports wins ₹2,276 crore Tuna Tekra terminal project in Gujarat",
+     "link": "https://www.livemint.com/companies/news/essar-ports-tuna-tekra-terminal-project-gujarat-kandla-11792573741858.html",
      "source": "mint - companies",
-     "published": "2026-10-20T13:51:28+00:00",
-     "summary": "Schaeffler India's CEO, Harsha Gopal Kadam, has been taken into police custody regarding a June 2026 factory accident that resulted in two worker deaths.",
-     "explain": "When a factory accident occurs, police often investigate whether company executives are responsible for failing to provide safe working conditions. If a CEO is taken into custody, it means investigators are probing whether oversight failures directly contributed to the tragedy. This matters because it highlights the legal accountability of corporate leaders in workplace safety incidents.",
+     "published": "2026-10-21T09:38:36+00:00",
+     "summary": "Essar Ports has secured a contract to build and operate a four-berth cargo terminal at the Tuna Tekra facility in Kandla, Gujarat. The project is valued at ₹2,276 crore and will be executed under a 30-year build-operate-transfer concession.",
+     "explain": "Essar Ports is a private infrastructure company that develops and manages port facilities. A build-operate-transfer (BOT) model is a common infrastructure arrangement where a private firm builds a facility, operates it for a set number of years to recoup costs, and then transfers it back to the government. This project is expected to help handle larger ships and ease congestion at existing port facilities.",
      "related": [],
      "story": {
-      "id": "business-schaeffler-india-factory-safety-investig",
-      "title": "Schaeffler India Factory Safety Investigation",
-      "so_far": "On June 9, 2026, an accident occurred at the Schaeffler India factory in Talegaon, Pune, which led to the deaths of two employees. Local police have been investigating the incident to determine potential safety failures and corporate negligence. The recent detainment of the CEO marks a significant escalation in the ongoing legal and regulatory scrutiny of the company's manufacturing standards.",
+      "id": "business-essar-ports-kandla-terminal-expansion",
+      "title": "Essar Ports Kandla Terminal Expansion",
+      "so_far": "Kandla Port, located in Gujarat, is a key maritime gateway for India's dry cargo trade. The government has been pushing for public-private partnerships (PPP) to modernize infrastructure and handle larger shipping vessels to increase logistics efficiency.",
       "timeline": [
        {
-        "date": "2026-10-20",
-        "text": "The company confirmed that CEO Harsha Gopal Kadam was taken into custody by Talegaon police for questioning related to the fatal incident in June.",
-        "link": "https://www.thehindubusinessline.com/companies/schaeffler-india-ceo-taken-into-police-custody-over-two-worker-deaths-at-pune-factory/article71605261.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Police custody has been confirmed as part of the official investigation into the June incident.",
-        "link": "https://www.livemint.com/companies/people/schaeffler-india-ceo-harsha-gopal-kadam-taken-into-custody-over-factory-accident-that-killed-2-workers-11792503983919.html",
+        "date": "2026-10-21",
+        "text": "Essar Ports won the ₹2,276 crore contract for the new cargo terminal at Kandla port.",
+        "link": "https://www.livemint.com/companies/news/essar-ports-tuna-tekra-terminal-project-gujarat-kandla-11792573741858.html",
         "source": "mint - companies"
        },
        {
-        "date": "2026-10-20",
-        "text": "The CEO and Managing Director have been detained in connection with the factory accident investigation.",
-        "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/schaeffler-india-ceo-md-taken-into-custody-over-june-factory-accident/articleshow/135070960.cms",
-        "source": "Economic Times"
+        "date": "2026-10-21",
+        "text": "The new facility is expected to accommodate larger vessels and improve overall logistics efficiency in the region.",
+        "link": "https://www.thehindubusinessline.com/economy/logistics/essar-ports-wins-2276-crore-project-to-build-cargo-terminal-at-kandla/article71606899.ece",
+        "source": "Business News Today: Latest Business New"
        }
       ]
      }
     },
     {
-     "id": "7cd1388823f2",
-     "title": "Schaeffler India CEO &amp; MD taken into custody",
-     "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/schaeffler-india-ceo-md-taken-into-custody-over-june-factory-accident/articleshow/135070960.cms",
-     "source": "Economic Times",
-     "published": "2026-10-20T13:25:59+00:00",
-     "summary": "Schaeffler India's CEO, Harsha Gopal Kadam, has been taken into police custody regarding a June 2026 factory accident that resulted in two worker deaths.",
-     "explain": "When a factory accident occurs, police often investigate whether company executives are responsible for failing to provide safe working conditions. If a CEO is taken into custody, it means investigators are probing whether oversight failures directly contributed to the tragedy. This matters because it highlights the legal accountability of corporate leaders in workplace safety incidents.",
+     "id": "40d9a647aa32",
+     "title": "Essar Ports wins ₹2,276-crore project to build cargo terminal at Kandla",
+     "link": "https://www.thehindubusinessline.com/economy/logistics/essar-ports-wins-2276-crore-project-to-build-cargo-terminal-at-kandla/article71606899.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-21T09:24:00+00:00",
+     "summary": "Essar Ports has secured a contract to build and operate a four-berth cargo terminal at the Tuna Tekra facility in Kandla, Gujarat. The project is valued at ₹2,276 crore and will be executed under a 30-year build-operate-transfer concession.",
+     "explain": "This article reinforces the previous report on the project. It highlights the expected logistical benefits, specifically the ability to service larger ships, which is crucial for modern international trade competitiveness.",
      "related": [],
      "story": {
-      "id": "business-schaeffler-india-factory-safety-investig",
-      "title": "Schaeffler India Factory Safety Investigation",
-      "so_far": "On June 9, 2026, an accident occurred at the Schaeffler India factory in Talegaon, Pune, which led to the deaths of two employees. Local police have been investigating the incident to determine potential safety failures and corporate negligence. The recent detainment of the CEO marks a significant escalation in the ongoing legal and regulatory scrutiny of the company's manufacturing standards.",
+      "id": "business-essar-ports-kandla-terminal-expansion",
+      "title": "Essar Ports Kandla Terminal Expansion",
+      "so_far": "Kandla Port, located in Gujarat, is a key maritime gateway for India's dry cargo trade. The government has been pushing for public-private partnerships (PPP) to modernize infrastructure and handle larger shipping vessels to increase logistics efficiency.",
       "timeline": [
        {
-        "date": "2026-10-20",
-        "text": "The company confirmed that CEO Harsha Gopal Kadam was taken into custody by Talegaon police for questioning related to the fatal incident in June.",
-        "link": "https://www.thehindubusinessline.com/companies/schaeffler-india-ceo-taken-into-police-custody-over-two-worker-deaths-at-pune-factory/article71605261.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Police custody has been confirmed as part of the official investigation into the June incident.",
-        "link": "https://www.livemint.com/companies/people/schaeffler-india-ceo-harsha-gopal-kadam-taken-into-custody-over-factory-accident-that-killed-2-workers-11792503983919.html",
+        "date": "2026-10-21",
+        "text": "Essar Ports won the ₹2,276 crore contract for the new cargo terminal at Kandla port.",
+        "link": "https://www.livemint.com/companies/news/essar-ports-tuna-tekra-terminal-project-gujarat-kandla-11792573741858.html",
         "source": "mint - companies"
        },
        {
+        "date": "2026-10-21",
+        "text": "The new facility is expected to accommodate larger vessels and improve overall logistics efficiency in the region.",
+        "link": "https://www.thehindubusinessline.com/economy/logistics/essar-ports-wins-2276-crore-project-to-build-cargo-terminal-at-kandla/article71606899.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "77c2f3cb55e2",
+     "title": "Boeing 737 Max 10 wins FAA approval after years of delays, challenging Airbus A321neo",
+     "link": "https://www.livemint.com/companies/news/boeing-737-max-10-wins-faa-approval-after-years-of-delays-challenging-airbus-a321neo-11792552165521.html",
+     "source": "mint - companies",
+     "published": "2026-10-21T03:16:44+00:00",
+     "summary": "The US Federal Aviation Administration (FAA) has granted safety certification to the Boeing 737 Max 10, the largest model in the manufacturer's narrowbody series. This approval concludes a long-delayed review process necessitated by previous fatal accidents and quality control issues.",
+     "explain": "The FAA is the US government agency responsible for the safety of civil aviation. Certification is the final regulatory hurdle that confirms an aircraft meets all safety standards before it can be delivered to airlines. This is a major milestone for Boeing as it tries to recover from financial and reputational damage following its earlier safety crises.",
+     "related": [],
+     "story": {
+      "id": "business-boeing-737-max-10-certification",
+      "title": "Boeing 737 Max 10 Certification",
+      "so_far": "The Boeing 737 Max program faced global grounding after two fatal crashes in 2018 and 2019 linked to flight-control software. Since then, the aircraft family has been under intense regulatory scrutiny. The Max 10 model, designed to compete with the Airbus A321neo, has faced multiple setbacks in its path to certification due to design and safety reviews.",
+      "timeline": [
+       {
         "date": "2026-10-20",
-        "text": "The CEO and Managing Director have been detained in connection with the factory accident investigation.",
-        "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/schaeffler-india-ceo-md-taken-into-custody-over-june-factory-accident/articleshow/135070960.cms",
-        "source": "Economic Times"
+        "text": "Industry leadership has commented that the certification process for such aircraft should be accelerated in the future.",
+        "link": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
+        "source": "Business News"
+       },
+       {
+        "date": "2026-10-21",
+        "text": "The Boeing 737 Max 10 has received formal FAA approval after years of delays.",
+        "link": "https://www.livemint.com/companies/news/boeing-737-max-10-wins-faa-approval-after-years-of-delays-challenging-airbus-a321neo-11792552165521.html",
+        "source": "mint - companies"
+       }
+      ]
+     }
+    },
+    {
+     "id": "9f033253943c",
+     "title": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster",
+     "link": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
+     "source": "Business News",
+     "published": "2026-10-20T22:01:11+00:00",
+     "summary": "The US Federal Aviation Administration (FAA) has granted safety certification to the Boeing 737 Max 10, the largest model in the manufacturer's narrowbody series. This approval concludes a long-delayed review process necessitated by previous fatal accidents and quality control issues.",
+     "explain": "This follow-up article notes that despite the approval, there is ongoing industry debate regarding the efficiency and speed of the FAA’s current rigorous certification processes. 'Narrowbody' refers to single-aisle aircraft typically used for short- to medium-haul commercial flights.",
+     "related": [],
+     "story": {
+      "id": "business-boeing-737-max-10-certification",
+      "title": "Boeing 737 Max 10 Certification",
+      "so_far": "The Boeing 737 Max program faced global grounding after two fatal crashes in 2018 and 2019 linked to flight-control software. Since then, the aircraft family has been under intense regulatory scrutiny. The Max 10 model, designed to compete with the Airbus A321neo, has faced multiple setbacks in its path to certification due to design and safety reviews.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "Industry leadership has commented that the certification process for such aircraft should be accelerated in the future.",
+        "link": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
+        "source": "Business News"
+       },
+       {
+        "date": "2026-10-21",
+        "text": "The Boeing 737 Max 10 has received formal FAA approval after years of delays.",
+        "link": "https://www.livemint.com/companies/news/boeing-737-max-10-wins-faa-approval-after-years-of-delays-challenging-airbus-a321neo-11792552165521.html",
+        "source": "mint - companies"
+       }
+      ]
+     }
+    },
+    {
+     "id": "9b8a8d4615ea",
+     "title": "‘Withdraw draft notification on animal experimentation that dilutes present regulatory framework’, say animal welfare organisations",
+     "link": "https://www.thehindubusinessline.com/news/withdraw-draft-notification-on-animal-experimentation-that-dilutes-present-regulatory-framework-say-animal-welfare-organisations/article71607074.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-21T10:39:15+00:00",
+     "summary": "Animal welfare organizations are protesting a new draft notification on animal experimentation, arguing that it lowers current safety and ethical standards. They are urging regulators to revise the draft through broader consultation with experts.",
+     "explain": "Draft notifications are proposed changes to laws or rules released by a government to solicit public feedback. The dispute centers on the balance between facilitating scientific advancement (which requires animal testing) and the ethical treatment of animals, with critics arguing the new rules would undermine established protections.",
+     "related": [],
+     "story": {
+      "id": "business-animal-experimentation-regulation-disput",
+      "title": "Animal Experimentation Regulation Dispute",
+      "so_far": "Animal testing in India is regulated to ensure ethical treatment, often overseen by organizations such as the Committee for the Purpose of Control and Supervision of Experiments on Animals (CPCSEA). Balancing the need for scientific research with animal welfare protection remains a contentious area of regulatory policy.",
+      "timeline": [
+       {
+        "date": "2026-10-21",
+        "text": "Animal welfare groups have formally requested the withdrawal of a proposed draft notification they believe weakens animal testing regulations.",
+        "link": "https://www.thehindubusinessline.com/news/withdraw-draft-notification-on-animal-experimentation-that-dilutes-present-regulatory-framework-say-animal-welfare-organisations/article71607074.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "85511bef39c5",
+     "title": "Travel platform Onto debuts with $1 million pre-seed funding",
+     "link": "https://www.thehindubusinessline.com/companies/travel-platform-onto-debuts-with-1-million-pre-seed-funding/article71607059.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-21T10:38:08+00:00",
+     "summary": "Travel startup Onto has raised $1 million in pre-seed funding to launch its platform. The company's key feature is an automatic price-drop refund, which issues a refund to users if hotel prices decrease after they have completed their booking.",
+     "explain": "A pre-seed round is the very first investment a startup receives to get off the ground. The startup, Onto, uses automation to monitor price changes for hotel reservations. This is a common strategy in 'travel-tech' to attract price-sensitive customers by offering value-added financial protection on bookings.",
+     "related": [],
+     "story": {
+      "id": "business-travel-startup-onto-funding",
+      "title": "Travel Startup Onto Funding",
+      "so_far": "The travel technology sector in India is highly competitive, with numerous startups focusing on cost-optimization and user experience. Pre-seed funding is the earliest stage of venture capital, used by founders to validate their business model and build their initial product.",
+      "timeline": [
+       {
+        "date": "2026-10-21",
+        "text": "Travel platform Onto launched with $1 million in initial pre-seed funding.",
+        "link": "https://www.thehindubusinessline.com/companies/travel-platform-onto-debuts-with-1-million-pre-seed-funding/article71607059.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "c94b17f0d1ac",
+     "title": "IMF advises India to let rupee move as first defence amid oil shock",
+     "link": "https://www.thehindubusinessline.com/economy/imf-advises-india-to-let-rupee-move-as-first-defence-amid-oil-shock/article71607130.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-21T10:37:05+00:00",
+     "summary": "The International Monetary Fund (IMF) has advised the Reserve Bank of India (RBI) to allow the rupee to fluctuate in response to global oil price shocks. The IMF suggests that letting the currency move is a better defense than direct central bank intervention in the foreign exchange market.",
+     "explain": "The IMF is an international organization that promotes global monetary cooperation. When they advise the RBI to let the rupee 'absorb shocks,' they mean allowing the currency's value to drop or rise freely instead of using foreign exchange reserves to artificially support it. The goal is to let market forces determine the fair value of the currency rather than relying on expensive central bank interventions.",
+     "related": [],
+     "story": {
+      "id": "business-imf-advice-on-rupee-stability",
+      "title": "IMF Advice on Rupee Stability",
+      "so_far": "India is one of the world's largest importers of crude oil, meaning fluctuations in global oil prices significantly impact the nation's trade balance and the value of the Indian Rupee. The RBI often intervenes to prevent extreme volatility in the currency markets.",
+      "timeline": [
+       {
+        "date": "2026-10-21",
+        "text": "The IMF recommended that the RBI prioritize currency flexibility over market intervention during oil-related economic stress.",
+        "link": "https://www.thehindubusinessline.com/economy/imf-advises-india-to-let-rupee-move-as-first-defence-amid-oil-shock/article71607130.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "cdd16fc630b9",
+     "title": "GRAP-1 curbs imposed in Delhi-NCR as air quality slips into 'poor' category",
+     "link": "https://www.thehindubusinessline.com/news/grap-1-curbs-imposed-in-delhi-ncr-as-air-quality-slips-into-poor-category/article71607127.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-21T10:35:15+00:00",
+     "summary": "Authorities in Delhi-NCR have implemented Stage 1 of the Graded Response Action Plan (GRAP-1) as the Air Quality Index (AQI) dropped into the 'poor' category. This stage includes measures like controlling construction dust and banning open waste burning.",
+     "explain": "GRAP stands for the Graded Response Action Plan, a reactive set of restrictions triggered when air pollution reaches specific, pre-defined levels. Moving to 'Stage 1' signifies that the air has degraded to an unhealthy status, requiring immediate government intervention to prevent further deterioration.",
+     "related": [],
+     "story": {
+      "id": "business-delhi-air-quality-response",
+      "title": "Delhi Air Quality Response",
+      "so_far": "Delhi consistently struggles with severe air pollution, especially during the onset of winter when calm winds trap pollutants. The Commission for Air Quality Management (CAQM) utilizes GRAP—a set of tiered emergency measures—to implement restrictions as pollution levels escalate.",
+      "timeline": [
+       {
+        "date": "2026-10-21",
+        "text": "GRAP-1 curbs have been activated as air quality in Delhi worsened to 'poor' levels.",
+        "link": "https://www.thehindubusinessline.com/news/grap-1-curbs-imposed-in-delhi-ncr-as-air-quality-slips-into-poor-category/article71607127.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "460a6d370fd8",
+     "title": "Jio Platforms IPO Day 1 Live Updates: Jio Platforms IPO Day 1 Live: Issue subscribed 1.27x, QIB portion 3.86x",
+     "link": "https://www.thehindubusinessline.com/companies/jio-platforms-ipo-gmp-day-1-subscription-status-live-news-updates/article71606199.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-21T10:33:31+00:00",
+     "summary": "Jio Platforms' ₹30,213-crore IPO opened for subscription on October 21, 2026. On its first day, the issue was subscribed 1.27 times, with particularly strong interest from Qualified Institutional Buyers (QIBs).",
+     "explain": "Subscription rate indicates how many shares were requested by investors compared to the total number available. A rate above 1.0 means the IPO is oversubscribed, suggesting high demand. Qualified Institutional Buyers (QIBs) are professional investors like banks, insurance companies, and mutual funds; their high participation is typically viewed as a sign of confidence in the company.",
+     "related": [],
+     "story": {
+      "id": "business-jio-platforms-ipo-launch",
+      "title": "Jio Platforms IPO Launch",
+      "so_far": "Jio Platforms, a subsidiary of Reliance Industries, is a major digital services company in India. An IPO (Initial Public Offering) is the process by which a private company offers shares to the public to raise capital. This IPO is highly anticipated due to Jio's dominant market position in telecommunications and digital services.",
+      "timeline": [
+       {
+        "date": "2026-10-21",
+        "text": "Jio Platforms opened its major IPO on October 21, seeing 1.27x subscription on the first day.",
+        "link": "https://www.thehindubusinessline.com/companies/jio-platforms-ipo-gmp-day-1-subscription-status-live-news-updates/article71606199.ece",
+        "source": "Business News Today: Latest Business New"
        }
       ]
      }
     },
     {
      "id": "a6d854e60821",
-     "title": "Sensex today | Stock Market Live: Stock to buy today: South Indian Bank (54.31) – BUY",
+     "title": "Sensex today | Stock Market Live: Sensex ends down 143 pts, Nifty at 22,811; Nifty IT surges 2.2%",
      "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-21st-october-2026/article71604730.ece",
      "source": "Business News Today: Latest Business New",
-     "published": "2026-10-21T01:50:56+00:00",
+     "published": "2026-10-21T10:29:40+00:00",
      "summary": "Financial analysts are providing buy recommendations for South Indian Bank, suggesting potential growth in its share price.",
      "explain": "A 'buy' recommendation from analysts suggests that a company's stock is expected to perform well or increase in value soon. These ratings are based on financial models and market conditions. Investors use this information to decide whether to add a stock to their portfolio, hoping to profit from predicted price appreciation.",
      "related": [],
@@ -1696,150 +1732,34 @@
        }
       ]
      }
-    },
-    {
-     "id": "1f3cd6604d4a",
-     "title": "'Hormuz shut until US accepts our conditions'",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/hormuz-is-closed-until-america-accepts-our-conditions-araghchi-demands-us-to-honour-mou-commitments/articleshow/135079334.cms",
-     "source": "Economic Times",
-     "published": "2026-10-21T01:22:37+00:00",
-     "summary": "Tensions remain high in the Strait of Hormuz, with threats regarding its closure contingent upon US policy conditions.",
-     "explain": "The Strait of Hormuz is a narrow sea passage connecting the Persian Gulf to the Gulf of Oman. A large portion of the world's oil supply passes through it, making it one of the most strategically sensitive areas globally. Threats to close it are significant because they could cause oil prices to spike, affecting economies worldwide.",
-     "related": [],
-     "story": {
-      "id": "business-strait-of-hormuz-geopolitical-tensions",
-      "title": "Strait of Hormuz Geopolitical Tensions",
-      "so_far": "The Strait of Hormuz is a crucial maritime chokepoint for global oil shipments. It has long been a flashpoint for geopolitical friction between regional powers and the US and its allies. Disruptions in this area often lead to fluctuations in global oil prices and increased military vigilance in the region.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "Regional actors have issued threats to close the Strait of Hormuz unless specific conditions are met by the US government.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/hormuz-is-closed-until-america-accepts-our-conditions-araghchi-demands-us-to-honour-mou-commitments/articleshow/135079334.cms",
-        "source": "Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "e4128dc108b4",
-     "title": "‘A good idea’: Elon Musk says special committees will discuss Tesla and SpaceX merger while he sits out",
-     "link": "https://www.livemint.com/companies/news/a-good-idea-elon-musk-says-special-committees-will-discuss-tesla-and-spacex-merger-while-he-sits-out-11792544836520.html",
-     "source": "mint - companies",
-     "published": "2026-10-21T01:22:10+00:00",
-     "summary": "Tesla and SpaceX have formed special committees to explore a potential merger that could result in a massive $3.5 trillion entity.",
-     "explain": "A merger is a deal to unite two existing companies into one. In this case, Tesla (automotive) and SpaceX (aerospace) would combine, creating an entity worth trillions of dollars. This matters because it could drastically change the landscape of the tech industry, though it is currently just an exploratory discussion.",
-     "related": [],
-     "story": {
-      "id": "business-potential-tesla-and-spacex-merger",
-      "title": "Potential Tesla and SpaceX Merger",
-      "so_far": "Tesla, led by Elon Musk, is a major electric vehicle manufacturer, while SpaceX is his aerospace firm focusing on rocket development and satellite internet. The two companies have operated as separate entities despite being under the same leadership. A merger of this scale would be unprecedented in the technology and automotive sectors.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "Elon Musk announced that independent committees at both companies are discussing a possible merger, though no formal agreement exists.",
-        "link": "https://www.livemint.com/companies/news/a-good-idea-elon-musk-says-special-committees-will-discuss-tesla-and-spacex-merger-while-he-sits-out-11792544836520.html",
-        "source": "mint - companies"
-       }
-      ]
-     }
-    },
-    {
-     "id": "69c7302c1b52",
-     "title": "'No response to mediation call from Houthis'",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/iran-says-saudi-arabia-houthis-have-not-answered-mediation-offer/articleshow/135079284.cms",
-     "source": "Economic Times",
-     "published": "2026-10-21T01:14:30+00:00",
-     "summary": "Mediators report a lack of response from Houthi groups regarding recent diplomatic outreach efforts.",
-     "explain": "Mediation is a process where a third party tries to facilitate a negotiation between conflicting groups to end a dispute. The lack of response indicates that the parties are not ready to talk or have rejected the current diplomatic path. This highlights the difficulty in resolving long-standing conflicts through peaceful dialogue.",
-     "related": [],
-     "story": {
-      "id": "business-houthi-mediation-efforts",
-      "title": "Houthi Mediation Efforts",
-      "so_far": "The Houthi movement, based in Yemen, has been involved in regional conflicts and frequently engages in activities affecting international shipping lanes in the Red Sea. International actors have periodically attempted to initiate diplomatic discussions to de-escalate tensions, though these efforts have historically faced major obstacles.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "Efforts to establish mediation with the Houthis have stalled as they have failed to respond to recent calls.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/iran-says-saudi-arabia-houthis-have-not-answered-mediation-offer/articleshow/135079284.cms",
-        "source": "Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "93db8a105ed2",
-     "title": "Hygiene lapses at Delhi sweet shops",
-     "link": "https://economictimes.indiatimes.com/news/india/ahead-of-festive-season-delhi-food-safety-drive-flags-hygiene-lapses-at-sweet-units-samples-sent-for-lab-testing/articleshow/135079232.cms",
-     "source": "Economic Times",
-     "published": "2026-10-21T01:10:07+00:00",
-     "summary": "Reports have surfaced regarding poor hygiene conditions at various sweet shops located in Delhi.",
-     "explain": "Hygiene lapses refer to failures to meet sanitation standards, such as cleanliness in cooking areas or proper food storage. This matters because unsafe food can lead to foodborne illnesses. Regulatory bodies inspect shops to ensure they comply with safety laws to protect public health.",
-     "related": [],
-     "story": {
-      "id": "business-delhi-food-safety-concerns",
-      "title": "Delhi Food Safety Concerns",
-      "so_far": "Food safety in India is monitored by the FSSAI and local municipal authorities, particularly during festive seasons when the consumption of sweets increases significantly. Past reports have frequently cited inadequate sanitation and improper handling of ingredients as recurring issues in local food retail.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "New reports have highlighted hygiene lapses in Delhi's sweet shop sector, raising concerns about food safety standards.",
-        "link": "https://economictimes.indiatimes.com/news/india/ahead-of-festive-season-delhi-food-safety-drive-flags-hygiene-lapses-at-sweet-units-samples-sent-for-lab-testing/articleshow/135079232.cms",
-        "source": "Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "9cbe6710ec43",
-     "title": "Iveco's minority shareholders emerge as key hurdle to Tata’s takeover bid",
-     "link": "https://www.livemint.com/companies/news/tata-motors-iveco-deal-status-shareholder-approval-11792483781433.html",
-     "source": "mint - companies",
-     "published": "2026-10-21T00:30:39+00:00",
-     "summary": "Tata Motors' acquisition of Iveco is facing resistance from minority shareholders, complicating the €3.9 billion deal.",
-     "explain": "Minority shareholders are investors who own a small percentage of a company's shares. In a takeover, these shareholders often have voting rights that can block or support the deal if they believe the terms are unfavorable. The company must secure their consent to proceed with the acquisition.",
-     "related": [],
-     "story": {
-      "id": "business-tata-motors-iveco-acquisition-hurdle",
-      "title": "Tata Motors Iveco Acquisition Hurdle",
-      "so_far": "Tata Motors is an Indian automotive manufacturer looking to expand its global footprint through strategic acquisitions. The €3.9 billion deal for Iveco is designed to bolster its commercial vehicle segment, but acquisitions often require the approval of a majority of shareholders, including institutional and minority investors, to proceed.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "Minority shareholder opposition has emerged as a significant obstacle to Tata Motors completing its planned acquisition of Iveco.",
-        "link": "https://www.livemint.com/companies/news/tata-motors-iveco-deal-status-shareholder-approval-11792483781433.html",
-        "source": "mint - companies"
-       }
-      ]
-     }
-    },
-    {
-     "id": "9d1928c529f6",
-     "title": "Buoyed by blockbuster IPO, ESDS bets on AI chip rentals for $5 billion revenue in 5 years",
-     "link": "https://www.livemint.com/companies/news/buoyed-by-blockbuster-ipo-esds-bets-on-ai-chip-rentals-for-5-billion-revenue-in-5-years-11792473076889.html",
-     "source": "mint - companies",
-     "published": "2026-10-21T00:30:31+00:00",
-     "summary": "ESDS Software is shifting focus toward AI chip rentals as part of a five-year growth strategy following its IPO.",
-     "explain": "An IPO (Initial Public Offering) is when a company first offers its shares to the public on a stock exchange. AI chip rentals refer to renting out high-performance hardware used for training artificial intelligence models. This is a high-growth sector due to the global boom in AI development.",
-     "related": [],
-     "story": {
-      "id": "business-esds-ai-chip-rental-strategy",
-      "title": "ESDS AI Chip Rental Strategy",
-      "so_far": "ESDS is a technology service provider that recently completed its initial public offering (IPO). The company is now navigating the public market environment while attempting to scale its business by pivoting to high-demand sectors like AI infrastructure.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "Following its IPO, ESDS has announced a strategy to reach $5 billion in revenue by 2030 through AI chip rentals.",
-        "link": "https://www.livemint.com/companies/news/buoyed-by-blockbuster-ipo-esds-bets-on-ai-chip-rentals-for-5-billion-revenue-in-5-years-11792473076889.html",
-        "source": "mint - companies"
-       }
-      ]
-     }
     }
    ]
   },
   "markets": {
    "label": "Markets & Crypto",
    "articles": [
+    {
+     "id": "64798c4194dd",
+     "title": "Why is stock market up today? Sensex rises 829 points, Nifty surges 1% | Top 4 reasons behind D-Street soar explained",
+     "link": "https://www.livemint.com/market/stock-market-news/why-is-stock-market-rising-today-sensex-surges-829-points-nifty-rises-1-key-factors-driving-dalal-street-explained-11792556026632.html",
+     "source": "mint - markets",
+     "published": "2026-10-21T04:40:36+00:00",
+     "summary": "The Sensex and Nifty 50 climbed about 1% in early Wednesday trading amid optimism over a possible India-US trade deal. IT stocks led sectoral gains. Investors also watched rising oil prices, US bond yields, the Jio Platf",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "10c79ee4d564",
+     "title": "Why is market rising today? Sensex jumps 800 points, Nifty above 23,050. 5 key factors behind D-Street rebound",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-jumps-700-points-nifty-above-23000-3-key-factors-behind-d-street-rebound/articleshow/135081731.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-10-21T04:05:01+00:00",
+     "summary": "The Sensex and Nifty rallied nearly 1% as strong Q2 earnings, gains in IT stocks, rupee appreciation and attractive largecap valuations lifted sentiment. However, elevated crude oil prices and rising bond yields remain k",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
     {
      "id": "5588435189ce",
      "title": "Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform",
@@ -1899,266 +1819,70 @@
      }
     },
     {
-     "id": "f5e713bf03ca",
-     "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
-     "link": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
+     "id": "af618cf08910",
+     "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
+     "link": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
-     "published": "2026-10-20T11:10:40+00:00",
-     "summary": "JPMorgan analysts project that Bitcoin could generate 10% annual returns, potentially outperforming traditional stocks, bonds, and gold over the next decade.",
-     "explain": "A capital market outlook is a long-term forecast by a bank on how different types of investments will perform. By including Bitcoin alongside traditional assets, JPMorgan is acknowledging its maturation as an investment class. However, the bank warns that high volatility—sharp, rapid price changes—remains a major risk for conservative investors.",
+     "published": "2026-10-21T11:00:00+00:00",
+     "summary": "",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "markets-bitcoin-long-term-market-outlook",
-      "title": "Bitcoin Long-term Market Outlook",
-      "so_far": "Bitcoin is a decentralized digital currency often referred to as 'digital gold' due to its fixed supply. Investors debate its role in portfolios, with proponents citing its potential for high growth and detractors pointing to its extreme price volatility and lack of intrinsic industrial value.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "JPMorgan included Bitcoin in its long-term capital market outlook for the first time, forecasting it as a top-performing asset class over 10 years.",
-        "link": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "The report emphasizes that unstable correlations with other assets currently limit Bitcoin's role as a reliable portfolio component.",
-        "link": "https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "9069b03cda74",
-     "title": "JPMorgan projects Bitcoin to outperform US stocks and gold over next decade",
-     "link": "https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "id": "165fedf88187",
+     "title": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote",
+     "link": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph.com News",
-     "published": "2026-10-20T08:54:27+00:00",
-     "summary": "While JPMorgan projects Bitcoin will outperform other assets, it cautioned that current market volatility remains a barrier for inclusion in standard portfolios.",
-     "explain": "Correlation refers to how two different investments move in relation to each other. When Bitcoin’s price acts unpredictably compared to stocks or bonds, it makes it harder for fund managers to balance risk. JPMorgan's warning serves as a reminder that 'potential return' must always be balanced against the likelihood of losing money in the short term.",
+     "published": "2026-10-21T10:50:52+00:00",
+     "summary": "PancakeSwap’s proposed fee-sharing overhaul would give liquidity providers 88% of swap fees and cut CAKE emissions by 69%, as BNB Chain’s DeFi activity expands.",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "markets-bitcoin-long-term-market-outlook",
-      "title": "Bitcoin Long-term Market Outlook",
-      "so_far": "Bitcoin is a decentralized digital currency often referred to as 'digital gold' due to its fixed supply. Investors debate its role in portfolios, with proponents citing its potential for high growth and detractors pointing to its extreme price volatility and lack of intrinsic industrial value.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "JPMorgan included Bitcoin in its long-term capital market outlook for the first time, forecasting it as a top-performing asset class over 10 years.",
-        "link": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "The report emphasizes that unstable correlations with other assets currently limit Bitcoin's role as a reliable portfolio component.",
-        "link": "https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "713b3503d676",
-     "title": "Top stocks to watch today: Eternal, Reliance Industries, IREDA, RailTel shares in focus on Wed, 21 Oct | Full list",
-     "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-eternal-reliance-industries-ireda-railtel-shares-in-focus-on-wed-21-oct-full-list-11792546323951.html",
+     "id": "5c3372ebbefe",
+     "title": "Should you buy Vedanta shares after subsidiary Hindustan Zinc beats D-Street estimates in Q2 results? What analyst says",
+     "link": "https://www.livemint.com/market/stock-market-news/should-you-buy-vedanta-shares-after-subsidiary-hindustan-zinc-beats-d-street-estimates-in-q2-results-what-analyst-says-11792576290440.html",
      "source": "mint - markets",
-     "published": "2026-10-21T01:55:58+00:00",
-     "summary": "Market participants are focusing on companies like Reliance Industries, Adani Green, and IREDA as trading activity resumes.",
-     "explain": "Watching 'stocks in focus' allows traders to identify which companies might see high price movement due to upcoming earnings reports, regulatory news, or general market sentiment. Indian indices like the Nifty are currently being monitored to see how domestic stocks react to global economic cues.",
+     "published": "2026-10-21T10:46:31+00:00",
+     "summary": "Emkay Global retained its Buy rating on Vedanta with a ₹350 target price after Hindustan Zinc’s second-quarter profit surged 142% year on year and EBITDA beat estimates. Lower production costs and strong operating perfor",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "markets-2026-indian-stock-market-holidays",
-      "title": "2026 Indian Stock Market Holidays",
-      "so_far": "The Indian stock market operates under set regulatory guidelines and is influenced by both domestic economic policy and global investor sentiment. Traders monitor major indices like the Nifty—which represents the 50 largest companies listed on the National Stock Exchange—to gauge the health of the Indian economy.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "The NSE and BSE are closed today for the Dussehra holiday, marking one of 16 scheduled holidays for 2026.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-2026-is-stock-market-closed-today-for-dussehra-check-remaining-holidays-for-the-year/articleshow/135059981.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "The NSE and BSE are confirmed to be closed today for Dussehra, with normal operations returning on Wednesday.",
-        "link": "https://www.livemint.com/market/stock-market-news/dussehra-2026-stock-market-holiday-today-or-not-nse-bse-to-remain-open-or-closed-on-20-oct-tuesday-exchange-calendar-11792456900292.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Indian equities saw significant selling in the banking and IT sectors, dragging the Nifty index under the 23,000 threshold.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-federal-bank-among-4-stock-recommendations-for-wednesday/slideshow/135067773.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-21",
-        "text": "Investors are monitoring a specific list of high-profile Indian stocks ahead of Wednesday's trading session.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-eternal-reliance-industries-ireda-railtel-shares-in-focus-on-wed-21-oct-full-list-11792546323951.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-21",
-        "text": "Pre-market indicators suggest a modest gain for the Nifty, reflecting positive cues from international markets.",
-        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-19-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792543474837.html",
-        "source": "mint - markets"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "67463e98a2d5",
-     "title": "AI debutant’s flameout stokes fears boom is ending",
-     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-debutants-flameout-stokes-fears-boom-is-ending/articleshow/135079415.cms",
-     "source": "Markets-Economic Times",
-     "published": "2026-10-21T01:38:41+00:00",
-     "summary": "AI developer Elice saw its stock price drop significantly upon debut, reinforcing investor anxiety regarding AI valuations.",
-     "explain": "A stock 'flameout' refers to a disappointing performance after an initial public offering (IPO). Investors are becoming more critical of AI firms because rising borrowing costs make it harder for these companies to fund expensive infrastructure like data centers, leading to doubts about whether the current AI 'boom' is sustainable.",
-     "related": [],
-     "story": {
-      "id": "markets-global-ai-sector-sell-off",
-      "title": "Global AI Sector Sell-off",
-      "so_far": "Global tech markets have recently faced volatility as investor enthusiasm for AI-related infrastructure and chip manufacturing cools. Companies that saw massive growth during the AI boom are now struggling with market corrections and reassessments of their long-term earnings potential.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "South Korean tech stocks experienced sharp declines, with major AI suppliers SK Hynix and Samsung falling heavily amid a broader sector rout.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-kospi-crashes-another-5-as-ai-rout-deepens-ai-bellwether-down-over-40-from-peak/articleshow/135061021.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Broad market pessimism linked to the AI and chip sector is now impacting cryptocurrency prices.",
-        "link": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Market jitters remain elevated as the correction in AI-related equities deepens.",
-        "link": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-10-21",
-        "text": "Investor pushback has expanded from major tech firms to smaller AI and data center startups, driven by rising borrowing costs.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-debutants-flameout-stokes-fears-boom-is-ending/articleshow/135079415.cms",
-        "source": "Markets-Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "9acecf2c533b",
-     "title": "Top stocks to buy: Experts bet on SBI, Bank of Baroda, Meesho, CG Power, and 2 others - Target price, stop-loss",
-     "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-experts-bet-on-sbi-bank-of-baroda-meesho-cg-power-and-2-others-target-price-stoploss-11792467348731.html",
-     "source": "mint - markets",
-     "published": "2026-10-21T01:30:24+00:00",
-     "summary": "Analysts recommend buying shares like SBI, Bank of Baroda, and Meesho, citing technical patterns despite a fragile market environment.",
-     "explain": "Technical patterns are visual trends on stock price charts, such as 'support' and 'resistance' levels, which traders use to decide when to buy or sell. Analysts warn that even with good patterns, external factors like high global oil prices and political tension can cause sudden, unpredictable drops across the entire market.",
-     "related": [],
-     "story": {
-      "id": "markets-indian-market-technical-recommendations",
-      "title": "Indian Market Technical Recommendations",
-      "so_far": "Indian market analysts frequently use technical analysis—studying charts and volume patterns—to predict short-term stock price movements. This approach is often separate from fundamental analysis, which focuses on a company's financial health and business model.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "Experts released a short-term watchlist for the upcoming weeks, noting potential gains in banking and retail sectors.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-experts-bet-on-sbi-bank-of-baroda-meesho-cg-power-and-2-others-target-price-stoploss-11792467348731.html",
-        "source": "mint - markets"
-       }
-      ]
-     }
-    },
-    {
-     "id": "26ce80f8dfd9",
-     "title": "Stock market outlook today, 21 Oct: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
-     "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-19-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792543474837.html",
-     "source": "mint - markets",
-     "published": "2026-10-21T01:28:03+00:00",
-     "summary": "GIFT Nifty indicates a positive start for Indian indices as the market looks toward Wednesday's trading session.",
-     "explain": "GIFT Nifty is a derivative contract based on the Nifty 50 index that trades in a specialized zone in Gujarat. It is often used as a 'leading indicator' to predict how the Indian stock market will open, as it starts trading before the main Indian exchanges officially open for business.",
-     "related": [],
-     "story": {
-      "id": "markets-2026-indian-stock-market-holidays",
-      "title": "2026 Indian Stock Market Holidays",
-      "so_far": "The Indian stock market operates under set regulatory guidelines and is influenced by both domestic economic policy and global investor sentiment. Traders monitor major indices like the Nifty—which represents the 50 largest companies listed on the National Stock Exchange—to gauge the health of the Indian economy.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "The NSE and BSE are closed today for the Dussehra holiday, marking one of 16 scheduled holidays for 2026.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-2026-is-stock-market-closed-today-for-dussehra-check-remaining-holidays-for-the-year/articleshow/135059981.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "The NSE and BSE are confirmed to be closed today for Dussehra, with normal operations returning on Wednesday.",
-        "link": "https://www.livemint.com/market/stock-market-news/dussehra-2026-stock-market-holiday-today-or-not-nse-bse-to-remain-open-or-closed-on-20-oct-tuesday-exchange-calendar-11792456900292.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Indian equities saw significant selling in the banking and IT sectors, dragging the Nifty index under the 23,000 threshold.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-federal-bank-among-4-stock-recommendations-for-wednesday/slideshow/135067773.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-21",
-        "text": "Investors are monitoring a specific list of high-profile Indian stocks ahead of Wednesday's trading session.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-eternal-reliance-industries-ireda-railtel-shares-in-focus-on-wed-21-oct-full-list-11792546323951.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-21",
-        "text": "Pre-market indicators suggest a modest gain for the Nifty, reflecting positive cues from international markets.",
-        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-19-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792543474837.html",
-        "source": "mint - markets"
-       }
-      ]
-     }
-    },
-    {
-     "id": "1fe3177b030d",
-     "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold",
-     "link": "https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "id": "33cf2eafb6e3",
+     "title": "France proposes liability for crypto exchanges offering DeFi access",
+     "link": "https://cointelegraph.com/news/france-liability-crypto-exchange-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph.com News",
-     "published": "2026-10-21T01:19:14+00:00",
-     "summary": "Elon Musk suggested a merger between SpaceX and Tesla, citing potential synergy as his AI ventures report significant revenue growth.",
-     "explain": "A merger would combine separate companies into one, creating a massive conglomerate. This matters because it would consolidate resources, talent, and AI technology under one roof, potentially shifting the corporate strategy of all entities involved and creating a new entity with enormous influence over the tech and transport sectors.",
+     "published": "2026-10-21T10:46:00+00:00",
+     "summary": "French authorities want crypto exchanges to conduct checks on DeFi protocols and face liability for certain customer losses under proposed changes to EU crypto rules.",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "markets-potential-tesla-and-spacex-merger",
-      "title": "Potential Tesla and SpaceX Merger",
-      "so_far": "Elon Musk leads several major companies, including Tesla (automotive/AI), SpaceX (aerospace), and X (social media). He has frequently integrated technologies—such as using Tesla's AI hardware for his 'Grok' chatbot project—across these entities.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "Musk publicly commented that combining his major companies is a 'good idea' following a ninefold increase in AI-related revenue.",
-        "link": "https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "2581f36325e1",
-     "title": "Sun Pharma to raise Rs 10,000 crore to part-finance Organon deal",
-     "link": "https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-to-raise-rs-10k-crore-to-part-finance-organon-deal/articleshow/135079260.cms",
-     "source": "Markets-Economic Times",
-     "published": "2026-10-21T01:16:56+00:00",
-     "summary": "Sun Pharma plans to raise Rs 10,000 crore via bonds to refinance debt from its $11.75 billion Organon deal.",
-     "explain": "Refinancing is the process of replacing an existing debt obligation with a new debt instrument, usually to get a better interest rate or a more manageable repayment schedule. In this case, Sun Pharma is moving from 'bridge loans'—which are temporary, high-interest loans used to quickly close a deal—to bonds, which provide longer-term stability for the company.",
+     "id": "39538052afc5",
+     "title": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode",
+     "link": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph.com News",
+     "published": "2026-10-21T10:39:13+00:00",
+     "summary": "Bitcoin price current resistance near $87,000 was reinforced by investors who bought BTC in late 2025, per new research.",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "markets-sun-pharma-debt-refinancing",
-      "title": "Sun Pharma Debt Refinancing",
-      "so_far": "Sun Pharmaceutical Industries is a major Indian multinational pharmaceutical company. It frequently engages in large-scale acquisitions to expand its portfolio of drug products, which often requires significant borrowing that must later be refinanced into more stable, long-term debt.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "The company is moving to secure funding through two tranches of rupee-denominated bonds to pay off short-term acquisition loans.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-to-raise-rs-10k-crore-to-part-finance-organon-deal/articleshow/135079260.cms",
-        "source": "Markets-Economic Times"
-       }
-      ]
-     }
+     "story": null
+    },
+    {
+     "id": "66188bb8a52a",
+     "title": "Jio Platforms' IPO-linked inflows boost rupee; elevated oil prices spur caution",
+     "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/jio-platforms-ipo-linked-inflows-boost-rupee-elevated-oil-prices-spur-caution/articleshow/135089592.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-10-21T10:37:48+00:00",
+     "summary": "The Indian rupee experienced a notable increase as Jio Platforms' IPO attracted significant foreign investments. Despite this strength, rising oil prices raised concerns among traders about the rupee's sustainability. Th",
+     "explain": null,
+     "related": [],
+     "story": null
     }
    ]
   }
