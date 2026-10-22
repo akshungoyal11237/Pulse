@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-22T02:04:11.497462+00:00",
- "prices_generated": "2026-10-22T10:24:22.024872+00:00",
+ "generated": "2026-10-22T11:00:38.371930+00:00",
+ "prices_generated": "2026-10-22T11:00:38.371930+00:00",
  "ai": "gemini",
- "pulse": "Indian markets saw a modest decline as investors reacted to mixed corporate earnings and regulatory scrutiny involving major food companies like Nestle. Meanwhile, US markets trended higher as positive sentiment surrounding Boeing's regulatory approvals likely boosted investor confidence in the broader tech and industrial sectors. In commodities, crude oil prices showed volatility, and the slight uptick in Bitcoin suggests investors remain cautiously optimistic despite the cooling sentiment in precious metals like gold and silver.",
+ "pulse": null,
  "ticker_strip": [
   "^NSEI",
   "^BSESN",
@@ -250,10 +250,10 @@
   "BTC-USD": {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 81982.3438,
-   "change": -2029.625,
-   "pct": -2.42,
-   "pct_1m": -4.86,
+   "price": 81899.3125,
+   "change": -2112.6562,
+   "pct": -2.51,
+   "pct_1m": -4.96,
    "spark": [
     86172.2812,
     84383.0078,
@@ -285,17 +285,17 @@
     81853.5391,
     82941.0,
     84011.9688,
-    81982.3438
+    81899.3125
    ],
    "asof": "2026-10-22"
   },
   "ETH-USD": {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 2408.55,
-   "change": -62.2161,
-   "pct": -2.52,
-   "pct_1m": -12.5,
+   "price": 2401.1899,
+   "change": -69.5762,
+   "pct": -2.82,
+   "pct_1m": -12.77,
    "spark": [
     2752.6326,
     2684.6919,
@@ -327,17 +327,17 @@
     2404.8152,
     2446.7307,
     2470.7661,
-    2408.55
+    2401.1899
    ],
    "asof": "2026-10-22"
   },
   "SOL-USD": {
    "symbol": "SOL-USD",
    "name": "Solana",
-   "price": 104.49,
-   "change": -2.3037,
-   "pct": -2.16,
-   "pct_1m": -11.83,
+   "price": 104.38,
+   "change": -2.4137,
+   "pct": -2.26,
+   "pct_1m": -11.92,
    "spark": [
     118.5074,
     114.9753,
@@ -369,15 +369,15 @@
     104.9262,
     106.4223,
     106.7937,
-    104.49
+    104.38
    ],
    "asof": "2026-10-22"
   },
   "USDINR=X": {
    "symbol": "USDINR=X",
    "name": "USD/INR",
-   "price": 94.8175,
-   "change": 0.1011,
+   "price": 94.82,
+   "change": 0.1036,
    "pct": 0.11,
    "pct_1m": -0.93,
    "spark": [
@@ -403,17 +403,17 @@
     94.9777,
     94.9936,
     94.7164,
-    94.8175
+    94.82
    ],
    "asof": "2026-10-22"
   },
   "EURINR=X": {
    "symbol": "EURINR=X",
    "name": "EUR/INR",
-   "price": 106.4019,
-   "change": 0.0679,
-   "pct": 0.06,
-   "pct_1m": -3.07,
+   "price": 106.3355,
+   "change": 0.0015,
+   "pct": 0.0,
+   "pct_1m": -3.13,
    "spark": [
     109.771,
     109.358,
@@ -437,17 +437,17 @@
     106.63,
     106.374,
     106.334,
-    106.4019
+    106.3355
    ],
    "asof": "2026-10-22"
   },
   "EURUSD=X": {
    "symbol": "EURUSD=X",
    "name": "EUR/USD",
-   "price": 1.1223,
-   "change": -0.0003,
-   "pct": -0.03,
-   "pct_1m": -2.1,
+   "price": 1.1215,
+   "change": -0.0012,
+   "pct": -0.11,
+   "pct_1m": -2.18,
    "spark": [
     1.1465,
     1.1448,
@@ -471,17 +471,17 @@
     1.1225,
     1.1216,
     1.1227,
-    1.1223
+    1.1215
    ],
    "asof": "2026-10-22"
   },
   "GBPINR=X": {
    "symbol": "GBPINR=X",
    "name": "GBP/INR",
-   "price": 126.8841,
-   "change": 0.2155,
-   "pct": 0.17,
-   "pct_1m": -0.84,
+   "price": 126.8064,
+   "change": 0.1378,
+   "pct": 0.11,
+   "pct_1m": -0.9,
    "spark": [
     127.9596,
     127.6755,
@@ -505,17 +505,17 @@
     126.6547,
     126.4189,
     126.6686,
-    126.8841
+    126.8064
    ],
    "asof": "2026-10-22"
   },
   "GC=F": {
    "symbol": "GC=F",
    "name": "Gold",
-   "price": 4103.7998,
-   "change": -46.2002,
-   "pct": -1.11,
-   "pct_1m": -6.23,
+   "price": 4097.2998,
+   "change": -52.7002,
+   "pct": -1.27,
+   "pct_1m": -6.38,
    "spark": [
     4376.3999,
     4318.3999,
@@ -539,17 +539,17 @@
     4160.1001,
     4142.6001,
     4150.0,
-    4103.7998
+    4097.2998
    ],
    "asof": "2026-10-22"
   },
   "SI=F": {
    "symbol": "SI=F",
    "name": "Silver",
-   "price": 56.005,
-   "change": -1.417,
-   "pct": -2.47,
-   "pct_1m": -15.06,
+   "price": 55.96,
+   "change": -1.462,
+   "pct": -2.55,
+   "pct_1m": -15.12,
    "spark": [
     65.932,
     64.382,
@@ -573,17 +573,17 @@
     56.974,
     57.706,
     57.422,
-    56.005
+    55.96
    ],
    "asof": "2026-10-22"
   },
   "CL=F": {
    "symbol": "CL=F",
    "name": "WTI Crude",
-   "price": 99.57,
-   "change": 2.42,
-   "pct": 2.49,
-   "pct_1m": 5.26,
+   "price": 99.39,
+   "change": 2.24,
+   "pct": 2.31,
+   "pct_1m": 5.07,
    "spark": [
     94.59,
     92.16,
@@ -607,17 +607,17 @@
     103.66,
     101.79,
     97.15,
-    99.57
+    99.39
    ],
    "asof": "2026-10-22"
   },
   "BZ=F": {
    "symbol": "BZ=F",
    "name": "Brent Crude",
-   "price": 111.95,
-   "change": 3.13,
-   "pct": 2.88,
-   "pct_1m": 12.8,
+   "price": 111.98,
+   "change": 3.16,
+   "pct": 2.9,
+   "pct_1m": 12.83,
    "spark": [
     99.25,
     103.08,
@@ -641,7 +641,7 @@
     109.55,
     108.79,
     108.82,
-    111.95
+    111.98
    ],
    "asof": "2026-10-22"
   },
@@ -962,13 +962,88 @@
    "label": "India",
    "articles": [
     {
-     "id": "75fc96ff0c70",
-     "title": "Mumbai Police issue notices to 24 ''X'' accounts over Sabeer Bhatia's documentary",
-     "link": "https://www.thehindu.com/news/cities/mumbai/mumbai-police-issue-notices-to-24-x-accounts-over-sabeer-bhatias-documentary/article71609861.ece",
+     "id": "1d55ba45b3d9",
+     "title": "Green Visakha seeks time-bound environmental commitments from poll candidates in Visakhapatnam",
+     "link": "https://www.thehindu.com/news/cities/Visakhapatnam/green-visakha-seeks-time-bound-environmental-commitments-from-poll-candidates-in-visakhapatnam/article71611020.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-22T01:33:33+00:00",
-     "summary": "Mumbai Police have issued notices to 24 X (formerly Twitter) accounts regarding a documentary featuring Sabeer Bhatia.",
-     "explain": "The Mumbai Police are taking action against social media accounts that shared content accused of disparaging the Prime Minister and industrialist Gautam Adani. This reflects a trend of strict legal scrutiny regarding online content that authorities deem false or inflammatory.",
+     "published": "2026-10-22T10:51:53+00:00",
+     "summary": "Environmental group Green Visakha is demanding that political candidates commit to an independent environmental impact study before proceeding with new AI data centers in Visakhapatnam.",
+     "explain": "Environmental groups are asking for a 'time-bound commitment,' meaning they want candidates to promise a specific deadline for environmental studies. They are concerned about the environmental footprint of data centers, which consume significant power and water. This matters because it highlights the ongoing tension between industrial development and local ecological conservation in growing Indian cities.",
+     "related": [],
+     "story": {
+      "id": "india-visakhapatnam-environmental-policy-conce",
+      "title": "Visakhapatnam Environmental Policy Concerns",
+      "so_far": "Rapid urbanization and industrial expansion in Visakhapatnam have led to increasing public concern regarding infrastructure projects. Local environmental advocacy groups frequently monitor these projects for potential ecological damage and lack of transparency in planning.",
+      "timeline": [
+       {
+        "date": "2026-10-22",
+        "text": "A local environmental group is pressuring candidates to halt AI data center developments until an independent impact assessment is conducted.",
+        "link": "https://www.thehindu.com/news/cities/Visakhapatnam/green-visakha-seeks-time-bound-environmental-commitments-from-poll-candidates-in-visakhapatnam/article71611020.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "4f544e2e108e",
+     "title": "Why are Andhra Pradesh’s civic poll nominations under the Supreme Court’s scrutiny? | Explained",
+     "link": "https://www.thehindu.com/news/national/andhra-pradesh/why-are-andhra-pradeshs-civic-poll-nominations-under-the-supreme-courts-scrutiny-explained/article71610915.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-22T10:47:34+00:00",
+     "summary": "The Supreme Court has directed the State Election Commission to resolve grievances regarding the inability of candidates to file nominations for civic polls in Andhra Pradesh.",
+     "explain": "Civic polls are local government elections for municipalities and town councils. When candidates report being unable to file their nominations, it usually implies political intimidation or administrative obstacles preventing them from entering the race. The Supreme Court's involvement is meant to protect the democratic process and ensure fair competition.",
+     "related": [],
+     "story": {
+      "id": "india-andhra-pradesh-local-body-elections",
+      "title": "Andhra Pradesh Local Body Elections",
+      "so_far": "The conduct of local government elections in Andhra Pradesh is subject to frequent legal challenges regarding reservations, voter roll accuracy, and administrative procedures. The Supreme Court often intervenes to ensure these processes adhere to constitutional requirements before local polls proceed.",
+      "timeline": [
+       {
+        "date": "2026-10-22",
+        "text": "Elections for 100 local bodies have been paused pending further review by the SEC and district authorities.",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-sec-stops-election-process-for-100-ulbsafter-supreme-court-order/article71608801.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "The Supreme Court has intervened to ensure that candidates who were blocked from filing nominations are given a resolution path by the State Election Commission.",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/why-are-andhra-pradeshs-civic-poll-nominations-under-the-supreme-courts-scrutiny-explained/article71610915.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "510db62bda47",
+     "title": "CMRL-Exalogic payoff case: Ex-Keralam CM Pinarayi Vijayan to skip questioning by ED on October 23",
+     "link": "https://www.thehindu.com/news/national/kerala/cmrl-exalogic-payoff-case-ex-keralam-cm-pinarayi-vijayan-to-skip-questioning-by-ed-on-october-23/article71611043.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-22T10:43:23+00:00",
+     "summary": "Former Kerala CM Pinarayi Vijayan will not appear before the Enforcement Directorate (ED) regarding the CMRL-Exalogic payoff case due to an existing Supreme Court stay on a related police probe.",
+     "explain": "The Enforcement Directorate is a federal agency that investigates financial crimes like money laundering. A 'stay' is a court order that temporarily stops a legal proceeding. In this case, the legal complexity arises because the Supreme Court paused one part of the investigation, which the defense is now using to avoid further questioning by the ED.",
+     "related": [],
+     "story": {
+      "id": "india-cmrl-exalogic-payoff-case-investigation",
+      "title": "CMRL-Exalogic Payoff Case Investigation",
+      "so_far": "The CMRL-Exalogic case involves allegations of illicit payments made by a private company (CMRL) to a software firm (Exalogic), which is linked to the family of Kerala's former Chief Minister. The Enforcement Directorate (ED) is the Indian government agency responsible for investigating financial crimes and money laundering.",
+      "timeline": [
+       {
+        "date": "2026-10-22",
+        "text": "Former Chief Minister Pinarayi Vijayan is skipping an ED questioning session following a Supreme Court stay on a related FIR investigation.",
+        "link": "https://www.thehindu.com/news/national/kerala/cmrl-exalogic-payoff-case-ex-keralam-cm-pinarayi-vijayan-to-skip-questioning-by-ed-on-october-23/article71611043.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "cf2a0462cee0",
+     "title": "Three accused in Pilathara gold robbery case in Keralam’s Kannur arrested",
+     "link": "https://www.thehindu.com/news/national/kerala/three-accused-in-pilathara-gold-robbery-case-in-keralams-kannur-arrested/article71610416.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-22T10:41:12+00:00",
+     "summary": "Three individuals have been arrested in connection with a June 2026 armed robbery in Kannur, Kerala, where a family was looted of gold and cash.",
+     "explain": "The report highlights standard police investigative work into a violent criminal act. The 'Pilathara case' refers to a specific geographic location in Kerala where the incident took place, marking a successful breakthrough for local investigators tracking the culprits who robbed travelers.",
      "related": [],
      "story": {
       "id": "india-crime-and-investigation-reports",
@@ -1034,257 +1109,194 @@
         "text": "Authorities are investigating online accounts for spreading alleged misinformation about high-profile figures in a documentary.",
         "link": "https://www.thehindu.com/news/cities/mumbai/mumbai-police-issue-notices-to-24-x-accounts-over-sabeer-bhatias-documentary/article71609861.ece",
         "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "dc40d724feb5",
-     "title": "Andhra Pradesh SEC halts election process for 100 ULBs after Supreme Court order",
-     "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-sec-stops-election-process-for-100-ulbsafter-supreme-court-order/article71608801.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-22T01:28:44+00:00",
-     "summary": "The Andhra Pradesh State Election Commission (SEC) has halted the election process for 100 Urban Local Bodies (ULBs) following a Supreme Court directive.",
-     "explain": "Urban Local Bodies (ULBs) are the lowest tier of governance in Indian cities, responsible for local infrastructure like sanitation and roads. The SEC is the body tasked with running these elections, but they must often pause operations when the Supreme Court intervenes to resolve legal disputes over how these elections are conducted.",
-     "related": [],
-     "story": {
-      "id": "india-andhra-pradesh-local-body-elections",
-      "title": "Andhra Pradesh Local Body Elections",
-      "so_far": "The conduct of local government elections in Andhra Pradesh is subject to frequent legal challenges regarding reservations, voter roll accuracy, and administrative procedures. The Supreme Court often intervenes to ensure these processes adhere to constitutional requirements before local polls proceed.",
-      "timeline": [
+       },
        {
         "date": "2026-10-22",
-        "text": "Elections for 100 local bodies have been paused pending further review by the SEC and district authorities.",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-sec-stops-election-process-for-100-ulbsafter-supreme-court-order/article71608801.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "468d76024af0",
-     "title": "U.P. CM Yogi issues directions for strict legal action in cases of land encroachment",
-     "link": "https://www.thehindu.com/news/national/uttar-pradesh/up-cm-yogi-issues-directions-for-strict-legal-action-in-cases-of-land-encroachment/article71607946.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-22T01:23:37+00:00",
-     "summary": "Uttar Pradesh Chief Minister Yogi Adityanath has ordered officials to take strict legal action against illegal land encroachers.",
-     "explain": "Land encroachment refers to the illegal occupation of public or private property. Governments periodically launch 'encroachment drives' to reclaim state land or help private citizens recover property from unauthorized occupants, often sparking debates about legal due process and the rights of the displaced.",
-     "related": [],
-     "story": {
-      "id": "india-assam-land-encroachment-drives",
-      "title": "Assam Land Encroachment Drives",
-      "so_far": "Assam has been aggressively identifying and clearing government or protected land occupied by unauthorized settlers. These drives are frequently justified by the administration as necessary to preserve state resources and enforce land laws.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "The Assam government has successfully cleared over 600 hectares of land identified as illegally encroached.",
-        "link": "https://www.thehindu.com/news/national/assam/encroachment-on-638-hectares-of-land-cleared-in-eviction-drives-in-3-districts-assam-cm/article71604198.ece",
+        "text": "Police have apprehended three suspects involved in a violent highway robbery that occurred in June 2026.",
+        "link": "https://www.thehindu.com/news/national/kerala/three-accused-in-pilathara-gold-robbery-case-in-keralams-kannur-arrested/article71610416.ece",
         "source": "India Latest News: Top National Headline"
        },
        {
         "date": "2026-10-22",
-        "text": "The Uttar Pradesh administration is intensifying crackdowns on land grabbing while encouraging dialogue for property disputes.",
-        "link": "https://www.thehindu.com/news/national/uttar-pradesh/up-cm-yogi-issues-directions-for-strict-legal-action-in-cases-of-land-encroachment/article71607946.ece",
+        "text": "Police have arrested four individuals for the fatal assault of a laborer in Vijayawada.",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/labourer-allegedly-tied-to-pole-beaten-to-death-in-vijayawada-over-a-bottle-of-wate/article71610751.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "5dee41f8c381",
-     "title": "Controversy erupts after ‘protest’ photographs by Priyanka Gandhi’s son allegedly get removed from Bikaner House exhibition",
-     "link": "https://www.thehindu.com/news/national/controversy-erupts-after-protest-photographs-by-priyanka-gandhis-son-allegedly-get-removed-from-bikaner-house-exhibition/article71608800.ece",
+     "id": "7e31771d500b",
+     "title": "Telangana CM Revanth calls for support to Rahul Gandhi to empower Backward Classes",
+     "link": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-calls-for-support-to-rahul-gandhi-to-empower-backward-classes/article71611039.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-22T01:13:41+00:00",
-     "summary": "Raihan Vadra, son of Priyanka Gandhi, claimed Bikaner House management forced the removal of his photography exhibit featuring youth protests in Delhi.",
-     "explain": "Bikaner House is a government-owned cultural venue in New Delhi. The controversy highlights ongoing tensions between political figures, their families, and the administration over what types of protest-related content are considered appropriate for public viewing.",
+     "published": "2026-10-22T10:39:26+00:00",
+     "summary": "Telangana Chief Minister Revanth Reddy has announced a Cabinet sub-committee to investigate the Mudiraj community's request to be reclassified under the BC-A category for social welfare.",
+     "explain": "A 'Cabinet sub-committee' is a small group of ministers tasked with studying a complex issue in depth before making a policy recommendation to the full government. The Mudiraj community is seeking a shift to the 'BC-A' category, which typically offers more robust welfare benefits and quota positions compared to their current standing.",
      "related": [],
      "story": {
-      "id": "india-political-tensions-and-youth-unrest",
-      "title": "Political Tensions and Youth Unrest",
-      "so_far": "The split in the Shiv Sena has led to a highly polarized political environment in Maharashtra. Competing factions often hold public rallies during major festivals like Dussehra to demonstrate popular support and define their political narratives for the public.",
+      "id": "india-telangana-obc-reservation-demands",
+      "title": "Telangana OBC Reservation Demands",
+      "so_far": "Reservation policies in India involve categorizing various castes into groups like Scheduled Castes (SC), Scheduled Tribes (ST), and Other Backward Classes (OBC) to provide access to education and government jobs. Communities frequently petition the government to be moved into specific sub-categories that offer better benefits.",
+      "timeline": [
+       {
+        "date": "2026-10-22",
+        "text": "The government has formed a cabinet sub-committee to review the Mudiraj community's demand for a specific social category reclassification.",
+        "link": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-calls-for-support-to-rahul-gandhi-to-empower-backward-classes/article71611039.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "2cafb676399e",
+     "title": "Labourer allegedly tied to pole, beaten to death in Vijayawada over a bottle of water",
+     "link": "https://www.thehindu.com/news/national/andhra-pradesh/labourer-allegedly-tied-to-pole-beaten-to-death-in-vijayawada-over-a-bottle-of-wate/article71610751.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-22T10:39:04+00:00",
+     "summary": "Four people have been arrested in Vijayawada after allegedly beating a laborer to death over a bottle of water.",
+     "explain": "This is a criminal report detailing a violent assault that led to a fatality. Local police, led by a Circle Inspector, are handling the investigation and have already placed the accused in custody.",
+     "related": [],
+     "story": {
+      "id": "india-crime-and-investigation-reports",
+      "title": "Crime and Investigation Reports",
+      "so_far": "Public safety incidents involving celebrities in Mumbai frequently trigger immediate political attention and rapid deployment of elite police units due to the high profile of the victims and the risk to the city's reputation.",
       "timeline": [
        {
         "date": "2026-10-20",
-        "text": "The Shiv Sena (UBT) and Shinde-led faction held separate rallies, each pivoting to key populist issues ahead of upcoming political cycles.",
-        "link": "https://www.thehindu.com/news/national/maharashtra/rising-crimes-and-farmers-plight-dominate-conversations-at-60th-shiv-sena-ubt-dussera-rally/article71605414.ece",
-        "source": "India Latest News: Top National Headline"
+        "text": "Authorities uncovered that the wife hired a painter with whom she was having an affair to commit the murder due to ongoing domestic conflicts.",
+        "link": "https://www.ndtv.com/india-news/karnataka-woman-falls-for-painter-together-plot-husbands-murder-12208218#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
        },
-       {
-        "date": "2026-10-21",
-        "text": "Uddhav Thackeray has publicly aligned with youth groups protesting voter roll inaccuracies in Maharashtra.",
-        "link": "https://www.thehindu.com/news/national/maharashtra/at-dussehra-rally-uddhav-bats-for-regime-change-promises-acche-din-after-ousting-bjp/article71605421.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-21",
-        "text": "Political parties are trading accusations over the motivation behind calls for the release of protest leaders.",
-        "link": "https://www.thehindu.com/news/national/odisha/bjd-slams-bjp-for-personal-attack-on-naveen-over-his-demand-for-cjp-leaders-release/article71608506.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Artistic expressions related to Delhi youth protests were censored from a public exhibition space.",
-        "link": "https://www.thehindu.com/news/national/controversy-erupts-after-protest-photographs-by-priyanka-gandhis-son-allegedly-get-removed-from-bikaner-house-exhibition/article71608800.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Key figures involved in the October 14 Jantar Mantar protest have been released from custody.",
-        "link": "https://www.thehindu.com/news/cities/Delhi/dipke-hails-cjp-leaders-saurav-das-and-ashutosh-ranka-as-much-much-bigger-leaders/article71609856.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "8c450d47044a",
-     "title": "'Much, much bigger leaders than me': Dipke hails Saurav Das, Ashutosh Ranka after release",
-     "link": "https://www.thehindu.com/news/cities/Delhi/dipke-hails-cjp-leaders-saurav-das-and-ashutosh-ranka-as-much-much-bigger-leaders/article71609856.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-22T00:54:48+00:00",
-     "summary": "Activists Saurav Das and Ashutosh Ranka were released following the completion of their judicial custody related to a protest at Jantar Mantar.",
-     "explain": "Jantar Mantar is a designated space for protests in Delhi. When activists are held in 'judicial custody,' it means they were detained by order of a judge, often while police investigate charges related to public order during demonstrations.",
-     "related": [],
-     "story": {
-      "id": "india-political-tensions-and-youth-unrest",
-      "title": "Political Tensions and Youth Unrest",
-      "so_far": "The split in the Shiv Sena has led to a highly polarized political environment in Maharashtra. Competing factions often hold public rallies during major festivals like Dussehra to demonstrate popular support and define their political narratives for the public.",
-      "timeline": [
        {
         "date": "2026-10-20",
-        "text": "The Shiv Sena (UBT) and Shinde-led faction held separate rallies, each pivoting to key populist issues ahead of upcoming political cycles.",
-        "link": "https://www.thehindu.com/news/national/maharashtra/rising-crimes-and-farmers-plight-dominate-conversations-at-60th-shiv-sena-ubt-dussera-rally/article71605414.ece",
-        "source": "India Latest News: Top National Headline"
+        "text": "Authorities arrested three suspects in Rajasthan's Kota, with one found to be working for the taxi-service app Rapido.",
+        "link": "https://www.ndtv.com/india-news/tiger-shroff-shooter-works-with-rapido-taxi-app-shares-his-work-status-12207440#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
        },
-       {
-        "date": "2026-10-21",
-        "text": "Uddhav Thackeray has publicly aligned with youth groups protesting voter roll inaccuracies in Maharashtra.",
-        "link": "https://www.thehindu.com/news/national/maharashtra/at-dussehra-rally-uddhav-bats-for-regime-change-promises-acche-din-after-ousting-bjp/article71605421.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-21",
-        "text": "Political parties are trading accusations over the motivation behind calls for the release of protest leaders.",
-        "link": "https://www.thehindu.com/news/national/odisha/bjd-slams-bjp-for-personal-attack-on-naveen-over-his-demand-for-cjp-leaders-release/article71608506.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Artistic expressions related to Delhi youth protests were censored from a public exhibition space.",
-        "link": "https://www.thehindu.com/news/national/controversy-erupts-after-protest-photographs-by-priyanka-gandhis-son-allegedly-get-removed-from-bikaner-house-exhibition/article71608800.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Key figures involved in the October 14 Jantar Mantar protest have been released from custody.",
-        "link": "https://www.thehindu.com/news/cities/Delhi/dipke-hails-cjp-leaders-saurav-das-and-ashutosh-ranka-as-much-much-bigger-leaders/article71609856.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "0b4cac3a59d1",
-     "title": "BJD slams BJP for personal attack on Naveen over his demand for CJP leaders’ release",
-     "link": "https://www.thehindu.com/news/national/odisha/bjd-slams-bjp-for-personal-attack-on-naveen-over-his-demand-for-cjp-leaders-release/article71608506.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-21T23:35:55+00:00",
-     "summary": "The BJD has criticized the BJP for making personal attacks against former leader Naveen Patnaik regarding his support for the release of political protest leaders.",
-     "explain": "The Biju Janata Dal (BJD) and the Bharatiya Janata Party (BJP) are regional and national political entities, respectively. Tensions between them often escalate when one side frames the other's political demands as destabilizing attempts to subvert national order.",
-     "related": [],
-     "story": {
-      "id": "india-political-tensions-and-youth-unrest",
-      "title": "Political Tensions and Youth Unrest",
-      "so_far": "The split in the Shiv Sena has led to a highly polarized political environment in Maharashtra. Competing factions often hold public rallies during major festivals like Dussehra to demonstrate popular support and define their political narratives for the public.",
-      "timeline": [
        {
         "date": "2026-10-20",
-        "text": "The Shiv Sena (UBT) and Shinde-led faction held separate rallies, each pivoting to key populist issues ahead of upcoming political cycles.",
-        "link": "https://www.thehindu.com/news/national/maharashtra/rising-crimes-and-farmers-plight-dominate-conversations-at-60th-shiv-sena-ubt-dussera-rally/article71605414.ece",
+        "text": "The murder case of anti-drug activist Parvinder Singh Jhota has been handed over to the CBI following a visit by the Union Home Minister.",
+        "link": "https://www.thehindu.com/news/national/punjab/amit-shah-punjab-visit-parvinder-singh-jhota-murder-case/article71603773.ece",
         "source": "India Latest News: Top National Headline"
        },
        {
-        "date": "2026-10-21",
-        "text": "Uddhav Thackeray has publicly aligned with youth groups protesting voter roll inaccuracies in Maharashtra.",
-        "link": "https://www.thehindu.com/news/national/maharashtra/at-dussehra-rally-uddhav-bats-for-regime-change-promises-acche-din-after-ousting-bjp/article71605421.ece",
+        "date": "2026-10-20",
+        "text": "Amit Shah has personally engaged with the family of a murdered activist, underscoring the political significance of the drug issue in Punjab.",
+        "link": "https://www.ndtv.com/india-news/amit-shah-meets-family-of-bikramjit-singh-killed-over-anti-drug-campaign-12210088#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Three suspects involved in the shooting targeting Tiger Shroff have been arrested and are linked to possible organized crime groups.",
+        "link": "https://www.thehindu.com/news/national/maharashtra/bollywood-tiger-shroff-attack-case-on-october-20-2026/article71603475.ece",
         "source": "India Latest News: Top National Headline"
        },
        {
+        "date": "2026-10-20",
+        "text": "The legal resolution of the long-standing Gulshan Kumar murder case continues with this High Court ruling.",
+        "link": "https://www.thehindu.com/news/cities/mumbai/gulshan-kumar-murder-case-bombay-hc-upholds-acquittal-of-producer-ramesh-taurani-confirms-conviction-of-one-accused/article61447838.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "A major investigation is underway following a direct threat and shooting incident targeting a celebrity in Mumbai.",
+        "link": "https://www.thehindu.com/news/cities/mumbai/tiger-shroff-firing-in-mumbai-juhu-october-18-2026/article71600449.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The total number of arrests in the Tiger Shroff shooting case has risen as police expand the investigation to include logistics facilitators.",
+        "link": "https://www.ndtv.com/india-news/4-more-people-including-2-women-arrested-in-tiger-shroff-shooting-case-12212352#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
         "date": "2026-10-21",
-        "text": "Political parties are trading accusations over the motivation behind calls for the release of protest leaders.",
-        "link": "https://www.thehindu.com/news/national/odisha/bjd-slams-bjp-for-personal-attack-on-naveen-over-his-demand-for-cjp-leaders-release/article71608506.ece",
+        "text": "Four more individuals have been taken into custody in the ongoing investigation into the shooting incident.",
+        "link": "https://www.thehindu.com/news/national/maharashtra/tiger-shroff-firing-case-four-arrested-for-allegedly-transporting-firearm-to-mumbai-helping-coordinate-operation/article71605447.ece",
         "source": "India Latest News: Top National Headline"
        },
        {
         "date": "2026-10-22",
-        "text": "Artistic expressions related to Delhi youth protests were censored from a public exhibition space.",
-        "link": "https://www.thehindu.com/news/national/controversy-erupts-after-protest-photographs-by-priyanka-gandhis-son-allegedly-get-removed-from-bikaner-house-exhibition/article71608800.ece",
+        "text": "Authorities are investigating online accounts for spreading alleged misinformation about high-profile figures in a documentary.",
+        "link": "https://www.thehindu.com/news/cities/mumbai/mumbai-police-issue-notices-to-24-x-accounts-over-sabeer-bhatias-documentary/article71609861.ece",
         "source": "India Latest News: Top National Headline"
        },
        {
         "date": "2026-10-22",
-        "text": "Key figures involved in the October 14 Jantar Mantar protest have been released from custody.",
-        "link": "https://www.thehindu.com/news/cities/Delhi/dipke-hails-cjp-leaders-saurav-das-and-ashutosh-ranka-as-much-much-bigger-leaders/article71609856.ece",
+        "text": "Police have apprehended three suspects involved in a violent highway robbery that occurred in June 2026.",
+        "link": "https://www.thehindu.com/news/national/kerala/three-accused-in-pilathara-gold-robbery-case-in-keralams-kannur-arrested/article71610416.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "Police have arrested four individuals for the fatal assault of a laborer in Vijayawada.",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/labourer-allegedly-tied-to-pole-beaten-to-death-in-vijayawada-over-a-bottle-of-wate/article71610751.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "244b901ba1a5",
-     "title": "Haryana Congress flays BJP government over its failure to keep poll promises",
-     "link": "https://www.thehindu.com/news/national/haryana/haryana-congress-flays-bjp-government-over-its-failure-to-keep-poll-promises/article71607864.ece",
+     "id": "3164c4bd7137",
+     "title": "Coimbatore student ends life; family alleges harassment by teacher, classmates over caste, beef consumption",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/coimbatore-student-ends-life-family-alleges-harassment-by-teacher-classmates-over-caste-beef-consumption/article71610784.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-21T21:15:57+00:00",
-     "summary": "Haryana Congress leaders criticized the BJP government for failing to address key issues including corruption, unemployment, and law and order.",
-     "explain": "This is standard political opposition rhetoric where parties evaluate the performance of an incumbent government. 'Flaying' or 'cornering' the government refers to holding public debates or press conferences to highlight areas where the ruling party is perceived to have underperformed.",
+     "published": "2026-10-22T10:36:44+00:00",
+     "summary": "A student in Coimbatore died by suicide, with his family alleging he faced severe caste-based and dietary harassment from classmates and a teacher.",
+     "explain": "Abetment of suicide is a serious criminal charge where a person is accused of encouraging or driving someone to commit suicide through harassment. The mention of caste and beef consumption reflects deep-seated social sensitivities in India; the school staff's arrest shows authorities are taking these allegations of systemic harassment and discrimination seriously.",
      "related": [],
      "story": {
-      "id": "india-haryana-political-opposition-critique",
-      "title": "Haryana Political Opposition Critique",
-      "so_far": "Haryana has seen significant political competition between the BJP and the Indian National Congress. Recent elections and ongoing governance have been characterized by debates over agricultural policies, youth employment, and infrastructure development in the state.",
+      "id": "india-legal-precedents-on-employment-disputes",
+      "title": "Legal Precedents on Employment Disputes",
+      "so_far": "The legal system in India is increasingly scrutinizing 'abetment of suicide' cases, where individuals are held responsible for creating conditions or harassing victims to the point of self-harm. Schools and employers are under heightened pressure to prevent discriminatory practices.",
       "timeline": [
        {
         "date": "2026-10-21",
-        "text": "Opposition leaders targeted the BJP on the two-year anniversary of its third term in Haryana.",
-        "link": "https://www.thehindu.com/news/national/haryana/haryana-congress-flays-bjp-government-over-its-failure-to-keep-poll-promises/article71607864.ece",
+        "text": "The court clarified that administrative workplace actions like denying leave do not constitute legal grounds for abetment of suicide.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/hr-manager-cannot-be-prosecuted-for-abetment-to-suicide-over-denying-leave-or-marking-employee-absent-madras-high-court/article71606383.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "A teacher has been arrested following allegations of abetting the suicide of a student due to caste and dietary harassment.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/coimbatore-student-ends-life-family-alleges-harassment-by-teacher-classmates-over-caste-beef-consumption/article71610784.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "c9b39cbf0525",
-     "title": "Surrendered Maoist found dead in rehabilitation facility: Police",
-     "link": "https://www.thehindu.com/news/national/madhya-pradesh/surrendered-maoist-found-dead-in-rehabilitation-facility-police/article71608246.ece",
+     "id": "6c4263a00dcf",
+     "title": "Meet the people who enrolled in IIMB’s inaugural undergraduate course",
+     "link": "https://www.thehindu.com/news/national/karnataka/iimbs-inaugural-ug-cohort-brings-together-diverse-talent-ambitions/article71575894.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-21T21:04:25+00:00",
-     "summary": "A surrendered Maoist was discovered dead in a rehabilitation facility in Bijapur; police are investigating the circumstances.",
-     "explain": "Maoists (or Naxalites) are members of far-left radical groups engaged in an armed struggle against the state. The government offers rehabilitation programs as part of a strategy to weaken the insurgency by incentivizing fighters to leave their organizations.",
+     "published": "2026-10-22T10:34:39+00:00",
+     "summary": "IIM Bangalore has enrolled its first batch of undergraduate students, supported by a 100% financial aid program for those who qualify.",
+     "explain": "IIM Bangalore is one of the most prestigious management institutions in India. By launching an undergraduate course, they are broadening their reach beyond postgraduate education. Offering 100% financial aid means the students do not have to pay tuition or fees if they meet specific eligibility standards, ensuring that economic background does not prevent talented students from attending.",
      "related": [],
      "story": {
-      "id": "india-maoist-insurgency-and-rehabilitation",
-      "title": "Maoist Insurgency and Rehabilitation",
-      "so_far": "In regions like Chhattisgarh, the government operates rehabilitation programs for Maoists who surrender their weapons and renounce violence. These facilities are designed to integrate former fighters into mainstream society through vocational training and security protection.",
+      "id": "india-higher-education-expansion",
+      "title": "Higher Education Expansion",
+      "so_far": "Indian Institutes of Management (IIMs) are premier public business schools. Historically, they have focused exclusively on postgraduate degrees like the MBA, but some are now expanding to offer undergraduate-level courses.",
       "timeline": [
        {
-        "date": "2026-10-21",
-        "text": "A death in a state-run rehabilitation center for former Maoist insurgents has triggered a police investigation.",
-        "link": "https://www.thehindu.com/news/national/madhya-pradesh/surrendered-maoist-found-dead-in-rehabilitation-facility-police/article71608246.ece",
+        "date": "2026-10-22",
+        "text": "IIM Bangalore has launched its inaugural undergraduate program, focusing on accessibility through full financial aid.",
+        "link": "https://www.thehindu.com/news/national/karnataka/iimbs-inaugural-ug-cohort-brings-together-diverse-talent-ambitions/article71575894.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "e15a06c46e90",
-     "title": "West Bengal government sets up SIT headed by retired justice to probe Durga Puja pandal stampede",
-     "link": "https://www.thehindu.com/news/cities/kolkata/west-bengal-government-sets-up-sit-headed-by-retired-justice-to-probe-durga-puja-pandalstampede/article71607999.ece",
+     "id": "5dfa6a0a2d94",
+     "title": "Kolkata stampede: Three months too short to submit probe report, will strive to meet deadline, says SIT head",
+     "link": "https://www.thehindu.com/news/cities/kolkata/kolkata-stampede-three-months-too-short-to-submit-probe-report-will-strive-to-meet-deadline-says-sit-head/article71610606.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-21T20:52:43+00:00",
-     "summary": "West Bengal has established a Special Investigation Team (SIT) to probe the fatal Durga Puja pandal stampede.",
-     "explain": "An SIT (Special Investigation Team) is a team of specialized police or legal experts assigned to handle high-profile, sensitive cases that require extra scrutiny or expertise beyond the local police force. It is often a measure taken to ensure transparency after public disasters.",
+     "published": "2026-10-22T10:33:02+00:00",
+     "summary": "The head of the Special Investigation Team (SIT) probing the Kolkata Durga Puja stampede stated that the three-month deadline is difficult but they will attempt to finish on time.",
+     "explain": "An SIT (Special Investigation Team) is a specialized group of officers or experts formed to handle complex cases. The inquiry is looking into the causes of a fatal stampede—a tragedy caused by overcrowding—at a religious festival. The conflict here is between the need for a thorough, high-quality investigation and the pressure from the court and public to produce results quickly.",
      "related": [],
      "story": {
       "id": "india-calcutta-high-court-stampede-inquiry",
@@ -1302,29 +1314,35 @@
         "text": "An SIT has been formed to investigate the stampede, addressing legal requirements for a formal commission.",
         "link": "https://www.thehindu.com/news/cities/kolkata/west-bengal-government-sets-up-sit-headed-by-retired-justice-to-probe-durga-puja-pandalstampede/article71607999.ece",
         "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "The SIT chair has signaled challenges in meeting the government-imposed three-month deadline for the stampede investigation report.",
+        "link": "https://www.thehindu.com/news/cities/kolkata/kolkata-stampede-three-months-too-short-to-submit-probe-report-will-strive-to-meet-deadline-says-sit-head/article71610606.ece",
+        "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "770a795094fd",
-     "title": "Delhi Content Creator Racially Abuses Tripura Youth, Minister Vows Strict Action",
-     "link": "https://www.ndtv.com/india-news/delhi-content-creator-racially-abuses-tripura-youth-minister-kiren-rijiju-vows-strict-action-12217472#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-10-21T20:31:03+00:00",
-     "summary": "A content creator is under fire for racially abusing a youth from Tripura in a video, with a minister promising strict action.",
-     "explain": "Racial abuse involves using derogatory language based on ethnic or regional identity. In India, discrimination against individuals from Northeast states is a recognized social issue, and ministers often issue statements promising action to maintain national unity and social harmony.",
+     "id": "a868704d2160",
+     "title": "INDIA bloc leaders' virtual meeting to discuss roadmap for ‘vote chori’ protests deferred",
+     "link": "https://www.thehindu.com/news/national/india-bloc-leaders-virtual-meeting-to-discuss-roadmap-for-vote-chori-protests-deferred/article71610745.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-22T10:30:11+00:00",
+     "summary": "The INDIA bloc has deferred a virtual meeting to plan protests against alleged 'vote chori' (vote theft) and to organize for a November 1 rally.",
+     "explain": "The 'INDIA bloc' is a political alliance of multiple opposition parties. 'Vote chori' translates to 'vote theft,' a term the opposition uses to accuse the ruling party of manipulating election results. Deferring the meeting means they have postponed their planning session, indicating internal scheduling or strategic adjustments before their planned November 1 protest rally.",
      "related": [],
      "story": {
-      "id": "india-incidents-of-racial-abuse",
-      "title": "Incidents of Racial Abuse",
-      "so_far": "People from India's Northeast states often face discrimination and racial abuse in other parts of the country. Government officials and civil society groups frequently intervene when these incidents go viral to signal the state's intolerance toward racism.",
+      "id": "india-india-bloc-political-strategy",
+      "title": "INDIA Bloc Political Strategy",
+      "so_far": "The INDIA bloc is a coalition of opposition parties formed to challenge the ruling party in India. They frequently organize joint protests and rallies to highlight issues they characterize as democratic backsliding or corruption.",
       "timeline": [
        {
-        "date": "2026-10-21",
-        "text": "A video featuring racial slurs directed at a Northeast Indian youth has drawn ministerial condemnation.",
-        "link": "https://www.ndtv.com/india-news/delhi-content-creator-racially-abuses-tripura-youth-minister-kiren-rijiju-vows-strict-action-12217472#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
+        "date": "2026-10-22",
+        "text": "Opposition leaders have delayed their meeting to coordinate protests regarding alleged election irregularities.",
+        "link": "https://www.thehindu.com/news/national/india-bloc-leaders-virtual-meeting-to-discuss-roadmap-for-vote-chori-protests-deferred/article71610745.ece",
+        "source": "India Latest News: Top National Headline"
        }
       ]
      }
@@ -1334,87 +1352,6 @@
   "world": {
    "label": "World",
    "articles": [
-    {
-     "id": "88ad8ac66500",
-     "title": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
-     "link": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-22T00:25:41+00:00",
-     "summary": "An attack at Saudi Arabia's King Fahd Airport has resulted in one fatality and eight injuries. The injured individuals have been transported to local hospitals.",
-     "explain": "The King Fahd International Airport is a major aviation hub in Dammam, Saudi Arabia. An attack at such a facility is a significant security event that may impact regional travel and security protocols. Further details regarding the perpetrators or their motives are not yet known.",
-     "related": [],
-     "story": {
-      "id": "world-attack-on-king-fahd-airport",
-      "title": "Attack on King Fahd Airport",
-      "so_far": "This is a breaking news event concerning a violent incident at a major Saudi Arabian infrastructure site. Security authorities are currently investigating the circumstances of the attack, and further official updates from the aviation authority are pending.",
-      "timeline": [
-       {
-        "date": "2026-10-22",
-        "text": "A security incident at King Fahd Airport in Saudi Arabia has left one person dead and eight injured.",
-        "link": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
-    },
-    {
-     "id": "488f87bd0105",
-     "title": "Pope Leo needs no further treatment after cancer surgery, doctors say",
-     "link": "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-21T23:20:58+00:00",
-     "summary": "Pope Leo underwent successful cancer surgery to remove the lower lobe of his right lung and requires no further treatment, according to his medical team.",
-     "explain": "The surgery involved removing a cancerous lobe from the Pope's lung. Medical professionals have stated he does not require further intervention, which is generally viewed as a positive health outlook. This is significant because the health of a world religious leader affects administrative continuity and diplomatic activities.",
-     "related": [],
-     "story": {
-      "id": "world-pope-leo-health-update",
-      "title": "Pope Leo Health Update",
-      "so_far": "Pope Leo is the current head of the Catholic Church. His recent diagnosis and subsequent surgery have been matters of significant public interest due to his global influence and age.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "The 71-year-old leader of the Catholic Church has successfully completed surgery to remove a portion of his lung.",
-        "link": "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
-    },
-    {
-     "id": "2f0341f63570",
-     "title": "Nigeria’s first Ebola case matches DR Congo strain, health officials say",
-     "link": "https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-21T23:20:12+00:00",
-     "summary": "Health officials have confirmed that Nigeria's first Ebola case involves the Bundibugyo strain, previously linked to a deadly outbreak in the Democratic Republic of Congo.",
-     "explain": "Ebola is a severe, often fatal viral illness. The Bundibugyo strain is a specific variant of the virus known for high mortality. Its presence in West Africa, far from its origins in Central Africa, raises alarms for public health officials who fear the virus could spread across borders and put strain on regional health systems.",
-     "related": [],
-     "story": {
-      "id": "world-ebola-outbreak-in-africa",
-      "title": "Ebola Outbreak in Africa",
-      "so_far": "Kenya is experiencing an outbreak of Ebola, prompting a balance between government attempts to reassure the public and international alarm. The disease's high mortality rate often leads to travel restrictions and significant economic strain in affected regions.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "Nigeria has identified the specific strain of Ebola affecting its population, following confirmation of the country's first case.",
-        "link": "https://www.thehindu.com/news/international/nigeria-confirms-its-first-ebola-case-is-bundibugyo-strain/article71607018.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-10-21",
-        "text": "The U.S. has issued travel warnings for Kenya amid concerns over the government's ability to contain a nine-case outbreak.",
-        "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-10-21",
-        "text": "The Ebola virus has spread from the DR Congo to West Africa, with Nigeria confirming its first case of the Bundibugyo strain.",
-        "link": "https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
-    },
     {
      "id": "4e36bdb1d660",
      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
@@ -1446,28 +1383,123 @@
         "text": "Putin has formally agreed to a three-way negotiation process involving the U.S. and Ukraine.",
         "link": "https://www.thehindu.com/news/international/putin-xi-trump-summit-being-prepared-kremlin/article71608186.ece",
         "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-10-22",
+        "text": "Both nations exchanged drone and missile strikes, injuring civilians in both Kyiv and Moscow, even as they speak about returning to peace talks.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-and-ukraine-trade-attacks-despite-pledging-to-resume-peace-talks?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
        }
       ]
      }
     },
     {
-     "id": "153b2124aaa6",
-     "title": "Mexico charges prosecutor with treason over US involvement in drug raid",
-     "link": "https://www.aljazeera.com/news/2026/10/21/mexico-charges-prosecutor-with-treason-over-us-involvement-in-drug-raid?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-21T21:25:21+00:00",
-     "summary": "Mexican authorities have charged a prosecutor with treason regarding the unauthorized participation of U.S. agents in an April drug raid.",
-     "explain": "Treason is a grave charge generally reserved for actions that betray one's country. By charging a prosecutor, Mexico is signaling that allowing U.S. agents to participate in domestic law enforcement without following proper legal channels is a violation of national sovereignty. This highlights the friction between the two countries in managing cross-border organized crime.",
+     "id": "f49f7be0b678",
+     "title": "El Salvador's president threatens Haitian gangs over military hostages",
+     "link": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-10-22T10:17:48+00:00",
+     "summary": "President Nayib Bukele has launched a military rescue operation following the abduction of four Salvadoran soldiers in Haiti by local gangs.",
+     "explain": "The Salvadoran soldiers were reportedly abducted by gang members in Haiti. This is a significant escalation as it involves a foreign military attempting a rescue operation in a country where gangs control much of the infrastructure. 'Gang suppression' refers to active measures to dismantle criminal organizations, which is the cornerstone of Bukele's domestic and now foreign security strategy.",
      "related": [],
      "story": {
-      "id": "world-mexico-prosecutor-treason-charge",
-      "title": "Mexico Prosecutor Treason Charge",
-      "so_far": "Mexico and the U.S. have a complex history regarding drug enforcement. Mexican law maintains strict regulations on the presence and activities of foreign agents on its soil, viewing them through the lens of national sovereignty.",
+      "id": "world-el-salvador-military-hostages-in-haiti",
+      "title": "El Salvador Military Hostages in Haiti",
+      "so_far": "El Salvador's president, Nayib Bukele, is known for his hardline security policies. This incident marks an unusual international deployment of Salvadoran military resources to Haiti, a nation currently struggling with severe gang-related instability and a lack of functional state control.",
       "timeline": [
        {
+        "date": "2026-10-22",
+        "text": "President Nayib Bukele has launched a military rescue operation following the abduction of four Salvadoran soldiers in Haiti by local gangs.",
+        "link": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "President Bukele has publicly announced the mobilization of military assets to Haiti to retrieve the soldiers missing since Sunday.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/el-salvadors-bukele-threatens-haitian-gangs-over-abducted-soldiers?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "50fb7e8745ef",
+     "title": "Russia and Ukraine trade attacks despite pledging to resume peace talks",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-and-ukraine-trade-attacks-despite-pledging-to-resume-peace-talks?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-10-22T09:57:47+00:00",
+     "summary": "Russia and Ukraine continued their aerial attacks despite both countries signaling a willingness to resume peace negotiations.",
+     "explain": "Despite the ongoing violence of the war, diplomats frequently try to keep communication channels open for potential peace talks. These attacks illustrate the challenge of negotiating when both sides continue to engage in active combat and deep-strike tactics against each other's territories.",
+     "related": [
+      {
+       "date": "2026-10-21",
+       "title": "Putin agrees to resume three-way peace talks with Ukraine and U.S.",
+       "link": "https://www.thehindu.com/news/international/putin-xi-trump-summit-being-prepared-kremlin/article71608186.ece",
+       "source": "World News: Latest International News & "
+      },
+      {
+       "date": "2026-10-21",
+       "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+       "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC News"
+      }
+     ],
+     "story": {
+      "id": "world-diplomatic-talks-on-ukraine",
+      "title": "Diplomatic Talks on Ukraine",
+      "so_far": "The war in Ukraine has been ongoing since the 2022 Russian invasion, causing significant destruction and displacing millions. International actors, including the U.S., have been deeply involved in supporting Ukraine through military and financial aid, while periodically attempting to facilitate negotiations to end the conflict.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "Upcoming discussions in Oslo include leaders from Norway and Finland to coordinate support and strategy for the war.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
         "date": "2026-10-21",
-        "text": "A prosecutor is facing treason charges following a controversial drug raid involving U.S. personnel.",
-        "link": "https://www.aljazeera.com/news/2026/10/21/mexico-charges-prosecutor-with-treason-over-us-involvement-in-drug-raid?traffic_source=rss",
+        "text": "Russia has agreed in principle to resume peace talks, yet continued its missile offensive against Kyiv simultaneously.",
+        "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-10-21",
+        "text": "Putin has formally agreed to a three-way negotiation process involving the U.S. and Ukraine.",
+        "link": "https://www.thehindu.com/news/international/putin-xi-trump-summit-being-prepared-kremlin/article71608186.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-10-22",
+        "text": "Both nations exchanged drone and missile strikes, injuring civilians in both Kyiv and Moscow, even as they speak about returning to peace talks.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-and-ukraine-trade-attacks-despite-pledging-to-resume-peace-talks?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "0e506de15b1a",
+     "title": "El Salvador’s Bukele threatens Haitian gangs over abducted soldiers",
+     "link": "https://www.aljazeera.com/news/2026/10/22/el-salvadors-bukele-threatens-haitian-gangs-over-abducted-soldiers?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-10-22T05:36:33+00:00",
+     "summary": "President Bukele has warned Haitian gangs that he will conduct a military operation to recover four abducted soldiers.",
+     "explain": "President Bukele is using his influence and military power to address the kidnapping of his troops abroad. By framing this as a rescue operation, he is projecting strength while dealing with the reality that Haitian gangs currently operate with significant autonomy and violence.",
+     "related": [],
+     "story": {
+      "id": "world-el-salvador-military-hostages-in-haiti",
+      "title": "El Salvador Military Hostages in Haiti",
+      "so_far": "El Salvador's president, Nayib Bukele, is known for his hardline security policies. This incident marks an unusual international deployment of Salvadoran military resources to Haiti, a nation currently struggling with severe gang-related instability and a lack of functional state control.",
+      "timeline": [
+       {
+        "date": "2026-10-22",
+        "text": "President Nayib Bukele has launched a military rescue operation following the abduction of four Salvadoran soldiers in Haiti by local gangs.",
+        "link": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "President Bukele has publicly announced the mobilization of military assets to Haiti to retrieve the soldiers missing since Sunday.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/el-salvadors-bukele-threatens-haitian-gangs-over-abducted-soldiers?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
        }
       ]
@@ -1504,116 +1536,139 @@
         "text": "Putin has formally agreed to a three-way negotiation process involving the U.S. and Ukraine.",
         "link": "https://www.thehindu.com/news/international/putin-xi-trump-summit-being-prepared-kremlin/article71608186.ece",
         "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-10-22",
+        "text": "Both nations exchanged drone and missile strikes, injuring civilians in both Kyiv and Moscow, even as they speak about returning to peace talks.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-and-ukraine-trade-attacks-despite-pledging-to-resume-peace-talks?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
        }
       ]
      }
     },
     {
-     "id": "688b8ee92b07",
-     "title": "Nigeria confirms its first Ebola case is Bundibugyo strain",
-     "link": "https://www.thehindu.com/news/international/nigeria-confirms-its-first-ebola-case-is-bundibugyo-strain/article71607018.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-10-21T09:59:43+00:00",
-     "summary": "Nigerian health authorities have confirmed the country's first case of the Bundibugyo strain of Ebola.",
-     "explain": "The Ebola virus causes severe internal and external bleeding. Bundibugyo is one of several known species of the virus. Identifying the specific strain is important for medical experts to determine the correct treatment and containment protocols.",
+     "id": "c9e3f9f4e168",
+     "title": "US ambassador to Turkiye: Rethinking US role in the Middle East",
+     "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/22/us-ambassador-to-turkiye-rethinking-us-role-in-the-middle-east?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-10-22T10:51:11+00:00",
+     "summary": "The U.S. Ambassador to Turkiye, Tom Barrack, stated that the U.S. needs to shift its role in the Middle East from a focus on control to a supportive stance.",
+     "explain": "For decades, the U.S. has maintained a heavy military and diplomatic presence in the Middle East to secure oil interests and manage conflicts. This policy shift suggests the U.S. is looking to move away from direct interventionism toward a partnership model, acknowledging that previous strategies of regional control have become less effective or sustainable.",
      "related": [],
      "story": {
-      "id": "world-ebola-outbreak-in-africa",
-      "title": "Ebola Outbreak in Africa",
-      "so_far": "Kenya is experiencing an outbreak of Ebola, prompting a balance between government attempts to reassure the public and international alarm. The disease's high mortality rate often leads to travel restrictions and significant economic strain in affected regions.",
+      "id": "world-u-s-middle-east-policy-shift",
+      "title": "U.S. Middle East Policy Shift",
+      "so_far": "For decades, U.S. foreign policy in the Middle East was largely defined by securing steady oil supplies and managing regional conflicts through arms sales and interventionism.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "Envoy Tom Barrack officially identified the move away from traditional oil-for-security paradigms, acknowledging that past regime change efforts were often counterproductive.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/us-leaving-oil-for-security-approach-not-middle-east-envoy-tom-barrack?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "The U.S. ambassador has explicitly called for an end to a control-based approach to regional foreign policy.",
+        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/22/us-ambassador-to-turkiye-rethinking-us-role-in-the-middle-east?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b8ad6300f0be",
+     "title": "Is Neha Bora, India’s new red star, Modi’s real Gen Z threat?",
+     "link": "https://www.aljazeera.com/features/2026/10/22/is-neha-bora-indias-new-red-star-modis-real-gen-z-threat?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-10-22T10:45:01+00:00",
+     "summary": "Student leader Neha Bora is emerging as a prominent figure in youth-led protests against the Hindu majoritarian policies of Prime Minister Modi's government in India.",
+     "explain": "Neha Bora is gaining attention as a 'Gen Z' voice representing frustration with Prime Minister Modi's policies. Hindu majoritarianism refers to a political stance that prioritizes the interests and cultural values of India’s Hindu majority, a approach which critics argue undermines India's secular constitution.",
+     "related": [],
+     "story": {
+      "id": "world-indian-youth-protests-against-government",
+      "title": "Indian Youth Protests Against Government",
+      "so_far": "India, the world's largest democracy, has seen increased polarization under the BJP government. Economic challenges and concerns over religious nationalism have fueled various protest movements among younger generations who feel marginalized by the current administration's focus.",
+      "timeline": [
+       {
+        "date": "2026-10-22",
+        "text": "Student leader Neha Bora is emerging as a prominent figure in youth-led protests against the Hindu majoritarian policies of Prime Minister Modi's government in India.",
+        "link": "https://www.aljazeera.com/features/2026/10/22/is-neha-bora-indias-new-red-star-modis-real-gen-z-threat?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "41c7a78422fa",
+     "title": "Two European women held captive for more than a year in Niger freed in Libya",
+     "link": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-10-22T10:26:06+00:00",
+     "summary": "Two aid workers from Austria and Switzerland, held captive for over a year in Niger, have been released in Libya.",
+     "explain": "The kidnapping of international personnel is a major risk for aid organizations operating in unstable regions. Their release, facilitated in Libya, suggests significant behind-the-scenes negotiations took place to secure their freedom after being held for over a year.",
+     "related": [],
+     "story": {
+      "id": "world-release-of-kidnapped-aid-workers",
+      "title": "Release of Kidnapped Aid Workers",
+      "so_far": "The Sahel region of Africa has been plagued by militant insurgencies, often leading to the kidnapping of foreign nationals, aid workers, and journalists. Kidnappings are frequently used for leverage or ransom, and their resolution often involves complex regional mediation involving neighboring countries like Libya.",
+      "timeline": [
+       {
+        "date": "2026-10-22",
+        "text": "Two aid workers from Austria and Switzerland, held captive for over a year in Niger, have been released in Libya.",
+        "link": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "fbd9190bf97c",
+     "title": "French city of Lyon bans ‘all protests’ on October 24",
+     "link": "https://www.thehindu.com/news/international/french-city-of-lyon-bans-all-protests-on-october-24/article71611024.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-10-22T10:17:30+00:00",
+     "summary": "The mayor of Lyon has banned all protests for October 24 following recent riots and looting.",
+     "explain": "France frequently faces civil unrest, often rooted in economic frustrations or police reform debates. A protest ban is an emergency measure used by local authorities to restore order, though it often sparks further debate about the right to assembly versus the need for public safety.",
+     "related": [],
+     "story": {
+      "id": "world-france-civil-unrest-debate",
+      "title": "France Civil Unrest Debate",
+      "so_far": "France frequently grapples with social tension related to economic inequality, policing methods, and integration. Previous periods of unrest have often triggered national introspection regarding the country's social contract, leading to calls for policy reforms or stricter law enforcement.",
       "timeline": [
        {
         "date": "2026-10-21",
-        "text": "Nigeria has identified the specific strain of Ebola affecting its population, following confirmation of the country's first case.",
-        "link": "https://www.thehindu.com/news/international/nigeria-confirms-its-first-ebola-case-is-bundibugyo-strain/article71607018.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-10-21",
-        "text": "The U.S. has issued travel warnings for Kenya amid concerns over the government's ability to contain a nine-case outbreak.",
-        "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+        "text": "Disagreements persist regarding the causes and lessons of the recent riots.",
+        "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
        },
        {
-        "date": "2026-10-21",
-        "text": "The Ebola virus has spread from the DR Congo to West Africa, with Nigeria confirming its first case of the Bundibugyo strain.",
-        "link": "https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
-    },
-    {
-     "id": "8e4c838eed99",
-     "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
-     "link": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-22T01:45:48+00:00",
-     "summary": "France and Qatar have issued a joint call for the restoration of navigation freedom in the Strait of Hormuz and for the implementation of a ceasefire in Gaza.",
-     "explain": "The Strait of Hormuz is a narrow waterway between the Persian Gulf and the Gulf of Oman. Because a significant portion of global oil passes through it, any disruption there can cause global economic spikes. France and Qatar are using their diplomatic channels to urge restraint in these conflict zones.",
-     "related": [],
-     "story": {
-      "id": "world-u-s-iran-diplomatic-standoff",
-      "title": "U.S.-Iran Diplomatic Standoff",
-      "so_far": "The Strait of Hormuz is a vital oil transit point that is frequently subject to tensions between Iran and Western-aligned nations. Ongoing instability in Gaza has prompted various international diplomatic efforts to seek a peaceful resolution to both the regional humanitarian crisis and the maritime security threats.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "Senator Marco Rubio stated that ongoing attacks in the Strait of Hormuz make formal peace talks extremely difficult.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
         "date": "2026-10-22",
-        "text": "International leaders are pushing to stabilize the Strait of Hormuz and pressure for a Gaza ceasefire.",
-        "link": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
-    },
-    {
-     "id": "09a2571fe0ee",
-     "title": "Trump again targets offshore wind, risking deal to speed approvals of new energy projects",
-     "link": "https://www.thehindu.com/news/international/trump-seeks-to-revisit-offshore-wind-permits/article71609863.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-10-22T01:42:25+00:00",
-     "summary": "President Trump's opposition to offshore wind projects is threatening a bipartisan legislative deal aimed at speeding up infrastructure permitting.",
-     "explain": "Permitting is the regulatory process of approving new construction, such as power plants or pipelines. The current legislative effort aims to simplify this process. By targeting wind energy, the administration is complicating these broader negotiations, which could lead to delays in various types of energy projects.",
-     "related": [],
-     "story": {
-      "id": "world-offshore-wind-policy-conflict",
-      "title": "Offshore Wind Policy Conflict",
-      "so_far": "Permitting reform is a bipartisan goal in the U.S. to allow energy infrastructure projects to be built faster. Offshore wind has become a focal point of recent environmental and energy policy debates, balancing the need for green energy against local or political concerns.",
-      "timeline": [
-       {
-        "date": "2026-10-22",
-        "text": "New executive opposition to offshore wind energy is stalling a legislative effort to expedite permitting for energy infrastructure.",
-        "link": "https://www.thehindu.com/news/international/trump-seeks-to-revisit-offshore-wind-permits/article71609863.ece",
+        "text": "The city of Lyon has imposed a temporary protest ban after significant looting and property damage occurred during recent unrest.",
+        "link": "https://www.thehindu.com/news/international/french-city-of-lyon-bans-all-protests-on-october-24/article71611024.ece",
         "source": "World News: Latest International News & "
        }
       ]
      }
     },
     {
-     "id": "0d227ec841a6",
-     "title": "Colombian president purges National Museum of works promoting ‘communism’",
-     "link": "https://www.aljazeera.com/news/2026/10/22/colombian-president-purges-national-museum-of-works-promoting-communism?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-22T01:09:40+00:00",
-     "summary": "Colombian President Abelardo de la Espriella has announced the removal of artworks from the National Museum that he claims promote communism, marking the start of a cultural 'counterrevolution'.",
-     "explain": "A 'counterrevolution' in a cultural sense refers to an effort by the current government to strip institutions of symbols or ideas they associate with a rival political ideology. In this case, the government is removing art it identifies as 'communist' to change the historical and ideological tone of state museums.",
+     "id": "881dc3940649",
+     "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+     "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-10-22T10:16:35+00:00",
+     "summary": "A shark in South Korea known as 'Bukangi' has refused to leave a canal after being guided by authorities toward the sea.",
+     "explain": "Bukangi is a shark that became a local media sensation after entering a canal in Busan. It has become a symbol of the unusual intersection of human urban spaces and marine life, as authorities struggle to return it to its natural habitat without causing it harm.",
      "related": [],
      "story": {
-      "id": "world-colombian-cultural-policy-shift",
-      "title": "Colombian Cultural Policy Shift",
-      "so_far": "Colombia's political landscape has seen a shift toward far-right leadership under President de la Espriella. This administration has signaled an intention to reshape the nation's cultural narrative, moving away from past leftist political influences.",
+      "id": "world-south-korea-canal-shark",
+      "title": "South Korea Canal Shark",
+      "so_far": "Unexpected wildlife sightings in urban areas often draw significant public interest. When animals become habituated to a location, local wildlife authorities must balance animal welfare with public safety and navigation concerns.",
       "timeline": [
        {
         "date": "2026-10-22",
-        "text": "The Colombian government has initiated the removal of art deemed communist from the National Museum.",
-        "link": "https://www.aljazeera.com/news/2026/10/22/colombian-president-purges-national-museum-of-works-promoting-communism?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
+        "text": "A shark in South Korea known as 'Bukangi' has refused to leave a canal after being guided by authorities toward the sea.",
+        "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
        }
       ]
      }
@@ -1624,304 +1679,238 @@
    "label": "Business & Finance",
    "articles": [
     {
-     "id": "3fb70236b0a1",
-     "title": "FSSAI issues notices to Zydus Wellness, Nestle India",
-     "link": "https://www.thehindubusinessline.com/companies/fssai-issues-notices-to-zydus-wellness-nestle-india/article71608447.ece",
+     "id": "ed9187cd7d8f",
+     "title": "Indian national killed in Saudi airport attack, 2 others injured",
+     "link": "https://www.thehindubusinessline.com/news/indian-injured-in-drone-attack-targeting-shaybah-oilfield-in-saudi-arabia/article71610540.ece",
      "source": "Business News Today: Latest Business New",
-     "published": "2026-10-21T17:07:38+00:00",
-     "summary": "The FSSAI has issued notices to Nestle India and Zydus Wellness regarding allegedly misleading marketing claims on infant formula products.",
-     "explain": "The Food Safety and Standards Authority of India (FSSAI) is the watchdog responsible for ensuring food products meet nutritional and safety standards. When they flag 'misleading claims,' it means they believe the marketing might trick consumers about the health benefits of a product, particularly sensitive items like infant formula.",
+     "published": "2026-10-22T08:29:07+00:00",
+     "summary": "An Indian national was killed and two others were injured in an attack at a Saudi airport. The Indian Embassy is coordinating with local authorities to investigate the incident.",
+     "explain": "This refers to a violent incident involving Indian citizens abroad. Such events require coordination between the victim's home country and the host nation's government for legal processing and consular assistance.",
      "related": [],
      "story": {
-      "id": "business-fssai-labeling-mandates",
-      "title": "FSSAI Labeling Mandates",
-      "so_far": "The Food Safety and Standards Authority of India (FSSAI) is the primary regulatory body for food and supplements. They frequently update guidelines to ensure consumer safety regarding health claims and ingredients.",
+      "id": "business-indian-national-killed-at-saudi-airport",
+      "title": "Indian National Killed at Saudi Airport",
+      "so_far": "Details are currently limited regarding the nature of the attack and the identities of those involved. The Indian Embassy in Riyadh has confirmed the event and is actively monitoring the situation through Saudi authorities.",
       "timeline": [
        {
-        "date": "2026-10-20",
-        "text": "India's food regulator, FSSAI, has issued a directive requiring nutraceutical manufacturers to include warning statements on products containing herbs, under threat of license suspension.",
-        "link": "https://www.thehindubusinessline.com/companies/fssai-directs-nutraceutical-makers-to-ensure-mandatory-warning-statements-on-products-with-herbal-extracts/article71604130.ece",
+        "date": "2026-10-22",
+        "text": "An Indian citizen was killed and two others injured in an attack at an airport in Saudi Arabia.",
+        "link": "https://www.thehindubusinessline.com/news/indian-injured-in-drone-attack-targeting-shaybah-oilfield-in-saudi-arabia/article71610540.ece",
         "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-21",
-        "text": "The regulator has formally questioned the promotional claims of infant nutrition products Lactogen Pro 1 and Nan Excella Pro.",
-        "link": "https://www.thehindubusinessline.com/companies/fssai-issues-notices-to-zydus-wellness-nestle-india/article71608447.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-21",
-        "text": "The FSSAI notice specifically targets the Lactogen product range for compliance issues.",
-        "link": "https://economictimes.indiatimes.com/industry/cons-products/food/fssai-issues-notice-to-nestle-india-over-lactogen-pro-1-digestion-claim/articleshow/135094109.cms",
-        "source": "Economic Times"
        }
       ]
      }
     },
     {
-     "id": "446c364c8676",
-     "title": "Mukesh Ambani hosts Marco Rubio at Reliance’s Jamnagar refinery",
-     "link": "https://www.thehindubusinessline.com/companies/mukesh-ambani-hosts-marco-rubio-at-reliances-jamnagar-refinery/article71609159.ece",
+     "id": "7015df93181d",
+     "title": "David's Bridal plans to spin off AI platform Pearl into publicly traded company",
+     "link": "https://www.cnbc.com/2026/10/22/davids-bridal-pearl-ai-spinoff.html",
+     "source": "Business News",
+     "published": "2026-10-22T11:00:02+00:00",
+     "summary": "David's Bridal plans to spin off its proprietary AI platform, Pearl, into an independent, publicly traded company.",
+     "explain": "A 'spin-off' happens when a parent company separates a division into a new, independent firm. This is often done when the parent company believes the unit will be more valuable or successful if it operates on its own, especially if the technology has applications outside the parent company's core business.",
+     "related": [],
+     "story": {
+      "id": "business-david-s-bridal-spinoff-of-pearl-ai",
+      "title": "David's Bridal Spinoff of Pearl AI",
+      "so_far": "Pearl is an artificial intelligence platform developed by the bridal retailer to optimize its operations. By spinning it off, David's Bridal aims to unlock value by allowing the technology to operate as a standalone business in the broader tech market.",
+      "timeline": [
+       {
+        "date": "2026-10-22",
+        "text": "David's Bridal is preparing to transition its internal AI technology, Pearl, into a separate public entity.",
+        "link": "https://www.cnbc.com/2026/10/22/davids-bridal-pearl-ai-spinoff.html",
+        "source": "Business News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "9827105998e9",
+     "title": "BL Agro forays into Tanzania, plans to invest ₹7,000 cr in 10 years",
+     "link": "https://www.thehindubusinessline.com/economy/agri-business/bl-agro-forays-into-tanzania-plans-to-invest-7000-cr-in-10-years/article71610819.ece",
      "source": "Business News Today: Latest Business New",
-     "published": "2026-10-21T23:57:13+00:00",
-     "summary": "Mukesh Ambani met with US official Marco Rubio at Reliance's Jamnagar refinery to discuss energy security, digital infrastructure, and trade collaboration.",
-     "explain": "This meeting highlights the ongoing effort to strengthen economic ties between the US and India. By touring the Jamnagar refinery—one of the world's largest oil processing hubs—both parties aimed to deepen cooperation on energy security, which is a critical pillar of the modern US-India strategic partnership.",
+     "published": "2026-10-22T10:57:14+00:00",
+     "summary": "Food processing firm BL Agro announced a plan to invest ₹7,000 crore in Tanzania over the next decade. The initiative focuses on agricultural development for domestic consumption and export.",
+     "explain": "This is a form of foreign direct investment (FDI), where a company from one country puts money into long-term infrastructure or business operations in another country. It is a strategy to diversify supply sources and reach new global markets.",
      "related": [],
      "story": {
-      "id": "business-india-us-diplomatic-relations",
-      "title": "India-US Diplomatic Relations",
-      "so_far": "The relationship between India and the United States has faced recent challenges and disagreements, marking a period of diplomatic friction. This visit represents a significant effort to stabilize or reset ties through direct communication between top officials.",
+      "id": "business-bl-agro-investment-in-tanzania",
+      "title": "BL Agro Investment in Tanzania",
+      "so_far": "The project is part of BL Agro’s international expansion strategy. By investing in Tanzania, the company seeks to secure its supply chain for sunflower and vegetables while targeting markets in Europe.",
       "timeline": [
        {
-        "date": "2026-10-20",
-        "text": "Secretary of State Rubio is visiting India for high-level talks with EAM Jaishankar amid ongoing diplomatic friction.",
-        "link": "https://www.thehindubusinessline.com/news/eam-jaishankar-us-secretary-of-state-rubio-to-hold-crucial-talks-in-mumbai/article71603240.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Marco Rubio has returned to India for high-level meetings focused on finalizing a trade deal.",
-        "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/marco-rubio-lands-in-mumbai-as-new-delhi-washington-push-to-close-trade-deal/articleshow/135066599.cms",
-        "source": "Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Rubio's itinerary includes talks on Russian oil imports alongside trade deal negotiations.",
-        "link": "https://www.thehindubusinessline.com/news/rubio-kicks-off-india-visit-with-trade-deal-russian-oil-on-agenda/article71603927.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-21",
-        "text": "High-level bilateral discussions occurred at the Jamnagar refinery, focusing on potential commercial partnerships in energy and technology.",
-        "link": "https://www.thehindubusinessline.com/companies/mukesh-ambani-hosts-marco-rubio-at-reliances-jamnagar-refinery/article71609159.ece",
+        "date": "2026-10-22",
+        "text": "BL Agro has committed to a large-scale agricultural investment project in Tanzania to grow crops for local use and international export.",
+        "link": "https://www.thehindubusinessline.com/economy/agri-business/bl-agro-forays-into-tanzania-plans-to-invest-7000-cr-in-10-years/article71610819.ece",
         "source": "Business News Today: Latest Business New"
        }
       ]
      }
     },
     {
-     "id": "b61fbc4ad3e6",
-     "title": "eBay to cut 9% of workforce, eliminating around 1,000 jobs",
-     "link": "https://www.thehindubusinessline.com/news/world/ebay-to-cut-9-of-workforce-eliminating-around-1000-jobs/article71609399.ece",
+     "id": "92031c85d3e7",
+     "title": "Speedy project approvals, assured buyers key to India's 100 MT coal gasification target by 2030: Report",
+     "link": "https://www.thehindubusinessline.com/economy/speedy-project-approvals-assured-buyers-key-to-indias-100-mt-coal-gasification-target-by-2030-report/article71611071.ece",
      "source": "Business News Today: Latest Business New",
-     "published": "2026-10-21T23:42:36+00:00",
-     "summary": "eBay is laying off approximately 1,000 employees, representing 9% of its workforce, to restructure the company toward high-growth niches.",
-     "explain": "A workforce reduction is a common corporate strategy to cut costs and streamline operations when a company decides to change its direction. By refocusing on 'high-growth' areas, eBay hopes to improve efficiency and profit margins in a market dominated by competitors like Amazon and specialized marketplaces.",
+     "published": "2026-10-22T10:54:44+00:00",
+     "summary": "A government report highlights that achieving India's 100 million tonnes coal gasification target by 2030 requires faster project approvals and assured buyers. The sector projects an investment of ₹2.5-3 lakh crore.",
+     "explain": "Coal gasification is a chemical process that transforms solid coal into gas. It is seen as a 'cleaner' alternative to burning coal directly, though it is capital-intensive and requires significant infrastructure investment.",
      "related": [],
      "story": {
-      "id": "business-ebay-workforce-restructuring",
-      "title": "eBay Workforce Restructuring",
-      "so_far": "In recent years, traditional e-commerce platforms have faced increased competition and shifting consumer habits. eBay, a long-standing online marketplace, is pivoting its strategy away from general retail to focus on specific high-margin categories like authenticated luxury goods and collectibles to remain competitive.",
+      "id": "business-coal-gasification-expansion-targets",
+      "title": "Coal Gasification Expansion Targets",
+      "so_far": "Coal gasification is a process that converts coal into syngas, which can be used to produce chemicals and fuels. India is pursuing this as part of an effort to improve energy self-reliance, or 'Atmanirbhar Bharat'.",
       "timeline": [
        {
-        "date": "2026-10-21",
-        "text": "eBay announced a 9% reduction in its total headcount as part of a strategic shift focusing on luxury goods and refurbished items.",
-        "link": "https://www.thehindubusinessline.com/news/world/ebay-to-cut-9-of-workforce-eliminating-around-1000-jobs/article71609399.ece",
+        "date": "2026-10-22",
+        "text": "New analysis details the capital requirements and policy changes needed to hit India’s 2030 coal gasification goals.",
+        "link": "https://www.thehindubusinessline.com/economy/speedy-project-approvals-assured-buyers-key-to-indias-100-mt-coal-gasification-target-by-2030-report/article71611071.ece",
         "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-21",
-        "text": "Multiple reports confirm the 9% headcount reduction at the online marketplace.",
-        "link": "https://economictimes.indiatimes.com/news/international/business/ebay-to-lay-off-9-of-workforce-in-push-to-simplify-operations/articleshow/135095535.cms",
-        "source": "Economic Times"
        }
       ]
      }
     },
     {
-     "id": "eb114d080d75",
-     "title": "EBay to lay off 9% of workforce",
-     "link": "https://economictimes.indiatimes.com/news/international/business/ebay-to-lay-off-9-of-workforce-in-push-to-simplify-operations/articleshow/135095535.cms",
-     "source": "Economic Times",
-     "published": "2026-10-21T15:17:22+00:00",
-     "summary": "eBay is laying off 9% of its workforce.",
-     "explain": "This article provides redundant confirmation of the layoffs previously noted. Companies often announce such major structural changes across multiple platforms to ensure stakeholders and employees are informed.",
+     "id": "c33fbe80f528",
+     "title": "GST Reforms: Easier registration for small e-commerce sellers, faster refunds to take effect Nov 1",
+     "link": "https://www.thehindubusinessline.com/economy/gst-reforms-easier-registration-for-small-e-commerce-sellers-faster-refunds-to-take-effect-nov-1/article71611067.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-22T10:54:36+00:00",
+     "summary": "New GST reforms designed to simplify registration for small e-commerce sellers and expedite tax refunds are expected to launch on November 1.",
+     "explain": "GST is an indirect tax used in India on the supply of goods and services. Simplifying the process refers to reducing the 'red tape'—the paperwork and wait times—that small businesses must navigate to comply with tax laws.",
      "related": [],
      "story": {
-      "id": "business-ebay-workforce-restructuring",
-      "title": "eBay Workforce Restructuring",
-      "so_far": "In recent years, traditional e-commerce platforms have faced increased competition and shifting consumer habits. eBay, a long-standing online marketplace, is pivoting its strategy away from general retail to focus on specific high-margin categories like authenticated luxury goods and collectibles to remain competitive.",
+      "id": "business-gst-reforms-for-e-commerce",
+      "title": "GST Reforms for E-commerce",
+      "so_far": "Small e-commerce sellers often face complex compliance hurdles regarding GST (Goods and Services Tax). These reforms aim to reduce the administrative burden on these businesses to encourage broader participation in the digital economy.",
       "timeline": [
        {
-        "date": "2026-10-21",
-        "text": "eBay announced a 9% reduction in its total headcount as part of a strategic shift focusing on luxury goods and refurbished items.",
-        "link": "https://www.thehindubusinessline.com/news/world/ebay-to-cut-9-of-workforce-eliminating-around-1000-jobs/article71609399.ece",
+        "date": "2026-10-22",
+        "text": "Government notifications are set to streamline tax processes for small online sellers starting in November.",
+        "link": "https://www.thehindubusinessline.com/economy/gst-reforms-easier-registration-for-small-e-commerce-sellers-faster-refunds-to-take-effect-nov-1/article71611067.ece",
         "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-21",
-        "text": "Multiple reports confirm the 9% headcount reduction at the online marketplace.",
-        "link": "https://economictimes.indiatimes.com/news/international/business/ebay-to-lay-off-9-of-workforce-in-push-to-simplify-operations/articleshow/135095535.cms",
-        "source": "Economic Times"
        }
       ]
      }
     },
     {
-     "id": "8a67c5f1dfb9",
-     "title": "FSSAI issues notice to Nestle India over Lactogen",
-     "link": "https://economictimes.indiatimes.com/industry/cons-products/food/fssai-issues-notice-to-nestle-india-over-lactogen-pro-1-digestion-claim/articleshow/135094109.cms",
-     "source": "Economic Times",
-     "published": "2026-10-21T14:01:59+00:00",
-     "summary": "Nestle India received an FSSAI notice regarding its Lactogen product line.",
-     "explain": "This is a follow-up confirmation of the regulatory notice mentioned in article 0, reinforcing that Nestle's infant formula is under official scrutiny for its promotional practices.",
+     "id": "ac3b22dd78b7",
+     "title": "Transmission delays cost Adani Green potential ₹724 cr in H1 FY27 EBITDA; Khavda curtailment bites",
+     "link": "https://www.thehindubusinessline.com/companies/transmission-delays-cost-adani-green-potential-724-cr-in-h1-fy27-ebitda-khavda-curtailment-bites/article71611064.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-22T10:52:05+00:00",
+     "summary": "Adani Green reported a loss of ₹724 crore in H1 FY27 EBITDA due to transmission delays and curtailment at its Khavda project. The company expects improvements in the second half of the year.",
+     "explain": "EBITDA is a measure of a company's operating performance. 'Curtailment' in renewable energy refers to the loss of potential power generation because the grid is not equipped to handle the surge, leading to revenue loss for the producer.",
      "related": [],
      "story": {
-      "id": "business-fssai-labeling-mandates",
-      "title": "FSSAI Labeling Mandates",
-      "so_far": "The Food Safety and Standards Authority of India (FSSAI) is the primary regulatory body for food and supplements. They frequently update guidelines to ensure consumer safety regarding health claims and ingredients.",
+      "id": "business-adani-green-financial-performance",
+      "title": "Adani Green Financial Performance",
+      "so_far": "Adani Green is a major renewable energy provider. Curtailment occurs when electricity producers are forced to limit their output because the power grid cannot transport or absorb all the energy being generated at that moment.",
       "timeline": [
        {
-        "date": "2026-10-20",
-        "text": "India's food regulator, FSSAI, has issued a directive requiring nutraceutical manufacturers to include warning statements on products containing herbs, under threat of license suspension.",
-        "link": "https://www.thehindubusinessline.com/companies/fssai-directs-nutraceutical-makers-to-ensure-mandatory-warning-statements-on-products-with-herbal-extracts/article71604130.ece",
+        "date": "2026-10-22",
+        "text": "Operational setbacks in transmission have negatively impacted Adani Green's earnings for the first half of the fiscal year.",
+        "link": "https://www.thehindubusinessline.com/companies/transmission-delays-cost-adani-green-potential-724-cr-in-h1-fy27-ebitda-khavda-curtailment-bites/article71611064.ece",
         "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-21",
-        "text": "The regulator has formally questioned the promotional claims of infant nutrition products Lactogen Pro 1 and Nan Excella Pro.",
-        "link": "https://www.thehindubusinessline.com/companies/fssai-issues-notices-to-zydus-wellness-nestle-india/article71608447.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-21",
-        "text": "The FSSAI notice specifically targets the Lactogen product range for compliance issues.",
-        "link": "https://economictimes.indiatimes.com/industry/cons-products/food/fssai-issues-notice-to-nestle-india-over-lactogen-pro-1-digestion-claim/articleshow/135094109.cms",
-        "source": "Economic Times"
        }
       ]
      }
     },
     {
-     "id": "77c2f3cb55e2",
-     "title": "Boeing 737 Max 10 wins FAA approval after years of delays, challenging Airbus A321neo",
-     "link": "https://www.livemint.com/companies/news/boeing-737-max-10-wins-faa-approval-after-years-of-delays-challenging-airbus-a321neo-11792552165521.html",
-     "source": "mint - companies",
-     "published": "2026-10-21T03:16:44+00:00",
-     "summary": "The US Federal Aviation Administration (FAA) has granted safety certification to the Boeing 737 Max 10, the largest model in the manufacturer's narrowbody series. This approval concludes a long-delayed review process necessitated by previous fatal accidents and quality control issues.",
-     "explain": "The FAA is the US government agency responsible for the safety of civil aviation. Certification is the final regulatory hurdle that confirms an aircraft meets all safety standards before it can be delivered to airlines. This is a major milestone for Boeing as it tries to recover from financial and reputational damage following its earlier safety crises.",
+     "id": "d99d2c5635a8",
+     "title": "Sensex today | Stock Market Highlights: Sensex sheds 460 pts, Nifty falls 123 pts for 3rd straight session",
+     "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-22nd-october-2026/article71608127.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-22T10:47:08+00:00",
+     "summary": "Indian stock markets extended losses for a third consecutive session, with the Sensex falling 460 points and Nifty dropping 124 points.",
+     "explain": "A stock index tracks the performance of a group of stocks to represent the market. A multi-day fall generally indicates that investors are selling more than they are buying, often due to uncertainty or disappointing financial results.",
      "related": [
       {
-       "date": "2026-10-20",
-       "title": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster",
-       "link": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
-       "source": "Business News"
+       "date": "2026-10-21",
+       "title": "Sensex today | Stock Market Live: Stock to buy today: South Indian Bank (54.31) – BUY",
+       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-21st-october-2026/article71604730.ece",
+       "source": "Business News Today: Latest Business New"
       }
      ],
      "story": {
-      "id": "business-boeing-737-max-10-certification",
-      "title": "Boeing 737 Max 10 Certification",
-      "so_far": "The Boeing 737 Max program faced global grounding after two fatal crashes in 2018 and 2019 linked to flight-control software. Since then, the aircraft family has been under intense regulatory scrutiny. The Max 10 model, designed to compete with the Airbus A321neo, has faced multiple setbacks in its path to certification due to design and safety reviews.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "Industry leadership has commented that the certification process for such aircraft should be accelerated in the future.",
-        "link": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
-        "source": "Business News"
-       },
-       {
-        "date": "2026-10-21",
-        "text": "The Boeing 737 Max 10 has received formal FAA approval after years of delays.",
-        "link": "https://www.livemint.com/companies/news/boeing-737-max-10-wins-faa-approval-after-years-of-delays-challenging-airbus-a321neo-11792552165521.html",
-        "source": "mint - companies"
-       }
-      ]
-     }
-    },
-    {
-     "id": "9f033253943c",
-     "title": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster",
-     "link": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
-     "source": "Business News",
-     "published": "2026-10-20T22:01:11+00:00",
-     "summary": "The US Federal Aviation Administration (FAA) has granted safety certification to the Boeing 737 Max 10, the largest model in the manufacturer's narrowbody series. This approval concludes a long-delayed review process necessitated by previous fatal accidents and quality control issues.",
-     "explain": "This follow-up article notes that despite the approval, there is ongoing industry debate regarding the efficiency and speed of the FAA’s current rigorous certification processes. 'Narrowbody' refers to single-aisle aircraft typically used for short- to medium-haul commercial flights.",
-     "related": [],
-     "story": {
-      "id": "business-boeing-737-max-10-certification",
-      "title": "Boeing 737 Max 10 Certification",
-      "so_far": "The Boeing 737 Max program faced global grounding after two fatal crashes in 2018 and 2019 linked to flight-control software. Since then, the aircraft family has been under intense regulatory scrutiny. The Max 10 model, designed to compete with the Airbus A321neo, has faced multiple setbacks in its path to certification due to design and safety reviews.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "Industry leadership has commented that the certification process for such aircraft should be accelerated in the future.",
-        "link": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
-        "source": "Business News"
-       },
-       {
-        "date": "2026-10-21",
-        "text": "The Boeing 737 Max 10 has received formal FAA approval after years of delays.",
-        "link": "https://www.livemint.com/companies/news/boeing-737-max-10-wins-faa-approval-after-years-of-delays-challenging-airbus-a321neo-11792552165521.html",
-        "source": "mint - companies"
-       }
-      ]
-     }
-    },
-    {
-     "id": "bbdc7c15c626",
-     "title": "Meta’s share deal with Zuckerberg aims to cover potential multibillion-dollar wealth tax bill: How it works",
-     "link": "https://www.livemint.com/companies/news/metas-share-deal-with-zuckerberg-aims-to-cover-potential-multibillion-dollar-wealth-tax-bill-how-it-works-11792631806060.html",
-     "source": "mint - companies",
-     "published": "2026-10-22T02:00:23+00:00",
-     "summary": "Meta CEO Mark Zuckerberg is restructuring his share holdings to prepare for a potential California billionaire wealth tax while maintaining control.",
-     "explain": "Billionaires often hold most of their wealth in stock rather than cash. When a state considers a 'wealth tax' on the value of their holdings, executives may shift shares or create new stock classes to pay taxes without losing their voting control over the company. This move ensures Zuckerberg can keep leading Meta while navigating new state tax laws.",
-     "related": [],
-     "story": {
-      "id": "business-meta-corporate-governance",
-      "title": "Meta Corporate Governance",
-      "so_far": "Meta (formerly Facebook) is the parent company of social media giants like Instagram and WhatsApp. As its CEO, Mark Zuckerberg maintains significant control through specialized voting shares. He is a frequent subject of discussions regarding tech executive compensation and the broader debate over taxing ultra-high-net-worth individuals.",
+      "id": "business-indian-stock-market-downturn",
+      "title": "Indian Stock Market Downturn",
+      "so_far": "The Sensex and Nifty are the primary benchmark indices for the Indian stock market. Recent market volatility has been driven by a combination of global macroeconomic factors and domestic earnings reports.",
       "timeline": [
        {
         "date": "2026-10-22",
-        "text": "Mark Zuckerberg is using a nonvoting share deal to manage liquidity and prepare for prospective tax changes in California.",
-        "link": "https://www.livemint.com/companies/news/metas-share-deal-with-zuckerberg-aims-to-cover-potential-multibillion-dollar-wealth-tax-bill-how-it-works-11792631806060.html",
-        "source": "mint - companies"
+        "text": "The Sensex and Nifty indices have seen a three-day losing streak as market sentiment remains weak.",
+        "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-22nd-october-2026/article71608127.ece",
+        "source": "Business News Today: Latest Business New"
        }
       ]
      }
     },
     {
-     "id": "6cb15e7e3a30",
-     "title": "Anthropic opens ₹3.26 crore job for human writers; experts say it's a ‘premium on judgment’",
-     "link": "https://www.livemint.com/companies/news/anthropic-opens-3-26-crore-job-for-human-writers-experts-say-its-a-premium-on-judgment-11792631120428.html",
-     "source": "mint - companies",
-     "published": "2026-10-22T01:41:25+00:00",
-     "summary": "Anthropic, an AI company, is hiring human writers at a high salary to assist with complex technical content and executive judgment.",
-     "explain": "The hiring of human writers at a high salary shows that even in the age of AI, human nuance, critical thinking, and 'judgment' are still in high demand. Tech companies use this human input to train models and ensure content is high-quality, professional, and free of the common errors generated by AI.",
+     "id": "7d057d528725",
+     "title": "eMudhra board to consider structural changes on Thursday after weak-key incident: Co-Founder Kaushik Srinivasan",
+     "link": "https://www.thehindubusinessline.com/info-tech/emudhra-board-to-consider-structural-changes-on-thursday-after-weak-key-incident-co-founder-kaushik-srinivasan/article71610810.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-22T10:47:03+00:00",
+     "summary": "eMudhra's board is considering structural changes after a security incident involving weak cryptographic keys. The firm characterized it as an isolated issue.",
+     "explain": "In cybersecurity, keys are mathematical codes used to encrypt and decrypt information. If a key is 'weak,' the security system is compromised. The 'maker-checker' mentioned is a control process where one person prepares a task and another verifies it to prevent errors.",
      "related": [],
      "story": {
-      "id": "business-ai-sector-talent-trends",
-      "title": "AI Sector Talent Trends",
-      "so_far": "Anthropic is a major player in the Generative AI space, known for its focus on safety and constitutional AI. As the industry matures, companies are moving beyond basic model development and looking for human expertise to refine AI-generated outputs for professional and executive use.",
+      "id": "business-emudhra-security-incident",
+      "title": "eMudhra Security Incident",
+      "so_far": "eMudhra is a digital signature and trust service provider. Weak keys refer to digital encryption keys that do not meet high security standards, making them vulnerable to being 'cracked' or unauthorized access.",
       "timeline": [
        {
         "date": "2026-10-22",
-        "text": "The AI startup Anthropic is signaling a new demand for experienced human editors to improve machine output and professional communication.",
-        "link": "https://www.livemint.com/companies/news/anthropic-opens-3-26-crore-job-for-human-writers-experts-say-its-a-premium-on-judgment-11792631120428.html",
-        "source": "mint - companies"
+        "text": "The company is reviewing its internal processes following a security flaw identified in a client's keys.",
+        "link": "https://www.thehindubusinessline.com/info-tech/emudhra-board-to-consider-structural-changes-on-thursday-after-weak-key-incident-co-founder-kaushik-srinivasan/article71610810.ece",
+        "source": "Business News Today: Latest Business New"
        }
       ]
      }
     },
     {
-     "id": "fe5e0545d25f",
-     "title": "Senior UAE diplomat enters race for UN chief",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/senior-uae-diplomat-lana-nusseibeh-enters-race-for-un-chief/articleshow/135103884.cms",
-     "source": "Economic Times",
-     "published": "2026-10-22T01:38:33+00:00",
-     "summary": "A senior diplomat from the UAE has entered the candidacy race for the position of UN Secretary-General.",
-     "explain": "The UN Secretary-General is effectively the world's chief diplomat. When a country puts forward a candidate, it is a statement of their desire to have more influence on global policy regarding climate, war, and humanitarian aid. The candidacy process is highly political and often represents shifts in geopolitical alliances.",
+     "id": "bd7898730394",
+     "title": "Women account for 44% of India’s inland fishers, says report",
+     "link": "https://www.thehindubusinessline.com/economy/agri-business/women-account-for-44-of-indias-inland-fishers-says-report/article71611076.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-22T10:45:50+00:00",
+     "summary": "A new report reveals that women make up 44% of India’s inland fishers, though much of their work remains unrecognized in official statistics.",
+     "explain": "Undercounting occurs when specific workers, especially those performing unpaid or post-harvest tasks (like processing or marketing), are excluded from official government censuses or economic datasets.",
      "related": [],
      "story": {
-      "id": "business-un-leadership-candidates",
-      "title": "UN Leadership Candidates",
-      "so_far": "The United Nations is the primary international organization for global diplomacy and conflict resolution. The Secretary-General is its top official, responsible for managing the body's vast bureaucracy and acting as a mediator in global crises. The process for electing a new Secretary-General involves significant lobbying among member nations and the UN Security Council.",
+      "id": "business-gender-representation-in-inland-fishing",
+      "title": "Gender Representation in Inland Fishing",
+      "so_far": "Inland fishing involves harvesting fish from freshwater sources like rivers and lakes. While essential to local food security and rural livelihoods, the industry has historically focused on the activities of male fishers in policy-making and data collection.",
       "timeline": [
        {
         "date": "2026-10-22",
-        "text": "A UAE official has officially declared their intent to run for the head of the United Nations.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/senior-uae-diplomat-lana-nusseibeh-enters-race-for-un-chief/articleshow/135103884.cms",
-        "source": "Economic Times"
+        "text": "New data sheds light on the significant, yet often ignored, role of women in India's fishing sector.",
+        "link": "https://www.thehindubusinessline.com/economy/agri-business/women-account-for-44-of-indias-inland-fishers-says-report/article71611076.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "5ed2fc9ae523",
+     "title": "J&K Bank Q2 net profit rises 10.6% to ₹546 crore",
+     "link": "https://www.thehindubusinessline.com/money-and-banking/jk-bank-q2-net-profit-rises-106-to-54636-crore/article71610970.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-22T10:39:23+00:00",
+     "summary": "J&K Bank reported a 10.6% increase in its Q2 net profit, reaching ₹546 crore, driven by strong earnings and improved asset quality.",
+     "explain": "Asset quality refers to the health of a bank's loan portfolio. If asset quality is 'improving,' it means fewer borrowers are defaulting on their loans, which allows the bank to increase its profit margins.",
+     "related": [],
+     "story": {
+      "id": "business-j-k-bank-quarterly-results",
+      "title": "J&K Bank Quarterly Results",
+      "so_far": "J&K Bank operates as a public sector bank in India. Quarterly results provide a snapshot of a bank's financial health, specifically focusing on its net profit—the actual money earned after all expenses and provisions for bad loans are deducted.",
+      "timeline": [
+       {
+        "date": "2026-10-22",
+        "text": "The bank saw a double-digit rise in profits for the second quarter compared to the previous year.",
+        "link": "https://www.thehindubusinessline.com/money-and-banking/jk-bank-q2-net-profit-rises-106-to-54636-crore/article71610970.ece",
+        "source": "Business News Today: Latest Business New"
        }
       ]
      }
@@ -1932,392 +1921,114 @@
    "label": "Markets & Crypto",
    "articles": [
     {
-     "id": "98c4c36aa902",
-     "title": "Top stocks to watch today: Swiggy, Adani Green, Eternal, GMDC, BEL shares in focus on Thurs, 22 Oct | Full list",
-     "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-swiggy-adani-green-eternal-gmdc-bel-shares-in-focus-on-thurs-22-oct-full-list-11792632766011.html",
-     "source": "mint - markets",
-     "published": "2026-10-22T01:56:59+00:00",
-     "summary": "Analysts have identified several Indian stocks to watch on October 22, including Swiggy, Adani Energy, and Reliance Industries.",
-     "explain": "This refers to 'stock picks' where experts analyze market data to suggest which companies might perform well in the short term. These recommendations are based on technical analysis, which involves looking at price trends rather than the company's long-term business performance. Investors use these lists to decide where to allocate their capital for quick trades.",
-     "related": [
-      {
-       "date": "2026-10-21",
-       "title": "Top stocks to watch today: Eternal, Reliance Industries, IREDA, RailTel shares in focus on Wed, 21 Oct | Full list",
-       "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-eternal-reliance-industries-ireda-railtel-shares-in-focus-on-wed-21-oct-full-list-11792546323951.html",
-       "source": "mint - markets"
-      }
-     ],
-     "story": {
-      "id": "markets-indian-market-technical-recommendations",
-      "title": "Indian Market Technical Recommendations",
-      "so_far": "Indian market analysts frequently use technical analysis—studying charts and volume patterns—to predict short-term stock price movements. This approach is often separate from fundamental analysis, which focuses on a company's financial health and business model.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "Experts released a short-term watchlist for the upcoming weeks, noting potential gains in banking and retail sectors.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-experts-bet-on-sbi-bank-of-baroda-meesho-cg-power-and-2-others-target-price-stoploss-11792467348731.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Analysts provided a new list of active stocks, including Swiggy and Adani Energy, for daily trading focus.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-swiggy-adani-green-eternal-gmdc-bel-shares-in-focus-on-thurs-22-oct-full-list-11792632766011.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Market futures indicate a negative opening for Indian indices following cues from global markets.",
-        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-21-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792629655970.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Raja Venkatraman provided new technical trade strategies for two stocks today.",
-        "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-two-stocks-for-22-october-11792629823349.html",
-        "source": "mint - markets"
-       }
-      ]
-     }
-    },
-    {
-     "id": "1bea12b1245f",
-     "title": "Singapore Dollar Gains on Yen as Carry Funder, Analysts Say",
-     "link": "https://www.livemint.com/market/singapore-dollar-gains-on-yen-as-carry-funder-analysts-say-11792634002797.html",
-     "source": "mint - markets",
-     "published": "2026-10-22T01:53:22+00:00",
-     "summary": "The Singapore dollar is gaining traction as a currency for carry trades, surpassing the Japanese yen in attractiveness due to lower borrowing costs.",
-     "explain": "A 'carry trade' is a strategy where an investor borrows money in a currency with low interest rates to invest in assets denominated in currencies with higher interest rates. By shifting to the Singapore dollar, traders are betting that it is cheaper to borrow than the yen, helping them profit from the interest rate differential.",
-     "related": [],
-     "story": {
-      "id": "markets-global-currency-market-trends",
-      "title": "Global Currency Market Trends",
-      "so_far": "Currency markets are influenced by global interest rate expectations, inflation data, and geopolitical stability. Investors often monitor these movements to gauge the relative strength of various national economies and central bank policy outlooks.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "The euro and British pound maintained stability against the dollar, while the Australian and New Zealand dollars saw minor gains.",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-and-euro-drift-yen-slips-as-markets-seek-direction/articleshow/135059705.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "The Singapore dollar is increasingly favored over the Japanese yen as a funding currency for carry trades.",
-        "link": "https://www.livemint.com/market/singapore-dollar-gains-on-yen-as-carry-funder-analysts-say-11792634002797.html",
-        "source": "mint - markets"
-       }
-      ]
-     }
-    },
-    {
-     "id": "31b800c1d33a",
-     "title": "Singapore-based Ascertis Credit secures $700 million for Fund IV",
-     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/singapore-based-ascertis-credit-secures-700-million-for-fund-iv/articleshow/135103947.cms",
+     "id": "ec2669261419",
+     "title": "Stock crash alert! eMudhra shares plunge 37% in just two sessions. What’s unfolding?",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-crash-alert-emudhra-shares-plunge-37-in-just-two-sessions-whats-unfolding/articleshow/135112232.cms",
      "source": "Markets-Economic Times",
-     "published": "2026-10-22T01:51:39+00:00",
-     "summary": "Ascertis Credit Group has successfully raised $700 million for its fourth private credit fund, with a target of $1 billion.",
-     "explain": "Private credit is a form of non-bank lending where investment firms provide capital to businesses. This is important for companies that may not qualify for or want traditional bank loans. By raising a $1 billion fund, Ascertis is positioning itself to provide large-scale financing to dozens of companies, which helps those companies grow or restructure their debt.",
+     "published": "2026-10-22T08:06:54+00:00",
+     "summary": "eMudhra shares plunged 37% in two sessions after a critical security incident involving compromised private keys linked to eight intermediate Certificate Authority certificates. MeitY said its Indian digital signature an",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "markets-ascertis-credit-fund-expansion",
-      "title": "Ascertis Credit Fund Expansion",
-      "so_far": "Ascertis Credit Group is a private credit firm that provides financing to various companies through pooled capital. Private credit funds operate by lending money directly to businesses, often serving as an alternative to traditional bank loans for companies with specific or complex capital needs.",
-      "timeline": [
-       {
-        "date": "2026-10-22",
-        "text": "Ascertis Credit Group secured $700 million in commitments toward a $1 billion goal for its latest private credit fund.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/singapore-based-ascertis-credit-secures-700-million-for-fund-iv/articleshow/135103947.cms",
-        "source": "Markets-Economic Times"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "57bf3704f9a3",
-     "title": "Dividend, bonus, split: Last chance to buy today ahead of record date - TechM, IRFC, LTM ; Payout, ratio, other details",
-     "link": "https://www.livemint.com/market/stock-market-news/dividend-bonus-split-last-chance-to-buy-today-ahead-of-record-date-techm-irfc-ltm-payout-ratio-other-details-11792604841012.html",
+     "id": "5c7c9b45f880",
+     "title": "Freefall! eMudhra shares crash 34% in just 3 sessions, near 52-week low - Why is stock plunging? What market experts say",
+     "link": "https://www.livemint.com/market/stock-market-news/freefall-emudhra-shares-crash-34-in-just-3-sessions-near-52-week-low-why-is-stock-plunging-what-market-experts-say-11792644922990.html",
      "source": "mint - markets",
-     "published": "2026-10-22T01:30:52+00:00",
-     "summary": "Over 10 companies, including Tech Mahindra and IRFC, have set October 23 as the record date for corporate actions like dividends and stock splits, making October 22 the final purchase day.",
-     "explain": "A 'record date' is the cutoff set by a company to determine which shareholders are eligible to receive dividends or participate in a stock split. If you buy the stock on or after this date, you do not receive the benefit. A stock split divides existing shares into more shares to increase liquidity, while a dividend is a cash payment to shareholders.",
+     "published": "2026-10-22T06:01:10+00:00",
+     "summary": "eMudhra shares hit an intraday low of ₹367 in Thursday's session, inching closer to its 52-week low of ₹365.75, hit on 30 March. At the current market price, the stock has lost 34% in just three consecutive sessions.",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "markets-2026-indian-stock-market-holidays",
-      "title": "2026 Indian Stock Market Holidays",
-      "so_far": "The Indian stock market operates under set regulatory guidelines and is influenced by both domestic economic policy and global investor sentiment. Traders monitor major indices like the Nifty—which represents the 50 largest companies listed on the National Stock Exchange—to gauge the health of the Indian economy.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "The NSE and BSE are closed today for the Dussehra holiday, marking one of 16 scheduled holidays for 2026.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-2026-is-stock-market-closed-today-for-dussehra-check-remaining-holidays-for-the-year/articleshow/135059981.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "The NSE and BSE are confirmed to be closed today for Dussehra, with normal operations returning on Wednesday.",
-        "link": "https://www.livemint.com/market/stock-market-news/dussehra-2026-stock-market-holiday-today-or-not-nse-bse-to-remain-open-or-closed-on-20-oct-tuesday-exchange-calendar-11792456900292.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Indian equities saw significant selling in the banking and IT sectors, dragging the Nifty index under the 23,000 threshold.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-federal-bank-among-4-stock-recommendations-for-wednesday/slideshow/135067773.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-21",
-        "text": "Investors are monitoring a specific list of high-profile Indian stocks ahead of Wednesday's trading session.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-eternal-reliance-industries-ireda-railtel-shares-in-focus-on-wed-21-oct-full-list-11792546323951.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-21",
-        "text": "Pre-market indicators suggest a modest gain for the Nifty, reflecting positive cues from international markets.",
-        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-19-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792543474837.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Investors must purchase shares by October 22 to qualify for upcoming corporate payouts or stock splits scheduled for October 23.",
-        "link": "https://www.livemint.com/market/stock-market-news/dividend-bonus-split-last-chance-to-buy-today-ahead-of-record-date-techm-irfc-ltm-payout-ratio-other-details-11792604841012.html",
-        "source": "mint - markets"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "6136bc2438ba",
-     "title": "Stock market outlook today, 22 Oct: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
-     "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-21-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792629655970.html",
+     "id": "95a985f18b4b",
+     "title": "KEI Industries shares: Down 15% in one month! Jefferies India sees 45% upside after Q2 results 2026 | Target, rationale",
+     "link": "https://www.livemint.com/market/stock-market-news/kei-industries-shares-down-15-in-one-month-jefferies-india-sees-45-upside-after-q2-results-2026-target-rationale-11792664720014.html",
      "source": "mint - markets",
-     "published": "2026-10-22T01:20:23+00:00",
-     "summary": "The Indian stock market is expected to open lower today, with Gift Nifty indices indicating a decline of approximately 0.20%.",
-     "explain": "Gift Nifty is a derivative contract that reflects the expected performance of the Nifty 50 index. Because these contracts trade nearly around the clock, they are used by investors to predict how the Indian market will react once it officially opens. A negative reading suggests that traders anticipate a slight downward pressure on prices when the exchange opens.",
-     "related": [
-      {
-       "date": "2026-10-21",
-       "title": "Stock market outlook today, 21 Oct: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
-       "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-19-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792543474837.html",
-       "source": "mint - markets"
-      }
-     ],
-     "story": {
-      "id": "markets-indian-market-technical-recommendations",
-      "title": "Indian Market Technical Recommendations",
-      "so_far": "Indian market analysts frequently use technical analysis—studying charts and volume patterns—to predict short-term stock price movements. This approach is often separate from fundamental analysis, which focuses on a company's financial health and business model.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "Experts released a short-term watchlist for the upcoming weeks, noting potential gains in banking and retail sectors.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-experts-bet-on-sbi-bank-of-baroda-meesho-cg-power-and-2-others-target-price-stoploss-11792467348731.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Analysts provided a new list of active stocks, including Swiggy and Adani Energy, for daily trading focus.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-swiggy-adani-green-eternal-gmdc-bel-shares-in-focus-on-thurs-22-oct-full-list-11792632766011.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Market futures indicate a negative opening for Indian indices following cues from global markets.",
-        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-21-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792629655970.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Raja Venkatraman provided new technical trade strategies for two stocks today.",
-        "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-two-stocks-for-22-october-11792629823349.html",
-        "source": "mint - markets"
-       }
-      ]
-     }
-    },
-    {
-     "id": "6640ebd2bc95",
-     "title": "Aditya Birla AMC Q2 net profit dips 8.4% to Rs 221 crore",
-     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/aditya-birla-amc-q2-net-profit-dips-8-4-to-rs-221-crore/articleshow/135103619.cms",
-     "source": "Markets-Economic Times",
-     "published": "2026-10-22T01:17:30+00:00",
-     "summary": "Aditya Birla Sun Life AMC reported an 8.4% drop in net profit for the second quarter, despite a 5% increase in operational revenue.",
-     "explain": "An Asset Management Company (AMC) invests pooled money from many investors into stocks, bonds, and other assets. When an AMC reports a profit dip despite growing revenue, it often means their operating costs—such as employee salaries, marketing, and technology investments—are rising faster than the fees they collect. This signals that managing the assets is becoming more expensive.",
+     "published": "2026-10-22T11:01:42+00:00",
+     "summary": "KEI Industries share price has fallen from around ₹4,575 to ₹3,869, correcting 15% in one month",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "markets-aditya-birla-amc-earnings-report",
-      "title": "Aditya Birla AMC Earnings Report",
-      "so_far": "Aditya Birla Sun Life AMC is an Asset Management Company (AMC) that manages mutual funds and portfolio services for investors. AMCs earn money primarily through management fees based on the total assets they oversee. Monitoring their earnings helps investors understand the health of the broader financial services sector in India.",
-      "timeline": [
-       {
-        "date": "2026-10-22",
-        "text": "Aditya Birla Sun Life AMC reported a decline in quarterly net profit to Rs 221 crore due to rising expenses.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/aditya-birla-amc-q2-net-profit-dips-8-4-to-rs-221-crore/articleshow/135103619.cms",
-        "source": "Markets-Economic Times"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "4df45d285118",
-     "title": "Why is the RBI pulling liquidity out of banks and injecting it back again?",
-     "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-rbi-is-draining-excess-liquidity-but-also-injecting-funds/articleshow/135103570.cms",
-     "source": "Markets-Economic Times",
-     "published": "2026-10-22T01:06:29+00:00",
-     "summary": "The RBI is actively managing banking system liquidity by absorbing surpluses through reverse repo auctions following a surge in funds from overseas Indians.",
-     "explain": "Liquidity in banking refers to the amount of money available for banks to lend. When too much cash is in the system, it can lower interest rates too far or create inflation. The RBI uses 'reverse repo auctions' to temporarily borrow money from banks, which effectively takes that cash out of circulation to stabilize the economy.",
+     "id": "c40e6ca63b9f",
+     "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
+     "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
+     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
+     "published": "2026-10-22T10:50:04+00:00",
+     "summary": "",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "markets-rbi-banking-liquidity-management",
-      "title": "RBI Banking Liquidity Management",
-      "so_far": "The Reserve Bank of India (RBI) manages the amount of 'liquidity' (cash) in the banking system to keep inflation in check and interest rates stable. When there is too much cash, the RBI pulls it out; when there is too little, it injects cash into the system.",
-      "timeline": [
-       {
-        "date": "2026-10-22",
-        "text": "The RBI is utilizing reverse repo auctions to withdraw excess liquidity that spiked after capital inflows under the FCNR(B) scheme.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-rbi-is-draining-excess-liquidity-but-also-injecting-funds/articleshow/135103570.cms",
-        "source": "Markets-Economic Times"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "3d8570300fce",
-     "title": "Global Market Today: Asian stocks mixed as oil rally, AI concerns weigh on sentiment",
-     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-mixed-as-oil-rally-ai-concerns-weigh-on-sentiment/articleshow/135103506.cms",
-     "source": "Markets-Economic Times",
-     "published": "2026-10-22T00:57:04+00:00",
-     "summary": "Asian markets are showing mixed results as investors react to tech earnings from Tesla and Meta and ongoing concerns regarding AI-sector valuations.",
-     "explain": "The AI sector has been a primary driver of stock market growth over the last two years. Recently, investors have become more critical of how much money these companies are spending on AI infrastructure (like data centers and chips) versus how much profit that technology is actually generating. This scrutiny leads to 'market volatility,' where stock prices swing sharply based on quarterly earnings reports.",
+     "id": "4fd8614de634",
+     "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
+     "link": "https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph.com News",
+     "published": "2026-10-22T10:38:51+00:00",
+     "summary": "Bitcoin reversed a run toward $85,000 after Tesla reported lower-than-expected capital expenditure in Q3.",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "markets-global-ai-sector-sell-off",
-      "title": "Global AI Sector Sell-off",
-      "so_far": "Global tech markets have recently faced volatility as investor enthusiasm for AI-related infrastructure and chip manufacturing cools. Companies that saw massive growth during the AI boom are now struggling with market corrections and reassessments of their long-term earnings potential.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "South Korean tech stocks experienced sharp declines, with major AI suppliers SK Hynix and Samsung falling heavily amid a broader sector rout.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-kospi-crashes-another-5-as-ai-rout-deepens-ai-bellwether-down-over-40-from-peak/articleshow/135061021.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Broad market pessimism linked to the AI and chip sector is now impacting cryptocurrency prices.",
-        "link": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Market jitters remain elevated as the correction in AI-related equities deepens.",
-        "link": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-10-21",
-        "text": "Investor pushback has expanded from major tech firms to smaller AI and data center startups, driven by rising borrowing costs.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-debutants-flameout-stokes-fears-boom-is-ending/articleshow/135079415.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Market sentiment remains volatile as AI concerns persist following mixed earnings results from major tech firms Tesla and Meta.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-mixed-as-oil-rally-ai-concerns-weigh-on-sentiment/articleshow/135103506.cms",
-        "source": "Markets-Economic Times"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "553bae5a7cac",
-     "title": "Jio IPO attracts Rs 70,000 crore in bids on day 1, outpaces LIC, NSE issues",
-     "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-bids-hit-70000-crore-on-day-1-outpaces-nse-lic-gic-issues/articleshow/135103495.cms",
+     "id": "9b8c7c5d3919",
+     "title": "Tata Motors CV Q2 Results Preview: Profit may rise up to 44% YoY, revenue 45%; margins, volume growth in focus",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-cv-q2-results-preview-profit-may-rise-up-to-44-yoy-revenue-45-margins-volume-growth-in-focus/articleshow/135116132.cms",
      "source": "Markets-Economic Times",
-     "published": "2026-10-22T00:56:00+00:00",
-     "summary": "Jio Platforms' IPO saw a strong start, being oversubscribed 3.16 times on its first day, with significant interest from institutional investors.",
-     "explain": "An IPO (Initial Public Offering) is the process of a private company selling shares to the public for the first time. 'Oversubscribed' means investors wanted to buy more shares than were available, which is usually a sign of strong demand. Institutional investors are large organizations like banks or pension funds, whose heavy participation is often seen as a sign of confidence in the company.",
+     "published": "2026-10-22T10:32:38+00:00",
+     "summary": "Tata Motors Commercial Vehicles is expected to post strong Q2FY27 revenue and profit growth, driven by 43% volume expansion. However, rising input costs, margin pressures and divergent brokerage estimates remain key inve",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "markets-jio-platforms-mega-ipo",
-      "title": "Jio Platforms Mega IPO",
-      "so_far": "Jio Platforms, a subsidiary of Reliance Industries, is launching an IPO to raise funds as it pivots from a pure telecom provider to an integrated technology, cloud, and AI platform. It is poised to become India's largest-ever public offering, aiming for a valuation of Rs 10 lakh crore.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "High-profile global institutional investors have committed Rs 2.5 lakh crore in anchor bids ahead of the public issue opening.",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-draws-rs-2-5-lakh-crore-in-anchor-bids/articleshow/135059075.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "The IPO is set to open tomorrow, October 21, with a high grey market premium suggesting strong potential listing gains.",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Reliance is reframing Jio's narrative for investors to emphasize its broad technological reach, spanning cloud, AI, and fixed broadband.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-228-a-gb-to-7-5-how-mukesh-ambanis-jio-rewired-indias-internet-and-is-now-seeking-a-10-lakh-crore-valuation/articleshow/135053274.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Official filings confirm the IPO size as Rs 30,213 crore, establishing it as the largest ever in the Indian market.",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-vs-airtel-shares-which-telecom-giant-offers-greater-valuation-comfort-to-investors/articleshow/135053174.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "The company's IPO successfully attracted anchor bids worth over $25 billion, signaling strong institutional confidence.",
-        "link": "https://www.livemint.com/market/ipo/reliance-jio-ipo-massive-bids-top-25-bn-amount-for-anchor-book-okhow-mukesh-ambani-firm-attracted-top-notch-investors-11792488288719.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "The IPO was oversubscribed 3.16 times on its opening day, driven largely by high demand from institutional investors.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-bids-hit-70000-crore-on-day-1-outpaces-nse-lic-gic-issues/articleshow/135103495.cms",
-        "source": "Markets-Economic Times"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "fc3e695ca8f9",
-     "title": "Raja Venkatraman recommends two stocks for 22 October",
-     "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-two-stocks-for-22-october-11792629823349.html",
+     "id": "46a1d59fe1f1",
+     "title": "Jammu &amp; Kashmir Bank Q2 Results: Net profit rises over 10% YoY to Rs 546 crore, NII jumps 5% YoY",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jammu-kashmir-bank-q2-results-net-profit-rises-over-10-yoy-to-rs-546-crore-nii-jumps-5-yoy/articleshow/135116063.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-10-22T10:30:02+00:00",
+     "summary": "Jammu &amp; Kashmir Bank reported a 10.6% year-on-year rise in Q2 net profit to Rs 546.4 crore. Operating profit increased 26.7%, while asset quality improved, with gross NPA falling to 2.23%. Advances grew 23.7% to Rs 1",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "5cb95dc2c8f0",
+     "title": "PC Jeweller stock defies market gloom, rises 90% in 2026: Can it hit ₹27 after breaking ₹20 resistance? Expert view",
+     "link": "https://www.livemint.com/market/stock-market-news/pc-jeweller-stock-defies-market-gloom-rises-90-in-2026-can-it-hit-rs-27-after-breaking-rs-20-resistance-expert-view-11792664468853.html",
      "source": "mint - markets",
-     "published": "2026-10-22T00:50:58+00:00",
-     "summary": "Expert Raja Venkatraman has released two specific stock recommendations for October 22 based on technical market analysis.",
-     "explain": "A 'technical recommendation' is a suggestion to buy or sell a stock based on patterns in its historical price and trading volume, rather than the company's financial reports. Traders follow these recommendations to try and capture short-term price movements or 'trends' in the market.",
+     "published": "2026-10-22T10:27:11+00:00",
+     "summary": "PC Jeweller shares have surged 89% in 2026, reaching a one-year high of ₹20.10. Analysts see potential upside to ₹27 if the stock breaks above ₹20, though overbought indicators could prompt profit-taking.",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "markets-indian-market-technical-recommendations",
-      "title": "Indian Market Technical Recommendations",
-      "so_far": "Indian market analysts frequently use technical analysis—studying charts and volume patterns—to predict short-term stock price movements. This approach is often separate from fundamental analysis, which focuses on a company's financial health and business model.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "Experts released a short-term watchlist for the upcoming weeks, noting potential gains in banking and retail sectors.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-experts-bet-on-sbi-bank-of-baroda-meesho-cg-power-and-2-others-target-price-stoploss-11792467348731.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Analysts provided a new list of active stocks, including Swiggy and Adani Energy, for daily trading focus.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-swiggy-adani-green-eternal-gmdc-bel-shares-in-focus-on-thurs-22-oct-full-list-11792632766011.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Market futures indicate a negative opening for Indian indices following cues from global markets.",
-        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-21-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792629655970.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Raja Venkatraman provided new technical trade strategies for two stocks today.",
-        "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-two-stocks-for-22-october-11792629823349.html",
-        "source": "mint - markets"
-       }
-      ]
-     }
+     "story": null
+    },
+    {
+     "id": "362134465d50",
+     "title": "Swiggy Q2 Results: Loss narrows YoY to Rs 922 crore; revenue jumps 36%",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/swiggy-q2-results-loss-narrows-yoy-to-rs-922-crore-revenue-up-36/articleshow/135115858.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-10-22T10:27:08+00:00",
+     "summary": "Swiggy Q2 Result: Food delivery and quick commerce company Swiggy Ltd on Thursday said its consolidated profit after tax narrowed to Rs 922 crore in the second quarter of FY27 from Rs 1,092 crore in the same quarter of l",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "0f064621f7ab",
+     "title": "10 stocks plunge up to 53% from their yearly peaks",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-stocks-plunge-up-to-53-from-their-yearly-peaks/slideshow/135116041.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-10-22T10:22:01+00:00",
+     "summary": "India’s market correction has pushed several midcap stocks sharply below their 52-week highs. Ten stocks, including Rail Vikas Nigam, PB Fintech and Swiggy, have fallen between 40% and 53%, underperforming broader indice",
+     "explain": null,
+     "related": [],
+     "story": null
     }
    ]
   }
