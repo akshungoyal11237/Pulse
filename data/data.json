@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-23T02:05:08.879876+00:00",
- "prices_generated": "2026-10-23T10:22:26.745490+00:00",
+ "generated": "2026-10-23T10:57:46.798460+00:00",
+ "prices_generated": "2026-10-23T10:57:46.798460+00:00",
  "ai": "gemini",
- "pulse": "Indian markets faced a slight decline today as investors processed mixed corporate news and broader global uncertainty. In the US, major tech-heavy indices saw significant pullbacks, likely driven by growing investor anxiety surrounding the artificial intelligence sector. This cautious sentiment spilled over into cryptocurrencies and precious metals, which saw sharp drops, while oil prices climbed noticeably amidst regional tensions and geopolitical concerns.",
+ "pulse": "Indian markets saw modest declines today as investors reacted to rising crude oil prices and broader market anxiety. In the US, indices fell sharply, particularly in the tech-heavy Nasdaq, which was likely driven by a rotation out of growth stocks and investor caution. Meanwhile, Bitcoin and other cryptocurrencies saw slight gains, possibly reflecting a decoupling from the recent volatility seen in traditional stock markets.",
  "ticker_strip": [
   "^NSEI",
   "^BSESN",
@@ -250,10 +250,10 @@
   "BTC-USD": {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 81688.4688,
-   "change": 376.5781,
-   "pct": 0.46,
-   "pct_1m": -3.19,
+   "price": 81573.7031,
+   "change": 261.8125,
+   "pct": 0.32,
+   "pct_1m": -3.33,
    "spark": [
     84383.0078,
     84379.0625,
@@ -285,17 +285,17 @@
     82941.0,
     84011.9688,
     81311.8906,
-    81688.4688
+    81573.7031
    ],
    "asof": "2026-10-23"
   },
   "ETH-USD": {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 2400.9399,
-   "change": 14.7507,
-   "pct": 0.62,
-   "pct_1m": -10.57,
+   "price": 2394.3,
+   "change": 8.1108,
+   "pct": 0.34,
+   "pct_1m": -10.82,
    "spark": [
     2684.6919,
     2687.3015,
@@ -327,17 +327,17 @@
     2446.7307,
     2470.7661,
     2386.1892,
-    2400.9399
+    2394.3
    ],
    "asof": "2026-10-23"
   },
   "SOL-USD": {
    "symbol": "SOL-USD",
    "name": "Solana",
-   "price": 104.24,
-   "change": 0.6977,
-   "pct": 0.67,
-   "pct_1m": -9.34,
+   "price": 103.92,
+   "change": 0.3777,
+   "pct": 0.36,
+   "pct_1m": -9.62,
    "spark": [
     114.9753,
     117.0091,
@@ -369,7 +369,7 @@
     106.4223,
     106.7937,
     103.5423,
-    104.24
+    103.92
    ],
    "asof": "2026-10-23"
   },
@@ -410,10 +410,10 @@
   "EURINR=X": {
    "symbol": "EURINR=X",
    "name": "EUR/INR",
-   "price": 106.3372,
-   "change": 0.2942,
-   "pct": 0.28,
-   "pct_1m": -2.76,
+   "price": 106.303,
+   "change": 0.26,
+   "pct": 0.25,
+   "pct_1m": -2.79,
    "spark": [
     109.358,
     108.896,
@@ -437,17 +437,17 @@
     106.374,
     106.334,
     106.043,
-    106.3372
+    106.303
    ],
    "asof": "2026-10-23"
   },
   "EURUSD=X": {
    "symbol": "EURUSD=X",
    "name": "EUR/USD",
-   "price": 1.1203,
-   "change": -0.0031,
-   "pct": -0.28,
-   "pct_1m": -2.14,
+   "price": 1.1198,
+   "change": -0.0036,
+   "pct": -0.32,
+   "pct_1m": -2.18,
    "spark": [
     1.1448,
     1.1382,
@@ -471,17 +471,17 @@
     1.1216,
     1.1227,
     1.1235,
-    1.1203
+    1.1198
    ],
    "asof": "2026-10-23"
   },
   "GBPINR=X": {
    "symbol": "GBPINR=X",
    "name": "GBP/INR",
-   "price": 126.9893,
-   "change": 0.6569,
-   "pct": 0.52,
-   "pct_1m": -0.54,
+   "price": 126.9518,
+   "change": 0.6194,
+   "pct": 0.49,
+   "pct_1m": -0.57,
    "spark": [
     127.6755,
     126.7678,
@@ -505,17 +505,17 @@
     126.4189,
     126.6686,
     126.3324,
-    126.9893
+    126.9518
    ],
    "asof": "2026-10-23"
   },
   "GC=F": {
    "symbol": "GC=F",
    "name": "Gold",
-   "price": 4037.6001,
-   "change": -22.7998,
-   "pct": -0.56,
-   "pct_1m": -6.5,
+   "price": 4040.3,
+   "change": -20.0999,
+   "pct": -0.5,
+   "pct_1m": -6.44,
    "spark": [
     4318.3999,
     4298.0,
@@ -539,17 +539,17 @@
     4142.6001,
     4150.0,
     4060.3999,
-    4037.6001
+    4040.3
    ],
    "asof": "2026-10-23"
   },
   "SI=F": {
    "symbol": "SI=F",
    "name": "Silver",
-   "price": 53.91,
-   "change": -0.854,
-   "pct": -1.56,
-   "pct_1m": -16.27,
+   "price": 54.015,
+   "change": -0.749,
+   "pct": -1.37,
+   "pct_1m": -16.1,
    "spark": [
     64.382,
     63.457,
@@ -573,17 +573,17 @@
     57.706,
     57.422,
     54.764,
-    53.91
+    54.015
    ],
    "asof": "2026-10-23"
   },
   "CL=F": {
    "symbol": "CL=F",
    "name": "WTI Crude",
-   "price": 100.94,
-   "change": 1.47,
-   "pct": 1.48,
-   "pct_1m": 9.53,
+   "price": 100.95,
+   "change": 1.48,
+   "pct": 1.49,
+   "pct_1m": 9.54,
    "spark": [
     92.16,
     94.61,
@@ -607,17 +607,17 @@
     101.79,
     97.15,
     99.47,
-    100.94
+    100.95
    ],
    "asof": "2026-10-23"
   },
   "BZ=F": {
    "symbol": "BZ=F",
    "name": "Brent Crude",
-   "price": 109.72,
-   "change": -3.45,
-   "pct": -3.05,
-   "pct_1m": 6.44,
+   "price": 110.0,
+   "change": -3.17,
+   "pct": -2.8,
+   "pct_1m": 6.71,
    "spark": [
     103.08,
     106.6,
@@ -641,7 +641,7 @@
     108.79,
     108.82,
     113.17,
-    109.72
+    110.0
    ],
    "asof": "2026-10-23"
   },
@@ -962,232 +962,42 @@
    "label": "India",
    "articles": [
     {
-     "id": "421eb893d792",
-     "title": "How India thwarted Pakistan’s bid to steal crucial defence data",
-     "link": "https://www.thehindu.com/news/national/andhra-pradesh/how-india-thwarted-pakistans-bid-to-steal-crucial-defence-data/article71612709.ece",
+     "id": "f27b217f02f8",
+     "title": "All 14 Indians in yacht incident off Yemen coast reported safe: Embassy",
+     "link": "https://www.thehindu.com/news/national/indian-embassy-seeks-facts-on-october-yacht-incident-off-yemen/article71614503.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-23T01:41:32+00:00",
-     "summary": "Authorities in Andhra Pradesh dismantled a digital honey-trap network that allegedly funneled sensitive naval intelligence to Pakistan's ISI.",
-     "explain": "A honey-trap is a form of cyber-espionage where an attacker uses a fake online persona to gain the trust of a target in order to manipulate them into revealing secret information. This is a significant national security threat because individuals with access to defense data are targeted to bypass traditional cybersecurity measures.",
+     "published": "2026-10-23T10:10:01+00:00",
+     "summary": "Fourteen Indian nationals aboard a yacht near the Yemeni coast are reported safe following reports of an incident in the Red Sea. Claims by a Houthi spokesperson suggested the vessel was targeted by Saudi forces, but official reports confirm the safety of the crew.",
+     "explain": "The incident involved a yacht near Yemen, a country currently experiencing significant geopolitical instability and conflict. Tensions in the Red Sea often involve various regional military powers and militant groups, making it a dangerous zone for civilian and commercial maritime traffic.",
      "related": [],
      "story": {
-      "id": "india-espionage-and-intelligence-security",
-      "title": "Espionage and Intelligence Security",
-      "so_far": "India frequently faces espionage threats targeting its defense and naval assets. Digital honey-traps, where adversaries use social media to build personal relationships with military or administrative staff to extract classified information, are a recognized national security concern. Agencies like the Intelligence Bureau (IB) and regional counter-intelligence cells work to identify and intercept these communication channels.",
+      "id": "india-indian-yacht-incident-near-yemen",
+      "title": "Indian Yacht Incident Near Yemen",
+      "so_far": "The Red Sea remains a volatile maritime corridor due to ongoing regional conflicts and the presence of various armed factions. Indian diplomatic missions frequently monitor the safety of Indian citizens working on commercial and private vessels in these high-risk areas.",
       "timeline": [
        {
         "date": "2026-10-23",
-        "text": "Counter-intelligence units identified and shut down a honey-trap operation involving Indian conduits sharing military secrets with foreign intelligence.",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/how-india-thwarted-pakistans-bid-to-steal-crucial-defence-data/article71612709.ece",
+        "text": "The Indian embassy has confirmed that all 14 Indian crew members are safe after an alleged attack near the Yemeni coast.",
+        "link": "https://www.thehindu.com/news/national/indian-embassy-seeks-facts-on-october-yacht-incident-off-yemen/article71614503.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "e19985701e6a",
-     "title": "When mob takes law into its own hands: another man lynched in Keralam’s Palakkad",
-     "link": "https://www.thehindu.com/news/national/kerala/when-mob-takes-law-into-its-own-hands-another-man-lynched-in-keralams-palakkad/article71608681.ece",
+     "id": "a887f0de390b",
+     "title": "Woman hacked to death in Thoothukudi over objection to man contacting her minor daughter",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/woman-hacked-to-death-in-thoothukudi-over-objection-to-mans-contact-with-her-minor-daughter/article71615111.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-23T01:35:57+00:00",
-     "summary": "A man with an auditory disability was lynched by a mob in Palakkad, Kerala.",
-     "explain": "Lynching or mob violence occurs when a crowd gathers to punish an individual for a suspected crime without trial. It highlights a breakdown of rule of law where societal intolerance and fear lead to fatal extrajudicial consequences.",
-     "related": [],
-     "story": {
-      "id": "india-mob-violence-and-vigilantism",
-      "title": "Mob Violence and Vigilantism",
-      "so_far": "India periodically reports incidents where private citizens or groups take the law into their own hands, often fueled by social media rumors, local suspicion, or prejudices. These acts of 'mob justice' often target marginalized or vulnerable individuals, causing widespread public outrage and prompting police intervention to restore order.",
-      "timeline": [
-       {
-        "date": "2026-10-23",
-        "text": "Authorities are investigating a lethal case of mob vigilantism in Palakkad where a disabled man was killed by a group.",
-        "link": "https://www.thehindu.com/news/national/kerala/when-mob-takes-law-into-its-own-hands-another-man-lynched-in-keralams-palakkad/article71608681.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "efa06dd5f37f",
-     "title": "A greying population, a strained care system",
-     "link": "https://www.thehindu.com/news/national/telangana/a-greying-population-a-strained-care-system/article71613250.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-23T01:34:34+00:00",
-     "summary": "Telangana faces rising healthcare and support challenges for its rapidly growing elderly population.",
-     "explain": "Geriatric care focuses on the health and well-being of the elderly. As people live longer, the need for integrated support services increases, particularly for those lacking familial or financial backing.",
-     "related": [],
-     "story": {
-      "id": "india-geriatric-care-infrastructure",
-      "title": "Geriatric Care Infrastructure",
-      "so_far": "As India's demographic shifts toward an older population, there is increasing pressure on both public and private sectors to develop sustainable support systems. This includes affordable access to medicine, specialized care facilities, and mental health resources to address social isolation.",
-      "timeline": [
-       {
-        "date": "2026-10-23",
-        "text": "Experts report that gaps in geriatric healthcare and social support are leaving many low-income seniors in Telangana increasingly isolated and vulnerable.",
-        "link": "https://www.thehindu.com/news/national/telangana/a-greying-population-a-strained-care-system/article71613250.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "7084a8c246e6",
-     "title": "Karnataka SIR: Teaching on the back burner",
-     "link": "https://www.thehindu.com/news/national/karnataka//article71606292.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-23T01:30:36+00:00",
-     "summary": "Karnataka school students are facing learning disruptions because teachers are being diverted for electoral roll revision duties.",
-     "explain": "A Booth Level Officer (BLO) is a local official responsible for maintaining and updating voter lists in a specific polling station area. While these duties are essential for democratic processes, the assignment of teachers to these tasks can interfere with classroom learning time.",
-     "related": [],
-     "story": {
-      "id": "india-electoral-duty-disrupting-education",
-      "title": "Electoral Duty Disrupting Education",
-      "so_far": "In India, teachers are frequently mandated by the government to serve in non-academic administrative roles, such as conducting the census or updating electoral rolls. This practice often sparks debate about whether utilizing educators for secondary administrative tasks negatively impacts the quality of education for students.",
-      "timeline": [
-       {
-        "date": "2026-10-23",
-        "text": "Teachers in Karnataka are missing classes for months to serve as Booth Level Officers (BLOs), leading to student anxiety over missed instruction.",
-        "link": "https://www.thehindu.com/news/national/karnataka//article71606292.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "86b36ef87059",
-     "title": "Cabinet Secretary had copied acknowledgement sent to letters by two ECs to CEC for ‘information’: RTI reply",
-     "link": "https://www.thehindu.com/news/national/cabinet-secretary-had-copied-acknowledgement-sent-to-letters-by-two-ecs-to-cec-for-information-rti-reply/article71612629.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-23T01:24:36+00:00",
-     "summary": "An RTI reply indicates the Cabinet Secretary was kept in the loop regarding internal communications between Election Commissioners and the Chief Election Commissioner.",
-     "explain": "The Right to Information (RTI) Act is a law that empowers Indian citizens to request information from public authorities, promoting transparency and accountability. In this context, it has shed light on the internal correspondence of one of India's most critical constitutional bodies.",
-     "related": [],
-     "story": {
-      "id": "india-election-commission-internal-operations",
-      "title": "Election Commission Internal Operations",
-      "so_far": "The Election Commission of India (ECI) operates as an autonomous constitutional authority responsible for administering elections. Internal management issues, including the hierarchy and conduct of senior officials, are occasionally subject to administrative review or public scrutiny via Right to Information (RTI) requests.",
-      "timeline": [
-       {
-        "date": "2026-10-23",
-        "text": "Documentation revealed that the Cabinet Secretary received a copy of communications between the Election Commissioners and the Chief Election Commissioner regarding staff management.",
-        "link": "https://www.thehindu.com/news/national/cabinet-secretary-had-copied-acknowledgement-sent-to-letters-by-two-ecs-to-cec-for-information-rti-reply/article71612629.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "e12283d750ef",
-     "title": "Indian killed as Houthis attack Saudi Arabia’s Dammam airport",
-     "link": "https://www.thehindu.com/news/national/indian-national-killed-in-saudi-dammam-airport-attack-others-injured/article71610871.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-23T01:24:16+00:00",
-     "summary": "An Indian national was killed during a Houthi attack on a Saudi Arabian airport.",
-     "explain": "The Houthis (Ansar Allah) are a political and militant group involved in the ongoing conflict in Yemen. Attacks on international airports or infrastructure in neighboring countries like Saudi Arabia pose recurring risks to the millions of foreign workers living in the region.",
-     "related": [],
-     "story": {
-      "id": "india-safety-of-indians-abroad",
-      "title": "Safety of Indians Abroad",
-      "so_far": "Large numbers of Indian citizens live and work in the Middle East. The Indian government frequently coordinates with local authorities in these countries to ensure the safety of its citizens during geopolitical conflicts or localized violence.",
-      "timeline": [
-       {
-        "date": "2026-10-23",
-        "text": "A civilian casualty occurred at Dammam airport following a Houthi attack, prompting concerns over the safety of the Indian diaspora in the region.",
-        "link": "https://www.thehindu.com/news/national/indian-national-killed-in-saudi-dammam-airport-attack-others-injured/article71610871.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "f124fda9cef5",
-     "title": "Face-off with China continues at multiple locations along Arunachal border: ITBP D-G",
-     "link": "https://www.thehindu.com/news/national/face-off-with-china-continues-at-multiple-locations-along-arunachal-border-itbp-d-g/article71612994.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-23T01:23:56+00:00",
-     "summary": "The ITBP Chief confirmed ongoing border tensions with China and emphasized the need for modernizing warfare tactics.",
-     "explain": "The Indo-Tibetan Border Police (ITBP) is a specialized paramilitary force tasked with securing India’s border with China. The transition to 'new warfare' refers to the increasing reliance on drone surveillance and hardened infrastructure rather than traditional infantry-heavy tactics.",
-     "related": [],
-     "story": {
-      "id": "india-india-china-border-security",
-      "title": "India-China Border Security",
-      "so_far": "The Line of Actual Control (LAC) between India and China has been the site of intermittent military standoffs since 2020. Both nations have ramped up infrastructure development, surveillance capabilities, and deployment of forces along the high-altitude border to maintain strategic parity.",
-      "timeline": [
-       {
-        "date": "2026-10-23",
-        "text": "The Indo-Tibetan Border Police (ITBP) reported continued border standoffs and identified drones and underground shelters as critical for future security.",
-        "link": "https://www.thehindu.com/news/national/face-off-with-china-continues-at-multiple-locations-along-arunachal-border-itbp-d-g/article71612994.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "b5eed629e009",
-     "title": "The grandmothers hitting patriarchy and weights",
-     "link": "https://www.thehindu.com/news/national/haryana/the-grandmothers-hitting-patriarchy-and-weights/article71608262.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-23T01:18:43+00:00",
-     "summary": "Elderly women in Delhi are challenging social stereotypes by showcasing strength and fitness on social media.",
-     "explain": "Patriarchy in this context refers to traditional social systems where power is primarily held by men and women are often expected to adhere to specific, restricted domestic roles. By engaging in unconventional activities like weightlifting and fitness, these women are disrupting those social expectations.",
-     "related": [],
-     "story": {
-      "id": "india-senior-citizens-and-social-media",
-      "title": "Senior Citizens and Social Media",
-      "so_far": "Social media has become a significant tool for cultural expression across demographics in India. Older generations are increasingly using these platforms to redefine their post-retirement roles and challenge traditional gender and age expectations.",
-      "timeline": [
-       {
-        "date": "2026-10-23",
-        "text": "A growing trend of grandmothers using social media to share fitness content is gaining attention as a form of social defiance against patriarchal norms.",
-        "link": "https://www.thehindu.com/news/national/haryana/the-grandmothers-hitting-patriarchy-and-weights/article71608262.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "c3ef94ef649a",
-     "title": "An ironclad resolve in the national interest",
-     "link": "https://www.thehindu.com/news/national/an-ironclad-resolve-in-the-national-interest/article71613326.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-23T01:13:36+00:00",
-     "summary": "A profile piece highlights Home Minister Amit Shah's political influence and focus on national security.",
-     "explain": "The Home Minister is a cabinet-level position responsible for internal security, border management, and law and order within India. It is considered one of the most powerful roles in the national government.",
-     "related": [],
-     "story": {
-      "id": "india-home-minister-political-profile",
-      "title": "Home Minister Political Profile",
-      "so_far": "Amit Shah has been a central political figure in India's current administration. His tenure as Home Minister has been marked by significant policy shifts, including the reorganization of Jammu and Kashmir and a focus on internal security infrastructure.",
-      "timeline": [
-       {
-        "date": "2026-10-23",
-        "text": "Commentary underscores the Home Minister's role as a central figure in shaping India's modern political and security landscape.",
-        "link": "https://www.thehindu.com/news/national/an-ironclad-resolve-in-the-national-interest/article71613326.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "1c7040b204e8",
-     "title": "DRDO Employee Dies After Neighbour Punches Him In Face Over \"Misbehaviour''",
-     "link": "https://www.ndtv.com/india-news/drdo-employee-dies-after-neighbour-punches-him-in-face-ocver-misbehaviour-12222914#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-10-23T00:39:32+00:00",
-     "summary": "A DRDO employee died in Hyderabad after an altercation with a neighbor over alleged misbehavior.",
-     "explain": "The DRDO (Defence Research and Development Organisation) is India's premier government agency responsible for military research. This incident involves a fatal assault between civilians, which is currently being treated as a criminal investigation by local police.",
+     "published": "2026-10-23T10:53:28+00:00",
+     "summary": "A woman was killed in Thoothukudi, Tamil Nadu, after confronting a man who had been attempting to contact her minor daughter. The suspect, identified as Gnanaprakash, has been arrested by local authorities.",
+     "explain": "This is a criminal case involving domestic harassment and violence. In India, laws protect minors from unwelcome advances, and cases involving the safety of women and children often result in swift police action and public condemnation.",
      "related": [],
      "story": {
       "id": "india-crime-and-investigation-reports",
       "title": "Crime and Investigation Reports",
       "so_far": "Public safety incidents involving celebrities in Mumbai frequently trigger immediate political attention and rapid deployment of elite police units due to the high profile of the victims and the risk to the city's reputation.",
       "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "Authorities arrested three suspects in Rajasthan's Kota, with one found to be working for the taxi-service app Rapido.",
-        "link": "https://www.ndtv.com/india-news/tiger-shroff-shooter-works-with-rapido-taxi-app-shares-his-work-status-12207440#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
        {
         "date": "2026-10-20",
         "text": "The murder case of anti-drug activist Parvinder Singh Jhota has been handed over to the CBI following a visit by the Union Home Minister.",
@@ -1253,6 +1063,238 @@
         "text": "A fatal physical altercation involving a DRDO employee and his neighbor has led to a police investigation in Hyderabad.",
         "link": "https://www.ndtv.com/india-news/drdo-employee-dies-after-neighbour-punches-him-in-face-ocver-misbehaviour-12222914#publisher=newsstand",
         "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-23",
+        "text": "A man was arrested in Thoothukudi for the murder of a woman who objected to his communication with her underage daughter.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/woman-hacked-to-death-in-thoothukudi-over-objection-to-mans-contact-with-her-minor-daughter/article71615111.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "ec83cc5cb598",
+     "title": "ICMR-funded GITAM project aims at blood test for early detection of triple-negative breast cancer",
+     "link": "https://www.thehindu.com/news/national/andhra-pradesh/icmr-funded-gitam-project-aims-at-blood-test-for-early-detection-of-triple-negative-breast-cancer/article71615054.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-23T10:52:08+00:00",
+     "summary": "The Indian Council of Medical Research (ICMR) is funding a research project at GITAM University to develop a blood test for the early detection of triple-negative breast cancer.",
+     "explain": "Triple-negative breast cancer is a subtype that does not have the three common receptors (estrogen, progesterone, and HER2) that are usually targeted by hormone therapies, making it generally more aggressive. Developing a blood test for early detection is significant because it could lead to earlier clinical intervention before the cancer spreads.",
+     "related": [],
+     "story": {
+      "id": "india-medical-research-and-health-innovation",
+      "title": "Medical Research and Health Innovation",
+      "so_far": "Breast cancer remains a major public health concern in India. Researchers are actively looking for non-invasive, early detection methods to improve survival rates, as standard screenings are not always accessible to the entire population.",
+      "timeline": [
+       {
+        "date": "2026-10-23",
+        "text": "A new ICMR-funded study is underway to create a diagnostic blood test for triple-negative breast cancer.",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/icmr-funded-gitam-project-aims-at-blood-test-for-early-detection-of-triple-negative-breast-cancer/article71615054.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "7540cd75d71f",
+     "title": "Panama pitches its maritime network to Tamil Nadu businesses",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/panama-pitches-its-maritime-network-to-tamil-nadu-businesses/article71615381.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-23T10:50:15+00:00",
+     "summary": "Panama is seeking to expand its maritime and logistics partnerships by presenting its network to businesses in Tamil Nadu.",
+     "explain": "Panama is globally significant for the Panama Canal, a critical waterway for international shipping. By pitching its network to Tamil Nadu, Panama is looking to facilitate better trade flows between Indian manufacturers and global markets.",
+     "related": [],
+     "story": {
+      "id": "india-international-trade-and-maritime-logisti",
+      "title": "International Trade and Maritime Logistics",
+      "so_far": "Tamil Nadu has a robust industrial and manufacturing base, particularly around its major ports. Expanding international trade ties is a priority for the state government to boost exports and attract foreign investment.",
+      "timeline": [
+       {
+        "date": "2026-10-23",
+        "text": "Panama has initiated outreach to Tamil Nadu's business sector to discuss potential maritime network cooperation.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/panama-pitches-its-maritime-network-to-tamil-nadu-businesses/article71615381.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "e552cec56684",
+     "title": "Supriya Sule alleges use of spy cams in the MLC polls in Maharashtra",
+     "link": "https://www.thehindu.com/news/national/maharashtra/supriya-sule-alleges-use-of-spy-cams-in-the-mlc-polls-in-maharashtra/article71615578.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-23T10:48:40+00:00",
+     "summary": "Supriya Sule has raised concerns over the alleged use of hidden cameras during Maharashtra's MLC (Member of Legislative Council) elections, urging the Election Commission to intervene.",
+     "explain": "An MLC is a member of the upper house of a state legislature in India. Because these elections involve secret ballots and are often highly competitive, concerns about surveillance or breaches of voter confidentiality are treated as serious threats to the democratic process.",
+     "related": [],
+     "story": {
+      "id": "india-maharashtra-mlc-election-integrity",
+      "title": "Maharashtra MLC Election Integrity",
+      "so_far": "The MLC election process in Maharashtra is a critical component of the state's legislative structure. Any allegation regarding voter privacy or election tampering typically triggers immediate scrutiny from both political rivals and constitutional bodies.",
+      "timeline": [
+       {
+        "date": "2026-10-23",
+        "text": "Politician Supriya Sule has formally alleged the use of spy cams during the state MLC elections and requested an inquiry.",
+        "link": "https://www.thehindu.com/news/national/maharashtra/supriya-sule-alleges-use-of-spy-cams-in-the-mlc-polls-in-maharashtra/article71615578.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "ad38e760610e",
+     "title": "Open to alliance with parties that agree with SAD's ideology: Sukhbir Singh Badal",
+     "link": "https://www.thehindu.com/news/national/punjab/open-to-alliance-with-parties-that-agree-with-sads-ideology-sukhbir-singh-badal/article71615486.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-23T10:48:02+00:00",
+     "summary": "Sukhbir Singh Badal of the Shiromani Akali Dal (SAD) stated that his party is open to alliances with other groups, provided they align with the party's core ideology and focus on Punjab's development.",
+     "explain": "Political parties in India often form coalitions to improve their chances of winning elections. Stating 'openness to alliance' is a standard way for a political leader to signal willingness to negotiate with potential partners while maintaining their party's public brand.",
+     "related": [],
+     "story": {
+      "id": "india-punjab-political-realignment",
+      "title": "Punjab Political Realignment",
+      "so_far": "The Shiromani Akali Dal is a long-standing political party in Punjab, historically known for its focus on regional and community issues. Political alliances in the state shift frequently as parties seek to consolidate voter bases before elections.",
+      "timeline": [
+       {
+        "date": "2026-10-23",
+        "text": "SAD leader Sukhbir Singh Badal expressed openness to future political alliances based on ideological alignment.",
+        "link": "https://www.thehindu.com/news/national/punjab/open-to-alliance-with-parties-that-agree-with-sads-ideology-sukhbir-singh-badal/article71615486.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "360cf8827c1c",
+     "title": "Protests against SIR LIVE: Police detain protesters during march to ECI HQ",
+     "link": "https://www.thehindu.com/news/national/samyukt-kisan-morcha-anti-cec-protest-gyanesh-kumar-live-updates-jantar-mantar-ramila-ground-delhi-october-23/article71615036.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-23T10:45:14+00:00",
+     "summary": "Protesters associated with the Samyukt Kisan Morcha and the 'People Against SIR' platform were detained by police while marching toward the Election Commission of India headquarters in Delhi.",
+     "explain": "The Samyukt Kisan Morcha is a coalition of farmers' unions that gained national prominence during the 2020-2021 protests. Detention of protesters occurs when authorities block access to restricted areas or cite public order concerns during demonstrations.",
+     "related": [],
+     "story": {
+      "id": "india-political-tensions-and-youth-unrest",
+      "title": "Political Tensions and Youth Unrest",
+      "so_far": "The split in the Shiv Sena has led to a highly polarized political environment in Maharashtra. Competing factions often hold public rallies during major festivals like Dussehra to demonstrate popular support and define their political narratives for the public.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "The Shiv Sena (UBT) and Shinde-led faction held separate rallies, each pivoting to key populist issues ahead of upcoming political cycles.",
+        "link": "https://www.thehindu.com/news/national/maharashtra/rising-crimes-and-farmers-plight-dominate-conversations-at-60th-shiv-sena-ubt-dussera-rally/article71605414.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-21",
+        "text": "Uddhav Thackeray has publicly aligned with youth groups protesting voter roll inaccuracies in Maharashtra.",
+        "link": "https://www.thehindu.com/news/national/maharashtra/at-dussehra-rally-uddhav-bats-for-regime-change-promises-acche-din-after-ousting-bjp/article71605421.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-21",
+        "text": "Political parties are trading accusations over the motivation behind calls for the release of protest leaders.",
+        "link": "https://www.thehindu.com/news/national/odisha/bjd-slams-bjp-for-personal-attack-on-naveen-over-his-demand-for-cjp-leaders-release/article71608506.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "Artistic expressions related to Delhi youth protests were censored from a public exhibition space.",
+        "link": "https://www.thehindu.com/news/national/controversy-erupts-after-protest-photographs-by-priyanka-gandhis-son-allegedly-get-removed-from-bikaner-house-exhibition/article71608800.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "Key figures involved in the October 14 Jantar Mantar protest have been released from custody.",
+        "link": "https://www.thehindu.com/news/cities/Delhi/dipke-hails-cjp-leaders-saurav-das-and-ashutosh-ranka-as-much-much-bigger-leaders/article71609856.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-23",
+        "text": "Protesters were detained by Delhi police during a march to the Election Commission headquarters, signaling continued unrest.",
+        "link": "https://www.thehindu.com/news/national/samyukt-kisan-morcha-anti-cec-protest-gyanesh-kumar-live-updates-jantar-mantar-ramila-ground-delhi-october-23/article71615036.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "0607d09fad18",
+     "title": "Tamil Nadu government releases list of public holidays for 2027",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-releases-list-of-public-holidays-for-2027/article71611311.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-23T10:43:27+00:00",
+     "summary": "The Tamil Nadu government has officially announced its list of public holidays for the 2027 calendar year.",
+     "explain": "Public holiday lists are essential for banking, government operations, and school calendars. They are regulated by state labor departments to ensure consistency in business and academic activity.",
+     "related": [],
+     "story": {
+      "id": "india-tamil-nadu-2027-holiday-schedule",
+      "title": "Tamil Nadu 2027 Holiday Schedule",
+      "so_far": "State governments in India annually publish a list of public holidays, which includes national observances, state-specific festivals, and regional cultural celebrations, to help offices and educational institutions plan their schedules.",
+      "timeline": [
+       {
+        "date": "2026-10-23",
+        "text": "The Tamil Nadu government released the finalized list of public holidays for 2027.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-releases-list-of-public-holidays-for-2027/article71611311.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "a42f478714ae",
+     "title": "Government spent nearly ₹500 crore on Vizianagaram’s development, says MLA Aditi Vijaya Lakshmi",
+     "link": "https://www.thehindu.com/news/national/andhra-pradesh/government-spent-nearly-500-crore-on-vizianagarams-development-says-mla-aditi-vijaya-lakshmi/article71615249.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-23T10:42:04+00:00",
+     "summary": "Local politician Aditi Vijaya Lakshmi reported that the government has invested nearly ₹500 crore in the development of Vizianagaram, while mayoral candidates are actively engaging with local trade bodies for the upcoming elections.",
+     "explain": "This relates to municipal governance and electioneering. In India, development spending is a primary campaign focus used by candidates to prove their effectiveness in office to local voters and business owners.",
+     "related": [],
+     "story": {
+      "id": "india-vizianagaram-local-administrative-update",
+      "title": "Vizianagaram Local Administrative Updates",
+      "so_far": "The Sirimanotsavam is a significant cultural and religious festival in the Vizianagaram district of Andhra Pradesh, drawing large crowds that often disrupt standard administrative and election-related activities.",
+      "timeline": [
+       {
+        "date": "2026-10-21",
+        "text": "The State Election Commission shifted the mayoral poll date to October 29 to accommodate the local Sirimanotsavam festival.",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/vizianagaram-mayor-poll-moved-to-october-29-over-sirimanotsavam-counting-stays-on-october-30/article71606033.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-23",
+        "text": "A report on recent infrastructure spending in Vizianagaram was released as election campaigning intensifies.",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/government-spent-nearly-500-crore-on-vizianagarams-development-says-mla-aditi-vijaya-lakshmi/article71615249.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "6f6c563925dd",
+     "title": "Congress, allies aim to create “anarchy” through November 1 Delhi protest: BJP",
+     "link": "https://www.thehindu.com/news/national/congress-allies-aim-to-create-anarchy-through-november-1-delhi-protest-bjp/article71615493.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-23T10:40:16+00:00",
+     "summary": "The BJP has criticized the Congress party and its allies for planning a protest in Delhi on November 1, claiming the date choice is an attempt to create instability and invoke historical tensions from the 1984 anti-Sikh riots.",
+     "explain": "The 1984 anti-Sikh riots are a highly sensitive and painful chapter in Indian history. By linking the protest date to these riots, the BJP is attempting to frame the opposition's actions as disrespectful or politically divisive to gain an advantage in the public narrative.",
+     "related": [],
+     "story": {
+      "id": "india-india-bloc-political-strategy",
+      "title": "INDIA Bloc Political Strategy",
+      "so_far": "The INDIA bloc frequently organizes protests to pressure the government on various policy and governance issues. These events are often met with strong political pushback from the ruling BJP, which frequently questions the timing and intent of the opposition's actions.",
+      "timeline": [
+       {
+        "date": "2026-10-22",
+        "text": "Opposition leaders have delayed their meeting to coordinate protests regarding alleged election irregularities.",
+        "link": "https://www.thehindu.com/news/national/india-bloc-leaders-virtual-meeting-to-discuss-roadmap-for-vote-chori-protests-deferred/article71610745.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-23",
+        "text": "The BJP has accused opposition parties of orchestrating 'anarchy' by choosing November 1 for a protest in Delhi.",
+        "link": "https://www.thehindu.com/news/national/congress-allies-aim-to-create-anarchy-through-november-1-delhi-protest-bjp/article71615493.ece",
+        "source": "India Latest News: Top National Headline"
        }
       ]
      }
@@ -1263,118 +1305,76 @@
    "label": "World",
    "articles": [
     {
-     "id": "e12283d750ef",
-     "title": "Indian killed as Houthis attack Saudi Arabia’s Dammam airport",
-     "link": "https://www.thehindu.com/news/national/indian-national-killed-in-saudi-dammam-airport-attack-others-injured/article71610871.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-10-23T01:24:16+00:00",
-     "summary": "An Indian national was killed during a Houthi attack on a Saudi Arabian airport.",
-     "explain": "The Houthis (Ansar Allah) are a political and militant group involved in the ongoing conflict in Yemen. Attacks on international airports or infrastructure in neighboring countries like Saudi Arabia pose recurring risks to the millions of foreign workers living in the region.",
-     "related": [
-      {
-       "date": "2026-10-22",
-       "title": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
-       "link": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
-       "source": "Al Jazeera – Breaking News, World News a"
-      }
-     ],
-     "story": {
-      "id": "india-safety-of-indians-abroad",
-      "title": "Safety of Indians Abroad",
-      "so_far": "Large numbers of Indian citizens live and work in the Middle East. The Indian government frequently coordinates with local authorities in these countries to ensure the safety of its citizens during geopolitical conflicts or localized violence.",
-      "timeline": [
-       {
-        "date": "2026-10-23",
-        "text": "A civilian casualty occurred at Dammam airport following a Houthi attack, prompting concerns over the safety of the Indian diaspora in the region.",
-        "link": "https://www.thehindu.com/news/national/indian-national-killed-in-saudi-dammam-airport-attack-others-injured/article71610871.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "11fec2504632",
-     "title": "Thousands protest across Poland for access to free and legal abortions",
-     "link": "https://www.aljazeera.com/news/2026/10/23/thousands-protest-across-poland-for-access-to-free-and-legal-abortions?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-23T00:54:51+00:00",
-     "summary": "Thousands of protesters gathered across Poland to demand access to legal abortions on the sixth anniversary of a restrictive court ruling.",
-     "explain": "Poland has some of the most restrictive abortion laws in Europe following a 2020 court decision that outlawed the procedure even in cases of fetal defects. Protesters are calling for the government to legalize abortion, arguing it is a fundamental human right. The situation remains a major cultural and political flashpoint in the country.",
-     "related": [],
-     "story": {
-      "id": "world-poland-abortion-law-protests",
-      "title": "Poland Abortion Law Protests",
-      "so_far": "In 2020, Poland's Constitutional Tribunal effectively banned almost all abortions, leading to the strictest reproductive laws in the European Union. The ruling sparked massive, long-term public outcry. Successive governments have faced pressure to either uphold the conservative status quo or move toward liberalizing access, with activists frequently clashing with religious and political traditionalists.",
-      "timeline": [
-       {
-        "date": "2026-10-22",
-        "text": "Reproductive rights advocates are criticizing government draft legislation as insufficient and performative a year before parliamentary elections.",
-        "link": "https://www.thehindu.com/news/international/women-are-protesting-around-poland-for-free-access-to-legal-abortions/article71613261.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-10-23",
-        "text": "The six-year anniversary of the near-total abortion ban triggered renewed, widespread demonstrations across the country.",
-        "link": "https://www.aljazeera.com/news/2026/10/23/thousands-protest-across-poland-for-access-to-free-and-legal-abortions?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
-    },
-    {
-     "id": "e71400a30b5f",
-     "title": "Women are protesting around Poland for free access to legal abortions",
-     "link": "https://www.thehindu.com/news/international/women-are-protesting-around-poland-for-free-access-to-legal-abortions/article71613261.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-10-22T18:37:49+00:00",
-     "summary": "Activists dismiss current draft laws regarding abortion in Poland as mere token gestures ahead of upcoming elections.",
-     "explain": "When lawmakers introduce 'token gestures' in the lead-up to an election, it means they are proposing minor or symbolic changes to satisfy voters without actually addressing the core issue. Activists are concerned that the government is trying to avoid a real debate on abortion rights while trying to appear responsive to public pressure.",
-     "related": [],
-     "story": {
-      "id": "world-poland-abortion-law-protests",
-      "title": "Poland Abortion Law Protests",
-      "so_far": "In 2020, Poland's Constitutional Tribunal effectively banned almost all abortions, leading to the strictest reproductive laws in the European Union. The ruling sparked massive, long-term public outcry. Successive governments have faced pressure to either uphold the conservative status quo or move toward liberalizing access, with activists frequently clashing with religious and political traditionalists.",
-      "timeline": [
-       {
-        "date": "2026-10-22",
-        "text": "Reproductive rights advocates are criticizing government draft legislation as insufficient and performative a year before parliamentary elections.",
-        "link": "https://www.thehindu.com/news/international/women-are-protesting-around-poland-for-free-access-to-legal-abortions/article71613261.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-10-23",
-        "text": "The six-year anniversary of the near-total abortion ban triggered renewed, widespread demonstrations across the country.",
-        "link": "https://www.aljazeera.com/news/2026/10/23/thousands-protest-across-poland-for-access-to-free-and-legal-abortions?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
-    },
-    {
-     "id": "daa8187433c6",
-     "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
-     "link": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
+     "id": "d8392edbd500",
+     "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+     "link": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-10-22T17:49:13+00:00",
-     "summary": "Russia launched waves of missile strikes against Ukraine shortly after signaling a willingness to resume peace negotiations.",
-     "explain": "The conflict between Russia and Ukraine has been marked by frequent escalations despite intermittent diplomatic signaling. When a country says it is 'ready in principle' for talks but continues military action, it often indicates a strategic effort to gain leverage on the battlefield before entering potential negotiations.",
+     "published": "2026-10-23T08:45:58+00:00",
+     "summary": "Typhoon Champi has forced the cancellation of hundreds of flights in Taiwan, and one person has died after being swept away by waves.",
+     "explain": "A typhoon is essentially the same weather phenomenon as a hurricane, but it occurs in the Northwest Pacific Ocean. These storms can pack extremely high winds and dump massive amounts of rain, leading to flooding and dangerous sea conditions. In this case, the storm caused travel chaos and a tragic death on Liuqiu island.",
+     "related": [],
+     "story": {
+      "id": "world-typhoon-champi-hits-taiwan",
+      "title": "Typhoon Champi hits Taiwan",
+      "so_far": "Typhoons are powerful tropical cyclones that frequently impact East Asia during the late summer and autumn months. Taiwan, due to its geography, is particularly vulnerable to these storms, which often cause heavy rainfall, wind damage, and significant disruptions to transport and infrastructure.",
+      "timeline": [
+       {
+        "date": "2026-10-23",
+        "text": "The storm has caused widespread travel disruption and one confirmed fatality.",
+        "link": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "deab3335dba9",
+     "title": "Malawi opposition demands answers over president's prolonged stay abroad",
+     "link": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-10-23T10:36:01+00:00",
+     "summary": "Opposition leaders in Malawi are questioning President Peter Mutharika's frequent and prolonged absences from the country.",
+     "explain": "The opposition is demanding to know why the president is spending so much time outside of the country. This matters because it raises concerns about leadership continuity and whether the government is effectively managing domestic affairs during the president's absence.",
+     "related": [],
+     "story": {
+      "id": "world-malawi-president-s-travel-controversy",
+      "title": "Malawi President's Travel Controversy",
+      "so_far": "Peter Mutharika has been a central figure in Malawian politics for years, but his frequent medical or personal trips abroad have often led to criticism regarding his availability to govern. Transparency and executive accountability are key points of contention in the nation's political landscape.",
+      "timeline": [
+       {
+        "date": "2026-10-23",
+        "text": "President Mutharika has now visited South Africa five times this year, sparking demands for transparency from political rivals.",
+        "link": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "26d4ca325397",
+     "title": "Talks between Russia, Ukraine and U.S. ‘planned’ to resume in November in Abu Dhabi",
+     "link": "https://www.thehindu.com/news/international/talks-between-russia-ukraine-and-us-planned-to-resume-in-november-in-abu-dhabi/article71615588.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-10-23T10:35:21+00:00",
+     "summary": "Russia, Ukraine, and the U.S. are reportedly planning to resume diplomatic talks in Abu Dhabi this November.",
+     "explain": "Diplomatic talks refer to formal discussions between warring or opposing nations aimed at reaching a ceasefire or resolving the conflict. These negotiations are highly complex because they require balancing the security demands of Ukraine with the strategic interests of Russia and its global partners.",
      "related": [
-      {
-       "date": "2026-10-20",
-       "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
-       "link": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss",
-       "source": "Al Jazeera – Breaking News, World News a"
-      },
-      {
-       "date": "2026-10-21",
-       "title": "Putin agrees to resume three-way peace talks with Ukraine and U.S.",
-       "link": "https://www.thehindu.com/news/international/putin-xi-trump-summit-being-prepared-kremlin/article71608186.ece",
-       "source": "World News: Latest International News & "
-      },
       {
        "date": "2026-10-21",
        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
        "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC News"
+      },
+      {
+       "date": "2026-10-22",
+       "title": "Russia and Ukraine trade attacks despite pledging to resume peace talks",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-and-ukraine-trade-attacks-despite-pledging-to-resume-peace-talks?traffic_source=rss",
+       "source": "Al Jazeera – Breaking News, World News a"
+      },
+      {
+       "date": "2026-10-22",
+       "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
+       "link": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
        "source": "BBC News"
       }
      ],
@@ -1412,186 +1412,191 @@
         "text": "Despite claiming to be 'in principle' ready for peace talks, Russia conducted major missile strikes on Ukraine.",
         "link": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "b0ecf8f97325",
-     "title": "First human case of Shamonda virus detected in France, officials say",
-     "link": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-10-22T13:53:32+00:00",
-     "summary": "French health officials identified the first human case of the Shamonda virus in a patient who recently passed away.",
-     "explain": "A virus 'jumping the species barrier' or undergoing 'zoonotic spillover' means it has moved from infecting animals to infecting humans. This is a significant concern for public health agencies because human immune systems may have no prior exposure or protection against these pathogens. The virus typically affects cattle, causing symptoms like fever and reduced milk production.",
-     "related": [],
-     "story": {
-      "id": "world-first-human-shamonda-virus-case",
-      "title": "First Human Shamonda Virus Case",
-      "so_far": "The Shamonda virus is a pathogen that has been documented for decades primarily as an animal disease, particularly in cattle across parts of Africa and Asia. It is part of the Simbu serogroup of viruses, typically transmitted by biting midges. Until this incident in France, it had not been known to jump the species barrier to infect humans.",
-      "timeline": [
-       {
-        "date": "2026-10-22",
-        "text": "France has confirmed the first-ever human infection of the Shamonda virus, which was previously only known to affect livestock.",
-        "link": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
        },
        {
-        "date": "2026-10-22",
-        "text": "Health authorities have officially stated there is no broader health risk to the public following the rare detection of the virus in a human.",
-        "link": "https://www.thehindu.com/news/international/france-reports-first-human-shamonda-virus-case-says-no-health-risk/article71611244.ece",
+        "date": "2026-10-23",
+        "text": "Following a meeting in Saint Petersburg between Vladimir Putin and Steve Witkoff, Russia has indicated it is ready to return to the negotiating table next month.",
+        "link": "https://www.thehindu.com/news/international/talks-between-russia-ukraine-and-us-planned-to-resume-in-november-in-abu-dhabi/article71615588.ece",
         "source": "World News: Latest International News & "
        }
       ]
      }
     },
     {
-     "id": "1929eae1bd26",
-     "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
-     "link": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+     "id": "cc02f34912d4",
+     "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+     "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-10-22T13:46:33+00:00",
-     "summary": "Two people were killed in a Houthi attack targeting an airport in eastern Saudi Arabia.",
-     "explain": "The Houthi movement is a rebel group based in Yemen that is involved in a long-standing war against the internationally recognized Yemeni government and its allies, including Saudi Arabia. These groups often use drones and missiles to target infrastructure within Saudi Arabia as part of the broader regional proxy conflict between Iran and the Saudi-led coalition.",
+     "published": "2026-10-23T10:26:06+00:00",
+     "summary": "A shooting in the West Bank left five Israelis wounded and two Palestinian attackers dead just days before Israel's national election.",
+     "explain": "This incident involved a targeted attack followed by a lethal confrontation between attackers and security forces. Such violence is a constant risk in the West Bank, where political animosity and security operations are part of daily life. It is especially significant now because it may influence voter sentiment in the fast-approaching Israeli election.",
      "related": [],
      "story": {
-      "id": "world-attack-on-king-fahd-airport",
-      "title": "Attack on King Fahd Airport",
-      "so_far": "This is a breaking news event concerning a violent incident at a major Saudi Arabian infrastructure site. Security authorities are currently investigating the circumstances of the attack, and further official updates from the aviation authority are pending.",
-      "timeline": [
-       {
-        "date": "2026-10-22",
-        "text": "A security incident at King Fahd Airport in Saudi Arabia has left one person dead and eight injured.",
-        "link": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "A new Houthi attack on a Saudi airport resulted in two fatalities, highlighting ongoing regional security threats.",
-        "link": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "a300c06fec9f",
-     "title": "France reports first human Shamonda virus case, says no health risk",
-     "link": "https://www.thehindu.com/news/international/france-reports-first-human-shamonda-virus-case-says-no-health-risk/article71611244.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-10-22T11:51:49+00:00",
-     "summary": "French ministries stated that the recently detected human case of Shamonda virus does not pose a general health risk to the public.",
-     "explain": "When authorities state there is 'no health risk' after a rare medical event, they typically mean that the virus is not easily transmitted between humans or that the case appears isolated. This assessment is used to prevent public panic while scientists continue to monitor the situation to ensure the virus does not begin to spread.",
-     "related": [],
-     "story": {
-      "id": "world-first-human-shamonda-virus-case",
-      "title": "First Human Shamonda Virus Case",
-      "so_far": "The Shamonda virus is a pathogen that has been documented for decades primarily as an animal disease, particularly in cattle across parts of Africa and Asia. It is part of the Simbu serogroup of viruses, typically transmitted by biting midges. Until this incident in France, it had not been known to jump the species barrier to infect humans.",
-      "timeline": [
-       {
-        "date": "2026-10-22",
-        "text": "France has confirmed the first-ever human infection of the Shamonda virus, which was previously only known to affect livestock.",
-        "link": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Health authorities have officially stated there is no broader health risk to the public following the rare detection of the virus in a human.",
-        "link": "https://www.thehindu.com/news/international/france-reports-first-human-shamonda-virus-case-says-no-health-risk/article71611244.ece",
-        "source": "World News: Latest International News & "
-       }
-      ]
-     }
-    },
-    {
-     "id": "9aa1d0d8a115",
-     "title": "Putin agrees to resume three-way peace talks with Ukraine and U.S.",
-     "link": "https://www.thehindu.com/news/international/putin-xi-trump-summit-being-prepared-kremlin/article71608186.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-10-21T17:58:10+00:00",
-     "summary": "Russian President Vladimir Putin has agreed to participate in three-way peace talks with Ukraine and the United States, keeping with President Trump's campaign pledge.",
-     "explain": "These negotiations represent a significant escalation in diplomatic efforts to resolve the conflict. A three-way format implies the United States is taking a more direct role as a mediator or participant, rather than just an arms supplier, in an effort to expedite the end of the conflict.",
-     "related": [],
-     "story": {
-      "id": "world-diplomatic-talks-on-ukraine",
-      "title": "Diplomatic Talks on Ukraine",
-      "so_far": "The war in Ukraine has been ongoing since the 2022 Russian invasion, causing significant destruction and displacing millions. International actors, including the U.S., have been deeply involved in supporting Ukraine through military and financial aid, while periodically attempting to facilitate negotiations to end the conflict.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "Upcoming discussions in Oslo include leaders from Norway and Finland to coordinate support and strategy for the war.",
-        "link": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-10-21",
-        "text": "Russia has agreed in principle to resume peace talks, yet continued its missile offensive against Kyiv simultaneously.",
-        "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-10-21",
-        "text": "Putin has formally agreed to a three-way negotiation process involving the U.S. and Ukraine.",
-        "link": "https://www.thehindu.com/news/international/putin-xi-trump-summit-being-prepared-kremlin/article71608186.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Both nations exchanged drone and missile strikes, injuring civilians in both Kyiv and Moscow, even as they speak about returning to peace talks.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-and-ukraine-trade-attacks-despite-pledging-to-resume-peace-talks?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Despite claiming to be 'in principle' ready for peace talks, Russia conducted major missile strikes on Ukraine.",
-        "link": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "4918cfecd2df",
-     "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-     "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-10-23T01:38:44+00:00",
-     "summary": "A court has ordered Donald Trump to testify under oath as part of his ongoing lawsuit against the BBC.",
-     "explain": "Answering questions 'under oath' means a witness is legally required to tell the truth, and any lies told during this process can lead to perjury charges. This is a standard part of 'discovery' in civil lawsuits, where both sides gather evidence before a potential trial.",
-     "related": [],
-     "story": {
-      "id": "world-trump-bbc-lawsuit-testimony",
-      "title": "Trump BBC Lawsuit Testimony",
-      "so_far": "Donald Trump initiated a lawsuit against the BBC, alleging that an episode of the investigative program 'Panorama' defamed him by selectively editing portions of a speech he delivered in 2021. The legal battle centers on claims of journalistic malpractice and whether the editing altered the meaning of his statements.",
+      "id": "world-west-bank-shooting-incident",
+      "title": "West Bank Shooting Incident",
+      "so_far": "The West Bank is a territory at the heart of the Israeli-Palestinian conflict, characterized by long-standing disputes over land, security, and sovereignty. The region often experiences spikes in violence, particularly during politically sensitive periods such as national elections.",
       "timeline": [
        {
         "date": "2026-10-23",
-        "text": "A judge has granted a motion requiring Donald Trump to answer questions under oath regarding his legal action against the British broadcaster.",
-        "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+        "text": "The attack has further heightened tensions in the region ahead of the upcoming Israeli general election.",
+        "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
        }
       ]
      }
     },
     {
-     "id": "d842cc60930e",
-     "title": "Tibet earthquake LIVE | At least sixteen dead, 32 injured after 7.0 quake strikes Tibet: China's state media",
-     "link": "https://www.thehindu.com/news/international/70-magnitude-earthquake-hit-chinas-tibet-region-killing-many/article71613335.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-10-23T01:17:00+00:00",
-     "summary": "At least 16 people are dead after a 7.0 magnitude earthquake struck the Nagqu region in Tibet.",
-     "explain": "A 7.0 magnitude earthquake is considered a 'major' earthquake capable of causing significant damage to buildings and infrastructure. The 'magnitude' measures the energy released by the earthquake on a logarithmic scale, meaning a 7.0 is ten times more intense than a 6.0. Rescue efforts are ongoing to reach those trapped in the hundreds of collapsed homes.",
+     "id": "60f374dc646a",
+     "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
+     "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-10-23T10:23:07+00:00",
+     "summary": "A BBC investigation has found that Sudan's Rapid Support Forces (RSF) are deliberately targeting hospitals, a potential war crime.",
+     "explain": "The RSF is one of the primary paramilitary groups fighting in the Sudanese conflict. Targeting hospitals is a violation of international humanitarian law, which protects medical facilities during armed conflict. The UN's involvement signifies that these actions are being documented as severe international legal violations.",
      "related": [],
      "story": {
-      "id": "world-tibet-earthquake-disaster",
-      "title": "Tibet Earthquake Disaster",
-      "so_far": "The Tibetan Plateau is a seismically active region prone to powerful earthquakes due to the ongoing tectonic collision between the Indian and Eurasian plates. Remote and high-altitude geography often complicates rescue operations when natural disasters strike, as access to villages is difficult and extreme weather can hamper recovery efforts.",
+      "id": "world-targeting-of-hospitals-in-sudan",
+      "title": "Targeting of Hospitals in Sudan",
+      "so_far": "Sudan has been engulfed in a brutal power struggle between the Sudanese Armed Forces and the RSF, causing a massive humanitarian disaster. Aid organizations have repeatedly warned that the civilian population is bearing the brunt of the violence, which has included attacks on schools, homes, and medical centers.",
       "timeline": [
        {
         "date": "2026-10-23",
-        "text": "A powerful 7.0 magnitude earthquake in Tibet has caused at least 16 deaths and significant infrastructure damage.",
-        "link": "https://www.thehindu.com/news/international/70-magnitude-earthquake-hit-chinas-tibet-region-killing-many/article71613335.ece",
+        "text": "The UN human rights chief has stated that these targeted attacks on medical facilities likely constitute war crimes.",
+        "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "5e9cc3556923",
+     "title": "South Korea invites North for military talks over border",
+     "link": "https://www.aljazeera.com/news/2026/10/23/south-korea-invites-north-for-military-talks-over-border?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-10-23T10:20:31+00:00",
+     "summary": "South Korea has proposed military talks with North Korea following reports that Pyongyang has moved units into firing positions along the border.",
+     "explain": "Military talks are diplomatic efforts to reduce the chance of accidental conflict between armed forces. North Korea moving units to 'firing positions' is an aggressive posturing tactic meant to display readiness for a strike, forcing South Korea to choose between showing strength or pursuing a diplomatic path to prevent an accidental war.",
+     "related": [],
+     "story": {
+      "id": "world-north-south-korea-border-tensions",
+      "title": "North-South Korea Border Tensions",
+      "so_far": "The Korean Peninsula remains technically in a state of war since the 1950-53 conflict ended in an armistice rather than a formal peace treaty. The border between the two countries, known as the Demilitarized Zone (DMZ), is one of the most heavily armed regions on Earth.",
+      "timeline": [
+       {
+        "date": "2026-10-23",
+        "text": "Seoul is seeking dialogue to de-escalate the situation after North Korea shifted military assets to confrontational border positions.",
+        "link": "https://www.aljazeera.com/news/2026/10/23/south-korea-invites-north-for-military-talks-over-border?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b37c3de60770",
+     "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
+     "link": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-10-23T10:14:37+00:00",
+     "summary": "Police in Cyprus are investigating the financial affairs of Roman Abramovich following concerns about his professional advisors.",
+     "explain": "Authorities in Cyprus are looking into whether Abramovich's financial dealings or his choice of advisors violated local laws or sanctions. This investigation highlights how international regulatory bodies are digging deeper into the complex financial networks of sanctioned individuals to ensure compliance with global economic restrictions.",
+     "related": [],
+     "story": {
+      "id": "world-abramovich-financial-investigation",
+      "title": "Abramovich Financial Investigation",
+      "so_far": "Roman Abramovich is a prominent Russian businessman who faced significant international scrutiny and sanctions following the 2022 invasion of Ukraine. His global financial footprint has been a subject of investigation by various European authorities as they attempt to track or freeze assets connected to Russian elites.",
+      "timeline": [
+       {
+        "date": "2026-10-23",
+        "text": "Cypriot authorities have officially opened an inquiry into the Russian billionaire's financial activities.",
+        "link": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "ae4bb0634165",
+     "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
+     "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-10-23T10:14:33+00:00",
+     "summary": "A Swiss diplomat's wife has been confirmed as an Ebola patient in Nigeria.",
+     "explain": "Ebola is a severe, often fatal viral illness that spreads through direct contact with infected bodily fluids. When cases appear in expatriates or diplomats, it often triggers intensive international monitoring and underscores the difficulty of containing the virus during an outbreak, as the patient is currently in Nigeria.",
+     "related": [],
+     "story": {
+      "id": "world-ebola-outbreak-in-africa",
+      "title": "Ebola Outbreak in Africa",
+      "so_far": "Kenya is experiencing an outbreak of Ebola, prompting a balance between government attempts to reassure the public and international alarm. The disease's high mortality rate often leads to travel restrictions and significant economic strain in affected regions.",
+      "timeline": [
+       {
+        "date": "2026-10-21",
+        "text": "Nigeria has identified the specific strain of Ebola affecting its population, following confirmation of the country's first case.",
+        "link": "https://www.thehindu.com/news/international/nigeria-confirms-its-first-ebola-case-is-bundibugyo-strain/article71607018.ece",
         "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-10-21",
+        "text": "The U.S. has issued travel warnings for Kenya amid concerns over the government's ability to contain a nine-case outbreak.",
+        "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-10-21",
+        "text": "The Ebola virus has spread from the DR Congo to West Africa, with Nigeria confirming its first case of the Bundibugyo strain.",
+        "link": "https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-23",
+        "text": "The case involves the wife of a Swiss diplomat, with her husband currently under isolation as a precautionary measure.",
+        "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "f27b217f02f8",
+     "title": "All 14 Indians in yacht incident off Yemen coast reported safe: Embassy",
+     "link": "https://www.thehindu.com/news/national/indian-embassy-seeks-facts-on-october-yacht-incident-off-yemen/article71614503.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-10-23T10:10:01+00:00",
+     "summary": "Fourteen Indian nationals aboard a yacht near the Yemeni coast are reported safe following reports of an incident in the Red Sea. Claims by a Houthi spokesperson suggested the vessel was targeted by Saudi forces, but official reports confirm the safety of the crew.",
+     "explain": "The incident involved a yacht near Yemen, a country currently experiencing significant geopolitical instability and conflict. Tensions in the Red Sea often involve various regional military powers and militant groups, making it a dangerous zone for civilian and commercial maritime traffic.",
+     "related": [],
+     "story": {
+      "id": "india-indian-yacht-incident-near-yemen",
+      "title": "Indian Yacht Incident Near Yemen",
+      "so_far": "The Red Sea remains a volatile maritime corridor due to ongoing regional conflicts and the presence of various armed factions. Indian diplomatic missions frequently monitor the safety of Indian citizens working on commercial and private vessels in these high-risk areas.",
+      "timeline": [
+       {
+        "date": "2026-10-23",
+        "text": "The Indian embassy has confirmed that all 14 Indian crew members are safe after an alleged attack near the Yemeni coast.",
+        "link": "https://www.thehindu.com/news/national/indian-embassy-seeks-facts-on-october-yacht-incident-off-yemen/article71614503.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "d9f2567ad8a1",
+     "title": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
+     "link": "https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-10-23T09:56:28+00:00",
+     "summary": "New electronics are reaching Iranian consumers, but high government fees and international sanctions are making them prohibitively expensive.",
+     "explain": "Sanctions are essentially economic penalties imposed by one country against another to change their behavior. In Iran, these penalties make it very difficult for businesses to import goods, which leads to shortages and high prices. Even when goods like smartphones manage to enter the country, the added costs make them luxury items that are unaffordable for many.",
+     "related": [],
+     "story": {
+      "id": "world-economic-impact-of-sanctions-in-iran",
+      "title": "Economic Impact of Sanctions in Iran",
+      "so_far": "Iran has been subject to decades of U.S. and international sanctions intended to limit its nuclear ambitions and regional influence. These sanctions have crippled the Iranian economy, leading to inflation, currency devaluation, and restricted access to global consumer goods.",
+      "timeline": [
+       {
+        "date": "2026-10-23",
+        "text": "Despite the availability of modern smartphones, the combined effect of trade restrictions and local taxes has caused prices to skyrocket.",
+        "link": "https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
        }
       ]
      }
@@ -1602,71 +1607,117 @@
    "label": "Business & Finance",
    "articles": [
     {
-     "id": "94896c90dcdc",
-     "title": "Strong 7.0-magnitude earthquake hits Tibet’s Baqen County in China",
-     "link": "https://www.thehindubusinessline.com/news/world/strong-70-magnitude-earthquake-hits-tibets-baqen-county-in-china/article71613075.ece",
+     "id": "b981c5f9a759",
+     "title": "Data leak incident: SBI says customer balances completely safe",
+     "link": "https://www.thehindubusinessline.com/money-and-banking/data-leak-incident-sbi-says-customer-balances-completely-safe/article71615271.ece",
      "source": "Business News Today: Latest Business New",
-     "published": "2026-10-22T17:07:21+00:00",
-     "summary": "A 7.0-magnitude earthquake occurred in Baqen County, Tibet, late on October 22, 2026.",
-     "explain": "An earthquake is a sudden shaking of the Earth's surface caused by the movement of tectonic plates. A 7.0 magnitude is considered a major earthquake capable of causing significant damage to infrastructure and potential loss of life, depending on the population density of the affected area.",
+     "published": "2026-10-23T10:53:27+00:00",
+     "summary": "State Bank of India (SBI) reports that customer account balances remain secure following a reported data leak incident.",
+     "explain": "A data leak occurs when sensitive private information is exposed to unauthorized parties. SBI is reassuring its customers that despite the potential exposure of data, their actual bank account balances and funds have not been compromised. This is a common precautionary step taken by financial institutions to maintain public trust after a security vulnerability is identified.",
      "related": [],
      "story": {
-      "id": "business-7-0-magnitude-earthquake-in-tibet",
-      "title": "7.0-Magnitude Earthquake in Tibet",
-      "so_far": "On October 22, 2026, a 7.0-magnitude earthquake hit Baqen County, Tibet, in China. Local authorities are assessing the damage caused by the tremor, which was recorded at 32.40 degrees north latitude and 93.79 degrees east longitude.",
+      "id": "business-sbi-customer-data-leak-concerns",
+      "title": "SBI Customer Data Leak Concerns",
+      "so_far": "Following reports of a potential data breach involving SBI customers, the bank initiated an internal audit. The bank is currently implementing remedial measures to secure its systems against potential unauthorized access.",
       "timeline": [
        {
-        "date": "2026-10-22",
-        "text": "A major earthquake struck Tibet's Baqen County late at night on October 22, 2026.",
-        "link": "https://www.thehindubusinessline.com/news/world/strong-70-magnitude-earthquake-hits-tibets-baqen-county-in-china/article71613075.ece",
+        "date": "2026-10-23",
+        "text": "SBI has confirmed that customer funds are safe while a security assessment is conducted.",
+        "link": "https://www.thehindubusinessline.com/money-and-banking/data-leak-incident-sbi-says-customer-balances-completely-safe/article71615271.ece",
         "source": "Business News Today: Latest Business New"
        },
        {
-        "date": "2026-10-22",
-        "text": "Multiple reports confirm a 7.0-magnitude earthquake event in the region.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/7-0-magnitude-earthquake-hits-tibet/articleshow/135122509.cms",
+        "date": "2026-10-23",
+        "text": "News outlets are actively investigating the extent of the SBI data breach and its implications for individual accounts.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-data-leak-scare-bank-contacts-affected-customers-is-your-money-safe/articleshow/135139356.cms",
         "source": "Economic Times"
        }
       ]
      }
     },
     {
-     "id": "4255045dd792",
-     "title": "7.0-magnitude earthquake hits Tibet",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/7-0-magnitude-earthquake-hits-tibet/articleshow/135122509.cms",
+     "id": "d2ba4db57bea",
+     "title": "Bomb threat note found in Kolkata airport toilet triggers search; no flight disruption",
+     "link": "https://www.thehindubusinessline.com/economy/logistics/bomb-threat-note-found-in-kolkata-airport-toilet-triggers-search-no-flight-disruption/article71615340.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-23T09:47:43+00:00",
+     "summary": "Security teams conducted a search at Kolkata airport following the discovery of a bomb threat note.",
+     "explain": "When a threat is discovered at a major transport hub, security agencies follow strict protocols to clear the area and investigate. This ensures passenger safety even if the threat is later deemed to be a hoax. Disruptions are minimized when the threat is localized and managed efficiently.",
+     "related": [],
+     "story": {
+      "id": "business-kolkata-airport-bomb-threat",
+      "title": "Kolkata Airport Bomb Threat",
+      "so_far": "Airport authorities frequently receive security threats that require immediate safety protocols. In this instance, a note found in an airport restroom prompted security personnel to clear and sweep the affected area.",
+      "timeline": [
+       {
+        "date": "2026-10-23",
+        "text": "Authorities searched the facility after discovering a threat note, though no flight operations were disrupted.",
+        "link": "https://www.thehindubusinessline.com/economy/logistics/bomb-threat-note-found-in-kolkata-airport-toilet-triggers-search-no-flight-disruption/article71615340.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "1e66fa93f735",
+     "title": "Jubilant Pharmova eyes $150 million through rupee debt sale, bankers say",
+     "link": "https://www.thehindubusinessline.com/markets/jubilant-pharmova-eyes-150-million-through-rupee-debt-sale-bankers-say/article71615410.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-23T09:42:09+00:00",
+     "summary": "Jubilant Pharmova plans to raise approximately $150 million through a rupee-denominated bond sale.",
+     "explain": "A 'rupee debt sale' refers to the company issuing bonds denominated in Indian currency to investors. 'Bullet maturity' means the entire principal amount is repaid in one lump sum at the end of the bond's term, rather than being paid off in installments over time.",
+     "related": [],
+     "story": {
+      "id": "business-jubilant-pharmova-debt-issuance",
+      "title": "Jubilant Pharmova Debt Issuance",
+      "so_far": "Corporate debt issuance is a common financial strategy used by companies to fund expansion, research, or refinancing. Jubilant Pharmova is a pharmaceutical company that is looking to leverage the bond market to raise capital.",
+      "timeline": [
+       {
+        "date": "2026-10-23",
+        "text": "The company intends to raise ₹1,400 crore through three-year bonds.",
+        "link": "https://www.thehindubusinessline.com/markets/jubilant-pharmova-eyes-150-million-through-rupee-debt-sale-bankers-say/article71615410.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "d6e30b60082a",
+     "title": "SBI customer data leak scare: Is your money safe?",
+     "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-data-leak-scare-bank-contacts-affected-customers-is-your-money-safe/articleshow/135139356.cms",
      "source": "Economic Times",
-     "published": "2026-10-22T16:01:14+00:00",
-     "summary": "A 7.0-magnitude earthquake hit Tibet on October 22, 2026.",
-     "explain": "This reports the same earthquake as the previous article. Earthquakes are measured on the Moment Magnitude Scale; a 7.0 is a strong event that can lead to widespread structural collapse in poorly built areas.",
+     "published": "2026-10-23T07:47:00+00:00",
+     "summary": "Media outlets are questioning the security of funds following a reported data leak at SBI.",
+     "explain": "When financial institutions face data security issues, the media plays a role in analyzing the potential risks to individual consumers. These reports aim to clarify whether the breach affects login credentials, personal information, or the actual transaction systems.",
      "related": [],
      "story": {
-      "id": "business-7-0-magnitude-earthquake-in-tibet",
-      "title": "7.0-Magnitude Earthquake in Tibet",
-      "so_far": "On October 22, 2026, a 7.0-magnitude earthquake hit Baqen County, Tibet, in China. Local authorities are assessing the damage caused by the tremor, which was recorded at 32.40 degrees north latitude and 93.79 degrees east longitude.",
+      "id": "business-sbi-customer-data-leak-concerns",
+      "title": "SBI Customer Data Leak Concerns",
+      "so_far": "Following reports of a potential data breach involving SBI customers, the bank initiated an internal audit. The bank is currently implementing remedial measures to secure its systems against potential unauthorized access.",
       "timeline": [
        {
-        "date": "2026-10-22",
-        "text": "A major earthquake struck Tibet's Baqen County late at night on October 22, 2026.",
-        "link": "https://www.thehindubusinessline.com/news/world/strong-70-magnitude-earthquake-hits-tibets-baqen-county-in-china/article71613075.ece",
+        "date": "2026-10-23",
+        "text": "SBI has confirmed that customer funds are safe while a security assessment is conducted.",
+        "link": "https://www.thehindubusinessline.com/money-and-banking/data-leak-incident-sbi-says-customer-balances-completely-safe/article71615271.ece",
         "source": "Business News Today: Latest Business New"
        },
        {
-        "date": "2026-10-22",
-        "text": "Multiple reports confirm a 7.0-magnitude earthquake event in the region.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/7-0-magnitude-earthquake-hits-tibet/articleshow/135122509.cms",
+        "date": "2026-10-23",
+        "text": "News outlets are actively investigating the extent of the SBI data breach and its implications for individual accounts.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-data-leak-scare-bank-contacts-affected-customers-is-your-money-safe/articleshow/135139356.cms",
         "source": "Economic Times"
        }
       ]
      }
     },
     {
-     "id": "f5f19b85ccc8",
-     "title": "Sensex today | Stock Market Live: Stock to buy today: Federal Bank (347) – BUY",
-     "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-23rd-october-2026/article71611889.ece",
+     "id": "1e587dbc2bad",
+     "title": "Sensex today | Stock Market Highlights: Sensex, Nifty extend losses as crude surges to $114, all sectors close in red",
+     "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-23rd-october-2026/article71611889.ece",
      "source": "Business News Today: Latest Business New",
-     "published": "2026-10-23T01:41:45+00:00",
-     "summary": "Market analysts have issued a 'buy' rating for Federal Bank shares, projecting a potential price increase to ₹400.",
-     "explain": "A 'buy' rating means analysts believe the company's stock is a good investment and likely to rise in value. A target price is the predicted future value of a stock, which serves as a goal for traders or investors.",
+     "published": "2026-10-23T10:52:42+00:00",
+     "summary": "Indian benchmark stock indices Sensex and Nifty closed lower due to rising crude oil prices and weak global market sentiment.",
+     "explain": "The Sensex and Nifty are indices tracking the performance of major Indian companies. 'Closing in the red' means the market value of these companies dropped by the end of the trading day. Rising oil prices often hurt the Indian economy because India imports most of its oil, which increases business costs and triggers inflation fears.",
      "related": [
       {
        "date": "2026-10-21",
@@ -1682,188 +1733,130 @@
       }
      ],
      "story": {
-      "id": "business-federal-bank-stock-market-outlook",
-      "title": "Federal Bank Stock Market Outlook",
-      "so_far": "Federal Bank is a private sector lender in India. Market analysts frequently track its stock performance to provide guidance to retail and institutional investors, especially amidst shifting banking sector trends and interest rate environments.",
+      "id": "business-indian-stock-market-volatility",
+      "title": "Indian Stock Market Volatility",
+      "so_far": "The Indian stock market has been experiencing fluctuations driven by external economic pressures, including energy costs and global geopolitical instability. These factors often lead to broad-based selling across different industry sectors.",
       "timeline": [
        {
         "date": "2026-10-23",
-        "text": "Analysts recommend buying Federal Bank shares with a target price of ₹400.",
-        "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-23rd-october-2026/article71611889.ece",
+        "text": "The stock market extended losses as global crude oil prices surged to $114 per barrel.",
+        "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-23rd-october-2026/article71611889.ece",
         "source": "Business News Today: Latest Business New"
        }
       ]
      }
     },
     {
-     "id": "daeecf5a42b7",
-     "title": "Zuckerberg-Meta strike a deal for billionaire tax",
-     "link": "https://economictimes.indiatimes.com/news/international/business/mark-zuckerberg-makes-deal-with-meta-to-help-him-pay-billionaire-tax-if-it-passes/articleshow/135131477.cms",
-     "source": "Economic Times",
-     "published": "2026-10-23T01:39:40+00:00",
-     "summary": "Meta CEO Mark Zuckerberg has reportedly reached a deal regarding a billionaire tax.",
-     "explain": "A billionaire tax is a proposed policy to levy taxes on the unrealized capital gains or total net worth of the ultra-wealthy. This matter is sensitive because it touches on how major tech leaders influence economic policy and respond to public calls for increased fiscal contributions from the wealthy.",
+     "id": "e842b620400e",
+     "title": "Bharat Biotech slashes price of malaria vaccine MOSQIVAC by 40%",
+     "link": "https://www.thehindubusinessline.com/companies/bharat-biotech-slashes-price-of-malaria-vaccine-mosqivac-by-40/article71615529.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-23T10:52:39+00:00",
+     "summary": "Bharat Biotech has reduced the price of its malaria vaccine, MOSQIVAC, by 40%.",
+     "explain": "A 40% price reduction is a significant move meant to make a healthcare product more affordable for low-income populations. This initiative often aligns with global health goals aimed at eradicating infectious diseases by increasing vaccination rates among children.",
      "related": [],
      "story": {
-      "id": "business-meta-corporate-governance",
-      "title": "Meta Corporate Governance",
-      "so_far": "Mark Zuckerberg, CEO of Meta, exercises significant control over the company through special voting shares. He is a frequent focal point for debates regarding executive compensation, wealth inequality, and the public policy discussion on taxing ultra-high-net-worth individuals.",
+      "id": "business-bharat-biotech-vaccine-pricing",
+      "title": "Bharat Biotech Vaccine Pricing",
+      "so_far": "Vaccine manufacturers in India frequently balance public health mandates with business models that allow for scalable production. Bharat Biotech is a leading provider of vaccines in India.",
       "timeline": [
        {
-        "date": "2026-10-22",
-        "text": "Mark Zuckerberg is using a nonvoting share deal to manage liquidity and prepare for prospective tax changes in California.",
-        "link": "https://www.livemint.com/companies/news/metas-share-deal-with-zuckerberg-aims-to-cover-potential-multibillion-dollar-wealth-tax-bill-how-it-works-11792631806060.html",
-        "source": "mint - companies"
-       },
-       {
         "date": "2026-10-23",
-        "text": "Mark Zuckerberg has reportedly agreed to a deal concerning a billionaire tax, signaling a potential shift in his stance or compliance.",
-        "link": "https://economictimes.indiatimes.com/news/international/business/mark-zuckerberg-makes-deal-with-meta-to-help-him-pay-billionaire-tax-if-it-passes/articleshow/135131477.cms",
-        "source": "Economic Times"
+        "text": "The company implemented a 40% price cut for its malaria vaccine to expand accessibility.",
+        "link": "https://www.thehindubusinessline.com/companies/bharat-biotech-slashes-price-of-malaria-vaccine-mosqivac-by-40/article71615529.ece",
+        "source": "Business News Today: Latest Business New"
        }
       ]
      }
     },
     {
-     "id": "c1b781825544",
-     "title": "US bans BYD from military air base in Japan",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/us-bans-byd-from-air-base-in-japan-over-security-concern-report/articleshow/135131385.cms",
-     "source": "Economic Times",
-     "published": "2026-10-23T01:32:57+00:00",
-     "summary": "The US government has restricted the Chinese electric vehicle manufacturer BYD from accessing a military air base in Japan.",
-     "explain": "This is a geopolitical restriction where the US uses its security authority to limit the physical presence of hardware from a Chinese company on sensitive military installations. It reflects ongoing tensions between the US and China over technology and defense concerns.",
+     "id": "884ac5edeee1",
+     "title": "Q2 Results Today Live: JSW Steel profit at ₹5,359 crore, CG Power earnings rise, CSB Bank profit jumps 14% YoY, Mahindra Logistics turns profitable, Shree Digvijay Cement swings to loss, Atul announces ₹90-crore buyback",
+     "link": "https://www.thehindubusinessline.com/companies/q2-results-today-live-updates-infosys-adani-power-jsw-steel-tata-motors-shiram-fin-torrent-pharma-cg-power-bpcl-dr-reddys-lab-company-results-23-october-2026/article71611542.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-23T10:52:31+00:00",
+     "summary": "Major Indian corporations including JSW Steel and CSB Bank released their September quarter (Q2) financial earnings on October 23, 2026.",
+     "explain": "Q2 earnings refer to the financial performance for the second quarter of the fiscal year. Reporting 'YoY' (Year-on-Year) profit growth means the company is performing better compared to the same period in the previous year. A 'buyback' occurs when a company purchases its own shares from the market to reduce the supply and potentially boost shareholder value.",
      "related": [],
      "story": {
-      "id": "business-byd-access-restrictions-in-japan",
-      "title": "BYD Access Restrictions in Japan",
-      "so_far": "BYD is a leading Chinese manufacturer of electric vehicles. Military bases often have strict security protocols regarding technology and vehicles from foreign nations perceived as strategic competitors to prevent security risks like data monitoring or electronic surveillance.",
+      "id": "business-q2-corporate-earnings-season",
+      "title": "Q2 Corporate Earnings Season",
+      "so_far": "Publicly listed companies in India are required to release their financial results on a quarterly basis. Investors closely monitor these reports to assess company health and market trends.",
       "timeline": [
        {
         "date": "2026-10-23",
-        "text": "The US government has officially banned the use of BYD vehicles at a military air base in Japan.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/us-bans-byd-from-air-base-in-japan-over-security-concern-report/articleshow/135131385.cms",
-        "source": "Economic Times"
+        "text": "Several companies reported varied results, ranging from profit growth for JSW Steel to losses for Shree Digvijay Cement.",
+        "link": "https://www.thehindubusinessline.com/companies/q2-results-today-live-updates-infosys-adani-power-jsw-steel-tata-motors-shiram-fin-torrent-pharma-cg-power-bpcl-dr-reddys-lab-company-results-23-october-2026/article71611542.ece",
+        "source": "Business News Today: Latest Business New"
        }
       ]
      }
     },
     {
-     "id": "5ab781ab389b",
-     "title": "New York issues alert over PHP vulnerabilities",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/new-york-state-issues-alert-over-potential-php-vulnerabilities/articleshow/135131420.cms",
-     "source": "Economic Times",
-     "published": "2026-10-23T01:26:28+00:00",
-     "summary": "New York officials have issued a security alert regarding vulnerabilities in PHP, a widely used server-side programming language.",
-     "explain": "A software vulnerability is a security flaw that allows hackers to exploit a system. PHP powers a large percentage of the web, so an alert like this is a warning for IT administrators to update their software to prevent cyberattacks.",
+     "id": "ac8ac0d993a1",
+     "title": "Paras Healthcare IPO fully subscribed on day 3",
+     "link": "https://www.thehindubusinessline.com/markets/paras-healthcare-ipo-fully-subscribed-on-day-3/article71615571.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-23T10:46:26+00:00",
+     "summary": "The Paras Healthcare IPO has achieved full subscription on its third day of availability.",
+     "explain": "Qualified Institutional Buyers (QIBs) are large professional investors like mutual funds or insurance companies. When they and retail investors both show interest, it signals confidence in the company's future financial potential.",
      "related": [],
      "story": {
-      "id": "business-php-cybersecurity-vulnerability-alert",
-      "title": "PHP Cybersecurity Vulnerability Alert",
-      "so_far": "PHP is a popular scripting language used to create dynamic content on websites. Vulnerabilities in such foundational software can expose businesses and government agencies to hacking, data breaches, or ransomware attacks if not patched promptly.",
+      "id": "business-paras-healthcare-ipo-subscription",
+      "title": "Paras Healthcare IPO Subscription",
+      "so_far": "An Initial Public Offering (IPO) is the debut of a company on the public stock market. 'Subscription' measures the demand for the new shares; when a company is 'fully subscribed,' it means they have received enough investor interest to sell the entire issuance.",
       "timeline": [
        {
         "date": "2026-10-23",
-        "text": "New York authorities issued an alert regarding security risks associated with PHP software.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/new-york-state-issues-alert-over-potential-php-vulnerabilities/articleshow/135131420.cms",
-        "source": "Economic Times"
+        "text": "The offering is now fully subscribed, with strong interest from both retail investors and institutional buyers.",
+        "link": "https://www.thehindubusinessline.com/markets/paras-healthcare-ipo-fully-subscribed-on-day-3/article71615571.ece",
+        "source": "Business News Today: Latest Business New"
        }
       ]
      }
     },
     {
-     "id": "b9fb87f4c739",
-     "title": "Multiples gears up for a billion-dollar fundraise next year",
-     "link": "https://www.livemint.com/companies/news/multiples-fundraise-private-equity-new-fund-in-2027-11792660992665.html",
-     "source": "mint - companies",
-     "published": "2026-10-23T01:00:09+00:00",
-     "summary": "Private equity firm Multiples is preparing to raise a new fund of $1-1.2 billion in 2027.",
-     "explain": "Private equity firms raise money from large investors (like pension funds) to buy, improve, and eventually sell stakes in companies. A $1 billion fund indicates the firm is seeking to make significant investments in the coming years.",
+     "id": "8e5768550fb0",
+     "title": "India's general insurance industry to see modest growth in FY27 amid pricing pressures: Report",
+     "link": "https://www.thehindubusinessline.com/money-and-banking/indias-general-insurance-industry-to-see-modest-growth-in-fy27-amid-pricing-pressures-report/article71615488.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-23T10:41:26+00:00",
+     "summary": "A report indicates that India's general insurance sector is expected to see modest growth in FY27 due to pricing pressures.",
+     "explain": "General insurance covers non-life products like health, motor, and property. 'Pricing pressures' mean that intense competition is keeping premiums low, which makes it harder for companies to maintain profit margins despite steady demand in some areas like health.",
      "related": [],
      "story": {
-      "id": "business-multiples-private-equity-fundraise",
-      "title": "Multiples Private Equity Fundraise",
-      "so_far": "Multiples is an investment firm that manages capital for institutional investors. Raising larger funds allows such firms to participate in bigger private equity deals, such as buyouts or growth-stage investments in large companies.",
+      "id": "business-india-insurance-sector-outlook",
+      "title": "India Insurance Sector Outlook",
+      "so_far": "The insurance industry in India is sensitive to economic conditions and regulatory pricing. Insurance companies rely on various segments to balance their risk and profitability.",
       "timeline": [
        {
         "date": "2026-10-23",
-        "text": "Renuka Ramnath-led Multiples is targeting its largest fund to date, valued at over $1 billion.",
-        "link": "https://www.livemint.com/companies/news/multiples-fundraise-private-equity-new-fund-in-2027-11792660992665.html",
-        "source": "mint - companies"
+        "text": "Increased demand in retail health insurance is being partially offset by declines in fire and crop insurance segments.",
+        "link": "https://www.thehindubusinessline.com/money-and-banking/indias-general-insurance-industry-to-see-modest-growth-in-fy27-amid-pricing-pressures-report/article71615488.ece",
+        "source": "Business News Today: Latest Business New"
        }
       ]
      }
     },
     {
-     "id": "9af93c677445",
-     "title": "TA Associates-backed OmniActive explores $200-300 million IPO at $1 bn valuation",
-     "link": "https://www.livemint.com/companies/ta-associates-backed-omniactive-explores-200-300-million-ipo-at-1-bn-valuation-11792676392979.html",
-     "source": "mint - companies",
-     "published": "2026-10-23T00:31:07+00:00",
-     "summary": "OmniActive Health Technologies is planning an IPO aiming for a $1 billion valuation despite past fundraising challenges.",
-     "explain": "An IPO (Initial Public Offering) is when a private company sells shares to the public on a stock exchange for the first time. Nutraceuticals are food-derived products with health benefits; a 'pure-play' company is one that focuses exclusively on this specific industry.",
+     "id": "b9ef3a9fba2e",
+     "title": "Mozambique eyes India partnership to boost agro-processing, expand rice trade across Southern Africa",
+     "link": "https://www.thehindubusinessline.com/economy/agri-business/mozambique-eyes-india-partnership-to-boost-agro-processing-expand-rice-trade-across-southern-africa/article71615432.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-23T10:30:52+00:00",
+     "summary": "Mozambique is seeking a partnership with India to enhance its agricultural processing capabilities.",
+     "explain": "Agro-processing involves turning raw agricultural products into refined goods, which adds value and shelf life. By collaborating with India, Mozambique hopes to export more refined goods to nearby African markets and improve its domestic food supply chains.",
      "related": [],
      "story": {
-      "id": "business-omniactive-ipo-plans",
-      "title": "OmniActive IPO Plans",
-      "so_far": "OmniActive is a nutraceutical company. It previously attempted to raise private capital but faced difficulties due to market volatility and geopolitical issues, leading the company to pursue a public listing instead.",
+      "id": "business-india-mozambique-agricultural-partnershi",
+      "title": "India-Mozambique Agricultural Partnership",
+      "so_far": "India has been actively expanding its trade footprint in Africa, focusing on infrastructure and food security. Mozambique is looking to modernize its farming sector by collaborating with foreign expertise.",
       "timeline": [
        {
         "date": "2026-10-23",
-        "text": "Backed by TA Associates, OmniActive is targeting a $200-300 million IPO.",
-        "link": "https://www.livemint.com/companies/ta-associates-backed-omniactive-explores-200-300-million-ipo-at-1-bn-valuation-11792676392979.html",
-        "source": "mint - companies"
-       }
-      ]
-     }
-    },
-    {
-     "id": "01dc37cb7eb7",
-     "title": "Three Iveco investors stand to gain €63 million as Tata Motors races to secure buyout",
-     "link": "https://www.livemint.com/companies/tata-motors-iveco-acquisition-deal-status-shareholders-approval-11792650839298.html",
-     "source": "mint - companies",
-     "published": "2026-10-23T00:31:04+00:00",
-     "summary": "Three Iveco investors are set for a €63 million gain as Tata Motors pursues a €3.9 billion buyout.",
-     "explain": "An acquisition involves one company buying another. In this case, Tata Motors is offering cash to buy all shares of Iveco. The investors' gain is the difference between their purchase price and the acquisition price offered by Tata.",
-     "related": [],
-     "story": {
-      "id": "business-tata-motors-iveco-acquisition-hurdle",
-      "title": "Tata Motors Iveco Acquisition Hurdle",
-      "so_far": "Tata Motors is aiming to expand its commercial vehicle segment by acquiring Iveco for €3.9 billion. The deal faces scrutiny from shareholders who must balance the immediate financial gains with the long-term strategic value of the merger.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "Minority shareholder opposition has emerged as a significant obstacle to Tata Motors completing its planned acquisition of Iveco.",
-        "link": "https://www.livemint.com/companies/news/tata-motors-iveco-deal-status-shareholder-approval-11792483781433.html",
-        "source": "mint - companies"
-       },
-       {
-        "date": "2026-10-23",
-        "text": "Tata Motors' revised offer of €14.40 per share brings potential gains for major Iveco investors, helping the deal gain momentum.",
-        "link": "https://www.livemint.com/companies/tata-motors-iveco-acquisition-deal-status-shareholders-approval-11792650839298.html",
-        "source": "mint - companies"
-       }
-      ]
-     }
-    },
-    {
-     "id": "35b497a148ca",
-     "title": "Boardroom friction drives listed companies to law firms for governance advice",
-     "link": "https://www.livemint.com/companies/news/companies-consulting-law-firms-boardroom-governance-disputes-11792637621055.html",
-     "source": "mint - companies",
-     "published": "2026-10-23T00:30:19+00:00",
-     "summary": "Listed companies are increasingly hiring law firms to manage boardroom disputes and ensure compliance with governance standards.",
-     "explain": "Governance refers to the rules and practices by which a company is directed and controlled. Dissent among independent directors—who are supposed to provide unbiased oversight—is a red flag that often necessitates legal intervention to protect the company from regulatory penalties.",
-     "related": [],
-     "story": {
-      "id": "business-boardroom-governance-and-legal-advice",
-      "title": "Boardroom Governance and Legal Advice",
-      "so_far": "Publicly listed companies have complex governance structures, including boards of directors. When these directors disagree or fail to follow regulatory requirements, it can lead to legal liability and investor distrust.",
-      "timeline": [
-       {
-        "date": "2026-10-23",
-        "text": "Rising boardroom tensions are driving companies to seek external legal counsel for governance processes.",
-        "link": "https://www.livemint.com/companies/news/companies-consulting-law-firms-boardroom-governance-disputes-11792637621055.html",
-        "source": "mint - companies"
+        "text": "Mozambique aims to leverage Indian agricultural technology to increase rice trade and regional logistics.",
+        "link": "https://www.thehindubusinessline.com/economy/agri-business/mozambique-eyes-india-partnership-to-boost-agro-processing-expand-rice-trade-across-southern-africa/article71615432.ece",
+        "source": "Business News Today: Latest Business New"
        }
       ]
      }
@@ -1874,110 +1867,14 @@
    "label": "Markets & Crypto",
    "articles": [
     {
-     "id": "86f76294fa6b",
-     "title": "Top stocks to watch today: Infosys, Tata Motors, Swiggy, Cyient shares in focus on Friday, 23 Oct | Full list",
-     "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-infosys-tata-motors-swiggy-cyient-shares-in-focus-on-friday-23-oct-full-list-11792719056861.html",
-     "source": "mint - markets",
-     "published": "2026-10-23T01:54:20+00:00",
-     "summary": "Analysts are highlighting key Indian stocks, including Infosys and Tata Motors, for market activity on October 23, 2026.",
-     "explain": "Stock 'watchlists' are curated by financial analysts to help investors focus on companies expected to have significant price movement or news-driven volatility. These recommendations often utilize technical analysis to spot short-term trends. Following these updates allows investors to gauge which sectors are currently attracting high trading volume.",
-     "related": [
-      {
-       "date": "2026-10-21",
-       "title": "Top stocks to watch today: Eternal, Reliance Industries, IREDA, RailTel shares in focus on Wed, 21 Oct | Full list",
-       "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-eternal-reliance-industries-ireda-railtel-shares-in-focus-on-wed-21-oct-full-list-11792546323951.html",
-       "source": "mint - markets"
-      },
-      {
-       "date": "2026-10-22",
-       "title": "Top stocks to watch today: Swiggy, Adani Green, Eternal, GMDC, BEL shares in focus on Thurs, 22 Oct | Full list",
-       "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-swiggy-adani-green-eternal-gmdc-bel-shares-in-focus-on-thurs-22-oct-full-list-11792632766011.html",
-       "source": "mint - markets"
-      }
-     ],
-     "story": {
-      "id": "markets-indian-market-technical-recommendations",
-      "title": "Indian Market Technical Recommendations",
-      "so_far": "Indian market analysts frequently use technical analysis—studying charts and volume patterns—to predict short-term stock price movements. This approach is often separate from fundamental analysis, which focuses on a company's financial health and business model.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "Experts released a short-term watchlist for the upcoming weeks, noting potential gains in banking and retail sectors.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-experts-bet-on-sbi-bank-of-baroda-meesho-cg-power-and-2-others-target-price-stoploss-11792467348731.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Analysts provided a new list of active stocks, including Swiggy and Adani Energy, for daily trading focus.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-swiggy-adani-green-eternal-gmdc-bel-shares-in-focus-on-thurs-22-oct-full-list-11792632766011.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Market futures indicate a negative opening for Indian indices following cues from global markets.",
-        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-21-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792629655970.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Raja Venkatraman provided new technical trade strategies for two stocks today.",
-        "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-two-stocks-for-22-october-11792629823349.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-23",
-        "text": "Analysts identified a new list of active large-cap and energy stocks, including Adani Power and Swiggy, to watch for current price fluctuations.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-infosys-tata-motors-swiggy-cyient-shares-in-focus-on-friday-23-oct-full-list-11792719056861.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-23",
-        "text": "The GIFT Nifty shows a 165-point gain, pointing toward a strong start for the Sensex and Nifty indices.",
-        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-23-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792716174246.html",
-        "source": "mint - markets"
-       }
-      ]
-     }
-    },
-    {
-     "id": "50cdeb283c80",
-     "title": "Fusion CX debuts at 5.5% premium",
-     "link": "https://economictimes.indiatimes.com/markets/stocks/news/fusion-cx-debuts-at-5-5-premium/articleshow/135131473.cms",
-     "source": "Markets-Economic Times",
-     "published": "2026-10-23T01:38:21+00:00",
-     "summary": "Fusion CX debuted on the National Stock Exchange with a 5.5% premium over its issue price.",
-     "explain": "When a stock debuts at a premium, it means the public market values the shares higher than the company's set offering price. This is often seen as a positive sign of investor demand immediately following the IPO. Conversely, a weak debut may suggest that the stock was priced too high or that investors are cautious about the company's growth prospects.",
+     "id": "23e55ec831db",
+     "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
+     "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
+     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
+     "published": "2026-10-23T10:54:41+00:00",
+     "summary": "Bitcoin remains stable near $81,700, while several altcoins see notable price gains.",
+     "explain": "Bitcoin is the largest cryptocurrency by market value, often acting as a benchmark for the entire crypto sector. Altcoins (alternative coins) are any cryptocurrencies other than Bitcoin. When Bitcoin stabilizes, it sometimes gives investors the confidence to buy smaller or alternative tokens, which are often riskier but can offer higher short-term gains.",
      "related": [],
-     "story": {
-      "id": "markets-fusion-cx-market-debut",
-      "title": "Fusion CX Market Debut",
-      "so_far": "Fusion CX recently completed its initial public offering (IPO) process, inviting retail and institutional investors to bid for shares. A market debut is the first day a company's stock is available for public trading on an exchange after its IPO. The 'premium' indicates the difference between the price at which the company initially sold shares and the price at which trading began on the exchange.",
-      "timeline": [
-       {
-        "date": "2026-10-23",
-        "text": "Fusion CX shares listed at ₹305, a modest increase from the ₹289 initial public offering price.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fusion-cx-debuts-at-5-5-premium/articleshow/135131473.cms",
-        "source": "Markets-Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "66b1bbfe806d",
-     "title": "Bitcoin Falls Below $83,000 as AI Jitters Weigh on Sentiment",
-     "link": "https://www.livemint.com/market/bitcoin-falls-below-83-000-as-ai-jitters-weigh-on-sentiment-11792719088220.html",
-     "source": "mint - markets",
-     "published": "2026-10-23T01:31:27+00:00",
-     "summary": "Bitcoin prices fell below $83,000 as broader market sentiment for high-risk assets weakened.",
-     "explain": "Bitcoin is a digital asset that often behaves as a 'high-beta' asset, meaning it tends to be more volatile than traditional stocks. When investors get jittery about the broader economy—such as concerns in the AI sector—they often sell off riskier assets like cryptocurrency to hold more stable cash or government bonds.",
-     "related": [
-      {
-       "date": "2026-10-22",
-       "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
-       "link": "https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-       "source": "Cointelegraph.com News"
-      }
-     ],
      "story": {
       "id": "markets-bitcoin-long-term-market-outlook",
       "title": "Bitcoin Long-term Market Outlook",
@@ -2000,53 +1897,77 @@
         "text": "Bitcoin prices retreated below the $83,000 threshold on Thursday, reversing gains despite ongoing institutional interest through spot ETFs.",
         "link": "https://www.livemint.com/market/bitcoin-falls-below-83-000-as-ai-jitters-weigh-on-sentiment-11792719088220.html",
         "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-23",
+        "text": "Bitcoin is maintaining a stable price level near $81,700 amid a broader recovery in the altcoin market.",
+        "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-10-23",
+        "text": "Data suggests that Bitcoin's price movement is currently decoupling from historical patterns previously observed at mid-term cycle bottoms.",
+        "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
        }
       ]
      }
     },
     {
-     "id": "0f87502fc3fd",
-     "title": "Yes Bank AT1 Bonds: Why the Supreme Court Reversed the ₹8,415 Crore Write-Down",
-     "link": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-at1-bonds-why-the-supreme-court-reversed-the-8415-crore-write-down/videoshow/135131450.cms",
-     "source": "Markets-Economic Times",
-     "published": "2026-10-23T01:29:35+00:00",
-     "summary": "The Supreme Court of India reversed the decision to write down Yes Bank's AT1 bonds, totaling ₹8,415 crore.",
-     "explain": "AT1 bonds are a specific, high-risk type of debt issued by banks that can be converted into equity or written down if the bank's capital ratios fall below a certain level. The court's reversal is significant because it provides relief to thousands of investors who lost money during the 2020 bailout, though the practical implementation of returning these funds remains complex.",
+     "id": "bb5bd59f5c7e",
+     "title": "Bitcoin appears to have decoupled from midterm cycle bottom history",
+     "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
+     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
+     "published": "2026-10-23T10:53:09+00:00",
+     "summary": "Market analysts suggest Bitcoin's current price performance is deviating from historical mid-term cycle trends.",
+     "explain": "Analysts often use historical data to predict future price cycles in crypto, such as the four-year cycle tied to 'halving' events. Decoupling means the asset is behaving differently than it has in past years, indicating that new market factors—such as institutional investment or macroeconomic shifts—may be driving prices instead of historical precedent.",
      "related": [],
      "story": {
-      "id": "markets-yes-bank-at1-bond-crisis",
-      "title": "Yes Bank AT1 Bond Crisis",
-      "so_far": "The Supreme Court's recent decision to restore the value of the AT1 bonds has created a legal vacuum for bondholders who were previously excluded from interest payments. These investors are now scrambling to ensure their legal victory translates into actual financial compensation.",
+      "id": "markets-bitcoin-long-term-market-outlook",
+      "title": "Bitcoin Long-term Market Outlook",
+      "so_far": "Bitcoin is a decentralized digital currency often referred to as 'digital gold' due to its fixed supply. Investors debate its role in portfolios, with proponents citing its potential for high growth and detractors pointing to its extreme price volatility and lack of intrinsic industrial value.",
       "timeline": [
        {
-        "date": "2026-10-23",
-        "text": "The Supreme Court ruled to restore the value of these bonds, overturning a prior write-down that had rendered the investments worthless.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-at1-bonds-why-the-supreme-court-reversed-the-8415-crore-write-down/videoshow/135131450.cms",
-        "source": "Markets-Economic Times"
+        "date": "2026-10-20",
+        "text": "JPMorgan included Bitcoin in its long-term capital market outlook for the first time, forecasting it as a top-performing asset class over 10 years.",
+        "link": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The report emphasizes that unstable correlations with other assets currently limit Bitcoin's role as a reliable portfolio component.",
+        "link": "https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
        },
        {
         "date": "2026-10-23",
-        "text": "Nippon AMC agreed to a ₹96.8 crore settlement to resolve allegations of non-compliance following a show-cause notice.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nippon-amc-gets-sebi-nod-for-settlement-in-yes-bank-at1-case/articleshow/135131314.cms",
-        "source": "Markets-Economic Times"
+        "text": "Bitcoin prices retreated below the $83,000 threshold on Thursday, reversing gains despite ongoing institutional interest through spot ETFs.",
+        "link": "https://www.livemint.com/market/bitcoin-falls-below-83-000-as-ai-jitters-weigh-on-sentiment-11792719088220.html",
+        "source": "mint - markets"
        },
        {
         "date": "2026-10-23",
-        "text": "Despite the court reversing the write-down of their bonds, investors report that they have not yet received scheduled interest (coupon) payments.",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/yes-bank-at1-coupon-due-bondholders-seek-clarity/articleshow/135131245.cms",
-        "source": "Markets-Economic Times"
+        "text": "Bitcoin is maintaining a stable price level near $81,700 amid a broader recovery in the altcoin market.",
+        "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-10-23",
+        "text": "Data suggests that Bitcoin's price movement is currently decoupling from historical patterns previously observed at mid-term cycle bottoms.",
+        "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
        }
       ]
      }
     },
     {
-     "id": "0b119bf33604",
-     "title": "Himadri Speciality Chemicals plans ₹1,613 crore capacity expansion across key businesses",
-     "link": "https://www.livemint.com/market/stock-market-news/himadri-speciality-chemicals-plans-1-613-crore-capacity-expansion-across-key-businesses-11792718062571.html",
+     "id": "40bedae3875d",
+     "title": "Himadri Speciality Chemical share price: Why did this multibagger stock suffer its biggest weekly fall since 2008?",
+     "link": "https://www.livemint.com/market/stock-market-news/himadri-speciality-chemical-share-price-why-did-this-multibagger-stock-suffer-its-biggest-weekly-fall-since-2008-11792750458242.html",
      "source": "mint - markets",
-     "published": "2026-10-23T01:25:57+00:00",
-     "summary": "Himadri Speciality Chemicals announced a ₹1,613 crore capital expenditure plan to expand its chemical production capabilities.",
-     "explain": "A capital expenditure (CapEx) plan outlines how a company intends to spend its cash reserves to acquire or maintain physical assets. By investing in LFP battery components, Himadri is betting that the demand for electric vehicle batteries will remain strong in the coming years. This shift away from traditional chemicals toward specialized tech components is a common strategy for industrial firms seeking higher profit margins.",
+     "published": "2026-10-23T10:40:29+00:00",
+     "summary": "Himadri Speciality Chemicals shares saw a significant weekly decline as rising material costs impacted margins despite strong revenue growth.",
+     "explain": "A company can have high revenue (the total money coming in) but low profitability if the costs to produce its goods rise faster than its sales prices. In this case, even though Himadri is growing, investors are reacting negatively because the company's 'margins'—the profit left over after paying for materials—are getting squeezed, making the stock less attractive.",
      "related": [],
      "story": {
       "id": "markets-himadri-speciality-chemicals-expansion",
@@ -2058,182 +1979,209 @@
         "text": "The company is directing funds into high-growth areas, specifically lithium iron phosphate (LFP) batteries and carbon nanotube manufacturing.",
         "link": "https://www.livemint.com/market/stock-market-news/himadri-speciality-chemicals-plans-1-613-crore-capacity-expansion-across-key-businesses-11792718062571.html",
         "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-23",
+        "text": "The company's shares fell 27.4% this week, marking its worst performance since 2008, as rising costs offset a 44% year-over-year revenue increase.",
+        "link": "https://www.livemint.com/market/stock-market-news/himadri-speciality-chemical-share-price-why-did-this-multibagger-stock-suffer-its-biggest-weekly-fall-since-2008-11792750458242.html",
+        "source": "mint - markets"
        }
       ]
      }
     },
     {
-     "id": "37d6ab46658d",
-     "title": "UBS Group AG acquires 4.8% stake in 360 ONE WAM after exercising warrants",
-     "link": "https://economictimes.indiatimes.com/markets/stocks/news/ubs-group-ag-acquires-4-8-stake-in-360-one-wam-after-exercising-warrants/articleshow/135131354.cms",
-     "source": "Markets-Economic Times",
-     "published": "2026-10-23T01:18:41+00:00",
-     "summary": "UBS Group AG has increased its stake in Indian wealth management firm 360 ONE WAM to 4.8%.",
-     "explain": "Warrants are financial instruments that give the holder the right, but not the obligation, to buy a company's stock at a predetermined price. By exercising these warrants, UBS is essentially signaling its long-term commitment to the partnership. This indicates that global players see significant growth potential in India's financial services and high-net-worth individual banking segments.",
+     "id": "44d1eed8f684",
+     "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
+     "link": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
+     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
+     "published": "2026-10-23T10:22:56+00:00",
+     "summary": "HSBC has launched a new stablecoin accessible to its everyday mobile app users.",
+     "explain": "A stablecoin is a digital currency designed to keep a stable value (usually $1 USD) by being backed by reserves. By integrating this into an app with 3 million users, HSBC is bridging the gap between traditional banking and blockchain technology, allowing customers to use digital assets for payments without the price swings of traditional crypto.",
      "related": [],
      "story": {
-      "id": "markets-ubs-investment-in-360-one-wam",
-      "title": "UBS Investment in 360 ONE WAM",
-      "so_far": "UBS, a Swiss multinational investment bank, has been integrating its local Indian wealth management operations with 360 ONE WAM. This move aligns with a broader strategy by global financial institutions to gain a stronger foothold in the growing Indian wealth management market.",
+      "id": "markets-hsbc-stablecoin-integration",
+      "title": "HSBC Stablecoin Integration",
+      "so_far": "Major financial institutions are increasingly exploring blockchain technology to modernize cross-border payments and digital asset management. Stablecoins are cryptocurrencies pegged to a stable asset, like the US dollar, designed to minimize the volatility typical of other digital assets like Bitcoin.",
       "timeline": [
        {
         "date": "2026-10-23",
-        "text": "UBS exercised 20.5 million warrants to finalize its stake, building on a strategic partnership established last year.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ubs-group-ag-acquires-4-8-stake-in-360-one-wam-after-exercising-warrants/articleshow/135131354.cms",
+        "text": "HSBC launched its first stablecoin for general retail customers via its banking application.",
+        "link": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "ca67b76c6319",
+     "title": "Rupee little changed this week as oil-fueled declines wipe out early gains",
+     "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-little-changed-this-week-as-oil-fueled-declines-wipe-out-early-gains/articleshow/135142602.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-10-23T10:17:21+00:00",
+     "summary": "The Indian rupee weakened against the dollar due to rising oil prices and geopolitical energy concerns.",
+     "explain": "India imports a vast majority of its oil. When global oil prices (like Brent crude) rise, India has to spend more dollars to pay for its energy, which creates demand for dollars and puts downward pressure on the rupee. Investors often retreat from riskier local assets when energy prices spike due to fears of inflation.",
+     "related": [],
+     "story": {
+      "id": "markets-global-currency-market-trends",
+      "title": "Global Currency Market Trends",
+      "so_far": "Currency markets are influenced by global interest rate expectations, inflation data, and geopolitical stability. Investors often monitor these movements to gauge the relative strength of various national economies and central bank policy outlooks.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "The euro and British pound maintained stability against the dollar, while the Australian and New Zealand dollars saw minor gains.",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-and-euro-drift-yen-slips-as-markets-seek-direction/articleshow/135059705.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "The Singapore dollar is increasingly favored over the Japanese yen as a funding currency for carry trades.",
+        "link": "https://www.livemint.com/market/singapore-dollar-gains-on-yen-as-carry-funder-analysts-say-11792634002797.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-23",
+        "text": "The Indian rupee declined for the second consecutive day as surging Brent crude prices dampened investor confidence.",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-little-changed-this-week-as-oil-fueled-declines-wipe-out-early-gains/articleshow/135142602.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-23",
+        "text": "Eurozone bond markets have stabilized as investors assess the balance between sovereign debt risks and demand for safe-haven assets.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-markets-stabilise-after-volatile-week/articleshow/135142036.cms",
         "source": "Markets-Economic Times"
        }
       ]
      }
     },
     {
-     "id": "bcf6de84c666",
-     "title": "Stock market outlook today, 23 Oct: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
-     "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-23-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792716174246.html",
+     "id": "0e59eb5df728",
+     "title": "Swiggy vs Eternal shares compared: Which is better stock to buy post Q2 results? Jefferies India explains | Target price",
+     "link": "https://www.livemint.com/market/stock-market-news/swiggy-vs-eternal-shares-compared-which-is-better-stock-to-buy-post-q2-results-jefferies-india-explains-target-price-11792745304355.html",
      "source": "mint - markets",
-     "published": "2026-10-23T01:16:48+00:00",
-     "summary": "Indian stock markets are expected to open higher on Friday, October 23, based on favorable global cues.",
-     "explain": "The GIFT Nifty is a derivative contract that reflects expected movements in the Indian Nifty 50 index before the local market officially opens. Because it trades outside of Indian market hours, it serves as a 'leading indicator' for traders, helping them predict whether the opening bell will result in gains or losses.",
-     "related": [
-      {
-       "date": "2026-10-22",
-       "title": "Stock market outlook today, 22 Oct: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
-       "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-21-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792629655970.html",
-       "source": "mint - markets"
-      }
-     ],
-     "story": {
-      "id": "markets-indian-market-technical-recommendations",
-      "title": "Indian Market Technical Recommendations",
-      "so_far": "Indian market analysts frequently use technical analysis—studying charts and volume patterns—to predict short-term stock price movements. This approach is often separate from fundamental analysis, which focuses on a company's financial health and business model.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "Experts released a short-term watchlist for the upcoming weeks, noting potential gains in banking and retail sectors.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-experts-bet-on-sbi-bank-of-baroda-meesho-cg-power-and-2-others-target-price-stoploss-11792467348731.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Analysts provided a new list of active stocks, including Swiggy and Adani Energy, for daily trading focus.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-swiggy-adani-green-eternal-gmdc-bel-shares-in-focus-on-thurs-22-oct-full-list-11792632766011.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Market futures indicate a negative opening for Indian indices following cues from global markets.",
-        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-21-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792629655970.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Raja Venkatraman provided new technical trade strategies for two stocks today.",
-        "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-two-stocks-for-22-october-11792629823349.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-23",
-        "text": "Analysts identified a new list of active large-cap and energy stocks, including Adani Power and Swiggy, to watch for current price fluctuations.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-infosys-tata-motors-swiggy-cyient-shares-in-focus-on-friday-23-oct-full-list-11792719056861.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-23",
-        "text": "The GIFT Nifty shows a 165-point gain, pointing toward a strong start for the Sensex and Nifty indices.",
-        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-23-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792716174246.html",
-        "source": "mint - markets"
-       }
-      ]
-     }
-    },
-    {
-     "id": "ff4c4862e699",
-     "title": "Nippon AMC gets Sebi nod for settlement in Yes Bank AT1 case",
-     "link": "https://economictimes.indiatimes.com/markets/stocks/news/nippon-amc-gets-sebi-nod-for-settlement-in-yes-bank-at1-case/articleshow/135131314.cms",
-     "source": "Markets-Economic Times",
-     "published": "2026-10-23T01:11:46+00:00",
-     "summary": "Nippon Life India AMC has received preliminary approval for a settlement with SEBI regarding its investment in Yes Bank's AT1 bonds.",
-     "explain": "A SEBI settlement allows a company to resolve a regulatory dispute by paying a fee without admitting or denying guilt. This is common in financial litigation as it allows companies to clear legal hurdles and restore investor trust without undergoing years of drawn-out court battles.",
+     "published": "2026-10-23T10:14:51+00:00",
+     "summary": "Jefferies India has issued a target price of ₹330 for Swiggy following its Q2 earnings report.",
+     "explain": "A 'target price' is an analyst's estimation of what a stock will be worth in the future. It is based on a review of the company's financial health, growth potential, and market conditions. Investors look at these reports to decide whether to buy, sell, or hold a stock based on professional expectations.",
      "related": [],
      "story": {
-      "id": "markets-yes-bank-at1-bond-crisis",
-      "title": "Yes Bank AT1 Bond Crisis",
-      "so_far": "The Supreme Court's recent decision to restore the value of the AT1 bonds has created a legal vacuum for bondholders who were previously excluded from interest payments. These investors are now scrambling to ensure their legal victory translates into actual financial compensation.",
+      "id": "markets-swiggy-post-earnings-analysis",
+      "title": "Swiggy Post-Earnings Analysis",
+      "so_far": "Swiggy is a leading Indian food delivery and quick-commerce platform that recently entered public markets. Its performance is closely watched as a proxy for Indian consumer spending and the viability of the quick-commerce business model.",
       "timeline": [
        {
         "date": "2026-10-23",
-        "text": "The Supreme Court ruled to restore the value of these bonds, overturning a prior write-down that had rendered the investments worthless.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-at1-bonds-why-the-supreme-court-reversed-the-8415-crore-write-down/videoshow/135131450.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-23",
-        "text": "Nippon AMC agreed to a ₹96.8 crore settlement to resolve allegations of non-compliance following a show-cause notice.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nippon-amc-gets-sebi-nod-for-settlement-in-yes-bank-at1-case/articleshow/135131314.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-23",
-        "text": "Despite the court reversing the write-down of their bonds, investors report that they have not yet received scheduled interest (coupon) payments.",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/yes-bank-at1-coupon-due-bondholders-seek-clarity/articleshow/135131245.cms",
-        "source": "Markets-Economic Times"
+        "text": "Jefferies India provided a buy-side analysis for Swiggy, setting a price target of ₹330 following their Q2 2026 results.",
+        "link": "https://www.livemint.com/market/stock-market-news/swiggy-vs-eternal-shares-compared-which-is-better-stock-to-buy-post-q2-results-jefferies-india-explains-target-price-11792745304355.html",
+        "source": "mint - markets"
        }
       ]
      }
     },
     {
-     "id": "64b4df3c392f",
-     "title": "Yes Bank AT1 coupon due, bondholders seek clarity",
-     "link": "https://economictimes.indiatimes.com/markets/bonds/yes-bank-at1-coupon-due-bondholders-seek-clarity/articleshow/135131245.cms",
-     "source": "Markets-Economic Times",
-     "published": "2026-10-23T01:04:20+00:00",
-     "summary": "Bondholders are demanding clarity from Yes Bank regarding overdue coupon payments following the recent Supreme Court ruling.",
-     "explain": "A 'coupon' is the periodic interest payment a bondholder receives from the issuer. When a bond is restored in court but the issuer fails to pay the interest, bondholders must work with a trustee—a third-party intermediary—to enforce payment. The uncertainty highlights the gap between legal rulings and the operational reality of financial restructuring.",
+     "id": "0a60dc79af6f",
+     "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
+     "link": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph.com News",
+     "published": "2026-10-23T10:13:06+00:00",
+     "summary": "A hacker exploited a Cysic bridge and moved stolen funds into a crypto privacy mixer.",
+     "explain": "A 'bridge' connects two separate blockchain networks so assets can move between them. 'Tornado Cash' is a service used to hide the trail of cryptocurrency transactions, making it harder to track stolen funds. When hackers move money there, it is usually to 'launder' the loot so it cannot be recovered.",
      "related": [],
      "story": {
-      "id": "markets-yes-bank-at1-bond-crisis",
-      "title": "Yes Bank AT1 Bond Crisis",
-      "so_far": "The Supreme Court's recent decision to restore the value of the AT1 bonds has created a legal vacuum for bondholders who were previously excluded from interest payments. These investors are now scrambling to ensure their legal victory translates into actual financial compensation.",
+      "id": "markets-cysic-protocol-bridge-hack",
+      "title": "Cysic Protocol Bridge Hack",
+      "so_far": "Bridges are tools that allow users to transfer assets between different blockchains. Because they hold large amounts of digital assets in 'smart contracts,' they are frequently targeted by hackers looking for vulnerabilities in the code.",
       "timeline": [
        {
         "date": "2026-10-23",
-        "text": "The Supreme Court ruled to restore the value of these bonds, overturning a prior write-down that had rendered the investments worthless.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-at1-bonds-why-the-supreme-court-reversed-the-8415-crore-write-down/videoshow/135131450.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-23",
-        "text": "Nippon AMC agreed to a ₹96.8 crore settlement to resolve allegations of non-compliance following a show-cause notice.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nippon-amc-gets-sebi-nod-for-settlement-in-yes-bank-at1-case/articleshow/135131314.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-23",
-        "text": "Despite the court reversing the write-down of their bonds, investors report that they have not yet received scheduled interest (coupon) payments.",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/yes-bank-at1-coupon-due-bondholders-seek-clarity/articleshow/135131245.cms",
-        "source": "Markets-Economic Times"
+        "text": "A hacker exploited the Cysic bridge to mint 10 million tokens and moved $744,000 worth of crypto into Tornado Cash.",
+        "link": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
        }
       ]
      }
     },
     {
-     "id": "6b74745529bc",
-     "title": "Traders ditch derivatives for broker-funded stock bets",
-     "link": "https://www.livemint.com/market/traders-ditch-derivatives-for-broker-funded-stock-bets-11792660897899.html",
+     "id": "c94c9ed804dc",
+     "title": "Top telecom shares to buy: Bharti Airtel, Vodafone Idea, Indus Towers by Ambit Capital with new stock target price",
+     "link": "https://www.livemint.com/market/stock-market-news/top-telecom-shares-to-buy-bharti-airtel-vodafone-idea-indus-towers-by-ambit-capital-with-new-stock-target-price-11792743892509.html",
      "source": "mint - markets",
-     "published": "2026-10-23T01:00:05+00:00",
-     "summary": "Retail investors in India are moving away from derivatives trading toward broker-funded margin facilities.",
-     "explain": "Derivatives are complex contracts that allow traders to bet on price movements without owning the underlying stock, often using high leverage. Margin trading facilities allow brokers to lend money to investors so they can buy actual shares. By switching, investors are choosing to own the shares themselves while still using borrowed money to increase their potential returns.",
+     "published": "2026-10-23T09:55:59+00:00",
+     "summary": "Ambit Capital maintained a positive outlook on Indian telecom stocks, naming Bharti Airtel as a top pick.",
+     "explain": "Telecom stocks are sensitive to 'tariffs'—the prices they charge for data and calls. When analysts recommend these stocks, they are betting that the companies can raise prices without losing too many customers, thereby increasing their earnings. Regulatory risks include government policy changes that could limit how companies set these prices.",
      "related": [],
      "story": {
-      "id": "markets-retail-investor-shift-in-trading",
-      "title": "Retail Investor Shift in Trading",
-      "so_far": "Indian retail trading has historically been dominated by high-risk, high-reward options and futures (derivatives). Recently, regulatory bodies have introduced more stringent tax laws and increased contract sizes to reduce excessive speculation among individual investors.",
+      "id": "markets-indian-telecom-market-forecast",
+      "title": "Indian Telecom Market Forecast",
+      "so_far": "The Indian telecom sector is dominated by a few major players who are currently investing heavily in 5G infrastructure. Profitability in the sector is largely driven by how much each user spends (ARPU—Average Revenue Per User) and the consolidation of the market.",
       "timeline": [
        {
         "date": "2026-10-23",
-        "text": "Higher taxes and stricter rules on derivatives are driving traders to use margin funding to leverage their stock bets.",
-        "link": "https://www.livemint.com/market/traders-ditch-derivatives-for-broker-funded-stock-bets-11792660897899.html",
+        "text": "Ambit Capital reaffirmed buy ratings for major Indian telecom operators, citing tariff hikes and infrastructure growth as key catalysts.",
+        "link": "https://www.livemint.com/market/stock-market-news/top-telecom-shares-to-buy-bharti-airtel-vodafone-idea-indus-towers-by-ambit-capital-with-new-stock-target-price-11792743892509.html",
         "source": "mint - markets"
+       }
+      ]
+     }
+    },
+    {
+     "id": "2258045dad33",
+     "title": "Bybit secures first full Dubai license for spot trading services",
+     "link": "https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph.com News",
+     "published": "2026-10-23T09:50:04+00:00",
+     "summary": "Bybit has received a license to operate in Dubai, though it must meet further conditions before launching services.",
+     "explain": "A 'spot trading' license allows an exchange to let users buy and sell actual digital assets directly, rather than trading derivatives or bets on price changes. Being 'fully licensed' means the exchange has agreed to follow local laws regarding security, anti-money laundering, and financial oversight, which provides more safety for users.",
+     "related": [],
+     "story": {
+      "id": "markets-bybit-regulatory-expansion",
+      "title": "Bybit Regulatory Expansion",
+      "so_far": "Dubai has positioned itself as a global hub for crypto-asset regulation by establishing the Virtual Assets Regulatory Authority (VARA). Exchanges often seek these licenses to operate legally and build trust with institutional and retail investors.",
+      "timeline": [
+       {
+        "date": "2026-10-23",
+        "text": "Crypto exchange Bybit secured a VARA license for spot trading in Dubai, subject to additional regulatory compliance.",
+        "link": "https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "756c5fe4ad72",
+     "title": "Global Market: Eurozone bond markets stabilise after volatile week",
+     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-markets-stabilise-after-volatile-week/articleshow/135142036.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-10-23T09:49:47+00:00",
+     "summary": "Eurozone government bonds are stabilizing following a period of high volatility.",
+     "explain": "Government bonds are essentially loans that investors give to a country. When bond markets are 'volatile,' it means the interest rates (yields) on that debt are jumping around, signaling investor nervousness about a country's ability to pay or broader economic instability. Stabilization suggests that investors feel more confident or are waiting for new information from central banks.",
+     "related": [],
+     "story": {
+      "id": "markets-global-currency-market-trends",
+      "title": "Global Currency Market Trends",
+      "so_far": "Currency markets are influenced by global interest rate expectations, inflation data, and geopolitical stability. Investors often monitor these movements to gauge the relative strength of various national economies and central bank policy outlooks.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "The euro and British pound maintained stability against the dollar, while the Australian and New Zealand dollars saw minor gains.",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-and-euro-drift-yen-slips-as-markets-seek-direction/articleshow/135059705.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "The Singapore dollar is increasingly favored over the Japanese yen as a funding currency for carry trades.",
+        "link": "https://www.livemint.com/market/singapore-dollar-gains-on-yen-as-carry-funder-analysts-say-11792634002797.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-23",
+        "text": "The Indian rupee declined for the second consecutive day as surging Brent crude prices dampened investor confidence.",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-little-changed-this-week-as-oil-fueled-declines-wipe-out-early-gains/articleshow/135142602.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-23",
+        "text": "Eurozone bond markets have stabilized as investors assess the balance between sovereign debt risks and demand for safe-haven assets.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-markets-stabilise-after-volatile-week/articleshow/135142036.cms",
+        "source": "Markets-Economic Times"
        }
       ]
      }
