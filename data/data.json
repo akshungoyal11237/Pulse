@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-26T02:09:19.247148+00:00",
- "prices_generated": "2026-10-26T10:30:39.226242+00:00",
+ "generated": "2026-10-26T11:06:37.025772+00:00",
+ "prices_generated": "2026-10-26T11:06:37.025772+00:00",
  "ai": "gemini",
- "pulse": null,
+ "pulse": "Indian markets closed higher today, likely bolstered by positive domestic sentiment and strong corporate earnings from companies like Ather Energy. In contrast, US indices ended in the red as investors reacted to cautious guidance from tech giants and uncertainty surrounding upcoming monetary policy decisions. Meanwhile, oil prices dropped significantly on hopes of a potential Iran deal, while gold saw a slight lift as investors possibly sought a safe haven amid the broader market volatility.",
  "ticker_strip": [
   "^NSEI",
   "^BSESN",
@@ -244,10 +244,10 @@
   "BTC-USD": {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 80304.0312,
-   "change": 280.0234,
-   "pct": 0.35,
-   "pct_1m": -4.86,
+   "price": 80200.5234,
+   "change": 176.5156,
+   "pct": 0.22,
+   "pct_1m": -4.98,
    "spark": [
     84406.4531,
     84458.0859,
@@ -279,17 +279,17 @@
     81074.1875,
     80790.8359,
     80024.0078,
-    80304.0312
+    80200.5234
    ],
    "asof": "2026-10-26"
   },
   "ETH-USD": {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 2328.47,
-   "change": 1.5498,
-   "pct": 0.07,
-   "pct_1m": -13.61,
+   "price": 2323.78,
+   "change": -3.1401,
+   "pct": -0.13,
+   "pct_1m": -13.78,
    "spark": [
     2695.2131,
     2686.9268,
@@ -321,17 +321,17 @@
     2384.0774,
     2355.9536,
     2326.9202,
-    2328.47
+    2323.78
    ],
    "asof": "2026-10-26"
   },
   "SOL-USD": {
    "symbol": "SOL-USD",
    "name": "Solana",
-   "price": 101.43,
-   "change": 0.2068,
-   "pct": 0.2,
-   "pct_1m": -16.47,
+   "price": 101.12,
+   "change": -0.1032,
+   "pct": -0.1,
+   "pct_1m": -16.72,
    "spark": [
     121.4256,
     122.0587,
@@ -363,7 +363,7 @@
     102.7799,
     102.2717,
     101.2232,
-    101.43
+    101.12
    ],
    "asof": "2026-10-26"
   },
@@ -402,10 +402,10 @@
   "EURINR=X": {
    "symbol": "EURINR=X",
    "name": "EUR/INR",
-   "price": 106.6638,
-   "change": 0.3488,
-   "pct": 0.33,
-   "pct_1m": 0.75,
+   "price": 106.6557,
+   "change": 0.3407,
+   "pct": 0.32,
+   "pct_1m": 0.74,
    "spark": [
     105.873,
     109.065,
@@ -427,17 +427,17 @@
     106.334,
     106.043,
     106.315,
-    106.6638
+    106.6557
    ],
    "asof": "2026-10-26"
   },
   "EURUSD=X": {
    "symbol": "EURUSD=X",
    "name": "EUR/USD",
-   "price": 1.1207,
-   "change": -0.0014,
-   "pct": -0.13,
-   "pct_1m": -1.5,
+   "price": 1.1202,
+   "change": -0.0019,
+   "pct": -0.17,
+   "pct_1m": -1.55,
    "spark": [
     1.1378,
     1.1373,
@@ -459,17 +459,17 @@
     1.1227,
     1.1235,
     1.1221,
-    1.1207
+    1.1202
    ],
    "asof": "2026-10-26"
   },
   "GBPINR=X": {
    "symbol": "GBPINR=X",
    "name": "GBP/INR",
-   "price": 127.0482,
-   "change": 0.8345,
-   "pct": 0.66,
-   "pct_1m": 0.28,
+   "price": 127.0744,
+   "change": 0.8607,
+   "pct": 0.68,
+   "pct_1m": 0.3,
    "spark": [
     126.6882,
     127.2194,
@@ -491,17 +491,17 @@
     126.6686,
     126.3324,
     126.2137,
-    127.0482
+    127.0744
    ],
    "asof": "2026-10-26"
   },
   "GC=F": {
    "symbol": "GC=F",
    "name": "Gold",
-   "price": 4031.2,
-   "change": 23.3,
-   "pct": 0.58,
-   "pct_1m": -3.29,
+   "price": 4029.0,
+   "change": 21.1001,
+   "pct": 0.53,
+   "pct_1m": -3.34,
    "spark": [
     4168.3999,
     4179.7002,
@@ -523,17 +523,17 @@
     4150.0,
     4060.3999,
     4007.8999,
-    4031.2
+    4029.0
    ],
    "asof": "2026-10-26"
   },
   "SI=F": {
    "symbol": "SI=F",
    "name": "Silver",
-   "price": 54.02,
-   "change": 0.309,
-   "pct": 0.58,
-   "pct_1m": -11.76,
+   "price": 54.005,
+   "change": 0.294,
+   "pct": 0.55,
+   "pct_1m": -11.79,
    "spark": [
     61.22,
     60.668,
@@ -555,17 +555,17 @@
     57.422,
     54.764,
     53.711,
-    54.02
+    54.005
    ],
    "asof": "2026-10-26"
   },
   "CL=F": {
    "symbol": "CL=F",
    "name": "WTI Crude",
-   "price": 101.31,
-   "change": -1.96,
-   "pct": -1.9,
-   "pct_1m": 9.41,
+   "price": 100.96,
+   "change": -2.31,
+   "pct": -2.24,
+   "pct_1m": 9.03,
    "spark": [
     92.6,
     89.38,
@@ -587,17 +587,17 @@
     97.15,
     99.47,
     103.27,
-    101.31
+    100.96
    ],
    "asof": "2026-10-26"
   },
   "BZ=F": {
    "symbol": "BZ=F",
    "name": "Brent Crude",
-   "price": 110.15,
-   "change": -6.57,
-   "pct": -5.63,
-   "pct_1m": 4.63,
+   "price": 109.77,
+   "change": -6.95,
+   "pct": -5.95,
+   "pct_1m": 4.26,
    "spark": [
     105.28,
     102.59,
@@ -619,7 +619,7 @@
     108.82,
     113.17,
     116.72,
-    110.15
+    109.77
    ],
    "asof": "2026-10-26"
   },
@@ -932,70 +932,300 @@
    "label": "India",
    "articles": [
     {
-     "id": "4fcc8cb52a9a",
-     "title": "BJP slams Kharge over ‘indecent’ remarks on PM Modi",
-     "link": "https://www.thehindu.com/news/national/bihar/kharges-remark-in-bihar-pm-modi-father-sparks-row-bjp-congress/article71623852.ece",
+     "id": "e89edea3325b",
+     "title": "Pakistan’s Punjab government extends detention of Imran Khan’s sisters by 30 days",
+     "link": "https://www.thehindu.com/news/international/pakistans-punjab-government-extends-detention-of-imran-khans-sisters-by-30-days/article71626373.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-25T20:21:19+00:00",
-     "summary": "The BJP has announced nationwide protests for October 26, 2026, to condemn remarks made by Congress leader Mallikarjun Kharge about Prime Minister Narendra Modi.",
-     "explain": "This story refers to political tensions where the ruling party, the BJP, organizes protests against opposition leaders for perceived insults against the Prime Minister. 'Rhetoric' refers to the style of political speech used to influence or persuade an audience, often becoming a point of contention in India's highly polarized political environment.",
+     "published": "2026-10-26T10:57:45+00:00",
+     "summary": "Pakistan authorities have extended the detention of Imran Khan's sisters, Aleema Khan, Noreen Niazi, and Dr. Uzma Khan, by another 30 days.",
+     "explain": "The Pakistani government has extended the incarceration of several of Imran Khan's sisters under public safety laws, which allow for administrative detention. Critics of the government call this move politically motivated, implying it is intended to pressure the opposition leader. This highlights the ongoing power struggle between the ruling administration and Khan's PTI party.",
      "related": [],
      "story": {
-      "id": "india-bjp-protests-against-opposition-rhetoric",
-      "title": "BJP Protests Against Opposition Rhetoric",
-      "so_far": "The relationship between the ruling BJP and the primary opposition, led by figures like Mallikarjun Kharge, is marked by intense ideological conflict and frequent rhetorical escalations. Public demonstrations and coordinated protests are common tools used by both sides to influence public sentiment and signal disapproval of the other's political messaging.",
+      "id": "india-detention-of-imran-khan-s-family",
+      "title": "Detention of Imran Khan's Family",
+      "so_far": "Imran Khan, the former Prime Minister of Pakistan and leader of the Pakistan Tehreek-e-Insaf (PTI) party, has faced significant legal challenges and imprisonment since his ousting from power in 2022. His family members and party leaders frequently report state-led harassment, asserting that these actions are politically motivated efforts to stifle opposition against the current government.",
       "timeline": [
        {
-        "date": "2026-10-25",
-        "text": "The BJP is mobilizing its state units to conduct organized protests against Mallikarjun Kharge for comments made at a rally in Patna.",
-        "link": "https://www.thehindu.com/news/national/bihar/kharges-remark-in-bihar-pm-modi-father-sparks-row-bjp-congress/article71623852.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-25",
-        "text": "The party has officially instructed state units to execute organized demonstrations against Kharge.",
-        "link": "https://www.ndtv.com/india-news/bjp-to-launch-nationwide-protests-against-mallikarjun-kharge-over-remarks-on-pm-modi-12234707#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-10-25",
-        "text": "The trigger for the planned protests is specifically identified as Kharge's recent remarks at a Patna event.",
-        "link": "https://www.thehindu.com/news/national/bjp-to-hold-nationwide-protest-on-october-26-against-kharges-baap-remark-for-modi/article71624386.ece",
+        "date": "2026-10-26",
+        "text": "Pakistan authorities have extended the detention of Imran Khan's sisters, Aleema Khan, Noreen Niazi, and Dr. Uzma Khan, by another 30 days.",
+        "link": "https://www.thehindu.com/news/international/pakistans-punjab-government-extends-detention-of-imran-khans-sisters-by-30-days/article71626373.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "9deeccb04d6e",
-     "title": "BJP To Launch Nationwide Protests Against Mallikarjun Kharge Over Remarks On PM Modi",
-     "link": "https://www.ndtv.com/india-news/bjp-to-launch-nationwide-protests-against-mallikarjun-kharge-over-remarks-on-pm-modi-12234707#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-10-25T17:53:27+00:00",
-     "summary": "The BJP is directing its regional offices to hold firm, peaceful demonstrations across India to protest against Mallikarjun Kharge's recent comments about the Prime Minister.",
-     "explain": "The BJP is utilizing its nationwide organizational structure to stage these protests as a show of strength and solidarity against opposition critiques. This reflects the standard practice of political parties in India using public mobilization to amplify their response to controversial statements.",
+     "id": "52636543db58",
+     "title": "All stakeholders need to find solutions to issues of sugarcane growers, says Karnataka CM",
+     "link": "https://www.thehindu.com/news/national/karnataka/all-stakeholders-need-to-find-solutions-to-issues-of-sugarcane-growers-says-karnataka-cm/article71626500.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-26T10:56:57+00:00",
+     "summary": "Karnataka's Chief Minister has called for a collaborative solution involving factory owners and legislators to address the concerns of sugarcane growers.",
+     "explain": "Sugarcane growers in India often struggle with market price fluctuations and delays in payments from sugar factories. When tensions rise, state governments often step in to mediate talks. This process matters because sugarcane is a major cash crop, and instability in this sector impacts the livelihoods of thousands of agricultural families.",
      "related": [],
      "story": {
-      "id": "india-bjp-protests-against-opposition-rhetoric",
-      "title": "BJP Protests Against Opposition Rhetoric",
-      "so_far": "The relationship between the ruling BJP and the primary opposition, led by figures like Mallikarjun Kharge, is marked by intense ideological conflict and frequent rhetorical escalations. Public demonstrations and coordinated protests are common tools used by both sides to influence public sentiment and signal disapproval of the other's political messaging.",
+      "id": "india-karnataka-sugarcane-growers-disputes",
+      "title": "Karnataka Sugarcane Growers Disputes",
+      "so_far": "Sugarcane farming is a vital economic pillar in Karnataka, with farmers frequently protesting for better procurement prices, timely payments from sugar mills, and fair distribution of irrigation resources. Disputes often arise between farmers and mill owners over payment arrears, prompting government intervention to mediate between the two groups.",
       "timeline": [
        {
-        "date": "2026-10-25",
-        "text": "The BJP is mobilizing its state units to conduct organized protests against Mallikarjun Kharge for comments made at a rally in Patna.",
-        "link": "https://www.thehindu.com/news/national/bihar/kharges-remark-in-bihar-pm-modi-father-sparks-row-bjp-congress/article71623852.ece",
+        "date": "2026-10-26",
+        "text": "Karnataka's Chief Minister has called for a collaborative solution involving factory owners and legislators to address the concerns of sugarcane growers.",
+        "link": "https://www.thehindu.com/news/national/karnataka/all-stakeholders-need-to-find-solutions-to-issues-of-sugarcane-growers-says-karnataka-cm/article71626500.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "502f2f2a3029",
+     "title": "Kharge’s remark against PM Modi ideological attack, not personal, says Congress general secretary K.C. Venugopal",
+     "link": "https://www.thehindu.com/news/national/kharges-remark-against-pm-modi-ideological-attack-not-personal-says-congress-general-secretary-kc-venugopal/article71626502.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-26T10:55:30+00:00",
+     "summary": "Congress leader K.C. Venugopal clarified that Mallikarjun Kharge's recent criticism of the Prime Minister was an ideological critique of the RSS, not a personal attack.",
+     "explain": "This article discusses the ongoing war of words between India's major political parties. The INC is emphasizing that their criticisms are directed at the BJP's parent organization, the RSS, rather than the Prime Minister personally. In Indian politics, this distinction is often used to frame debates as clashes between competing visions for the country's governance.",
+     "related": [
+      {
+       "date": "2026-10-25",
+       "title": "BJP to hold nationwide protest on October 26 against Kharge’s remark on Modi",
+       "link": "https://www.thehindu.com/news/national/bjp-to-hold-nationwide-protest-on-october-26-against-kharges-baap-remark-for-modi/article71624386.ece",
+       "source": "India Latest News: Top National Headline"
+      }
+     ],
+     "story": {
+      "id": "india-political-rhetoric-and-ideological-debat",
+      "title": "Political Rhetoric and Ideological Debates",
+      "so_far": "The political discourse between India's ruling Bharatiya Janata Party (BJP) and the opposition Indian National Congress (INC) is frequently marked by intense ideological clashes. These debates often focus on the influence of the Rashtriya Swayamsevak Sangh (RSS) on the BJP, leading to frequent exchanges over the nature of nationalism, secularism, and political leadership.",
+      "timeline": [
+       {
+        "date": "2026-10-26",
+        "text": "Congress leader K.C. Venugopal clarified that Mallikarjun Kharge's recent criticism of the Prime Minister was an ideological critique of the RSS, not a personal attack.",
+        "link": "https://www.thehindu.com/news/national/kharges-remark-against-pm-modi-ideological-attack-not-personal-says-congress-general-secretary-kc-venugopal/article71626502.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "f5c69e3cb41c",
+     "title": "Madras High Court denies anticipatory bail to Anbil Mahesh Poyyamozhi in ₹100-crore private schools fraud case",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-denies-anticipatory-bail-to-anbil-mahesh-poyyamozhi-in-rs-100-crore-private-schools-fraud-case/article71625866.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-26T10:46:58+00:00",
+     "summary": "The Madras High Court has rejected an anticipatory bail request from Anbil Mahesh Poyyamozhi in connection with a major private school fraud investigation.",
+     "explain": "Anticipatory bail is a legal provision that allows a person to seek protection from arrest if they believe they are about to be accused of a crime. By denying this plea, the court allows the investigation by the Chennai police to continue without the protection of bail. This is a significant development for a public official under scrutiny for a multi-crore corruption case.",
+     "related": [],
+     "story": {
+      "id": "india-private-school-fraud-investigation",
+      "title": "Private School Fraud Investigation",
+      "so_far": "Financial fraud cases involving the private education sector in India are subject to rigorous investigation by state crime branches. These cases often involve allegations of illegal fee collection, embezzlement of school funds, or corruption in administrative appointments, leading to high-profile legal battles for the accused.",
+      "timeline": [
+       {
+        "date": "2026-10-26",
+        "text": "The Madras High Court has rejected an anticipatory bail request from Anbil Mahesh Poyyamozhi in connection with a major private school fraud investigation.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-denies-anticipatory-bail-to-anbil-mahesh-poyyamozhi-in-rs-100-crore-private-schools-fraud-case/article71625866.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "f49e8d60435b",
+     "title": "Four arrested in retired IPS officer’s wife murder case after six-month hunt",
+     "link": "https://www.thehindu.com/news/cities/Hyderabad/four-arrested-in-retired-ips-officers-wife-murder-case-after-six-month-hunt/article71626475.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-26T10:44:06+00:00",
+     "summary": "Police have arrested four suspects in the murder of a retired IPS officer's wife, concluding a six-month investigation.",
+     "explain": "IPS (Indian Police Service) officers are elite civil servants who hold high-ranking positions within the police force. When a crime targets their family, it typically receives immediate and thorough attention from law enforcement, involving inter-state or international cooperation to track down perpetrators who may have fled the jurisdiction.",
+     "related": [],
+     "story": {
+      "id": "india-crime-and-investigation-reports",
+      "title": "Crime and Investigation Reports",
+      "so_far": "Public safety incidents involving celebrities in Mumbai frequently trigger immediate political attention and rapid deployment of elite police units due to the high profile of the victims and the risk to the city's reputation.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "The legal resolution of the long-standing Gulshan Kumar murder case continues with this High Court ruling.",
+        "link": "https://www.thehindu.com/news/cities/mumbai/gulshan-kumar-murder-case-bombay-hc-upholds-acquittal-of-producer-ramesh-taurani-confirms-conviction-of-one-accused/article61447838.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "A major investigation is underway following a direct threat and shooting incident targeting a celebrity in Mumbai.",
+        "link": "https://www.thehindu.com/news/cities/mumbai/tiger-shroff-firing-in-mumbai-juhu-october-18-2026/article71600449.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The total number of arrests in the Tiger Shroff shooting case has risen as police expand the investigation to include logistics facilitators.",
+        "link": "https://www.ndtv.com/india-news/4-more-people-including-2-women-arrested-in-tiger-shroff-shooting-case-12212352#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-21",
+        "text": "Four more individuals have been taken into custody in the ongoing investigation into the shooting incident.",
+        "link": "https://www.thehindu.com/news/national/maharashtra/tiger-shroff-firing-case-four-arrested-for-allegedly-transporting-firearm-to-mumbai-helping-coordinate-operation/article71605447.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "Authorities are investigating online accounts for spreading alleged misinformation about high-profile figures in a documentary.",
+        "link": "https://www.thehindu.com/news/cities/mumbai/mumbai-police-issue-notices-to-24-x-accounts-over-sabeer-bhatias-documentary/article71609861.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "Police have apprehended three suspects involved in a violent highway robbery that occurred in June 2026.",
+        "link": "https://www.thehindu.com/news/national/kerala/three-accused-in-pilathara-gold-robbery-case-in-keralams-kannur-arrested/article71610416.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "Police have arrested four individuals for the fatal assault of a laborer in Vijayawada.",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/labourer-allegedly-tied-to-pole-beaten-to-death-in-vijayawada-over-a-bottle-of-wate/article71610751.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-23",
+        "text": "A fatal physical altercation involving a DRDO employee and his neighbor has led to a police investigation in Hyderabad.",
+        "link": "https://www.ndtv.com/india-news/drdo-employee-dies-after-neighbour-punches-him-in-face-ocver-misbehaviour-12222914#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-23",
+        "text": "A man was arrested in Thoothukudi for the murder of a woman who objected to his communication with her underage daughter.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/woman-hacked-to-death-in-thoothukudi-over-objection-to-mans-contact-with-her-minor-daughter/article71615111.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-24",
+        "text": "The Supreme Court panel has opened a public window for evidence submission regarding police violence during NEET protests.",
+        "link": "https://www.thehindu.com/news/cities/Delhi/delhi-neet-protest-sc-panel-to-hear-evidence-on-pellet-gun-use-harassment-claims-on-oct-29-30/article71619518.ece",
         "source": "India Latest News: Top National Headline"
        },
        {
         "date": "2026-10-25",
-        "text": "The party has officially instructed state units to execute organized demonstrations against Kharge.",
-        "link": "https://www.ndtv.com/india-news/bjp-to-launch-nationwide-protests-against-mallikarjun-kharge-over-remarks-on-pm-modi-12234707#publisher=newsstand",
+        "text": "A delivery person was apprehended by police for misappropriating high-value goods meant for delivery.",
+        "link": "https://www.ndtv.com/india-news/delivery-agent-stole-rs-4-lakh-worth-of-parcels-instead-of-delivering-them-in-gujarat-12231786#publisher=newsstand",
         "source": "NDTV News Search Records Found 1000"
        },
        {
-        "date": "2026-10-25",
-        "text": "The trigger for the planned protests is specifically identified as Kharge's recent remarks at a Patna event.",
-        "link": "https://www.thehindu.com/news/national/bjp-to-hold-nationwide-protest-on-october-26-against-kharges-baap-remark-for-modi/article71624386.ece",
+        "date": "2026-10-26",
+        "text": "The long-running investigation into the murder of a retired police officer's wife resulted in four arrests after teams tracked the suspects to Nepal.",
+        "link": "https://www.thehindu.com/news/cities/Hyderabad/four-arrested-in-retired-ips-officers-wife-murder-case-after-six-month-hunt/article71626475.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "73c24da58c14",
+     "title": "Rain lashes districts across southern Tamil Nadu",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/rain-lashes-districts-across-southern-tamil-nadu/article71626092.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-26T10:42:35+00:00",
+     "summary": "Heavy rainfall in southern Tamil Nadu has prompted authorities to restrict heavy vehicle movement on ghat roads for safety.",
+     "explain": "Ghat roads are mountainous routes through the Western and Eastern Ghats of India, known for their steep curves and susceptibility to landslides during heavy rains. Authorities often restrict heavy traffic on these roads during the monsoon as a precautionary measure to keep travelers safe and prevent infrastructure damage.",
+     "related": [
+      {
+       "date": "2026-10-21",
+       "title": "Tamil Nadu rain: Schools in Chennai, four other districts declare holiday",
+       "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-rain-schools-in-chennai-four-other-districts-declare-holiday/article71606049.ece",
+       "source": "India Latest News: Top National Headline"
+      }
+     ],
+     "story": {
+      "id": "india-tamil-nadu-monsoon-disruptions",
+      "title": "Tamil Nadu Monsoon Disruptions",
+      "so_far": "Coastal Tamil Nadu frequently experiences heavy rainfall during the Northeast monsoon season. Urban centers like Chennai often face infrastructure and transportation challenges when localized downpours exceed drainage capacities.",
+      "timeline": [
+       {
+        "date": "2026-10-21",
+        "text": "Chennai and four other districts have closed schools due to heavy rain and flood alerts.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-rain-schools-in-chennai-four-other-districts-declare-holiday/article71606049.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-21",
+        "text": "Cuddalore district officials have identified 239 vulnerable areas and readied 233 shelters in anticipation of the Northeast monsoon.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-minister-reviews-northeast-monsoon-preparedness-in-cuddalore/article71606919.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-24",
+        "text": "A mudslide linked to heavy rainfall caused by a developing cyclonic storm has resulted in fatalities in the Nilgiris district.",
+        "link": "https://www.thehindu.com/news/national/bay-of-bengal-weather-update-cyclone-alert-latest-weather-news-live-updates-october-24-2026/article71619022.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "Highways department officials have restricted heavy vehicle traffic on the Kodaikanal ghat section to prevent accidents caused by heavy rains.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/rain-lashes-districts-across-southern-tamil-nadu/article71626092.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "4cc835bf4297",
+     "title": "Supreme Court notice to Centre, ECI on plea against MLAs ‘abandoning’ seats to shift loyalty at public expense",
+     "link": "https://www.thehindu.com/news/national/sc-notice-to-centre-ec-on-plea-against-mlas-abandoning-seats-to-shift-loyalty-at-public-expense/article71626367.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-26T10:41:03+00:00",
+     "summary": "The Supreme Court has issued notices to the Centre and the Election Commission regarding a petition that challenges the ethics of MLAs switching parties shortly after being elected.",
+     "explain": "The Supreme Court is weighing in on whether it is democratic for a lawmaker to switch parties immediately after winning an election. The court's notice forces the government and the Election Commission to provide an official response on the integrity of the voting process. This matters because it touches on the foundational trust between voters and their elected representatives.",
+     "related": [],
+     "story": {
+      "id": "india-political-defections-and-legal-scrutiny",
+      "title": "Political Defections and Legal Scrutiny",
+      "so_far": "Political defections, often called 'floor-crossing,' remain a controversial aspect of Indian democracy. While some defections occur due to ideological differences, many are viewed as self-serving maneuvers that undermine the mandate voters gave to a specific party, prompting calls for stricter anti-defection laws to ensure legislative stability.",
+      "timeline": [
+       {
+        "date": "2026-10-26",
+        "text": "The Supreme Court has issued notices to the Centre and the Election Commission regarding a petition that challenges the ethics of MLAs switching parties shortly after being elected.",
+        "link": "https://www.thehindu.com/news/national/sc-notice-to-centre-ec-on-plea-against-mlas-abandoning-seats-to-shift-loyalty-at-public-expense/article71626367.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "772f79511fa8",
+     "title": "Why TVK is eager to woo AIADMK cadre",
+     "link": "https://www.thehindu.com/opinion/op-ed/why-tvk-is-eager-to-woo-aiadmk-cadre/article71086362.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-26T10:41:02+00:00",
+     "summary": "The Tamil Vizha Kazhagam (TVK) is actively recruiting members from the AIADMK, aiming to strengthen its position in Tamil Nadu's political landscape.",
+     "explain": "Political parties frequently engage in 'poaching' or wooing members from rival camps to boost their organizational strength. In Tamil Nadu, these realignments often signal major shifts in the upcoming electoral landscape as parties look to capitalize on the fragmentation of traditional vote banks.",
+     "related": [],
+     "story": {
+      "id": "india-political-realignments-and-legal-battles",
+      "title": "Political Realignments and Legal Battles",
+      "so_far": "Yusuf Pathan, a former cricketer turned politician, was previously associated with the Trinamool Congress (TMC). His recent political switch highlights the fluidity of legislative loyalties and the impact these moves have on resource allocation and political standing.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "Yusuf Pathan and 20 other MPs have reportedly rebelled against the TMC, leading to speculation about their future political affiliations.",
+        "link": "https://www.ndtv.com/india-news/vadodara-land-row-nda-joining-bonus-for-yusuf-pathan-a-plot-twist-in-long-legal-battle-12209050#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "A security aide has admitted to providing false testimony in an ongoing investigation involving a high-ranking official.",
+        "link": "https://www.thehindu.com/news/national/kerala/ex-gunman-of-veena-george-will-face-action-for-false-statement-keralam-health-minister/article71604131.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Yusuf Pathan has received a government land allocation amid his recent transition into the BJP-led NDA fold.",
+        "link": "https://www.thehindu.com/news/national/gujarat/gujarat-govt-gifts-part-of-disputed-vadodara-plot-to-yusuf-pathan/article71604103.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "The TVK is working to expand its influence by absorbing members from the opposition AIADMK party.",
+        "link": "https://www.thehindu.com/opinion/op-ed/why-tvk-is-eager-to-woo-aiadmk-cadre/article71086362.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
@@ -1003,13 +1233,26 @@
     },
     {
      "id": "2ad9c0cf3bea",
-     "title": "Cyclone Arnab to cross Andhra coast by October 28; rains continue in Tamil Nadu | LIVE",
+     "title": "Cyclonic storm 'Arnab' to cross Andhra Pradesh-Yanam coast as very severe storm by October 28: IMD | LIVE",
      "link": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-live-updates-imd-weather-forecast-rain-warnings-bay-of-bengal-october-26-2026/article71625447.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-26T01:59:35+00:00",
+     "published": "2026-10-26T10:36:26+00:00",
      "summary": "Odisha is preparing for the arrival of Cyclone Arnab, which is expected to cross the Andhra Pradesh coast by October 28, 2026.",
      "explain": "Cyclones are severe storms characterized by strong winds and heavy rainfall that can cause massive destruction in coastal areas. Governments 'mobilize personnel' by sending government officials, police, and disaster response forces to high-risk zones to assist with evacuations and prepare for potential damage.",
-     "related": [],
+     "related": [
+      {
+       "date": "2026-10-25",
+       "title": "Andhra Pradesh braces for very severe cyclonic storm; landfall likely between Bapatla and Vizag on October 28",
+       "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-braces-for-very-severe-cyclonic-storm-landfall-likely-between-bapatla-and-vizag-on-october-28/article71621095.ece",
+       "source": "India Latest News: Top National Headline"
+      },
+      {
+       "date": "2026-10-25",
+       "title": "Andhra braces for very severe cyclonic storm; Odisha activates disaster mitigation machinery | LIVE",
+       "link": "https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece",
+       "source": "India Latest News: Top National Headline"
+      }
+     ],
      "story": {
       "id": "india-cyclone-arnab-preparedness",
       "title": "Cyclone Arnab Preparedness",
@@ -1025,179 +1268,23 @@
      }
     },
     {
-     "id": "efe8a3ad74bf",
-     "title": "Hindutva reading builds on colonial interpretations of Indian history: Romila Thapar",
-     "link": "https://www.thehindu.com/news/national/hindutva-reading-builds-on-colonial-interpretations-of-indian-history-romila-thapar/article71624128.ece",
+     "id": "5efba4b01c18",
+     "title": "Police conduct flag march in Guntur ahead of GMC elections",
+     "link": "https://www.thehindu.com/news/national/andhra-pradesh/police-conduct-flag-march-in-guntur-ahead-of-gmc-elections/article71626193.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-26T01:09:53+00:00",
-     "summary": "Historian Romila Thapar has stated that current interpretations of Indian history influenced by Hindutva ideology rely heavily on colonial-era frameworks.",
-     "explain": "Historiography is the study of how history is written and interpreted over time. This debate is significant in India because history is often used to shape national identity, and scholars like Romila Thapar frequently critique how political ideologies can influence the way the past is portrayed to the public.",
+     "published": "2026-10-26T10:25:23+00:00",
+     "summary": "Police in Guntur conducted a flag march to maintain law and order ahead of the upcoming Guntur Municipal Corporation (GMC) elections.",
+     "explain": "A flag march is a common security tactic used by Indian police, where officers patrol sensitive areas to build public confidence and discourage potential law-breakers. This exercise is typical in the lead-up to local elections to ensure that the voting process remains peaceful and free from intimidation.",
      "related": [],
      "story": {
-      "id": "india-historiography-and-cultural-discourse",
-      "title": "Historiography and Cultural Discourse",
-      "so_far": "The interpretation of Indian history is a subject of frequent debate between scholars who advocate for secular, evidence-based academic research and those who promote narratives aligned with cultural or nationalist identities.",
+      "id": "india-guntur-municipal-election-preparations",
+      "title": "Guntur Municipal Election Preparations",
+      "so_far": "Municipal elections in India are the primary means of choosing local government representatives responsible for urban planning, waste management, and infrastructure. Due to the high intensity of local political competition, these events often require significant police deployment to prevent election-related violence and voter intimidation.",
       "timeline": [
        {
         "date": "2026-10-26",
-        "text": "Thapar argues that prioritizing physical evidence like inscriptions over existing narratives could lead to a more accurate understanding of Indian history.",
-        "link": "https://www.thehindu.com/news/national/hindutva-reading-builds-on-colonial-interpretations-of-indian-history-romila-thapar/article71624128.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "841e1337766f",
-     "title": "Monsoon tracker updates: Depression over Bay of Bengal set to become ‘very severe cyclonic storm’, cross A.P. coast by October 28",
-     "link": "https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-26T00:38:50+00:00",
-     "summary": "Coastal Andhra Pradesh and Odisha are preparing for a severe cyclonic storm, with heavy rainfall also expected in Tamil Nadu.",
-     "explain": "A cyclonic storm is a large-scale weather system characterized by strong rotating winds and heavy rain. 'Landfall' refers to the moment the center of the storm reaches land. These storms are dangerous due to flooding, high-speed winds, and storm surges, requiring governments to activate emergency response teams.",
-     "related": [],
-     "story": {
-      "id": "india-severe-cyclonic-storm-preparations",
-      "title": "Severe Cyclonic Storm Preparations",
-      "so_far": "Coastal India, particularly regions along the Bay of Bengal like Odisha, Andhra Pradesh, and Tamil Nadu, is highly susceptible to cyclones during the post-monsoon season. These events often necessitate mass evacuations and the deployment of the National Disaster Response Force (NDRF) to minimize casualties and infrastructure damage.",
-      "timeline": [
-       {
-        "date": "2026-10-25",
-        "text": "Disaster mitigation machinery has been activated in Odisha and Andhra Pradesh as a cyclone approaches the coast.",
-        "link": "https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-25",
-        "text": "The cyclone is expected to make landfall between Bapatla and Vizag on October 28 with wind speeds reaching up to 130 kmph.",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-braces-for-very-severe-cyclonic-storm-landfall-likely-between-bapatla-and-vizag-on-october-28/article71621095.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "71616ff651b4",
-     "title": "Raj Thackeray deletes Modi-Adani documentary post after Mumbai Police chief’s request, vows to continue fight",
-     "link": "https://www.thehindu.com/news/national/raj-thackeray-deletes-pm-modi-adani-documentary-from-social-media-after-mumbai-police-chiefs-request/article71622785.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-25T21:02:27+00:00",
-     "summary": "MNS chief Raj Thackeray removed a post sharing a documentary critical of the Adani Group following a request from the Mumbai Police Commissioner.",
-     "explain": "Corporate monopolies occur when a single company or group has exclusive control over a specific industry. In this context, Raj Thackeray's public criticism of a major corporate group showcases how politicians use digital platforms to challenge large business interests, sometimes drawing intervention from state authorities.",
-     "related": [],
-     "story": {
-      "id": "india-political-figures-and-corporate-criticis",
-      "title": "Political Figures and Corporate Criticism",
-      "so_far": "Political leaders in India often use social media to level allegations of corruption or corporate-political collusion. These posts frequently lead to friction with legal or law enforcement authorities, highlighting the tension between freedom of expression and public order mandates.",
-      "timeline": [
-       {
-        "date": "2026-10-25",
-        "text": "Thackeray complied with the police request but reiterated his intention to keep opposing alleged corporate monopolies.",
-        "link": "https://www.thehindu.com/news/national/raj-thackeray-deletes-pm-modi-adani-documentary-from-social-media-after-mumbai-police-chiefs-request/article71622785.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "9404eeb59299",
-     "title": "BJP to hold nationwide protest on October 26 against Kharge’s remark on Modi",
-     "link": "https://www.thehindu.com/news/national/bjp-to-hold-nationwide-protest-on-october-26-against-kharges-baap-remark-for-modi/article71624386.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-25T20:48:22+00:00",
-     "summary": "The BJP has scheduled nationwide protests against Mallikarjun Kharge for making comments about Prime Minister Narendra Modi's late father.",
-     "explain": "This article confirms that the ongoing political friction is stemming from personal comments regarding the Prime Minister's family, which the ruling party views as offensive and worthy of a national mobilization.",
-     "related": [],
-     "story": {
-      "id": "india-bjp-protests-against-opposition-rhetoric",
-      "title": "BJP Protests Against Opposition Rhetoric",
-      "so_far": "The relationship between the ruling BJP and the primary opposition, led by figures like Mallikarjun Kharge, is marked by intense ideological conflict and frequent rhetorical escalations. Public demonstrations and coordinated protests are common tools used by both sides to influence public sentiment and signal disapproval of the other's political messaging.",
-      "timeline": [
-       {
-        "date": "2026-10-25",
-        "text": "The BJP is mobilizing its state units to conduct organized protests against Mallikarjun Kharge for comments made at a rally in Patna.",
-        "link": "https://www.thehindu.com/news/national/bihar/kharges-remark-in-bihar-pm-modi-father-sparks-row-bjp-congress/article71623852.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-25",
-        "text": "The party has officially instructed state units to execute organized demonstrations against Kharge.",
-        "link": "https://www.ndtv.com/india-news/bjp-to-launch-nationwide-protests-against-mallikarjun-kharge-over-remarks-on-pm-modi-12234707#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-10-25",
-        "text": "The trigger for the planned protests is specifically identified as Kharge's recent remarks at a Patna event.",
-        "link": "https://www.thehindu.com/news/national/bjp-to-hold-nationwide-protest-on-october-26-against-kharges-baap-remark-for-modi/article71624386.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "c01a90ba2a2d",
-     "title": "Ernakulam district panchayat in Keralam to speed up sterilisation of dogs",
-     "link": "https://www.thehindu.com/news/national/kerala/ernakulam-district-panchayat-in-keralam-to-speed-up-sterilisation-of-dogs/article71579887.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-25T20:34:01+00:00",
-     "summary": "In Ernakulam, Kerala, local authorities are struggling to reach targets for the sterilization and vaccination of stray dogs through the Animal Birth Control (ABC) program.",
-     "explain": "The Animal Birth Control (ABC) program is a standard method used to manage stray populations by sterilizing and vaccinating dogs rather than culling them. The inability to hit targets often leads to public frustration regarding safety in residential areas.",
-     "related": [],
-     "story": {
-      "id": "india-animal-birth-control-in-kerala",
-      "title": "Animal Birth Control in Kerala",
-      "so_far": "Managing the stray dog population is a recurring public health and safety issue in Kerala, leading to frequent government intervention to address concerns about rabies and dog bites while balancing animal rights.",
-      "timeline": [
-       {
-        "date": "2026-10-25",
-        "text": "Despite having two operational centers, the district panchayat is failing to meet the monthly sterilization quota of 100 dogs per center.",
-        "link": "https://www.thehindu.com/news/national/kerala/ernakulam-district-panchayat-in-keralam-to-speed-up-sterilisation-of-dogs/article71579887.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "95ae5acad808",
-     "title": "One killed as off-road vehicle plunges into gorge at Kakkadampoyil in Keralam’s Kozhikode",
-     "link": "https://www.thehindu.com/news/national/kerala/one-killed-as-off-road-vehicle-plunges-into-gorge-at-kakkadampoyil-in-keralams-kozhikode/article71624454.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-25T20:31:41+00:00",
-     "summary": "A vehicle accident in Kakkadampoyil, Kerala, resulted in one fatality after an off-road vehicle fell into a gorge.",
-     "explain": "This is a report on a local road safety incident. 'Off-road vehicles' are designed for rough terrain, but high-altitude, narrow roads like those in Kerala often remain dangerous even for specialized transport.",
-     "related": [],
-     "story": {
-      "id": "india-road-accidents-in-kerala",
-      "title": "Road Accidents in Kerala",
-      "so_far": "Kerala's hilly terrain frequently presents significant driving hazards, particularly during rainy weather, leading to incidents on narrow and winding roads that local emergency services must manage.",
-      "timeline": [
-       {
-        "date": "2026-10-25",
-        "text": "Authorities are investigating the incident where the driver reportedly lost control on the Koodaranhi-Kakkadampoyil route.",
-        "link": "https://www.thehindu.com/news/national/kerala/one-killed-as-off-road-vehicle-plunges-into-gorge-at-kakkadampoyil-in-keralams-kozhikode/article71624454.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "1f889b4f7088",
-     "title": "String theory pioneer Ashoke Sen wins Oskar Klein Medal",
-     "link": "https://www.thehindu.com/sci-tech/science/award-winning-theoretical-physicist-ashoke-sen-has-focused-on-string-theory/article71623560.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-25T20:27:01+00:00",
-     "summary": "Indian physicist Ashoke Sen has been awarded the Oskar Klein Medal for his contributions to string theory.",
-     "explain": "String theory is a complex area of theoretical physics that attempts to reconcile gravity with quantum mechanics by suggesting that the fundamental constituents of the universe are tiny, vibrating 'strings.' Winning the Oskar Klein Medal is a major international achievement in the scientific community.",
-     "related": [],
-     "story": {
-      "id": "india-scientific-achievements-of-ashoke-sen",
-      "title": "Scientific Achievements of Ashoke Sen",
-      "so_far": "Ashoke Sen is a renowned Indian theoretical physicist known globally for his pioneering work in string theory. His research has consistently garnered prestigious international recognition, highlighting Indian contributions to high-level theoretical science.",
-      "timeline": [
-       {
-        "date": "2026-10-25",
-        "text": "The award was presented by Stockholm University and the Nobel Committee for Physics.",
-        "link": "https://www.thehindu.com/sci-tech/science/award-winning-theoretical-physicist-ashoke-sen-has-focused-on-string-theory/article71623560.ece",
+        "text": "Police in Guntur conducted a flag march to maintain law and order ahead of the upcoming Guntur Municipal Corporation (GMC) elections.",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/police-conduct-flag-march-in-guntur-ahead-of-gmc-elections/article71626193.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
@@ -1209,138 +1296,344 @@
    "label": "World",
    "articles": [
     {
-     "id": "78d68b03307b",
-     "title": "Venezuelan opposition leader María Machado returns after months in exile",
-     "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-10-25T23:33:14+00:00",
-     "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "22b4a940da9c",
-     "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
-     "link": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss",
+     "id": "fae5a78097ab",
+     "title": "China’s political elite gather for talks on Communist Party discipline",
+     "link": "https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-25T18:55:39+00:00",
-     "summary": "The Nobel laureate&#039;s homecoming follows national protests demanding free elections.",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "956ebdcd8c8b",
-     "title": "Strike on Gaza university kills three: staff, hospital",
-     "link": "https://www.thehindu.com/news/international/strike-on-gaza-university-kills-three-staff-hospital/article71624609.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-10-25T19:41:40+00:00",
-     "summary": "The university said the campus and its surroundings had been targeted twice on October 25, condemning the attacks and mourning those killed in a statement",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "46e53328bbb5",
-     "title": "Israeli air strike on Gaza City university kills three people",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-25T18:12:13+00:00",
-     "summary": "Two Israeli strikes hit students and security guards at the Islamic University in Gaza City.",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "37ff76733eed",
-     "title": "Israel to close all land crossings with West Bank on election day",
-     "link": "https://www.thehindu.com/news/international/israel-to-close-all-land-crossings-with-west-bank-on-election-day/article71622494.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-10-25T06:04:15+00:00",
-     "summary": "The Israeli military has restricted Palestinian movement into Israeli communities and the Jordan Valley ahead of the upcoming general election.",
-     "explain": "This move reinforces the lockdown mentioned in the previous report. By using terms like 'Judea and Samaria,' the Israeli military is using biblical names for the West Bank, a practice favored by those who believe the land has deep historic ties to Israel, whereas 'West Bank' is the term preferred by the international community.",
+     "published": "2026-10-26T05:38:41+00:00",
+     "summary": "The Chinese Communist Party is holding a secretive, four-day meeting in Beijing to discuss internal discipline and party governance.",
+     "explain": "A Plenum is a formal gathering of the entire Central Committee of the Chinese Communist Party. These events are significant because they determine the country's political and economic trajectory. Because these meetings are held behind closed doors with strict security, they are often opaque, meaning the world must wait until the meeting ends to learn what decisions were made.",
      "related": [],
      "story": {
-      "id": "world-israel-west-bank-election-lockdown",
-      "title": "Israel West Bank Election Lockdown",
-      "so_far": "The Israeli-Palestinian conflict over the West Bank involves long-standing issues of military occupation, settlement expansion, and security restrictions. Palestinian workers frequently rely on crossing points to reach jobs in Israel or Israeli-administered settlements, making such closures a significant economic and social disruption.",
+      "id": "world-china-s-secretive-communist-party-plenum",
+      "title": "China's Secretive Communist Party Plenum",
+      "so_far": "The Chinese Communist Party frequently holds 'Plenums'—closed-door meetings of its central committee—to set national policy and party rules. These meetings are closely monitored by global observers to gauge shifts in leadership power or ideological focus. Historically, these gatherings serve to solidify the authority of the party elite and finalize key policy strategies before being communicated to the public.",
       "timeline": [
        {
-        "date": "2026-10-25",
-        "text": "Israel announced a total closure of all West Bank land crossings to occur on election day.",
-        "link": "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss",
+        "date": "2026-10-26",
+        "text": "The four-day meeting began to address internal party discipline and the nation's future governance direction.",
+        "link": "https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
        },
        {
-        "date": "2026-10-25",
-        "text": "The military confirmed that entry for work purposes is banned starting October 25.",
-        "link": "https://www.thehindu.com/news/international/israel-to-close-all-land-crossings-with-west-bank-on-election-day/article71622494.ece",
-        "source": "World News: Latest International News & "
+        "date": "2026-10-26",
+        "text": "Analysts expect the four-day meeting to focus on Xi Jinping's strategy for tightening party discipline.",
+        "link": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
        },
        {
+        "date": "2026-10-26",
+        "text": "The meeting is currently underway under strict security, with an official announcement of outcomes scheduled for October 29, 2026.",
+        "link": "https://www.thehindu.com/news/international/communist-partys-central-committee-meeting-in-beijing-xi-jinping/article71625638.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "156e3307b380",
+     "title": "Crowds welcome Venezuela's María Machado after months in exile",
+     "link": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-10-26T09:31:12+00:00",
+     "summary": "Venezuelan opposition leader María Machado has returned to her country after spending ten months in exile.",
+     "explain": "María Machado is a prominent critic of the Venezuelan government. Her return is a high-stakes political event because the current administration often detains, arrests, or drives opponents into exile to maintain power. Her choice to return despite the clear personal risk serves as a symbolic defiance against the current government.",
+     "related": [
+      {
+       "date": "2026-10-25",
+       "title": "Venezuelan opposition leader María Machado returns after months in exile",
+       "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC News"
+      }
+     ],
+     "story": {
+      "id": "world-opposition-leader-mar-a-machado-returns",
+      "title": "Opposition Leader María Machado Returns",
+      "so_far": "Venezuela has been under the leadership of President Nicolás Maduro for years, facing intense international criticism regarding human rights, economic collapse, and democratic erosion. The political opposition, led by figures like María Machado, has faced continuous legal and physical threats. The situation escalated significantly when the U.S. government took direct action against Maduro's administration.",
+      "timeline": [
+       {
+        "date": "2026-10-26",
+        "text": "After fleeing via speedboat to avoid government suppression, Machado has returned to Venezuela.",
+        "link": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "Machado's return to Venezuela occurred in the wake of the U.S. government moving against the Maduro regime.",
+        "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "86f8243d5ae3",
+     "title": "Flavio Bolsonaro ‘will not give up’ after Brazil election results",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-10-26T09:15:21+00:00",
+     "summary": "Flavio Bolsonaro is refusing to concede defeat after losing the Brazilian presidential election to Lula da Silva.",
+     "explain": "Conceding is the act of a candidate admitting defeat to ensure a peaceful transfer of power. By refusing to concede and calling for the results to be annulled, Flavio Bolsonaro is challenging the legitimacy of Brazil's democratic institutions. This creates social tension and risks instability in the country's government.",
+     "related": [],
+     "story": {
+      "id": "world-brazilian-presidential-election-aftermat",
+      "title": "Brazilian Presidential Election Aftermath",
+      "so_far": "Brazil has experienced deep political polarization between the far-right movement, represented by the Bolsonaro family, and the left-wing Workers' Party led by Lula da Silva. Lula's win marks a return to power for the veteran politician. Election integrity has become a major flashpoint, with supporters of the defeated side frequently questioning the validity of the results.",
+      "timeline": [
+       {
+        "date": "2026-10-26",
+        "text": "Flavio Bolsonaro has refused to accept the election results, leading to a period of political uncertainty following Lula da Silva's victory.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "Flavio Bolsonaro has formally called for the election results to be annulled.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "Official electoral results confirm a 4.4 million vote lead for Lula da Silva over Flávio Bolsonaro.",
+        "link": "https://www.thehindu.com/news/international/bolsonaro-challenges-brazil-election-results-after-lulas-victory/article71625500.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "62ec617541bf",
+     "title": "Trump makes explicit remarks about Nicki Minaj at Michigan midterm rally",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-makes-explicit-remarks-about-nicki-minaj-at-michigan-midterm-rally?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-10-26T08:23:37+00:00",
+     "summary": "Donald Trump made sexually explicit comments regarding musician Nicki Minaj during a campaign rally in Michigan.",
+     "explain": "Midterm elections are local and federal elections held halfway through a president's four-year term. They are important because they can change which party controls Congress, impacting the president's ability to pass laws. Trump's use of celebrity endorsements is a campaign strategy to attract media attention and young voters to his platform.",
+     "related": [],
+     "story": {
+      "id": "world-trump-campaign-rally-in-michigan",
+      "title": "Trump Campaign Rally in Michigan",
+      "so_far": "The U.S. midterm elections are approaching, with high-stakes races across the country, particularly in battleground states like Michigan. Candidates often bring in celebrities to energize voter turnout and generate media coverage. Donald Trump remains a dominant figure in the Republican party, frequently using large-scale rallies to engage his base.",
+      "timeline": [
+       {
         "date": "2026-10-25",
-        "text": "Reports confirm that homes are being turned into military posts as part of a broader crackdown in the West Bank.",
-        "link": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss",
+        "text": "Nicki Minaj campaigned with Donald Trump in Michigan, a key swing state for the upcoming Senate elections.",
+        "link": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "During a Michigan rally ahead of the midterms, Trump made controversial remarks about entertainer Nicki Minaj.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-makes-explicit-remarks-about-nicki-minaj-at-michigan-midterm-rally?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
        }
       ]
      }
     },
     {
-     "id": "1a24cb388bb9",
-     "title": "Five economic challenges facing Brazil's re-elected President Lula",
-     "link": "https://www.thehindu.com/news/international/major-economic-challenges-brazil-faces-under-lulas-new-term/article71625446.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-10-26T01:54:43+00:00",
-     "summary": "Lula plans a new round of debt relief, this time through discounted purchases of distressed household loans from banks, plus tax ⁠debt forgiveness for some small business owners",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "3108b324ae52",
-     "title": "Luiz Inácio Lula da Silva | The democratic leftist",
-     "link": "https://www.thehindu.com/news/international/luiz-inacio-lula-da-silva-the-democratic-leftist/article65960291.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-10-26T01:52:58+00:00",
-     "summary": "Former two-time President Lula, who has promised a new form of welfarism with ecological and infrastructure spending, defeated Brazil’s far-right incumbent Jair Bolsonaro in the Presidential elections",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "cf256c29df86",
-     "title": "Brazil's Lula da Silva defies odds to clinch poll victory against Flavio Bolsonaro",
-     "link": "https://www.thehindu.com/news/international/brazils-lula-da-silva-defies-odds-to-clinch-poll-victory-against-flavio-bolsonaro/article71625437.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-10-26T01:52:24+00:00",
-     "summary": "According to official results, he won 51.75% of the votes to 48.25% for Flavio Bolsonaro, son of former far-right President Jair Bolsonaro, who had entered election day confident with his lead in the polls",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "f24867294789",
-     "title": "A physicist who took atoms near absolute zero, and physics further",
-     "link": "https://www.thehindu.com/sci-tech/science/claude-cohen-tannoudji-laser-cooling-pancharatnam-michael-berry-ramaseshan/article71625449.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-10-26T01:49:34+00:00",
-     "summary": "Claude Cohen-Tannoudji had many connections with India, including acknowledging the work of a little-known scientist who had died three decades before Cohen-Tannoudji won the Nobel Prize",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "cf1c84103e57",
-     "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
-     "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+     "id": "6eef00de1835",
+     "title": "China's big political meeting could see Xi 'tighten discipline' in Party",
+     "link": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-10-26T01:07:05+00:00",
-     "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-     "explain": null,
+     "published": "2026-10-26T07:40:57+00:00",
+     "summary": "The upcoming Plenary meeting in Beijing is expected to focus on tightening party discipline under President Xi Jinping.",
+     "explain": "This meeting is effectively a management review for the most powerful organization in China. By 'tightening discipline,' the party leadership usually means enforcing loyalty, rooting out corruption, and ensuring all party members are aligned with the vision of the top leader, in this case, Xi Jinping.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "world-china-s-secretive-communist-party-plenum",
+      "title": "China's Secretive Communist Party Plenum",
+      "so_far": "The Chinese Communist Party frequently holds 'Plenums'—closed-door meetings of its central committee—to set national policy and party rules. These meetings are closely monitored by global observers to gauge shifts in leadership power or ideological focus. Historically, these gatherings serve to solidify the authority of the party elite and finalize key policy strategies before being communicated to the public.",
+      "timeline": [
+       {
+        "date": "2026-10-26",
+        "text": "The four-day meeting began to address internal party discipline and the nation's future governance direction.",
+        "link": "https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "Analysts expect the four-day meeting to focus on Xi Jinping's strategy for tightening party discipline.",
+        "link": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "The meeting is currently underway under strict security, with an official announcement of outcomes scheduled for October 29, 2026.",
+        "link": "https://www.thehindu.com/news/international/communist-partys-central-committee-meeting-in-beijing-xi-jinping/article71625638.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "898a4e47777f",
+     "title": "China’s Communist Party elite hold key talks on governance",
+     "link": "https://www.thehindu.com/news/international/communist-partys-central-committee-meeting-in-beijing-xi-jinping/article71625638.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-10-26T06:07:36+00:00",
+     "summary": "The Chinese Communist Party has begun a high-security gathering on governance, with results expected on October 29.",
+     "explain": "When news organizations describe a meeting as 'closed-door,' it means no journalists are allowed in and no live updates are provided. This is standard procedure for China's top political meetings to ensure the party presents a unified message once a consensus is reached.",
+     "related": [],
+     "story": {
+      "id": "world-china-s-secretive-communist-party-plenum",
+      "title": "China's Secretive Communist Party Plenum",
+      "so_far": "The Chinese Communist Party frequently holds 'Plenums'—closed-door meetings of its central committee—to set national policy and party rules. These meetings are closely monitored by global observers to gauge shifts in leadership power or ideological focus. Historically, these gatherings serve to solidify the authority of the party elite and finalize key policy strategies before being communicated to the public.",
+      "timeline": [
+       {
+        "date": "2026-10-26",
+        "text": "The four-day meeting began to address internal party discipline and the nation's future governance direction.",
+        "link": "https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "Analysts expect the four-day meeting to focus on Xi Jinping's strategy for tightening party discipline.",
+        "link": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "The meeting is currently underway under strict security, with an official announcement of outcomes scheduled for October 29, 2026.",
+        "link": "https://www.thehindu.com/news/international/communist-partys-central-committee-meeting-in-beijing-xi-jinping/article71625638.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "78d68b03307b",
+     "title": "Venezuelan opposition leader María Machado returns after months in exile",
+     "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-10-26T05:20:19+00:00",
+     "summary": "María Machado returned to Venezuela shortly after U.S. intervention involving President Nicolás Maduro.",
+     "explain": "The 'seizure' mentioned refers to the U.S. government taking control of assets or property belonging to the Venezuelan president as a sanction. This escalation signals that the U.S. is applying maximum pressure on the Venezuelan government, which sets the context for Machado's return.",
+     "related": [
+      {
+       "date": "2026-10-25",
+       "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
+       "link": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss",
+       "source": "Al Jazeera – Breaking News, World News a"
+      }
+     ],
+     "story": {
+      "id": "world-opposition-leader-mar-a-machado-returns",
+      "title": "Opposition Leader María Machado Returns",
+      "so_far": "Venezuela has been under the leadership of President Nicolás Maduro for years, facing intense international criticism regarding human rights, economic collapse, and democratic erosion. The political opposition, led by figures like María Machado, has faced continuous legal and physical threats. The situation escalated significantly when the U.S. government took direct action against Maduro's administration.",
+      "timeline": [
+       {
+        "date": "2026-10-26",
+        "text": "After fleeing via speedboat to avoid government suppression, Machado has returned to Venezuela.",
+        "link": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "Machado's return to Venezuela occurred in the wake of the U.S. government moving against the Maduro regime.",
+        "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "792c6b3fc94b",
+     "title": "Bolsonaro calls for Brazil election result to be annulled",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-10-26T04:36:46+00:00",
+     "summary": "Senator Flavio Bolsonaro is officially calling for the annulment of the Brazilian election results.",
+     "explain": "To 'annul' an election is to declare the results void as if the vote never happened. This is an extreme legal challenge that requires significant evidence of fraud. Without such evidence, such calls are generally seen as an attempt to undermine the democratic process.",
+     "related": [],
+     "story": {
+      "id": "world-brazilian-presidential-election-aftermat",
+      "title": "Brazilian Presidential Election Aftermath",
+      "so_far": "Brazil has experienced deep political polarization between the far-right movement, represented by the Bolsonaro family, and the left-wing Workers' Party led by Lula da Silva. Lula's win marks a return to power for the veteran politician. Election integrity has become a major flashpoint, with supporters of the defeated side frequently questioning the validity of the results.",
+      "timeline": [
+       {
+        "date": "2026-10-26",
+        "text": "Flavio Bolsonaro has refused to accept the election results, leading to a period of political uncertainty following Lula da Silva's victory.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "Flavio Bolsonaro has formally called for the election results to be annulled.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "Official electoral results confirm a 4.4 million vote lead for Lula da Silva over Flávio Bolsonaro.",
+        "link": "https://www.thehindu.com/news/international/bolsonaro-challenges-brazil-election-results-after-lulas-victory/article71625500.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "d008757b144d",
+     "title": "Bolsonaro calls for Brazil election results to be 'annulled' after loss to Lula",
+     "link": "https://www.thehindu.com/news/international/bolsonaro-challenges-brazil-election-results-after-lulas-victory/article71625500.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-10-26T03:13:04+00:00",
+     "summary": "Lula da Silva secured 51.8% of the vote in the Brazilian election, defeating Flávio Bolsonaro by 4.4 million votes.",
+     "explain": "Electoral courts in Brazil are the neutral arbiters of the vote. Once they announce that 100% of the vote is counted, the results are legally binding. A lead of 4.4 million votes is statistically significant, making efforts to reverse the result through annulment claims difficult without proof of widespread tampering.",
+     "related": [],
+     "story": {
+      "id": "world-brazilian-presidential-election-aftermat",
+      "title": "Brazilian Presidential Election Aftermath",
+      "so_far": "Brazil has experienced deep political polarization between the far-right movement, represented by the Bolsonaro family, and the left-wing Workers' Party led by Lula da Silva. Lula's win marks a return to power for the veteran politician. Election integrity has become a major flashpoint, with supporters of the defeated side frequently questioning the validity of the results.",
+      "timeline": [
+       {
+        "date": "2026-10-26",
+        "text": "Flavio Bolsonaro has refused to accept the election results, leading to a period of political uncertainty following Lula da Silva's victory.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "Flavio Bolsonaro has formally called for the election results to be annulled.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "Official electoral results confirm a 4.4 million vote lead for Lula da Silva over Flávio Bolsonaro.",
+        "link": "https://www.thehindu.com/news/international/bolsonaro-challenges-brazil-election-results-after-lulas-victory/article71625500.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "f5528361f38a",
+     "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+     "link": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-10-25T23:33:19+00:00",
+     "summary": "Singer Nicki Minaj appeared on stage with Donald Trump at a rally in Michigan.",
+     "explain": "Michigan is known as a 'swing state' or 'battleground' because the number of voters who support Democrats and Republicans is very close. Campaigns pour resources into these states because the results there often decide who wins the Senate or the Presidency.",
+     "related": [],
+     "story": {
+      "id": "world-trump-campaign-rally-in-michigan",
+      "title": "Trump Campaign Rally in Michigan",
+      "so_far": "The U.S. midterm elections are approaching, with high-stakes races across the country, particularly in battleground states like Michigan. Candidates often bring in celebrities to energize voter turnout and generate media coverage. Donald Trump remains a dominant figure in the Republican party, frequently using large-scale rallies to engage his base.",
+      "timeline": [
+       {
+        "date": "2026-10-25",
+        "text": "Nicki Minaj campaigned with Donald Trump in Michigan, a key swing state for the upcoming Senate elections.",
+        "link": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "During a Michigan rally ahead of the midterms, Trump made controversial remarks about entertainer Nicki Minaj.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-makes-explicit-remarks-about-nicki-minaj-at-michigan-midterm-rally?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
     }
    ]
   },
@@ -1348,35 +1641,71 @@
    "label": "Business & Finance",
    "articles": [
     {
-     "id": "53c4bfa5313d",
-     "title": "AI Express, IndiGo to move West Asia flights from Mumbai to Navi Mumbai",
-     "link": "https://www.thehindubusinessline.com/economy/logistics/ai-express-indigo-to-move-west-asia-flights-from-mumbaito-navimumbai/article71623866.ece",
+     "id": "42f8b6ef59e6",
+     "title": "Rahul Gandhi acquitted in 2018 defamation case over remarks against Amit Shah",
+     "link": "https://www.thehindubusinessline.com/news/rahul-gandhi-acquitted-in-2018-defamation-case-over-remarks-against-amit-shah/article71626172.ece",
      "source": "Business News Today: Latest Business New",
-     "published": "2026-10-25T15:04:17+00:00",
-     "summary": "The transition, which begins in December, will stretch into the next summer schedule",
-     "explain": null,
+     "published": "2026-10-26T09:39:54+00:00",
+     "summary": "Rahul Gandhi has been acquitted in a 2018 defamation case involving comments he made about Amit Shah.",
+     "explain": "Defamation cases are frequently used in Indian politics to challenge opponents' statements. An acquittal means the court found the accusations insufficient to sustain a legal penalty, effectively clearing the defendant of the charge in this specific matter.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "business-rahul-gandhi-defamation-case-acquittal",
+      "title": "Rahul Gandhi Defamation Case Acquittal",
+      "so_far": "In 2018, ahead of the Karnataka Assembly elections, politician Rahul Gandhi made comments about Amit Shah that led to a defamation lawsuit. Defamation is the act of communicating false statements that harm the reputation of an individual. This legal battle has been ongoing for several years as part of India's political and judicial landscape.",
+      "timeline": [
+       {
+        "date": "2026-10-26",
+        "text": "A court has officially acquitted the politician of defamation charges related to remarks made during a 2018 election rally.",
+        "link": "https://www.thehindubusinessline.com/news/rahul-gandhi-acquitted-in-2018-defamation-case-over-remarks-against-amit-shah/article71626172.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "The court has formally granted relief to Rahul Gandhi, ending the long-standing 2018 defamation case.",
+        "link": "https://economictimes.indiatimes.com/news/politics-and-nation/rahul-gandhi-gets-relief-as-sultanpur-court-dismisses-2018-defamation-case/articleshow/135203454.cms",
+        "source": "Economic Times"
+       }
+      ]
+     }
     },
     {
-     "id": "8e07adab3fcd",
-     "title": "IndiGo, Air India to shift flights to Navi Mumbai",
-     "link": "https://economictimes.indiatimes.com/nri/latest-updates/indigo-air-india-group-to-shift-flights-to-navi-mumbai-airport-ahead-of-mumbai-t1-redevelopment/articleshow/135188919.cms",
+     "id": "af1db5e1bd68",
+     "title": "Rahul Gandhi gets relief in 2018 defamation case",
+     "link": "https://economictimes.indiatimes.com/news/politics-and-nation/rahul-gandhi-gets-relief-as-sultanpur-court-dismisses-2018-defamation-case/articleshow/135203454.cms",
      "source": "Economic Times",
-     "published": "2026-10-25T10:54:53+00:00",
-     "summary": "",
-     "explain": null,
+     "published": "2026-10-26T06:07:20+00:00",
+     "summary": "Rahul Gandhi has been acquitted in a 2018 defamation case involving comments he made about Amit Shah.",
+     "explain": "This refers to the same legal outcome as the previous article. The court's decision provides legal relief, meaning Gandhi is no longer under threat of conviction for these specific 2018 remarks.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "business-rahul-gandhi-defamation-case-acquittal",
+      "title": "Rahul Gandhi Defamation Case Acquittal",
+      "so_far": "In 2018, ahead of the Karnataka Assembly elections, politician Rahul Gandhi made comments about Amit Shah that led to a defamation lawsuit. Defamation is the act of communicating false statements that harm the reputation of an individual. This legal battle has been ongoing for several years as part of India's political and judicial landscape.",
+      "timeline": [
+       {
+        "date": "2026-10-26",
+        "text": "A court has officially acquitted the politician of defamation charges related to remarks made during a 2018 election rally.",
+        "link": "https://www.thehindubusinessline.com/news/rahul-gandhi-acquitted-in-2018-defamation-case-over-remarks-against-amit-shah/article71626172.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "The court has formally granted relief to Rahul Gandhi, ending the long-standing 2018 defamation case.",
+        "link": "https://economictimes.indiatimes.com/news/politics-and-nation/rahul-gandhi-gets-relief-as-sultanpur-court-dismisses-2018-defamation-case/articleshow/135203454.cms",
+        "source": "Economic Times"
+       }
+      ]
+     }
     },
     {
      "id": "76f36e8d1091",
-     "title": "Sensex today | Stock Market Live: Stocks to watch, Oct 26: Raymond, RailTel, KEC Intl, Honasa, BL Kashyap, Lupin, Orchid Pharma, Gland Pharma",
+     "title": "Sensex today | Stock Market Closing Bell: Sensex settles at 73,606.75; Nifty rallies to 22,753.20",
      "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-26-october-2026/article71622964.ece",
      "source": "Business News Today: Latest Business New",
-     "published": "2026-10-26T01:57:02+00:00",
-     "summary": "Sensex, Nifty, Share Prices Live: Markets in focus: a mix of M&amp;A, contract wins, regulatory updates and new product launches across 15 stocks, from Ray­mond’s rebrand to Lupin’s FDA observation and Orchid Pharma’s La",
-     "explain": null,
+     "published": "2026-10-26T11:05:03+00:00",
+     "summary": "Indian stock markets saw positive momentum as the Sensex and Nifty indices closed with gains.",
+     "explain": "Market indices like Sensex and Nifty aggregate the stock prices of the largest companies in the country to show overall market performance. A 'rally' indicates that share prices increased across a broad range of sectors during the trading day.",
      "related": [
       {
        "date": "2026-10-21",
@@ -1385,90 +1714,198 @@
        "source": "Business News Today: Latest Business New"
       },
       {
+       "date": "2026-10-22",
+       "title": "Sensex today | Stock Market Highlights: Sensex sheds 460 pts, Nifty falls 123 pts for 3rd straight session",
+       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-22nd-october-2026/article71608127.ece",
+       "source": "Business News Today: Latest Business New"
+      },
+      {
        "date": "2026-10-23",
        "title": "Sensex today | Stock Market Live: Stock to buy today: Federal Bank (347) – BUY",
        "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-23rd-october-2026/article71611889.ece",
        "source": "Business News Today: Latest Business New"
+      },
+      {
+       "date": "2026-10-23",
+       "title": "Sensex today | Stock Market Highlights: Sensex, Nifty extend losses as crude surges to $114, all sectors close in red",
+       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-23rd-october-2026/article71611889.ece",
+       "source": "Business News Today: Latest Business New"
       }
      ],
-     "story": null
+     "story": {
+      "id": "business-indian-stock-market-performance",
+      "title": "Indian Stock Market Performance",
+      "so_far": "The Sensex (a benchmark index of the Bombay Stock Exchange) and the Nifty (of the National Stock Exchange) are the primary indicators of Indian market health. Investors monitor these daily to gauge economic confidence and institutional activity.",
+      "timeline": [
+       {
+        "date": "2026-10-26",
+        "text": "The Sensex rose by 482.92 points to finish at 73,606.75, while the Nifty gained 153.20 points to reach 22,753.20.",
+        "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-26-october-2026/article71622964.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
     },
     {
-     "id": "48c5b74a1f07",
-     "title": "Central Bank of India resumes RTGS services; no customer impact due to tech glitch",
-     "link": "https://www.thehindubusinessline.com/money-and-banking/central-bank-of-india-resumes-rtgs-services-no-customer-impact-due-to-tech-glitch/article71624481.ece",
+     "id": "023d926aea7f",
+     "title": "Rupee falls 29 paise to close at 95.22 against US dollar",
+     "link": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-29-paise-to-close-at-9522-against-us-dollar/article71626575.ece",
      "source": "Business News Today: Latest Business New",
-     "published": "2026-10-26T01:50:10+00:00",
-     "summary": "",
-     "explain": null,
+     "published": "2026-10-26T11:04:23+00:00",
+     "summary": "The Indian Rupee weakened against the US dollar in today's trading session.",
+     "explain": "The rupee's value fluctuates based on market demand and supply. A 'depreciation' or 'fall' means it takes more rupees to buy one US dollar, which often makes imports more expensive for the country.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "business-indian-rupee-exchange-rate-fluctuations",
+      "title": "Indian Rupee Exchange Rate Fluctuations",
+      "so_far": "The exchange rate represents the value of one currency compared to another. Fluctuations are common and are influenced by oil prices, central bank policies, and global economic conditions.",
+      "timeline": [
+       {
+        "date": "2026-10-26",
+        "text": "The currency depreciated by 29 paise to close at 95.22 against the dollar.",
+        "link": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-29-paise-to-close-at-9522-against-us-dollar/article71626575.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
     },
     {
-     "id": "2aae017662c7",
-     "title": "Zelenskiy: US warnings on strikes fully resumed",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/zelenskiy-says-us-warnings-on-ballistic-strikes-have-fully-resumed/articleshow/135200258.cms",
+     "id": "52bb62ba3cf1",
+     "title": "Google CEO Sundar Pichai says company is giving up short-term cloud revenue to prioritise advanced AI development",
+     "link": "https://www.livemint.com/companies/news/google-ceo-sundar-pichai-says-company-is-giving-up-short-term-cloud-revenue-to-prioritise-advanced-ai-development-11793008515829.html",
+     "source": "mint - companies",
+     "published": "2026-10-26T11:03:01+00:00",
+     "summary": "Google is prioritizing AI development over short-term cloud revenue.",
+     "explain": "DeepMind is Google’s advanced artificial intelligence research laboratory. By shifting resources, Google is betting that long-term leadership in AI technology will eventually be more profitable than immediate fees from cloud-computing customers.",
+     "related": [],
+     "story": {
+      "id": "business-google-prioritizes-ai-over-cloud-revenue",
+      "title": "Google Prioritizes AI Over Cloud Revenue",
+      "so_far": "Google's parent company, Alphabet, is heavily investing in Generative AI, a field where they are competing against companies like OpenAI and Microsoft. Cloud computing is a major revenue stream where companies rent processing power to other businesses.",
+      "timeline": [
+       {
+        "date": "2026-10-26",
+        "text": "CEO Sundar Pichai stated that the company is allocating computing resources to DeepMind for AI research, potentially limiting cloud capacity for 2027.",
+        "link": "https://www.livemint.com/companies/news/google-ceo-sundar-pichai-says-company-is-giving-up-short-term-cloud-revenue-to-prioritise-advanced-ai-development-11793008515829.html",
+        "source": "mint - companies"
+       }
+      ]
+     }
+    },
+    {
+     "id": "4cbf42ac9d3b",
+     "title": "MAHE inaugurates BSL-3 facility to strengthen infectious disease research",
+     "link": "https://www.thehindubusinessline.com/news/education/mahe-inaugurates-bsl-3-facility-to-strengthen-infectious-disease-research/article71626495.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-26T10:58:41+00:00",
+     "summary": "The Manipal Academy of Higher Education (MAHE) has opened a BSL-3 laboratory for infectious disease research.",
+     "explain": "Biosafety levels are standardized, escalating safety precautions used in laboratories. BSL-3 facilities feature specialized ventilation and security protocols to ensure that dangerous bacteria or viruses do not escape into the environment.",
+     "related": [],
+     "story": {
+      "id": "business-mahe-launches-bsl-3-research-facility",
+      "title": "MAHE Launches BSL-3 Research Facility",
+      "so_far": "Bio-Safety Level 3 (BSL-3) labs are specialized facilities designed for working with microbes that can cause serious or potentially lethal diseases through inhalation.",
+      "timeline": [
+       {
+        "date": "2026-10-26",
+        "text": "A new BSL-3 facility has been inaugurated to conduct research on dangerous pathogens under strict containment.",
+        "link": "https://www.thehindubusinessline.com/news/education/mahe-inaugurates-bsl-3-facility-to-strengthen-infectious-disease-research/article71626495.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "965deb067c41",
+     "title": "Gujarat declares four districts drought-hit, announces crop-loss aid for farmers",
+     "link": "https://www.thehindubusinessline.com/economy/agri-business/gujarat-declares-4-districts-drought-hit-announces-farm-relief/article71626275.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-26T10:54:27+00:00",
+     "summary": "The Gujarat government has declared four districts drought-hit following insufficient rainfall.",
+     "explain": "Drought occurs when an area receives significantly less rainfall than average over an extended period. Declaring an area 'drought-hit' allows the government to unlock emergency funds and resources to assist farmers and protect livestock.",
+     "related": [],
+     "story": {
+      "id": "business-gujarat-drought-relief-measures",
+      "title": "Gujarat Drought Relief Measures",
+      "so_far": "Agriculture is a primary livelihood in many parts of rural India, making it highly susceptible to rainfall patterns. State governments typically provide direct financial support during drought years to stabilize rural economies.",
+      "timeline": [
+       {
+        "date": "2026-10-26",
+        "text": "The state has announced financial aid for farmers affected by crop losses due to the dry conditions.",
+        "link": "https://www.thehindubusinessline.com/economy/agri-business/gujarat-declares-4-districts-drought-hit-announces-farm-relief/article71626275.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "67cf5eeb4c21",
+     "title": "PTC India plans mineral exchange, approves ₹65 crore investment",
+     "link": "https://www.thehindubusinessline.com/markets/commodities/ptc-india-plans-mineral-exchange-approves-65-crore-investment/article71626449.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-26T10:53:56+00:00",
+     "summary": "PTC India is planning to establish a mineral exchange to facilitate electronic mineral trading.",
+     "explain": "A mineral exchange is a centralized digital marketplace where companies can buy and sell raw minerals transparently. Electronic trading aims to streamline supply chains and standardize prices for raw materials used in industrial manufacturing.",
+     "related": [],
+     "story": {
+      "id": "business-ptc-india-mineral-exchange-plans",
+      "title": "PTC India Mineral Exchange Plans",
+      "so_far": "PTC India is a company involved in power trading and energy services. Expanding into commodity trading—specifically minerals—is part of a strategy to diversify its service offerings.",
+      "timeline": [
+       {
+        "date": "2026-10-26",
+        "text": "The company has approved a ₹65 crore investment to set up the platform, pending government approval.",
+        "link": "https://www.thehindubusinessline.com/markets/commodities/ptc-india-plans-mineral-exchange-approves-65-crore-investment/article71626449.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "787b736ea0a9",
+     "title": "Hunter’s Moon 2026: Why it looks bigger and orange",
+     "link": "https://economictimes.indiatimes.com/news/international/world-news/october-hunter-moon-saturn-sighting-tonight-in-new-york-london-how-to-spot-the-ringed-planet-beside-the-glowing-full-moon/articleshow/135209720.cms",
      "source": "Economic Times",
-     "published": "2026-10-26T01:02:01+00:00",
-     "summary": "",
-     "explain": null,
+     "published": "2026-10-26T10:53:34+00:00",
+     "summary": "The 'Hunter's Moon' appears larger and more orange due to its proximity to the horizon.",
+     "explain": "When the moon is near the horizon, it often looks larger because of a psychological 'moon illusion' combined with the fact that its light passes through more of Earth's atmosphere, which scatters shorter wavelengths and leaves more of the orange/red spectrum visible.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "business-2026-hunter-s-moon-phenomenon",
+      "title": "2026 Hunter's Moon Phenomenon",
+      "so_far": "The Hunter's Moon is a traditional name for the first full moon following the harvest moon. The apparent size and color shift are common optical phenomena.",
+      "timeline": [
+       {
+        "date": "2026-10-26",
+        "text": "The full moon is currently exhibiting the 'moon illusion' and atmospheric scattering effects.",
+        "link": "https://economictimes.indiatimes.com/news/international/world-news/october-hunter-moon-saturn-sighting-tonight-in-new-york-london-how-to-spot-the-ringed-planet-beside-the-glowing-full-moon/articleshow/135209720.cms",
+        "source": "Economic Times"
+       }
+      ]
+     }
     },
     {
-     "id": "d40d3602998b",
-     "title": "Kharge makes 'baap' remark on Modi; BJP hits back",
-     "link": "https://economictimes.indiatimes.com/news/politics-and-nation/kharges-baap-remark-on-modi-creates-furore-bjp-says-language-associated-with-thugs/articleshow/135200216.cms",
-     "source": "Economic Times",
-     "published": "2026-10-26T00:54:42+00:00",
-     "summary": "",
-     "explain": null,
+     "id": "36a7c5707e6f",
+     "title": "Does a company have a guilty mind?",
+     "link": "https://www.thehindubusinessline.com/opinion/does-a-company-have-a-guilty-mind/article71624060.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-26T10:52:51+00:00",
+     "summary": "The Supreme Court of India has established criteria to determine corporate criminal intent.",
+     "explain": "Because companies cannot 'think' like humans, the courts create rules to decide if a company’s actions (like fraud or negligence) were deliberate. This three-fold test provides judges with a consistent framework to prove that a corporation intended to break the law, rather than just having a process go wrong by accident.",
      "related": [],
-     "story": null
-    },
-    {
-     "id": "cb58fc8f2aaa",
-     "title": "IIFL Capital hires four Barclays bankers to expand wealth business",
-     "link": "https://www.livemint.com/companies/news/iifl-capital-hires-four-barclays-private-bankers-wealth-management-11792907008126.html",
-     "source": "mint - companies",
-     "published": "2026-10-26T00:30:56+00:00",
-     "summary": "The Fairfax-controlled firm is stepping up its push to attract wealthy Indian families as competition intensifies and global banks restructure their workforces.",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "1646af14aa4f",
-     "title": "JSW MG taps into Chinese parent Saic for 70% of its purchases",
-     "link": "https://www.livemint.com/companies/news/jsw-mg-motor-india-taps-into-china-parent-saic-motor-for-70-purchases-11792917400984.html",
-     "source": "mint - companies",
-     "published": "2026-10-26T00:30:47+00:00",
-     "summary": "Nearly 70% of the joint venture’s purchases in the financial year 2026 came from Saic-linked firms, taking their total business with the Indian carmaker to about $840 million, including royalty and licence fee",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "c520092c30cb",
-     "title": "Eternal’s District explores live-event venues to cut concert costs, counter AI threat",
-     "link": "https://www.livemint.com/companies/news/eternals-district-explores-live-event-venues-to-cut-concert-costs-counter-ai-threat-11792903705050.html",
-     "source": "mint - companies",
-     "published": "2026-10-26T00:30:43+00:00",
-     "summary": "The out-of-home consumption platform is exploring partnerships with property owners and governments to build dedicated venues as it seeks to scale its events business and strengthen its defences against AI-led disruption",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "f89115917c79",
-     "title": "Wow! Momo plans ₹300 crore fundraise, eyes overseas expansion ahead of proposed IPO",
-     "link": "https://www.livemint.com/companies/news/wow-momo-ipo-plans-fundraise-overseas-expansion-11792751168706.html",
-     "source": "mint - companies",
-     "published": "2026-10-26T00:30:36+00:00",
-     "summary": "The Kolkata-based QSR chain plans to enter Sri Lanka this year and explore the UAE, while scaling its packaged-food business and targeting ₹1,050 crore in FY27 revenue.",
-     "explain": null,
-     "related": [],
-     "story": null
+     "story": {
+      "id": "business-supreme-court-ruling-on-corporate-intent",
+      "title": "Supreme Court Ruling on Corporate Intent",
+      "so_far": "In law, 'mens rea' (Latin for 'guilty mind') is a core element of criminal liability. For corporations, which are legal 'persons' but not human beings, determining intent has long been a complex legal challenge.",
+      "timeline": [
+       {
+        "date": "2026-10-26",
+        "text": "The court introduced a three-fold test to evaluate whether a company can be held legally responsible for 'guilty mind' (mens rea) in criminal cases.",
+        "link": "https://www.thehindubusinessline.com/opinion/does-a-company-have-a-guilty-mind/article71624060.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
     }
    ]
   },
@@ -1476,140 +1913,390 @@
    "label": "Markets & Crypto",
    "articles": [
     {
-     "id": "7a5fbbe2d707",
-     "title": "Top stocks to watch today: Paytm, Mankind Pharma, Infosys, BPCL shares in focus on Monday, 26 Oct | Full list",
-     "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-paytm-mankind-pharma-infosys-bpcl-shares-in-focus-on-monday-26-oct-full-list-11792978063209.html",
+     "id": "c600be889ec3",
+     "title": "Live news: Brent Crude slides below $110 as Iran deal hopes grow and Brazil stocks sink",
+     "link": "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink",
+     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
+     "published": "2026-10-26T11:05:31+00:00",
+     "summary": "Global oil prices fell below $110 per barrel due to optimism regarding a potential deal between the US and Iran.",
+     "explain": "Brent Crude is a major benchmark price for purchases of oil worldwide. When oil prices fall, it typically reduces inflationary pressure, which can be positive for global stock markets because it lowers operating costs for many businesses.",
+     "related": [],
+     "story": {
+      "id": "markets-global-currency-market-trends",
+      "title": "Global Currency Market Trends",
+      "so_far": "Currency markets are influenced by global interest rate expectations, inflation data, and geopolitical stability. Investors often monitor these movements to gauge the relative strength of various national economies and central bank policy outlooks.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "The euro and British pound maintained stability against the dollar, while the Australian and New Zealand dollars saw minor gains.",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-and-euro-drift-yen-slips-as-markets-seek-direction/articleshow/135059705.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "The Singapore dollar is increasingly favored over the Japanese yen as a funding currency for carry trades.",
+        "link": "https://www.livemint.com/market/singapore-dollar-gains-on-yen-as-carry-funder-analysts-say-11792634002797.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-23",
+        "text": "The Indian rupee declined for the second consecutive day as surging Brent crude prices dampened investor confidence.",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-little-changed-this-week-as-oil-fueled-declines-wipe-out-early-gains/articleshow/135142602.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-23",
+        "text": "Eurozone bond markets have stabilized as investors assess the balance between sovereign debt risks and demand for safe-haven assets.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-markets-stabilise-after-volatile-week/articleshow/135142036.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "Brent Crude prices dropped as geopolitical tensions between the US and Iran showed signs of easing.",
+        "link": "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "75c30be10e5b",
+     "title": "Global Market: European shares flat as investors assess earnings, France turmoil",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/news/global-market-european-shares-flat-as-investors-assess-earnings-france-turmoil/articleshow/135209743.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-10-26T10:51:45+00:00",
+     "summary": "European markets remained flat as investors balanced corporate earnings reports with ongoing political uncertainty in France.",
+     "explain": "When markets are 'flat,' it means the overall value of stocks did not change significantly during the trading session. Political uncertainty refers to doubts about government policy or stability, which makes investors cautious because they dislike unpredictable environments.",
+     "related": [],
+     "story": {
+      "id": "markets-european-market-sentiment",
+      "title": "European Market Sentiment",
+      "so_far": "European stock markets are currently influenced by a combination of high interest rates, regional political stability, and the performance of major corporate entities. Investors are closely watching how political developments in France affect market confidence.",
+      "timeline": [
+       {
+        "date": "2026-10-26",
+        "text": "European shares showed little movement on October 26 as investors digested political risks in France alongside quarterly earnings.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/global-market-european-shares-flat-as-investors-assess-earnings-france-turmoil/articleshow/135209743.cms",
+        "source": "Markets-Economic Times"
+       }
+      ]
+     }
+    },
+    {
+     "id": "814eb6e11e92",
+     "title": "Mind-boggling Monday at Indian stock markets: Sensex, Nifty mirror life’s ups and downs — October 26 trade details",
+     "link": "https://www.livemint.com/market/stock-market-news/mindboggling-monday-at-indian-stock-markets-sensex-nifty-mirror-life-s-ups-and-downs-october-26-trade-details-11793005870431.html",
      "source": "mint - markets",
-     "published": "2026-10-26T02:01:46+00:00",
-     "summary": "Top stocks to watch today: Paytm, Mankind Pharma, Tata Consumer, ITC Hotels, Infosys, BPCL, Kotak Mahindra Bank, Coforge among shares in focus on Monday.",
-     "explain": null,
-     "related": [
-      {
-       "date": "2026-10-21",
-       "title": "Top stocks to watch today: Eternal, Reliance Industries, IREDA, RailTel shares in focus on Wed, 21 Oct | Full list",
-       "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-eternal-reliance-industries-ireda-railtel-shares-in-focus-on-wed-21-oct-full-list-11792546323951.html",
-       "source": "mint - markets"
-      },
-      {
-       "date": "2026-10-22",
-       "title": "Top stocks to watch today: Swiggy, Adani Green, Eternal, GMDC, BEL shares in focus on Thurs, 22 Oct | Full list",
-       "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-swiggy-adani-green-eternal-gmdc-bel-shares-in-focus-on-thurs-22-oct-full-list-11792632766011.html",
-       "source": "mint - markets"
-      },
-      {
-       "date": "2026-10-23",
-       "title": "Top stocks to watch today: Infosys, Tata Motors, Swiggy, Cyient shares in focus on Friday, 23 Oct | Full list",
-       "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-infosys-tata-motors-swiggy-cyient-shares-in-focus-on-friday-23-oct-full-list-11792719056861.html",
-       "source": "mint - markets"
-      }
-     ],
-     "story": null
+     "published": "2026-10-26T10:51:29+00:00",
+     "summary": "The Indian stock market showed resilience on Monday, recovering from an early dip to close with gains.",
+     "explain": "An intra-day recovery happens when a stock index falls early in the morning but gains value throughout the rest of the day, ending higher than it started. This often indicates strong buyer interest at lower price points.",
+     "related": [],
+     "story": {
+      "id": "markets-indian-stock-market-volatility",
+      "title": "Indian Stock Market Volatility",
+      "so_far": "The Indian stock market often fluctuates based on global macroeconomic factors, such as crude oil prices which impact the country's import bill and inflation. Recently, volatility has been exacerbated by external geopolitical events that affect global supply chains and investor sentiment.",
+      "timeline": [
+       {
+        "date": "2026-10-25",
+        "text": "Increased geopolitical tension and high crude prices led to a loss of approximately ₹21 lakh crore in investor wealth.",
+        "link": "https://www.livemint.com/market/stock-market-news/bank-nifty-tumbles-nearly-3-slips-below-55k-more-selling-pressure-ahead-for-banking-stocks-check-key-levels-to-watch-11792920838777.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-25",
+        "text": "Large-cap firms like HDFC Bank and Bajaj Finance faced significant valuation losses as the BSE Sensex plummeted.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-8-of-top-10-firms-erodes-by-rs-1-55-lakh-cr-hdfc-bank-bajaj-fin-biggest-laggards/articleshow/135186713.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "The Nifty 50 and Sensex closed 0.68% and 0.66% higher respectively, following a sharp intra-day recovery.",
+        "link": "https://www.livemint.com/market/stock-market-news/mindboggling-monday-at-indian-stock-markets-sensex-nifty-mirror-life-s-ups-and-downs-october-26-trade-details-11793005870431.html",
+        "source": "mint - markets"
+       }
+      ]
+     }
     },
     {
-     "id": "ce15796bc705",
-     "title": "Fed expected to pause rate hikes ahead of US midterms",
-     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-expected-to-pause-rate-hikes-ahead-of-us-midterms/articleshow/135200484.cms",
+     "id": "b5454a0256d3",
+     "title": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week",
+     "link": "https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph.com News",
+     "published": "2026-10-26T10:49:55+00:00",
+     "summary": "Bitcoin remains under pressure as investors brace for a week of high-impact US tech earnings and inflation data.",
+     "explain": "In technical trading, a 'support level' is a price point where a security has historically had difficulty falling below because a high volume of buying interest usually appears there. FOMC refers to the Federal Open Market Committee, the group that sets US interest rates.",
+     "related": [],
+     "story": {
+      "id": "markets-bitcoin-long-term-market-outlook",
+      "title": "Bitcoin Long-term Market Outlook",
+      "so_far": "Bitcoin is a decentralized digital currency often referred to as 'digital gold' due to its fixed supply. Investors debate its role in portfolios, with proponents citing its potential for high growth and detractors pointing to its extreme price volatility and lack of intrinsic industrial value.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "JPMorgan included Bitcoin in its long-term capital market outlook for the first time, forecasting it as a top-performing asset class over 10 years.",
+        "link": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The report emphasizes that unstable correlations with other assets currently limit Bitcoin's role as a reliable portfolio component.",
+        "link": "https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-10-23",
+        "text": "Bitcoin prices retreated below the $83,000 threshold on Thursday, reversing gains despite ongoing institutional interest through spot ETFs.",
+        "link": "https://www.livemint.com/market/bitcoin-falls-below-83-000-as-ai-jitters-weigh-on-sentiment-11792719088220.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-23",
+        "text": "Bitcoin is maintaining a stable price level near $81,700 amid a broader recovery in the altcoin market.",
+        "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-10-23",
+        "text": "Data suggests that Bitcoin's price movement is currently decoupling from historical patterns previously observed at mid-term cycle bottoms.",
+        "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-10-24",
+        "text": "The firms are addressing the operational challenge of balancing aggressive cryptocurrency acquisition with traditional requirements for dividend payments.",
+        "link": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "Bitcoin is testing the $80,000 support level as traders anticipate volatile economic data from the US.",
+        "link": "https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "e4d5fb16616c",
+     "title": "Asia-focused banks face bond market risks ahead of Q3 earnings",
+     "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/asia-focused-banks-face-bond-market-risks-ahead-of-q3-earnings/articleshow/135209404.cms",
      "source": "Markets-Economic Times",
-     "published": "2026-10-26T01:44:05+00:00",
-     "summary": "The US Federal Reserve's upcoming meeting is expected to result in steady interest rates. High inflation continues to challenge economic policies, with rates anticipated to rise later this year. The Federal Open Market C",
-     "explain": null,
+     "published": "2026-10-26T10:48:58+00:00",
+     "summary": "Major Asia-focused banks are facing profitability challenges due to rising bond yields and currency market instability.",
+     "explain": "Bond yields are the returns an investor gets from holding a bond; when yields rise, the price of existing bonds often falls, which can lead to losses for banks holding large portfolios of government or corporate debt. This puts pressure on their overall earnings.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "markets-asia-pacific-banking-sector-risks",
+      "title": "Asia-Pacific Banking Sector Risks",
+      "so_far": "Banks in the Asia-Pacific region are navigating a complex environment characterized by fluctuating interest rates and inflation. These financial institutions are crucial barometers for the health of regional economies, as they provide the capital necessary for trade and investment.",
+      "timeline": [
+       {
+        "date": "2026-10-26",
+        "text": "HSBC, Standard Chartered, and DBS are under pressure as they prepare for Q3 earnings amidst a difficult macroeconomic climate.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/asia-focused-banks-face-bond-market-risks-ahead-of-q3-earnings/articleshow/135209404.cms",
+        "source": "Markets-Economic Times"
+       }
+      ]
+     }
     },
     {
-     "id": "9c0271d20fe9",
-     "title": "Sinking profits turn China’s $3.5 trillion rout into trap",
-     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sinking-profits-turn-chinas-3-5-trillion-rout-into-trap/articleshow/135200415.cms",
+     "id": "d016c199a5e0",
+     "title": "Ather Energy shares skyrocket 19% after EV maker swings to Rs 1.26 crore profit in Q2",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-skyrocket-19-after-ev-maker-swings-to-rs-1-26-crore-profit-in-q2/articleshow/135209355.cms",
      "source": "Markets-Economic Times",
-     "published": "2026-10-26T01:36:47+00:00",
-     "summary": "Chinese stocks are experiencing a significant selloff resulting in a loss of $3.5 trillion since May. Increased competition and declining demand have negatively impacted corporate profits across various industries. Many ",
-     "explain": null,
+     "published": "2026-10-26T10:36:42+00:00",
+     "summary": "Ather Energy shares jumped nearly 19% following a return to profitability in the second quarter.",
+     "explain": "A swing from loss to profit is often a major catalyst for stock prices because it suggests the business model has achieved 'scale'—meaning they are now selling enough units to cover the costs of manufacturing and distribution.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "markets-ather-energy-market-performance",
+      "title": "Ather Energy Market Performance",
+      "so_far": "Ather Energy is an Indian manufacturer of electric two-wheelers. The company has been in a high-growth phase, investing heavily in infrastructure and capacity, which until now had been a significant drag on their profitability.",
+      "timeline": [
+       {
+        "date": "2026-10-26",
+        "text": "Ather Energy reported a net profit of Rs 1.26 crore for Q2 FY27, signaling a major financial turnaround.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-skyrocket-19-after-ev-maker-swings-to-rs-1-26-crore-profit-in-q2/articleshow/135209355.cms",
+        "source": "Markets-Economic Times"
+       }
+      ]
+     }
     },
     {
-     "id": "5a65b2548ef8",
-     "title": "Stock market outlook today, 26 Oct: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei cues",
-     "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-26-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-cues-11792975256498.html",
-     "source": "mint - markets",
-     "published": "2026-10-26T01:22:14+00:00",
-     "summary": "Stock market prediction for Monday, 26 October, 2026: Gift Nifty was trading around the 22,535 level, down nearly 72.50 points or 0.32% from the Nifty futures’ previous close, indicating a negative opening for the Indian",
-     "explain": null,
-     "related": [
-      {
-       "date": "2026-10-23",
-       "title": "Stock market outlook today, 23 Oct: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
-       "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-23-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792716174246.html",
-       "source": "mint - markets"
-      }
-     ],
-     "story": null
-    },
-    {
-     "id": "c169ac5c49e5",
-     "title": "G-Sec yields at three-year peak, could climb to 7.75% by December",
-     "link": "https://economictimes.indiatimes.com/markets/bonds/g-sec-yields-at-three-year-peak-could-climb-to-7-75-by-december/articleshow/135200262.cms",
+     "id": "d847da5ffc8c",
+     "title": "SoftBank sells 1.21 crore Ola Electric rights entitlements as EV maker seeks to raise Rs 1,000 crore",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/news/softbank-sells-1-21-crore-ola-electric-rights-entitlements-as-ev-maker-seeks-to-raise-rs-1000-crore/articleshow/135209308.cms",
      "source": "Markets-Economic Times",
-     "published": "2026-10-26T01:05:24+00:00",
-     "summary": "India's benchmark 10-year government bond yield is expected to reach 7.75% by December. This increase is influenced by high crude oil prices and tight liquidity conditions. Persistent bond supply and expectations of furt",
-     "explain": null,
+     "published": "2026-10-26T10:34:38+00:00",
+     "summary": "Ola Electric is in focus as SoftBank divests rights entitlements amid the company's capital-raising efforts.",
+     "explain": "A 'rights entitlement' is a financial instrument that gives a shareholder the right to buy new shares. Selling these entitlements suggests the investor (in this case, SoftBank) does not want to put more money into the company at this time.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "markets-ola-electric-rights-issue",
+      "title": "Ola Electric Rights Issue",
+      "so_far": "Ola Electric is a major player in the Indian EV space. A rights issue allows existing shareholders to purchase additional shares at a discount to raise capital for the company, but it can also signal that the firm needs liquidity to cover ongoing losses.",
+      "timeline": [
+       {
+        "date": "2026-10-26",
+        "text": "SoftBank sold significant rights entitlements as Ola Electric seeks to raise Rs 1,000 crore through a rights issue.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/softbank-sells-1-21-crore-ola-electric-rights-entitlements-as-ev-maker-seeks-to-raise-rs-1000-crore/articleshow/135209308.cms",
+        "source": "Markets-Economic Times"
+       }
+      ]
+     }
     },
     {
-     "id": "c96f11a33f69",
-     "title": "Capital shifting from secondary market to ₹5 trillion IPO pipeline: Madhu Lunawat",
-     "link": "https://www.livemint.com/market/stock-market-news/capital-secondary-market-to-5-trillion-ipo-pipeline-madhu-lunawat-11792907791369.html",
-     "source": "mint - markets",
-     "published": "2026-10-26T01:00:39+00:00",
-     "summary": "Founder of The Wealth Company Mutual Fund Madhu Lunawat said perceived 10-12% inflation is pushing retail funds into small- mid-caps, and that high valuations and currency depreciation are keeping FIIs cautious.",
-     "explain": null,
+     "id": "18385e62cc4a",
+     "title": "Calpers pulls back from big tech as AI jitters deepen neocloud sell-off",
+     "link": "https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off",
+     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
+     "published": "2026-10-26T10:33:00+00:00",
+     "summary": "Calpers, a major pension fund, is reducing its exposure to big tech stocks due to waning investor interest in AI infrastructure.",
+     "explain": "Calpers is the California Public Employees' Retirement System, one of the largest institutional investors in the world. When major pension funds move their capital, it can signal a broader change in sentiment among large-scale investors who manage billions in assets.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "markets-global-ai-sector-sell-off",
+      "title": "Global AI Sector Sell-off",
+      "so_far": "Global tech markets have recently faced volatility as investor enthusiasm for AI-related infrastructure and chip manufacturing cools. Companies that saw massive growth during the AI boom are now struggling with market corrections and reassessments of their long-term earnings potential.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "South Korean tech stocks experienced sharp declines, with major AI suppliers SK Hynix and Samsung falling heavily amid a broader sector rout.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-kospi-crashes-another-5-as-ai-rout-deepens-ai-bellwether-down-over-40-from-peak/articleshow/135061021.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Broad market pessimism linked to the AI and chip sector is now impacting cryptocurrency prices.",
+        "link": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Market jitters remain elevated as the correction in AI-related equities deepens.",
+        "link": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-10-21",
+        "text": "Investor pushback has expanded from major tech firms to smaller AI and data center startups, driven by rising borrowing costs.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-debutants-flameout-stokes-fears-boom-is-ending/articleshow/135079415.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "Market sentiment remains volatile as AI concerns persist following mixed earnings results from major tech firms Tesla and Meta.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-mixed-as-oil-rally-ai-concerns-weigh-on-sentiment/articleshow/135103506.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "Calpers has joined the trend of institutional investors pulling back from large technology firms as AI enthusiasm cools.",
+        "link": "https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "Analysts argue that current US market earnings are artificial 'victory' points driven by specific geopolitical events and AI hype.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/the-war-bump-is-a-false-victory-for-sp-500-profits/articleshow/135209183.cms",
+        "source": "Markets-Economic Times"
+       }
+      ]
+     }
     },
     {
-     "id": "982c11a2e2d1",
-     "title": "Infosys’s huge deal wins fail to give it an edge over peers",
-     "link": "https://www.livemint.com/market/mark-to-market/infosys-q2-fy27-quarterly-results-review-11792904482073.html",
-     "source": "mint - markets",
-     "published": "2026-10-26T01:00:19+00:00",
-     "summary": "Robust $5.2 billion deal wins in Q2 couldn't prevent Infosys from trimming its full-year growth outlook, leaving it trailing key competitors.",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "c2fbe8955c2f",
-     "title": "Double-digit growth seen on corporate scoreboard in Q2, but bank, IT, pharma lag",
-     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/double-digit-growth-seen-on-corporate-scoreboard-in-q2-but-bank-it-pharma-lags/articleshow/135200205.cms",
+     "id": "d0f9fff32e78",
+     "title": "The war bump is a false victory for S&amp;P 500 profits",
+     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/the-war-bump-is-a-false-victory-for-sp-500-profits/articleshow/135209183.cms",
      "source": "Markets-Economic Times",
-     "published": "2026-10-26T00:56:52+00:00",
-     "summary": "September quarter earnings exhibited significant revenue and profit growth for various companies in key sectors. Revenue rose by 22.1% with net profit increasing by 27.5%, surpassing the previous quarter. However, bankin",
-     "explain": null,
+     "published": "2026-10-26T10:31:42+00:00",
+     "summary": "Market analysts warn that S&P 500 earnings growth is overly reliant on a few AI and war-linked sectors, posing a risk to long-term stability.",
+     "explain": "The S&P 500 is an index of the 500 largest publicly traded companies in the US. If growth is 'narrowly concentrated,' it means a small handful of companies are responsible for all the gains, which can make the market fragile if those specific sectors face trouble.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "markets-global-ai-sector-sell-off",
+      "title": "Global AI Sector Sell-off",
+      "so_far": "Global tech markets have recently faced volatility as investor enthusiasm for AI-related infrastructure and chip manufacturing cools. Companies that saw massive growth during the AI boom are now struggling with market corrections and reassessments of their long-term earnings potential.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "South Korean tech stocks experienced sharp declines, with major AI suppliers SK Hynix and Samsung falling heavily amid a broader sector rout.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-kospi-crashes-another-5-as-ai-rout-deepens-ai-bellwether-down-over-40-from-peak/articleshow/135061021.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Broad market pessimism linked to the AI and chip sector is now impacting cryptocurrency prices.",
+        "link": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Market jitters remain elevated as the correction in AI-related equities deepens.",
+        "link": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-10-21",
+        "text": "Investor pushback has expanded from major tech firms to smaller AI and data center startups, driven by rising borrowing costs.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-debutants-flameout-stokes-fears-boom-is-ending/articleshow/135079415.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "Market sentiment remains volatile as AI concerns persist following mixed earnings results from major tech firms Tesla and Meta.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-mixed-as-oil-rally-ai-concerns-weigh-on-sentiment/articleshow/135103506.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "Calpers has joined the trend of institutional investors pulling back from large technology firms as AI enthusiasm cools.",
+        "link": "https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "Analysts argue that current US market earnings are artificial 'victory' points driven by specific geopolitical events and AI hype.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/the-war-bump-is-a-false-victory-for-sp-500-profits/articleshow/135209183.cms",
+        "source": "Markets-Economic Times"
+       }
+      ]
+     }
     },
     {
-     "id": "00c1dbdde012",
-     "title": "Global Market Today: Asian shares slip as AI jitters deepen ahead of big tech earnings",
-     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-slip-as-ai-jitters-deepen-ahead-of-big-tech-earnings/articleshow/135200167.cms",
-     "source": "Markets-Economic Times",
-     "published": "2026-10-26T00:44:35+00:00",
-     "summary": "MSCI Inc.’s Asia Pacific equities gauge fell 0.2% ahead of this season’s busiest earnings week in Asia. US equity-index futures erased earlier gains and traded little changed.",
-     "explain": null,
+     "id": "e9fe2b62279f",
+     "title": "Securitize’s tokenized stock value halves as Circle widens lead",
+     "link": "https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph.com News",
+     "published": "2026-10-26T10:25:01+00:00",
+     "summary": "The market cap for Securitize's tokenized stocks has declined as competitors like Circle gain market share.",
+     "explain": "Market capitalization (market cap) is the total value of all the tokens currently in circulation. A 'tokenized stock' is a digital asset that is intended to track the price of a real-world stock share, allowing for potentially faster and more transparent trading on crypto platforms.",
      "related": [],
-     "story": null
-    },
-    {
-     "id": "e27bca3a1e29",
-     "title": "India valuations hit 6-year low, but stocks still expensive than EM peers",
-     "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-valuations-hit-six-year-low-but-more-expensive-than-em-peers/articleshow/135200136.cms",
-     "source": "Markets-Economic Times",
-     "published": "2026-10-26T00:37:25+00:00",
-     "summary": "India's equity valuations have reached their lowest levels in six years after a recent market decline. Factors contributing to this decline include foreign selling, a weaker rupee, and rising crude prices. Despite lower ",
-     "explain": null,
-     "related": [],
-     "story": null
+     "story": {
+      "id": "markets-opposition-to-okx-ice-tokenized-stock-pl",
+      "title": "Opposition to OKX-ICE Tokenized Stock Platform",
+      "so_far": "Tokenized stocks are digital representations of traditional shares issued on a blockchain. The industry is currently competing to become the standard for trading these assets, facing regulatory hurdles and shifting investor preferences.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "Roughly 25% of the companies included in the platform's proposal are moving to opt-out of the service.",
+        "link": "https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Goldman Sachs has joined the growing list of major firms seeking to block the platform from using their equities.",
+        "link": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "Securitize's tokenized stock value halved to $208.6 million as the broader tokenized equities market reached $3.3 billion.",
+        "link": "https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       }
+      ]
+     }
     }
    ]
   }
