@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-25T10:54:17.117005+00:00",
- "prices_generated": "2026-10-25T18:16:05.430796+00:00",
+ "generated": "2026-10-26T02:09:19.247148+00:00",
+ "prices_generated": "2026-10-26T02:09:19.247148+00:00",
  "ai": "gemini",
- "pulse": "Indian markets closed lower today, with the Bank Nifty facing significant selling pressure that weighed on the broader indices. In the U.S., major stock averages declined as investors reacted to rising geopolitical tensions and uncertainty surrounding economic headwinds. Meanwhile, crude oil prices saw volatile shifts and precious metals like gold and silver fell, likely driven by shifting investor sentiment amid global market instability.",
+ "pulse": null,
  "ticker_strip": [
   "^NSEI",
   "^BSESN",
@@ -250,12 +250,11 @@
   "BTC-USD": {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 80578.9922,
-   "change": -211.8438,
-   "pct": -0.26,
-   "pct_1m": -4.11,
+   "price": 79735.7969,
+   "change": -1055.0391,
+   "pct": -1.31,
+   "pct_1m": -5.53,
    "spark": [
-    84034.9219,
     84406.4531,
     84458.0859,
     83502.6094,
@@ -285,19 +284,18 @@
     81311.8906,
     81074.1875,
     80790.8359,
-    80578.9922
+    79735.7969
    ],
-   "asof": "2026-10-25"
+   "asof": "2026-10-26"
   },
   "ETH-USD": {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 2351.4299,
-   "change": -4.5237,
-   "pct": -0.19,
-   "pct_1m": -12.6,
+   "price": 2310.8401,
+   "change": -45.1135,
+   "pct": -1.91,
+   "pct_1m": -14.26,
    "spark": [
-    2690.4756,
     2695.2131,
     2686.9268,
     2688.6687,
@@ -327,19 +325,18 @@
     2386.1892,
     2384.0774,
     2355.9536,
-    2351.4299
+    2310.8401
    ],
-   "asof": "2026-10-25"
+   "asof": "2026-10-26"
   },
   "SOL-USD": {
    "symbol": "SOL-USD",
    "name": "Solana",
-   "price": 101.6,
-   "change": -0.6717,
-   "pct": -0.66,
-   "pct_1m": -16.73,
+   "price": 101.03,
+   "change": -1.2417,
+   "pct": -1.21,
+   "pct_1m": -16.8,
    "spark": [
-    122.0097,
     121.4256,
     122.0587,
     118.8367,
@@ -369,9 +366,9 @@
     103.5423,
     102.7799,
     102.2717,
-    101.6
+    101.03
    ],
-   "asof": "2026-10-25"
+   "asof": "2026-10-26"
   },
   "USDINR=X": {
    "symbol": "USDINR=X",
@@ -379,11 +376,8 @@
    "price": 94.93,
    "change": 0.2187,
    "pct": 0.23,
-   "pct_1m": -0.79,
+   "pct_1m": -0.9,
    "spark": [
-    95.6898,
-    95.7412,
-    96.1613,
     95.7883,
     95.9816,
     96.0507,
@@ -406,19 +400,16 @@
     94.7113,
     94.93
    ],
-   "asof": "2026-10-25"
+   "asof": "2026-10-26"
   },
   "EURINR=X": {
    "symbol": "EURINR=X",
    "name": "EUR/INR",
-   "price": 106.3423,
-   "change": 0.0273,
-   "pct": 0.03,
-   "pct_1m": -2.76,
+   "price": 106.5705,
+   "change": 0.2555,
+   "pct": 0.24,
+   "pct_1m": 0.66,
    "spark": [
-    109.358,
-    108.896,
-    109.089,
     105.873,
     109.065,
     108.769,
@@ -439,21 +430,18 @@
     106.334,
     106.043,
     106.315,
-    106.3423
+    106.5705
    ],
-   "asof": "2026-10-25"
+   "asof": "2026-10-26"
   },
   "EURUSD=X": {
    "symbol": "EURUSD=X",
    "name": "EUR/USD",
-   "price": 1.1204,
-   "change": -0.003,
-   "pct": -0.27,
-   "pct_1m": -2.13,
+   "price": 1.1227,
+   "change": 0.0006,
+   "pct": 0.05,
+   "pct_1m": -1.33,
    "spark": [
-    1.1448,
-    1.1382,
-    1.1375,
     1.1378,
     1.1373,
     1.1341,
@@ -473,21 +461,19 @@
     1.1216,
     1.1227,
     1.1235,
-    1.1204
+    1.1221,
+    1.1227
    ],
-   "asof": "2026-10-23"
+   "asof": "2026-10-26"
   },
   "GBPINR=X": {
    "symbol": "GBPINR=X",
    "name": "GBP/INR",
-   "price": 126.9538,
-   "change": 0.7401,
-   "pct": 0.59,
-   "pct_1m": -0.57,
+   "price": 127.0506,
+   "change": 0.8369,
+   "pct": 0.66,
+   "pct_1m": 0.29,
    "spark": [
-    127.6755,
-    126.7678,
-    127.0376,
     126.6882,
     127.2194,
     127.0541,
@@ -508,17 +494,17 @@
     126.6686,
     126.3324,
     126.2137,
-    126.9538
+    127.0506
    ],
-   "asof": "2026-10-25"
+   "asof": "2026-10-26"
   },
   "GC=F": {
    "symbol": "GC=F",
    "name": "Gold",
-   "price": 4007.8999,
-   "change": -52.5,
-   "pct": -1.29,
-   "pct_1m": -7.25,
+   "price": 4003.1001,
+   "change": -4.7998,
+   "pct": -0.12,
+   "pct_1m": -7.36,
    "spark": [
     4321.2002,
     4168.3999,
@@ -540,17 +526,18 @@
     4142.6001,
     4150.0,
     4060.3999,
-    4007.8999
+    4007.8999,
+    4003.1001
    ],
-   "asof": "2026-10-23"
+   "asof": "2026-10-25"
   },
   "SI=F": {
    "symbol": "SI=F",
    "name": "Silver",
-   "price": 53.949,
-   "change": -0.815,
-   "pct": -1.49,
-   "pct_1m": -16.03,
+   "price": 53.93,
+   "change": 0.219,
+   "pct": 0.41,
+   "pct_1m": -16.06,
    "spark": [
     64.245,
     61.22,
@@ -572,17 +559,18 @@
     57.706,
     57.422,
     54.764,
-    53.949
+    53.711,
+    53.93
    ],
-   "asof": "2026-10-23"
+   "asof": "2026-10-25"
   },
   "CL=F": {
    "symbol": "CL=F",
    "name": "WTI Crude",
-   "price": 103.27,
-   "change": 3.8,
-   "pct": 3.82,
-   "pct_1m": 11.75,
+   "price": 101.31,
+   "change": -1.96,
+   "pct": -1.9,
+   "pct_1m": 9.63,
    "spark": [
     92.41,
     92.6,
@@ -604,17 +592,18 @@
     101.79,
     97.15,
     99.47,
-    103.27
+    103.27,
+    101.31
    ],
-   "asof": "2026-10-23"
+   "asof": "2026-10-25"
   },
   "BZ=F": {
    "symbol": "BZ=F",
    "name": "Brent Crude",
-   "price": 111.7,
-   "change": -1.47,
-   "pct": -1.3,
-   "pct_1m": 7.07,
+   "price": 109.92,
+   "change": -6.8,
+   "pct": -5.83,
+   "pct_1m": 5.37,
    "spark": [
     104.32,
     105.28,
@@ -636,9 +625,10 @@
     108.79,
     108.82,
     113.17,
-    111.7
+    116.72,
+    109.92
    ],
-   "asof": "2026-10-23"
+   "asof": "2026-10-25"
   },
   "RELIANCE.NS": {
    "symbol": "RELIANCE.NS",
@@ -957,150 +947,116 @@
    "label": "India",
    "articles": [
     {
-     "id": "e29eb95a1f79",
-     "title": "PM Modi witnesses IAF air show in Varanasi",
-     "link": "https://www.thehindu.com/news/national/pm-modi-varanasi-uttar-pradesh-iaf-air-show/article71622977.ece",
+     "id": "4fcc8cb52a9a",
+     "title": "BJP slams Kharge over ‘indecent’ remarks on PM Modi",
+     "link": "https://www.thehindu.com/news/national/bihar/kharges-remark-in-bihar-pm-modi-father-sparks-row-bjp-congress/article71623852.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-25T10:08:29+00:00",
-     "summary": "Prime Minister Narendra Modi attended an Indian Air Force (IAF) air show in Varanasi to celebrate the force's 94th anniversary.",
-     "explain": "The Indian Air Force (IAF) conducts various outreach programs and air shows to demonstrate its operational strength. These events are public displays featuring fighter jets and aerobatic displays to commemorate the force's history and maintain its public profile.",
+     "published": "2026-10-25T20:21:19+00:00",
+     "summary": "The BJP has announced nationwide protests for October 26, 2026, to condemn remarks made by Congress leader Mallikarjun Kharge about Prime Minister Narendra Modi.",
+     "explain": "This story refers to political tensions where the ruling party, the BJP, organizes protests against opposition leaders for perceived insults against the Prime Minister. 'Rhetoric' refers to the style of political speech used to influence or persuade an audience, often becoming a point of contention in India's highly polarized political environment.",
      "related": [],
      "story": {
-      "id": "india-indian-air-force-anniversary-events",
-      "title": "Indian Air Force Anniversary Events",
-      "so_far": "The Indian Air Force frequently organizes public exhibitions and air shows to mark its founding anniversary and promote awareness of its capabilities. These events often draw high-level political attendance to highlight national defense and aerospace achievements.",
+      "id": "india-bjp-protests-against-opposition-rhetoric",
+      "title": "BJP Protests Against Opposition Rhetoric",
+      "so_far": "The relationship between the ruling BJP and the primary opposition, led by figures like Mallikarjun Kharge, is marked by intense ideological conflict and frequent rhetorical escalations. Public demonstrations and coordinated protests are common tools used by both sides to influence public sentiment and signal disapproval of the other's political messaging.",
       "timeline": [
        {
         "date": "2026-10-25",
-        "text": "Prime Minister Modi and senior state officials attended a three-day air show titled 'Wings over Ganges' in Varanasi.",
-        "link": "https://www.thehindu.com/news/national/pm-modi-varanasi-uttar-pradesh-iaf-air-show/article71622977.ece",
+        "text": "The BJP is mobilizing its state units to conduct organized protests against Mallikarjun Kharge for comments made at a rally in Patna.",
+        "link": "https://www.thehindu.com/news/national/bihar/kharges-remark-in-bihar-pm-modi-father-sparks-row-bjp-congress/article71623852.ece",
         "source": "India Latest News: Top National Headline"
        },
        {
         "date": "2026-10-25",
-        "text": "The air show in Varanasi showcased major aircraft including the Su-30MKI (Sukhoi) and the indigenous Tejas jet.",
-        "link": "https://www.ndtv.com/india-news/wings-over-ganges-sukhoi-tejas-kiran-pm-modi-witnesses-spectacular-air-show-in-varanasi-namo-ghat-12233000#publisher=newsstand",
+        "text": "The party has officially instructed state units to execute organized demonstrations against Kharge.",
+        "link": "https://www.ndtv.com/india-news/bjp-to-launch-nationwide-protests-against-mallikarjun-kharge-over-remarks-on-pm-modi-12234707#publisher=newsstand",
         "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-25",
+        "text": "The trigger for the planned protests is specifically identified as Kharge's recent remarks at a Patna event.",
+        "link": "https://www.thehindu.com/news/national/bjp-to-hold-nationwide-protest-on-october-26-against-kharges-baap-remark-for-modi/article71624386.ece",
+        "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "9b33e629b513",
-     "title": "Sukhoi, Tejas, Kiran: PM Modi Witnesses Spectacular Air Show In Varanasi",
-     "link": "https://www.ndtv.com/india-news/wings-over-ganges-sukhoi-tejas-kiran-pm-modi-witnesses-spectacular-air-show-in-varanasi-namo-ghat-12233000#publisher=newsstand",
+     "id": "9deeccb04d6e",
+     "title": "BJP To Launch Nationwide Protests Against Mallikarjun Kharge Over Remarks On PM Modi",
+     "link": "https://www.ndtv.com/india-news/bjp-to-launch-nationwide-protests-against-mallikarjun-kharge-over-remarks-on-pm-modi-12234707#publisher=newsstand",
      "source": "NDTV News Search Records Found 1000",
-     "published": "2026-10-25T09:13:51+00:00",
-     "summary": "The 'Wings over Ganges' air show featured various aircraft including the Sukhoi and Tejas fighter jets.",
-     "explain": "The Tejas is India's domestically developed light combat aircraft, while the Sukhoi is a primary multirole fighter in the IAF's fleet. Showcasing these aircraft demonstrates both India's military capabilities and its focus on developing indigenous defense technology.",
+     "published": "2026-10-25T17:53:27+00:00",
+     "summary": "The BJP is directing its regional offices to hold firm, peaceful demonstrations across India to protest against Mallikarjun Kharge's recent comments about the Prime Minister.",
+     "explain": "The BJP is utilizing its nationwide organizational structure to stage these protests as a show of strength and solidarity against opposition critiques. This reflects the standard practice of political parties in India using public mobilization to amplify their response to controversial statements.",
      "related": [],
      "story": {
-      "id": "india-indian-air-force-anniversary-events",
-      "title": "Indian Air Force Anniversary Events",
-      "so_far": "The Indian Air Force frequently organizes public exhibitions and air shows to mark its founding anniversary and promote awareness of its capabilities. These events often draw high-level political attendance to highlight national defense and aerospace achievements.",
+      "id": "india-bjp-protests-against-opposition-rhetoric",
+      "title": "BJP Protests Against Opposition Rhetoric",
+      "so_far": "The relationship between the ruling BJP and the primary opposition, led by figures like Mallikarjun Kharge, is marked by intense ideological conflict and frequent rhetorical escalations. Public demonstrations and coordinated protests are common tools used by both sides to influence public sentiment and signal disapproval of the other's political messaging.",
       "timeline": [
        {
         "date": "2026-10-25",
-        "text": "Prime Minister Modi and senior state officials attended a three-day air show titled 'Wings over Ganges' in Varanasi.",
-        "link": "https://www.thehindu.com/news/national/pm-modi-varanasi-uttar-pradesh-iaf-air-show/article71622977.ece",
+        "text": "The BJP is mobilizing its state units to conduct organized protests against Mallikarjun Kharge for comments made at a rally in Patna.",
+        "link": "https://www.thehindu.com/news/national/bihar/kharges-remark-in-bihar-pm-modi-father-sparks-row-bjp-congress/article71623852.ece",
         "source": "India Latest News: Top National Headline"
        },
        {
         "date": "2026-10-25",
-        "text": "The air show in Varanasi showcased major aircraft including the Su-30MKI (Sukhoi) and the indigenous Tejas jet.",
-        "link": "https://www.ndtv.com/india-news/wings-over-ganges-sukhoi-tejas-kiran-pm-modi-witnesses-spectacular-air-show-in-varanasi-namo-ghat-12233000#publisher=newsstand",
+        "text": "The party has officially instructed state units to execute organized demonstrations against Kharge.",
+        "link": "https://www.ndtv.com/india-news/bjp-to-launch-nationwide-protests-against-mallikarjun-kharge-over-remarks-on-pm-modi-12234707#publisher=newsstand",
         "source": "NDTV News Search Records Found 1000"
-       }
-      ]
-     }
-    },
-    {
-     "id": "0886f039d907",
-     "title": "IAS reshuffle in Tamil Nadu: Laxmi Priya to hold additional charge as Special Officer of Mudhalvarin Mugavari",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/ias-reshuffle-in-tamil-nadu-laxmi-priya-to-hold-additional-charge-as-special-officer-of-mudhalvarin-mugavari/article71622984.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-25T10:48:03+00:00",
-     "summary": "The Tamil Nadu government announced a reshuffle of senior administrative officers, with Laxmi Priya taking on additional responsibilities.",
-     "explain": "IAS officers are high-ranking civil servants who manage various government departments. A 'reshuffle' refers to the routine or strategic reassignment of these officials to ensure that key government programs are effectively administered.",
-     "related": [],
-     "story": {
-      "id": "india-tamil-nadu-administrative-reshuffle",
-      "title": "Tamil Nadu Administrative Reshuffle",
-      "so_far": "State governments in India periodically reassign IAS (Indian Administrative Service) officers to different departments to streamline governance and manage public welfare initiatives. 'Mudhalvarin Mugavari' is a specific administrative mechanism in Tamil Nadu designed to handle citizen grievances.",
-      "timeline": [
+       },
        {
         "date": "2026-10-25",
-        "text": "Laxmi Priya has been appointed to hold the additional charge of Special Officer for 'Mudhalvarin Mugavari'.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/ias-reshuffle-in-tamil-nadu-laxmi-priya-to-hold-additional-charge-as-special-officer-of-mudhalvarin-mugavari/article71622984.ece",
+        "text": "The trigger for the planned protests is specifically identified as Kharge's recent remarks at a Patna event.",
+        "link": "https://www.thehindu.com/news/national/bjp-to-hold-nationwide-protest-on-october-26-against-kharges-baap-remark-for-modi/article71624386.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "46b855a9a207",
-     "title": "Manipur cannot achieve lasting peace as long as gun culture exists: CM",
-     "link": "https://www.thehindu.com/news/national/manipur/manipur-cannot-achieve-lasting-peace-as-long-as-gun-culture-exists-cm/article71623033.ece",
+     "id": "2ad9c0cf3bea",
+     "title": "Cyclone Arnab to cross Andhra coast by October 28; rains continue in Tamil Nadu | LIVE",
+     "link": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-live-updates-imd-weather-forecast-rain-warnings-bay-of-bengal-october-26-2026/article71625447.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-25T10:44:13+00:00",
-     "summary": "Manipur Chief Minister N. Biren Singh emphasized that lasting peace in the state cannot be achieved while an active 'gun culture' persists.",
-     "explain": "The 'gun culture' refers to the prevalence of illegal firearms and militant activity in the region. The SoO agreement is a temporary truce aimed at reducing violence, but the government's stance is that permanent peace requires all parties to abandon weapons.",
+     "published": "2026-10-26T01:59:35+00:00",
+     "summary": "Odisha is preparing for the arrival of Cyclone Arnab, which is expected to cross the Andhra Pradesh coast by October 28, 2026.",
+     "explain": "Cyclones are severe storms characterized by strong winds and heavy rainfall that can cause massive destruction in coastal areas. Governments 'mobilize personnel' by sending government officials, police, and disaster response forces to high-risk zones to assist with evacuations and prepare for potential damage.",
      "related": [],
      "story": {
-      "id": "india-manipur-security-and-peace-initiatives",
-      "title": "Manipur Security and Peace Initiatives",
-      "so_far": "Manipur has experienced long-standing ethnic and political conflict, leading to the creation of various militant groups. The 'Suspension of Operations' (SoO) is an agreement between the government and these groups to cease hostilities while political negotiations occur.",
+      "id": "india-cyclone-arnab-preparedness",
+      "title": "Cyclone Arnab Preparedness",
+      "so_far": "Coastal India, particularly Odisha and Andhra Pradesh, is highly susceptible to cyclones during the monsoon and post-monsoon seasons. State governments maintain dedicated disaster management agencies to evacuate residents from low-lying areas and ensure food and medical supplies are positioned before storms make landfall.",
       "timeline": [
        {
-        "date": "2026-10-25",
-        "text": "CM Biren Singh visited a designated militant camp under a ceasefire agreement, reiterating that disarmament is essential for regional stability.",
-        "link": "https://www.thehindu.com/news/national/manipur/manipur-cannot-achieve-lasting-peace-as-long-as-gun-culture-exists-cm/article71623033.ece",
+        "date": "2026-10-26",
+        "text": "The Odisha government has deployed eight ministers to vulnerable districts to oversee safety protocols and emergency mobilization.",
+        "link": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-live-updates-imd-weather-forecast-rain-warnings-bay-of-bengal-october-26-2026/article71625447.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "442450abf45b",
-     "title": "Electricity Employees’ Federation of India cry foul over delay in issuing work order for Phase II of smart metering in Keralam",
-     "link": "https://www.thehindu.com/news/national/kerala/electricity-employees-federation-of-india-cry-foul-over-delay-in-issuing-work-order-for-phase-ii-of-smart-metering-in-keralam/article71622809.ece",
+     "id": "efe8a3ad74bf",
+     "title": "Hindutva reading builds on colonial interpretations of Indian history: Romila Thapar",
+     "link": "https://www.thehindu.com/news/national/hindutva-reading-builds-on-colonial-interpretations-of-indian-history-romila-thapar/article71624128.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-25T10:42:20+00:00",
-     "summary": "The Electricity Employees’ Federation of India (EEFI) expressed concerns over the delay in implementing the next phase of smart metering in Kerala.",
-     "explain": "Smart meters are digital devices that measure electricity consumption in real-time, replacing traditional mechanical meters. The EEFI is concerned that administrative delays in awarding contracts could cause the state to forfeit financial aid provided by the central government.",
+     "published": "2026-10-26T01:09:53+00:00",
+     "summary": "Historian Romila Thapar has stated that current interpretations of Indian history influenced by Hindutva ideology rely heavily on colonial-era frameworks.",
+     "explain": "Historiography is the study of how history is written and interpreted over time. This debate is significant in India because history is often used to shape national identity, and scholars like Romila Thapar frequently critique how political ideologies can influence the way the past is portrayed to the public.",
      "related": [],
      "story": {
-      "id": "india-kerala-smart-metering-project",
-      "title": "Kerala Smart Metering Project",
-      "so_far": "The Revamped Distribution Sector Scheme is a central Indian government program aimed at improving the operational efficiency and financial sustainability of state-run power distribution companies through infrastructure upgrades like smart meters.",
+      "id": "india-historiography-and-cultural-discourse",
+      "title": "Historiography and Cultural Discourse",
+      "so_far": "The interpretation of Indian history is a subject of frequent debate between scholars who advocate for secular, evidence-based academic research and those who promote narratives aligned with cultural or nationalist identities.",
       "timeline": [
        {
-        "date": "2026-10-25",
-        "text": "The EEFI has urged the Chief Minister to expedite the work order process to avoid losing central government grants.",
-        "link": "https://www.thehindu.com/news/national/kerala/electricity-employees-federation-of-india-cry-foul-over-delay-in-issuing-work-order-for-phase-ii-of-smart-metering-in-keralam/article71622809.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "334e9c8ca526",
-     "title": "Telangana’s H1 revenue below expectations as expenditure remains high",
-     "link": "https://www.thehindu.com/news/national/telangana/telanganas-h1-revenue-below-expectations-as-expenditure-remains-high/article71622829.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-25T10:39:18+00:00",
-     "summary": "Telangana's revenue collection for the first half of the financial year has fallen short of projections while expenditures remain high.",
-     "explain": "Revenue receipts refer to the money the government earns, while expenditure refers to its spending. A shortfall means the state is collecting less money than it expected, which may affect the funding of ongoing welfare or development projects.",
-     "related": [],
-     "story": {
-      "id": "india-telangana-fiscal-performance",
-      "title": "Telangana Fiscal Performance",
-      "so_far": "State governments must balance revenue (tax collections, central transfers) against expenditures (welfare schemes, infrastructure, salaries). Fiscal deficits occur when spending exceeds revenue, often forcing states to borrow funds to cover costs.",
-      "timeline": [
-       {
-        "date": "2026-10-25",
-        "text": "The state reported that it has achieved only 38.14% of its projected revenue receipts by the end of September.",
-        "link": "https://www.thehindu.com/news/national/telangana/telanganas-h1-revenue-below-expectations-as-expenditure-remains-high/article71622829.ece",
+        "date": "2026-10-26",
+        "text": "Thapar argues that prioritizing physical evidence like inscriptions over existing narratives could lead to a more accurate understanding of Indian history.",
+        "link": "https://www.thehindu.com/news/national/hindutva-reading-builds-on-colonial-interpretations-of-indian-history-romila-thapar/article71624128.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
@@ -1108,10 +1064,10 @@
     },
     {
      "id": "841e1337766f",
-     "title": "Cyclone over Bay of Bengal to bring heavy rain across South India, Odisha, West Bengal; red alerts issued in multiple States | LIVE",
+     "title": "Monsoon tracker updates: Depression over Bay of Bengal set to become ‘very severe cyclonic storm’, cross A.P. coast by October 28",
      "link": "https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-25T10:35:02+00:00",
+     "published": "2026-10-26T00:38:50+00:00",
      "summary": "Coastal Andhra Pradesh and Odisha are preparing for a severe cyclonic storm, with heavy rainfall also expected in Tamil Nadu.",
      "explain": "A cyclonic storm is a large-scale weather system characterized by strong rotating winds and heavy rain. 'Landfall' refers to the moment the center of the storm reaches land. These storms are dangerous due to flooding, high-speed winds, and storm surges, requiring governments to activate emergency response teams.",
      "related": [],
@@ -1136,69 +1092,127 @@
      }
     },
     {
-     "id": "9a29d61350ed",
-     "title": "Heavy rain lashes Puducherry",
-     "link": "https://www.thehindu.com/news/cities/puducherry/heavy-rain-lashes-puducherry/article71622916.ece",
+     "id": "71616ff651b4",
+     "title": "Raj Thackeray deletes Modi-Adani documentary post after Mumbai Police chief’s request, vows to continue fight",
+     "link": "https://www.thehindu.com/news/national/raj-thackeray-deletes-pm-modi-adani-documentary-from-social-media-after-mumbai-police-chiefs-request/article71622785.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-25T10:33:21+00:00",
-     "summary": "Heavy rainfall in Puducherry has prompted local authorities to issue cautionary signals to the maritime community.",
-     "explain": "A cautionary signal (Signal No. 1) is the lowest level of warning issued by ports, indicating that weather conditions at sea are potentially hazardous. This is a standard safety measure during monsoon-related weather disturbances.",
+     "published": "2026-10-25T21:02:27+00:00",
+     "summary": "MNS chief Raj Thackeray removed a post sharing a documentary critical of the Adani Group following a request from the Mumbai Police Commissioner.",
+     "explain": "Corporate monopolies occur when a single company or group has exclusive control over a specific industry. In this context, Raj Thackeray's public criticism of a major corporate group showcases how politicians use digital platforms to challenge large business interests, sometimes drawing intervention from state authorities.",
      "related": [],
      "story": {
-      "id": "india-puducherry-weather-and-monsoon-alerts",
-      "title": "Puducherry Weather and Monsoon Alerts",
-      "so_far": "Puducherry, located on the coast of the Bay of Bengal, is vulnerable to heavy rains and cyclonic activity during the Northeast monsoon season. Authorities use maritime signals to communicate weather-related risks to sailors and fishermen.",
+      "id": "india-political-figures-and-corporate-criticis",
+      "title": "Political Figures and Corporate Criticism",
+      "so_far": "Political leaders in India often use social media to level allegations of corruption or corporate-political collusion. These posts frequently lead to friction with legal or law enforcement authorities, highlighting the tension between freedom of expression and public order mandates.",
       "timeline": [
        {
         "date": "2026-10-25",
-        "text": "A distant cautionary signal No. 1 has been hoisted at the Puducherry port, and fishermen have been advised against sea travel.",
-        "link": "https://www.thehindu.com/news/cities/puducherry/heavy-rain-lashes-puducherry/article71622916.ece",
+        "text": "Thackeray complied with the police request but reiterated his intention to keep opposing alleged corporate monopolies.",
+        "link": "https://www.thehindu.com/news/national/raj-thackeray-deletes-pm-modi-adani-documentary-from-social-media-after-mumbai-police-chiefs-request/article71622785.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "97e46a8d1acf",
-     "title": "Kadapa police to seek cancellation of TDP spokesperson’s gun licence after alleged firing in Nandalur",
-     "link": "https://www.thehindu.com/news/national/andhra-pradesh/kadapa-police-to-seek-cancellation-of-tdp-spokespersons-gun-licence-after-alleged-firing-in-nandalur/article71622917.ece",
+     "id": "9404eeb59299",
+     "title": "BJP to hold nationwide protest on October 26 against Kharge’s remark on Modi",
+     "link": "https://www.thehindu.com/news/national/bjp-to-hold-nationwide-protest-on-october-26-against-kharges-baap-remark-for-modi/article71624386.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-25T10:30:30+00:00",
-     "summary": "Police in Kadapa are moving to cancel the gun license of a TDP spokesperson following an incident involving the firing of a weapon.",
-     "explain": "When an individual is involved in a shooting, local law enforcement can recommend the revocation of their firearm license to prevent future incidents. The process involves investigating whether the weapon was legally used or improperly handled.",
+     "published": "2026-10-25T20:48:22+00:00",
+     "summary": "The BJP has scheduled nationwide protests against Mallikarjun Kharge for making comments about Prime Minister Narendra Modi's late father.",
+     "explain": "This article confirms that the ongoing political friction is stemming from personal comments regarding the Prime Minister's family, which the ruling party views as offensive and worthy of a national mobilization.",
      "related": [],
      "story": {
-      "id": "india-firearm-license-cancellation-in-andhra-p",
-      "title": "Firearm License Cancellation in Andhra Pradesh",
-      "so_far": "In India, gun ownership is strictly regulated by the Arms Act. Licenses are granted for specific purposes, such as self-defense, and can be revoked if the holder violates safety protocols or is involved in criminal activity.",
+      "id": "india-bjp-protests-against-opposition-rhetoric",
+      "title": "BJP Protests Against Opposition Rhetoric",
+      "so_far": "The relationship between the ruling BJP and the primary opposition, led by figures like Mallikarjun Kharge, is marked by intense ideological conflict and frequent rhetorical escalations. Public demonstrations and coordinated protests are common tools used by both sides to influence public sentiment and signal disapproval of the other's political messaging.",
       "timeline": [
        {
         "date": "2026-10-25",
-        "text": "Kadapa police are seeking to cancel the license after an alleged firing incident, despite confusion over the status of the weapon used.",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/kadapa-police-to-seek-cancellation-of-tdp-spokespersons-gun-licence-after-alleged-firing-in-nandalur/article71622917.ece",
+        "text": "The BJP is mobilizing its state units to conduct organized protests against Mallikarjun Kharge for comments made at a rally in Patna.",
+        "link": "https://www.thehindu.com/news/national/bihar/kharges-remark-in-bihar-pm-modi-father-sparks-row-bjp-congress/article71623852.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-25",
+        "text": "The party has officially instructed state units to execute organized demonstrations against Kharge.",
+        "link": "https://www.ndtv.com/india-news/bjp-to-launch-nationwide-protests-against-mallikarjun-kharge-over-remarks-on-pm-modi-12234707#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-25",
+        "text": "The trigger for the planned protests is specifically identified as Kharge's recent remarks at a Patna event.",
+        "link": "https://www.thehindu.com/news/national/bjp-to-hold-nationwide-protest-on-october-26-against-kharges-baap-remark-for-modi/article71624386.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "a16876d48b03",
-     "title": "BJP leader Hartal Halappa urges Karnataka Govt to ensure at least seven-hour power supply to agri pump sets during day time",
-     "link": "https://www.thehindu.com/news/national/karnataka/bjp-leader-hartal-halappa-urges-karnataka-govt-to-ensure-at-least-seven-hour-power-supply-to-agri-pump-sets-during-day-time/article71622920.ece",
+     "id": "c01a90ba2a2d",
+     "title": "Ernakulam district panchayat in Keralam to speed up sterilisation of dogs",
+     "link": "https://www.thehindu.com/news/national/kerala/ernakulam-district-panchayat-in-keralam-to-speed-up-sterilisation-of-dogs/article71579887.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-25T10:29:39+00:00",
-     "summary": "A BJP leader has called on the Karnataka government to ensure a reliable daytime power supply for agricultural pumps.",
-     "explain": "Agri pump sets are powered by electricity to draw water from wells or channels for irrigation. Disruptions mean that farmers cannot water their fields properly, which can negatively impact crop yields and farmer income.",
+     "published": "2026-10-25T20:34:01+00:00",
+     "summary": "In Ernakulam, Kerala, local authorities are struggling to reach targets for the sterilization and vaccination of stray dogs through the Animal Birth Control (ABC) program.",
+     "explain": "The Animal Birth Control (ABC) program is a standard method used to manage stray populations by sterilizing and vaccinating dogs rather than culling them. The inability to hit targets often leads to public frustration regarding safety in residential areas.",
      "related": [],
      "story": {
-      "id": "india-karnataka-agricultural-power-supply",
-      "title": "Karnataka Agricultural Power Supply",
-      "so_far": "Agriculture in India often relies on electric pump sets to irrigate crops. Managing power supply to rural areas is a key political issue, as farmers require consistent electricity to keep irrigation systems operational during critical growing phases.",
+      "id": "india-animal-birth-control-in-kerala",
+      "title": "Animal Birth Control in Kerala",
+      "so_far": "Managing the stray dog population is a recurring public health and safety issue in Kerala, leading to frequent government intervention to address concerns about rabies and dog bites while balancing animal rights.",
       "timeline": [
        {
         "date": "2026-10-25",
-        "text": "Legislators are highlighting that farmers in the Shivamogga district are experiencing severe disruptions to their power supply.",
-        "link": "https://www.thehindu.com/news/national/karnataka/bjp-leader-hartal-halappa-urges-karnataka-govt-to-ensure-at-least-seven-hour-power-supply-to-agri-pump-sets-during-day-time/article71622920.ece",
+        "text": "Despite having two operational centers, the district panchayat is failing to meet the monthly sterilization quota of 100 dogs per center.",
+        "link": "https://www.thehindu.com/news/national/kerala/ernakulam-district-panchayat-in-keralam-to-speed-up-sterilisation-of-dogs/article71579887.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "95ae5acad808",
+     "title": "One killed as off-road vehicle plunges into gorge at Kakkadampoyil in Keralam’s Kozhikode",
+     "link": "https://www.thehindu.com/news/national/kerala/one-killed-as-off-road-vehicle-plunges-into-gorge-at-kakkadampoyil-in-keralams-kozhikode/article71624454.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-25T20:31:41+00:00",
+     "summary": "A vehicle accident in Kakkadampoyil, Kerala, resulted in one fatality after an off-road vehicle fell into a gorge.",
+     "explain": "This is a report on a local road safety incident. 'Off-road vehicles' are designed for rough terrain, but high-altitude, narrow roads like those in Kerala often remain dangerous even for specialized transport.",
+     "related": [],
+     "story": {
+      "id": "india-road-accidents-in-kerala",
+      "title": "Road Accidents in Kerala",
+      "so_far": "Kerala's hilly terrain frequently presents significant driving hazards, particularly during rainy weather, leading to incidents on narrow and winding roads that local emergency services must manage.",
+      "timeline": [
+       {
+        "date": "2026-10-25",
+        "text": "Authorities are investigating the incident where the driver reportedly lost control on the Koodaranhi-Kakkadampoyil route.",
+        "link": "https://www.thehindu.com/news/national/kerala/one-killed-as-off-road-vehicle-plunges-into-gorge-at-kakkadampoyil-in-keralams-kozhikode/article71624454.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "1f889b4f7088",
+     "title": "String theory pioneer Ashoke Sen wins Oskar Klein Medal",
+     "link": "https://www.thehindu.com/sci-tech/science/award-winning-theoretical-physicist-ashoke-sen-has-focused-on-string-theory/article71623560.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-25T20:27:01+00:00",
+     "summary": "Indian physicist Ashoke Sen has been awarded the Oskar Klein Medal for his contributions to string theory.",
+     "explain": "String theory is a complex area of theoretical physics that attempts to reconcile gravity with quantum mechanics by suggesting that the fundamental constituents of the universe are tiny, vibrating 'strings.' Winning the Oskar Klein Medal is a major international achievement in the scientific community.",
+     "related": [],
+     "story": {
+      "id": "india-scientific-achievements-of-ashoke-sen",
+      "title": "Scientific Achievements of Ashoke Sen",
+      "so_far": "Ashoke Sen is a renowned Indian theoretical physicist known globally for his pioneering work in string theory. His research has consistently garnered prestigious international recognition, highlighting Indian contributions to high-level theoretical science.",
+      "timeline": [
+       {
+        "date": "2026-10-25",
+        "text": "The award was presented by Stockholm University and the Nobel Committee for Physics.",
+        "link": "https://www.thehindu.com/sci-tech/science/award-winning-theoretical-physicist-ashoke-sen-has-focused-on-string-theory/article71623560.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
@@ -1210,39 +1224,48 @@
    "label": "World",
    "articles": [
     {
-     "id": "6ad5707c42c7",
-     "title": "Israel to close occupied West Bank crossings as it locks down Hebron",
-     "link": "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-25T07:20:36+00:00",
-     "summary": "Israel is implementing a closure of all land crossings with the occupied West Bank in anticipation of its upcoming general election.",
-     "explain": "The West Bank is a territory under Israeli military occupation that many Palestinians hope will be part of a future state. An election lockdown is a security measure Israel frequently takes during volatile periods or holidays to prevent potential attacks. During these lockdowns, Palestinians are generally prohibited from entering Israel or Israeli settlements, which directly impacts the ability of thousands of people to work or travel.",
+     "id": "78d68b03307b",
+     "title": "Venezuelan opposition leader María Machado returns after months in exile",
+     "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-10-25T23:33:14+00:00",
+     "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "world-israel-west-bank-election-lockdown",
-      "title": "Israel West Bank Election Lockdown",
-      "so_far": "The Israeli-Palestinian conflict over the West Bank involves long-standing issues of military occupation, settlement expansion, and security restrictions. Palestinian workers frequently rely on crossing points to reach jobs in Israel or Israeli-administered settlements, making such closures a significant economic and social disruption.",
-      "timeline": [
-       {
-        "date": "2026-10-25",
-        "text": "Israel announced a total closure of all West Bank land crossings to occur on election day.",
-        "link": "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-10-25",
-        "text": "The military confirmed that entry for work purposes is banned starting October 25.",
-        "link": "https://www.thehindu.com/news/international/israel-to-close-all-land-crossings-with-west-bank-on-election-day/article71622494.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-10-25",
-        "text": "Reports confirm that homes are being turned into military posts as part of a broader crackdown in the West Bank.",
-        "link": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
+     "story": null
+    },
+    {
+     "id": "22b4a940da9c",
+     "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
+     "link": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-10-25T18:55:39+00:00",
+     "summary": "The Nobel laureate&#039;s homecoming follows national protests demanding free elections.",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "956ebdcd8c8b",
+     "title": "Strike on Gaza university kills three: staff, hospital",
+     "link": "https://www.thehindu.com/news/international/strike-on-gaza-university-kills-three-staff-hospital/article71624609.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-10-25T19:41:40+00:00",
+     "summary": "The university said the campus and its surroundings had been targeted twice on October 25, condemning the attacks and mourning those killed in a statement",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "46e53328bbb5",
+     "title": "Israeli air strike on Gaza City university kills three people",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-10-25T18:12:13+00:00",
+     "summary": "Two Israeli strikes hit students and security guards at the Islamic University in Gaza City.",
+     "explain": null,
+     "related": [],
+     "story": null
     },
     {
      "id": "37ff76733eed",
@@ -1280,279 +1303,59 @@
      }
     },
     {
-     "id": "01c69889aad8",
-     "title": "Iran says resumption of war would not change its stances",
-     "link": "https://www.thehindu.com/news/international/iran-says-resumption-of-war-would-not-change-its-stances/article71622921.ece",
+     "id": "1a24cb388bb9",
+     "title": "Five economic challenges facing Brazil's re-elected President Lula",
+     "link": "https://www.thehindu.com/news/international/major-economic-challenges-brazil-faces-under-lulas-new-term/article71625446.ece",
      "source": "World News: Latest International News & ",
-     "published": "2026-10-25T10:45:44+00:00",
-     "summary": "Iran's Foreign Minister stated that any resumption of regional conflict would not change Iran's core positions.",
-     "explain": "Iran is a major regional power that often clashes with Western interests, particularly the U.S. presence in the Middle East. By calling for the 'absence of foreign forces,' Iran is advocating for the U.S. military to leave countries like Iraq, Syria, and the Persian Gulf, arguing that their presence causes the instability they claim to prevent.",
+     "published": "2026-10-26T01:54:43+00:00",
+     "summary": "Lula plans a new round of debt relief, this time through discounted purchases of distressed household loans from banks, plus tax ⁠debt forgiveness for some small business owners",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "world-u-s-iran-diplomatic-standoff",
-      "title": "U.S.-Iran Diplomatic Standoff",
-      "so_far": "The Strait of Hormuz is a vital oil transit point that is frequently subject to tensions between Iran and Western-aligned nations. Ongoing instability in Gaza has prompted various international diplomatic efforts to seek a peaceful resolution to both the regional humanitarian crisis and the maritime security threats.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "Senator Marco Rubio stated that ongoing attacks in the Strait of Hormuz make formal peace talks extremely difficult.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "International leaders are pushing to stabilize the Strait of Hormuz and pressure for a Gaza ceasefire.",
-        "link": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-10-25",
-        "text": "Iran's Foreign Minister demanded the total removal of foreign forces from the region to ensure stability.",
-        "link": "https://www.thehindu.com/news/international/iran-says-resumption-of-war-would-not-change-its-stances/article71622921.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-10-25",
-        "text": "Trump mocked media questions regarding future strikes while Iran accused the U.S. of derailing regional diplomatic efforts.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "fc68447f20eb",
-     "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-     "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+     "id": "3108b324ae52",
+     "title": "Luiz Inácio Lula da Silva | The democratic leftist",
+     "link": "https://www.thehindu.com/news/international/luiz-inacio-lula-da-silva-the-democratic-leftist/article65960291.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-10-26T01:52:58+00:00",
+     "summary": "Former two-time President Lula, who has promised a new form of welfarism with ecological and infrastructure spending, defeated Brazil’s far-right incumbent Jair Bolsonaro in the Presidential elections",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "cf256c29df86",
+     "title": "Brazil's Lula da Silva defies odds to clinch poll victory against Flavio Bolsonaro",
+     "link": "https://www.thehindu.com/news/international/brazils-lula-da-silva-defies-odds-to-clinch-poll-victory-against-flavio-bolsonaro/article71625437.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-10-26T01:52:24+00:00",
+     "summary": "According to official results, he won 51.75% of the votes to 48.25% for Flavio Bolsonaro, son of former far-right President Jair Bolsonaro, who had entered election day confident with his lead in the polls",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "f24867294789",
+     "title": "A physicist who took atoms near absolute zero, and physics further",
+     "link": "https://www.thehindu.com/sci-tech/science/claude-cohen-tannoudji-laser-cooling-pancharatnam-michael-berry-ramaseshan/article71625449.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-10-26T01:49:34+00:00",
+     "summary": "Claude Cohen-Tannoudji had many connections with India, including acknowledging the work of a little-known scientist who had died three decades before Cohen-Tannoudji won the Nobel Prize",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "cf1c84103e57",
+     "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+     "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-10-25T10:38:15+00:00",
-     "summary": "Widespread protests in France have led to over 1,300 arrests as demonstrations spread across the country and parts of Europe.",
-     "explain": "France frequently experiences large-scale protests over government policies, labor laws, or perceived social inequality. The high number of arrests suggests a significant escalation in tensions between demonstrators and law enforcement, which typically triggers national debates about the right to protest versus the need for public order.",
-     "related": [
-      {
-       "date": "2026-10-24",
-       "title": "France braces for another day of mass protests as security on high alert",
-       "link": "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert?traffic_source=rss",
-       "source": "Al Jazeera – Breaking News, World News a"
-      }
-     ],
-     "story": {
-      "id": "world-france-civil-unrest-debate",
-      "title": "France Civil Unrest Debate",
-      "so_far": "France frequently grapples with social tension related to economic inequality, policing methods, and integration. Previous periods of unrest have often triggered national introspection regarding the country's social contract, leading to calls for policy reforms or stricter law enforcement.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "Disagreements persist regarding the causes and lessons of the recent riots.",
-        "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "The city of Lyon has imposed a temporary protest ban after significant looting and property damage occurred during recent unrest.",
-        "link": "https://www.thehindu.com/news/international/french-city-of-lyon-bans-all-protests-on-october-24/article71611024.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-10-24",
-        "text": "Security is on high alert as officials move to block demonstrations amid ongoing civil unrest.",
-        "link": "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-10-25",
-        "text": "The intensity of civil unrest in France has surged, leading to mass arrests as the government struggles to contain violent protests.",
-        "link": "https://www.thehindu.com/news/international/fresh-clashes-rock-france-as-protesters-march-on/article71622465.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-10-25",
-        "text": "Over 1,300 people were arrested following another intense day of mass demonstrations.",
-        "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "3571c574b963",
-     "title": "Trump mocks reporter asking about Iran strikes, as Tehran says US derailed",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-25T10:14:43+00:00",
-     "summary": "President Trump responded sarcastically to questions regarding potential military strikes against Iran.",
-     "explain": "This exchange highlights the heightened diplomatic tension between the U.S. and Iran. Rhetoric from both sides is often calculated to signal strength to domestic audiences or allies, while the actual risk of military escalation remains a major concern for global markets and Middle Eastern stability.",
+     "published": "2026-10-26T01:07:05+00:00",
+     "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "world-u-s-iran-diplomatic-standoff",
-      "title": "U.S.-Iran Diplomatic Standoff",
-      "so_far": "The Strait of Hormuz is a vital oil transit point that is frequently subject to tensions between Iran and Western-aligned nations. Ongoing instability in Gaza has prompted various international diplomatic efforts to seek a peaceful resolution to both the regional humanitarian crisis and the maritime security threats.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "Senator Marco Rubio stated that ongoing attacks in the Strait of Hormuz make formal peace talks extremely difficult.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "International leaders are pushing to stabilize the Strait of Hormuz and pressure for a Gaza ceasefire.",
-        "link": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-10-25",
-        "text": "Iran's Foreign Minister demanded the total removal of foreign forces from the region to ensure stability.",
-        "link": "https://www.thehindu.com/news/international/iran-says-resumption-of-war-would-not-change-its-stances/article71622921.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-10-25",
-        "text": "Trump mocked media questions regarding future strikes while Iran accused the U.S. of derailing regional diplomatic efforts.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
-    },
-    {
-     "id": "ba3a71ebfcb6",
-     "title": "At least 22 killed in Kenya bus crash near site of previous fatal accident",
-     "link": "https://www.thehindu.com/news/international/kenya-bus-crash-several-killed-october-25-2026/article71622975.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-10-25T10:06:58+00:00",
-     "summary": "A fatal bus crash in Kenya has resulted in at least 22 deaths on a major highway.",
-     "explain": "Road accidents in Kenya are a major public health concern. The fact that this crash occurred near a previous fatal incident suggests chronic problems with that specific road's design or safety regulations, highlighting the dangers facing commuters in the country.",
-     "related": [],
-     "story": {
-      "id": "world-kenya-bus-highway-tragedy",
-      "title": "Kenya Bus Highway Tragedy",
-      "so_far": "Kenya frequently deals with high rates of traffic accidents due to poor road maintenance, aggressive driving, and inadequate safety enforcement on heavily traveled corridors like the Nairobi-Mombasa road.",
-      "timeline": [
-       {
-        "date": "2026-10-25",
-        "text": "At least 22 people died in a crash on the Nairobi-Mombasa highway, near the site of a previous accident.",
-        "link": "https://www.thehindu.com/news/international/kenya-bus-crash-several-killed-october-25-2026/article71622975.ece",
-        "source": "World News: Latest International News & "
-       }
-      ]
-     }
-    },
-    {
-     "id": "f69727824ca8",
-     "title": "Qatar official calls for peace and security to boost trade, investment",
-     "link": "https://www.aljazeera.com/news/2026/10/25/qatar-official-calls-for-peace-and-security-to-boost-trade-investment?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-25T09:57:40+00:00",
-     "summary": "A Qatari official emphasized the necessity of regional peace and security for economic growth.",
-     "explain": "In the context of Middle Eastern politics, regional 'security' is often seen as a prerequisite for business. Qatar is trying to position itself as a stable and reliable partner for international trade, even as its neighbors deal with ongoing conflicts.",
-     "related": [],
-     "story": {
-      "id": "world-regional-economic-security",
-      "title": "Regional Economic Security",
-      "so_far": "Qatar often acts as a diplomatic bridge in the Middle East, maintaining relationships with various factions while focusing heavily on its economic development through energy exports and international investment.",
-      "timeline": [
-       {
-        "date": "2026-10-25",
-        "text": "Qatar urged for stability as a requirement for improving trade and investment in the Middle East.",
-        "link": "https://www.aljazeera.com/news/2026/10/25/qatar-official-calls-for-peace-and-security-to-boost-trade-investment?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
-    },
-    {
-     "id": "cbcdea759dcc",
-     "title": "Bangladesh seeks details from Saudi Arabia on execution of two citizens: report",
-     "link": "https://www.thehindu.com/news/international/bangladesh-seeks-details-from-saudi-arabia-on-execution-of-two-citizens-report/article71622976.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-10-25T09:57:37+00:00",
-     "summary": "Bangladesh is requesting information from Saudi Arabia regarding the recent execution of two of its citizens.",
-     "explain": "Saudi Arabia's legal system is quite different from Western systems, and behaviors considered minor or civil offenses elsewhere can lead to severe penalties there. The 'indecent act' charge is vague, which often leads to diplomatic friction between the Saudi government and countries whose citizens are affected.",
-     "related": [],
-     "story": {
-      "id": "world-bangladesh-saudi-diplomatic-dispute",
-      "title": "Bangladesh-Saudi Diplomatic Dispute",
-      "so_far": "Saudi Arabia maintains a strict legal system based on Islamic law, which includes capital punishment for various offenses. Discrepancies in how these laws are applied to foreign workers can lead to tensions with their home countries.",
-      "timeline": [
-       {
-        "date": "2026-10-25",
-        "text": "Bangladesh seeks details after Saudi Arabia executed two nationals for committing an 'indecent act' inside a mosque.",
-        "link": "https://www.thehindu.com/news/international/bangladesh-seeks-details-from-saudi-arabia-on-execution-of-two-citizens-report/article71622976.ece",
-        "source": "World News: Latest International News & "
-       }
-      ]
-     }
-    },
-    {
-     "id": "e125a68cad03",
-     "title": "Explosions heard in Saudi capital as airport prepares to reopen",
-     "link": "https://www.thehindu.com/news/international/explosions-heard-in-saudi-capital-as-airport-prepares-to-reopen/article71622928.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-10-25T09:29:46+00:00",
-     "summary": "Explosions were reported in Riyadh, Saudi Arabia, amidst ongoing conflict with Houthi rebels.",
-     "explain": "The Houthi movement in Yemen has been using drones and missiles to target Saudi infrastructure in retaliation for the Saudi-led coalition's role in the Yemeni civil war. This attack is part of a series of security challenges threatening the stability of major Saudi metropolitan areas.",
-     "related": [],
-     "story": {
-      "id": "world-attack-on-king-fahd-airport",
-      "title": "Attack on King Fahd Airport",
-      "so_far": "This is a breaking news event concerning a violent incident at a major Saudi Arabian infrastructure site. Security authorities are currently investigating the circumstances of the attack, and further official updates from the aviation authority are pending.",
-      "timeline": [
-       {
-        "date": "2026-10-22",
-        "text": "A security incident at King Fahd Airport in Saudi Arabia has left one person dead and eight injured.",
-        "link": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "A new Houthi attack on a Saudi airport resulted in two fatalities, highlighting ongoing regional security threats.",
-        "link": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-10-25",
-        "text": "New explosions were reported in the Saudi capital as the airport prepares to resume operations following recent strikes.",
-        "link": "https://www.thehindu.com/news/international/explosions-heard-in-saudi-capital-as-airport-prepares-to-reopen/article71622928.ece",
-        "source": "World News: Latest International News & "
-       }
-      ]
-     }
-    },
-    {
-     "id": "ff5cbcaf762e",
-     "title": "Israeli forces turn Hebron homes into military posts amid lockdown",
-     "link": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-25T09:27:03+00:00",
-     "summary": "Israeli forces are reported to be seizing homes in Hebron to establish military outposts.",
-     "explain": "Hebron is a deeply contested city in the West Bank with a significant Israeli settler population living near Palestinian neighborhoods. Converting private homes into military posts is a tactic used by the Israeli military to secure areas, but it is highly controversial and often leads to heightened violence and accusations of property rights violations.",
-     "related": [],
-     "story": {
-      "id": "world-israel-west-bank-election-lockdown",
-      "title": "Israel West Bank Election Lockdown",
-      "so_far": "The Israeli-Palestinian conflict over the West Bank involves long-standing issues of military occupation, settlement expansion, and security restrictions. Palestinian workers frequently rely on crossing points to reach jobs in Israel or Israeli-administered settlements, making such closures a significant economic and social disruption.",
-      "timeline": [
-       {
-        "date": "2026-10-25",
-        "text": "Israel announced a total closure of all West Bank land crossings to occur on election day.",
-        "link": "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-10-25",
-        "text": "The military confirmed that entry for work purposes is banned starting October 25.",
-        "link": "https://www.thehindu.com/news/international/israel-to-close-all-land-crossings-with-west-bank-on-election-day/article71622494.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-10-25",
-        "text": "Reports confirm that homes are being turned into military posts as part of a broader crackdown in the West Bank.",
-        "link": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
+     "story": null
     }
    ]
   },
@@ -1560,252 +1363,127 @@
    "label": "Business & Finance",
    "articles": [
     {
-     "id": "acf8b6bc62cb",
-     "title": "Crude oil near $120, to intensify headwinds for economy, but tailwinds likely to reduce pressure",
-     "link": "https://www.thehindubusinessline.com/economy/crude-oil-near-120-to-intensify-headwinds-for-economy-but-tailwinds-likely-to-reduce-pressure/article71623034.ece",
+     "id": "53c4bfa5313d",
+     "title": "AI Express, IndiGo to move West Asia flights from Mumbai to Navi Mumbai",
+     "link": "https://www.thehindubusinessline.com/economy/logistics/ai-express-indigo-to-move-west-asia-flights-from-mumbaito-navimumbai/article71623866.ece",
      "source": "Business News Today: Latest Business New",
-     "published": "2026-10-25T10:46:26+00:00",
-     "summary": "High global crude oil prices are straining India's fiscal budget by ballooning fertilizer subsidy costs. The government must balance these rising costs against other economic pressures.",
-     "explain": "When global oil prices rise, it costs the Indian government more to subsidize essential goods like fertilizers, which are oil-derivative intensive. This is a fiscal concern because it limits funds available for other public spending and can increase the national deficit.",
+     "published": "2026-10-25T15:04:17+00:00",
+     "summary": "The transition, which begins in December, will stretch into the next summer schedule",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "business-india-s-fiscal-pressure-and-oil-prices",
-      "title": "India's Fiscal Pressure and Oil Prices",
-      "so_far": "India remains heavily dependent on crude oil imports, making its trade balance and fiscal stability vulnerable to global price spikes. High oil prices lead to increased input costs for agriculture and manufacturing, often requiring government subsidies to keep consumer prices stable.",
-      "timeline": [
-       {
-        "date": "2026-10-25",
-        "text": "The Controller General of Accounts reports that fertilizer subsidies reached ₹1.03 lakh crore in just five months, threatening the annual budget estimate.",
-        "link": "https://www.thehindubusinessline.com/economy/crude-oil-near-120-to-intensify-headwinds-for-economy-but-tailwinds-likely-to-reduce-pressure/article71623034.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "b2f9425ba173",
-     "title": "Trump heads to Michigan after Obama backs Democrat",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-to-rally-michigan-republicans-after-obama-backs-democrat-el-sayed/articleshow/135188476.cms",
+     "id": "8e07adab3fcd",
+     "title": "IndiGo, Air India to shift flights to Navi Mumbai",
+     "link": "https://economictimes.indiatimes.com/nri/latest-updates/indigo-air-india-group-to-shift-flights-to-navi-mumbai-airport-ahead-of-mumbai-t1-redevelopment/articleshow/135188919.cms",
      "source": "Economic Times",
-     "published": "2026-10-25T10:04:56+00:00",
-     "summary": "Donald Trump is campaigning in Michigan following Barack Obama's public endorsement of his Democratic opponent.",
-     "explain": "This article reflects the ongoing US electoral cycle. Campaign stops in swing states like Michigan are crucial for securing the electoral votes needed to win the presidency, while endorsements from former presidents are used to signal party unity and mobilize voters.",
+     "published": "2026-10-25T10:54:53+00:00",
+     "summary": "",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "business-us-diplomatic-strategy-and-summits",
-      "title": "US Diplomatic Strategy and Summits",
-      "so_far": "Following the recent US election and change in administration, the new executive branch is evaluating its diplomatic stance toward Russia and China. The upcoming APEC (Asia-Pacific Economic Cooperation) summit serves as a primary venue for these high-level international discussions.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "President Trump is planning a visit to China for an APEC summit where potential talks on nuclear arms with world leaders may occur.",
-        "link": "https://www.thehindubusinessline.com/news/world/trump-open-to-putin-xi-summit-but-would-focus-on-nuclear-arms/article71603257.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-25",
-        "text": "The presidential campaign trail intensifies in key states as former President Obama intervenes to support the Democratic candidate against Donald Trump.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-to-rally-michigan-republicans-after-obama-backs-democrat-el-sayed/articleshow/135188476.cms",
-        "source": "Economic Times"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "0ac2a81d92cd",
-     "title": "China’s export controls around PV cells could slow India’s upstream solar push",
-     "link": "https://www.thehindubusinessline.com/economy/chinas-export-controls-around-pv-cells-could-slow-indias-upstream-solar-push/article71622820.ece",
+     "id": "76f36e8d1091",
+     "title": "Sensex today | Stock Market Live: Stocks to watch, Oct 26: Raymond, RailTel, KEC Intl, Honasa, BL Kashyap, Lupin, Orchid Pharma, Gland Pharma",
+     "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-26-october-2026/article71622964.ece",
      "source": "Business News Today: Latest Business New",
-     "published": "2026-10-25T09:43:51+00:00",
-     "summary": "New export controls by China on photovoltaic (PV) cell components threaten to disrupt India's plans to build a domestic solar supply chain.",
-     "explain": "Upstream solar production refers to the raw materials and components needed before a solar panel is assembled. If China, a dominant global supplier, limits exports, Indian companies may face higher costs or shortages, potentially delaying India's shift toward renewable energy independence.",
-     "related": [],
-     "story": {
-      "id": "business-solar-supply-chain-and-trade-barriers",
-      "title": "Solar Supply Chain and Trade Barriers",
-      "so_far": "India has been actively incentivizing domestic solar manufacturing to reduce reliance on imported components. This strategy involves building factories for polysilicon, wafers, and cells, which are the fundamental building blocks of solar panels.",
-      "timeline": [
-       {
-        "date": "2026-10-25",
-        "text": "China's new restrictions on PV cell materials could hinder Indian manufacturers attempting to move into upstream solar production.",
-        "link": "https://www.thehindubusinessline.com/economy/chinas-export-controls-around-pv-cells-could-slow-indias-upstream-solar-push/article71622820.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
+     "published": "2026-10-26T01:57:02+00:00",
+     "summary": "Sensex, Nifty, Share Prices Live: Markets in focus: a mix of M&amp;A, contract wins, regulatory updates and new product launches across 15 stocks, from Ray­mond’s rebrand to Lupin’s FDA observation and Orchid Pharma’s La",
+     "explain": null,
+     "related": [
+      {
+       "date": "2026-10-21",
+       "title": "Sensex today | Stock Market Live: Stock to buy today: South Indian Bank (54.31) – BUY",
+       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-21st-october-2026/article71604730.ece",
+       "source": "Business News Today: Latest Business New"
+      },
+      {
+       "date": "2026-10-23",
+       "title": "Sensex today | Stock Market Live: Stock to buy today: Federal Bank (347) – BUY",
+       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-23rd-october-2026/article71611889.ece",
+       "source": "Business News Today: Latest Business New"
+      }
+     ],
+     "story": null
     },
     {
-     "id": "83326ecc7f56",
-     "title": "Shree Naman Group steps up hotel buys, targets 2,500 rooms in five years",
-     "link": "https://www.livemint.com/companies/news/shree-naman-group-steps-up-hotel-buys-targets-2-500-rooms-in-five-years-11792863401011.html",
+     "id": "48c5b74a1f07",
+     "title": "Central Bank of India resumes RTGS services; no customer impact due to tech glitch",
+     "link": "https://www.thehindubusinessline.com/money-and-banking/central-bank-of-india-resumes-rtgs-services-no-customer-impact-due-to-tech-glitch/article71624481.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-26T01:50:10+00:00",
+     "summary": "",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "2aae017662c7",
+     "title": "Zelenskiy: US warnings on strikes fully resumed",
+     "link": "https://economictimes.indiatimes.com/news/international/world-news/zelenskiy-says-us-warnings-on-ballistic-strikes-have-fully-resumed/articleshow/135200258.cms",
+     "source": "Economic Times",
+     "published": "2026-10-26T01:02:01+00:00",
+     "summary": "",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "d40d3602998b",
+     "title": "Kharge makes 'baap' remark on Modi; BJP hits back",
+     "link": "https://economictimes.indiatimes.com/news/politics-and-nation/kharges-baap-remark-on-modi-creates-furore-bjp-says-language-associated-with-thugs/articleshow/135200216.cms",
+     "source": "Economic Times",
+     "published": "2026-10-26T00:54:42+00:00",
+     "summary": "",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "cb58fc8f2aaa",
+     "title": "IIFL Capital hires four Barclays bankers to expand wealth business",
+     "link": "https://www.livemint.com/companies/news/iifl-capital-hires-four-barclays-private-bankers-wealth-management-11792907008126.html",
      "source": "mint - companies",
-     "published": "2026-10-25T09:43:43+00:00",
-     "summary": "The Shree Naman Group is aggressively expanding its hospitality footprint with plans to acquire or develop 2,500 hotel rooms over the next five years.",
-     "explain": "Hospitality expansion is a strategy where real estate firms deploy capital to own and operate hotels. This is often seen as a way to create recurring revenue streams beyond the volatile cycles of residential or commercial property sales.",
+     "published": "2026-10-26T00:30:56+00:00",
+     "summary": "The Fairfax-controlled firm is stepping up its push to attract wealthy Indian families as competition intensifies and global banks restructure their workforces.",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "business-shree-naman-group-hospitality-expansion",
-      "title": "Shree Naman Group Hospitality Expansion",
-      "so_far": "Real estate companies in India are increasingly diversifying into hospitality to leverage the post-pandemic rebound in travel and business tourism. This involves purchasing existing properties or investing in new construction to capitalize on high occupancy rates.",
-      "timeline": [
-       {
-        "date": "2026-10-25",
-        "text": "The company is shifting toward an aggressive acquisition strategy in the hospitality sector to drive national growth.",
-        "link": "https://www.livemint.com/companies/news/shree-naman-group-steps-up-hotel-buys-targets-2-500-rooms-in-five-years-11792863401011.html",
-        "source": "mint - companies"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "20f95e486dea",
-     "title": "Riyadh airport resumes flights as Saudis fight Houthi missiles",
-     "link": "https://www.thehindubusinessline.com/news/world/riyadh-airport-resumes-flights-as-saudis-fight-houthi-missiles/article71622883.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-10-25T09:43:32+00:00",
-     "summary": "Flights have resumed at Riyadh's King Khalid International Airport after temporary disruptions caused by Houthi missile activity.",
-     "explain": "Geopolitical conflict in the Middle East often forces commercial infrastructure, like airports, to pause operations for safety. The resumption of flights suggests that authorities have managed the immediate security threat, though the underlying conflict remains unresolved.",
+     "id": "1646af14aa4f",
+     "title": "JSW MG taps into Chinese parent Saic for 70% of its purchases",
+     "link": "https://www.livemint.com/companies/news/jsw-mg-motor-india-taps-into-china-parent-saic-motor-for-70-purchases-11792917400984.html",
+     "source": "mint - companies",
+     "published": "2026-10-26T00:30:47+00:00",
+     "summary": "Nearly 70% of the joint venture’s purchases in the financial year 2026 came from Saic-linked firms, taking their total business with the Indian carmaker to about $840 million, including royalty and licence fee",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "business-houthi-mediation-efforts",
-      "title": "Houthi Mediation Efforts",
-      "so_far": "The Houthi movement frequently conducts missile and drone attacks in the region, which periodically force regional airports and shipping lanes to suspend operations. These security incidents impact international travel and logistics across the Middle East.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "Efforts to establish mediation with the Houthis have stalled as they have failed to respond to recent calls.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/iran-says-saudi-arabia-houthis-have-not-answered-mediation-offer/articleshow/135079284.cms",
-        "source": "Economic Times"
-       },
-       {
-        "date": "2026-10-25",
-        "text": "Commercial flight operations have returned to normal at Riyadh airport following recent security concerns linked to the Houthi conflict.",
-        "link": "https://www.thehindubusinessline.com/news/world/riyadh-airport-resumes-flights-as-saudis-fight-houthi-missiles/article71622883.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "1f2e9f5a73f0",
-     "title": "India’s 2029 rear-crash rule could cost car makers ₹2,700 crore annually, squeeze small-car margins",
-     "link": "https://www.thehindubusinessline.com/companies/indias-2029-rear-crash-rule-could-cost-car-makers-2700-crore-annually-squeeze-small-car-margins/article71620850.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-10-25T09:36:45+00:00",
-     "summary": "A proposed government regulation requiring rear-crash testing by 2029 is expected to increase annual compliance costs for automakers by ₹2,700 crore.",
-     "explain": "Rear-crash rules mandate that a vehicle can withstand a collision from behind without compromising occupant safety. The costs arise because automakers must re-engineer car frames and integrate new materials, which is more expensive for budget cars that lack existing advanced safety architecture.",
+     "id": "c520092c30cb",
+     "title": "Eternal’s District explores live-event venues to cut concert costs, counter AI threat",
+     "link": "https://www.livemint.com/companies/news/eternals-district-explores-live-event-venues-to-cut-concert-costs-counter-ai-threat-11792903705050.html",
+     "source": "mint - companies",
+     "published": "2026-10-26T00:30:43+00:00",
+     "summary": "The out-of-home consumption platform is exploring partnerships with property owners and governments to build dedicated venues as it seeks to scale its events business and strengthen its defences against AI-led disruption",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "business-automotive-safety-regulation-costs",
-      "title": "Automotive Safety Regulation Costs",
-      "so_far": "Automotive safety standards in India have been steadily tightening, mirroring global benchmarks. While these improvements aim to reduce road fatalities, they place financial pressure on manufacturers to redesign vehicle structures.",
-      "timeline": [
-       {
-        "date": "2026-10-25",
-        "text": "New safety standards for rear-impact protection will significantly impact the profit margins of entry-level car models starting in 2029.",
-        "link": "https://www.thehindubusinessline.com/companies/indias-2029-rear-crash-rule-could-cost-car-makers-2700-crore-annually-squeeze-small-car-margins/article71620850.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "d18cd7bab0c0",
-     "title": "Private capex pipeline grows fourfold since 2014, but lending risks rise amid sectoral concentration: Report",
-     "link": "https://www.thehindubusinessline.com/money-and-banking/private-capex-pipeline-grows-fourfold-since-2014-but-lending-risks-rise-amid-sectoral-concentration-report/article71622835.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-10-25T09:35:36+00:00",
-     "summary": "India's private capital expenditure (capex) pipeline has grown fourfold since 2014, reaching nearly ₹100 lakh crore, though analysts warn of risks due to sectoral concentration.",
-     "explain": "Sectoral concentration risk means that too much investment is focused on a small number of industries. If one of those industries suffers a downturn, it could lead to widespread loan defaults for banks that funded these major projects.",
+     "id": "f89115917c79",
+     "title": "Wow! Momo plans ₹300 crore fundraise, eyes overseas expansion ahead of proposed IPO",
+     "link": "https://www.livemint.com/companies/news/wow-momo-ipo-plans-fundraise-overseas-expansion-11792751168706.html",
+     "source": "mint - companies",
+     "published": "2026-10-26T00:30:36+00:00",
+     "summary": "The Kolkata-based QSR chain plans to enter Sri Lanka this year and explore the UAE, while scaling its packaged-food business and targeting ₹1,050 crore in FY27 revenue.",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "business-private-capex-growth-and-risks",
-      "title": "Private Capex Growth and Risks",
-      "so_far": "Capital expenditure, or capex, is the money companies spend on long-term assets like factories and infrastructure to grow their business. A robust pipeline is generally viewed as a positive indicator of corporate confidence and long-term economic growth.",
-      "timeline": [
-       {
-        "date": "2026-10-25",
-        "text": "Private sector investment projects hit a record high of ₹99.7 lakh crore as of September 2026, marking a 39% year-on-year increase.",
-        "link": "https://www.thehindubusinessline.com/money-and-banking/private-capex-pipeline-grows-fourfold-since-2014-but-lending-risks-rise-amid-sectoral-concentration-report/article71622835.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "f4a6c56a19eb",
-     "title": "India’s auto production boom set to slow in 2027 as CIE Automotive flags margin pressures",
-     "link": "https://www.thehindubusinessline.com/companies/indias-auto-production-boom-set-to-slow-in-2027-as-cie-automotive-flags-margin-pressures/article71613301.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-10-25T09:26:27+00:00",
-     "summary": "India's automotive production boom is expected to moderate in 2027 due to rising costs and slowing demand in the tractor segment.",
-     "explain": "Automotive sector margins are the profit percentages companies earn per vehicle. When energy and raw material prices rise, costs increase, and if manufacturers cannot pass these costs to the consumer, their profit margins shrink, leading to slowed growth.",
-     "related": [],
-     "story": {
-      "id": "business-general-motors-quarterly-performance",
-      "title": "General Motors Quarterly Performance",
-      "so_far": "General Motors is a major US automaker currently navigating a transition toward electric vehicles while maintaining a core business of internal combustion engine sales. The company has focused on cost discipline and cash management to navigate fluctuating global demand.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "GM has raised its cash flow outlook and narrowed its full-year earnings guidance following a strong third quarter.",
-        "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
-        "source": "Business News"
-       },
-       {
-        "date": "2026-10-25",
-        "text": "Component supplier CIE Automotive has signaled that higher raw material and energy costs are squeezing margins for Indian vehicle manufacturers.",
-        "link": "https://www.thehindubusinessline.com/companies/indias-auto-production-boom-set-to-slow-in-2027-as-cie-automotive-flags-margin-pressures/article71613301.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "be2b7e06756e",
-     "title": "Mcap of eight of the top-10 firms erodes by ₹1.55 lakh cr; HDFC Bank, Bajaj Fin biggest laggards",
-     "link": "https://www.thehindubusinessline.com/markets/mcap-of-eight-of-the-top-10-firms-erodes-by-155-lakh-cr-hdfc-bank-bajaj-fin-biggest-laggards/article71622878.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-10-25T09:11:36+00:00",
-     "summary": "Eight of India's top ten companies lost ₹1.55 lakh crore in market capitalization last week, with HDFC Bank seeing the most significant decline.",
-     "explain": "A drop in Mcap indicates that investors are selling shares, which can be due to poor quarterly results, negative macroeconomic news, or a general shift in risk appetite. It reflects current sentiment rather than the company's long-term business potential.",
-     "related": [],
-     "story": {
-      "id": "business-stock-market-valuation-declines",
-      "title": "Stock Market Valuation Declines",
-      "so_far": "Market capitalization (Mcap) is the total dollar market value of a company's outstanding shares of stock. Large-cap stocks are often used by institutional investors to gauge the overall health of the equity market.",
-      "timeline": [
-       {
-        "date": "2026-10-25",
-        "text": "Market volatility impacted the valuation of major Indian blue-chip firms, with HDFC Bank losing over ₹55,000 crore in market value.",
-        "link": "https://www.thehindubusinessline.com/markets/mcap-of-eight-of-the-top-10-firms-erodes-by-155-lakh-cr-hdfc-bank-bajaj-fin-biggest-laggards/article71622878.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "ab3f363bd841",
-     "title": "Smartphone makers undecided on new PLI scheme amid market slump",
-     "link": "https://www.thehindubusinessline.com/info-tech/smartphone-makers-undecided-on-new-pli-scheme-amid-market-slump/article71622575.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-10-25T09:09:01+00:00",
-     "summary": "Smartphone manufacturers are hesitant to participate in the government's new Production Linked Incentive (PLI) scheme due to a slump in consumer demand.",
-     "explain": "If market demand for smartphones is low, companies may not want to invest the capital required to increase production capacity, even if government subsidies exist. The ₹1,000 crore turnover threshold is a requirement to qualify for these incentives.",
-     "related": [],
-     "story": {
-      "id": "business-smartphone-pli-scheme-uncertainty",
-      "title": "Smartphone PLI Scheme Uncertainty",
-      "so_far": "PLI schemes are government subsidies designed to encourage domestic manufacturing by offering financial incentives based on production volume or sales growth. They are a core pillar of India's manufacturing strategy.",
-      "timeline": [
-       {
-        "date": "2026-10-25",
-        "text": "Industry players remain undecided on adopting the latest PLI scheme for local brands with a minimum ₹1,000 crore turnover.",
-        "link": "https://www.thehindubusinessline.com/info-tech/smartphone-makers-undecided-on-new-pli-scheme-amid-market-slump/article71622575.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
+     "story": null
     }
    ]
   },
@@ -1813,417 +1491,140 @@
    "label": "Markets & Crypto",
    "articles": [
     {
-     "id": "5075bd791c95",
-     "title": "Big action! Who is Avadhut Sathe? Why SEBI ordered Avadhut Sathe Trading Academy to refund ₹546 cr - What he did?",
-     "link": "https://www.livemint.com/market/stock-market-news/big-action-who-is-avadhut-sathe-why-sebi-ordered-avadhut-sathe-trading-academy-to-refund-rs-546-cr-what-he-did-11792848745624.html",
+     "id": "7a5fbbe2d707",
+     "title": "Top stocks to watch today: Paytm, Mankind Pharma, Infosys, BPCL shares in focus on Monday, 26 Oct | Full list",
+     "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-paytm-mankind-pharma-infosys-bpcl-shares-in-focus-on-monday-26-oct-full-list-11792978063209.html",
      "source": "mint - markets",
-     "published": "2026-10-24T14:41:07+00:00",
-     "summary": "SEBI has ordered Avadhut Sathe and his training academy to refund over ₹614 crore, including interest, for operating as an unregistered investment advisor.",
-     "explain": "SEBI (Securities and Exchange Board of India) is the government body that regulates markets to protect investors. In this case, the academy provided financial advice without proper registration, which is illegal. This ruling is significant because it forces the entity to return money collected from students under misleading pretenses, highlighting the risks of following 'fin-influencers' who lack official certification.",
+     "published": "2026-10-26T02:01:46+00:00",
+     "summary": "Top stocks to watch today: Paytm, Mankind Pharma, Tata Consumer, ITC Hotels, Infosys, BPCL, Kotak Mahindra Bank, Coforge among shares in focus on Monday.",
+     "explain": null,
+     "related": [
+      {
+       "date": "2026-10-21",
+       "title": "Top stocks to watch today: Eternal, Reliance Industries, IREDA, RailTel shares in focus on Wed, 21 Oct | Full list",
+       "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-eternal-reliance-industries-ireda-railtel-shares-in-focus-on-wed-21-oct-full-list-11792546323951.html",
+       "source": "mint - markets"
+      },
+      {
+       "date": "2026-10-22",
+       "title": "Top stocks to watch today: Swiggy, Adani Green, Eternal, GMDC, BEL shares in focus on Thurs, 22 Oct | Full list",
+       "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-swiggy-adani-green-eternal-gmdc-bel-shares-in-focus-on-thurs-22-oct-full-list-11792632766011.html",
+       "source": "mint - markets"
+      },
+      {
+       "date": "2026-10-23",
+       "title": "Top stocks to watch today: Infosys, Tata Motors, Swiggy, Cyient shares in focus on Friday, 23 Oct | Full list",
+       "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-infosys-tata-motors-swiggy-cyient-shares-in-focus-on-friday-23-oct-full-list-11792719056861.html",
+       "source": "mint - markets"
+      }
+     ],
+     "story": null
+    },
+    {
+     "id": "ce15796bc705",
+     "title": "Fed expected to pause rate hikes ahead of US midterms",
+     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-expected-to-pause-rate-hikes-ahead-of-us-midterms/articleshow/135200484.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-10-26T01:44:05+00:00",
+     "summary": "The US Federal Reserve's upcoming meeting is expected to result in steady interest rates. High inflation continues to challenge economic policies, with rates anticipated to rise later this year. The Federal Open Market C",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "9c0271d20fe9",
+     "title": "Sinking profits turn China’s $3.5 trillion rout into trap",
+     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sinking-profits-turn-chinas-3-5-trillion-rout-into-trap/articleshow/135200415.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-10-26T01:36:47+00:00",
+     "summary": "Chinese stocks are experiencing a significant selloff resulting in a loss of $3.5 trillion since May. Increased competition and declining demand have negatively impacted corporate profits across various industries. Many ",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "5a65b2548ef8",
+     "title": "Stock market outlook today, 26 Oct: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei cues",
+     "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-26-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-cues-11792975256498.html",
+     "source": "mint - markets",
+     "published": "2026-10-26T01:22:14+00:00",
+     "summary": "Stock market prediction for Monday, 26 October, 2026: Gift Nifty was trading around the 22,535 level, down nearly 72.50 points or 0.32% from the Nifty futures’ previous close, indicating a negative opening for the Indian",
+     "explain": null,
      "related": [
       {
        "date": "2026-10-23",
-       "title": "Sebi bars Avadhut Sathe, academy from markets, imposes ₹11.5 crore penalty",
-       "link": "https://www.livemint.com/market/sebi-bars-avadhut-sathe-academy-from-markets-imposes-11-5-crore-penalty-11792771771945.html",
+       "title": "Stock market outlook today, 23 Oct: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+       "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-23-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792716174246.html",
        "source": "mint - markets"
       }
      ],
-     "story": {
-      "id": "markets-sebi-action-against-avadhut-sathe",
-      "title": "SEBI Action Against Avadhut Sathe",
-      "so_far": "The Securities and Exchange Board of India (SEBI) oversees market participants to ensure investor protection. Avadhut Sathe Trading Academy had been providing financial advisory services without the required registration, misleading participants with false testimonials while failing to disclose significant trading risks.",
-      "timeline": [
-       {
-        "date": "2026-10-23",
-        "text": "In a final order, the founder and the academy were officially barred from the markets and ordered to pay back investors.",
-        "link": "https://www.livemint.com/market/sebi-bars-avadhut-sathe-academy-from-markets-imposes-11-5-crore-penalty-11792771771945.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-24",
-        "text": "The regulator imposed a full refund order and an additional ₹11.5 crore penalty for misleading investors.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-orders-avadhut-sathe-academy-to-refund-rs-546-crore/articleshow/135162877.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-24",
-        "text": "The regulator finalized a refund order of ₹546 crore plus interest and an additional ₹11.5 crore penalty, requiring payment within five months.",
-        "link": "https://www.livemint.com/market/stock-market-news/big-action-who-is-avadhut-sathe-why-sebi-ordered-avadhut-sathe-trading-academy-to-refund-rs-546-cr-what-he-did-11792848745624.html",
-        "source": "mint - markets"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "f6690b3e57c3",
-     "title": "Sebi orders Avadhut Sathe, academy to refund Rs 546 crore",
-     "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-orders-avadhut-sathe-academy-to-refund-rs-546-crore/articleshow/135162877.cms",
+     "id": "c169ac5c49e5",
+     "title": "G-Sec yields at three-year peak, could climb to 7.75% by December",
+     "link": "https://economictimes.indiatimes.com/markets/bonds/g-sec-yields-at-three-year-peak-could-climb-to-7-75-by-december/articleshow/135200262.cms",
      "source": "Markets-Economic Times",
-     "published": "2026-10-24T05:31:13+00:00",
-     "summary": "SEBI has ordered Avadhut Sathe and his trading academy to refund ₹546 crore to investors due to unregistered advisory services.",
-     "explain": "SEBI is the regulatory body for the Indian securities market. An 'unregistered investment advisor' is a person or entity offering financial advice without the mandatory SEBI license, which ensures they meet competency and ethical standards. This action protects retail investors from being misled by unqualified advisors who profit while concealing the risks of financial losses.",
-     "related": [
-      {
-       "date": "2026-10-23",
-       "title": "Sebi bars Avadhut Sathe, academy from markets, imposes ₹11.5 crore penalty",
-       "link": "https://www.livemint.com/market/sebi-bars-avadhut-sathe-academy-from-markets-imposes-11-5-crore-penalty-11792771771945.html",
-       "source": "mint - markets"
-      }
-     ],
-     "story": {
-      "id": "markets-sebi-action-against-avadhut-sathe",
-      "title": "SEBI Action Against Avadhut Sathe",
-      "so_far": "The Securities and Exchange Board of India (SEBI) oversees market participants to ensure investor protection. Avadhut Sathe Trading Academy had been providing financial advisory services without the required registration, misleading participants with false testimonials while failing to disclose significant trading risks.",
-      "timeline": [
-       {
-        "date": "2026-10-23",
-        "text": "In a final order, the founder and the academy were officially barred from the markets and ordered to pay back investors.",
-        "link": "https://www.livemint.com/market/sebi-bars-avadhut-sathe-academy-from-markets-imposes-11-5-crore-penalty-11792771771945.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-24",
-        "text": "The regulator imposed a full refund order and an additional ₹11.5 crore penalty for misleading investors.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-orders-avadhut-sathe-academy-to-refund-rs-546-crore/articleshow/135162877.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-24",
-        "text": "The regulator finalized a refund order of ₹546 crore plus interest and an additional ₹11.5 crore penalty, requiring payment within five months.",
-        "link": "https://www.livemint.com/market/stock-market-news/big-action-who-is-avadhut-sathe-why-sebi-ordered-avadhut-sathe-trading-academy-to-refund-rs-546-cr-what-he-did-11792848745624.html",
-        "source": "mint - markets"
-       }
-      ]
-     }
-    },
-    {
-     "id": "1b6077660f7f",
-     "title": "Jio Platforms IPO listing date and time, share price prediction, expected money gains basis GMP, expected m-cap; Details",
-     "link": "https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-listing-date-and-time-share-price-prediction-expected-money-gains-basis-gmp-expected-m-cap-details-11792924052178.html",
-     "source": "mint - markets",
-     "published": "2026-10-25T10:43:54+00:00",
-     "summary": "Jio Platforms' IPO closed as the most subscribed offering in India, with allotment expected October 26 and a public listing on October 28, 2026.",
-     "explain": "An IPO (Initial Public Offering) is the process where a company sells shares to the public for the first time. 'Subscription' refers to how many investors applied to buy shares; a 22x subscription means demand significantly exceeded the available supply, signaling strong investor interest.",
+     "published": "2026-10-26T01:05:24+00:00",
+     "summary": "India's benchmark 10-year government bond yield is expected to reach 7.75% by December. This increase is influenced by high crude oil prices and tight liquidity conditions. Persistent bond supply and expectations of furt",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "markets-jio-platforms-mega-ipo",
-      "title": "Jio Platforms Mega IPO",
-      "so_far": "Jio Platforms, a subsidiary of Reliance Industries, is launching an IPO to raise funds as it pivots from a pure telecom provider to an integrated technology, cloud, and AI platform. It is poised to become India's largest-ever public offering, aiming for a valuation of Rs 10 lakh crore.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "High-profile global institutional investors have committed Rs 2.5 lakh crore in anchor bids ahead of the public issue opening.",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-draws-rs-2-5-lakh-crore-in-anchor-bids/articleshow/135059075.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "The IPO is set to open tomorrow, October 21, with a high grey market premium suggesting strong potential listing gains.",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Reliance is reframing Jio's narrative for investors to emphasize its broad technological reach, spanning cloud, AI, and fixed broadband.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-228-a-gb-to-7-5-how-mukesh-ambanis-jio-rewired-indias-internet-and-is-now-seeking-a-10-lakh-crore-valuation/articleshow/135053274.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Official filings confirm the IPO size as Rs 30,213 crore, establishing it as the largest ever in the Indian market.",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-vs-airtel-shares-which-telecom-giant-offers-greater-valuation-comfort-to-investors/articleshow/135053174.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "The company's IPO successfully attracted anchor bids worth over $25 billion, signaling strong institutional confidence.",
-        "link": "https://www.livemint.com/market/ipo/reliance-jio-ipo-massive-bids-top-25-bn-amount-for-anchor-book-okhow-mukesh-ambani-firm-attracted-top-notch-investors-11792488288719.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "The IPO was oversubscribed 3.16 times on its opening day, driven largely by high demand from institutional investors.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-bids-hit-70000-crore-on-day-1-outpaces-nse-lic-gic-issues/articleshow/135103495.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-25",
-        "text": "The IPO closed with a subscription rate of 22.19 times, and a listing is scheduled for October 28, 2026.",
-        "link": "https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-listing-date-and-time-share-price-prediction-expected-money-gains-basis-gmp-expected-m-cap-details-11792924052178.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-25",
-        "text": "Market expectations suggest a potential listing price of ₹1,369 based on grey market trading activity.",
-        "link": "https://www.livemint.com/market/ipo/jio-platforms-ipo-allotment-status-check-online-by-pan-number-guide-for-kfin-tech-registrar-portal-on-riskfintechcom-11792919833250.html",
-        "source": "mint - markets"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "390daa0a8f61",
-     "title": "Bank Nifty tumbles nearly 3%, slips below 55k: More selling pressure ahead for banking stocks? Check key levels to watch",
-     "link": "https://www.livemint.com/market/stock-market-news/bank-nifty-tumbles-nearly-3-slips-below-55k-more-selling-pressure-ahead-for-banking-stocks-check-key-levels-to-watch-11792920838777.html",
+     "id": "c96f11a33f69",
+     "title": "Capital shifting from secondary market to ₹5 trillion IPO pipeline: Madhu Lunawat",
+     "link": "https://www.livemint.com/market/stock-market-news/capital-secondary-market-to-5-trillion-ipo-pipeline-madhu-lunawat-11792907791369.html",
      "source": "mint - markets",
-     "published": "2026-10-25T10:08:18+00:00",
-     "summary": "Indian equities saw a sharp decline this week, with the Nifty and Bank Nifty indices dropping amid rising crude oil prices and the West Asia crisis.",
-     "explain": "The 'Nifty' is a benchmark index representing the 50 largest companies in India. When the index 'tumbles,' it means the average value of these top companies has fallen. This is often caused by 'bearish' sentiment, where investors become pessimistic and sell their holdings.",
+     "published": "2026-10-26T01:00:39+00:00",
+     "summary": "Founder of The Wealth Company Mutual Fund Madhu Lunawat said perceived 10-12% inflation is pushing retail funds into small- mid-caps, and that high valuations and currency depreciation are keeping FIIs cautious.",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "markets-indian-stock-market-volatility",
-      "title": "Indian Stock Market Volatility",
-      "so_far": "The Indian stock market often fluctuates based on global macroeconomic factors, such as crude oil prices which impact the country's import bill and inflation. Recently, volatility has been exacerbated by external geopolitical events that affect global supply chains and investor sentiment.",
-      "timeline": [
-       {
-        "date": "2026-10-25",
-        "text": "Increased geopolitical tension and high crude prices led to a loss of approximately ₹21 lakh crore in investor wealth.",
-        "link": "https://www.livemint.com/market/stock-market-news/bank-nifty-tumbles-nearly-3-slips-below-55k-more-selling-pressure-ahead-for-banking-stocks-check-key-levels-to-watch-11792920838777.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-25",
-        "text": "Large-cap firms like HDFC Bank and Bajaj Finance faced significant valuation losses as the BSE Sensex plummeted.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-8-of-top-10-firms-erodes-by-rs-1-55-lakh-cr-hdfc-bank-bajaj-fin-biggest-laggards/articleshow/135186713.cms",
-        "source": "Markets-Economic Times"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "1a5f071acc2f",
-     "title": "Peter Lynch on stock picking: 'You shouldn't own a stock if you can't…'",
-     "link": "https://economictimes.indiatimes.com/markets/stocks/news/peter-lynch-on-stock-picking-you-shouldnt-own-a-stock-if-you-cant/articleshow/135188450.cms",
+     "id": "982c11a2e2d1",
+     "title": "Infosys’s huge deal wins fail to give it an edge over peers",
+     "link": "https://www.livemint.com/market/mark-to-market/infosys-q2-fy27-quarterly-results-review-11792904482073.html",
+     "source": "mint - markets",
+     "published": "2026-10-26T01:00:19+00:00",
+     "summary": "Robust $5.2 billion deal wins in Q2 couldn't prevent Infosys from trimming its full-year growth outlook, leaving it trailing key competitors.",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "c2fbe8955c2f",
+     "title": "Double-digit growth seen on corporate scoreboard in Q2, but bank, IT, pharma lag",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/double-digit-growth-seen-on-corporate-scoreboard-in-q2-but-bank-it-pharma-lags/articleshow/135200205.cms",
      "source": "Markets-Economic Times",
-     "published": "2026-10-25T10:02:51+00:00",
-     "summary": "Legendary investor Peter Lynch emphasizes that investors should prioritize deep research into business fundamentals rather than following popular market trends.",
-     "explain": "'Fundamentals' refer to the health of a company's actual business—like how much profit they make, their debt levels, and their growth potential. Lynch's advice counters the tendency of retail investors to buy stocks just because they are currently popular or recommended on social media.",
+     "published": "2026-10-26T00:56:52+00:00",
+     "summary": "September quarter earnings exhibited significant revenue and profit growth for various companies in key sectors. Revenue rose by 22.1% with net profit increasing by 27.5%, surpassing the previous quarter. However, bankin",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "markets-investment-strategy-principles",
-      "title": "Investment Strategy Principles",
-      "so_far": "Peter Lynch is a famous former fund manager who grew the Fidelity Magellan Fund significantly by focusing on 'investing in what you know' and conducting thorough research into individual companies rather than trying to time the market.",
-      "timeline": [
-       {
-        "date": "2026-10-25",
-        "text": "Peter Lynch highlights the necessity of understanding business financials as the core prerequisite for stock ownership.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/peter-lynch-on-stock-picking-you-shouldnt-own-a-stock-if-you-cant/articleshow/135188450.cms",
-        "source": "Markets-Economic Times"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "2522526ef8af",
-     "title": "Jio Platforms IPO allotment status check online by PAN number guide for KFin Tech Registrar Portal on ris.kfintech.com",
-     "link": "https://www.livemint.com/market/ipo/jio-platforms-ipo-allotment-status-check-online-by-pan-number-guide-for-kfin-tech-registrar-portal-on-riskfintechcom-11792919833250.html",
-     "source": "mint - markets",
-     "published": "2026-10-25T09:23:28+00:00",
-     "summary": "Jio Platforms' IPO grey market premium stands at ₹250 per share, indicating a potential listing gain of over 22%.",
-     "explain": "The 'grey market premium' (GMP) is the unofficial price at which IPO shares trade before they are actually listed on a public stock exchange. It serves as a sentiment indicator, showing how much extra profit investors believe the shares will fetch once they officially start trading.",
-     "related": [],
-     "story": {
-      "id": "markets-jio-platforms-mega-ipo",
-      "title": "Jio Platforms Mega IPO",
-      "so_far": "Jio Platforms, a subsidiary of Reliance Industries, is launching an IPO to raise funds as it pivots from a pure telecom provider to an integrated technology, cloud, and AI platform. It is poised to become India's largest-ever public offering, aiming for a valuation of Rs 10 lakh crore.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "High-profile global institutional investors have committed Rs 2.5 lakh crore in anchor bids ahead of the public issue opening.",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-draws-rs-2-5-lakh-crore-in-anchor-bids/articleshow/135059075.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "The IPO is set to open tomorrow, October 21, with a high grey market premium suggesting strong potential listing gains.",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Reliance is reframing Jio's narrative for investors to emphasize its broad technological reach, spanning cloud, AI, and fixed broadband.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-228-a-gb-to-7-5-how-mukesh-ambanis-jio-rewired-indias-internet-and-is-now-seeking-a-10-lakh-crore-valuation/articleshow/135053274.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Official filings confirm the IPO size as Rs 30,213 crore, establishing it as the largest ever in the Indian market.",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-vs-airtel-shares-which-telecom-giant-offers-greater-valuation-comfort-to-investors/articleshow/135053174.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "The company's IPO successfully attracted anchor bids worth over $25 billion, signaling strong institutional confidence.",
-        "link": "https://www.livemint.com/market/ipo/reliance-jio-ipo-massive-bids-top-25-bn-amount-for-anchor-book-okhow-mukesh-ambani-firm-attracted-top-notch-investors-11792488288719.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "The IPO was oversubscribed 3.16 times on its opening day, driven largely by high demand from institutional investors.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-bids-hit-70000-crore-on-day-1-outpaces-nse-lic-gic-issues/articleshow/135103495.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-25",
-        "text": "The IPO closed with a subscription rate of 22.19 times, and a listing is scheduled for October 28, 2026.",
-        "link": "https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-listing-date-and-time-share-price-prediction-expected-money-gains-basis-gmp-expected-m-cap-details-11792924052178.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-25",
-        "text": "Market expectations suggest a potential listing price of ₹1,369 based on grey market trading activity.",
-        "link": "https://www.livemint.com/market/ipo/jio-platforms-ipo-allotment-status-check-online-by-pan-number-guide-for-kfin-tech-registrar-portal-on-riskfintechcom-11792919833250.html",
-        "source": "mint - markets"
-       }
-      ]
-     }
-    },
-    {
-     "id": "e3fa4062b5b3",
-     "title": "Best auto stocks to buy ahead of Diwali 2026: Nuvama bets big on Eicher Motors, Hyundai and Tata Motors PV - Here's why",
-     "link": "https://www.livemint.com/market/stock-market-news/best-auto-stocks-to-buy-ahead-of-diwali-2026-nuvama-bets-big-on-eicher-motors-hyundai-and-tata-motors-pv-heres-why-11792915931068.html",
-     "source": "mint - markets",
-     "published": "2026-10-25T08:35:28+00:00",
-     "summary": "Analysts at Nuvama are optimistic about automotive stocks like Eicher Motors, Hyundai, and Tata Motors ahead of the Diwali festive season.",
-     "explain": "Analysts 'betting big' on certain stocks means they expect those companies to outperform the broader market based on their sales data and growth projections. Diwali is historically a peak period for consumer purchases in India.",
-     "related": [],
-     "story": {
-      "id": "markets-automotive-market-outlook",
-      "title": "Automotive Market Outlook",
-      "so_far": "The Indian automotive sector is a key indicator of consumer discretionary spending. Manufacturers often see seasonal surges in demand during major festivals like Diwali, making this period a critical performance metric for the industry.",
-      "timeline": [
-       {
-        "date": "2026-10-25",
-        "text": "While festive registrations for two-wheelers and commercial vehicles are rising, passenger car demand remains sluggish heading into late 2026.",
-        "link": "https://www.livemint.com/market/stock-market-news/best-auto-stocks-to-buy-ahead-of-diwali-2026-nuvama-bets-big-on-eicher-motors-hyundai-and-tata-motors-pv-heres-why-11792915931068.html",
-        "source": "mint - markets"
-       }
-      ]
-     }
-    },
-    {
-     "id": "3f85465de162",
-     "title": "Mcap of 8 of top-10 firms erodes by Rs 1.55 lakh cr; HDFC Bank, Bajaj Fin biggest laggards",
-     "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-8-of-top-10-firms-erodes-by-rs-1-55-lakh-cr-hdfc-bank-bajaj-fin-biggest-laggards/articleshow/135186713.cms",
+     "id": "00c1dbdde012",
+     "title": "Global Market Today: Asian shares slip as AI jitters deepen ahead of big tech earnings",
+     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-slip-as-ai-jitters-deepen-ahead-of-big-tech-earnings/articleshow/135200167.cms",
      "source": "Markets-Economic Times",
-     "published": "2026-10-25T08:27:13+00:00",
-     "summary": "The Indian market experienced a broad sell-off, resulting in a ₹1.55 lakh crore decline in valuation for eight of the top ten major companies.",
-     "explain": "A 'market cap' (market capitalization) is the total value of a company based on its current stock price. When these values drop, it reflects a reduction in the total wealth of the shareholders. A 'bearish' atmosphere means investors are generally fearful and selling assets.",
+     "published": "2026-10-26T00:44:35+00:00",
+     "summary": "MSCI Inc.’s Asia Pacific equities gauge fell 0.2% ahead of this season’s busiest earnings week in Asia. US equity-index futures erased earlier gains and traded little changed.",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "markets-indian-stock-market-volatility",
-      "title": "Indian Stock Market Volatility",
-      "so_far": "The Indian stock market often fluctuates based on global macroeconomic factors, such as crude oil prices which impact the country's import bill and inflation. Recently, volatility has been exacerbated by external geopolitical events that affect global supply chains and investor sentiment.",
-      "timeline": [
-       {
-        "date": "2026-10-25",
-        "text": "Increased geopolitical tension and high crude prices led to a loss of approximately ₹21 lakh crore in investor wealth.",
-        "link": "https://www.livemint.com/market/stock-market-news/bank-nifty-tumbles-nearly-3-slips-below-55k-more-selling-pressure-ahead-for-banking-stocks-check-key-levels-to-watch-11792920838777.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-25",
-        "text": "Large-cap firms like HDFC Bank and Bajaj Finance faced significant valuation losses as the BSE Sensex plummeted.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-8-of-top-10-firms-erodes-by-rs-1-55-lakh-cr-hdfc-bank-bajaj-fin-biggest-laggards/articleshow/135186713.cms",
-        "source": "Markets-Economic Times"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "abc35597992d",
-     "title": "Bonus share alert! After 677% return in 1 year, multibagger stock declares issue; Do you own? Ratio, record date update",
-     "link": "https://www.livemint.com/market/stock-market-news/bonus-share-alert-after-677-return-in-1-year-multibagger-stock-declares-issue-do-you-own-ratio-record-date-update-11792915994762.html",
-     "source": "mint - markets",
-     "published": "2026-10-25T08:17:29+00:00",
-     "summary": "Indus Finance has proposed a 5:9 bonus share issue following strong stock price growth, pending shareholder approval.",
-     "explain": "A 'multibagger' is a stock that has provided multiple times the initial investment in returns. A 'bonus issue' is a way to distribute corporate wealth to shareholders without using cash, effectively splitting the ownership stake into more pieces.",
-     "related": [
-      {
-       "date": "2026-10-24",
-       "title": "413% returns in 1 year: Gold jewellery stock offers bonus shares - Do you own? Check Ratio, record date",
-       "link": "https://www.livemint.com/market/stock-market-news/413-returns-in-1-year-gold-jewellery-stock-offers-bonus-shares-do-you-own-check-ratio-record-date-11792858197650.html",
-       "source": "mint - markets"
-      }
-     ],
-     "story": {
-      "id": "markets-corporate-bonus-issues",
-      "title": "Corporate Bonus Issues",
-      "so_far": "Companies sometimes issue bonus shares to reward existing shareholders and increase the liquidity of their stock. While it increases the share count, it does not change the company's total market value.",
-      "timeline": [
-       {
-        "date": "2026-10-25",
-        "text": "Indus Finance declared a 5:9 bonus issue, meaning shareholders will receive 5 new shares for every 9 currently held.",
-        "link": "https://www.livemint.com/market/stock-market-news/bonus-share-alert-after-677-return-in-1-year-multibagger-stock-declares-issue-do-you-own-ratio-record-date-update-11792915994762.html",
-        "source": "mint - markets"
-       }
-      ]
-     }
-    },
-    {
-     "id": "cc0bb3a807a6",
-     "title": "F&amp;O Talk: Nifty plunged 2% this week. Are charts indicating a deeper sell-off?",
-     "link": "https://economictimes.indiatimes.com/markets/stocks/news/fo-talk-nifty-plunged-2-this-week-do-charts-indicate-a-bearish-picture-for-coming-week/articleshow/135186474.cms",
+     "id": "e27bca3a1e29",
+     "title": "India valuations hit 6-year low, but stocks still expensive than EM peers",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-valuations-hit-six-year-low-but-more-expensive-than-em-peers/articleshow/135200136.cms",
      "source": "Markets-Economic Times",
-     "published": "2026-10-25T08:14:31+00:00",
-     "summary": "Market analysts anticipate further weakness in Indian equities due to negative trends in technical indicators and foreign institutional investor behavior.",
-     "explain": "F&O (Futures and Options) are derivative instruments that allow traders to bet on the future price of stocks or indices. High volatility in this area often signals that traders are worried about market stability or are actively betting on a continued decline.",
+     "published": "2026-10-26T00:37:25+00:00",
+     "summary": "India's equity valuations have reached their lowest levels in six years after a recent market decline. Factors contributing to this decline include foreign selling, a weaker rupee, and rising crude prices. Despite lower ",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "markets-indian-market-technical-recommendations",
-      "title": "Indian Market Technical Recommendations",
-      "so_far": "Technical analysis is the study of price charts and volume data to forecast future moves, distinct from evaluating a company's business health. Foreign Institutional Investors (FIIs) are large global funds whose buying or selling can move the entire Indian market.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "Experts released a short-term watchlist for the upcoming weeks, noting potential gains in banking and retail sectors.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-experts-bet-on-sbi-bank-of-baroda-meesho-cg-power-and-2-others-target-price-stoploss-11792467348731.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Analysts provided a new list of active stocks, including Swiggy and Adani Energy, for daily trading focus.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-swiggy-adani-green-eternal-gmdc-bel-shares-in-focus-on-thurs-22-oct-full-list-11792632766011.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Market futures indicate a negative opening for Indian indices following cues from global markets.",
-        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-21-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792629655970.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Raja Venkatraman provided new technical trade strategies for two stocks today.",
-        "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-two-stocks-for-22-october-11792629823349.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-23",
-        "text": "Analysts identified a new list of active large-cap and energy stocks, including Adani Power and Swiggy, to watch for current price fluctuations.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-infosys-tata-motors-swiggy-cyient-shares-in-focus-on-friday-23-oct-full-list-11792719056861.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-23",
-        "text": "The GIFT Nifty shows a 165-point gain, pointing toward a strong start for the Sensex and Nifty indices.",
-        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-23-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792716174246.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-25",
-        "text": "Analysts identified a specific resistance zone of 22,750–22,800 that must be reclaimed for positive market momentum.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-under-rs-100-niva-bupa-gmr-airports-restaurant-brands-by-sumeet-bagadia-target-price-stoploss-11792862655967.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-25",
-        "text": "Analysts identify the IT sector as a potential defensive play while warning that the Nifty may face deeper sell-offs.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fo-talk-nifty-plunged-2-this-week-do-charts-indicate-a-bearish-picture-for-coming-week/articleshow/135186474.cms",
-        "source": "Markets-Economic Times"
-       }
-      ]
-     }
+     "story": null
     }
    ]
   }
