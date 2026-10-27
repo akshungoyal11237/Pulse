@@ -1,6 +1,6 @@
 {
  "generated": "2026-10-27T11:05:21.119563+00:00",
- "prices_generated": "2026-10-27T11:05:21.119563+00:00",
+ "prices_generated": "2026-10-27T11:26:42.564937+00:00",
  "ai": "gemini",
  "pulse": "Indian markets remained largely flat today, as declines in banking stocks offset individual gains in EV manufacturers like Ather Energy. In the US, major indices climbed higher, likely driven by investor optimism ahead of key earnings reports from companies like Boeing. Meanwhile, commodities like oil saw a significant drop, possibly due to shifting global supply expectations and demand concerns, while cryptocurrencies remained relatively steady.",
  "ticker_strip": [
@@ -244,10 +244,10 @@
   "BTC-USD": {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 79954.0625,
-   "change": -52.5938,
-   "pct": -0.07,
-   "pct_1m": -5.33,
+   "price": 79739.6328,
+   "change": -267.0234,
+   "pct": -0.33,
+   "pct_1m": -5.59,
    "spark": [
     84458.0859,
     83502.6094,
@@ -279,17 +279,17 @@
     80790.8359,
     80024.0078,
     80006.6562,
-    79954.0625
+    79739.6328
    ],
    "asof": "2026-10-27"
   },
   "ETH-USD": {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 2316.95,
-   "change": -3.3313,
-   "pct": -0.14,
-   "pct_1m": -13.77,
+   "price": 2310.1299,
+   "change": -10.1514,
+   "pct": -0.44,
+   "pct_1m": -14.02,
    "spark": [
     2686.9268,
     2688.6687,
@@ -321,17 +321,17 @@
     2355.9536,
     2326.9202,
     2320.2812,
-    2316.95
+    2310.1299
    ],
    "asof": "2026-10-27"
   },
   "SOL-USD": {
    "symbol": "SOL-USD",
    "name": "Solana",
-   "price": 100.17,
-   "change": -0.5849,
-   "pct": -0.58,
-   "pct_1m": -17.93,
+   "price": 99.85,
+   "change": -0.9049,
+   "pct": -0.9,
+   "pct_1m": -18.2,
    "spark": [
     122.0587,
     118.8367,
@@ -363,7 +363,7 @@
     102.2717,
     101.2232,
     100.7549,
-    100.17
+    99.85
    ],
    "asof": "2026-10-27"
   },
@@ -436,10 +436,10 @@
   "EURUSD=X": {
    "symbol": "EURUSD=X",
    "name": "EUR/USD",
-   "price": 1.1148,
-   "change": -0.0069,
-   "pct": -0.62,
-   "pct_1m": -2.02,
+   "price": 1.1153,
+   "change": -0.0064,
+   "pct": -0.57,
+   "pct_1m": -1.98,
    "spark": [
     1.1378,
     1.1373,
@@ -462,7 +462,7 @@
     1.1235,
     1.1221,
     1.1218,
-    1.1148
+    1.1153
    ],
    "asof": "2026-10-27"
   },
@@ -502,10 +502,10 @@
   "GC=F": {
    "symbol": "GC=F",
    "name": "Gold",
-   "price": 4020.8,
-   "change": -17.5999,
-   "pct": -0.44,
-   "pct_1m": -3.54,
+   "price": 4025.0,
+   "change": -13.3999,
+   "pct": -0.33,
+   "pct_1m": -3.44,
    "spark": [
     4168.3999,
     4179.7002,
@@ -528,17 +528,17 @@
     4060.3999,
     4007.8999,
     4038.3999,
-    4020.8
+    4025.0
    ],
    "asof": "2026-10-27"
   },
   "SI=F": {
    "symbol": "SI=F",
    "name": "Silver",
-   "price": 53.4,
-   "change": -0.708,
-   "pct": -1.31,
-   "pct_1m": -12.77,
+   "price": 53.52,
+   "change": -0.588,
+   "pct": -1.09,
+   "pct_1m": -12.58,
    "spark": [
     61.22,
     60.668,
@@ -561,17 +561,17 @@
     54.764,
     53.711,
     54.108,
-    53.4
+    53.52
    ],
    "asof": "2026-10-27"
   },
   "CL=F": {
    "symbol": "CL=F",
    "name": "WTI Crude",
-   "price": 101.33,
-   "change": -0.43,
-   "pct": -0.42,
-   "pct_1m": 9.43,
+   "price": 100.8,
+   "change": -0.96,
+   "pct": -0.94,
+   "pct_1m": 8.86,
    "spark": [
     92.6,
     89.38,
@@ -594,17 +594,17 @@
     99.47,
     103.27,
     101.76,
-    101.33
+    100.8
    ],
    "asof": "2026-10-27"
   },
   "BZ=F": {
    "symbol": "BZ=F",
    "name": "Brent Crude",
-   "price": 110.25,
-   "change": -5.56,
-   "pct": -4.8,
-   "pct_1m": 4.72,
+   "price": 109.86,
+   "change": -5.95,
+   "pct": -5.14,
+   "pct_1m": 4.35,
    "spark": [
     105.28,
     102.59,
@@ -627,7 +627,7 @@
     113.17,
     116.72,
     115.81,
-    110.25
+    109.86
    ],
    "asof": "2026-10-27"
   },
