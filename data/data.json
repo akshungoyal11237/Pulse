@@ -1,6 +1,6 @@
 {
  "generated": "2026-10-28T11:09:54.564119+00:00",
- "prices_generated": "2026-10-28T11:29:35.582436+00:00",
+ "prices_generated": "2026-10-28T12:31:43.914994+00:00",
  "ai": "gemini",
  "pulse": "Indian markets saw a mixed close as the Nifty and Sensex slipped slightly, possibly due to pressure from IT stocks and rising global crude oil prices, even as individual companies reported strong quarterly earnings. Meanwhile, US markets trended higher, likely driven by renewed investor optimism in tech stocks that propelled the Nasdaq to gains. In other sectors, Bitcoin and other major cryptocurrencies saw minor gains, while gold prices softened as investors adjusted their portfolios amid these shifting global trends.",
  "ticker_strip": [
@@ -250,10 +250,10 @@
   "BTC-USD": {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 81272.7891,
-   "change": 467.7109,
-   "pct": 0.58,
-   "pct_1m": -2.67,
+   "price": 80807.7031,
+   "change": 2.625,
+   "pct": 0.0,
+   "pct_1m": -3.23,
    "spark": [
     83502.6094,
     83622.4297,
@@ -285,17 +285,17 @@
     80024.0078,
     80006.6562,
     80805.0781,
-    81272.7891
+    80807.7031
    ],
    "asof": "2026-10-28"
   },
   "ETH-USD": {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 2360.4099,
-   "change": 12.6799,
-   "pct": 0.54,
-   "pct_1m": -12.21,
+   "price": 2344.74,
+   "change": -2.99,
+   "pct": -0.13,
+   "pct_1m": -12.79,
    "spark": [
     2688.6687,
     2676.7222,
@@ -327,17 +327,17 @@
     2326.9202,
     2320.2812,
     2347.73,
-    2360.4099
+    2344.74
    ],
    "asof": "2026-10-28"
   },
   "SOL-USD": {
    "symbol": "SOL-USD",
    "name": "Solana",
-   "price": 102.7,
-   "change": 1.445,
-   "pct": 1.43,
-   "pct_1m": -13.58,
+   "price": 101.87,
+   "change": 0.615,
+   "pct": 0.61,
+   "pct_1m": -14.28,
    "spark": [
     118.8367,
     119.0555,
@@ -369,7 +369,7 @@
     101.2232,
     100.7549,
     101.255,
-    102.7
+    101.87
    ],
    "asof": "2026-10-28"
   },
@@ -410,10 +410,10 @@
   "EURINR=X": {
    "symbol": "EURINR=X",
    "name": "EUR/INR",
-   "price": 105.9513,
-   "change": -0.3177,
-   "pct": -0.3,
-   "pct_1m": 0.07,
+   "price": 106.0275,
+   "change": -0.2415,
+   "pct": -0.23,
+   "pct_1m": 0.15,
    "spark": [
     105.873,
     109.065,
@@ -437,17 +437,17 @@
     106.315,
     105.868,
     106.269,
-    105.9513
+    106.0275
    ],
    "asof": "2026-10-28"
   },
   "EURUSD=X": {
    "symbol": "EURUSD=X",
    "name": "EUR/USD",
-   "price": 1.1128,
-   "change": -0.0045,
-   "pct": -0.41,
-   "pct_1m": -2.19,
+   "price": 1.1137,
+   "change": -0.0037,
+   "pct": -0.33,
+   "pct_1m": -2.12,
    "spark": [
     1.1378,
     1.1373,
@@ -471,16 +471,16 @@
     1.1221,
     1.1218,
     1.1174,
-    1.1128
+    1.1137
    ],
    "asof": "2026-10-28"
   },
   "GBPINR=X": {
    "symbol": "GBPINR=X",
    "name": "GBP/INR",
-   "price": 126.4902,
-   "change": -0.5147,
-   "pct": -0.41,
+   "price": 126.4907,
+   "change": -0.5142,
+   "pct": -0.4,
    "pct_1m": -0.16,
    "spark": [
     126.6882,
@@ -505,17 +505,17 @@
     126.2137,
     126.9686,
     127.0049,
-    126.4902
+    126.4907
    ],
    "asof": "2026-10-28"
   },
   "GC=F": {
    "symbol": "GC=F",
    "name": "Gold",
-   "price": 4058.8999,
-   "change": -15.7002,
-   "pct": -0.39,
-   "pct_1m": -2.63,
+   "price": 4070.8999,
+   "change": -3.7002,
+   "pct": -0.09,
+   "pct_1m": -2.34,
    "spark": [
     4168.3999,
     4179.7002,
@@ -539,17 +539,17 @@
     4007.8999,
     4038.3999,
     4074.6001,
-    4058.8999
+    4070.8999
    ],
    "asof": "2026-10-28"
   },
   "SI=F": {
    "symbol": "SI=F",
    "name": "Silver",
-   "price": 53.765,
-   "change": -0.528,
-   "pct": -0.97,
-   "pct_1m": -12.18,
+   "price": 54.08,
+   "change": -0.213,
+   "pct": -0.39,
+   "pct_1m": -11.66,
    "spark": [
     61.22,
     60.668,
@@ -573,17 +573,17 @@
     53.711,
     54.108,
     54.293,
-    53.765
+    54.08
    ],
    "asof": "2026-10-28"
   },
   "CL=F": {
    "symbol": "CL=F",
    "name": "WTI Crude",
-   "price": 101.53,
-   "change": 1.63,
-   "pct": 1.63,
-   "pct_1m": 9.64,
+   "price": 101.76,
+   "change": 1.86,
+   "pct": 1.86,
+   "pct_1m": 9.89,
    "spark": [
     92.6,
     89.38,
@@ -607,17 +607,17 @@
     103.27,
     101.76,
     99.9,
-    101.53
+    101.76
    ],
    "asof": "2026-10-28"
   },
   "BZ=F": {
    "symbol": "BZ=F",
    "name": "Brent Crude",
-   "price": 111.2,
-   "change": -2.68,
-   "pct": -2.35,
-   "pct_1m": 5.62,
+   "price": 111.22,
+   "change": -2.66,
+   "pct": -2.34,
+   "pct_1m": 5.64,
    "spark": [
     105.28,
     102.59,
@@ -641,7 +641,7 @@
     116.72,
     115.81,
     113.88,
-    111.2
+    111.22
    ],
    "asof": "2026-10-28"
   },
