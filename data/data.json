@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-28T02:16:16.045928+00:00",
- "prices_generated": "2026-10-28T10:33:37.624467+00:00",
+ "generated": "2026-10-28T11:09:54.564119+00:00",
+ "prices_generated": "2026-10-28T11:09:54.564119+00:00",
  "ai": "gemini",
- "pulse": "Indian markets remained relatively flat today as investors digested local corporate developments and awaited further signals. US stocks pushed higher, likely driven by positive momentum in the technology sector and ongoing enthusiasm for new on-chain financial products. Meanwhile, Bitcoin and other major cryptocurrencies saw gains, possibly supported by favorable regulatory milestones and the growing integration of traditional finance with digital assets.",
+ "pulse": "Indian markets saw a mixed close as the Nifty and Sensex slipped slightly, possibly due to pressure from IT stocks and rising global crude oil prices, even as individual companies reported strong quarterly earnings. Meanwhile, US markets trended higher, likely driven by renewed investor optimism in tech stocks that propelled the Nasdaq to gains. In other sectors, Bitcoin and other major cryptocurrencies saw minor gains, while gold prices softened as investors adjusted their portfolios amid these shifting global trends.",
  "ticker_strip": [
   "^NSEI",
   "^BSESN",
@@ -250,10 +250,10 @@
   "BTC-USD": {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 81423.0,
-   "change": 617.9219,
-   "pct": 0.76,
-   "pct_1m": -2.49,
+   "price": 81256.75,
+   "change": 451.6719,
+   "pct": 0.56,
+   "pct_1m": -2.69,
    "spark": [
     83502.6094,
     83622.4297,
@@ -285,17 +285,17 @@
     80024.0078,
     80006.6562,
     80805.0781,
-    81423.0
+    81256.75
    ],
    "asof": "2026-10-28"
   },
   "ETH-USD": {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 2367.0801,
-   "change": 19.3501,
-   "pct": 0.82,
-   "pct_1m": -11.96,
+   "price": 2358.3601,
+   "change": 10.6301,
+   "pct": 0.45,
+   "pct_1m": -12.29,
    "spark": [
     2688.6687,
     2676.7222,
@@ -327,17 +327,17 @@
     2326.9202,
     2320.2812,
     2347.73,
-    2367.0801
+    2358.3601
    ],
    "asof": "2026-10-28"
   },
   "SOL-USD": {
    "symbol": "SOL-USD",
    "name": "Solana",
-   "price": 103.05,
-   "change": 1.795,
-   "pct": 1.77,
-   "pct_1m": -13.28,
+   "price": 102.45,
+   "change": 1.195,
+   "pct": 1.18,
+   "pct_1m": -13.79,
    "spark": [
     118.8367,
     119.0555,
@@ -369,7 +369,7 @@
     101.2232,
     100.7549,
     101.255,
-    103.05
+    102.45
    ],
    "asof": "2026-10-28"
   },
@@ -444,10 +444,10 @@
   "EURUSD=X": {
    "symbol": "EURUSD=X",
    "name": "EUR/USD",
-   "price": 1.113,
-   "change": -0.0044,
-   "pct": -0.4,
-   "pct_1m": -2.18,
+   "price": 1.1127,
+   "change": -0.0047,
+   "pct": -0.42,
+   "pct_1m": -2.2,
    "spark": [
     1.1378,
     1.1373,
@@ -471,17 +471,51 @@
     1.1221,
     1.1218,
     1.1174,
-    1.113
+    1.1127
+   ],
+   "asof": "2026-10-28"
+  },
+  "GBPINR=X": {
+   "symbol": "GBPINR=X",
+   "name": "GBP/INR",
+   "price": 126.4902,
+   "change": -0.5147,
+   "pct": -0.41,
+   "pct_1m": -0.16,
+   "spark": [
+    126.6882,
+    127.2194,
+    127.0541,
+    127.2369,
+    126.9832,
+    127.525,
+    127.3527,
+    127.9062,
+    127.5278,
+    127.9671,
+    128.1368,
+    126.5262,
+    126.3287,
+    125.8495,
+    125.4517,
+    126.6547,
+    126.4189,
+    126.6686,
+    126.3324,
+    126.2137,
+    126.9686,
+    127.0049,
+    126.4902
    ],
    "asof": "2026-10-28"
   },
   "GC=F": {
    "symbol": "GC=F",
    "name": "Gold",
-   "price": 4060.3999,
-   "change": -14.2002,
-   "pct": -0.35,
-   "pct_1m": -2.59,
+   "price": 4057.7,
+   "change": -16.9001,
+   "pct": -0.41,
+   "pct_1m": -2.66,
    "spark": [
     4168.3999,
     4179.7002,
@@ -505,17 +539,17 @@
     4007.8999,
     4038.3999,
     4074.6001,
-    4060.3999
+    4057.7
    ],
    "asof": "2026-10-28"
   },
   "SI=F": {
    "symbol": "SI=F",
    "name": "Silver",
-   "price": 53.705,
-   "change": -0.588,
-   "pct": -1.08,
-   "pct_1m": -12.28,
+   "price": 53.775,
+   "change": -0.518,
+   "pct": -0.95,
+   "pct_1m": -12.16,
    "spark": [
     61.22,
     60.668,
@@ -539,17 +573,17 @@
     53.711,
     54.108,
     54.293,
-    53.705
+    53.775
    ],
    "asof": "2026-10-28"
   },
   "CL=F": {
    "symbol": "CL=F",
    "name": "WTI Crude",
-   "price": 101.58,
-   "change": 1.68,
-   "pct": 1.68,
-   "pct_1m": 9.7,
+   "price": 101.54,
+   "change": 1.64,
+   "pct": 1.64,
+   "pct_1m": 9.65,
    "spark": [
     92.6,
     89.38,
@@ -573,17 +607,17 @@
     103.27,
     101.76,
     99.9,
-    101.58
+    101.54
    ],
    "asof": "2026-10-28"
   },
   "BZ=F": {
    "symbol": "BZ=F",
    "name": "Brent Crude",
-   "price": 111.1,
-   "change": -2.78,
-   "pct": -2.44,
-   "pct_1m": 5.53,
+   "price": 111.08,
+   "change": -2.8,
+   "pct": -2.46,
+   "pct_1m": 5.51,
    "spark": [
     105.28,
     102.59,
@@ -607,7 +641,7 @@
     116.72,
     115.81,
     113.88,
-    111.1
+    111.08
    ],
    "asof": "2026-10-28"
   },
@@ -837,40 +871,6 @@
     531.33
    ],
    "asof": "2026-10-27"
-  },
-  "GBPINR=X": {
-   "symbol": "GBPINR=X",
-   "name": "GBP/INR",
-   "price": 126.4998,
-   "change": -0.5051,
-   "pct": -0.4,
-   "pct_1m": -0.15,
-   "spark": [
-    126.6882,
-    127.2194,
-    127.0541,
-    127.2369,
-    126.9832,
-    127.525,
-    127.3527,
-    127.9062,
-    127.5278,
-    127.9671,
-    128.1368,
-    126.5262,
-    126.3287,
-    125.8495,
-    125.4517,
-    126.6547,
-    126.4189,
-    126.6686,
-    126.3324,
-    126.2137,
-    126.9686,
-    127.0049,
-    126.4998
-   ],
-   "asof": "2026-10-28"
   }
  },
  "mutual_funds": [
@@ -962,287 +962,261 @@
    "label": "India",
    "articles": [
     {
-     "id": "e353d53fc6e5",
-     "title": "Drug Trafficker's Properties Worth Over Rs 1 Crore Seized In Himachal",
-     "link": "https://www.ndtv.com/india-news/properties-worth-over-rs-1-crore-of-convict-drug-peddler-seized-in-himachal-pradesh-12245990#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-10-28T01:39:55+00:00",
-     "summary": "Himachal Pradesh police have seized assets worth over Rs 1 crore belonging to a convicted drug trafficker. The seizures include real estate and household goods.",
-     "explain": "Asset seizure is a legal process where the government takes ownership of property acquired through illegal means. It matters because it hits criminal networks where they are most vulnerable: their finances. This strategy seeks to make drug trafficking less profitable and ensures that those convicted of serious drug offenses do not benefit from their crimes.",
+     "id": "7e89275b6e19",
+     "title": "BJP names Hardeep Singh Puri as candidate for Rajya Sabha bypoll in M.P.",
+     "link": "https://www.thehindu.com/news/national/madhya-pradesh/bjp-names-hardeep-singh-puri-as-candidate-for-mp-rajya-sabha-bypoll/article71635040.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-28T09:32:35+00:00",
+     "summary": "The BJP has nominated Union Minister Hardeep Singh Puri as its candidate for the upcoming Rajya Sabha bypoll in Madhya Pradesh.",
+     "explain": "The Rajya Sabha is the upper house of India's Parliament, where members are elected by state legislators rather than the general public. A 'bypoll' is a special election held to fill a seat that becomes vacant before a member's term officially expires.",
      "related": [],
      "story": {
-      "id": "india-asset-seizures-in-narcotics-investigatio",
-      "title": "Asset Seizures in Narcotics Investigations",
-      "so_far": "Indian law enforcement agencies frequently utilize the Narcotic Drugs and Psychotropic Substances (NDPS) Act to dismantle the financial networks of drug traffickers. By seizing properties acquired through illicit trade, the state aims to deter criminal activity and prevent the reinvestment of crime proceeds into further illegal operations.",
+      "id": "india-rajya-sabha-bypoll-in-madhya-pradesh",
+      "title": "Rajya Sabha Bypoll in Madhya Pradesh",
+      "so_far": "A Rajya Sabha seat in Madhya Pradesh became vacant following the resignation of L. Murugan from the Council of Ministers and his parliamentary position. A by-election has been scheduled for November 12, 2026, to fill the vacancy.",
       "timeline": [
        {
         "date": "2026-10-28",
-        "text": "Himachal Pradesh police have seized assets worth over Rs 1 crore belonging to a convicted drug trafficker. The seizures include real estate and household goods.",
-        "link": "https://www.ndtv.com/india-news/properties-worth-over-rs-1-crore-of-convict-drug-peddler-seized-in-himachal-pradesh-12245990#publisher=newsstand",
+        "text": "Hardeep Singh Puri has been officially named as the BJP's candidate for the seat vacated by L. Murugan.",
+        "link": "https://www.thehindu.com/news/national/madhya-pradesh/bjp-names-hardeep-singh-puri-as-candidate-for-mp-rajya-sabha-bypoll/article71635040.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "The BJP central election committee has formally approved Puri's nomination.",
+        "link": "https://www.ndtv.com/india-news/bjp-picks-hardeep-puri-for-rajya-sabha-bypoll-from-madhya-pradesh-12247548#publisher=newsstand",
         "source": "NDTV News Search Records Found 1000"
        }
       ]
      }
     },
     {
-     "id": "523597bbe241",
-     "title": "Science is successful only when it benefits society: PM Modi",
-     "link": "https://www.thehindu.com/news/national/science-is-successful-only-when-it-benefits-society-pm-modi/article71632091.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-28T01:33:16+00:00",
-     "summary": "Prime Minister Narendra Modi has called for scientific research to be more application-oriented to benefit society directly. He encouraged scientists to prioritize tangible results that can be moved from laboratories to practical, real-world use.",
-     "explain": "The 'lab-to-land' concept refers to the translation of scientific discoveries into real-world tools that improve daily life. The government is pushing for this because research that stays in the laboratory does not help the economy or public welfare. It highlights a shift in policy toward utilitarian science that solves local problems.",
-     "related": [],
-     "story": {
-      "id": "india-promoting-applied-scientific-research",
-      "title": "Promoting Applied Scientific Research",
-      "so_far": "India has been emphasizing self-reliance in science and technology, moving beyond theoretical research toward innovation that addresses domestic challenges like agriculture, healthcare, and infrastructure. Government funding is increasingly being steered toward 'lab-to-land' initiatives that ensure academic breakthroughs have measurable socio-economic impacts.",
-      "timeline": [
-       {
-        "date": "2026-10-28",
-        "text": "Prime Minister Narendra Modi has called for scientific research to be more application-oriented to benefit society directly. He encouraged scientists to prioritize tangible results that can be moved from laboratories to practical, real-world use.",
-        "link": "https://www.thehindu.com/news/national/science-is-successful-only-when-it-benefits-society-pm-modi/article71632091.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "00313a288c8a",
-     "title": "Cyclone Arnab's landfall process continues along Andhra coast | Highlights",
-     "link": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-27-2026/article71629599.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-28T01:31:09+00:00",
-     "summary": "Coastal Andhra Pradesh and Odisha are on alert as Cyclone Arnab approaches the coastline.",
-     "explain": "Cyclone Arnab is a severe weather system developing over the sea that threatens coastal districts. Being 'on alert' means the government has activated disaster management teams and is preparing for potential heavy rain, high winds, and coastal flooding. The term 'landfall' refers to the point where the cyclone center hits the shore.",
-     "related": [
-      {
-       "date": "2026-10-26",
-       "title": "Cyclone Arnab to cross Andhra coast by October 28; rains continue in Tamil Nadu | LIVE",
-       "link": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-live-updates-imd-weather-forecast-rain-warnings-bay-of-bengal-october-26-2026/article71625447.ece",
-       "source": "India Latest News: Top National Headline"
-      }
-     ],
-     "story": {
-      "id": "india-cyclone-arnab-threat",
-      "title": "Cyclone Arnab Threat",
-      "so_far": "Coastal regions in India, particularly Odisha and Andhra Pradesh, are highly vulnerable to cyclones during the monsoon and post-monsoon seasons. Authorities maintain standardized emergency protocols, including early warning systems and evacuation plans, to minimize casualties during these weather events.",
-      "timeline": [
-       {
-        "date": "2026-10-27",
-        "text": "States are bracing for impact as Cyclone Arnab moves closer to land.",
-        "link": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-27-2026/article71629599.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "55292e2e09c1",
-     "title": "BPSC ASO Mains Result 2026 Declared, Santosh Kumar Secures First Rank",
-     "link": "https://www.ndtv.com/education/bpsc-aso-mains-result-2026-declared-santosh-kumar-secures-first-rank-12245934#publisher=newsstand",
+     "id": "d9ffa7a26602",
+     "title": "BJP Picks Hardeep Puri For Rajya Sabha Bypoll From Madhya Pradesh",
+     "link": "https://www.ndtv.com/india-news/bjp-picks-hardeep-puri-for-rajya-sabha-bypoll-from-madhya-pradesh-12247548#publisher=newsstand",
      "source": "NDTV News Search Records Found 1000",
-     "published": "2026-10-28T01:30:04+00:00",
-     "summary": "The results for the Bihar Public Service Commission (BPSC) Assistant Section Officer (ASO) Mains exam have been declared, with Santosh Kumar topping the list.",
-     "explain": "The BPSC conducts competitive exams for state-level administrative jobs. ASOs perform key clerical and administrative roles within government departments. Legal disputes over quotas like the EWS category often result in court-ordered holds on the final appointment process until eligibility criteria are clearly interpreted.",
+     "published": "2026-10-28T09:05:33+00:00",
+     "summary": "The BJP has nominated Union Minister Hardeep Singh Puri as its candidate for the upcoming Rajya Sabha bypoll in Madhya Pradesh.",
+     "explain": "The Rajya Sabha is the upper house of India's Parliament, where members are elected by state legislators rather than the general public. A 'bypoll' is a special election held to fill a seat that becomes vacant before a member's term officially expires.",
      "related": [],
      "story": {
-      "id": "india-bpsc-recruitment-process-updates",
-      "title": "BPSC Recruitment Process Updates",
-      "so_far": "Recruitment for government administrative posts in Bihar is managed by the BPSC through a rigorous multi-stage testing process. Legal hurdles concerning reservations, such as those for Economically Weaker Sections (EWS), are common and frequently lead to temporary delays in finalizing appointments.",
+      "id": "india-rajya-sabha-bypoll-in-madhya-pradesh",
+      "title": "Rajya Sabha Bypoll in Madhya Pradesh",
+      "so_far": "A Rajya Sabha seat in Madhya Pradesh became vacant following the resignation of L. Murugan from the Council of Ministers and his parliamentary position. A by-election has been scheduled for November 12, 2026, to fill the vacancy.",
       "timeline": [
        {
         "date": "2026-10-28",
-        "text": "The results for the Bihar Public Service Commission (BPSC) Assistant Section Officer (ASO) Mains exam have been declared, with Santosh Kumar topping the list.",
-        "link": "https://www.ndtv.com/education/bpsc-aso-mains-result-2026-declared-santosh-kumar-secures-first-rank-12245934#publisher=newsstand",
+        "text": "Hardeep Singh Puri has been officially named as the BJP's candidate for the seat vacated by L. Murugan.",
+        "link": "https://www.thehindu.com/news/national/madhya-pradesh/bjp-names-hardeep-singh-puri-as-candidate-for-mp-rajya-sabha-bypoll/article71635040.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "The BJP central election committee has formally approved Puri's nomination.",
+        "link": "https://www.ndtv.com/india-news/bjp-picks-hardeep-puri-for-rajya-sabha-bypoll-from-madhya-pradesh-12247548#publisher=newsstand",
         "source": "NDTV News Search Records Found 1000"
        }
       ]
      }
     },
     {
-     "id": "c9fc7d2e4c02",
-     "title": "Two years on, Karnataka beekeepers continue to face threat from small hive beetle",
-     "link": "https://www.thehindu.com/news/national/karnataka/two-years-on-karnataka-beekeepers-continue-to-face-threat-from-small-hive-beetle/article71632177.ece",
+     "id": "1d0bd1d33f3b",
+     "title": "Cyclone ‘Arnab’ LIVE updates | Three killed in Andhra after landfall near Narsapur; storm weakens",
+     "link": "https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-28T01:30:01+00:00",
-     "summary": "Researchers in Karnataka have identified the small hive beetle as a significant threat to local honey bee colonies. This invasive insect is destroying hives and consuming honey and pollen, endangering the local beekeeping industry.",
-     "explain": "Invasive species are organisms that are introduced to an environment where they do not naturally occur and often cause damage to local wildlife. The small hive beetle is problematic because it invades beehives, damages bee populations, and ruins the honey product. This matters for food security as bees are essential for pollinating many food crops.",
-     "related": [],
-     "story": {
-      "id": "india-agricultural-pests-and-biodiversity",
-      "title": "Agricultural Pests and Biodiversity",
-      "so_far": "Beekeeping, or apiculture, is a vital part of Karnataka's agricultural sector. Farmers are increasingly facing challenges from climate change and invasive species, which threaten not only honey production but also local pollination cycles that support broader farming ecosystems.",
-      "timeline": [
-       {
-        "date": "2026-10-28",
-        "text": "Researchers in Karnataka have identified the small hive beetle as a significant threat to local honey bee colonies. This invasive insect is destroying hives and consuming honey and pollen, endangering the local beekeeping industry.",
-        "link": "https://www.thehindu.com/news/national/karnataka/two-years-on-karnataka-beekeepers-continue-to-face-threat-from-small-hive-beetle/article71632177.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "45fe878e0320",
-     "title": "Cyclone Arnab LIVE Updates: Cyclone Arnab Makes Landfall, Eastern States See Heavy Rainfall",
-     "link": "https://www.ndtv.com/india-news/cyclone-arnab-landfall-live-updates-landfall-tracker-imd-weather-forecast-heavy-rain-alert-andhra-pradesh-odisha-live-news-12245206#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-10-28T01:20:03+00:00",
-     "summary": "Cyclone Arnab has made landfall between Bapatla and Visakhapatnam, causing heavy rainfall across coastal regions in Eastern India.",
-     "explain": "A cyclone is a large-scale air mass that rotates around a strong center of low atmospheric pressure, causing heavy rain and destructive winds. 'Landfall' occurs when the center of the storm moves over land from the sea. These events are critical as they pose severe risks to infrastructure, agriculture, and human safety, requiring coordinated state and national emergency responses.",
+     "published": "2026-10-28T11:06:01+00:00",
+     "summary": "Cyclone Arnab struck near Narsapur in Andhra Pradesh, resulting in three deaths and significant agricultural damage.",
+     "explain": "Cyclones are intense weather systems with strong, rotating winds that form over warm ocean waters. They often cause flooding and storm surges when they make landfall, posing significant risks to life and economic stability in coastal regions.",
      "related": [
       {
        "date": "2026-10-27",
-       "title": "Cyclone ‘Arnab’ LIVE updates | A.P., Odisha on alert as ‘Arnab’ nears land",
-       "link": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-27-2026/article71629599.ece",
+       "title": "Very severe cyclonic storm ‘Arnab’ begins landfall near Narsapur; Vizag battered by rain",
+       "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-landfall-updates/article71633266.ece",
        "source": "India Latest News: Top National Headline"
       }
      ],
      "story": {
-      "id": "india-cyclone-arnab-impact-and-landfall",
-      "title": "Cyclone Arnab Impact and Landfall",
-      "so_far": "The eastern coast of India, particularly states like Andhra Pradesh and Odisha, is frequently hit by severe cyclonic storms during the post-monsoon period. Disaster management agencies use sophisticated weather tracking to initiate mass evacuations and deploy emergency response teams to coastal districts well before landfall occurs.",
+      "id": "india-cyclone-arnab-impacts-andhra-pradesh",
+      "title": "Cyclone Arnab Impacts Andhra Pradesh",
+      "so_far": "Coastal Andhra Pradesh is susceptible to tropical cyclones, which bring high-velocity winds and torrential rain. These events frequently cause infrastructure damage and agricultural loss, requiring immediate state-level disaster response.",
       "timeline": [
        {
-        "date": "2026-10-27",
-        "text": "The IMD has confirmed the cyclone is making landfall near Narsapur, with ongoing, prolonged impacts across the coast.",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-landfall-updates/article71633266.ece",
+        "date": "2026-10-28",
+        "text": "The storm caused widespread destruction to crops across 80,000 hectares, with state officials coordinating relief with the central government.",
+        "link": "https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "71d3a4c49f5d",
+     "title": "26 dogs rescued from suspected meat trade in Assam",
+     "link": "https://www.thehindu.com/news/national/assam/26-dogs-rescued-from-suspected-meat-trade-in-assam/article71635389.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-28T11:04:53+00:00",
+     "summary": "Authorities in Assam rescued 26 dogs suspected to be victims of an illegal meat trade operation.",
+     "explain": "Illegal wildlife or domestic animal trading often involves capturing animals for food or sale. It is a criminal offense in India under various animal welfare and cruelty prevention statutes.",
+     "related": [],
+     "story": {
+      "id": "india-illegal-animal-trafficking-in-assam",
+      "title": "Illegal Animal Trafficking in Assam",
+      "so_far": "Assam has seen increasing reports of organized trafficking involving domestic animals. Local authorities and animal welfare organizations often work together to dismantle these smuggling networks and enforce animal protection laws.",
+      "timeline": [
+       {
+        "date": "2026-10-28",
+        "text": "Rescuers found the animals in inhumane conditions and are currently overseeing their veterinary recovery.",
+        "link": "https://www.thehindu.com/news/national/assam/26-dogs-rescued-from-suspected-meat-trade-in-assam/article71635389.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "0ca0efab12f7",
+     "title": "Supreme Court allows petitioner seeking pre-loaded drop-down caste menu in Census to approach Registrar General",
+     "link": "https://www.thehindu.com/news/national/supreme-court-allows-petitioner-seeking-pre-loaded-drop-down-census-caste-menu-to-approach-rgi/article71635086.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-28T11:02:37+00:00",
+     "summary": "The Supreme Court has directed the OBC Federation of India to approach the Registrar General regarding a request for a pre-loaded drop-down caste menu in the upcoming 2027 Census.",
+     "explain": "The Registrar General of India is the government official responsible for conducting the national Census. 'Enumeration' refers to the process of counting and collecting data from the population for statistical purposes.",
+     "related": [],
+     "story": {
+      "id": "india-demands-for-2027-census-transparency",
+      "title": "Demands for 2027 Census Transparency",
+      "so_far": "The Census is a massive administrative exercise conducted every decade to gather demographic and socioeconomic data. Recent discussions have focused on whether the process should include caste-based data to better tailor government welfare schemes.",
+      "timeline": [
+       {
+        "date": "2026-10-28",
+        "text": "The petitioner argues that a digital drop-down menu is necessary for accurate enumeration of Socially and Educationally Backward Classes (SEBCs) given the large budget allocation.",
+        "link": "https://www.thehindu.com/news/national/supreme-court-allows-petitioner-seeking-pre-loaded-drop-down-census-caste-menu-to-approach-rgi/article71635086.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "e55b9795589a",
+     "title": "U.P. MLC polls: Akhilesh congratulates SP's winning candidates, urges them to avoid victory processions",
+     "link": "https://www.thehindu.com/news/national/uttar-pradesh/up-mlc-polls-akhilesh-congratulates-sps-winning-candidates-urges-them-to-avoid-victory-processions/article71635449.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-28T11:02:33+00:00",
+     "summary": "The Samajwadi Party (SP) has secured two seats in the Uttar Pradesh Legislative Council elections.",
+     "explain": "The Legislative Council, or Vidhan Parishad, is the upper house in some Indian state legislatures, similar to the Rajya Sabha at the national level. Elections to this body are often seen as barometers for the ruling party's influence.",
+     "related": [],
+     "story": {
+      "id": "india-uttar-pradesh-legislative-council-electi",
+      "title": "Uttar Pradesh Legislative Council Elections",
+      "so_far": "Legislative Council elections in Uttar Pradesh involve voting for members of the upper house of the state legislature. These elections are significant indicators of political strength in India's most populous state.",
+      "timeline": [
+       {
+        "date": "2026-10-28",
+        "text": "SP leader Akhilesh Yadav celebrated the win while advising candidates to maintain order and avoid excessive victory processions.",
+        "link": "https://www.thehindu.com/news/national/uttar-pradesh/up-mlc-polls-akhilesh-congratulates-sps-winning-candidates-urges-them-to-avoid-victory-processions/article71635449.ece",
         "source": "India Latest News: Top National Headline"
        },
        {
         "date": "2026-10-28",
-        "text": "Cyclone Arnab has made landfall between Bapatla and Visakhapatnam, causing heavy rainfall across coastal regions in Eastern India.",
-        "link": "https://www.ndtv.com/india-news/cyclone-arnab-landfall-live-updates-landfall-tracker-imd-weather-forecast-heavy-rain-alert-andhra-pradesh-odisha-live-news-12245206#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
+        "text": "Votes are still being counted in major cities across the state, including Lucknow and Varanasi.",
+        "link": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-mlc-election-results-2026-meerut-varanasi-gorakhpur/article71634397.ece",
+        "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "1ffcc76f0bfb",
-     "title": "Indians Travelling To UAE Advised To Take Adequate Medical Insurance",
-     "link": "https://www.ndtv.com/india-news/indians-travelling-to-uae-advised-to-take-adequate-medical-insurance-12245857#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-10-27T23:50:37+00:00",
-     "summary": "Indian authorities have issued an advisory for citizens traveling to or living in the UAE, urging them to ensure they have adequate medical insurance coverage.",
-     "explain": "Medical insurance is a contract that covers the cost of medical expenses. In the UAE, medical costs can be very high for expatriates. The advisory is a proactive measure to prevent Indian citizens from facing financial hardship during health emergencies while living or working abroad.",
+     "id": "1c2a6d45649a",
+     "title": "A Delhi event unveils fault lines in the Dalit-OBC formulation of SP politics",
+     "link": "https://www.thehindu.com/news/national/uttar-pradesh/a-delhi-event-unveils-fault-lines-in-the-dalit-obc-formulation-of-sp-politics/article71632477.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-28T10:50:09+00:00",
+     "summary": "Internal political discussions in the Samajwadi Party (SP) are surfacing regarding the limits of its current Dalit-OBC electoral strategy.",
+     "explain": "Lohiaite policies refer to the socialist ideology of Ram Manohar Lohia, emphasizing caste-based empowerment. Dalit and OBC represent marginalized communities that form the core of many state-level political coalitions in North India.",
      "related": [],
      "story": {
-      "id": "india-medical-insurance-advisories-for-travele",
-      "title": "Medical Insurance Advisories for Travelers",
-      "so_far": "Millions of Indians reside or travel to the UAE for work and tourism. The Indian government routinely monitors the welfare of its citizens abroad, frequently issuing advisories to help them navigate foreign healthcare systems, which can be prohibitively expensive without proper insurance.",
+      "id": "india-samajwadi-party-political-strategy",
+      "title": "Samajwadi Party Political Strategy",
+      "so_far": "The Samajwadi Party has historically relied on 'Lohiaite' policies, focusing on social justice and numerical aggregation of backward caste voters. It is currently navigating evolving alliances and identity-based politics in Uttar Pradesh.",
       "timeline": [
        {
-        "date": "2026-10-27",
-        "text": "Indian authorities have issued an advisory for citizens traveling to or living in the UAE, urging them to ensure they have adequate medical insurance coverage.",
-        "link": "https://www.ndtv.com/india-news/indians-travelling-to-uae-advised-to-take-adequate-medical-insurance-12245857#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
+        "date": "2026-10-28",
+        "text": "Public debates over symbolic gestures, such as the recitation of Ambedkar's vows, have highlighted friction between traditional political philosophies and modern coalition tactics.",
+        "link": "https://www.thehindu.com/news/national/uttar-pradesh/a-delhi-event-unveils-fault-lines-in-the-dalit-obc-formulation-of-sp-politics/article71632477.ece",
+        "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "200696b55264",
-     "title": "Very severe cyclonic storm ‘Arnab’ begins landfall near Narsapur; Vizag battered by rain",
-     "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-landfall-updates/article71633266.ece",
+     "id": "a854b3fc509e",
+     "title": "Keralam govt approves J.C. Daniel film city project at Kinfra’s Petrochemicals Park in Ambalamugal",
+     "link": "https://www.thehindu.com/news/national/kerala/keralam-govt-approves-jc-daniel-film-city-project-at-kinfras-petrochemicals-park-in-ambalamugal/article71634590.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-27T21:45:07+00:00",
-     "summary": "The India Meteorological Department (IMD) reports that the very severe cyclonic storm 'Arnab' is in the process of landfall near Narsapur, with heavy rain impacting Visakhapatnam.",
-     "explain": null,
-     "related": [
-      {
-       "date": "2026-10-25",
-       "title": "Andhra Pradesh braces for very severe cyclonic storm; landfall likely between Bapatla and Vizag on October 28",
-       "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-braces-for-very-severe-cyclonic-storm-landfall-likely-between-bapatla-and-vizag-on-october-28/article71621095.ece",
-       "source": "India Latest News: Top National Headline"
-      }
-     ],
+     "published": "2026-10-28T10:49:36+00:00",
+     "summary": "The Kerala government has approved the establishment of the J.C. Daniel Film City project in Ambalamugal.",
+     "explain": "A 'Film City' is a centralized hub equipped with studios, sets, and post-production facilities designed to streamline filmmaking. Public-private partnerships involve the government working with private companies to share the costs and management of large infrastructure projects.",
+     "related": [],
      "story": {
-      "id": "india-cyclone-arnab-impact-and-landfall",
-      "title": "Cyclone Arnab Impact and Landfall",
-      "so_far": "The eastern coast of India, particularly states like Andhra Pradesh and Odisha, is frequently hit by severe cyclonic storms during the post-monsoon period. Disaster management agencies use sophisticated weather tracking to initiate mass evacuations and deploy emergency response teams to coastal districts well before landfall occurs.",
+      "id": "india-kerala-film-industry-development",
+      "title": "Kerala Film Industry Development",
+      "so_far": "The state of Kerala has a robust film industry and is seeking to modernize its infrastructure to attract international productions and foster local talent through dedicated studio hubs.",
       "timeline": [
        {
-        "date": "2026-10-27",
-        "text": "The IMD has confirmed the cyclone is making landfall near Narsapur, with ongoing, prolonged impacts across the coast.",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-landfall-updates/article71633266.ece",
+        "date": "2026-10-28",
+        "text": "The project will span 30 acres with an estimated cost of ₹100 crore, utilizing a public-private partnership model.",
+        "link": "https://www.thehindu.com/news/national/kerala/keralam-govt-approves-jc-daniel-film-city-project-at-kinfras-petrochemicals-park-in-ambalamugal/article71634590.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b7126e105a16",
+     "title": "Uttar Pradesh MLC polls: BJP wins five seats, SP three; counting underway",
+     "link": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-mlc-election-results-2026-meerut-varanasi-gorakhpur/article71634397.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-28T10:49:33+00:00",
+     "summary": "The BJP has won five seats while the Samajwadi Party has taken three in the ongoing Uttar Pradesh Legislative Council (MLC) elections.",
+     "explain": "The Legislative Council, or Vidhan Parishad, is the upper house in some Indian state legislatures, similar to the Rajya Sabha at the national level. Elections to this body are often seen as barometers for the ruling party's influence.",
+     "related": [],
+     "story": {
+      "id": "india-uttar-pradesh-legislative-council-electi",
+      "title": "Uttar Pradesh Legislative Council Elections",
+      "so_far": "Legislative Council elections in Uttar Pradesh involve voting for members of the upper house of the state legislature. These elections are significant indicators of political strength in India's most populous state.",
+      "timeline": [
+       {
+        "date": "2026-10-28",
+        "text": "SP leader Akhilesh Yadav celebrated the win while advising candidates to maintain order and avoid excessive victory processions.",
+        "link": "https://www.thehindu.com/news/national/uttar-pradesh/up-mlc-polls-akhilesh-congratulates-sps-winning-candidates-urges-them-to-avoid-victory-processions/article71635449.ece",
         "source": "India Latest News: Top National Headline"
        },
        {
         "date": "2026-10-28",
-        "text": "Cyclone Arnab has made landfall between Bapatla and Visakhapatnam, causing heavy rainfall across coastal regions in Eastern India.",
-        "link": "https://www.ndtv.com/india-news/cyclone-arnab-landfall-live-updates-landfall-tracker-imd-weather-forecast-heavy-rain-alert-andhra-pradesh-odisha-live-news-12245206#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       }
-      ]
-     }
-    },
-    {
-     "id": "c3216fba4349",
-     "title": "Former BJP MP Dharmendra Kashyap joins Samajwadi Party",
-     "link": "https://www.thehindu.com/news/national/uttar-pradesh/former-bjp-mp-dharmendra-kashyap-joins-samajwadi-party/article71632603.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-27T21:30:17+00:00",
-     "summary": "Former BJP MP Dharmendra Kashyap has joined the Samajwadi Party (SP), citing dissatisfaction with the law and order situation in Uttar Pradesh and the treatment of backward communities.",
-     "explain": null,
-     "related": [],
-     "story": {
-      "id": "india-political-realignments-and-legal-battles",
-      "title": "Political Realignments and Legal Battles",
-      "so_far": "Yusuf Pathan, a former cricketer turned politician, was previously associated with the Trinamool Congress (TMC). His recent political switch highlights the fluidity of legislative loyalties and the impact these moves have on resource allocation and political standing.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "Yusuf Pathan and 20 other MPs have reportedly rebelled against the TMC, leading to speculation about their future political affiliations.",
-        "link": "https://www.ndtv.com/india-news/vadodara-land-row-nda-joining-bonus-for-yusuf-pathan-a-plot-twist-in-long-legal-battle-12209050#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "A security aide has admitted to providing false testimony in an ongoing investigation involving a high-ranking official.",
-        "link": "https://www.thehindu.com/news/national/kerala/ex-gunman-of-veena-george-will-face-action-for-false-statement-keralam-health-minister/article71604131.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Yusuf Pathan has received a government land allocation amid his recent transition into the BJP-led NDA fold.",
-        "link": "https://www.thehindu.com/news/national/gujarat/gujarat-govt-gifts-part-of-disputed-vadodara-plot-to-yusuf-pathan/article71604103.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-26",
-        "text": "The TVK is working to expand its influence by absorbing members from the opposition AIADMK party.",
-        "link": "https://www.thehindu.com/opinion/op-ed/why-tvk-is-eager-to-woo-aiadmk-cadre/article71086362.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-27",
-        "text": "Dharmendra Kashyap switched from the BJP to the SP, criticizing current state governance regarding social justice.",
-        "link": "https://www.thehindu.com/news/national/uttar-pradesh/former-bjp-mp-dharmendra-kashyap-joins-samajwadi-party/article71632603.ece",
+        "text": "Votes are still being counted in major cities across the state, including Lucknow and Varanasi.",
+        "link": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-mlc-election-results-2026-meerut-varanasi-gorakhpur/article71634397.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "7ce04ded4321",
-     "title": "Bihar CM orders probe into legal notice served to RJD MP Sudhakar Singh by Kundan Krishnan",
-     "link": "https://www.thehindu.com/news/national/bihar/bihar-cm-orders-probe-into-legal-notice-served-to-rjd-mp-sudhakar-singh-by-kundan-krishnan/article71632093.ece",
+     "id": "e0cafa4c1f81",
+     "title": "Theni jailbreak: Two more prisoners secured; two still at large",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/theni-jailbreak-two-more-prisoners-secured-two-still-at-large/article71635358.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-27T21:04:59+00:00",
-     "summary": "The Bihar Chief Minister has ordered an inquiry into a legal defamation notice sent to RJD MP Sudhakar Singh by a public official, questioning the government's stance on the matter.",
-     "explain": "A defamation notice is a legal warning that a person is being accused of making false statements that damage someone's reputation. When this involves an MP and a government official, it triggers a debate on whether the state is using legal tools to stifle political speech. The Chief Minister's probe aims to determine if the state administration is being used for personal or partisan legal battles.",
+     "published": "2026-10-28T10:48:39+00:00",
+     "summary": "Two more prisoners involved in a recent jailbreak in Theni have been apprehended, with two individuals still at large.",
+     "explain": "Remand prisoners are individuals held in custody while awaiting their trial. A 'jailbreak' refers to unauthorized exit from a correctional facility, which is a major violation of law and security policy.",
      "related": [],
      "story": {
-      "id": "india-political-defamation-and-legal-notices",
-      "title": "Political Defamation and Legal Notices",
-      "so_far": "Political discourse in Bihar frequently involves legal skirmishes where defamation cases are used to challenge public statements made by opposition leaders. The government's involvement in these disputes—specifically whether it supports official action against an MP—is a frequent point of political friction.",
+      "id": "india-theni-prison-security-breach",
+      "title": "Theni Prison Security Breach",
+      "so_far": "Jailbreaks are rare security failures that trigger immediate inquiries into prison staffing, corruption, and infrastructure. These events often lead to the suspension of responsible officials and heightened security protocols.",
       "timeline": [
        {
-        "date": "2026-10-27",
-        "text": "The Bihar Chief Minister has ordered an inquiry into a legal defamation notice sent to RJD MP Sudhakar Singh by a public official, questioning the government's stance on the matter.",
-        "link": "https://www.thehindu.com/news/national/bihar/bihar-cm-orders-probe-into-legal-notice-served-to-rjd-mp-sudhakar-singh-by-kundan-krishnan/article71632093.ece",
+        "date": "2026-10-28",
+        "text": "A total of 17 prisoners had initially escaped by deceiving a warder, with police operations ongoing to locate the remaining fugitives.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/theni-jailbreak-two-more-prisoners-secured-two-still-at-large/article71635358.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
@@ -1253,166 +1227,6 @@
   "world": {
    "label": "World",
    "articles": [
-    {
-     "id": "559e30d4a8f5",
-     "title": "Flavio Bolsonaro flees Brazil after election loss, US says will grant visa",
-     "link": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-27T21:47:34+00:00",
-     "summary": "Flavio Bolsonaro has left Brazil for the U.S. following his election loss and a court order to surrender his passports as part of a money-laundering investigation.",
-     "explain": "Flavio Bolsonaro is a prominent Brazilian politician whose legal troubles have now intersected with international travel and U.S. diplomatic relations. Money laundering is the illegal process of making large amounts of money generated by a crime appear to have come from a legitimate source. His departure raises questions about whether he is seeking to evade the Brazilian judicial system.",
-     "related": [
-      {
-       "date": "2026-10-26",
-       "title": "Bolsonaro calls for Brazil election results to be 'annulled' after loss to Lula",
-       "link": "https://www.thehindu.com/news/international/bolsonaro-challenges-brazil-election-results-after-lulas-victory/article71625500.ece",
-       "source": "World News: Latest International News & "
-      },
-      {
-       "date": "2026-10-26",
-       "title": "Flavio Bolsonaro ‘will not give up’ after Brazil election results",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss",
-       "source": "Al Jazeera – Breaking News, World News a"
-      }
-     ],
-     "story": {
-      "id": "world-flavio-bolsonaro-s-departure-to-u-s",
-      "title": "Flavio Bolsonaro's Departure to U.S.",
-      "so_far": "Flavio Bolsonaro, son of former President Jair Bolsonaro, has faced significant legal scrutiny in Brazil following an election defeat. The Brazilian Supreme Court recently initiated a money-laundering investigation against him, which included a requirement to surrender his passports. The U.S. administration has signaled it would grant him a visa, drawing on historical alignment with his father's political camp.",
-      "timeline": [
-       {
-        "date": "2026-10-27",
-        "text": "Flavio Bolsonaro has reportedly arrived in the U.S. after a Brazilian court ordered him to surrender his passports amidst an ongoing money-laundering probe.",
-        "link": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-10-27",
-        "text": "U.S. officials have alleged that Bolsonaro is a victim of political persecution, framing the legal actions against him as judicial overreach.",
-        "link": "https://www.thehindu.com/news/international/brazilsflavio-bolsonaro-headed-to-us-after-losing-election-sources-say/article71633165.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-10-28",
-        "text": "Unnamed sources confirm Flavio Bolsonaro has successfully reached the U.S.",
-        "link": "https://www.thehindu.com/news/international/brazils-flavio-bolsonaro-flees-to-us-after-election-loss/article71634146.ece",
-        "source": "World News: Latest International News & "
-       }
-      ]
-     }
-    },
-    {
-     "id": "8c3b75f547bd",
-     "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
-     "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-10-27T20:44:40+00:00",
-     "summary": "An Egyptian court has fined editor Lina Attalah and ordered the permanent closure of her independent news outlet, Mada Masr.",
-     "explain": "This development represents a major crackdown on press freedom in Egypt. Independent journalism is often viewed by authoritarian regimes as a threat to state stability. Closing an outlet and sentencing an editor in absentia (meaning they are not physically present in court) is a common tactic used to silence dissent and deter other journalists from publishing critical coverage.",
-     "related": [],
-     "story": {
-      "id": "world-egypt-closes-mada-masr-news-site",
-      "title": "Egypt Closes Mada Masr News Site",
-      "so_far": "Mada Masr is one of Egypt's few remaining independent media organizations, known for its investigative reporting on sensitive political and social issues. Its editor, Lina Attalah, has frequently been a target of state pressure and legal challenges by the Egyptian government, which maintains tight control over the domestic media landscape.",
-      "timeline": [
-       {
-        "date": "2026-10-27",
-        "text": "The Egyptian judiciary has officially ordered the closure of the news outlet Mada Masr and sentenced its editor, Lina Attalah, to one year in prison in absentia.",
-        "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-10-27",
-        "text": "Attalah was released after paying a $53,400 fine, but subsequently learned she had been sentenced to one year in prison.",
-        "link": "https://www.aljazeera.com/news/2026/10/27/egypt-orders-closure-of-leading-independent-news-site-mada-masr?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
-    },
-    {
-     "id": "1d3efaf81086",
-     "title": "Egypt orders closure of leading independent news site Mada Masr",
-     "link": "https://www.aljazeera.com/news/2026/10/27/egypt-orders-closure-of-leading-independent-news-site-mada-masr?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-27T20:35:18+00:00",
-     "summary": "An Egyptian court has fined editor Lina Attalah and ordered the permanent closure of her independent news outlet, Mada Masr.",
-     "explain": "This development represents a major crackdown on press freedom in Egypt. Independent journalism is often viewed by authoritarian regimes as a threat to state stability. Closing an outlet and sentencing an editor in absentia (meaning they are not physically present in court) is a common tactic used to silence dissent and deter other journalists from publishing critical coverage.",
-     "related": [],
-     "story": {
-      "id": "world-egypt-closes-mada-masr-news-site",
-      "title": "Egypt Closes Mada Masr News Site",
-      "so_far": "Mada Masr is one of Egypt's few remaining independent media organizations, known for its investigative reporting on sensitive political and social issues. Its editor, Lina Attalah, has frequently been a target of state pressure and legal challenges by the Egyptian government, which maintains tight control over the domestic media landscape.",
-      "timeline": [
-       {
-        "date": "2026-10-27",
-        "text": "The Egyptian judiciary has officially ordered the closure of the news outlet Mada Masr and sentenced its editor, Lina Attalah, to one year in prison in absentia.",
-        "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-10-27",
-        "text": "Attalah was released after paying a $53,400 fine, but subsequently learned she had been sentenced to one year in prison.",
-        "link": "https://www.aljazeera.com/news/2026/10/27/egypt-orders-closure-of-leading-independent-news-site-mada-masr?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
-    },
-    {
-     "id": "a4f199dee6fa",
-     "title": "Brazil's Flavio Bolsonaro headed to U.S. after losing election, sources say",
-     "link": "https://www.thehindu.com/news/international/brazilsflavio-bolsonaro-headed-to-us-after-losing-election-sources-say/article71633165.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-10-27T18:31:54+00:00",
-     "summary": "Flavio Bolsonaro is traveling to the U.S. after his election defeat, with the U.S. administration expressing support amid his claims of judicial persecution in Brazil.",
-     "explain": "The U.S. government's involvement in this matter highlights the political alliance between the current U.S. administration and the Bolsonaro family. By characterizing the Brazilian legal actions as 'judicial persecution,' the U.S. is effectively questioning the independence and legitimacy of the Brazilian court system.",
-     "related": [
-      {
-       "date": "2026-10-26",
-       "title": "Bolsonaro calls for Brazil election results to be 'annulled' after loss to Lula",
-       "link": "https://www.thehindu.com/news/international/bolsonaro-challenges-brazil-election-results-after-lulas-victory/article71625500.ece",
-       "source": "World News: Latest International News & "
-      },
-      {
-       "date": "2026-10-26",
-       "title": "Bolsonaro calls for Brazil election result to be annulled",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss",
-       "source": "Al Jazeera – Breaking News, World News a"
-      },
-      {
-       "date": "2026-10-26",
-       "title": "Flavio Bolsonaro ‘will not give up’ after Brazil election results",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss",
-       "source": "Al Jazeera – Breaking News, World News a"
-      }
-     ],
-     "story": {
-      "id": "world-flavio-bolsonaro-s-departure-to-u-s",
-      "title": "Flavio Bolsonaro's Departure to U.S.",
-      "so_far": "Flavio Bolsonaro, son of former President Jair Bolsonaro, has faced significant legal scrutiny in Brazil following an election defeat. The Brazilian Supreme Court recently initiated a money-laundering investigation against him, which included a requirement to surrender his passports. The U.S. administration has signaled it would grant him a visa, drawing on historical alignment with his father's political camp.",
-      "timeline": [
-       {
-        "date": "2026-10-27",
-        "text": "Flavio Bolsonaro has reportedly arrived in the U.S. after a Brazilian court ordered him to surrender his passports amidst an ongoing money-laundering probe.",
-        "link": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-10-27",
-        "text": "U.S. officials have alleged that Bolsonaro is a victim of political persecution, framing the legal actions against him as judicial overreach.",
-        "link": "https://www.thehindu.com/news/international/brazilsflavio-bolsonaro-headed-to-us-after-losing-election-sources-say/article71633165.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-10-28",
-        "text": "Unnamed sources confirm Flavio Bolsonaro has successfully reached the U.S.",
-        "link": "https://www.thehindu.com/news/international/brazils-flavio-bolsonaro-flees-to-us-after-election-loss/article71634146.ece",
-        "source": "World News: Latest International News & "
-       }
-      ]
-     }
-    },
     {
      "id": "1f1bb92ac137",
      "title": "Norway and Finland leaders hold rare call with Putin",
@@ -1485,151 +1299,274 @@
      }
     },
     {
-     "id": "198a5b298b12",
-     "title": "Dutch broadcaster pulls out of Eurovision over Israel ‘sensitivities’",
-     "link": "https://www.thehindu.com/news/international/netherlands-withdraws-from-eurovision-2027-amid-sensitivities-over-israels-participation-given-its-military-campaign-in-gaza/article71631050.ece",
+     "id": "33e128af1f3b",
+     "title": "Israel polls: Golan urges Eisenkot's bloc to form government with Arab parties to oust Netanyahu",
+     "link": "https://www.thehindu.com/news/international/israel-polls-golan-urges-eisenkots-bloc-to-form-government-with-arab-parties-to-oust-netanyahu/article71635413.ece",
      "source": "World News: Latest International News & ",
-     "published": "2026-10-27T12:22:24+00:00",
-     "summary": "The Dutch broadcaster has withdrawn from the Eurovision Song Contest, citing concerns over Israel’s participation due to its military campaign in Gaza.",
-     "explain": "A boycott is an act of non-participation intended to show disapproval of a government's policies. By withdrawing from a popular cultural event like Eurovision, the Dutch broadcaster is using its platform to signal political discomfort with Israel's military presence in Gaza, effectively pressuring organizers to address the controversy surrounding the country's inclusion.",
+     "published": "2026-10-28T10:49:54+00:00",
+     "summary": "Opposition figures are debating whether to include Arab-led parties in a governing coalition to potentially displace Prime Minister Benjamin Netanyahu.",
+     "explain": "In Israel's parliamentary system, a party must form a coalition holding a majority of 120 seats to govern. Because elections often result in fragmented outcomes, parties must negotiate complex alliances. Including Arab parties is controversial for many Jewish-Israeli politicians due to deep-seated ideological differences regarding the state's identity and national security policies.",
      "related": [],
      "story": {
-      "id": "world-eurovision-israel-participation-boycotts",
-      "title": "Eurovision Israel Participation Boycotts",
-      "so_far": "Eurovision is a major annual international song competition that frequently serves as a platform for European cultural identity. Israel’s participation has become a focal point of protest for nations critical of the country's ongoing military actions in the Gaza Strip, leading to several countries boycotting or threatening to boycott the event in recent cycles.",
+      "id": "world-israeli-government-formation-standoff",
+      "title": "Israeli Government Formation Standoff",
+      "so_far": "Following recent elections, neither Prime Minister Benjamin Netanyahu's faction nor the opposition bloc led by Gadi Eisenkot has secured a clear majority of seats in the Knesset. Both sides face a difficult path to power, as relying on smaller, ideologically divergent parties—particularly those representing Arab citizens—remains a highly contentious issue in Israeli politics.",
       "timeline": [
        {
-        "date": "2026-10-27",
-        "text": "The Netherlands has officially pulled out of the Eurovision Song Contest due to 'sensitivities' surrounding Israel's involvement.",
-        "link": "https://www.thehindu.com/news/international/netherlands-withdraws-from-eurovision-2027-amid-sensitivities-over-israels-participation-given-its-military-campaign-in-gaza/article71631050.ece",
+        "date": "2026-10-28",
+        "text": "Allies within the opposition are currently split on whether to partner with Arab parties to reach a parliamentary majority.",
+        "link": "https://www.thehindu.com/news/international/israel-polls-golan-urges-eisenkots-bloc-to-form-government-with-arab-parties-to-oust-netanyahu/article71635413.ece",
         "source": "World News: Latest International News & "
        },
        {
-        "date": "2026-10-27",
-        "text": "The Dutch broadcaster reversed an earlier decision to participate, confirming their complete withdrawal from the event.",
-        "link": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-28",
+        "text": "Recent projections confirm that both major factions lack enough seats to govern without reaching difficult compromises.",
+        "link": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
        }
       ]
      }
     },
     {
-     "id": "00e553ccccd5",
-     "title": "Netherlands pulls out of Eurovision again over Israel participation",
-     "link": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
+     "id": "17a619a04e84",
+     "title": "Burnham’s government unveils its first UK budget: What to expect",
+     "link": "https://www.aljazeera.com/news/2026/10/28/burnhams-government-unveils-its-first-uk-budget-what-to-expect?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-10-28T10:42:52+00:00",
+     "summary": "The new UK government, led by Prime Minister Burnham, is preparing to present its first budget to address the ongoing cost-of-living crisis and rising energy expenses.",
+     "explain": "A government budget is an annual plan outlining how the state will collect revenue (primarily through taxes) and allocate spending on services like healthcare, infrastructure, and defense. It is a critical political tool that signals the administration's priorities and attempts to address macroeconomic challenges like inflation, which is the general increase in prices over time.",
+     "related": [],
+     "story": {
+      "id": "world-uk-government-budget-presentation",
+      "title": "UK Government Budget Presentation",
+      "so_far": "The UK has faced significant economic headwinds characterized by high inflation and increased household energy costs. Following a change in government leadership, the new administration is under pressure to deliver policy measures that stimulate growth while managing public debt and supporting struggling citizens.",
+      "timeline": [
+       {
+        "date": "2026-10-28",
+        "text": "The Chancellor is set to unveil the administration's debut autumn budget aimed at stabilizing the economy.",
+        "link": "https://www.aljazeera.com/news/2026/10/28/burnhams-government-unveils-its-first-uk-budget-what-to-expect?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "50a7b1805e54",
+     "title": "Israeli forces continue West Bank raids as Hebron lockdown enters sixth day",
+     "link": "https://www.aljazeera.com/news/2026/10/28/israeli-forces-continue-west-bank-raids-as-hebron-lockdown-enters-sixth-day?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-10-28T10:41:07+00:00",
+     "summary": "Israeli military operations in the West Bank continue, with the city of Hebron entering its sixth day under lockdown.",
+     "explain": "The West Bank is a territory under Israeli military occupation where Palestinian communities live. A 'lockdown' involves the restriction of movement in and out of an area, often implemented by security forces for safety or control purposes. These actions are frequent points of international tension between Israel and organizations monitoring human rights.",
+     "related": [
+      {
+       "date": "2026-10-25",
+       "title": "Israeli forces turn Hebron homes into military posts amid lockdown",
+       "link": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss",
+       "source": "Al Jazeera – Breaking News, World News a"
+      }
+     ],
+     "story": {
+      "id": "world-israeli-palestinian-west-bank-tensions",
+      "title": "Israeli-Palestinian West Bank Tensions",
+      "so_far": "The West Bank has experienced a surge in violence and military activity, with regular raids by Israeli security forces. These operations often lead to restrictions on movement, such as lockdowns, which significantly disrupt the lives of Palestinian residents and draw concern from international humanitarian organizations.",
+      "timeline": [
+       {
+        "date": "2026-10-28",
+        "text": "The UN has raised alarms regarding the humanitarian situation in Hebron as military raids persist.",
+        "link": "https://www.aljazeera.com/news/2026/10/28/israeli-forces-continue-west-bank-raids-as-hebron-lockdown-enters-sixth-day?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "a93954f2dff8",
+     "title": "‘Russia is already part of who I am’: African students in Moscow",
+     "link": "https://www.aljazeera.com/news/2026/10/28/russia-is-already-part-of-who-i-am-african-students-in-moscow?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-10-28T10:40:52+00:00",
+     "summary": "A Russia-Africa summit is underway, focusing on strengthening educational and diplomatic ties as African students share experiences of living in Moscow.",
+     "explain": "Diplomatic summits are formal meetings between world leaders to discuss trade, security, and cooperation. Russia's focus on education for African students is a 'soft power' strategy, which uses cultural and academic influence to build favorable relations and long-term political alliances with developing nations.",
+     "related": [],
+     "story": {
+      "id": "world-russia-africa-diplomatic-summit",
+      "title": "Russia-Africa Diplomatic Summit",
+      "so_far": "Russia has been actively seeking to broaden its influence in Africa, offering scholarships, security cooperation, and economic partnership as alternatives to Western alliances. This outreach aims to solidify Russia's diplomatic standing on the continent despite international isolation elsewhere.",
+      "timeline": [
+       {
+        "date": "2026-10-28",
+        "text": "The summit highlights the role of student exchange programs in fostering long-term cooperation between Russia and African nations.",
+        "link": "https://www.aljazeera.com/news/2026/10/28/russia-is-already-part-of-who-i-am-african-students-in-moscow?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "3f24b3a9822f",
+     "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
+     "link": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-10-27T11:23:19+00:00",
-     "summary": "The Dutch broadcaster has withdrawn from the Eurovision Song Contest, citing concerns over Israel’s participation due to its military campaign in Gaza.",
-     "explain": "This demonstrates how international conflict can bleed into non-political spheres like cultural and entertainment competitions. When countries feel strongly about human rights or regional conflicts, they often use their membership in international organizations or participation in global events as leverage or as a means of public protest.",
+     "published": "2026-10-28T10:35:13+00:00",
+     "summary": "Both Netanyahu and Eisenkot are struggling to form a government as election results show neither has a definitive majority.",
+     "explain": "When no single party or pre-arranged bloc wins more than 60 of the 120 seats in the Israeli parliament, a 'hung parliament' occurs. Leaders must engage in intense coalition talks. If they fail to build a majority, the country risks further political instability or even a return to the polls for another election.",
      "related": [],
      "story": {
-      "id": "world-eurovision-israel-participation-boycotts",
-      "title": "Eurovision Israel Participation Boycotts",
-      "so_far": "Eurovision is a major annual international song competition that frequently serves as a platform for European cultural identity. Israel’s participation has become a focal point of protest for nations critical of the country's ongoing military actions in the Gaza Strip, leading to several countries boycotting or threatening to boycott the event in recent cycles.",
+      "id": "world-israeli-government-formation-standoff",
+      "title": "Israeli Government Formation Standoff",
+      "so_far": "Following recent elections, neither Prime Minister Benjamin Netanyahu's faction nor the opposition bloc led by Gadi Eisenkot has secured a clear majority of seats in the Knesset. Both sides face a difficult path to power, as relying on smaller, ideologically divergent parties—particularly those representing Arab citizens—remains a highly contentious issue in Israeli politics.",
       "timeline": [
        {
-        "date": "2026-10-27",
-        "text": "The Netherlands has officially pulled out of the Eurovision Song Contest due to 'sensitivities' surrounding Israel's involvement.",
-        "link": "https://www.thehindu.com/news/international/netherlands-withdraws-from-eurovision-2027-amid-sensitivities-over-israels-participation-given-its-military-campaign-in-gaza/article71631050.ece",
+        "date": "2026-10-28",
+        "text": "Allies within the opposition are currently split on whether to partner with Arab parties to reach a parliamentary majority.",
+        "link": "https://www.thehindu.com/news/international/israel-polls-golan-urges-eisenkots-bloc-to-form-government-with-arab-parties-to-oust-netanyahu/article71635413.ece",
         "source": "World News: Latest International News & "
        },
        {
-        "date": "2026-10-27",
-        "text": "The Dutch broadcaster reversed an earlier decision to participate, confirming their complete withdrawal from the event.",
-        "link": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-28",
+        "text": "Recent projections confirm that both major factions lack enough seats to govern without reaching difficult compromises.",
+        "link": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
        }
       ]
      }
     },
     {
-     "id": "7c64783bc779",
-     "title": "Flavio Bolsonaro reaches U.S., say reports citing sources",
-     "link": "https://www.thehindu.com/news/international/brazils-flavio-bolsonaro-flees-to-us-after-election-loss/article71634146.ece",
+     "id": "b8c4b3b571c2",
+     "title": "US midterms: Six days left – who leads in the polls as Trump, Obama rally",
+     "link": "https://www.aljazeera.com/news/2026/10/28/us-midterms-six-days-left-who-leads-in-the-polls-as-trump-obama-rally?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-10-28T10:31:37+00:00",
+     "summary": "With six days left until the U.S. midterm elections, Democrats hold a slim lead in national polls as both parties intensify their final campaign rallies.",
+     "explain": "Midterm elections in the U.S. happen halfway through a president's term. Voters elect all members of the House of Representatives and one-third of the Senate. These elections act as a referendum on the sitting president's party, often resulting in voters choosing the opposition to provide 'checks and balances' to the current administration.",
+     "related": [],
+     "story": {
+      "id": "world-u-s-midterm-election-outlook",
+      "title": "U.S. Midterm Election Outlook",
+      "so_far": "U.S. midterm elections occur halfway through a president's four-year term and often serve as a referendum on the incumbent's performance. The party in power typically faces significant losses in these cycles.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "Approval ratings have hit historic lows, raising concerns about the impact on the upcoming midterm races.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/trumps-approval-ratings-plummet-what-that-means-for-the-us-midterms?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-25",
+        "text": "Obama has entered the campaign trail to frame the midterm elections as a referendum on the current administration's economic policies.",
+        "link": "https://www.thehindu.com/news/international/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats/article71622458.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-10-25",
+        "text": "Obama has broadened his critique of the opposition to include specific foreign policy decisions regarding Middle Eastern conflicts.",
+        "link": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "Polls show Democrats maintaining a slight advantage as high-profile figures like Trump and Obama campaign in battleground states.",
+        "link": "https://www.aljazeera.com/news/2026/10/28/us-midterms-six-days-left-who-leads-in-the-polls-as-trump-obama-rally?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "80819365fc82",
+     "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+     "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-10-28T10:31:22+00:00",
+     "summary": "The Villa Vie Odyssey cruise ship has suspended its global voyage, leaving passengers stranded in Cambodia due to rising fuel costs.",
+     "explain": "A cruise company's business model relies on fixed ticket prices versus variable operating costs like fuel. When fuel costs rise significantly, companies may struggle to cover expenses, leading to service cancellations. In this context, passengers are left without their planned itinerary, necessitating emergency arrangements for their stay in a foreign country.",
+     "related": [],
+     "story": {
+      "id": "world-luxury-cruise-ship-stranded",
+      "title": "Luxury Cruise Ship Stranded",
+      "so_far": "The cruise industry is currently navigating volatile economic conditions, including fluctuating fuel prices and operational hurdles. Instances of 'stranded' passengers are rare, but highlight the logistical risks associated with long-duration global maritime travel.",
+      "timeline": [
+       {
+        "date": "2026-10-28",
+        "text": "Operators are currently negotiating living arrangements for passengers after the voyage was halted indefinitely.",
+        "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "52002fe93147",
+     "title": "At least 10 dead in crash between two trains in Spain’s Toledo province",
+     "link": "https://www.thehindu.com/news/international/several-people-dead-in-crash-between-2-spanish-trains-in-toledo-province/article71635210.ece",
      "source": "World News: Latest International News & ",
-     "published": "2026-10-28T02:05:52+00:00",
-     "summary": "Reports confirm that Flavio Bolsonaro has arrived in the U.S. as of October 27.",
-     "explain": "The physical movement of a figure involved in a high-profile criminal investigation across international borders complicates potential extradition efforts. Extradition is the formal process where one state surrenders an individual to another state for prosecution or punishment for crimes committed in the requesting country's jurisdiction.",
+     "published": "2026-10-28T10:20:53+00:00",
+     "summary": "A collision between two high-speed trains in Spain's Toledo province has left at least 10 people dead.",
+     "explain": "High-speed rail systems prioritize efficiency and speed, often relying on automated safety and signaling systems to maintain distance between trains. A collision involving a train hitting the rear of another indicates a potential failure in these systems or manual operational error, which will be the focus of the subsequent safety investigation.",
      "related": [],
      "story": {
-      "id": "world-flavio-bolsonaro-s-departure-to-u-s",
-      "title": "Flavio Bolsonaro's Departure to U.S.",
-      "so_far": "Flavio Bolsonaro, son of former President Jair Bolsonaro, has faced significant legal scrutiny in Brazil following an election defeat. The Brazilian Supreme Court recently initiated a money-laundering investigation against him, which included a requirement to surrender his passports. The U.S. administration has signaled it would grant him a visa, drawing on historical alignment with his father's political camp.",
+      "id": "world-spanish-train-collision",
+      "title": "Spanish Train Collision",
+      "so_far": "Spain operates a sophisticated high-speed rail network, and while incidents are extremely rare, the high velocity of these trains makes accidents particularly catastrophic. Officials are expected to launch a formal investigation into signaling or operational failures.",
       "timeline": [
        {
-        "date": "2026-10-27",
-        "text": "Flavio Bolsonaro has reportedly arrived in the U.S. after a Brazilian court ordered him to surrender his passports amidst an ongoing money-laundering probe.",
-        "link": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-10-27",
-        "text": "U.S. officials have alleged that Bolsonaro is a victim of political persecution, framing the legal actions against him as judicial overreach.",
-        "link": "https://www.thehindu.com/news/international/brazilsflavio-bolsonaro-headed-to-us-after-losing-election-sources-say/article71633165.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
         "date": "2026-10-28",
-        "text": "Unnamed sources confirm Flavio Bolsonaro has successfully reached the U.S.",
-        "link": "https://www.thehindu.com/news/international/brazils-flavio-bolsonaro-flees-to-us-after-election-loss/article71634146.ece",
+        "text": "Emergency services are responding to the crash, which occurred when one train struck the rear of another traveling in the same direction.",
+        "link": "https://www.thehindu.com/news/international/several-people-dead-in-crash-between-2-spanish-trains-in-toledo-province/article71635210.ece",
         "source": "World News: Latest International News & "
        }
       ]
      }
     },
     {
-     "id": "d020f7f83fd3",
-     "title": "Arab parties projected to win 18 seats in Israel parliamentary election",
-     "link": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
+     "id": "72645d67e3be",
+     "title": "Hormuz oil spill forces closure of UAE beaches",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/hormuz-oil-spill-forces-closure-of-uae-beaches?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-28T00:43:56+00:00",
-     "summary": "Early projections suggest a strong performance by Arab parties in the latest Israeli parliamentary elections, driven by record voter turnout.",
-     "explain": "A parliamentary seat represents a representative's place in the legislative body. By winning 18 seats, these parties gain a significant 'blocking' or 'kingmaker' role, meaning their support could be essential for any candidate attempting to form a stable government coalition. High turnout reflects increased political mobilization within the Arab community.",
+     "published": "2026-10-28T10:02:32+00:00",
+     "summary": "Beaches in the UAE have been closed following an oil spill caused by a damaged tanker in the Strait of Hormuz.",
+     "explain": "The Strait of Hormuz is a narrow waterway between Oman and Iran, serving as the only sea passage from the Persian Gulf to the open ocean. It is one of the world's most important 'chokepoints' for oil transit. An oil spill here causes significant environmental damage to local coastlines and potential disruption to international energy markets.",
      "related": [],
      "story": {
-      "id": "world-israeli-parliamentary-election",
-      "title": "Israeli Parliamentary Election",
-      "so_far": "Israeli politics is often characterized by fragmented coalitions and tight margins in the Knesset (parliament). Voter turnout among Palestinian citizens of Israel, who make up a significant minority, historically influences the balance of power, often determining whether a right-wing or center-left bloc can form a governing majority.",
+      "id": "world-u-s-iran-diplomatic-standoff",
+      "title": "U.S.-Iran Diplomatic Standoff",
+      "so_far": "The Strait of Hormuz is a vital global shipping lane for oil. Tensions in this region are frequently exacerbated by the standoff between the U.S. and Iran, with incidents involving tankers sometimes serving as flashpoints for wider regional conflict.",
       "timeline": [
        {
-        "date": "2026-10-28",
-        "text": "Arab parties are projected to secure 18 seats in parliament following an 80 percent turnout rate among Palestinian citizens of Israel.",
-        "link": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
+        "date": "2026-10-21",
+        "text": "Senator Marco Rubio stated that ongoing attacks in the Strait of Hormuz make formal peace talks extremely difficult.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "International leaders are pushing to stabilize the Strait of Hormuz and pressure for a Gaza ceasefire.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-25",
+        "text": "Iran's Foreign Minister demanded the total removal of foreign forces from the region to ensure stability.",
+        "link": "https://www.thehindu.com/news/international/iran-says-resumption-of-war-would-not-change-its-stances/article71622921.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-10-25",
+        "text": "Trump mocked media questions regarding future strikes while Iran accused the U.S. of derailing regional diplomatic efforts.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-27",
+        "text": "Tehran hosted regional powers to discuss stopping escalation, but Iranian officials publicly expressed doubt about the U.S. administration's commitment to the process.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iran-says-us-not-serious-about-talks-amid-tehran-meeting?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
        },
        {
         "date": "2026-10-28",
-        "text": "Opposition leaders have challenged the government's interpretation of early exit poll data, claiming the election result constitutes a defeat for the incumbent leadership.",
-        "link": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
-    },
-    {
-     "id": "1aa66fdd9e90",
-     "title": "Netanyahu, Eisenkot camps clash over Israeli election projections",
-     "link": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-28T00:43:02+00:00",
-     "summary": "Political camps led by Netanyahu and Eisenkot are disputing election exit polls as counting continues.",
-     "explain": "Exit polls are surveys conducted with voters immediately after they leave polling stations to estimate election results before the official count is finished. Disputing these numbers is a common political tactic used to set the narrative before final outcomes are known. In Israel's coalition-based system, these small discrepancies in seat counts can mean the difference between remaining in power and being forced into the opposition.",
-     "related": [],
-     "story": {
-      "id": "world-israeli-parliamentary-election",
-      "title": "Israeli Parliamentary Election",
-      "so_far": "Israeli politics is often characterized by fragmented coalitions and tight margins in the Knesset (parliament). Voter turnout among Palestinian citizens of Israel, who make up a significant minority, historically influences the balance of power, often determining whether a right-wing or center-left bloc can form a governing majority.",
-      "timeline": [
-       {
-        "date": "2026-10-28",
-        "text": "Arab parties are projected to secure 18 seats in parliament following an 80 percent turnout rate among Palestinian citizens of Israel.",
-        "link": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-10-28",
-        "text": "Opposition leaders have challenged the government's interpretation of early exit poll data, claiming the election result constitutes a defeat for the incumbent leadership.",
-        "link": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
+        "text": "An oil spill in the strategically sensitive Strait of Hormuz has forced local environmental authorities to shut down UAE coastal areas.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/hormuz-oil-spill-forces-closure-of-uae-beaches?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
        }
       ]
@@ -1641,76 +1578,18 @@
    "label": "Business & Finance",
    "articles": [
     {
-     "id": "2c084aea2ad6",
-     "title": "TVS family feud: Venu Srinivasan, son and wife along with daughter file caveats",
-     "link": "https://www.livemint.com/companies/people/tvs-family-feud-venu-srinivasan-son-and-wife-along-with-daughter-file-caveats-11793105246980.html",
-     "source": "mint - companies",
-     "published": "2026-10-28T00:10:12+00:00",
-     "summary": "Members of the TVS family, including Venu Srinivasan, have filed multiple caveats in Chennai courts regarding internal family disputes.",
-     "explain": "A caveat is a formal legal notice filed with a court to prevent an adverse ruling without prior notification to the person filing the document. In this context, it signals that members of the influential TVS family are bracing for legal conflict over estate or business control. This matters as it may affect the governance and stability of the TVS automotive empire.",
-     "related": [],
-     "story": {
-      "id": "business-tvs-family-legal-dispute",
-      "title": "TVS Family Legal Dispute",
-      "so_far": "The TVS group is one of India's oldest and most prominent business conglomerates. Recently, internal tensions within the founding family have surfaced, leading to legal filings to manage potential litigation. A caveat is a legal notice filed in court to ensure that no order is passed against the filer without them being given a chance to be heard.",
-      "timeline": [
-       {
-        "date": "2026-10-27",
-        "text": "Despite the formal legal filings, family members continue to publicly express a desire for an amicable settlement to resolve their differences.",
-        "link": "https://www.thehindubusinessline.com/companies/venu-srinivasan-family-members-file-cross-caveats/article71632027.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-28",
-        "text": "Family members have filed eight caveats across two Chennai courts to preemptively protect their interests amidst ongoing internal disputes.",
-        "link": "https://www.livemint.com/companies/people/tvs-family-feud-venu-srinivasan-son-and-wife-along-with-daughter-file-caveats-11793105246980.html",
-        "source": "mint - companies"
-       }
-      ]
-     }
-    },
-    {
-     "id": "b7d83174c4d0",
-     "title": "Venu Srinivasan family members file cross-caveats",
-     "link": "https://www.thehindubusinessline.com/companies/venu-srinivasan-family-members-file-cross-caveats/article71632027.ece",
+     "id": "878b4612ebf9",
+     "title": "Sensex today | Stock Market Highlights: Sensex declines 353 points dragged by Reliance, IT stocks, rising crude oil prices",
+     "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-28-october-2026/article71631075.ece",
      "source": "Business News Today: Latest Business New",
-     "published": "2026-10-27T16:18:58+00:00",
-     "summary": "TVS family members are utilizing cross-caveats while publicly maintaining that efforts toward an amicable settlement remain active.",
-     "explain": "Cross-caveats indicate that multiple parties in the TVS family have filed notices against each other to ensure they are represented in any upcoming court hearings. Despite this legal posturing, the parties involved are simultaneously stating that they prefer an out-of-court agreement, reflecting a high-stakes strategy to resolve family affairs privately.",
-     "related": [],
-     "story": {
-      "id": "business-tvs-family-legal-dispute",
-      "title": "TVS Family Legal Dispute",
-      "so_far": "The TVS group is one of India's oldest and most prominent business conglomerates. Recently, internal tensions within the founding family have surfaced, leading to legal filings to manage potential litigation. A caveat is a legal notice filed in court to ensure that no order is passed against the filer without them being given a chance to be heard.",
-      "timeline": [
-       {
-        "date": "2026-10-27",
-        "text": "Despite the formal legal filings, family members continue to publicly express a desire for an amicable settlement to resolve their differences.",
-        "link": "https://www.thehindubusinessline.com/companies/venu-srinivasan-family-members-file-cross-caveats/article71632027.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-28",
-        "text": "Family members have filed eight caveats across two Chennai courts to preemptively protect their interests amidst ongoing internal disputes.",
-        "link": "https://www.livemint.com/companies/people/tvs-family-feud-venu-srinivasan-son-and-wife-along-with-daughter-file-caveats-11793105246980.html",
-        "source": "mint - companies"
-       }
-      ]
-     }
-    },
-    {
-     "id": "57680eeb0400",
-     "title": "Sensex today | Stock Market Live: Stocks to watch, Oct 28: Infy, Midhani, Choice Intl, Kothari Industrial, Subros, Gulf Oil, Exide, Steamhouse",
-     "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-28-october-2026/article71631075.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-10-28T02:00:41+00:00",
-     "summary": "Indian stock markets remained flat overall, while Infosys shares fell following a reduced revenue outlook for the 2027 fiscal year.",
-     "explain": "The Sensex is a benchmark index representing the 30 largest and most actively traded stocks in India. When a major company like Infosys cuts its revenue outlook, it signals potential weakness in the IT sector, causing investors to sell. Smallcaps are smaller companies that often move differently than these large-cap market leaders.",
+     "published": "2026-10-28T10:59:46+00:00",
+     "summary": "The Sensex and Nifty indices fell due to weak performance in IT stocks, Reliance Industries, and rising global oil prices. Investor caution is high ahead of upcoming US Federal Reserve policy announcements.",
+     "explain": "The Sensex and Nifty are indexes that track the performance of major companies on Indian stock exchanges. When these go down, it generally means investors are worried about the future profitability of large businesses. Factors like rising oil prices often hurt Indian markets because India imports much of its oil, which impacts inflation and currency value.",
      "related": [
       {
-       "date": "2026-10-21",
-       "title": "Sensex today | Stock Market Live: Stock to buy today: South Indian Bank (54.31) – BUY",
-       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-21st-october-2026/article71604730.ece",
+       "date": "2026-10-22",
+       "title": "Sensex today | Stock Market Highlights: Sensex sheds 460 pts, Nifty falls 123 pts for 3rd straight session",
+       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-22nd-october-2026/article71608127.ece",
        "source": "Business News Today: Latest Business New"
       },
       {
@@ -1720,68 +1599,227 @@
        "source": "Business News Today: Latest Business New"
       },
       {
-       "date": "2026-10-26",
-       "title": "Sensex today | Stock Market Live: Stocks to watch, Oct 26: Raymond, RailTel, KEC Intl, Honasa, BL Kashyap, Lupin, Orchid Pharma, Gland Pharma",
-       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-26-october-2026/article71622964.ece",
+       "date": "2026-10-23",
+       "title": "Sensex today | Stock Market Highlights: Sensex, Nifty extend losses as crude surges to $114, all sectors close in red",
+       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-23rd-october-2026/article71611889.ece",
        "source": "Business News Today: Latest Business New"
       }
      ],
      "story": {
-      "id": "business-indian-stock-market-trends",
-      "title": "Indian Stock Market Trends",
-      "so_far": "The Indian equity market is monitored through indices like the Sensex and Nifty, which track the performance of the largest companies listed on the exchange. Investors typically adjust their portfolios based on corporate earnings reports, economic forecasts, and broader market sentiment.",
+      "id": "business-indian-stock-market-volatility",
+      "title": "Indian Stock Market Volatility",
+      "so_far": "The Indian stock market, represented by indices like the BSE Sensex and NSE Nifty, is sensitive to both domestic corporate earnings and international economic factors. Recent market sentiment has been shaped by fluctuations in oil prices and central bank policies in the US, which influence foreign investment flows into India.",
       "timeline": [
        {
+        "date": "2026-10-23",
+        "text": "The stock market extended losses as global crude oil prices surged to $114 per barrel.",
+        "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-23rd-october-2026/article71611889.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
         "date": "2026-10-28",
-        "text": "Infosys shares dropped 1.4% after the company lowered its fiscal year 2027 revenue outlook, contrasting with a broader surge in smallcap stocks.",
-        "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-28-october-2026/article71631075.ece",
+        "text": "Benchmark indices declined on October 28, 2026, due to sector-specific pressure and global macroeconomic uncertainty.",
+        "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-28-october-2026/article71631075.ece",
         "source": "Business News Today: Latest Business New"
        }
       ]
      }
     },
     {
-     "id": "1b7b5091d63f",
-     "title": "Ashes, India series result in record revenue, net surplus for Cricket Australia",
-     "link": "https://www.livemint.com/companies/ashes-india-series-result-in-record-revenue-net-surplus-for-cricket-australia-11793152578596.html",
-     "source": "mint - companies",
-     "published": "2026-10-28T01:56:18+00:00",
-     "summary": "Cricket Australia reported record revenue and net surplus, largely attributed to the popularity of the Ashes and the recent India cricket series.",
-     "explain": "The Ashes is a historic, highly-followed Test cricket series between England and Australia. Bilateral series against India are also among the most lucrative events in cricket due to massive viewership. Record profits show the strong commercial impact of global interest in these specific rivalries.",
-     "related": [],
+     "id": "90652572cc5d",
+     "title": "JSW Energy Q2 net profit rises 50% to ₹1,056 cr",
+     "link": "https://www.thehindubusinessline.com/companies/jsw-energy-q2-net-profit-rises-50-to-1056-cr/article71635439.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-28T10:55:12+00:00",
+     "summary": "JSW Energy reported a 50% increase in net profit for the second quarter, reaching ₹1,056 crore. Revenue grew 23% year-on-year, bolstered significantly by strong performance in its thermal power business.",
+     "explain": "A 'quarterly report' (Q2) tracks how much money a company made or lost over a three-month period. A 50% increase in net profit indicates the company kept significantly more money after paying its expenses compared to the same time last year. Thermal energy refers to power generated using heat, typically from coal or gas.",
+     "related": [
+      {
+       "date": "2026-10-22",
+       "title": "J&K Bank Q2 net profit rises 10.6% to ₹546 crore",
+       "link": "https://www.thehindubusinessline.com/money-and-banking/jk-bank-q2-net-profit-rises-106-to-54636-crore/article71610970.ece",
+       "source": "Business News Today: Latest Business New"
+      }
+     ],
      "story": {
-      "id": "business-cricket-australia-financial-performance",
-      "title": "Cricket Australia Financial Performance",
-      "so_far": "Cricket Australia is the governing body for professional cricket in Australia. It relies heavily on international bilateral series against major cricket-playing nations to generate television rights, sponsorship revenue, and gate receipts.",
+      "id": "business-jsw-energy-q2-financial-performance",
+      "title": "JSW Energy Q2 Financial Performance",
+      "so_far": "JSW Energy is a major player in the Indian power sector, managing both traditional thermal energy and renewable energy assets. The company's financial health is closely watched as India expands its energy infrastructure to meet rising domestic demand.",
       "timeline": [
        {
         "date": "2026-10-28",
-        "text": "Record financial results were driven by high viewer interest and ticket sales during the Ashes and the India series.",
-        "link": "https://www.livemint.com/companies/ashes-india-series-result-in-record-revenue-net-surplus-for-cricket-australia-11793152578596.html",
+        "text": "The company announced strong Q2 FY27 results, showing significant growth in both profit and revenue.",
+        "link": "https://www.thehindubusinessline.com/companies/jsw-energy-q2-net-profit-rises-50-to-1056-cr/article71635439.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "e16a1f3ce09e",
+     "title": "L&T targets ₹15 lakh crore order book by FY31 as overseas business expands",
+     "link": "https://www.thehindubusinessline.com/companies/lt-targets-15-lakh-crore-order-book-by-fy31-as-overseas-business-expands/article71635420.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-28T10:53:57+00:00",
+     "summary": "Larsen & Toubro (L&T) aims for an order book value of ₹15 lakh crore by fiscal year 2031. The company intends to leverage its growing international presence in infrastructure and energy sectors to meet this target.",
+     "explain": "An 'order book' is the total value of all signed contracts that a company has yet to complete. Targeting ₹15 lakh crore suggests L&T expects a massive increase in demand for its construction and engineering services. Setting such long-term goals is standard for infrastructure firms to show stability to their shareholders.",
+     "related": [],
+     "story": {
+      "id": "business-larsen-toubro-strategic-growth",
+      "title": "Larsen & Toubro Strategic Growth",
+      "so_far": "Larsen & Toubro is a conglomerate involved in major engineering, construction, and technology projects worldwide. As a bellwether for India’s infrastructure sector, its project backlog is often seen as a barometer for broader economic construction activity.",
+      "timeline": [
+       {
+        "date": "2026-10-28",
+        "text": "L&T has set an ambitious five-year order book target driven by global expansion.",
+        "link": "https://www.thehindubusinessline.com/companies/lt-targets-15-lakh-crore-order-book-by-fy31-as-overseas-business-expands/article71635420.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "9ea31a00e6ae",
+     "title": "Rupee falls 21 paise to close at 95.28 against US dollar",
+     "link": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-21-paise-to-close-at-9528-against-us-dollar/article71635467.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-28T10:52:27+00:00",
+     "summary": "The Indian Rupee fell 21 paise against the US dollar, closing at 95.28. The decline is attributed to market pressure and the impact of rising global oil prices.",
+     "explain": "The rupee's value fluctuates based on the supply and demand for foreign currencies like the US dollar. When the rupee 'falls' (depreciates), it means it takes more rupees to buy one dollar, which makes imports like fuel more expensive for the Indian economy.",
+     "related": [
+      {
+       "date": "2026-10-26",
+       "title": "Rupee falls 29 paise to close at 95.22 against US dollar",
+       "link": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-29-paise-to-close-at-9522-against-us-dollar/article71626575.ece",
+       "source": "Business News Today: Latest Business New"
+      }
+     ],
+     "story": {
+      "id": "business-imf-advice-on-rupee-stability",
+      "title": "IMF Advice on Rupee Stability",
+      "so_far": "India is one of the world's largest importers of crude oil, meaning fluctuations in global oil prices significantly impact the nation's trade balance and the value of the Indian Rupee. The RBI often intervenes to prevent extreme volatility in the currency markets.",
+      "timeline": [
+       {
+        "date": "2026-10-21",
+        "text": "The IMF recommended that the RBI prioritize currency flexibility over market intervention during oil-related economic stress.",
+        "link": "https://www.thehindubusinessline.com/economy/imf-advises-india-to-let-rupee-move-as-first-defence-amid-oil-shock/article71607130.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "The rupee depreciated further as global economic pressures persisted.",
+        "link": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-21-paise-to-close-at-9528-against-us-dollar/article71635467.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "d57d18edd220",
+     "title": "Viksit Gram Swaraj Yojana gets ₹7,395 crore to strengthen panchayats",
+     "link": "https://www.thehindubusinessline.com/economy/policy/viksit-gram-swaraj-yojana-gets-7395-crore-to-strengthen-panchayats/article71635386.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-28T10:48:17+00:00",
+     "summary": "The government allocated ₹7,395 crore to the Viksit Gram Swaraj Yojana. The program is designed to decentralize development planning, allowing local village governments (panchayats) to manage their own resources and priorities.",
+     "explain": "A 'Yojana' is a government scheme or program. 'Panchayats' are local governing bodies at the village level in India. This initiative aims to give these local authorities more control over how development money is spent, rather than having decisions made entirely by the central or state government.",
+     "related": [],
+     "story": {
+      "id": "business-viksit-gram-swaraj-yojana-funding",
+      "title": "Viksit Gram Swaraj Yojana Funding",
+      "so_far": "India’s panchayati raj system is the foundation of local rural governance. Periodic financial support from the central government is essential to bridge infrastructure gaps and improve service delivery in remote areas.",
+      "timeline": [
+       {
+        "date": "2026-10-28",
+        "text": "The government launched a major funding initiative to empower rural local governance.",
+        "link": "https://www.thehindubusinessline.com/economy/policy/viksit-gram-swaraj-yojana-gets-7395-crore-to-strengthen-panchayats/article71635386.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "465fae26bd7b",
+     "title": "Q2 Results Today Live: Adani Enterprises & Hyundai Q2 profit down, Adani Ports Q2 con. profit rise, Bandhan Bank, TVS Motor, HUL, JSW Energy, PVR Inox, KPIT Tech, Arvind Q2 profit rise, Vedanta Q2 loss at ₹170 cr, Pidilite, Hero MotoCorp, Meesho, United Spirits to announce Q2 results",
+     "link": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-adani-enterprises-adani-ports-tvs-motor-hyundai-pidilite-cholamandalam-hero-motocorp-meesho-united-spirits-vedanta-jsw-energy-results-28-october-2026/article71630853.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-28T10:46:24+00:00",
+     "summary": "Multiple major Indian companies, including Adani Enterprises, Hyundai, and Vedanta, released their second-quarter (Q2) results on October 28, 2026, showing mixed financial outcomes across sectors.",
+     "explain": "Corporate earnings are the 'report cards' of businesses. Investors analyze them to see if a company is growing or struggling. If a company reports lower profits than analysts expected, its stock price often drops, even if the company is still making money.",
+     "related": [],
+     "story": {
+      "id": "business-q2-corporate-earnings-season",
+      "title": "Q2 Corporate Earnings Season",
+      "so_far": "Earnings season is the period when public companies report their financial performance to the stock exchanges. These reports include revenue, net profit, and future guidance, which heavily influence stock price movements.",
+      "timeline": [
+       {
+        "date": "2026-10-23",
+        "text": "Several companies reported varied results, ranging from profit growth for JSW Steel to losses for Shree Digvijay Cement.",
+        "link": "https://www.thehindubusinessline.com/companies/q2-results-today-live-updates-infosys-adani-power-jsw-steel-tata-motors-shiram-fin-torrent-pharma-cg-power-bpcl-dr-reddys-lab-company-results-23-october-2026/article71611542.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "A wave of major Q2 earnings reports was released, highlighting varying profitability levels across Indian industry.",
+        "link": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-adani-enterprises-adani-ports-tvs-motor-hyundai-pidilite-cholamandalam-hero-motocorp-meesho-united-spirits-vedanta-jsw-energy-results-28-october-2026/article71630853.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "053a270d0a73",
+     "title": "Who is Sanjeev Bikhchandani? Meet the entrepreneur taking charge of Info Edge after 27 years",
+     "link": "https://www.livemint.com/companies/people/who-is-sanjeev-bikhchandani-meet-the-entrepreneur-taking-charge-of-info-edge-after-27-years-11793183104204.html",
+     "source": "mint - companies",
+     "published": "2026-10-28T10:39:51+00:00",
+     "summary": "Sanjeev Bikhchandani will become the Executive Vice Chairman and CEO of Info Edge starting December 3, 2026. He replaces Hitesh Oberoi, who is stepping down from his operational role after 27 years.",
+     "explain": "A CEO (Chief Executive Officer) is the highest-ranking person in a company, responsible for making major corporate decisions. When a founder or long-tenured leader like Hitesh Oberoi steps down, it is a major event that can signal a shift in the company's future strategy.",
+     "related": [],
+     "story": {
+      "id": "business-leadership-transition-at-info-edge",
+      "title": "Leadership Transition at Info Edge",
+      "so_far": "Info Edge is a prominent Indian internet company that owns platforms such as Naukri.com. The company has played a key role in the development of India's startup ecosystem as both a business entity and an investor.",
+      "timeline": [
+       {
+        "date": "2026-10-28",
+        "text": "Info Edge announced a major leadership change, marking the first transition in 27 years.",
+        "link": "https://www.livemint.com/companies/people/who-is-sanjeev-bikhchandani-meet-the-entrepreneur-taking-charge-of-info-edge-after-27-years-11793183104204.html",
         "source": "mint - companies"
        }
       ]
      }
     },
     {
-     "id": "4c2796292bae",
-     "title": "Top tech and startup stories to start your day with",
-     "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/cognizant-eyes-sarvam-stake-ather-aims-for-higher-market-share/articleshow/135249122.cms",
-     "source": "Economic Times",
-     "published": "2026-10-28T01:55:17+00:00",
-     "summary": "",
-     "explain": null,
+     "id": "5a2ec0491b11",
+     "title": "SEBI reviews FPI compliance norms, plans consultation paper on global alignment",
+     "link": "https://www.thehindubusinessline.com/markets/sebi-reviews-fpi-compliance-norms-plans-consultation-paper-on-global-alignment/article71635391.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-28T10:39:15+00:00",
+     "summary": "SEBI is reviewing its compliance norms for Foreign Portfolio Investors (FPIs). The goal is to align Indian standards with global practices to attract more foreign investment.",
+     "explain": "Compliance norms are the rules and regulations that investors must follow to operate in a market. By simplifying these rules, SEBI aims to make it easier for international money to enter India, which helps increase liquidity and growth in the stock market.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "business-sebi-reviewing-fpi-compliance",
+      "title": "SEBI Reviewing FPI Compliance",
+      "so_far": "SEBI (Securities and Exchange Board of India) is the regulator for the securities market in India. FPIs are investors or investment funds that are based outside of India and invest in Indian financial assets like stocks and bonds.",
+      "timeline": [
+       {
+        "date": "2026-10-28",
+        "text": "The market regulator has initiated a review of rules governing international investors.",
+        "link": "https://www.thehindubusinessline.com/markets/sebi-reviews-fpi-compliance-norms-plans-consultation-paper-on-global-alignment/article71635391.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
     },
     {
-     "id": "1980ab711739",
-     "title": "Jio to make trading debut after record $3.2 billion IPO",
-     "link": "https://www.thehindubusinessline.com/markets/jio-to-make-trading-debut-after-record-32-billion-ipo/article71634118.ece",
+     "id": "44421e029974",
+     "title": "Jio Platforms Share Price & IPO Listing Highlights: Mukesh Ambani's Jio Platforms stock ends with 27% listing gains",
+     "link": "https://www.thehindubusinessline.com/markets/jio-platforms-share-price-jio-platforms-ipo-listing-live-updates/article71630928.ece",
      "source": "Business News Today: Latest Business New",
-     "published": "2026-10-28T01:45:57+00:00",
-     "summary": "Jio Platforms is set for its stock market debut, with pre-market indicators suggesting a 22% gain from the IPO price.",
-     "explain": "An IPO (Initial Public Offering) is when a company lists its shares on a public exchange for the first time. A 'grey-market premium' refers to the price at which investors are willing to trade the stock before it is officially listed, often serving as a barometer for expected market demand and potential price movement.",
+     "published": "2026-10-28T10:37:38+00:00",
+     "summary": "Jio Platforms' IPO concluded with a strong performance, recording 27% gains upon listing on the stock exchange. This indicates high investor demand for the digital services giant.",
+     "explain": "An 'IPO listing' is the day a company's shares are first available for the public to trade on the stock exchange. 'Listing gains' occur when the market price on the first day is higher than the price at which the company initially sold the shares, indicating strong investor confidence.",
      "related": [],
      "story": {
       "id": "business-jio-platforms-ipo-launch",
@@ -1799,98 +1837,35 @@
         "text": "Jio's stock is expected to surge by roughly 22% upon its market debut following a $3.2 billion IPO.",
         "link": "https://www.thehindubusinessline.com/markets/jio-to-make-trading-debut-after-record-32-billion-ipo/article71634118.ece",
         "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "1a4cee73b94a",
-     "title": "US moves to scrap methane rules for oil drillers",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-hes-ending-restrictions-on-climate-warming-methane-from-oil-drilling/articleshow/135248886.cms",
-     "source": "Economic Times",
-     "published": "2026-10-28T01:24:29+00:00",
-     "summary": "The US government is taking steps to remove environmental regulations regarding methane emissions for oil drilling operations.",
-     "explain": "Methane regulations require energy companies to monitor and plug leaks from their equipment. Scrapping these rules allows oil companies to reduce compliance costs but removes a key check on environmental impact from fossil fuel extraction, a move likely to be contested by climate advocacy groups.",
-     "related": [],
-     "story": {
-      "id": "business-us-oil-drilling-regulations",
-      "title": "US Oil Drilling Regulations",
-      "so_far": "Methane is a potent greenhouse gas often leaked during oil and gas extraction. Previous administrations implemented strict monitoring and reduction mandates to address climate change and environmental impact.",
-      "timeline": [
+       },
        {
         "date": "2026-10-28",
-        "text": "The executive branch is moving to scrap existing methane reporting and mitigation rules for oil and gas drillers.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-hes-ending-restrictions-on-climate-warming-methane-from-oil-drilling/articleshow/135248886.cms",
-        "source": "Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "cfd8858c45c4",
-     "title": "Stock to buy today: Ather Energy (₹1,671) – BUY",
-     "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/stock-to-buy-today-ather-energy-1671-buy/article71631301.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-10-28T01:03:19+00:00",
-     "summary": "Market analysts issued a 'buy' recommendation for Ather Energy, with price targets projected between ₹1,900 and ₹1,950.",
-     "explain": "A 'buy' rating is a professional recommendation to purchase a stock, implying the analyst believes the price will increase. Price targets are estimates of the stock's future value based on financial models, used to help investors decide whether an investment is currently undervalued.",
-     "related": [],
-     "story": {
-      "id": "business-ather-energy-market-outlook",
-      "title": "Ather Energy Market Outlook",
-      "so_far": "Ather Energy is an Indian startup specializing in electric two-wheelers. As the electric vehicle market grows in India, financial analysts regularly evaluate such companies' growth potential and operational scaling.",
-      "timeline": [
-       {
-        "date": "2026-10-28",
-        "text": "Analysts have placed a bullish target on Ather Energy shares based on current market trends.",
-        "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/stock-to-buy-today-ather-energy-1671-buy/article71631301.ece",
+        "text": "The company’s shares listed successfully, closing with significant gains on their debut day.",
+        "link": "https://www.thehindubusinessline.com/markets/jio-platforms-share-price-jio-platforms-ipo-listing-live-updates/article71630928.ece",
         "source": "Business News Today: Latest Business New"
        }
       ]
      }
     },
     {
-     "id": "f2e85fa4f69a",
-     "title": "Brazil's Bolsonaro &amp; family will get US visas",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/brazils-flavio-bolsonaro-and-family-will-get-us-visas-after-election-loss-state-department-says/articleshow/135248666.cms",
-     "source": "Economic Times",
-     "published": "2026-10-28T01:01:44+00:00",
-     "summary": "The US administration will grant visas to former Brazilian President Jair Bolsonaro and his family.",
-     "explain": "Visa status for high-profile former political leaders often involves complex diplomatic and security vetting. Granting these visas allows the individuals to enter the United States, a process that can be influenced by international relations and the specific immigration policies of the host nation.",
+     "id": "cefa8764ae16",
+     "title": "Adani Ports & SEZ Q2 FY27 profit up 16.5%",
+     "link": "https://www.thehindubusinessline.com/economy/logistics/adani-ports-sez-q2-fy27-profit-up-165/article71634886.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-28T10:34:59+00:00",
+     "summary": "Adani Ports & SEZ reported a 16.5% rise in profit for the second quarter of the 2027 fiscal year. Revenue increased by 24% year-on-year, reflecting growth across all business segments.",
+     "explain": "Profit growth for a port operator is typically driven by higher cargo volumes—more ships carrying more goods. Reporting a 16.5% increase in profit suggests the company is successfully handling more trade and maintaining strong operational efficiency.",
      "related": [],
      "story": {
-      "id": "business-bolsonaro-us-visa-status",
-      "title": "Bolsonaro US Visa Status",
-      "so_far": "Jair Bolsonaro served as the President of Brazil until his term ended in early 2023. His travel and residency status have been subject to international scrutiny following political transitions in Brazil.",
+      "id": "business-adani-ports-q2-earnings",
+      "title": "Adani Ports Q2 Earnings",
+      "so_far": "Adani Ports & SEZ is India's largest private port developer and operator. Its financial performance is an indicator of the volume of goods moving in and out of India, reflecting the country's broader trade and industrial activity.",
       "timeline": [
        {
         "date": "2026-10-28",
-        "text": "The US has cleared the way for former Brazilian leader Jair Bolsonaro and his family to receive entry visas.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/brazils-flavio-bolsonaro-and-family-will-get-us-visas-after-election-loss-state-department-says/articleshow/135248666.cms",
-        "source": "Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "9b5860cde89a",
-     "title": "Lab Rats series: A Pune biotech startup’s new approach to vitiligo cure",
-     "link": "https://www.livemint.com/companies/start-ups/lab-rats-series-a-pune-biotech-startup-s-new-approach-to-vitiligo-cure-11791867187983.html",
-     "source": "mint - companies",
-     "published": "2026-10-28T00:31:17+00:00",
-     "summary": "Pune-based biotech startup Ahammune has advanced its drug for vitiligo into mid-stage clinical trials.",
-     "explain": "Clinical trials are the scientific studies used to test if a new drug is safe and effective in humans. Biotech startups often operate with smaller budgets than large pharmaceutical firms, so achieving progress in mid-stage trials with lower costs is a significant milestone for potential market entry and valuation.",
-     "related": [],
-     "story": {
-      "id": "business-ahammune-vitiligo-research",
-      "title": "Ahammune Vitiligo Research",
-      "so_far": "Vitiligo is a skin condition that causes loss of pigment. Biotech startups like Ahammune focus on drug discovery and development, a long and expensive process that requires successful completion of several phases of clinical trials to prove efficacy and safety before regulatory approval.",
-      "timeline": [
-       {
-        "date": "2026-10-28",
-        "text": "Ahammune's novel vitiligo drug has reached mid-trials, demonstrating efficiency at a lower cost than international equivalents.",
-        "link": "https://www.livemint.com/companies/start-ups/lab-rats-series-a-pune-biotech-startup-s-new-approach-to-vitiligo-cure-11791867187983.html",
-        "source": "mint - companies"
+        "text": "Adani Ports & SEZ showed strong financial growth in its Q2 report.",
+        "link": "https://www.thehindubusinessline.com/economy/logistics/adani-ports-sez-q2-fy27-profit-up-165/article71634886.ece",
+        "source": "Business News Today: Latest Business New"
        }
       ]
      }
@@ -1900,6 +1875,230 @@
   "markets": {
    "label": "Markets & Crypto",
    "articles": [
+    {
+     "id": "527bfcd3c6ce",
+     "title": "Jio IPO surge helps Reliance topple Tata as most valuable conglomerate in India",
+     "link": "https://www.livemint.com/market/stock-market-news/reliance-vs-tata-group-market-cap-jio-platforms-share-price-11793181248458.html",
+     "source": "mint - markets",
+     "published": "2026-10-28T10:03:56+00:00",
+     "summary": "Following a successful market debut, Jio Platforms' valuation jump has made Reliance Group India's most valuable conglomerate, overtaking Tata Group.",
+     "explain": "A market debut is the first day a company's shares are available for public trading. When a subsidiary (like Jio) performs well, it increases the value of the parent company (Reliance). A conglomerate is a large corporation made up of many different, often unrelated, businesses.",
+     "related": [],
+     "story": {
+      "id": "markets-jio-platforms-mega-ipo",
+      "title": "Jio Platforms Mega IPO",
+      "so_far": "Jio Platforms, a subsidiary of Reliance Industries, recently launched its IPO to raise capital for its transition into a comprehensive AI and cloud technology provider. It is now established as India's largest-ever public offering. The market debut has had a cascading effect on the parent company's total valuation, reshaping the hierarchy of major Indian business conglomerates.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "High-profile global institutional investors have committed Rs 2.5 lakh crore in anchor bids ahead of the public issue opening.",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-draws-rs-2-5-lakh-crore-in-anchor-bids/articleshow/135059075.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The IPO is set to open tomorrow, October 21, with a high grey market premium suggesting strong potential listing gains.",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Reliance is reframing Jio's narrative for investors to emphasize its broad technological reach, spanning cloud, AI, and fixed broadband.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-228-a-gb-to-7-5-how-mukesh-ambanis-jio-rewired-indias-internet-and-is-now-seeking-a-10-lakh-crore-valuation/articleshow/135053274.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Official filings confirm the IPO size as Rs 30,213 crore, establishing it as the largest ever in the Indian market.",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-vs-airtel-shares-which-telecom-giant-offers-greater-valuation-comfort-to-investors/articleshow/135053174.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The company's IPO successfully attracted anchor bids worth over $25 billion, signaling strong institutional confidence.",
+        "link": "https://www.livemint.com/market/ipo/reliance-jio-ipo-massive-bids-top-25-bn-amount-for-anchor-book-okhow-mukesh-ambani-firm-attracted-top-notch-investors-11792488288719.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "The IPO was oversubscribed 3.16 times on its opening day, driven largely by high demand from institutional investors.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-bids-hit-70000-crore-on-day-1-outpaces-nse-lic-gic-issues/articleshow/135103495.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-25",
+        "text": "The IPO closed with a subscription rate of 22.19 times, and a listing is scheduled for October 28, 2026.",
+        "link": "https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-listing-date-and-time-share-price-prediction-expected-money-gains-basis-gmp-expected-m-cap-details-11792924052178.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-25",
+        "text": "Market expectations suggest a potential listing price of ₹1,369 based on grey market trading activity.",
+        "link": "https://www.livemint.com/market/ipo/jio-platforms-ipo-allotment-status-check-online-by-pan-number-guide-for-kfin-tech-registrar-portal-on-riskfintechcom-11792919833250.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "Jio Platforms is scheduled to begin trading on the stock exchange this Wednesday following its record-setting IPO.",
+        "link": "https://www.livemint.com/market/ambani-looks-to-defy-gravity-in-debut-after-india-record-jio-ipo-11793152669324.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "Jio's stock debuted at a 21% premium, significantly boosting Reliance Group's total market capitalization to over Rs 28-30 lakh crore.",
+        "link": "https://www.livemint.com/market/stock-market-news/reliance-vs-tata-group-market-cap-jio-platforms-share-price-11793181248458.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "Jio's stock debuted at a 21% premium, significantly boosting Reliance Group's total market capitalization to over Rs 28-30 lakh crore.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-effect-reliance-beats-tata-to-become-indias-most-valued-conglomerate/articleshow/135257354.cms",
+        "source": "Markets-Economic Times"
+       }
+      ]
+     }
+    },
+    {
+     "id": "f2d5aa491ed4",
+     "title": "Jio effect! Reliance beats Tata to become India's most valued conglomerate",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-effect-reliance-beats-tata-to-become-indias-most-valued-conglomerate/articleshow/135257354.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-10-28T07:56:18+00:00",
+     "summary": "Following a successful market debut, Jio Platforms' valuation jump has made Reliance Group India's most valuable conglomerate, overtaking Tata Group.",
+     "explain": "A market debut is the first day a company's shares are available for public trading. When a subsidiary (like Jio) performs well, it increases the value of the parent company (Reliance). A conglomerate is a large corporation made up of many different, often unrelated, businesses.",
+     "related": [],
+     "story": {
+      "id": "markets-jio-platforms-mega-ipo",
+      "title": "Jio Platforms Mega IPO",
+      "so_far": "Jio Platforms, a subsidiary of Reliance Industries, recently launched its IPO to raise capital for its transition into a comprehensive AI and cloud technology provider. It is now established as India's largest-ever public offering. The market debut has had a cascading effect on the parent company's total valuation, reshaping the hierarchy of major Indian business conglomerates.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "High-profile global institutional investors have committed Rs 2.5 lakh crore in anchor bids ahead of the public issue opening.",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-draws-rs-2-5-lakh-crore-in-anchor-bids/articleshow/135059075.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The IPO is set to open tomorrow, October 21, with a high grey market premium suggesting strong potential listing gains.",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Reliance is reframing Jio's narrative for investors to emphasize its broad technological reach, spanning cloud, AI, and fixed broadband.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-228-a-gb-to-7-5-how-mukesh-ambanis-jio-rewired-indias-internet-and-is-now-seeking-a-10-lakh-crore-valuation/articleshow/135053274.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Official filings confirm the IPO size as Rs 30,213 crore, establishing it as the largest ever in the Indian market.",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-vs-airtel-shares-which-telecom-giant-offers-greater-valuation-comfort-to-investors/articleshow/135053174.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The company's IPO successfully attracted anchor bids worth over $25 billion, signaling strong institutional confidence.",
+        "link": "https://www.livemint.com/market/ipo/reliance-jio-ipo-massive-bids-top-25-bn-amount-for-anchor-book-okhow-mukesh-ambani-firm-attracted-top-notch-investors-11792488288719.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "The IPO was oversubscribed 3.16 times on its opening day, driven largely by high demand from institutional investors.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-bids-hit-70000-crore-on-day-1-outpaces-nse-lic-gic-issues/articleshow/135103495.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-25",
+        "text": "The IPO closed with a subscription rate of 22.19 times, and a listing is scheduled for October 28, 2026.",
+        "link": "https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-listing-date-and-time-share-price-prediction-expected-money-gains-basis-gmp-expected-m-cap-details-11792924052178.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-25",
+        "text": "Market expectations suggest a potential listing price of ₹1,369 based on grey market trading activity.",
+        "link": "https://www.livemint.com/market/ipo/jio-platforms-ipo-allotment-status-check-online-by-pan-number-guide-for-kfin-tech-registrar-portal-on-riskfintechcom-11792919833250.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "Jio Platforms is scheduled to begin trading on the stock exchange this Wednesday following its record-setting IPO.",
+        "link": "https://www.livemint.com/market/ambani-looks-to-defy-gravity-in-debut-after-india-record-jio-ipo-11793152669324.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "Jio's stock debuted at a 21% premium, significantly boosting Reliance Group's total market capitalization to over Rs 28-30 lakh crore.",
+        "link": "https://www.livemint.com/market/stock-market-news/reliance-vs-tata-group-market-cap-jio-platforms-share-price-11793181248458.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "Jio's stock debuted at a 21% premium, significantly boosting Reliance Group's total market capitalization to over Rs 28-30 lakh crore.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-effect-reliance-beats-tata-to-become-indias-most-valued-conglomerate/articleshow/135257354.cms",
+        "source": "Markets-Economic Times"
+       }
+      ]
+     }
+    },
+    {
+     "id": "3dd1ce4e32d7",
+     "title": "Subros shares surge 10% after securing Rs 1,225 crore HVAC supply order from Maruti Suzuki",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/news/subros-shares-surge-10-after-securing-rs-1225-crore-hvac-supply-order-from-maruti-suzuki/articleshow/135253915.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-10-28T05:58:49+00:00",
+     "summary": "Automotive component maker Subros saw its share price jump 10% after winning a long-term supply contract from Maruti Suzuki.",
+     "explain": "HVAC stands for Heating, Ventilation, and Air Conditioning. In the automotive industry, these are complex systems required to maintain cabin temperature. Long-term supply contracts are vital for manufacturing firms as they provide predictable future revenue and confirm the company's status as a preferred vendor for major car manufacturers like Maruti Suzuki.",
+     "related": [],
+     "story": {
+      "id": "markets-subros-secures-major-maruti-contract",
+      "title": "Subros Secures Major Maruti Contract",
+      "so_far": "Subros specializes in thermal management solutions for the automotive industry. Despite recent stock performance challenges—with shares down significantly over the last year—this new contract represents a major long-term revenue stream for the company.",
+      "timeline": [
+       {
+        "date": "2026-10-28",
+        "text": "Subros secured a Rs 1,225 crore contract to supply HVAC systems for two Maruti Suzuki vehicle models over a seven-year period.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/subros-shares-surge-10-after-securing-rs-1225-crore-hvac-supply-order-from-maruti-suzuki/articleshow/135253915.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "Subros is also investing in an innovation center in Noida to focus on future automotive thermal technologies.",
+        "link": "https://www.livemint.com/market/stock-market-news/subros-shares-jump-10-after-rs-1-225-crore-maruti-suzuki-order-key-details-to-know-what-lies-ahead-for-investors-11793159896612.html",
+        "source": "mint - markets"
+       }
+      ]
+     }
+    },
+    {
+     "id": "d10b92f63daf",
+     "title": "Subros shares jump 10% after ₹1,225 crore Maruti Suzuki order; key details to know | What lies ahead for investors?",
+     "link": "https://www.livemint.com/market/stock-market-news/subros-shares-jump-10-after-rs-1-225-crore-maruti-suzuki-order-key-details-to-know-what-lies-ahead-for-investors-11793159896612.html",
+     "source": "mint - markets",
+     "published": "2026-10-28T04:26:04+00:00",
+     "summary": "Automotive component maker Subros saw its share price jump 10% after winning a long-term supply contract from Maruti Suzuki.",
+     "explain": "HVAC stands for Heating, Ventilation, and Air Conditioning. In the automotive industry, these are complex systems required to maintain cabin temperature. Long-term supply contracts are vital for manufacturing firms as they provide predictable future revenue and confirm the company's status as a preferred vendor for major car manufacturers like Maruti Suzuki.",
+     "related": [],
+     "story": {
+      "id": "markets-subros-secures-major-maruti-contract",
+      "title": "Subros Secures Major Maruti Contract",
+      "so_far": "Subros specializes in thermal management solutions for the automotive industry. Despite recent stock performance challenges—with shares down significantly over the last year—this new contract represents a major long-term revenue stream for the company.",
+      "timeline": [
+       {
+        "date": "2026-10-28",
+        "text": "Subros secured a Rs 1,225 crore contract to supply HVAC systems for two Maruti Suzuki vehicle models over a seven-year period.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/subros-shares-surge-10-after-securing-rs-1225-crore-hvac-supply-order-from-maruti-suzuki/articleshow/135253915.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "Subros is also investing in an innovation center in Noida to focus on future automotive thermal technologies.",
+        "link": "https://www.livemint.com/market/stock-market-news/subros-shares-jump-10-after-rs-1-225-crore-maruti-suzuki-order-key-details-to-know-what-lies-ahead-for-investors-11793159896612.html",
+        "source": "mint - markets"
+       }
+      ]
+     }
+    },
     {
      "id": "e7f3601eb459",
      "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
@@ -1959,294 +2158,93 @@
      }
     },
     {
-     "id": "3d4bbcee13c5",
-     "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
-     "link": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
+     "id": "e9459e38183b",
+     "title": "Google to preview crypto custody security system as AI threats grow",
+     "link": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
-     "published": "2026-10-27T04:28:49+00:00",
-     "summary": "Ripple has received final regulatory approval to launch a national trust bank in the U.S.",
-     "explain": "A 'national trust bank' is a type of financial institution that can provide specialized services like asset custody (storing assets securely) and fiduciary services. This approval allows Ripple to officially integrate its digital assets with traditional financial systems, a significant step toward legitimacy and mainstream adoption for the company.",
+     "published": "2026-10-28T11:00:00+00:00",
+     "summary": "Google is developing a new security system for crypto custody to protect digital assets against evolving AI-driven cyber threats.",
+     "explain": "Crypto custody refers to the secure storage of digital assets, usually handled by third-party institutions. Because crypto cannot be easily recovered if stolen, high-level digital security is essential. Google's entry into this space reflects a trend where major tech companies are providing infrastructure to make digital assets safer for institutional investors.",
      "related": [],
      "story": {
-      "id": "markets-ripple-regulatory-and-banking-progress",
-      "title": "Ripple Regulatory and Banking Progress",
-      "so_far": "Ripple is a blockchain-based company known for the XRP cryptocurrency and its cross-border payment network. The firm has been embroiled in long-standing legal and regulatory disputes in the U.S. regarding the status of its digital assets and its role in the traditional banking landscape.",
+      "id": "markets-google-develops-crypto-security-systems",
+      "title": "Google Develops Crypto Security Systems",
+      "so_far": "As institutional adoption of blockchain and digital assets grows, the need for robust security solutions—or 'custody'—has become critical. Traditional security measures are increasingly vulnerable to AI-powered attacks, necessitating more advanced defense mechanisms for holding large amounts of digital currency.",
       "timeline": [
-       {
-        "date": "2026-10-27",
-        "text": "Ripple secured final US approval to operate as a national trust bank, allowing it to manage custody and reserve assets.",
-        "link": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-10-27",
-        "text": "The company can now hold reserves for its RLUSD stablecoin, reinforcing its utility in payment networks.",
-        "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "b58ccac38503",
-     "title": "Ripple wins final US approval for national trust bank",
-     "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph.com News",
-     "published": "2026-10-27T00:06:41+00:00",
-     "summary": "The approval allows Ripple to hold the reserves necessary to back its RLUSD stablecoin.",
-     "explain": "A stablecoin is a cryptocurrency designed to maintain a stable value, usually by being pegged to a fiat currency like the US dollar. Using its own trust bank to hold the reserve assets gives users higher confidence that the stablecoin is genuinely backed by real money.",
-     "related": [],
-     "story": {
-      "id": "markets-ripple-regulatory-and-banking-progress",
-      "title": "Ripple Regulatory and Banking Progress",
-      "so_far": "Ripple is a blockchain-based company known for the XRP cryptocurrency and its cross-border payment network. The firm has been embroiled in long-standing legal and regulatory disputes in the U.S. regarding the status of its digital assets and its role in the traditional banking landscape.",
-      "timeline": [
-       {
-        "date": "2026-10-27",
-        "text": "Ripple secured final US approval to operate as a national trust bank, allowing it to manage custody and reserve assets.",
-        "link": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-10-27",
-        "text": "The company can now hold reserves for its RLUSD stablecoin, reinforcing its utility in payment networks.",
-        "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "5edfa16959eb",
-     "title": "US OCC calls on community banks to become payment stablecoin issuers",
-     "link": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph.com News",
-     "published": "2026-10-26T21:38:30+00:00",
-     "summary": "The U.S. Office of the Comptroller of the Currency (OCC) is encouraging community banks to issue stablecoins for payment services, aligned with upcoming stablecoin legislation.",
-     "explain": "The OCC is a federal agency that regulates national banks. By encouraging community banks to issue stablecoins, regulators hope to bring the digital currency market under the same oversight as traditional banking, making it safer for everyday consumer transactions.",
-     "related": [],
-     "story": {
-      "id": "markets-us-stablecoin-regulatory-developments",
-      "title": "US Stablecoin Regulatory Developments",
-      "so_far": "The U.S. regulatory landscape for digital assets has been shifting as officials seek to balance innovation with financial stability. Recent legislative efforts, such as the GENIUS Act, aim to create a clear legal framework for companies to issue stablecoins within the regulated banking system.",
-      "timeline": [
-       {
-        "date": "2026-10-26",
-        "text": "The OCC is actively inviting community banks to participate in the stablecoin market ahead of the GENIUS Act implementation.",
-        "link": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-10-26",
-        "text": "Regulatory guidance now explicitly encourages smaller community banks to enter the payment stablecoin market.",
-        "link": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "fc85cefeab5c",
-     "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
-     "link": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph.com News",
-     "published": "2026-10-26T16:18:09+00:00",
-     "summary": "South Korean lawmakers are considering delaying the implementation of a crypto income tax until 2029 due to difficulties in obtaining transaction data from U.S. authorities.",
-     "explain": "The tax is a levy on profits generated from selling digital assets. Authorities need information from global exchanges to enforce this tax fairly; because they cannot yet easily coordinate with U.S. agencies to track this data, they are hesitant to start collecting the tax.",
-     "related": [],
-     "story": {
-      "id": "markets-south-korea-crypto-tax-delay",
-      "title": "South Korea Crypto Tax Delay",
-      "so_far": "South Korea has been planning to tax gains made from cryptocurrency investments since 2020. However, the policy has faced multiple delays due to pushback from investors, concerns about market volatility, and administrative challenges in tracking cross-border crypto activity.",
-      "timeline": [
-       {
-        "date": "2026-10-26",
-        "text": "The government is weighing a fourth postponement of the crypto tax, potentially moving the start date to 2029.",
-        "link": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-10-26",
-        "text": "South Korea is considering a delay of the crypto gains tax until 2029, citing ongoing data integration challenges.",
-        "link": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "093d5c156b33",
-     "title": "OCC calls on community banks to enter the stablecoin payments market",
-     "link": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
-     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
-     "published": "2026-10-26T15:45:51+00:00",
-     "summary": "The OCC's directive encourages small-scale banks to explore digital asset payment rails through stablecoins.",
-     "explain": "Payment rails refer to the infrastructure that moves money from one entity to another. Using stablecoins on a blockchain can potentially make these transfers faster and cheaper than existing legacy banking systems like SWIFT.",
-     "related": [],
-     "story": {
-      "id": "markets-us-stablecoin-regulatory-developments",
-      "title": "US Stablecoin Regulatory Developments",
-      "so_far": "The U.S. regulatory landscape for digital assets has been shifting as officials seek to balance innovation with financial stability. Recent legislative efforts, such as the GENIUS Act, aim to create a clear legal framework for companies to issue stablecoins within the regulated banking system.",
-      "timeline": [
-       {
-        "date": "2026-10-26",
-        "text": "The OCC is actively inviting community banks to participate in the stablecoin market ahead of the GENIUS Act implementation.",
-        "link": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-10-26",
-        "text": "Regulatory guidance now explicitly encourages smaller community banks to enter the payment stablecoin market.",
-        "link": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "e378386a8fd0",
-     "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
-     "link": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
-     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
-     "published": "2026-10-26T14:51:07+00:00",
-     "summary": "The proposed postponement would be the fourth time South Korea has delayed the crypto tax policy.",
-     "explain": "Postponing taxes is a common regulatory tool used to avoid disrupting a volatile market or to buy time for the government to build the necessary technical infrastructure to monitor the market properly.",
-     "related": [],
-     "story": {
-      "id": "markets-south-korea-crypto-tax-delay",
-      "title": "South Korea Crypto Tax Delay",
-      "so_far": "South Korea has been planning to tax gains made from cryptocurrency investments since 2020. However, the policy has faced multiple delays due to pushback from investors, concerns about market volatility, and administrative challenges in tracking cross-border crypto activity.",
-      "timeline": [
-       {
-        "date": "2026-10-26",
-        "text": "The government is weighing a fourth postponement of the crypto tax, potentially moving the start date to 2029.",
-        "link": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-10-26",
-        "text": "South Korea is considering a delay of the crypto gains tax until 2029, citing ongoing data integration challenges.",
-        "link": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "56f8c2bfb0f8",
-     "title": "Ambani looks to defy gravity in debut after India-record Jio IPO",
-     "link": "https://www.livemint.com/market/ambani-looks-to-defy-gravity-in-debut-after-india-record-jio-ipo-11793152669324.html",
-     "source": "mint - markets",
-     "published": "2026-10-28T02:02:30+00:00",
-     "summary": "Jio Platforms is set to debut on the Indian stock market following a record-breaking IPO, with investors watching to see if it can perform well despite a recent cooling trend in major market listings.",
-     "explain": "Jio Platforms, a subsidiary of Reliance Industries, is moving from being primarily a telecom provider to a tech and AI-focused giant. The IPO is a public sale of shares that allows the company to raise massive amounts of capital. The 'listing' or 'debut' is the moment these shares actually start trading on the public stock exchange, where the price will fluctuate based on supply and demand.",
-     "related": [],
-     "story": {
-      "id": "markets-jio-platforms-mega-ipo",
-      "title": "Jio Platforms Mega IPO",
-      "so_far": "Jio Platforms, a subsidiary of Reliance Industries, is launching an IPO to raise funds as it pivots from a pure telecom provider to an integrated technology, cloud, and AI platform. It is poised to become India's largest-ever public offering, aiming for a valuation of Rs 10 lakh crore.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "High-profile global institutional investors have committed Rs 2.5 lakh crore in anchor bids ahead of the public issue opening.",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-draws-rs-2-5-lakh-crore-in-anchor-bids/articleshow/135059075.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "The IPO is set to open tomorrow, October 21, with a high grey market premium suggesting strong potential listing gains.",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Reliance is reframing Jio's narrative for investors to emphasize its broad technological reach, spanning cloud, AI, and fixed broadband.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-228-a-gb-to-7-5-how-mukesh-ambanis-jio-rewired-indias-internet-and-is-now-seeking-a-10-lakh-crore-valuation/articleshow/135053274.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Official filings confirm the IPO size as Rs 30,213 crore, establishing it as the largest ever in the Indian market.",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-vs-airtel-shares-which-telecom-giant-offers-greater-valuation-comfort-to-investors/articleshow/135053174.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "The company's IPO successfully attracted anchor bids worth over $25 billion, signaling strong institutional confidence.",
-        "link": "https://www.livemint.com/market/ipo/reliance-jio-ipo-massive-bids-top-25-bn-amount-for-anchor-book-okhow-mukesh-ambani-firm-attracted-top-notch-investors-11792488288719.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "The IPO was oversubscribed 3.16 times on its opening day, driven largely by high demand from institutional investors.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-bids-hit-70000-crore-on-day-1-outpaces-nse-lic-gic-issues/articleshow/135103495.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-25",
-        "text": "The IPO closed with a subscription rate of 22.19 times, and a listing is scheduled for October 28, 2026.",
-        "link": "https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-listing-date-and-time-share-price-prediction-expected-money-gains-basis-gmp-expected-m-cap-details-11792924052178.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-25",
-        "text": "Market expectations suggest a potential listing price of ₹1,369 based on grey market trading activity.",
-        "link": "https://www.livemint.com/market/ipo/jio-platforms-ipo-allotment-status-check-online-by-pan-number-guide-for-kfin-tech-registrar-portal-on-riskfintechcom-11792919833250.html",
-        "source": "mint - markets"
-       },
        {
         "date": "2026-10-28",
-        "text": "Jio Platforms is scheduled to begin trading on the stock exchange this Wednesday following its record-setting IPO.",
-        "link": "https://www.livemint.com/market/ambani-looks-to-defy-gravity-in-debut-after-india-record-jio-ipo-11793152669324.html",
-        "source": "mint - markets"
+        "text": "Google is set to preview a security system specifically designed for crypto custody in response to rising AI-based threats.",
+        "link": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
        }
       ]
      }
     },
     {
-     "id": "cd3a8e0bad9d",
-     "title": "Stock market outlook for 28 Oct: Sensex, Nifty prediction - Jio Platforms IPO listing, GIFT Nifty, US and Asian markets",
-     "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-for-28-oct-sensex-nifty-prediction-jio-platforms-ipo-listing-gift-nifty-us-and-asian-markets-11793149578444.html",
-     "source": "mint - markets",
-     "published": "2026-10-28T01:45:48+00:00",
-     "summary": "The Indian stock market is expected to have a negative opening on October 28, as indicated by the GIFT Nifty futures trading lower.",
-     "explain": "GIFT Nifty is a derivative contract that trades in India's GIFT City and acts as a leading indicator of how the main Indian stock indices (Nifty and Sensex) will likely perform at the opening bell. When it trades in the red (down), it suggests that investors are cautious or negative heading into the start of the trading day.",
-     "related": [
-      {
-       "date": "2026-10-27",
-       "title": "Stock market outlook today, 27 Oct: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
-       "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-27-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-cues-11793062963069.html",
-       "source": "mint - markets"
-      }
-     ],
+     "id": "2049803dc358",
+     "title": "MFs raise stake for 3 straight quarters in 5 mid-cap stocks; shares gain up to 75% YTD",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-raise-stake-for-3-straight-quarters-in-5-mid-cap-stocks-shares-gain-up-to-75-ytd/slideshow/135262516.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-10-28T10:42:47+00:00",
+     "summary": "Mutual funds have consistently increased their positions in specific mid-cap stocks over the last nine months, despite mixed price performance.",
+     "explain": "Market capitalization (cap) is the total dollar value of a company's outstanding shares. Mid-cap companies are generally viewed as riskier than large, established firms but offer higher potential for growth. Institutional investors often 'accumulate' shares over several months to avoid driving the price up too quickly with large, single-day purchases.",
+     "related": [],
      "story": {
-      "id": "markets-indian-stock-market-volatility",
-      "title": "Indian Stock Market Volatility",
-      "so_far": "The Indian stock market often fluctuates based on global macroeconomic factors, such as crude oil prices which impact the country's import bill and inflation. Recently, volatility has been exacerbated by external geopolitical events that affect global supply chains and investor sentiment.",
+      "id": "markets-institutional-mid-cap-investment-trends",
+      "title": "Institutional Mid-Cap Investment Trends",
+      "so_far": "Mutual funds (MFs) in India often track mid-cap companies—those with medium market capitalization—for their growth potential. When institutional investors consistently increase their stakes in a firm, it typically signals long-term confidence in the company's business model, even if the stock price is temporarily volatile.",
       "timeline": [
        {
-        "date": "2026-10-25",
-        "text": "Increased geopolitical tension and high crude prices led to a loss of approximately ₹21 lakh crore in investor wealth.",
-        "link": "https://www.livemint.com/market/stock-market-news/bank-nifty-tumbles-nearly-3-slips-below-55k-more-selling-pressure-ahead-for-banking-stocks-check-key-levels-to-watch-11792920838777.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-10-25",
-        "text": "Large-cap firms like HDFC Bank and Bajaj Finance faced significant valuation losses as the BSE Sensex plummeted.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-8-of-top-10-firms-erodes-by-rs-1-55-lakh-cr-hdfc-bank-bajaj-fin-biggest-laggards/articleshow/135186713.cms",
+        "date": "2026-10-28",
+        "text": "Data shows mutual funds increased stakes in 39 mid-cap stocks for three consecutive quarters, with some seeing gains of up to 75%.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-raise-stake-for-3-straight-quarters-in-5-mid-cap-stocks-shares-gain-up-to-75-ytd/slideshow/135262516.cms",
         "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-26",
-        "text": "The Nifty 50 and Sensex closed 0.68% and 0.66% higher respectively, following a sharp intra-day recovery.",
-        "link": "https://www.livemint.com/market/stock-market-news/mindboggling-monday-at-indian-stock-markets-sensex-nifty-mirror-life-s-ups-and-downs-october-26-trade-details-11793005870431.html",
-        "source": "mint - markets"
-       },
+       }
+      ]
+     }
+    },
+    {
+     "id": "a916807d7d4d",
+     "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
+     "link": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
+     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
+     "published": "2026-10-28T10:41:51+00:00",
+     "summary": "A DBS report highlights that a vast majority of large corporations are shifting toward tokenized cash to improve payment efficiency.",
+     "explain": "Tokenized cash is a digital representation of actual currency that moves across a blockchain. It matters because it reduces 'friction'—the time and cost associated with moving money across borders or between different banks. It allows for 24/7 global settlement, unlike traditional systems that often shut down on weekends or holidays.",
+     "related": [],
+     "story": {
+      "id": "markets-adoption-of-tokenized-corporate-payments",
+      "title": "Adoption of Tokenized Corporate Payments",
+      "so_far": "Tokenization involves creating a digital, blockchain-based version of an asset or currency. By using these tokens for payments, corporations can bypass traditional banking intermediaries, resulting in near-instant transaction times and lower processing costs.",
+      "timeline": [
        {
         "date": "2026-10-28",
-        "text": "GIFT Nifty futures are down, signaling a potential downward start for Sensex and Nifty as the market digests global trends and the Jio Platforms listing.",
-        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-for-28-oct-sensex-nifty-prediction-jio-platforms-ipo-listing-gift-nifty-us-and-asian-markets-11793149578444.html",
-        "source": "mint - markets"
+        "text": "DBS reports that nearly 90% of large businesses are now adopting tokenized cash solutions for faster financial settlement.",
+        "link": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "e56fd2d8c553",
+     "title": "Info Edge Q2 Results: Net profit plunges 93% YoY to Rs 334 crore, revenue rises 13%; co declares Rs 3/share interim dividend",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/info-edge-naukri-net-profit-plunges-93-yoy-to-rs-334-crore-revenue-rises-13-co-declares-rs-3/share-interim-dividend/articleshow/135261958.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-10-28T10:41:11+00:00",
+     "summary": "Info Edge reported a significant year-on-year drop in net profit for Q2 2026, largely due to one-time financial comparisons.",
+     "explain": "A year-on-year (YoY) comparison measures performance against the same period in the previous year. A 'net profit plunge' doesn't always mean a failing business; in this case, it was largely caused by an 'exceptional gain' (a one-time windfall) in the previous year's financials, which makes this year's normal performance look worse by comparison.",
+     "related": [],
+     "story": {
+      "id": "markets-info-edge-q2-financial-results",
+      "title": "Info Edge Q2 Financial Results",
+      "so_far": "Info Edge is a prominent Indian internet company that owns platforms like Naukri (recruitment), 99acres (real estate), and Jeevansathi (matrimony). Investors look at their quarterly results to understand trends in the Indian digital job market and online real estate activity.",
+      "timeline": [
+       {
+        "date": "2026-10-28",
+        "text": "Info Edge's net profit fell 93% to Rs 334 crore, though core business segments like recruitment and 99acres saw revenue growth.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/info-edge-naukri-net-profit-plunges-93-yoy-to-rs-334-crore-revenue-rises-13-co-declares-rs-3/share-interim-dividend/articleshow/135261958.cms",
+        "source": "Markets-Economic Times"
        }
       ]
      }
