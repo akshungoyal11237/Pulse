@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-28T11:09:54.564119+00:00",
- "prices_generated": "2026-10-28T18:31:12.322451+00:00",
+ "generated": "2026-10-29T02:19:44.376949+00:00",
+ "prices_generated": "2026-10-29T02:19:44.376949+00:00",
  "ai": "gemini",
- "pulse": "Indian markets saw a mixed close as the Nifty and Sensex slipped slightly, possibly due to pressure from IT stocks and rising global crude oil prices, even as individual companies reported strong quarterly earnings. Meanwhile, US markets trended higher, likely driven by renewed investor optimism in tech stocks that propelled the Nasdaq to gains. In other sectors, Bitcoin and other major cryptocurrencies saw minor gains, while gold prices softened as investors adjusted their portfolios amid these shifting global trends.",
+ "pulse": "Indian markets saw a mixed performance as investors reacted to leadership changes at major firms and cautious sentiment surrounding specific stock exclusions. US indices managed modest gains, likely supported by the Federal Reserve's decision to hold interest rates steady despite ongoing concerns about inflation. Meanwhile, cryptocurrencies faced a slight pullback, and crude oil prices showed significant volatility, possibly reflecting shifting global supply and demand expectations.",
  "ticker_strip": [
   "^NSEI",
   "^BSESN",
@@ -55,10 +55,10 @@
   "^NSEI": {
    "symbol": "^NSEI",
    "name": "Nifty 50",
-   "price": 22749.75,
-   "change": -3.4492,
-   "pct": -0.02,
-   "pct_1m": -0.13,
+   "price": 22698.8496,
+   "change": -50.9004,
+   "pct": -0.22,
+   "pct_1m": -0.36,
    "spark": [
     22780.25,
     22716.1992,
@@ -79,17 +79,18 @@
     22687.6504,
     22600.0,
     22753.1992,
-    22749.75
+    22749.75,
+    22698.8496
    ],
-   "asof": "2026-10-27"
+   "asof": "2026-10-28"
   },
   "^BSESN": {
    "symbol": "^BSESN",
    "name": "Sensex",
-   "price": 73598.6719,
-   "change": -8.0781,
-   "pct": -0.01,
-   "pct_1m": 1.14,
+   "price": 73246.0312,
+   "change": -352.6406,
+   "pct": -0.48,
+   "pct_1m": 0.65,
    "spark": [
     72771.7188,
     72529.0703,
@@ -110,17 +111,18 @@
     73249.3906,
     73123.8281,
     73606.75,
-    73598.6719
+    73598.6719,
+    73246.0312
    ],
-   "asof": "2026-10-27"
+   "asof": "2026-10-28"
   },
   "^NSEBANK": {
    "symbol": "^NSEBANK",
    "name": "Bank Nifty",
-   "price": 53974.8984,
-   "change": -391.8008,
-   "pct": -0.72,
-   "pct_1m": -0.91,
+   "price": 54267.3984,
+   "change": 292.5,
+   "pct": 0.54,
+   "pct_1m": -0.37,
    "spark": [
     54471.6484,
     54259.9492,
@@ -141,19 +143,19 @@
     54925.6992,
     54287.3516,
     54366.6992,
-    53974.8984
+    53974.8984,
+    54267.3984
    ],
-   "asof": "2026-10-27"
+   "asof": "2026-10-28"
   },
   "^GSPC": {
    "symbol": "^GSPC",
    "name": "S&P 500",
-   "price": 7736.5498,
-   "change": 13.9497,
-   "pct": 0.18,
-   "pct_1m": 0.69,
+   "price": 7743.98,
+   "change": 21.3799,
+   "pct": 0.28,
+   "pct_1m": 0.95,
    "spark": [
-    7683.6899,
     7670.8398,
     7651.54,
     7666.4502,
@@ -175,19 +177,18 @@
     7623.6802,
     7676.77,
     7722.6001,
-    7736.5498
+    7743.98
    ],
    "asof": "2026-10-28"
   },
   "^IXIC": {
    "symbol": "^IXIC",
    "name": "Nasdaq",
-   "price": 26483.6387,
-   "change": 5.8281,
-   "pct": 0.02,
-   "pct_1m": -1.26,
+   "price": 26549.8516,
+   "change": 72.041,
+   "pct": 0.27,
+   "pct_1m": -0.92,
    "spark": [
-    26820.3809,
     26797.5391,
     26861.0605,
     26871.5996,
@@ -209,19 +210,18 @@
     25955.3398,
     26169.3809,
     26477.8105,
-    26483.6387
+    26549.8516
    ],
    "asof": "2026-10-28"
   },
   "^DJI": {
    "symbol": "^DJI",
    "name": "Dow Jones",
-   "price": 52476.6484,
-   "change": 99.0781,
+   "price": 52475.1016,
+   "change": 97.5312,
    "pct": 0.19,
-   "pct_1m": 1.93,
+   "pct_1m": 2.19,
    "spark": [
-    51481.5117,
     51349.9219,
     50906.0508,
     50926.5586,
@@ -243,19 +243,18 @@
     52215.1602,
     52361.5781,
     52377.5703,
-    52476.6484
+    52475.1016
    ],
    "asof": "2026-10-28"
   },
   "BTC-USD": {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 80906.1016,
-   "change": 101.0234,
-   "pct": 0.13,
-   "pct_1m": -3.11,
+   "price": 79860.2891,
+   "change": -944.7891,
+   "pct": -1.17,
+   "pct_1m": -4.5,
    "spark": [
-    83502.6094,
     83622.4297,
     83553.8516,
     84853.1016,
@@ -285,19 +284,18 @@
     80024.0078,
     80006.6562,
     80805.0781,
-    80906.1016
+    79860.2891
    ],
-   "asof": "2026-10-28"
+   "asof": "2026-10-29"
   },
   "ETH-USD": {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 2347.74,
-   "change": 0.01,
-   "pct": 0.0,
-   "pct_1m": -12.68,
+   "price": 2304.1599,
+   "change": -43.5701,
+   "pct": -1.86,
+   "pct_1m": -13.92,
    "spark": [
-    2688.6687,
     2676.7222,
     2683.6794,
     2705.5371,
@@ -327,19 +325,18 @@
     2326.9202,
     2320.2812,
     2347.73,
-    2347.74
+    2304.1599
    ],
-   "asof": "2026-10-28"
+   "asof": "2026-10-29"
   },
   "SOL-USD": {
    "symbol": "SOL-USD",
    "name": "Solana",
-   "price": 101.58,
-   "change": 0.325,
-   "pct": 0.32,
-   "pct_1m": -14.52,
+   "price": 99.59,
+   "change": -1.665,
+   "pct": -1.64,
+   "pct_1m": -16.35,
    "spark": [
-    118.8367,
     119.0555,
     117.9948,
     118.3978,
@@ -369,19 +366,18 @@
     101.2232,
     100.7549,
     101.255,
-    101.58
+    99.59
    ],
-   "asof": "2026-10-28"
+   "asof": "2026-10-29"
   },
   "USDINR=X": {
    "symbol": "USDINR=X",
    "name": "USD/INR",
    "price": 95.21,
-   "change": 0.023,
-   "pct": 0.02,
-   "pct_1m": -0.6,
+   "change": 0.0322,
+   "pct": 0.03,
+   "pct_1m": -0.8,
    "spark": [
-    95.7883,
     95.9816,
     96.0507,
     95.9271,
@@ -403,19 +399,19 @@
     94.7113,
     94.938,
     95.187,
+    95.1778,
     95.21
    ],
-   "asof": "2026-10-28"
+   "asof": "2026-10-29"
   },
   "EURINR=X": {
    "symbol": "EURINR=X",
    "name": "EUR/INR",
-   "price": 106.0958,
-   "change": -0.1732,
-   "pct": -0.16,
-   "pct_1m": 0.21,
+   "price": 106.2515,
+   "change": 0.4905,
+   "pct": 0.46,
+   "pct_1m": -2.58,
    "spark": [
-    105.873,
     109.065,
     108.769,
     108.642,
@@ -437,19 +433,19 @@
     106.315,
     105.868,
     106.269,
-    106.0958
+    105.761,
+    106.2515
    ],
-   "asof": "2026-10-28"
+   "asof": "2026-10-29"
   },
   "EURUSD=X": {
    "symbol": "EURUSD=X",
    "name": "EUR/USD",
-   "price": 1.1137,
-   "change": -0.0037,
-   "pct": -0.33,
-   "pct_1m": -2.12,
+   "price": 1.1159,
+   "change": 0.003,
+   "pct": 0.27,
+   "pct_1m": -1.87,
    "spark": [
-    1.1378,
     1.1373,
     1.1341,
     1.1327,
@@ -471,19 +467,19 @@
     1.1221,
     1.1218,
     1.1174,
-    1.1137
+    1.113,
+    1.1159
    ],
-   "asof": "2026-10-28"
+   "asof": "2026-10-29"
   },
   "GBPINR=X": {
    "symbol": "GBPINR=X",
    "name": "GBP/INR",
-   "price": 126.6802,
-   "change": -0.3247,
-   "pct": -0.26,
-   "pct_1m": -0.01,
+   "price": 126.9278,
+   "change": 0.2852,
+   "pct": 0.23,
+   "pct_1m": -0.23,
    "spark": [
-    126.6882,
     127.2194,
     127.0541,
     127.2369,
@@ -505,17 +501,18 @@
     126.2137,
     126.9686,
     127.0049,
-    126.6802
+    126.6426,
+    126.9278
    ],
-   "asof": "2026-10-28"
+   "asof": "2026-10-29"
   },
   "GC=F": {
    "symbol": "GC=F",
    "name": "Gold",
-   "price": 4045.8,
-   "change": -28.8,
-   "pct": -0.71,
-   "pct_1m": -2.94,
+   "price": 4068.7,
+   "change": -5.9001,
+   "pct": -0.14,
+   "pct_1m": -2.39,
    "spark": [
     4168.3999,
     4179.7002,
@@ -539,17 +536,17 @@
     4007.8999,
     4038.3999,
     4074.6001,
-    4045.8
+    4068.7
    ],
    "asof": "2026-10-28"
   },
   "SI=F": {
    "symbol": "SI=F",
    "name": "Silver",
-   "price": 53.505,
-   "change": -0.788,
-   "pct": -1.45,
-   "pct_1m": -12.6,
+   "price": 53.815,
+   "change": -0.478,
+   "pct": -0.88,
+   "pct_1m": -12.1,
    "spark": [
     61.22,
     60.668,
@@ -573,17 +570,17 @@
     53.711,
     54.108,
     54.293,
-    53.505
+    53.815
    ],
    "asof": "2026-10-28"
   },
   "CL=F": {
    "symbol": "CL=F",
    "name": "WTI Crude",
-   "price": 103.02,
-   "change": 3.12,
-   "pct": 3.12,
-   "pct_1m": 11.25,
+   "price": 101.63,
+   "change": 1.73,
+   "pct": 1.73,
+   "pct_1m": 9.75,
    "spark": [
     92.6,
     89.38,
@@ -607,17 +604,17 @@
     103.27,
     101.76,
     99.9,
-    103.02
+    101.63
    ],
    "asof": "2026-10-28"
   },
   "BZ=F": {
    "symbol": "BZ=F",
    "name": "Brent Crude",
-   "price": 111.9,
-   "change": -1.98,
-   "pct": -1.74,
-   "pct_1m": 6.29,
+   "price": 110.36,
+   "change": -3.52,
+   "pct": -3.09,
+   "pct_1m": 4.83,
    "spark": [
     105.28,
     102.59,
@@ -641,17 +638,17 @@
     116.72,
     115.81,
     113.88,
-    111.9
+    110.36
    ],
    "asof": "2026-10-28"
   },
   "RELIANCE.NS": {
    "symbol": "RELIANCE.NS",
    "name": "Reliance",
-   "price": 1196.2,
-   "change": -5.6001,
-   "pct": -0.47,
-   "pct_1m": -0.12,
+   "price": 1158.0,
+   "change": -38.2,
+   "pct": -3.19,
+   "pct_1m": -3.31,
    "spark": [
     1197.6,
     1182.0,
@@ -672,17 +669,18 @@
     1184.5,
     1190.0,
     1201.8,
-    1196.2
+    1196.2,
+    1158.0
    ],
-   "asof": "2026-10-27"
+   "asof": "2026-10-28"
   },
   "TCS.NS": {
    "symbol": "TCS.NS",
    "name": "TCS",
-   "price": 2496.8999,
-   "change": -38.1001,
-   "pct": -1.5,
-   "pct_1m": 21.22,
+   "price": 2460.0,
+   "change": -36.8999,
+   "pct": -1.48,
+   "pct_1m": 19.43,
    "spark": [
     2059.7502,
     2021.6528,
@@ -703,17 +701,18 @@
     2506.8999,
     2530.0,
     2535.0,
-    2496.8999
+    2496.8999,
+    2460.0
    ],
-   "asof": "2026-10-27"
+   "asof": "2026-10-28"
   },
   "HDFCBANK.NS": {
    "symbol": "HDFCBANK.NS",
    "name": "HDFC Bank",
-   "price": 680.2,
-   "change": -7.85,
-   "pct": -1.14,
-   "pct_1m": -5.4,
+   "price": 685.3,
+   "change": 5.1,
+   "pct": 0.75,
+   "pct_1m": -4.69,
    "spark": [
     719.05,
     722.7,
@@ -734,17 +733,18 @@
     694.05,
     692.8,
     688.05,
-    680.2
+    680.2,
+    685.3
    ],
-   "asof": "2026-10-27"
+   "asof": "2026-10-28"
   },
   "INFY.NS": {
    "symbol": "INFY.NS",
    "name": "Infosys",
-   "price": 1163.0,
-   "change": -3.0,
-   "pct": -0.26,
-   "pct_1m": 15.93,
+   "price": 1123.15,
+   "change": -39.85,
+   "pct": -3.43,
+   "pct_1m": 11.96,
    "spark": [
     1003.2,
     1015.4,
@@ -765,19 +765,19 @@
     1153.35,
     1153.8,
     1166.0,
-    1163.0
+    1163.0,
+    1123.15
    ],
-   "asof": "2026-10-27"
+   "asof": "2026-10-28"
   },
   "AAPL": {
    "symbol": "AAPL",
    "name": "Apple",
-   "price": 344.6914,
-   "change": -2.4086,
-   "pct": -0.69,
-   "pct_1m": 1.86,
+   "price": 343.83,
+   "change": -3.27,
+   "pct": -0.94,
+   "pct_1m": 4.38,
    "spark": [
-    338.4,
     329.4,
     333.02,
     330.32,
@@ -799,19 +799,18 @@
     347.73,
     343.91,
     347.1,
-    344.6914
+    343.83
    ],
    "asof": "2026-10-28"
   },
   "NVDA": {
    "symbol": "NVDA",
    "name": "Nvidia",
-   "price": 217.1122,
-   "change": -0.8278,
-   "pct": -0.38,
-   "pct_1m": -5.13,
+   "price": 215.38,
+   "change": -2.56,
+   "pct": -1.17,
+   "pct_1m": -5.21,
    "spark": [
-    228.86,
     227.21,
     228.38,
     230.86,
@@ -833,19 +832,18 @@
     210.96,
     216.0,
     217.94,
-    217.1122
+    215.38
    ],
    "asof": "2026-10-28"
   },
   "MSFT": {
    "symbol": "MSFT",
    "name": "Microsoft",
-   "price": 528.66,
-   "change": -2.67,
-   "pct": -0.5,
-   "pct_1m": 3.82,
+   "price": 531.01,
+   "change": -0.32,
+   "pct": -0.06,
+   "pct_1m": 4.33,
    "spark": [
-    509.22,
     508.96,
     512.9,
     512.8,
@@ -867,7 +865,7 @@
     524.51,
     532.6,
     531.33,
-    528.66
+    531.01
    ],
    "asof": "2026-10-28"
   }
@@ -876,12 +874,11 @@
   {
    "code": 120716,
    "name": "UTI Nifty 50 Index Fund (Direct, Growth)",
-   "nav": 160.2276,
-   "pct": -0.02,
-   "pct_1m": -3.1,
-   "date": "27-10-2026",
+   "nav": 159.8683,
+   "pct": -0.22,
+   "pct_1m": -2.99,
+   "date": "28-10-2026",
    "spark": [
-    165.3512,
     164.7893,
     162.8164,
     163.5126,
@@ -911,7 +908,8 @@
     159.7804,
     159.177,
     160.253,
-    160.2276
+    160.2276,
+    159.8683
    ]
   },
   {
@@ -961,79 +959,160 @@
    "label": "India",
    "articles": [
     {
-     "id": "7e89275b6e19",
-     "title": "BJP names Hardeep Singh Puri as candidate for Rajya Sabha bypoll in M.P.",
-     "link": "https://www.thehindu.com/news/national/madhya-pradesh/bjp-names-hardeep-singh-puri-as-candidate-for-mp-rajya-sabha-bypoll/article71635040.ece",
+     "id": "e2894c4b4a22",
+     "title": "Cyclone Arnab to weaken into depression on October 29, says IMD | LIVE updates",
+     "link": "https://www.thehindu.com/news/national/cyclone-arnab-weakens-into-depression-imd-alert-odisha-andhra-pradesh-telangana-live-updates-october-29-2026/article71638778.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-28T09:32:35+00:00",
-     "summary": "The BJP has nominated Union Minister Hardeep Singh Puri as its candidate for the upcoming Rajya Sabha bypoll in Madhya Pradesh.",
-     "explain": "The Rajya Sabha is the upper house of India's Parliament, where members are elected by state legislators rather than the general public. A 'bypoll' is a special election held to fill a seat that becomes vacant before a member's term officially expires.",
-     "related": [],
+     "published": "2026-10-29T01:55:38+00:00",
+     "summary": "Cyclone Arnab has caused heavy rainfall in 17 districts of southern Odisha and resulted in five deaths in Andhra Pradesh. The Andhra Pradesh Chief Minister has announced relief measures for the affected areas.",
+     "explain": "A cyclone is a powerful storm system characterized by low atmospheric pressure and rotating winds. It matters because these events threaten lives, homes, and crops, requiring rapid government intervention. The IMD is the national agency responsible for forecasting weather and issuing warnings.",
+     "related": [
+      {
+       "date": "2026-10-26",
+       "title": "Cyclone Arnab to cross Andhra coast by October 28; rains continue in Tamil Nadu | LIVE",
+       "link": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-live-updates-imd-weather-forecast-rain-warnings-bay-of-bengal-october-26-2026/article71625447.ece",
+       "source": "India Latest News: Top National Headline"
+      },
+      {
+       "date": "2026-10-27",
+       "title": "Cyclone ‘Arnab’ LIVE updates | A.P., Odisha on alert as ‘Arnab’ nears land",
+       "link": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-27-2026/article71629599.ece",
+       "source": "India Latest News: Top National Headline"
+      },
+      {
+       "date": "2026-10-28",
+       "title": "Cyclone Arnab LIVE Updates: Cyclone Arnab Makes Landfall, Eastern States See Heavy Rainfall",
+       "link": "https://www.ndtv.com/india-news/cyclone-arnab-landfall-live-updates-landfall-tracker-imd-weather-forecast-heavy-rain-alert-andhra-pradesh-odisha-live-news-12245206#publisher=newsstand",
+       "source": "NDTV News Search Records Found 1000"
+      }
+     ],
      "story": {
-      "id": "india-rajya-sabha-bypoll-in-madhya-pradesh",
-      "title": "Rajya Sabha Bypoll in Madhya Pradesh",
-      "so_far": "A Rajya Sabha seat in Madhya Pradesh became vacant following the resignation of L. Murugan from the Council of Ministers and his parliamentary position. A by-election has been scheduled for November 12, 2026, to fill the vacancy.",
+      "id": "india-cyclone-arnab-impact",
+      "title": "Cyclone Arnab Impact",
+      "so_far": "Cyclones frequently strike the eastern coast of India during the post-monsoon season, often causing significant damage to infrastructure and agriculture. State governments and the India Meteorological Department (IMD) work to coordinate emergency responses and evacuations to minimize loss of life.",
       "timeline": [
        {
-        "date": "2026-10-28",
-        "text": "Hardeep Singh Puri has been officially named as the BJP's candidate for the seat vacated by L. Murugan.",
-        "link": "https://www.thehindu.com/news/national/madhya-pradesh/bjp-names-hardeep-singh-puri-as-candidate-for-mp-rajya-sabha-bypoll/article71635040.ece",
+        "date": "2026-10-29",
+        "text": "Cyclone Arnab has caused heavy rainfall in 17 districts of southern Odisha and resulted in five deaths in Andhra Pradesh. The Andhra Pradesh Chief Minister has announced relief measures for the affected areas.",
+        "link": "https://www.thehindu.com/news/national/cyclone-arnab-weakens-into-depression-imd-alert-odisha-andhra-pradesh-telangana-live-updates-october-29-2026/article71638778.ece",
         "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-28",
-        "text": "The BJP central election committee has formally approved Puri's nomination.",
-        "link": "https://www.ndtv.com/india-news/bjp-picks-hardeep-puri-for-rajya-sabha-bypoll-from-madhya-pradesh-12247548#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
        }
       ]
      }
     },
     {
-     "id": "d9ffa7a26602",
-     "title": "BJP Picks Hardeep Puri For Rajya Sabha Bypoll From Madhya Pradesh",
-     "link": "https://www.ndtv.com/india-news/bjp-picks-hardeep-puri-for-rajya-sabha-bypoll-from-madhya-pradesh-12247548#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-10-28T09:05:33+00:00",
-     "summary": "The BJP has nominated Union Minister Hardeep Singh Puri as its candidate for the upcoming Rajya Sabha bypoll in Madhya Pradesh.",
-     "explain": "The Rajya Sabha is the upper house of India's Parliament, where members are elected by state legislators rather than the general public. A 'bypoll' is a special election held to fill a seat that becomes vacant before a member's term officially expires.",
+     "id": "15a24b7e945f",
+     "title": "Karnataka High Court flags irony: Law meant to curb red tapism bogged down it",
+     "link": "https://www.thehindu.com/news/national/karnataka/karnataka-hcflags-irony-law-meant-to-curb-red-tapism-bogged-down-it/article71636393.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-29T01:54:23+00:00",
+     "summary": "The Karnataka High Court criticized government officials for failing to follow the legal time limits for filing appeals as mandated by the Karnataka Conduct of Government Litigation Act, 2023.",
+     "explain": "Red tapism refers to excessive or complicated administrative rules that slow down decision-making. The court is noting that while the law was designed to make the government more efficient in court, officials are still missing deadlines, which effectively creates the very delays the law intended to fix.",
      "related": [],
      "story": {
-      "id": "india-rajya-sabha-bypoll-in-madhya-pradesh",
-      "title": "Rajya Sabha Bypoll in Madhya Pradesh",
-      "so_far": "A Rajya Sabha seat in Madhya Pradesh became vacant following the resignation of L. Murugan from the Council of Ministers and his parliamentary position. A by-election has been scheduled for November 12, 2026, to fill the vacancy.",
+      "id": "india-government-litigation-efficiency",
+      "title": "Government Litigation Efficiency",
+      "so_far": "State governments in India often face significant backlogs in court cases, partly due to slow internal administrative processes. New laws like the 2023 Act aim to streamline how the government handles its legal affairs to prevent unnecessary delays in the justice system.",
       "timeline": [
        {
-        "date": "2026-10-28",
-        "text": "Hardeep Singh Puri has been officially named as the BJP's candidate for the seat vacated by L. Murugan.",
-        "link": "https://www.thehindu.com/news/national/madhya-pradesh/bjp-names-hardeep-singh-puri-as-candidate-for-mp-rajya-sabha-bypoll/article71635040.ece",
+        "date": "2026-10-29",
+        "text": "The Karnataka High Court criticized government officials for failing to follow the legal time limits for filing appeals as mandated by the Karnataka Conduct of Government Litigation Act, 2023.",
+        "link": "https://www.thehindu.com/news/national/karnataka/karnataka-hcflags-irony-law-meant-to-curb-red-tapism-bogged-down-it/article71636393.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "7bf98b823789",
+     "title": "‘RSS Friends’ registers in U.S. to step up outreach, correct inaccuracies",
+     "link": "https://www.thehindu.com/news/international/rss-friends-registers-in-us-to-step-up-outreach-correct-inaccuracies/article71638780.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-29T01:53:56+00:00",
+     "summary": "The 'RSS Friends' organization has registered in the U.S. to improve its outreach efforts and clarify its relationship with the Rashtriya Swayamsevak Sangh (RSS).",
+     "explain": "A 'foreign principal' in this legal registration context refers to the organization abroad that is the primary benefactor or director of the local branch. This move is an attempt to shape how the organization is perceived by the public and government in the United States.",
+     "related": [],
+     "story": {
+      "id": "india-rss-global-outreach-efforts",
+      "title": "RSS Global Outreach Efforts",
+      "so_far": "The RSS is a major right-wing, Hindu nationalist volunteer organization in India. It periodically seeks to expand its influence and present its ideological perspective to international audiences, particularly the Indian diaspora.",
+      "timeline": [
+       {
+        "date": "2026-10-29",
+        "text": "The 'RSS Friends' organization has registered in the U.S. to improve its outreach efforts and clarify its relationship with the Rashtriya Swayamsevak Sangh (RSS).",
+        "link": "https://www.thehindu.com/news/international/rss-friends-registers-in-us-to-step-up-outreach-correct-inaccuracies/article71638780.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "5057bd285f78",
+     "title": "Poland pivots towards India as ‘strategic partnership’ with China develops cracks",
+     "link": "https://www.thehindu.com/news/national/poland-pivots-towards-india-as-strategic-partnership-with-china-develops-cracks/article71636517.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-29T01:49:39+00:00",
+     "summary": "Poland and India are strengthening their partnership and aim to increase bilateral trade, as Poland seeks to diversify its economic ties away from China.",
+     "explain": "A 'strategic partnership' is a long-term agreement between countries to cooperate on defense, trade, and technology. Poland's shift is important because it reflects a broader global trend of countries reconsidering their economic dependence on China due to geopolitical tensions and trade imbalances.",
+     "related": [],
+     "story": {
+      "id": "india-international-diplomatic-visit-to-india",
+      "title": "International Diplomatic Visit to India",
+      "so_far": "Trade agreements between India and the US represent major diplomatic efforts to reduce tariffs and improve economic cooperation. These deals often cover sectors like technology, agriculture, and manufacturing, aiming to balance trade deficits and boost industrial growth in both countries.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "Marco Rubio has landed in Mumbai to begin a series of high-level meetings, including discussions with External Affairs Minister Jaishankar.",
+        "link": "https://www.thehindu.com/news/national/marco-rubio-mumbai-visit-october-20-2026/article71603994.ece",
         "source": "India Latest News: Top National Headline"
        },
        {
-        "date": "2026-10-28",
-        "text": "The BJP central election committee has formally approved Puri's nomination.",
-        "link": "https://www.ndtv.com/india-news/bjp-picks-hardeep-puri-for-rajya-sabha-bypoll-from-madhya-pradesh-12247548#publisher=newsstand",
+        "date": "2026-10-27",
+        "text": "Piyush Goyal confirmed that trade talks between India and the US are nearing conclusion.",
+        "link": "https://www.ndtv.com/india-news/india-us-conclude-most-trade-pact-talks-fine-tuning-agreement-piyush-goyal-12240286#publisher=newsstand",
         "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-29",
+        "text": "Poland and India have elevated their bilateral goals, aiming to increase trade from $6 billion to $10 billion while moving away from reliance on China.",
+        "link": "https://www.thehindu.com/news/national/poland-pivots-towards-india-as-strategic-partnership-with-china-develops-cracks/article71636517.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "2f349668b8b5",
+     "title": "Unmarried rural youth in Maharashtra plan Statewide stir for government help in getting brides",
+     "link": "https://www.thehindu.com/news/national/maharashtra/unmarried-rural-youth-in-maharashtra-plan-statewide-stir-for-govt-help-in-getting-brides/article71637249.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-10-29T01:48:45+00:00",
+     "summary": "Unmarried rural youth in Maharashtra are organizing protests to demand government assistance in finding brides and improving rural economic conditions.",
+     "explain": "The protesters are linking social concerns (the difficulty of finding spouses) to economic ones (lack of rural jobs and low crop prices). They argue that the state government should provide financial and institutional support to improve the quality of life for rural men.",
+     "related": [],
+     "story": {
+      "id": "india-maharashtra-rural-youth-protests",
+      "title": "Maharashtra Rural Youth Protests",
+      "so_far": "Demographic and economic imbalances in rural India, such as a gender ratio skew and high unemployment, have created social friction in various states. These issues often lead to public advocacy campaigns directed at the state government to address marriageability and economic stability.",
+      "timeline": [
+       {
+        "date": "2026-10-29",
+        "text": "Unmarried rural youth in Maharashtra are organizing protests to demand government assistance in finding brides and improving rural economic conditions.",
+        "link": "https://www.thehindu.com/news/national/maharashtra/unmarried-rural-youth-in-maharashtra-plan-statewide-stir-for-govt-help-in-getting-brides/article71637249.ece",
+        "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
      "id": "1d0bd1d33f3b",
-     "title": "Cyclone ‘Arnab’ LIVE updates | Three killed in Andhra after landfall near Narsapur; storm weakens",
+     "title": "Cyclone ‘Arnab’ highlights | Five killed in Andhra; Telangana extends support to Andhra for restoration works",
      "link": "https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-28T11:06:01+00:00",
+     "published": "2026-10-29T01:33:35+00:00",
      "summary": "Cyclone Arnab struck near Narsapur in Andhra Pradesh, resulting in three deaths and significant agricultural damage.",
      "explain": "Cyclones are intense weather systems with strong, rotating winds that form over warm ocean waters. They often cause flooding and storm surges when they make landfall, posing significant risks to life and economic stability in coastal regions.",
-     "related": [
-      {
-       "date": "2026-10-27",
-       "title": "Very severe cyclonic storm ‘Arnab’ begins landfall near Narsapur; Vizag battered by rain",
-       "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-landfall-updates/article71633266.ece",
-       "source": "India Latest News: Top National Headline"
-      }
-     ],
+     "related": [],
      "story": {
       "id": "india-cyclone-arnab-impacts-andhra-pradesh",
       "title": "Cyclone Arnab Impacts Andhra Pradesh",
@@ -1049,174 +1128,111 @@
      }
     },
     {
-     "id": "71d3a4c49f5d",
-     "title": "26 dogs rescued from suspected meat trade in Assam",
-     "link": "https://www.thehindu.com/news/national/assam/26-dogs-rescued-from-suspected-meat-trade-in-assam/article71635389.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-28T11:04:53+00:00",
-     "summary": "Authorities in Assam rescued 26 dogs suspected to be victims of an illegal meat trade operation.",
-     "explain": "Illegal wildlife or domestic animal trading often involves capturing animals for food or sale. It is a criminal offense in India under various animal welfare and cruelty prevention statutes.",
+     "id": "5a23962bcb8b",
+     "title": "Navodaya Class 6 Admit Card 2027 Released; Check Exam Date, Download Steps",
+     "link": "https://www.ndtv.com/education/navodaya-jnvst-class-6-admit-card-2027-released-check-exam-date-download-steps-12251345#publisher=newsstand",
+     "source": "NDTV News Search Records Found 1000",
+     "published": "2026-10-29T01:33:16+00:00",
+     "summary": "The entrance exam for Class 6 at Jawahar Navodaya Vidyalayas (JNV) is set for November 28, 2026, with admit cards now available.",
+     "explain": "The JNVST (Jawahar Navodaya Vidyalaya Selection Test) is an entrance exam for these government-funded residential schools. It is significant because these schools provide high-quality education at low costs to students who might otherwise lack access to such resources.",
      "related": [],
      "story": {
-      "id": "india-illegal-animal-trafficking-in-assam",
-      "title": "Illegal Animal Trafficking in Assam",
-      "so_far": "Assam has seen increasing reports of organized trafficking involving domestic animals. Local authorities and animal welfare organizations often work together to dismantle these smuggling networks and enforce animal protection laws.",
+      "id": "india-navodaya-admissions-process",
+      "title": "Navodaya Admissions Process",
+      "so_far": "Jawahar Navodaya Vidyalayas are a system of central government schools in India, primarily for gifted students from rural areas. Admission is highly competitive and controlled by a standardized national testing process.",
       "timeline": [
        {
-        "date": "2026-10-28",
-        "text": "Rescuers found the animals in inhumane conditions and are currently overseeing their veterinary recovery.",
-        "link": "https://www.thehindu.com/news/national/assam/26-dogs-rescued-from-suspected-meat-trade-in-assam/article71635389.ece",
-        "source": "India Latest News: Top National Headline"
+        "date": "2026-10-29",
+        "text": "The entrance exam for Class 6 at Jawahar Navodaya Vidyalayas (JNV) is set for November 28, 2026, with admit cards now available.",
+        "link": "https://www.ndtv.com/education/navodaya-jnvst-class-6-admit-card-2027-released-check-exam-date-download-steps-12251345#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
        }
       ]
      }
     },
     {
-     "id": "0ca0efab12f7",
-     "title": "Supreme Court allows petitioner seeking pre-loaded drop-down caste menu in Census to approach Registrar General",
-     "link": "https://www.thehindu.com/news/national/supreme-court-allows-petitioner-seeking-pre-loaded-drop-down-census-caste-menu-to-approach-rgi/article71635086.ece",
+     "id": "3d0a1bdceaff",
+     "title": "Karnataka SIR: 64.5 lakh voters potentially missing in rolls, majority of them young",
+     "link": "https://www.thehindu.com/data/karnataka-sir-645-lakh-voters-potentially-missing-in-rolls-majority-of-them-young/article71638758.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-10-28T11:02:37+00:00",
-     "summary": "The Supreme Court has directed the OBC Federation of India to approach the Registrar General regarding a request for a pre-loaded drop-down caste menu in the upcoming 2027 Census.",
-     "explain": "The Registrar General of India is the government official responsible for conducting the national Census. 'Enumeration' refers to the process of counting and collecting data from the population for statistical purposes.",
+     "published": "2026-10-29T01:31:17+00:00",
+     "summary": "Official data from Karnataka reveals that approximately 64.5 lakh people, many of them young, are missing from the state's voter rolls.",
+     "explain": "Voter rolls are the official list of registered citizens eligible to vote. 'Under-enrolment' means that eligible people have not been added to the list, which can suppress turnout and prevent citizens from exercising their right to vote. The Elector-to-population ratio is a metric used to check if the number of voters aligns with the actual population data.",
      "related": [],
      "story": {
-      "id": "india-demands-for-2027-census-transparency",
-      "title": "Demands for 2027 Census Transparency",
-      "so_far": "The Census is a massive administrative exercise conducted every decade to gather demographic and socioeconomic data. Recent discussions have focused on whether the process should include caste-based data to better tailor government welfare schemes.",
+      "id": "india-election-commission-internal-operations",
+      "title": "Election Commission Internal Operations",
+      "so_far": "The ECI is an independent body that manages Indian elections. Procedures like Form 6 (used for voter registration) are crucial for ensuring the integrity of the electoral roll. Recent scrutiny from the Supreme Court suggests that the legal framework for these forms is a point of significant judicial interest.",
       "timeline": [
        {
-        "date": "2026-10-28",
-        "text": "The petitioner argues that a digital drop-down menu is necessary for accurate enumeration of Socially and Educationally Backward Classes (SEBCs) given the large budget allocation.",
-        "link": "https://www.thehindu.com/news/national/supreme-court-allows-petitioner-seeking-pre-loaded-drop-down-census-caste-menu-to-approach-rgi/article71635086.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "e55b9795589a",
-     "title": "U.P. MLC polls: Akhilesh congratulates SP's winning candidates, urges them to avoid victory processions",
-     "link": "https://www.thehindu.com/news/national/uttar-pradesh/up-mlc-polls-akhilesh-congratulates-sps-winning-candidates-urges-them-to-avoid-victory-processions/article71635449.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-28T11:02:33+00:00",
-     "summary": "The Samajwadi Party (SP) has secured two seats in the Uttar Pradesh Legislative Council elections.",
-     "explain": "The Legislative Council, or Vidhan Parishad, is the upper house in some Indian state legislatures, similar to the Rajya Sabha at the national level. Elections to this body are often seen as barometers for the ruling party's influence.",
-     "related": [],
-     "story": {
-      "id": "india-uttar-pradesh-legislative-council-electi",
-      "title": "Uttar Pradesh Legislative Council Elections",
-      "so_far": "Legislative Council elections in Uttar Pradesh involve voting for members of the upper house of the state legislature. These elections are significant indicators of political strength in India's most populous state.",
-      "timeline": [
-       {
-        "date": "2026-10-28",
-        "text": "SP leader Akhilesh Yadav celebrated the win while advising candidates to maintain order and avoid excessive victory processions.",
-        "link": "https://www.thehindu.com/news/national/uttar-pradesh/up-mlc-polls-akhilesh-congratulates-sps-winning-candidates-urges-them-to-avoid-victory-processions/article71635449.ece",
+        "date": "2026-10-23",
+        "text": "Documentation revealed that the Cabinet Secretary received a copy of communications between the Election Commissioners and the Chief Election Commissioner regarding staff management.",
+        "link": "https://www.thehindu.com/news/national/cabinet-secretary-had-copied-acknowledgement-sent-to-letters-by-two-ecs-to-cec-for-information-rti-reply/article71612629.ece",
         "source": "India Latest News: Top National Headline"
        },
        {
-        "date": "2026-10-28",
-        "text": "Votes are still being counted in major cities across the state, including Lucknow and Varanasi.",
-        "link": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-mlc-election-results-2026-meerut-varanasi-gorakhpur/article71634397.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "1c2a6d45649a",
-     "title": "A Delhi event unveils fault lines in the Dalit-OBC formulation of SP politics",
-     "link": "https://www.thehindu.com/news/national/uttar-pradesh/a-delhi-event-unveils-fault-lines-in-the-dalit-obc-formulation-of-sp-politics/article71632477.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-28T10:50:09+00:00",
-     "summary": "Internal political discussions in the Samajwadi Party (SP) are surfacing regarding the limits of its current Dalit-OBC electoral strategy.",
-     "explain": "Lohiaite policies refer to the socialist ideology of Ram Manohar Lohia, emphasizing caste-based empowerment. Dalit and OBC represent marginalized communities that form the core of many state-level political coalitions in North India.",
-     "related": [],
-     "story": {
-      "id": "india-samajwadi-party-political-strategy",
-      "title": "Samajwadi Party Political Strategy",
-      "so_far": "The Samajwadi Party has historically relied on 'Lohiaite' policies, focusing on social justice and numerical aggregation of backward caste voters. It is currently navigating evolving alliances and identity-based politics in Uttar Pradesh.",
-      "timeline": [
-       {
-        "date": "2026-10-28",
-        "text": "Public debates over symbolic gestures, such as the recitation of Ambedkar's vows, have highlighted friction between traditional political philosophies and modern coalition tactics.",
-        "link": "https://www.thehindu.com/news/national/uttar-pradesh/a-delhi-event-unveils-fault-lines-in-the-dalit-obc-formulation-of-sp-politics/article71632477.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "a854b3fc509e",
-     "title": "Keralam govt approves J.C. Daniel film city project at Kinfra’s Petrochemicals Park in Ambalamugal",
-     "link": "https://www.thehindu.com/news/national/kerala/keralam-govt-approves-jc-daniel-film-city-project-at-kinfras-petrochemicals-park-in-ambalamugal/article71634590.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-28T10:49:36+00:00",
-     "summary": "The Kerala government has approved the establishment of the J.C. Daniel Film City project in Ambalamugal.",
-     "explain": "A 'Film City' is a centralized hub equipped with studios, sets, and post-production facilities designed to streamline filmmaking. Public-private partnerships involve the government working with private companies to share the costs and management of large infrastructure projects.",
-     "related": [],
-     "story": {
-      "id": "india-kerala-film-industry-development",
-      "title": "Kerala Film Industry Development",
-      "so_far": "The state of Kerala has a robust film industry and is seeking to modernize its infrastructure to attract international productions and foster local talent through dedicated studio hubs.",
-      "timeline": [
-       {
-        "date": "2026-10-28",
-        "text": "The project will span 30 acres with an estimated cost of ₹100 crore, utilizing a public-private partnership model.",
-        "link": "https://www.thehindu.com/news/national/kerala/keralam-govt-approves-jc-daniel-film-city-project-at-kinfras-petrochemicals-park-in-ambalamugal/article71634590.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "b7126e105a16",
-     "title": "Uttar Pradesh MLC polls: BJP wins five seats, SP three; counting underway",
-     "link": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-mlc-election-results-2026-meerut-varanasi-gorakhpur/article71634397.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-28T10:49:33+00:00",
-     "summary": "The BJP has won five seats while the Samajwadi Party has taken three in the ongoing Uttar Pradesh Legislative Council (MLC) elections.",
-     "explain": "The Legislative Council, or Vidhan Parishad, is the upper house in some Indian state legislatures, similar to the Rajya Sabha at the national level. Elections to this body are often seen as barometers for the ruling party's influence.",
-     "related": [],
-     "story": {
-      "id": "india-uttar-pradesh-legislative-council-electi",
-      "title": "Uttar Pradesh Legislative Council Elections",
-      "so_far": "Legislative Council elections in Uttar Pradesh involve voting for members of the upper house of the state legislature. These elections are significant indicators of political strength in India's most populous state.",
-      "timeline": [
-       {
-        "date": "2026-10-28",
-        "text": "SP leader Akhilesh Yadav celebrated the win while advising candidates to maintain order and avoid excessive victory processions.",
-        "link": "https://www.thehindu.com/news/national/uttar-pradesh/up-mlc-polls-akhilesh-congratulates-sps-winning-candidates-urges-them-to-avoid-victory-processions/article71635449.ece",
+        "date": "2026-10-27",
+        "text": "The ECI filed an affidavit asserting that the CEC's removal must follow the same strict process as that of a Supreme Court justice to maintain autonomy.",
+        "link": "https://www.thehindu.com/news/national/cec-can-be-removed-only-like-a-supreme-court-judge-eci-tells-top-court/article71628290.ece",
         "source": "India Latest News: Top National Headline"
        },
        {
-        "date": "2026-10-28",
-        "text": "Votes are still being counted in major cities across the state, including Lucknow and Varanasi.",
-        "link": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-mlc-election-results-2026-meerut-varanasi-gorakhpur/article71634397.ece",
+        "date": "2026-10-27",
+        "text": "The ECI clarified that a new mandatory declaration for voters is technically separate from standard Form 6 following Supreme Court interest in the matter.",
+        "link": "https://www.thehindu.com/news/national/ecis-stand-that-additional-declaration-is-not-part-of-form-6-comes-days-after-sc-said-it-will-examine-new-form-6/article71629933.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-29",
+        "text": "A new report from Karnataka officials indicates significant under-enrolment in the voter registry, specifically among the 18-29 age demographic.",
+        "link": "https://www.thehindu.com/data/karnataka-sir-645-lakh-voters-potentially-missing-in-rolls-majority-of-them-young/article71638758.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "e0cafa4c1f81",
-     "title": "Theni jailbreak: Two more prisoners secured; two still at large",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/theni-jailbreak-two-more-prisoners-secured-two-still-at-large/article71635358.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-10-28T10:48:39+00:00",
-     "summary": "Two more prisoners involved in a recent jailbreak in Theni have been apprehended, with two individuals still at large.",
-     "explain": "Remand prisoners are individuals held in custody while awaiting their trial. A 'jailbreak' refers to unauthorized exit from a correctional facility, which is a major violation of law and security policy.",
+     "id": "cd5ed713657b",
+     "title": "Uttarakhand Declares Public Holiday For Female Employees On Karwa Chauth",
+     "link": "https://www.ndtv.com/india-news/uttarakhand-declares-public-holiday-for-female-employees-on-karwa-chauth-12250691#publisher=newsstand",
+     "source": "NDTV News Search Records Found 1000",
+     "published": "2026-10-29T01:27:57+00:00",
+     "summary": "The Uttarakhand government has declared a public holiday on October 29 for female employees to observe the Karwa Chauth festival.",
+     "explain": "Karwa Chauth is a traditional Hindu festival observed by married women who fast for the longevity and safety of their husbands. A public holiday means government offices and schools remain closed for the day.",
      "related": [],
      "story": {
-      "id": "india-theni-prison-security-breach",
-      "title": "Theni Prison Security Breach",
-      "so_far": "Jailbreaks are rare security failures that trigger immediate inquiries into prison staffing, corruption, and infrastructure. These events often lead to the suspension of responsible officials and heightened security protocols.",
+      "id": "india-uttarakhand-public-holiday",
+      "title": "Uttarakhand Public Holiday",
+      "so_far": "Indian states frequently declare local or restricted holidays for festivals that hold significant cultural or religious importance to their residents. These holidays are managed by state administrative offices.",
       "timeline": [
        {
-        "date": "2026-10-28",
-        "text": "A total of 17 prisoners had initially escaped by deceiving a warder, with police operations ongoing to locate the remaining fugitives.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/theni-jailbreak-two-more-prisoners-secured-two-still-at-large/article71635358.ece",
-        "source": "India Latest News: Top National Headline"
+        "date": "2026-10-29",
+        "text": "The Uttarakhand government has declared a public holiday on October 29 for female employees to observe the Karwa Chauth festival.",
+        "link": "https://www.ndtv.com/india-news/uttarakhand-declares-public-holiday-for-female-employees-on-karwa-chauth-12250691#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       }
+      ]
+     }
+    },
+    {
+     "id": "424e61591100",
+     "title": "Assam Rifles Chief Visits India-Myanmar Border, Reviews Fencing In Manipur",
+     "link": "https://www.ndtv.com/india-news/assam-rifles-chief-vikas-lakhera-visits-india-myanmar-border-reviews-fencing-in-manipur-12251325#publisher=newsstand",
+     "source": "NDTV News Search Records Found 1000",
+     "published": "2026-10-29T01:23:40+00:00",
+     "summary": "The Chief of the Assam Rifles visited the India-Myanmar border in Manipur to oversee the progress of border fencing efforts.",
+     "explain": "The Assam Rifles is a specialized military force responsible for border security and internal stability in Northeast India. Building a fence is a key national security priority to manage illegal migration, smuggling, and cross-border insurgency.",
+     "related": [],
+     "story": {
+      "id": "india-india-myanmar-border-security",
+      "title": "India-Myanmar Border Security",
+      "so_far": "The India-Myanmar border has been a zone of security concern due to insurgent movements and cross-border criminal activity. The Indian government is actively working to secure the boundary through physical infrastructure like fencing.",
+      "timeline": [
+       {
+        "date": "2026-10-29",
+        "text": "The Chief of the Assam Rifles visited the India-Myanmar border in Manipur to oversee the progress of border fencing efforts.",
+        "link": "https://www.ndtv.com/india-news/assam-rifles-chief-vikas-lakhera-visits-india-myanmar-border-reviews-fencing-in-manipur-12251325#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
        }
       ]
      }
@@ -1227,345 +1243,387 @@
    "label": "World",
    "articles": [
     {
-     "id": "1f1bb92ac137",
-     "title": "Norway and Finland leaders hold rare call with Putin",
-     "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-10-27T18:28:23+00:00",
-     "summary": "Leaders from Norway and Finland held a rare diplomatic call with Vladimir Putin to discuss the ongoing conflict in Ukraine.",
-     "explain": "This diplomatic outreach is significant because direct communication between Western leaders and Putin has become extremely rare since the 2022 invasion. It indicates a renewed, albeit fragile, attempt to reopen channels of communication to explore potential paths toward ending the hostilities, rejecting the idea that ignoring the situation will lead to peace.",
-     "related": [],
-     "story": {
-      "id": "world-diplomatic-talks-on-ukraine",
-      "title": "Diplomatic Talks on Ukraine",
-      "so_far": "The war in Ukraine has been ongoing since the 2022 Russian invasion, causing significant destruction and displacing millions. International actors, including the U.S., have been deeply involved in supporting Ukraine through military and financial aid, while periodically attempting to facilitate negotiations to end the conflict.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "Upcoming discussions in Oslo include leaders from Norway and Finland to coordinate support and strategy for the war.",
-        "link": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-10-21",
-        "text": "Russia has agreed in principle to resume peace talks, yet continued its missile offensive against Kyiv simultaneously.",
-        "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-10-21",
-        "text": "Putin has formally agreed to a three-way negotiation process involving the U.S. and Ukraine.",
-        "link": "https://www.thehindu.com/news/international/putin-xi-trump-summit-being-prepared-kremlin/article71608186.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Both nations exchanged drone and missile strikes, injuring civilians in both Kyiv and Moscow, even as they speak about returning to peace talks.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-and-ukraine-trade-attacks-despite-pledging-to-resume-peace-talks?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "Despite claiming to be 'in principle' ready for peace talks, Russia conducted major missile strikes on Ukraine.",
-        "link": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-10-23",
-        "text": "Following a meeting in Saint Petersburg between Vladimir Putin and Steve Witkoff, Russia has indicated it is ready to return to the negotiating table next month.",
-        "link": "https://www.thehindu.com/news/international/talks-between-russia-ukraine-and-us-planned-to-resume-in-november-in-abu-dhabi/article71615588.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-10-27",
-        "text": "A localized truce in Oleshky, brokered by First Lady Melania Trump, has begun to allow for urgent humanitarian aid and civilian evacuations.",
-        "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-10-27",
-        "text": "Both warring parties have publicly committed to observing the U.S.-brokered truce in Oleshky.",
-        "link": "https://www.thehindu.com/news/international/us-brokered-truce-begins-in-ukraine-city-occupied-by-russia/article71629729.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-10-27",
-        "text": "The leaders of Finland and Norway have engaged in a direct call with Vladimir Putin, emphasizing that silence will not resolve the war.",
-        "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "33e128af1f3b",
-     "title": "Israel polls: Golan urges Eisenkot's bloc to form government with Arab parties to oust Netanyahu",
-     "link": "https://www.thehindu.com/news/international/israel-polls-golan-urges-eisenkots-bloc-to-form-government-with-arab-parties-to-oust-netanyahu/article71635413.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-10-28T10:49:54+00:00",
-     "summary": "Opposition figures are debating whether to include Arab-led parties in a governing coalition to potentially displace Prime Minister Benjamin Netanyahu.",
-     "explain": "In Israel's parliamentary system, a party must form a coalition holding a majority of 120 seats to govern. Because elections often result in fragmented outcomes, parties must negotiate complex alliances. Including Arab parties is controversial for many Jewish-Israeli politicians due to deep-seated ideological differences regarding the state's identity and national security policies.",
-     "related": [],
-     "story": {
-      "id": "world-israeli-government-formation-standoff",
-      "title": "Israeli Government Formation Standoff",
-      "so_far": "Following recent elections, neither Prime Minister Benjamin Netanyahu's faction nor the opposition bloc led by Gadi Eisenkot has secured a clear majority of seats in the Knesset. Both sides face a difficult path to power, as relying on smaller, ideologically divergent parties—particularly those representing Arab citizens—remains a highly contentious issue in Israeli politics.",
-      "timeline": [
-       {
-        "date": "2026-10-28",
-        "text": "Allies within the opposition are currently split on whether to partner with Arab parties to reach a parliamentary majority.",
-        "link": "https://www.thehindu.com/news/international/israel-polls-golan-urges-eisenkots-bloc-to-form-government-with-arab-parties-to-oust-netanyahu/article71635413.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-10-28",
-        "text": "Recent projections confirm that both major factions lack enough seats to govern without reaching difficult compromises.",
-        "link": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "17a619a04e84",
-     "title": "Burnham’s government unveils its first UK budget: What to expect",
-     "link": "https://www.aljazeera.com/news/2026/10/28/burnhams-government-unveils-its-first-uk-budget-what-to-expect?traffic_source=rss",
+     "id": "b87835ce0672",
+     "title": "Bolsonaro in Miami: I am the ‘true president-elect’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/bolsonaro-in-miami-i-am-the-true-president?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-28T10:42:52+00:00",
-     "summary": "The new UK government, led by Prime Minister Burnham, is preparing to present its first budget to address the ongoing cost-of-living crisis and rising energy expenses.",
-     "explain": "A government budget is an annual plan outlining how the state will collect revenue (primarily through taxes) and allocate spending on services like healthcare, infrastructure, and defense. It is a critical political tool that signals the administration's priorities and attempts to address macroeconomic challenges like inflation, which is the general increase in prices over time.",
+     "published": "2026-10-29T02:01:09+00:00",
+     "summary": "Flávio Bolsonaro has declared himself the \"true president-elect\" of Brazil while currently in the United States.",
+     "explain": "Flávio Bolsonaro is a prominent Brazilian politician whose recent defeat has triggered significant political instability. By claiming to be the \"true president-elect,\" he is challenging the official results, a common tactic in polarized elections. His presence in Miami has sparked debate about his status and potential efforts to lead an opposition movement from abroad.",
      "related": [],
      "story": {
-      "id": "world-uk-government-budget-presentation",
-      "title": "UK Government Budget Presentation",
-      "so_far": "The UK has faced significant economic headwinds characterized by high inflation and increased household energy costs. Following a change in government leadership, the new administration is under pressure to deliver policy measures that stimulate growth while managing public debt and supporting struggling citizens.",
+      "id": "world-bolsonaro-claims-presidency-from-exile",
+      "title": "Bolsonaro Claims Presidency from Exile",
+      "so_far": "Following his recent election defeat in Brazil, far-right politician Flávio Bolsonaro fled to Miami with his family. His journey involved transiting through Argentina and Ecuador before reaching the U.S., where he continues to contest the legitimacy of the electoral results.",
       "timeline": [
        {
         "date": "2026-10-28",
-        "text": "The Chancellor is set to unveil the administration's debut autumn budget aimed at stabilizing the economy.",
-        "link": "https://www.aljazeera.com/news/2026/10/28/burnhams-government-unveils-its-first-uk-budget-what-to-expect?traffic_source=rss",
+        "text": "Flávio Bolsonaro has fled to Miami following his defeat in the Brazilian presidential election.",
+        "link": "https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "Investigative reporting has tracked Flávio Bolsonaro's escape route through South America to reach the United States.",
+        "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-10-29",
+        "text": "Flávio Bolsonaro has declared himself the \"true president-elect\" of Brazil while currently in the United States.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/bolsonaro-in-miami-i-am-the-true-president?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
        }
       ]
      }
     },
     {
-     "id": "50a7b1805e54",
-     "title": "Israeli forces continue West Bank raids as Hebron lockdown enters sixth day",
-     "link": "https://www.aljazeera.com/news/2026/10/28/israeli-forces-continue-west-bank-raids-as-hebron-lockdown-enters-sixth-day?traffic_source=rss",
+     "id": "f1930af364a4",
+     "title": "What’s next for Brazil’s Flavio Bolsonaro after election defeat?",
+     "link": "https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-28T10:41:07+00:00",
-     "summary": "Israeli military operations in the West Bank continue, with the city of Hebron entering its sixth day under lockdown.",
-     "explain": "The West Bank is a territory under Israeli military occupation where Palestinian communities live. A 'lockdown' involves the restriction of movement in and out of an area, often implemented by security forces for safety or control purposes. These actions are frequent points of international tension between Israel and organizations monitoring human rights.",
+     "published": "2026-10-28T20:38:01+00:00",
+     "summary": "Flávio Bolsonaro has fled to Miami following his defeat in the Brazilian presidential election.",
+     "explain": "This article details the physical flight of the defeated candidate, highlighting his movement from Brazil to the United States. It emphasizes the personal and political fallout of his election loss and his relocation to Florida.",
      "related": [
       {
-       "date": "2026-10-25",
-       "title": "Israeli forces turn Hebron homes into military posts amid lockdown",
-       "link": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss",
+       "date": "2026-10-26",
+       "title": "Bolsonaro calls for Brazil election results to be 'annulled' after loss to Lula",
+       "link": "https://www.thehindu.com/news/international/bolsonaro-challenges-brazil-election-results-after-lulas-victory/article71625500.ece",
+       "source": "World News: Latest International News & "
+      },
+      {
+       "date": "2026-10-26",
+       "title": "Bolsonaro calls for Brazil election result to be annulled",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss",
+       "source": "Al Jazeera – Breaking News, World News a"
+      },
+      {
+       "date": "2026-10-26",
+       "title": "Flavio Bolsonaro ‘will not give up’ after Brazil election results",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss",
+       "source": "Al Jazeera – Breaking News, World News a"
+      },
+      {
+       "date": "2026-10-27",
+       "title": "Bolsonaro’s party accepts Brazil election after Trump calls vote ‘rigged’",
+       "link": "https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was?traffic_source=rss",
+       "source": "Al Jazeera – Breaking News, World News a"
+      },
+      {
+       "date": "2026-10-27",
+       "title": "Brazil's Flavio Bolsonaro headed to U.S. after losing election, sources say",
+       "link": "https://www.thehindu.com/news/international/brazilsflavio-bolsonaro-headed-to-us-after-losing-election-sources-say/article71633165.ece",
+       "source": "World News: Latest International News & "
+      },
+      {
+       "date": "2026-10-27",
+       "title": "Flavio Bolsonaro flees Brazil after election loss, US says will grant visa",
+       "link": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss",
        "source": "Al Jazeera – Breaking News, World News a"
       }
      ],
      "story": {
-      "id": "world-israeli-palestinian-west-bank-tensions",
-      "title": "Israeli-Palestinian West Bank Tensions",
-      "so_far": "The West Bank has experienced a surge in violence and military activity, with regular raids by Israeli security forces. These operations often lead to restrictions on movement, such as lockdowns, which significantly disrupt the lives of Palestinian residents and draw concern from international humanitarian organizations.",
+      "id": "world-bolsonaro-claims-presidency-from-exile",
+      "title": "Bolsonaro Claims Presidency from Exile",
+      "so_far": "Following his recent election defeat in Brazil, far-right politician Flávio Bolsonaro fled to Miami with his family. His journey involved transiting through Argentina and Ecuador before reaching the U.S., where he continues to contest the legitimacy of the electoral results.",
       "timeline": [
        {
         "date": "2026-10-28",
-        "text": "The UN has raised alarms regarding the humanitarian situation in Hebron as military raids persist.",
-        "link": "https://www.aljazeera.com/news/2026/10/28/israeli-forces-continue-west-bank-raids-as-hebron-lockdown-enters-sixth-day?traffic_source=rss",
+        "text": "Flávio Bolsonaro has fled to Miami following his defeat in the Brazilian presidential election.",
+        "link": "https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "Investigative reporting has tracked Flávio Bolsonaro's escape route through South America to reach the United States.",
+        "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-10-29",
+        "text": "Flávio Bolsonaro has declared himself the \"true president-elect\" of Brazil while currently in the United States.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/bolsonaro-in-miami-i-am-the-true-president?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
        }
       ]
      }
     },
     {
-     "id": "a93954f2dff8",
-     "title": "‘Russia is already part of who I am’: African students in Moscow",
-     "link": "https://www.aljazeera.com/news/2026/10/28/russia-is-already-part-of-who-i-am-african-students-in-moscow?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-28T10:40:52+00:00",
-     "summary": "A Russia-Africa summit is underway, focusing on strengthening educational and diplomatic ties as African students share experiences of living in Moscow.",
-     "explain": "Diplomatic summits are formal meetings between world leaders to discuss trade, security, and cooperation. Russia's focus on education for African students is a 'soft power' strategy, which uses cultural and academic influence to build favorable relations and long-term political alliances with developing nations.",
-     "related": [],
-     "story": {
-      "id": "world-russia-africa-diplomatic-summit",
-      "title": "Russia-Africa Diplomatic Summit",
-      "so_far": "Russia has been actively seeking to broaden its influence in Africa, offering scholarships, security cooperation, and economic partnership as alternatives to Western alliances. This outreach aims to solidify Russia's diplomatic standing on the continent despite international isolation elsewhere.",
-      "timeline": [
-       {
-        "date": "2026-10-28",
-        "text": "The summit highlights the role of student exchange programs in fostering long-term cooperation between Russia and African nations.",
-        "link": "https://www.aljazeera.com/news/2026/10/28/russia-is-already-part-of-who-i-am-african-students-in-moscow?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
-    },
-    {
-     "id": "3f24b3a9822f",
-     "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
-     "link": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
+     "id": "d97c63ac8fd0",
+     "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+     "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-10-28T10:35:13+00:00",
-     "summary": "Both Netanyahu and Eisenkot are struggling to form a government as election results show neither has a definitive majority.",
-     "explain": "When no single party or pre-arranged bloc wins more than 60 of the 120 seats in the Israeli parliament, a 'hung parliament' occurs. Leaders must engage in intense coalition talks. If they fail to build a majority, the country risks further political instability or even a return to the polls for another election.",
+     "published": "2026-10-28T20:24:39+00:00",
+     "summary": "Partial results indicate Benjamin Netanyahu's right-wing bloc is leading in the Israeli elections but currently lacks a majority in the Knesset.",
+     "explain": "The Knesset is Israel's parliament. Because no single party typically wins a majority of the 120 seats, parties must form coalitions to govern. When a bloc like Netanyahu's falls short of 61 seats, it leads to political gridlock where parties must negotiate extensively to build a working majority.",
      "related": [],
      "story": {
-      "id": "world-israeli-government-formation-standoff",
-      "title": "Israeli Government Formation Standoff",
-      "so_far": "Following recent elections, neither Prime Minister Benjamin Netanyahu's faction nor the opposition bloc led by Gadi Eisenkot has secured a clear majority of seats in the Knesset. Both sides face a difficult path to power, as relying on smaller, ideologically divergent parties—particularly those representing Arab citizens—remains a highly contentious issue in Israeli politics.",
+      "id": "world-israeli-election-results-and-stalemate",
+      "title": "Israeli Election Results and Stalemate",
+      "so_far": "Israel is holding its first national elections since the October 7 attacks and the subsequent war in Gaza. The political landscape remains deeply fractured, with a high degree of volatility as the country attempts to form a new government amidst ongoing regional conflict.",
       "timeline": [
        {
         "date": "2026-10-28",
-        "text": "Allies within the opposition are currently split on whether to partner with Arab parties to reach a parliamentary majority.",
-        "link": "https://www.thehindu.com/news/international/israel-polls-golan-urges-eisenkots-bloc-to-form-government-with-arab-parties-to-oust-netanyahu/article71635413.ece",
+        "text": "Partial results indicate Benjamin Netanyahu's right-wing bloc is leading in the Israeli elections but currently lacks a majority in the Knesset.",
+        "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "Arab voter turnout in Israel reached nearly 80%, marking the highest participation levels in at least a decade.",
+        "link": "https://www.thehindu.com/news/international/news-analysis-what-has-driven-the-high-arab-turnout-in-israels-elections/article71637664.ece",
         "source": "World News: Latest International News & "
        },
        {
         "date": "2026-10-28",
-        "text": "Recent projections confirm that both major factions lack enough seats to govern without reaching difficult compromises.",
-        "link": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "b8c4b3b571c2",
-     "title": "US midterms: Six days left – who leads in the polls as Trump, Obama rally",
-     "link": "https://www.aljazeera.com/news/2026/10/28/us-midterms-six-days-left-who-leads-in-the-polls-as-trump-obama-rally?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-28T10:31:37+00:00",
-     "summary": "With six days left until the U.S. midterm elections, Democrats hold a slim lead in national polls as both parties intensify their final campaign rallies.",
-     "explain": "Midterm elections in the U.S. happen halfway through a president's term. Voters elect all members of the House of Representatives and one-third of the Senate. These elections act as a referendum on the sitting president's party, often resulting in voters choosing the opposition to provide 'checks and balances' to the current administration.",
-     "related": [],
-     "story": {
-      "id": "world-u-s-midterm-election-outlook",
-      "title": "U.S. Midterm Election Outlook",
-      "so_far": "U.S. midterm elections occur halfway through a president's four-year term and often serve as a referendum on the incumbent's performance. The party in power typically faces significant losses in these cycles.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "Approval ratings have hit historic lows, raising concerns about the impact on the upcoming midterm races.",
-        "link": "https://www.aljazeera.com/news/2026/10/20/trumps-approval-ratings-plummet-what-that-means-for-the-us-midterms?traffic_source=rss",
+        "text": "The Israeli election leaves the nation without a clear winner, complicating the political path forward following a period of intense conflict.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
        },
        {
-        "date": "2026-10-25",
-        "text": "Obama has entered the campaign trail to frame the midterm elections as a referendum on the current administration's economic policies.",
-        "link": "https://www.thehindu.com/news/international/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats/article71622458.ece",
+        "date": "2026-10-28",
+        "text": "Netanyahu's right-wing alliance remains in the lead in the Israeli parliamentary race, though final seat counts are still pending.",
+        "link": "https://www.thehindu.com/news/international/israel-election-results-counting-trends-netanyahu-eisenkot-arab-parties/article71634899.ece",
         "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-10-25",
-        "text": "Obama has broadened his critique of the opposition to include specific foreign policy decisions regarding Middle Eastern conflicts.",
-        "link": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-10-28",
-        "text": "Polls show Democrats maintaining a slight advantage as high-profile figures like Trump and Obama campaign in battleground states.",
-        "link": "https://www.aljazeera.com/news/2026/10/28/us-midterms-six-days-left-who-leads-in-the-polls-as-trump-obama-rally?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
        }
       ]
      }
     },
     {
-     "id": "80819365fc82",
-     "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-     "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-10-28T10:31:22+00:00",
-     "summary": "The Villa Vie Odyssey cruise ship has suspended its global voyage, leaving passengers stranded in Cambodia due to rising fuel costs.",
-     "explain": "A cruise company's business model relies on fixed ticket prices versus variable operating costs like fuel. When fuel costs rise significantly, companies may struggle to cover expenses, leading to service cancellations. In this context, passengers are left without their planned itinerary, necessitating emergency arrangements for their stay in a foreign country.",
-     "related": [],
-     "story": {
-      "id": "world-luxury-cruise-ship-stranded",
-      "title": "Luxury Cruise Ship Stranded",
-      "so_far": "The cruise industry is currently navigating volatile economic conditions, including fluctuating fuel prices and operational hurdles. Instances of 'stranded' passengers are rare, but highlight the logistical risks associated with long-duration global maritime travel.",
-      "timeline": [
-       {
-        "date": "2026-10-28",
-        "text": "Operators are currently negotiating living arrangements for passengers after the voyage was halted indefinitely.",
-        "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "52002fe93147",
-     "title": "At least 10 dead in crash between two trains in Spain’s Toledo province",
-     "link": "https://www.thehindu.com/news/international/several-people-dead-in-crash-between-2-spanish-trains-in-toledo-province/article71635210.ece",
+     "id": "d3c48e2b6f1d",
+     "title": "What has driven the high Arab turnout in Israel’s elections?",
+     "link": "https://www.thehindu.com/news/international/news-analysis-what-has-driven-the-high-arab-turnout-in-israels-elections/article71637664.ece",
      "source": "World News: Latest International News & ",
-     "published": "2026-10-28T10:20:53+00:00",
-     "summary": "A collision between two high-speed trains in Spain's Toledo province has left at least 10 people dead.",
-     "explain": "High-speed rail systems prioritize efficiency and speed, often relying on automated safety and signaling systems to maintain distance between trains. A collision involving a train hitting the rear of another indicates a potential failure in these systems or manual operational error, which will be the focus of the subsequent safety investigation.",
+     "published": "2026-10-28T19:15:27+00:00",
+     "summary": "Arab voter turnout in Israel reached nearly 80%, marking the highest participation levels in at least a decade.",
+     "explain": "The Arab population in Israel is a significant voting bloc that historically oscillates between high engagement and apathy. High turnout is significant because it can shift the balance of power in the Knesset, potentially influencing whether right-wing or left-wing coalitions are able to form a government.",
      "related": [],
      "story": {
-      "id": "world-spanish-train-collision",
-      "title": "Spanish Train Collision",
-      "so_far": "Spain operates a sophisticated high-speed rail network, and while incidents are extremely rare, the high velocity of these trains makes accidents particularly catastrophic. Officials are expected to launch a formal investigation into signaling or operational failures.",
+      "id": "world-israeli-election-results-and-stalemate",
+      "title": "Israeli Election Results and Stalemate",
+      "so_far": "Israel is holding its first national elections since the October 7 attacks and the subsequent war in Gaza. The political landscape remains deeply fractured, with a high degree of volatility as the country attempts to form a new government amidst ongoing regional conflict.",
       "timeline": [
        {
         "date": "2026-10-28",
-        "text": "Emergency services are responding to the crash, which occurred when one train struck the rear of another traveling in the same direction.",
-        "link": "https://www.thehindu.com/news/international/several-people-dead-in-crash-between-2-spanish-trains-in-toledo-province/article71635210.ece",
+        "text": "Partial results indicate Benjamin Netanyahu's right-wing bloc is leading in the Israeli elections but currently lacks a majority in the Knesset.",
+        "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "Arab voter turnout in Israel reached nearly 80%, marking the highest participation levels in at least a decade.",
+        "link": "https://www.thehindu.com/news/international/news-analysis-what-has-driven-the-high-arab-turnout-in-israels-elections/article71637664.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-10-28",
+        "text": "The Israeli election leaves the nation without a clear winner, complicating the political path forward following a period of intense conflict.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "Netanyahu's right-wing alliance remains in the lead in the Israeli parliamentary race, though final seat counts are still pending.",
+        "link": "https://www.thehindu.com/news/international/israel-election-results-counting-trends-netanyahu-eisenkot-arab-parties/article71634899.ece",
         "source": "World News: Latest International News & "
        }
       ]
      }
     },
     {
-     "id": "72645d67e3be",
-     "title": "Hormuz oil spill forces closure of UAE beaches",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/hormuz-oil-spill-forces-closure-of-uae-beaches?traffic_source=rss",
+     "id": "d12e07cda921",
+     "title": "Fed leaves interest rates unchanged despite inflation in the US",
+     "link": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-10-28T10:02:32+00:00",
-     "summary": "Beaches in the UAE have been closed following an oil spill caused by a damaged tanker in the Strait of Hormuz.",
-     "explain": "The Strait of Hormuz is a narrow waterway between Oman and Iran, serving as the only sea passage from the Persian Gulf to the open ocean. It is one of the world's most important 'chokepoints' for oil transit. An oil spill here causes significant environmental damage to local coastlines and potential disruption to international energy markets.",
+     "published": "2026-10-28T19:05:44+00:00",
+     "summary": "The U.S. Federal Reserve has kept interest rates steady at 3.75-4% despite rising inflation figures.",
+     "explain": "Interest rates determine the cost of borrowing money for mortgages, cars, and businesses. When inflation is high, the Fed usually raises rates to cool down spending. By leaving them unchanged, the Fed is signaling that it wants more economic data before committing to further rate hikes.",
      "related": [],
      "story": {
-      "id": "world-u-s-iran-diplomatic-standoff",
-      "title": "U.S.-Iran Diplomatic Standoff",
-      "so_far": "The Strait of Hormuz is a vital global shipping lane for oil. Tensions in this region are frequently exacerbated by the standoff between the U.S. and Iran, with incidents involving tankers sometimes serving as flashpoints for wider regional conflict.",
+      "id": "world-u-s-federal-reserve-interest-rates",
+      "title": "U.S. Federal Reserve Interest Rates",
+      "so_far": "The Federal Reserve (the U.S. central bank) manages the money supply and interest rates to keep the economy stable. It is currently tasked with curbing high inflation without triggering a severe economic recession, a delicate balancing act known as a 'soft landing'.",
       "timeline": [
        {
-        "date": "2026-10-21",
-        "text": "Senator Marco Rubio stated that ongoing attacks in the Strait of Hormuz make formal peace talks extremely difficult.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-10-22",
-        "text": "International leaders are pushing to stabilize the Strait of Hormuz and pressure for a Gaza ceasefire.",
-        "link": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-10-25",
-        "text": "Iran's Foreign Minister demanded the total removal of foreign forces from the region to ensure stability.",
-        "link": "https://www.thehindu.com/news/international/iran-says-resumption-of-war-would-not-change-its-stances/article71622921.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-10-25",
-        "text": "Trump mocked media questions regarding future strikes while Iran accused the U.S. of derailing regional diplomatic efforts.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-10-27",
-        "text": "Tehran hosted regional powers to discuss stopping escalation, but Iranian officials publicly expressed doubt about the U.S. administration's commitment to the process.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iran-says-us-not-serious-about-talks-amid-tehran-meeting?traffic_source=rss",
+        "date": "2026-10-28",
+        "text": "The U.S. Federal Reserve has kept interest rates steady at 3.75-4% despite rising inflation figures.",
+        "link": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
        },
        {
         "date": "2026-10-28",
-        "text": "An oil spill in the strategically sensitive Strait of Hormuz has forced local environmental authorities to shut down UAE coastal areas.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/hormuz-oil-spill-forces-closure-of-uae-beaches?traffic_source=rss",
+        "text": "A 10-2 vote by the Federal Open Market Committee has maintained interest rates, prioritizing further data analysis over immediate intervention.",
+        "link": "https://www.thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "18f9ae6eeca2",
+     "title": "What are the implications of Israel’s elections?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-10-28T19:03:03+00:00",
+     "summary": "The Israeli election leaves the nation without a clear winner, complicating the political path forward following a period of intense conflict.",
+     "explain": "This analysis discusses the stakes of the election. It highlights that the result is not just a standard legislative choice but a referendum on how the country should move forward after the trauma of the October 7 attacks and the ongoing military campaign in Gaza.",
+     "related": [],
+     "story": {
+      "id": "world-israeli-election-results-and-stalemate",
+      "title": "Israeli Election Results and Stalemate",
+      "so_far": "Israel is holding its first national elections since the October 7 attacks and the subsequent war in Gaza. The political landscape remains deeply fractured, with a high degree of volatility as the country attempts to form a new government amidst ongoing regional conflict.",
+      "timeline": [
+       {
+        "date": "2026-10-28",
+        "text": "Partial results indicate Benjamin Netanyahu's right-wing bloc is leading in the Israeli elections but currently lacks a majority in the Knesset.",
+        "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "Arab voter turnout in Israel reached nearly 80%, marking the highest participation levels in at least a decade.",
+        "link": "https://www.thehindu.com/news/international/news-analysis-what-has-driven-the-high-arab-turnout-in-israels-elections/article71637664.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-10-28",
+        "text": "The Israeli election leaves the nation without a clear winner, complicating the political path forward following a period of intense conflict.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "Netanyahu's right-wing alliance remains in the lead in the Israeli parliamentary race, though final seat counts are still pending.",
+        "link": "https://www.thehindu.com/news/international/israel-election-results-counting-trends-netanyahu-eisenkot-arab-parties/article71634899.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "40a92afde546",
+     "title": "How did Flávio Bolsonaro end up in Miami?",
+     "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-10-28T18:51:05+00:00",
+     "summary": "Investigative reporting has tracked Flávio Bolsonaro's escape route through South America to reach the United States.",
+     "explain": "This report provides clarity on the logistics of how a high-profile political figure leaves a country under investigation or political pressure. Mapping his travel through Argentina and Ecuador illustrates the international nature of his exit from Brazil.",
+     "related": [],
+     "story": {
+      "id": "world-bolsonaro-claims-presidency-from-exile",
+      "title": "Bolsonaro Claims Presidency from Exile",
+      "so_far": "Following his recent election defeat in Brazil, far-right politician Flávio Bolsonaro fled to Miami with his family. His journey involved transiting through Argentina and Ecuador before reaching the U.S., where he continues to contest the legitimacy of the electoral results.",
+      "timeline": [
+       {
+        "date": "2026-10-28",
+        "text": "Flávio Bolsonaro has fled to Miami following his defeat in the Brazilian presidential election.",
+        "link": "https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "Investigative reporting has tracked Flávio Bolsonaro's escape route through South America to reach the United States.",
+        "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-10-29",
+        "text": "Flávio Bolsonaro has declared himself the \"true president-elect\" of Brazil while currently in the United States.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/bolsonaro-in-miami-i-am-the-true-president?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "772a0c32fc2e",
+     "title": "U.S. Fed holds interest rates steady despite surging inflation",
+     "link": "https://www.thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-10-28T18:38:40+00:00",
+     "summary": "A 10-2 vote by the Federal Open Market Committee has maintained interest rates, prioritizing further data analysis over immediate intervention.",
+     "explain": "The FOMC (Federal Open Market Committee) is the part of the Fed that makes decisions on monetary policy. A 10-2 vote shows that while there is strong consensus to hold rates steady, there is still internal disagreement among policymakers regarding the best path to control inflation.",
+     "related": [],
+     "story": {
+      "id": "world-u-s-federal-reserve-interest-rates",
+      "title": "U.S. Federal Reserve Interest Rates",
+      "so_far": "The Federal Reserve (the U.S. central bank) manages the money supply and interest rates to keep the economy stable. It is currently tasked with curbing high inflation without triggering a severe economic recession, a delicate balancing act known as a 'soft landing'.",
+      "timeline": [
+       {
+        "date": "2026-10-28",
+        "text": "The U.S. Federal Reserve has kept interest rates steady at 3.75-4% despite rising inflation figures.",
+        "link": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "A 10-2 vote by the Federal Open Market Committee has maintained interest rates, prioritizing further data analysis over immediate intervention.",
+        "link": "https://www.thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "1ec98acf643e",
+     "title": "Netanyahu bloc leads Israel vote, falls short of majority",
+     "link": "https://www.thehindu.com/news/international/israel-election-results-counting-trends-netanyahu-eisenkot-arab-parties/article71634899.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-10-28T17:31:25+00:00",
+     "summary": "Netanyahu's right-wing alliance remains in the lead in the Israeli parliamentary race, though final seat counts are still pending.",
+     "explain": "This confirms that with the majority of votes counted, the outcome is leaning toward a right-wing government but remains mathematically uncertain. It highlights the uncertainty that typically characterizes the period immediately following an election in a multi-party parliamentary system.",
+     "related": [],
+     "story": {
+      "id": "world-israeli-election-results-and-stalemate",
+      "title": "Israeli Election Results and Stalemate",
+      "so_far": "Israel is holding its first national elections since the October 7 attacks and the subsequent war in Gaza. The political landscape remains deeply fractured, with a high degree of volatility as the country attempts to form a new government amidst ongoing regional conflict.",
+      "timeline": [
+       {
+        "date": "2026-10-28",
+        "text": "Partial results indicate Benjamin Netanyahu's right-wing bloc is leading in the Israeli elections but currently lacks a majority in the Knesset.",
+        "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "Arab voter turnout in Israel reached nearly 80%, marking the highest participation levels in at least a decade.",
+        "link": "https://www.thehindu.com/news/international/news-analysis-what-has-driven-the-high-arab-turnout-in-israels-elections/article71637664.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-10-28",
+        "text": "The Israeli election leaves the nation without a clear winner, complicating the political path forward following a period of intense conflict.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "Netanyahu's right-wing alliance remains in the lead in the Israeli parliamentary race, though final seat counts are still pending.",
+        "link": "https://www.thehindu.com/news/international/israel-election-results-counting-trends-netanyahu-eisenkot-arab-parties/article71634899.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "34d5f0a4c5ed",
+     "title": "Serbians storm TV studio as pro-Vucic media faces reckoning",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/serbians-storm-tv-studio-as-pro-vucic-media-faces-reckoning?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-10-29T02:02:02+00:00",
+     "summary": "Protesters in Serbia have stormed a television studio following a change in government led by a student-led movement.",
+     "explain": "Pro-Vucic media outlets are often accused of being mouthpieces for the government. The act of storming a studio signifies a confrontational attempt by protesters to challenge state-aligned narratives, reflecting a significant and rapid shift in the political atmosphere as new groups take power.",
+     "related": [],
+     "story": {
+      "id": "world-serbian-political-transition",
+      "title": "Serbian Political Transition",
+      "so_far": "Serbia has seen growing frustration with the administration of Aleksandar Vucic, particularly regarding media control and political influence. A new wave of student-led protests has recently gained enough momentum to challenge the existing power structures.",
+      "timeline": [
+       {
+        "date": "2026-10-29",
+        "text": "Protesters in Serbia have stormed a television studio following a change in government led by a student-led movement.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/serbians-storm-tv-studio-as-pro-vucic-media-faces-reckoning?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
        }
       ]
@@ -1577,13 +1635,210 @@
    "label": "Business & Finance",
    "articles": [
     {
-     "id": "878b4612ebf9",
-     "title": "Sensex today | Stock Market Highlights: Sensex declines 353 points dragged by Reliance, IT stocks, rising crude oil prices",
-     "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-28-october-2026/article71631075.ece",
+     "id": "b7be5b59b267",
+     "title": "Gautam Adani explores €3 billion acquisition of Dutch energy storage group VTTI",
+     "link": "https://www.thehindubusinessline.com/companies/gautam-adani-explores-3-billion-acquisition-of-dutch-energy-storage-group-vtti/article71638065.ece",
      "source": "Business News Today: Latest Business New",
-     "published": "2026-10-28T10:59:46+00:00",
-     "summary": "The Sensex and Nifty indices fell due to weak performance in IT stocks, Reliance Industries, and rising global oil prices. Investor caution is high ahead of upcoming US Federal Reserve policy announcements.",
-     "explain": "The Sensex and Nifty are indexes that track the performance of major companies on Indian stock exchanges. When these go down, it generally means investors are worried about the future profitability of large businesses. Factors like rising oil prices often hurt Indian markets because India imports much of its oil, which impacts inflation and currency value.",
+     "published": "2026-10-28T23:29:09+00:00",
+     "summary": "The Adani Group is exploring a potential €3 billion acquisition of the Dutch energy storage firm VTTI.",
+     "explain": "Energy storage facilities, like those owned by VTTI, hold fuels or energy in reserve until they are needed for trading or consumption. As global supply chains face disruptions, these assets have become increasingly valuable to companies like Adani, who rely on stable energy movement for their industrial operations.",
+     "related": [],
+     "story": {
+      "id": "business-adani-group-eyes-vtti-acquisition",
+      "title": "Adani Group Eyes VTTI Acquisition",
+      "so_far": "The Adani Group is a major Indian multinational conglomerate with diverse interests ranging from ports and power to renewable energy. Recently, the firm has been aggressively pursuing international infrastructure projects to strengthen its supply chain and logistics capabilities in a climate of global energy uncertainty.",
+      "timeline": [
+       {
+        "date": "2026-10-28",
+        "text": "Gautam Adani's conglomerate is seeking to purchase VTTI to expand its global infrastructure footprint amid rising energy supply volatility.",
+        "link": "https://www.thehindubusinessline.com/companies/gautam-adani-explores-3-billion-acquisition-of-dutch-energy-storage-group-vtti/article71638065.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "The acquisition interest is driven by the increasing market value of energy storage facilities in the face of international supply chain disruptions.",
+        "link": "https://www.livemint.com/companies/people/adani-eyes-3-billion-acquisition-of-dutch-energy-storage-firm-vtti-as-supply-disruptions-boost-demand-11793209049359.html",
+        "source": "mint - companies"
+       }
+      ]
+     }
+    },
+    {
+     "id": "f01bdd221b8d",
+     "title": "Fed holds interest rates steady at 3.9% as US inflation remains elevated",
+     "link": "https://www.thehindubusinessline.com/money-and-banking/fed-holds-interest-rates-steady-at-39-as-us-inflation-remains-elevated/article71638045.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-28T22:47:12+00:00",
+     "summary": "The US Federal Reserve has kept interest rates at 3.9% due to persistent inflation concerns.",
+     "explain": "When the Fed 'holds' rates steady, it means they are choosing not to raise or lower the cost of borrowing money. This reflects a 'wait and see' approach; if inflation remains high, the Fed keeps rates up to reduce demand, but they must be careful not to keep them so high that they trigger a recession.",
+     "related": [],
+     "story": {
+      "id": "business-us-federal-reserve-interest-rate-policy",
+      "title": "US Federal Reserve Interest Rate Policy",
+      "so_far": "The US Federal Reserve, the central bank of the United States, periodically adjusts interest rates to manage inflation and employment. Higher interest rates are typically used to cool down an overheating economy by making borrowing more expensive, which slows down spending and investment.",
+      "timeline": [
+       {
+        "date": "2026-10-28",
+        "text": "The Fed maintained the 3.9% interest rate to balance efforts to curb inflation with the need to avoid stalling economic growth.",
+        "link": "https://www.thehindubusinessline.com/money-and-banking/fed-holds-interest-rates-steady-at-39-as-us-inflation-remains-elevated/article71638045.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "Policymakers are continuing to signal caution, prioritizing price stability as inflation remains an obstacle to broader economic growth.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-us-federal-reserve-holds-interest-rates-steady-as-stubborn-inflation-puts-future-rate-hikes-in-focus/articleshow/135275622.cms",
+        "source": "Economic Times"
+       }
+      ]
+     }
+    },
+    {
+     "id": "831522f11c81",
+     "title": "Adani eyes €3 billion acquisition of Dutch energy storage firm VTTI as supply disruptions boost demand",
+     "link": "https://www.livemint.com/companies/people/adani-eyes-3-billion-acquisition-of-dutch-energy-storage-firm-vtti-as-supply-disruptions-boost-demand-11793209049359.html",
+     "source": "mint - companies",
+     "published": "2026-10-28T18:09:39+00:00",
+     "summary": "Gautam Adani is considering a €3 billion deal for Dutch firm VTTI to boost global energy storage assets.",
+     "explain": "Energy trading firms benefit from having storage capacity because they can purchase energy when prices are low and sell when they are high. By acquiring VTTI, the Adani Group would gain control over a critical piece of the European energy infrastructure, allowing them to better manage their energy logistics.",
+     "related": [],
+     "story": {
+      "id": "business-adani-group-eyes-vtti-acquisition",
+      "title": "Adani Group Eyes VTTI Acquisition",
+      "so_far": "The Adani Group is a major Indian multinational conglomerate with diverse interests ranging from ports and power to renewable energy. Recently, the firm has been aggressively pursuing international infrastructure projects to strengthen its supply chain and logistics capabilities in a climate of global energy uncertainty.",
+      "timeline": [
+       {
+        "date": "2026-10-28",
+        "text": "Gautam Adani's conglomerate is seeking to purchase VTTI to expand its global infrastructure footprint amid rising energy supply volatility.",
+        "link": "https://www.thehindubusinessline.com/companies/gautam-adani-explores-3-billion-acquisition-of-dutch-energy-storage-group-vtti/article71638065.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "The acquisition interest is driven by the increasing market value of energy storage facilities in the face of international supply chain disruptions.",
+        "link": "https://www.livemint.com/companies/people/adani-eyes-3-billion-acquisition-of-dutch-energy-storage-firm-vtti-as-supply-disruptions-boost-demand-11793209049359.html",
+        "source": "mint - companies"
+       }
+      ]
+     }
+    },
+    {
+     "id": "e4124e11ee29",
+     "title": "US Fed holds rates steady as inflation fears persist",
+     "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-us-federal-reserve-holds-interest-rates-steady-as-stubborn-inflation-puts-future-rate-hikes-in-focus/articleshow/135275622.cms",
+     "source": "Economic Times",
+     "published": "2026-10-28T18:01:23+00:00",
+     "summary": "The US Federal Reserve has opted to keep interest rates unchanged, citing concerns that inflation remains higher than target levels.",
+     "explain": "The 'target level' for inflation is the rate of price increases that the Fed considers healthy for a growing economy, typically around 2%. When inflation is 'above target,' it means the cost of living and business operations is rising too quickly, prompting the Fed to keep borrowing costs high until prices stabilize.",
+     "related": [],
+     "story": {
+      "id": "business-us-federal-reserve-interest-rate-policy",
+      "title": "US Federal Reserve Interest Rate Policy",
+      "so_far": "The US Federal Reserve, the central bank of the United States, periodically adjusts interest rates to manage inflation and employment. Higher interest rates are typically used to cool down an overheating economy by making borrowing more expensive, which slows down spending and investment.",
+      "timeline": [
+       {
+        "date": "2026-10-28",
+        "text": "The Fed maintained the 3.9% interest rate to balance efforts to curb inflation with the need to avoid stalling economic growth.",
+        "link": "https://www.thehindubusinessline.com/money-and-banking/fed-holds-interest-rates-steady-at-39-as-us-inflation-remains-elevated/article71638045.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "Policymakers are continuing to signal caution, prioritizing price stability as inflation remains an obstacle to broader economic growth.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-us-federal-reserve-holds-interest-rates-steady-as-stubborn-inflation-puts-future-rate-hikes-in-focus/articleshow/135275622.cms",
+        "source": "Economic Times"
+       }
+      ]
+     }
+    },
+    {
+     "id": "281b1bfba52f",
+     "title": "Info Edge appoints Sanjeev Bikhchandani back as CEO & MD, after Hitesh Oberoi steps down",
+     "link": "https://www.thehindubusinessline.com/info-tech/info-edge-appoints-sanjeev-bikhchandani-back-as-ceo-md-after-hitesh-oberoi-steps-down/article71637400.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-28T16:08:26+00:00",
+     "summary": "Info Edge has appointed founder Sanjeev Bikhchandani as the new CEO and MD following the departure of Hitesh Oberoi.",
+     "explain": "A leadership transition from a long-serving executive to a founder-led model is often viewed as a significant pivot for a tech company. Investors watch these changes closely to see if the company will maintain its current strategy or attempt to innovate under new leadership.",
+     "related": [],
+     "story": {
+      "id": "business-info-edge-leadership-transition",
+      "title": "Info Edge Leadership Transition",
+      "so_far": "Info Edge is a prominent Indian internet company that owns major platforms including Naukri.com, 99acres, and Jeevansathi. The company has played a key role in the Indian digital ecosystem for decades, supported by stable management and significant venture capital investments.",
+      "timeline": [
+       {
+        "date": "2026-10-28",
+        "text": "Founder Sanjeev Bikhchandani will take over as CEO and MD until April 2031, replacing long-time executive Hitesh Oberoi.",
+        "link": "https://www.thehindubusinessline.com/info-tech/info-edge-appoints-sanjeev-bikhchandani-back-as-ceo-md-after-hitesh-oberoi-steps-down/article71637400.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "The board has approved Sanjeev Bikhchandani's redesignation to executive vice chairman, managing director, and group CEO, effective December 3, 2026.",
+        "link": "https://www.livemint.com/companies/people/info-edge-ceo-hitesh-oberoi-to-step-down-after-27-years-11793188642542.html",
+        "source": "mint - companies"
+       }
+      ]
+     }
+    },
+    {
+     "id": "092ef1e2b23f",
+     "title": "Info Edge CEO Hitesh Oberoi to step down after 27 years",
+     "link": "https://www.livemint.com/companies/people/info-edge-ceo-hitesh-oberoi-to-step-down-after-27-years-11793188642542.html",
+     "source": "mint - companies",
+     "published": "2026-10-28T15:14:36+00:00",
+     "summary": "Hitesh Oberoi is stepping down as Info Edge CEO after 27 years with the company.",
+     "explain": "Redesignation is the process of updating an executive's formal title and responsibilities. By consolidating these roles under the founder, the board appears to be streamlining decision-making as the company prepares for the next phase of its growth.",
+     "related": [],
+     "story": {
+      "id": "business-info-edge-leadership-transition",
+      "title": "Info Edge Leadership Transition",
+      "so_far": "Info Edge is a prominent Indian internet company that owns major platforms including Naukri.com, 99acres, and Jeevansathi. The company has played a key role in the Indian digital ecosystem for decades, supported by stable management and significant venture capital investments.",
+      "timeline": [
+       {
+        "date": "2026-10-28",
+        "text": "Founder Sanjeev Bikhchandani will take over as CEO and MD until April 2031, replacing long-time executive Hitesh Oberoi.",
+        "link": "https://www.thehindubusinessline.com/info-tech/info-edge-appoints-sanjeev-bikhchandani-back-as-ceo-md-after-hitesh-oberoi-steps-down/article71637400.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "The board has approved Sanjeev Bikhchandani's redesignation to executive vice chairman, managing director, and group CEO, effective December 3, 2026.",
+        "link": "https://www.livemint.com/companies/people/info-edge-ceo-hitesh-oberoi-to-step-down-after-27-years-11793188642542.html",
+        "source": "mint - companies"
+       }
+      ]
+     }
+    },
+    {
+     "id": "85c7e09065b4",
+     "title": "AI chip shortage could worsen in 2027: What Samsung’s record $80 billion quarterly profit tells us",
+     "link": "https://www.livemint.com/companies/news/ai-chip-shortage-could-worsen-in-2027-what-samsung-s-record-80-billion-quarterly-profit-tells-us-11793238343003.html",
+     "source": "mint - companies",
+     "published": "2026-10-29T02:17:18+00:00",
+     "summary": "Samsung Electronics reported record quarterly profits driven by high demand for AI-related chips.",
+     "explain": "An AI chip shortage occurs when the supply of hardware required for complex computing (like training Large Language Models) cannot keep up with the demand from tech companies. Samsung’s record profit highlights how critical these chips have become, even as the shortage continues to impact the global supply chain.",
+     "related": [],
+     "story": {
+      "id": "business-samsung-record-profit-and-ai-demand",
+      "title": "Samsung Record Profit and AI Demand",
+      "so_far": "Samsung Electronics is one of the world's largest semiconductor manufacturers. As the global shift toward AI infrastructure accelerates, companies that produce specialized high-performance memory chips have seen massive growth in revenue.",
+      "timeline": [
+       {
+        "date": "2026-10-29",
+        "text": "Samsung's quarterly operating profit reached 107.44 trillion won, marking a 783% year-over-year increase due to the ongoing AI industry boom.",
+        "link": "https://www.livemint.com/companies/news/ai-chip-shortage-could-worsen-in-2027-what-samsung-s-record-80-billion-quarterly-profit-tells-us-11793238343003.html",
+        "source": "mint - companies"
+       }
+      ]
+     }
+    },
+    {
+     "id": "ebb4287a2fde",
+     "title": "Sensex today | Stock Market Live: Stock to buy today: APL Apollo Tubes (₹2,165)",
+     "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-29-october-2026/article71635535.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-10-29T01:33:03+00:00",
+     "summary": "Market analysts are tracking APL Apollo Tubes, suggesting a potential buying opportunity for traders.",
+     "explain": "A 'breakout' is a technical term used when a stock's price moves above a resistance level, often signaling that the price will continue to climb. 'Stops' are pre-set orders to sell a stock if the price drops to a specific level, helping traders limit potential losses.",
      "related": [
       {
        "date": "2026-10-22",
@@ -1602,269 +1857,82 @@
        "title": "Sensex today | Stock Market Highlights: Sensex, Nifty extend losses as crude surges to $114, all sectors close in red",
        "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-23rd-october-2026/article71611889.ece",
        "source": "Business News Today: Latest Business New"
-      }
-     ],
-     "story": {
-      "id": "business-indian-stock-market-volatility",
-      "title": "Indian Stock Market Volatility",
-      "so_far": "The Indian stock market, represented by indices like the BSE Sensex and NSE Nifty, is sensitive to both domestic corporate earnings and international economic factors. Recent market sentiment has been shaped by fluctuations in oil prices and central bank policies in the US, which influence foreign investment flows into India.",
-      "timeline": [
-       {
-        "date": "2026-10-23",
-        "text": "The stock market extended losses as global crude oil prices surged to $114 per barrel.",
-        "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-23rd-october-2026/article71611889.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-28",
-        "text": "Benchmark indices declined on October 28, 2026, due to sector-specific pressure and global macroeconomic uncertainty.",
-        "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-28-october-2026/article71631075.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "90652572cc5d",
-     "title": "JSW Energy Q2 net profit rises 50% to ₹1,056 cr",
-     "link": "https://www.thehindubusinessline.com/companies/jsw-energy-q2-net-profit-rises-50-to-1056-cr/article71635439.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-10-28T10:55:12+00:00",
-     "summary": "JSW Energy reported a 50% increase in net profit for the second quarter, reaching ₹1,056 crore. Revenue grew 23% year-on-year, bolstered significantly by strong performance in its thermal power business.",
-     "explain": "A 'quarterly report' (Q2) tracks how much money a company made or lost over a three-month period. A 50% increase in net profit indicates the company kept significantly more money after paying its expenses compared to the same time last year. Thermal energy refers to power generated using heat, typically from coal or gas.",
-     "related": [
-      {
-       "date": "2026-10-22",
-       "title": "J&K Bank Q2 net profit rises 10.6% to ₹546 crore",
-       "link": "https://www.thehindubusinessline.com/money-and-banking/jk-bank-q2-net-profit-rises-106-to-54636-crore/article71610970.ece",
-       "source": "Business News Today: Latest Business New"
-      }
-     ],
-     "story": {
-      "id": "business-jsw-energy-q2-financial-performance",
-      "title": "JSW Energy Q2 Financial Performance",
-      "so_far": "JSW Energy is a major player in the Indian power sector, managing both traditional thermal energy and renewable energy assets. The company's financial health is closely watched as India expands its energy infrastructure to meet rising domestic demand.",
-      "timeline": [
-       {
-        "date": "2026-10-28",
-        "text": "The company announced strong Q2 FY27 results, showing significant growth in both profit and revenue.",
-        "link": "https://www.thehindubusinessline.com/companies/jsw-energy-q2-net-profit-rises-50-to-1056-cr/article71635439.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "e16a1f3ce09e",
-     "title": "L&T targets ₹15 lakh crore order book by FY31 as overseas business expands",
-     "link": "https://www.thehindubusinessline.com/companies/lt-targets-15-lakh-crore-order-book-by-fy31-as-overseas-business-expands/article71635420.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-10-28T10:53:57+00:00",
-     "summary": "Larsen & Toubro (L&T) aims for an order book value of ₹15 lakh crore by fiscal year 2031. The company intends to leverage its growing international presence in infrastructure and energy sectors to meet this target.",
-     "explain": "An 'order book' is the total value of all signed contracts that a company has yet to complete. Targeting ₹15 lakh crore suggests L&T expects a massive increase in demand for its construction and engineering services. Setting such long-term goals is standard for infrastructure firms to show stability to their shareholders.",
-     "related": [],
-     "story": {
-      "id": "business-larsen-toubro-strategic-growth",
-      "title": "Larsen & Toubro Strategic Growth",
-      "so_far": "Larsen & Toubro is a conglomerate involved in major engineering, construction, and technology projects worldwide. As a bellwether for India’s infrastructure sector, its project backlog is often seen as a barometer for broader economic construction activity.",
-      "timeline": [
-       {
-        "date": "2026-10-28",
-        "text": "L&T has set an ambitious five-year order book target driven by global expansion.",
-        "link": "https://www.thehindubusinessline.com/companies/lt-targets-15-lakh-crore-order-book-by-fy31-as-overseas-business-expands/article71635420.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "9ea31a00e6ae",
-     "title": "Rupee falls 21 paise to close at 95.28 against US dollar",
-     "link": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-21-paise-to-close-at-9528-against-us-dollar/article71635467.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-10-28T10:52:27+00:00",
-     "summary": "The Indian Rupee fell 21 paise against the US dollar, closing at 95.28. The decline is attributed to market pressure and the impact of rising global oil prices.",
-     "explain": "The rupee's value fluctuates based on the supply and demand for foreign currencies like the US dollar. When the rupee 'falls' (depreciates), it means it takes more rupees to buy one dollar, which makes imports like fuel more expensive for the Indian economy.",
-     "related": [
+      },
       {
        "date": "2026-10-26",
-       "title": "Rupee falls 29 paise to close at 95.22 against US dollar",
-       "link": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-29-paise-to-close-at-9522-against-us-dollar/article71626575.ece",
+       "title": "Sensex today | Stock Market Live: Stocks to watch, Oct 26: Raymond, RailTel, KEC Intl, Honasa, BL Kashyap, Lupin, Orchid Pharma, Gland Pharma",
+       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-26-october-2026/article71622964.ece",
+       "source": "Business News Today: Latest Business New"
+      },
+      {
+       "date": "2026-10-28",
+       "title": "Sensex today | Stock Market Live: Stocks to watch, Oct 28: Infy, Midhani, Choice Intl, Kothari Industrial, Subros, Gulf Oil, Exide, Steamhouse",
+       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-28-october-2026/article71631075.ece",
+       "source": "Business News Today: Latest Business New"
+      },
+      {
+       "date": "2026-10-28",
+       "title": "Sensex today | Stock Market Highlights: Sensex declines 353 points dragged by Reliance, IT stocks, rising crude oil prices",
+       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-28-october-2026/article71631075.ece",
        "source": "Business News Today: Latest Business New"
       }
      ],
      "story": {
-      "id": "business-imf-advice-on-rupee-stability",
-      "title": "IMF Advice on Rupee Stability",
-      "so_far": "India is one of the world's largest importers of crude oil, meaning fluctuations in global oil prices significantly impact the nation's trade balance and the value of the Indian Rupee. The RBI often intervenes to prevent extreme volatility in the currency markets.",
+      "id": "business-stock-market-trading-trends",
+      "title": "Stock Market Trading Trends",
+      "so_far": "The Indian stock market often sees institutional and retail interest in industrial manufacturing firms. Technical analysis is a method traders use to predict future price movements based on historical chart patterns and 'stops' (exit prices) to manage risk.",
       "timeline": [
        {
-        "date": "2026-10-21",
-        "text": "The IMF recommended that the RBI prioritize currency flexibility over market intervention during oil-related economic stress.",
-        "link": "https://www.thehindubusinessline.com/economy/imf-advises-india-to-let-rupee-move-as-first-defence-amid-oil-shock/article71607130.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-28",
-        "text": "The rupee depreciated further as global economic pressures persisted.",
-        "link": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-21-paise-to-close-at-9528-against-us-dollar/article71635467.ece",
+        "date": "2026-10-29",
+        "text": "Traders are eyeing a breakout for APL Apollo Tubes above ₹2,260, provided the price stays above the established support levels.",
+        "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-29-october-2026/article71635535.ece",
         "source": "Business News Today: Latest Business New"
        }
       ]
      }
     },
     {
-     "id": "d57d18edd220",
-     "title": "Viksit Gram Swaraj Yojana gets ₹7,395 crore to strengthen panchayats",
-     "link": "https://www.thehindubusinessline.com/economy/policy/viksit-gram-swaraj-yojana-gets-7395-crore-to-strengthen-panchayats/article71635386.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-10-28T10:48:17+00:00",
-     "summary": "The government allocated ₹7,395 crore to the Viksit Gram Swaraj Yojana. The program is designed to decentralize development planning, allowing local village governments (panchayats) to manage their own resources and priorities.",
-     "explain": "A 'Yojana' is a government scheme or program. 'Panchayats' are local governing bodies at the village level in India. This initiative aims to give these local authorities more control over how development money is spent, rather than having decisions made entirely by the central or state government.",
+     "id": "86aeb57086e0",
+     "title": "Judge says blocking 20k voters would 'wreak havoc'",
+     "link": "https://economictimes.indiatimes.com/news/international/world-news/judge-denies-federal-request-to-block-20000-voters-says-it-would-wreak-havoc-on-us-midterm-elections/articleshow/135285373.cms",
+     "source": "Economic Times",
+     "published": "2026-10-29T01:11:35+00:00",
+     "summary": "A judge has ruled that preventing 20,000 people from voting would create significant disruption.",
+     "explain": "Disenfranchisement refers to the act of taking away a person's right to vote. When a judge says a move would 'wreak havoc,' they mean it would create chaos in the administrative process of an election, likely leading to legal challenges and public outcry.",
      "related": [],
      "story": {
-      "id": "business-viksit-gram-swaraj-yojana-funding",
-      "title": "Viksit Gram Swaraj Yojana Funding",
-      "so_far": "India’s panchayati raj system is the foundation of local rural governance. Periodic financial support from the central government is essential to bridge infrastructure gaps and improve service delivery in remote areas.",
+      "id": "business-voting-rights-and-judicial-intervention",
+      "title": "Voting Rights and Judicial Intervention",
+      "so_far": "Election integrity and voter registration status are frequently subject to litigation in democratic processes. Courts often intervene to ensure that administrative errors or sudden changes to voter rolls do not unfairly deny citizens their right to vote.",
       "timeline": [
        {
-        "date": "2026-10-28",
-        "text": "The government launched a major funding initiative to empower rural local governance.",
-        "link": "https://www.thehindubusinessline.com/economy/policy/viksit-gram-swaraj-yojana-gets-7395-crore-to-strengthen-panchayats/article71635386.ece",
-        "source": "Business News Today: Latest Business New"
+        "date": "2026-10-29",
+        "text": "The court expressed concerns that mass disenfranchisement would be disruptive, preventing the removal of these voters from the rolls.",
+        "link": "https://economictimes.indiatimes.com/news/international/world-news/judge-denies-federal-request-to-block-20000-voters-says-it-would-wreak-havoc-on-us-midterm-elections/articleshow/135285373.cms",
+        "source": "Economic Times"
        }
       ]
      }
     },
     {
-     "id": "465fae26bd7b",
-     "title": "Q2 Results Today Live: Adani Enterprises & Hyundai Q2 profit down, Adani Ports Q2 con. profit rise, Bandhan Bank, TVS Motor, HUL, JSW Energy, PVR Inox, KPIT Tech, Arvind Q2 profit rise, Vedanta Q2 loss at ₹170 cr, Pidilite, Hero MotoCorp, Meesho, United Spirits to announce Q2 results",
-     "link": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-adani-enterprises-adani-ports-tvs-motor-hyundai-pidilite-cholamandalam-hero-motocorp-meesho-united-spirits-vedanta-jsw-energy-results-28-october-2026/article71630853.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-10-28T10:46:24+00:00",
-     "summary": "Multiple major Indian companies, including Adani Enterprises, Hyundai, and Vedanta, released their second-quarter (Q2) results on October 28, 2026, showing mixed financial outcomes across sectors.",
-     "explain": "Corporate earnings are the 'report cards' of businesses. Investors analyze them to see if a company is growing or struggling. If a company reports lower profits than analysts expected, its stock price often drops, even if the company is still making money.",
+     "id": "e45b37991d0a",
+     "title": "40,000+ Homeland Security workers' names leaked",
+     "link": "https://economictimes.indiatimes.com/news/international/world-news/leak-website-releases-data-on-thousands-of-us-homeland-security-employees/articleshow/135285048.cms",
+     "source": "Economic Times",
+     "published": "2026-10-29T00:59:38+00:00",
+     "summary": "The personal information of over 40,000 Department of Homeland Security (DHS) employees has been leaked.",
+     "explain": "A data breach occurs when private information is accessed or disclosed without authorization. This is a security risk because the stolen names and identifiers can be used for identity theft, phishing scams, or further unauthorized access to government systems.",
      "related": [],
      "story": {
-      "id": "business-q2-corporate-earnings-season",
-      "title": "Q2 Corporate Earnings Season",
-      "so_far": "Earnings season is the period when public companies report their financial performance to the stock exchanges. These reports include revenue, net profit, and future guidance, which heavily influence stock price movements.",
+      "id": "business-homeland-security-data-breach",
+      "title": "Homeland Security Data Breach",
+      "so_far": "The Department of Homeland Security is a federal agency responsible for public security, border control, and cybersecurity. Government agencies are high-profile targets for cyberattacks aimed at obtaining the personal data of public servants.",
       "timeline": [
        {
-        "date": "2026-10-23",
-        "text": "Several companies reported varied results, ranging from profit growth for JSW Steel to losses for Shree Digvijay Cement.",
-        "link": "https://www.thehindubusinessline.com/companies/q2-results-today-live-updates-infosys-adani-power-jsw-steel-tata-motors-shiram-fin-torrent-pharma-cg-power-bpcl-dr-reddys-lab-company-results-23-october-2026/article71611542.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-28",
-        "text": "A wave of major Q2 earnings reports was released, highlighting varying profitability levels across Indian industry.",
-        "link": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-adani-enterprises-adani-ports-tvs-motor-hyundai-pidilite-cholamandalam-hero-motocorp-meesho-united-spirits-vedanta-jsw-energy-results-28-october-2026/article71630853.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "053a270d0a73",
-     "title": "Who is Sanjeev Bikhchandani? Meet the entrepreneur taking charge of Info Edge after 27 years",
-     "link": "https://www.livemint.com/companies/people/who-is-sanjeev-bikhchandani-meet-the-entrepreneur-taking-charge-of-info-edge-after-27-years-11793183104204.html",
-     "source": "mint - companies",
-     "published": "2026-10-28T10:39:51+00:00",
-     "summary": "Sanjeev Bikhchandani will become the Executive Vice Chairman and CEO of Info Edge starting December 3, 2026. He replaces Hitesh Oberoi, who is stepping down from his operational role after 27 years.",
-     "explain": "A CEO (Chief Executive Officer) is the highest-ranking person in a company, responsible for making major corporate decisions. When a founder or long-tenured leader like Hitesh Oberoi steps down, it is a major event that can signal a shift in the company's future strategy.",
-     "related": [],
-     "story": {
-      "id": "business-leadership-transition-at-info-edge",
-      "title": "Leadership Transition at Info Edge",
-      "so_far": "Info Edge is a prominent Indian internet company that owns platforms such as Naukri.com. The company has played a key role in the development of India's startup ecosystem as both a business entity and an investor.",
-      "timeline": [
-       {
-        "date": "2026-10-28",
-        "text": "Info Edge announced a major leadership change, marking the first transition in 27 years.",
-        "link": "https://www.livemint.com/companies/people/who-is-sanjeev-bikhchandani-meet-the-entrepreneur-taking-charge-of-info-edge-after-27-years-11793183104204.html",
-        "source": "mint - companies"
-       }
-      ]
-     }
-    },
-    {
-     "id": "5a2ec0491b11",
-     "title": "SEBI reviews FPI compliance norms, plans consultation paper on global alignment",
-     "link": "https://www.thehindubusinessline.com/markets/sebi-reviews-fpi-compliance-norms-plans-consultation-paper-on-global-alignment/article71635391.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-10-28T10:39:15+00:00",
-     "summary": "SEBI is reviewing its compliance norms for Foreign Portfolio Investors (FPIs). The goal is to align Indian standards with global practices to attract more foreign investment.",
-     "explain": "Compliance norms are the rules and regulations that investors must follow to operate in a market. By simplifying these rules, SEBI aims to make it easier for international money to enter India, which helps increase liquidity and growth in the stock market.",
-     "related": [],
-     "story": {
-      "id": "business-sebi-reviewing-fpi-compliance",
-      "title": "SEBI Reviewing FPI Compliance",
-      "so_far": "SEBI (Securities and Exchange Board of India) is the regulator for the securities market in India. FPIs are investors or investment funds that are based outside of India and invest in Indian financial assets like stocks and bonds.",
-      "timeline": [
-       {
-        "date": "2026-10-28",
-        "text": "The market regulator has initiated a review of rules governing international investors.",
-        "link": "https://www.thehindubusinessline.com/markets/sebi-reviews-fpi-compliance-norms-plans-consultation-paper-on-global-alignment/article71635391.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "44421e029974",
-     "title": "Jio Platforms Share Price & IPO Listing Highlights: Mukesh Ambani's Jio Platforms stock ends with 27% listing gains",
-     "link": "https://www.thehindubusinessline.com/markets/jio-platforms-share-price-jio-platforms-ipo-listing-live-updates/article71630928.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-10-28T10:37:38+00:00",
-     "summary": "Jio Platforms' IPO concluded with a strong performance, recording 27% gains upon listing on the stock exchange. This indicates high investor demand for the digital services giant.",
-     "explain": "An 'IPO listing' is the day a company's shares are first available for the public to trade on the stock exchange. 'Listing gains' occur when the market price on the first day is higher than the price at which the company initially sold the shares, indicating strong investor confidence.",
-     "related": [],
-     "story": {
-      "id": "business-jio-platforms-ipo-launch",
-      "title": "Jio Platforms IPO Launch",
-      "so_far": "Jio Platforms, a subsidiary of Reliance Industries, is a major digital services company in India. An IPO (Initial Public Offering) is the process by which a private company offers shares to the public to raise capital. This IPO is highly anticipated due to Jio's dominant market position in telecommunications and digital services.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "Jio Platforms opened its major IPO on October 21, seeing 1.27x subscription on the first day.",
-        "link": "https://www.thehindubusinessline.com/companies/jio-platforms-ipo-gmp-day-1-subscription-status-live-news-updates/article71606199.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-28",
-        "text": "Jio's stock is expected to surge by roughly 22% upon its market debut following a $3.2 billion IPO.",
-        "link": "https://www.thehindubusinessline.com/markets/jio-to-make-trading-debut-after-record-32-billion-ipo/article71634118.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-28",
-        "text": "The company’s shares listed successfully, closing with significant gains on their debut day.",
-        "link": "https://www.thehindubusinessline.com/markets/jio-platforms-share-price-jio-platforms-ipo-listing-live-updates/article71630928.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "cefa8764ae16",
-     "title": "Adani Ports & SEZ Q2 FY27 profit up 16.5%",
-     "link": "https://www.thehindubusinessline.com/economy/logistics/adani-ports-sez-q2-fy27-profit-up-165/article71634886.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-10-28T10:34:59+00:00",
-     "summary": "Adani Ports & SEZ reported a 16.5% rise in profit for the second quarter of the 2027 fiscal year. Revenue increased by 24% year-on-year, reflecting growth across all business segments.",
-     "explain": "Profit growth for a port operator is typically driven by higher cargo volumes—more ships carrying more goods. Reporting a 16.5% increase in profit suggests the company is successfully handling more trade and maintaining strong operational efficiency.",
-     "related": [],
-     "story": {
-      "id": "business-adani-ports-q2-earnings",
-      "title": "Adani Ports Q2 Earnings",
-      "so_far": "Adani Ports & SEZ is India's largest private port developer and operator. Its financial performance is an indicator of the volume of goods moving in and out of India, reflecting the country's broader trade and industrial activity.",
-      "timeline": [
-       {
-        "date": "2026-10-28",
-        "text": "Adani Ports & SEZ showed strong financial growth in its Q2 report.",
-        "link": "https://www.thehindubusinessline.com/economy/logistics/adani-ports-sez-q2-fy27-profit-up-165/article71634886.ece",
-        "source": "Business News Today: Latest Business New"
+        "date": "2026-10-29",
+        "text": "A security failure has resulted in the exposure of sensitive identification data for a large segment of the Homeland Security workforce.",
+        "link": "https://economictimes.indiatimes.com/news/international/world-news/leak-website-releases-data-on-thousands-of-us-homeland-security-employees/articleshow/135285048.cms",
+        "source": "Economic Times"
        }
       ]
      }
@@ -1875,25 +1943,19 @@
    "label": "Markets & Crypto",
    "articles": [
     {
-     "id": "527bfcd3c6ce",
-     "title": "Jio IPO surge helps Reliance topple Tata as most valuable conglomerate in India",
-     "link": "https://www.livemint.com/market/stock-market-news/reliance-vs-tata-group-market-cap-jio-platforms-share-price-11793181248458.html",
-     "source": "mint - markets",
-     "published": "2026-10-28T10:03:56+00:00",
-     "summary": "Following a successful market debut, Jio Platforms' valuation jump has made Reliance Group India's most valuable conglomerate, overtaking Tata Group.",
-     "explain": "A market debut is the first day a company's shares are available for public trading. When a subsidiary (like Jio) performs well, it increases the value of the parent company (Reliance). A conglomerate is a large corporation made up of many different, often unrelated, businesses.",
+     "id": "96082c3ff149",
+     "title": "Jio among world’s top five telcos, with a digital edge",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-among-worlds-top-five-telcos-with-a-digital-edge/articleshow/135285980.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-10-29T01:50:41+00:00",
+     "summary": "Jio Platforms has achieved a market valuation of $137.3 billion, making it the fifth-largest telecom company globally. This valuation highlights the scale of its modern 4G and 5G network infrastructure.",
+     "explain": "Jio Platforms is the digital and telecom services arm of Reliance Industries. Its massive valuation is driven by its extensive reach across India's growing digital landscape and its modern infrastructure, which gives it a competitive edge over global peers still reliant on older legacy systems. A market capitalization of this size represents the total market value of a company's outstanding shares.",
      "related": [],
      "story": {
       "id": "markets-jio-platforms-mega-ipo",
       "title": "Jio Platforms Mega IPO",
       "so_far": "Jio Platforms, a subsidiary of Reliance Industries, recently launched its IPO to raise capital for its transition into a comprehensive AI and cloud technology provider. It is now established as India's largest-ever public offering. The market debut has had a cascading effect on the parent company's total valuation, reshaping the hierarchy of major Indian business conglomerates.",
       "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "High-profile global institutional investors have committed Rs 2.5 lakh crore in anchor bids ahead of the public issue opening.",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-draws-rs-2-5-lakh-crore-in-anchor-bids/articleshow/135059075.cms",
-        "source": "Markets-Economic Times"
-       },
        {
         "date": "2026-10-20",
         "text": "The IPO is set to open tomorrow, October 21, with a high grey market premium suggesting strong potential listing gains.",
@@ -1953,30 +2015,138 @@
         "text": "Jio's stock debuted at a 21% premium, significantly boosting Reliance Group's total market capitalization to over Rs 28-30 lakh crore.",
         "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-effect-reliance-beats-tata-to-become-indias-most-valued-conglomerate/articleshow/135257354.cms",
         "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-29",
+        "text": "Jio Platforms has reached a $137.3 billion market cap, officially becoming the fifth-largest telecom firm in the world.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-among-worlds-top-five-telcos-with-a-digital-edge/articleshow/135285980.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-29",
+        "text": "Leading brokerages have initiated coverage with positive ratings and bullish price targets, suggesting significant potential for growth.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-bullish-on-jio-platforms-with-buy-and-accumulate/articleshow/135285530.cms",
+        "source": "Markets-Economic Times"
        }
       ]
      }
     },
     {
-     "id": "f2d5aa491ed4",
-     "title": "Jio effect! Reliance beats Tata to become India's most valued conglomerate",
-     "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-effect-reliance-beats-tata-to-become-indias-most-valued-conglomerate/articleshow/135257354.cms",
+     "id": "97e73e2e4553",
+     "title": "Top stocks to watch today: Jio Platforms, IndiGo, Coal India, Meesho shares in focus on Thursday, 29 Oct | Full list",
+     "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-jio-platforms-indigo-coal-india-meesho-shares-in-focus-on-thursday-29-oct-full-list-11793236670600.html",
+     "source": "mint - markets",
+     "published": "2026-10-29T01:49:12+00:00",
+     "summary": "Jio Platforms and other major Indian companies have been identified by market analysts as key stocks to watch during today's trading session.",
+     "explain": "When market analysts designate specific stocks to watch, they are flagging companies expected to show volatility or significant trading volume based on recent news or technical patterns. This helps investors identify where to direct their attention for potential opportunities or risks during the trading day.",
+     "related": [
+      {
+       "date": "2026-10-21",
+       "title": "Top stocks to watch today: Eternal, Reliance Industries, IREDA, RailTel shares in focus on Wed, 21 Oct | Full list",
+       "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-eternal-reliance-industries-ireda-railtel-shares-in-focus-on-wed-21-oct-full-list-11792546323951.html",
+       "source": "mint - markets"
+      },
+      {
+       "date": "2026-10-22",
+       "title": "Top stocks to watch today: Swiggy, Adani Green, Eternal, GMDC, BEL shares in focus on Thurs, 22 Oct | Full list",
+       "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-swiggy-adani-green-eternal-gmdc-bel-shares-in-focus-on-thurs-22-oct-full-list-11792632766011.html",
+       "source": "mint - markets"
+      },
+      {
+       "date": "2026-10-23",
+       "title": "Top stocks to watch today: Infosys, Tata Motors, Swiggy, Cyient shares in focus on Friday, 23 Oct | Full list",
+       "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-infosys-tata-motors-swiggy-cyient-shares-in-focus-on-friday-23-oct-full-list-11792719056861.html",
+       "source": "mint - markets"
+      },
+      {
+       "date": "2026-10-26",
+       "title": "Top stocks to watch today: Paytm, Mankind Pharma, Infosys, BPCL shares in focus on Monday, 26 Oct | Full list",
+       "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-paytm-mankind-pharma-infosys-bpcl-shares-in-focus-on-monday-26-oct-full-list-11792978063209.html",
+       "source": "mint - markets"
+      },
+      {
+       "date": "2026-10-27",
+       "title": "Top stocks to watch today: L&amp;T, Maruti Suzuki, Paytm, REC shares in focus on Tuesday, 27 Oct | Full list",
+       "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-l-t-maruti-suzuki-paytm-rec-shares-in-focus-on-tuesday-27-oct-full-list-11793064919143.html",
+       "source": "mint - markets"
+      }
+     ],
+     "story": {
+      "id": "markets-indian-market-technical-recommendations",
+      "title": "Indian Market Technical Recommendations",
+      "so_far": "Technical analysis is the study of price charts and volume data to forecast future moves, distinct from evaluating a company's business health. Foreign Institutional Investors (FIIs) are large global funds whose buying or selling can move the entire Indian market.",
+      "timeline": [
+       {
+        "date": "2026-10-21",
+        "text": "Experts released a short-term watchlist for the upcoming weeks, noting potential gains in banking and retail sectors.",
+        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-experts-bet-on-sbi-bank-of-baroda-meesho-cg-power-and-2-others-target-price-stoploss-11792467348731.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "Analysts provided a new list of active stocks, including Swiggy and Adani Energy, for daily trading focus.",
+        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-swiggy-adani-green-eternal-gmdc-bel-shares-in-focus-on-thurs-22-oct-full-list-11792632766011.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "Market futures indicate a negative opening for Indian indices following cues from global markets.",
+        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-21-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792629655970.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "Raja Venkatraman provided new technical trade strategies for two stocks today.",
+        "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-two-stocks-for-22-october-11792629823349.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-23",
+        "text": "Analysts identified a new list of active large-cap and energy stocks, including Adani Power and Swiggy, to watch for current price fluctuations.",
+        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-infosys-tata-motors-swiggy-cyient-shares-in-focus-on-friday-23-oct-full-list-11792719056861.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-23",
+        "text": "The GIFT Nifty shows a 165-point gain, pointing toward a strong start for the Sensex and Nifty indices.",
+        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-23-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792716174246.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-25",
+        "text": "Analysts identified a specific resistance zone of 22,750–22,800 that must be reclaimed for positive market momentum.",
+        "link": "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-under-rs-100-niva-bupa-gmr-airports-restaurant-brands-by-sumeet-bagadia-target-price-stoploss-11792862655967.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-25",
+        "text": "Analysts identify the IT sector as a potential defensive play while warning that the Nifty may face deeper sell-offs.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fo-talk-nifty-plunged-2-this-week-do-charts-indicate-a-bearish-picture-for-coming-week/articleshow/135186474.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-29",
+        "text": "Jio Platforms, Coal India, and IndiGo have been highlighted as primary stocks for investors to monitor for potential price movement.",
+        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-jio-platforms-indigo-coal-india-meesho-shares-in-focus-on-thursday-29-oct-full-list-11793236670600.html",
+        "source": "mint - markets"
+       }
+      ]
+     }
+    },
+    {
+     "id": "a7b39774581e",
+     "title": "Jio Platforms draws bullish bets, analysts see up to 28% upside",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-bullish-on-jio-platforms-with-buy-and-accumulate/articleshow/135285530.cms",
      "source": "Markets-Economic Times",
-     "published": "2026-10-28T07:56:18+00:00",
-     "summary": "Following a successful market debut, Jio Platforms' valuation jump has made Reliance Group India's most valuable conglomerate, overtaking Tata Group.",
-     "explain": "A market debut is the first day a company's shares are available for public trading. When a subsidiary (like Jio) performs well, it increases the value of the parent company (Reliance). A conglomerate is a large corporation made up of many different, often unrelated, businesses.",
+     "published": "2026-10-29T01:44:34+00:00",
+     "summary": "Major brokerages, including Nomura and Motilal Oswal, have issued 'Buy' ratings for Jio Platforms ahead of its listing. Analysts anticipate a significant upside, with some estimates suggesting a potential 28% increase in share value.",
+     "explain": "Brokerage coverage involves financial analysts researching a company and issuing reports to help investors decide whether to buy or sell its stock. Ratings like 'Buy' or 'Accumulate' indicate an analyst's belief that a stock will perform well, often based on company earnings potential and broader industry trends.",
      "related": [],
      "story": {
       "id": "markets-jio-platforms-mega-ipo",
       "title": "Jio Platforms Mega IPO",
       "so_far": "Jio Platforms, a subsidiary of Reliance Industries, recently launched its IPO to raise capital for its transition into a comprehensive AI and cloud technology provider. It is now established as India's largest-ever public offering. The market debut has had a cascading effect on the parent company's total valuation, reshaping the hierarchy of major Indian business conglomerates.",
       "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "High-profile global institutional investors have committed Rs 2.5 lakh crore in anchor bids ahead of the public issue opening.",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-draws-rs-2-5-lakh-crore-in-anchor-bids/articleshow/135059075.cms",
-        "source": "Markets-Economic Times"
-       },
        {
         "date": "2026-10-20",
         "text": "The IPO is set to open tomorrow, October 21, with a high grey market premium suggesting strong potential listing gains.",
@@ -2036,213 +2206,289 @@
         "text": "Jio's stock debuted at a 21% premium, significantly boosting Reliance Group's total market capitalization to over Rs 28-30 lakh crore.",
         "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-effect-reliance-beats-tata-to-become-indias-most-valued-conglomerate/articleshow/135257354.cms",
         "source": "Markets-Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "3dd1ce4e32d7",
-     "title": "Subros shares surge 10% after securing Rs 1,225 crore HVAC supply order from Maruti Suzuki",
-     "link": "https://economictimes.indiatimes.com/markets/stocks/news/subros-shares-surge-10-after-securing-rs-1225-crore-hvac-supply-order-from-maruti-suzuki/articleshow/135253915.cms",
-     "source": "Markets-Economic Times",
-     "published": "2026-10-28T05:58:49+00:00",
-     "summary": "Automotive component maker Subros saw its share price jump 10% after winning a long-term supply contract from Maruti Suzuki.",
-     "explain": "HVAC stands for Heating, Ventilation, and Air Conditioning. In the automotive industry, these are complex systems required to maintain cabin temperature. Long-term supply contracts are vital for manufacturing firms as they provide predictable future revenue and confirm the company's status as a preferred vendor for major car manufacturers like Maruti Suzuki.",
-     "related": [],
-     "story": {
-      "id": "markets-subros-secures-major-maruti-contract",
-      "title": "Subros Secures Major Maruti Contract",
-      "so_far": "Subros specializes in thermal management solutions for the automotive industry. Despite recent stock performance challenges—with shares down significantly over the last year—this new contract represents a major long-term revenue stream for the company.",
-      "timeline": [
+       },
        {
-        "date": "2026-10-28",
-        "text": "Subros secured a Rs 1,225 crore contract to supply HVAC systems for two Maruti Suzuki vehicle models over a seven-year period.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/subros-shares-surge-10-after-securing-rs-1225-crore-hvac-supply-order-from-maruti-suzuki/articleshow/135253915.cms",
+        "date": "2026-10-29",
+        "text": "Jio Platforms has reached a $137.3 billion market cap, officially becoming the fifth-largest telecom firm in the world.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-among-worlds-top-five-telcos-with-a-digital-edge/articleshow/135285980.cms",
         "source": "Markets-Economic Times"
        },
        {
-        "date": "2026-10-28",
-        "text": "Subros is also investing in an innovation center in Noida to focus on future automotive thermal technologies.",
-        "link": "https://www.livemint.com/market/stock-market-news/subros-shares-jump-10-after-rs-1-225-crore-maruti-suzuki-order-key-details-to-know-what-lies-ahead-for-investors-11793159896612.html",
-        "source": "mint - markets"
+        "date": "2026-10-29",
+        "text": "Leading brokerages have initiated coverage with positive ratings and bullish price targets, suggesting significant potential for growth.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-bullish-on-jio-platforms-with-buy-and-accumulate/articleshow/135285530.cms",
+        "source": "Markets-Economic Times"
        }
       ]
      }
     },
     {
-     "id": "d10b92f63daf",
-     "title": "Subros shares jump 10% after ₹1,225 crore Maruti Suzuki order; key details to know | What lies ahead for investors?",
-     "link": "https://www.livemint.com/market/stock-market-news/subros-shares-jump-10-after-rs-1-225-crore-maruti-suzuki-order-key-details-to-know-what-lies-ahead-for-investors-11793159896612.html",
+     "id": "888b6716de2c",
+     "title": "Are these low-P/E bluechip stocks really a bargain?",
+     "link": "https://www.livemint.com/market/stock-market-news/are-these-low-p-e-bluechip-stocks-really-a-bargain-11793187178454.html",
      "source": "mint - markets",
-     "published": "2026-10-28T04:26:04+00:00",
-     "summary": "Automotive component maker Subros saw its share price jump 10% after winning a long-term supply contract from Maruti Suzuki.",
-     "explain": "HVAC stands for Heating, Ventilation, and Air Conditioning. In the automotive industry, these are complex systems required to maintain cabin temperature. Long-term supply contracts are vital for manufacturing firms as they provide predictable future revenue and confirm the company's status as a preferred vendor for major car manufacturers like Maruti Suzuki.",
+     "published": "2026-10-29T01:30:13+00:00",
+     "summary": "Analysts warn that a low Price-to-Earnings (P/E) ratio does not always mean a stock is a bargain. Investors are encouraged to scrutinize earnings quality and margins before buying shares of companies like SBI and M&M.",
+     "explain": "The Price-to-Earnings (P/E) ratio compares a company's stock price to its per-share earnings. A low P/E might suggest a stock is undervalued, but it can also indicate that investors expect future performance to decline. Quality investing requires looking at 'margins'—how much profit a company keeps from sales—and the sustainability of its growth.",
      "related": [],
      "story": {
-      "id": "markets-subros-secures-major-maruti-contract",
-      "title": "Subros Secures Major Maruti Contract",
-      "so_far": "Subros specializes in thermal management solutions for the automotive industry. Despite recent stock performance challenges—with shares down significantly over the last year—this new contract represents a major long-term revenue stream for the company.",
+      "id": "markets-evaluating-value-in-bluechip-stocks",
+      "title": "Evaluating Value in Bluechip Stocks",
+      "so_far": "Bluechip stocks represent large, established companies with a history of reliable performance. Investors frequently look for 'bargains' by analyzing financial multiples, but this approach can overlook hidden structural risks or declining profit margins.",
       "timeline": [
        {
-        "date": "2026-10-28",
-        "text": "Subros secured a Rs 1,225 crore contract to supply HVAC systems for two Maruti Suzuki vehicle models over a seven-year period.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/subros-shares-surge-10-after-securing-rs-1225-crore-hvac-supply-order-from-maruti-suzuki/articleshow/135253915.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-28",
-        "text": "Subros is also investing in an innovation center in Noida to focus on future automotive thermal technologies.",
-        "link": "https://www.livemint.com/market/stock-market-news/subros-shares-jump-10-after-rs-1-225-crore-maruti-suzuki-order-key-details-to-know-what-lies-ahead-for-investors-11793159896612.html",
+        "date": "2026-10-29",
+        "text": "Market experts are cautioning investors to look beyond low P/E ratios when evaluating the attractiveness of large-cap 'bluechip' companies.",
+        "link": "https://www.livemint.com/market/stock-market-news/are-these-low-p-e-bluechip-stocks-really-a-bargain-11793187178454.html",
         "source": "mint - markets"
        }
       ]
      }
     },
     {
-     "id": "e7f3601eb459",
-     "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
-     "link": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "id": "d8e9bd218bb4",
+     "title": "MSCI puts Polycab exit on hold amid insolvency case uncertainty",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/news/msci-puts-polycab-india-removal-on-hold/articleshow/135285448.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-10-29T01:17:04+00:00",
+     "summary": "MSCI has suspended the planned removal of Polycab India from its indices due to ongoing uncertainty regarding the company's insolvency resolution process.",
+     "explain": "MSCI indices are baskets of stocks used by investors to measure market performance. When a company is added to or removed from these indices, global funds that track them must buy or sell shares, significantly impacting the stock price. The 'Insolvency Resolution Process' is a legal mechanism for managing companies that are unable to pay their debts.",
+     "related": [],
+     "story": {
+      "id": "markets-msci-index-status-for-polycab",
+      "title": "MSCI Index Status for Polycab",
+      "so_far": "Polycab India is a manufacturer of cables and wires. It recently became embroiled in an insolvency resolution process, which triggered a potential removal from various financial indices, affecting how global funds invest in the stock.",
+      "timeline": [
+       {
+        "date": "2026-10-29",
+        "text": "MSCI is maintaining Polycab India in its indices while it monitors the legal status of the company's insolvency proceedings.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/msci-puts-polycab-india-removal-on-hold/articleshow/135285448.cms",
+        "source": "Markets-Economic Times"
+       }
+      ]
+     }
+    },
+    {
+     "id": "c2551a1a6d6a",
+     "title": "Stock market outlook today, 29 Oct: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+     "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-29-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11793234388585.html",
+     "source": "mint - markets",
+     "published": "2026-10-29T01:15:36+00:00",
+     "summary": "The Indian stock market is expected to open on a positive note, with GIFT Nifty data indicating a potential gain of 33 points.",
+     "explain": "GIFT Nifty refers to Nifty 50 index futures that trade on the GIFT International Financial Centre. Because these trade nearly around the clock, they serve as a leading indicator of how the Indian markets will open when domestic exchanges begin trading.",
+     "related": [
+      {
+       "date": "2026-10-27",
+       "title": "Stock market outlook today, 27 Oct: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+       "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-27-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-cues-11793062963069.html",
+       "source": "mint - markets"
+      },
+      {
+       "date": "2026-10-28",
+       "title": "Stock market outlook for 28 Oct: Sensex, Nifty prediction - Jio Platforms IPO listing, GIFT Nifty, US and Asian markets",
+       "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-for-28-oct-sensex-nifty-prediction-jio-platforms-ipo-listing-gift-nifty-us-and-asian-markets-11793149578444.html",
+       "source": "mint - markets"
+      }
+     ],
+     "story": {
+      "id": "markets-indian-stock-market-volatility",
+      "title": "Indian Stock Market Volatility",
+      "so_far": "The Indian stock market often fluctuates based on global macroeconomic factors, such as crude oil prices which impact the country's import bill and inflation. Recently, volatility has been exacerbated by external geopolitical events that affect global supply chains and investor sentiment.",
+      "timeline": [
+       {
+        "date": "2026-10-25",
+        "text": "Increased geopolitical tension and high crude prices led to a loss of approximately ₹21 lakh crore in investor wealth.",
+        "link": "https://www.livemint.com/market/stock-market-news/bank-nifty-tumbles-nearly-3-slips-below-55k-more-selling-pressure-ahead-for-banking-stocks-check-key-levels-to-watch-11792920838777.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-25",
+        "text": "Large-cap firms like HDFC Bank and Bajaj Finance faced significant valuation losses as the BSE Sensex plummeted.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-8-of-top-10-firms-erodes-by-rs-1-55-lakh-cr-hdfc-bank-bajaj-fin-biggest-laggards/articleshow/135186713.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "The Nifty 50 and Sensex closed 0.68% and 0.66% higher respectively, following a sharp intra-day recovery.",
+        "link": "https://www.livemint.com/market/stock-market-news/mindboggling-monday-at-indian-stock-markets-sensex-nifty-mirror-life-s-ups-and-downs-october-26-trade-details-11793005870431.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "GIFT Nifty futures are down, signaling a potential downward start for Sensex and Nifty as the market digests global trends and the Jio Platforms listing.",
+        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-for-28-oct-sensex-nifty-prediction-jio-platforms-ipo-listing-gift-nifty-us-and-asian-markets-11793149578444.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-29",
+        "text": "Futures data suggests a positive opening for Indian indices, supported by broader regional market trends.",
+        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-29-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11793234388585.html",
+        "source": "mint - markets"
+       }
+      ]
+     }
+    },
+    {
+     "id": "97d4730c6101",
+     "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
+     "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph.com News",
-     "published": "2026-10-27T16:37:15+00:00",
-     "summary": "Janus Henderson and Centrifuge have launched a tokenized fund on the Stellar blockchain, allowing non-US investors to gain exposure to the Nasdaq-100 index.",
-     "explain": "Tokenization involves taking a traditional asset—like a stock index—and representing it as a digital 'token' on a blockchain ledger. This allows for faster transactions and more efficient trading outside of traditional market hours. It matters because it represents a move by institutional finance to bridge traditional stock markets with crypto-based infrastructure.",
+     "published": "2026-10-29T01:12:01+00:00",
+     "summary": "Bitcoin is facing downward pressure as traders anticipate a high likelihood of a Federal Reserve interest rate hike in December.",
+     "explain": "When the US Federal Reserve raises interest rates, it generally makes riskier assets—like Bitcoin or tech stocks—less attractive to investors compared to safe alternatives like government bonds. A 'hawkish' policy refers to the central bank's focus on raising rates to combat inflation.",
      "related": [],
      "story": {
-      "id": "markets-tokenized-financial-assets-growth",
-      "title": "Tokenized Financial Assets Growth",
-      "so_far": "Tokenized stocks are digital representations of traditional shares issued on a blockchain, designed to improve settlement speed and accessibility. The industry is currently competing to establish standard platforms for trading these digital assets while navigating international regulatory frameworks.",
+      "id": "markets-bitcoin-long-term-market-outlook",
+      "title": "Bitcoin Long-term Market Outlook",
+      "so_far": "Bitcoin is a decentralized digital currency often referred to as 'digital gold' due to its fixed supply. Investors debate its role in portfolios, with proponents citing its potential for high growth and detractors pointing to its extreme price volatility and lack of intrinsic industrial value.",
       "timeline": [
        {
-        "date": "2026-10-27",
-        "text": "A major asset manager, Janus Henderson, has introduced a licensed blockchain-based fund tracking the Nasdaq-100 index.",
-        "link": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "date": "2026-10-20",
+        "text": "JPMorgan included Bitcoin in its long-term capital market outlook for the first time, forecasting it as a top-performing asset class over 10 years.",
+        "link": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The report emphasizes that unstable correlations with other assets currently limit Bitcoin's role as a reliable portfolio component.",
+        "link": "https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-10-23",
+        "text": "Bitcoin prices retreated below the $83,000 threshold on Thursday, reversing gains despite ongoing institutional interest through spot ETFs.",
+        "link": "https://www.livemint.com/market/bitcoin-falls-below-83-000-as-ai-jitters-weigh-on-sentiment-11792719088220.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-23",
+        "text": "Bitcoin is maintaining a stable price level near $81,700 amid a broader recovery in the altcoin market.",
+        "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-10-23",
+        "text": "Data suggests that Bitcoin's price movement is currently decoupling from historical patterns previously observed at mid-term cycle bottoms.",
+        "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-10-24",
+        "text": "The firms are addressing the operational challenge of balancing aggressive cryptocurrency acquisition with traditional requirements for dividend payments.",
+        "link": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "Bitcoin is testing the $80,000 support level as traders anticipate volatile economic data from the US.",
+        "link": "https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News"
        },
        {
         "date": "2026-10-27",
-        "text": "The launch marks a significant milestone as the first licensed fund of its kind to bring Nasdaq-100 exposure on-chain.",
-        "link": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
+        "text": "An analyst has issued a new price forecast of $57,000 for Bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "b23827d3aea1",
-     "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
-     "link": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
-     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
-     "published": "2026-10-27T14:21:10+00:00",
-     "summary": "Janus Henderson and Centrifuge have launched a tokenized fund on the Stellar blockchain, allowing non-US investors to gain exposure to the Nasdaq-100 index.",
-     "explain": "This is a follow-up to the previous update regarding Janus Henderson's new blockchain-based fund. By putting the Nasdaq-100 'on-chain,' the firms are using distributed ledger technology to record ownership, potentially reducing the need for traditional intermediaries in the trading process.",
-     "related": [],
-     "story": {
-      "id": "markets-tokenized-financial-assets-growth",
-      "title": "Tokenized Financial Assets Growth",
-      "so_far": "Tokenized stocks are digital representations of traditional shares issued on a blockchain, designed to improve settlement speed and accessibility. The industry is currently competing to establish standard platforms for trading these digital assets while navigating international regulatory frameworks.",
-      "timeline": [
-       {
-        "date": "2026-10-27",
-        "text": "A major asset manager, Janus Henderson, has introduced a licensed blockchain-based fund tracking the Nasdaq-100 index.",
-        "link": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
        },
        {
-        "date": "2026-10-27",
-        "text": "The launch marks a significant milestone as the first licensed fund of its kind to bring Nasdaq-100 exposure on-chain.",
-        "link": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+        "date": "2026-10-29",
+        "text": "Expectations of a December US interest rate hike are currently weighing on Bitcoin's market performance.",
+        "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
        }
       ]
      }
     },
     {
-     "id": "e9459e38183b",
-     "title": "Google to preview crypto custody security system as AI threats grow",
-     "link": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
-     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
-     "published": "2026-10-28T11:00:00+00:00",
-     "summary": "Google is developing a new security system for crypto custody to protect digital assets against evolving AI-driven cyber threats.",
-     "explain": "Crypto custody refers to the secure storage of digital assets, usually handled by third-party institutions. Because crypto cannot be easily recovered if stolen, high-level digital security is essential. Google's entry into this space reflects a trend where major tech companies are providing infrastructure to make digital assets safer for institutional investors.",
-     "related": [],
-     "story": {
-      "id": "markets-google-develops-crypto-security-systems",
-      "title": "Google Develops Crypto Security Systems",
-      "so_far": "As institutional adoption of blockchain and digital assets grows, the need for robust security solutions—or 'custody'—has become critical. Traditional security measures are increasingly vulnerable to AI-powered attacks, necessitating more advanced defense mechanisms for holding large amounts of digital currency.",
-      "timeline": [
-       {
-        "date": "2026-10-28",
-        "text": "Google is set to preview a security system specifically designed for crypto custody in response to rising AI-based threats.",
-        "link": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "2049803dc358",
-     "title": "MFs raise stake for 3 straight quarters in 5 mid-cap stocks; shares gain up to 75% YTD",
-     "link": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-raise-stake-for-3-straight-quarters-in-5-mid-cap-stocks-shares-gain-up-to-75-ytd/slideshow/135262516.cms",
+     "id": "a87cdf811f45",
+     "title": "Persistent Systems to raise Rs 6,000 crore via NCDs for Nagarro deal",
+     "link": "https://economictimes.indiatimes.com/markets/bonds/persistent-systems-to-raise-rs-6000-crore-via-ncds-for-nagarro-deal/articleshow/135285377.cms",
      "source": "Markets-Economic Times",
-     "published": "2026-10-28T10:42:47+00:00",
-     "summary": "Mutual funds have consistently increased their positions in specific mid-cap stocks over the last nine months, despite mixed price performance.",
-     "explain": "Market capitalization (cap) is the total dollar value of a company's outstanding shares. Mid-cap companies are generally viewed as riskier than large, established firms but offer higher potential for growth. Institutional investors often 'accumulate' shares over several months to avoid driving the price up too quickly with large, single-day purchases.",
-     "related": [],
+     "published": "2026-10-29T01:11:41+00:00",
+     "summary": "Persistent Systems is raising ₹6,000 crore via non-convertible debentures to fund its acquisition of Nagarro SE.",
+     "explain": "Non-convertible debentures (NCDs) are loans that companies take from the public or institutional investors, paying a fixed interest rate. Unlike convertible bonds, they cannot be turned into equity shares. This is a common tool for companies to borrow money for large projects without diluting existing shareholder ownership.",
+     "related": [
+      {
+       "date": "2026-10-21",
+       "title": "Sun Pharma to raise Rs 10,000 crore to part-finance Organon deal",
+       "link": "https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-to-raise-rs-10k-crore-to-part-finance-organon-deal/articleshow/135079260.cms",
+       "source": "Markets-Economic Times"
+      }
+     ],
      "story": {
-      "id": "markets-institutional-mid-cap-investment-trends",
-      "title": "Institutional Mid-Cap Investment Trends",
-      "so_far": "Mutual funds (MFs) in India often track mid-cap companies—those with medium market capitalization—for their growth potential. When institutional investors consistently increase their stakes in a firm, it typically signals long-term confidence in the company's business model, even if the stock price is temporarily volatile.",
+      "id": "markets-persistent-systems-nagarro-acquisition",
+      "title": "Persistent Systems Nagarro Acquisition",
+      "so_far": "Persistent Systems is a software development and digital engineering services company. It has been aggressively pursuing international expansion through strategic acquisitions, which are often financed through a mix of equity and debt.",
       "timeline": [
        {
-        "date": "2026-10-28",
-        "text": "Data shows mutual funds increased stakes in 39 mid-cap stocks for three consecutive quarters, with some seeing gains of up to 75%.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-raise-stake-for-3-straight-quarters-in-5-mid-cap-stocks-shares-gain-up-to-75-ytd/slideshow/135262516.cms",
+        "date": "2026-10-29",
+        "text": "Persistent Systems is utilizing debt financing to finalize its acquisition of Nagarro, following a successful capital raise earlier this week.",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/persistent-systems-to-raise-rs-6000-crore-via-ncds-for-nagarro-deal/articleshow/135285377.cms",
         "source": "Markets-Economic Times"
        }
       ]
      }
     },
     {
-     "id": "a916807d7d4d",
-     "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
-     "link": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
-     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
-     "published": "2026-10-28T10:41:51+00:00",
-     "summary": "A DBS report highlights that a vast majority of large corporations are shifting toward tokenized cash to improve payment efficiency.",
-     "explain": "Tokenized cash is a digital representation of actual currency that moves across a blockchain. It matters because it reduces 'friction'—the time and cost associated with moving money across borders or between different banks. It allows for 24/7 global settlement, unlike traditional systems that often shut down on weekends or holidays.",
+     "id": "dc7868836e03",
+     "title": "Patna to raise Rs 200 crore via municipal bonds",
+     "link": "https://economictimes.indiatimes.com/markets/bonds/patna-to-raise-rs-200-crore-via-municipal-bonds/articleshow/135285199.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-10-29T01:03:16+00:00",
+     "summary": "Patna Municipal Corporation is launching its first-ever bond issuance worth ₹200 crore to fund local development projects.",
+     "explain": "A municipal bond is a debt security issued by a local government to finance public infrastructure projects. Investors who buy these bonds are effectively lending money to the city, which the city agrees to pay back with interest over time.",
      "related": [],
      "story": {
-      "id": "markets-adoption-of-tokenized-corporate-payments",
-      "title": "Adoption of Tokenized Corporate Payments",
-      "so_far": "Tokenization involves creating a digital, blockchain-based version of an asset or currency. By using these tokens for payments, corporations can bypass traditional banking intermediaries, resulting in near-instant transaction times and lower processing costs.",
+      "id": "markets-municipal-bond-market-growth",
+      "title": "Municipal Bond Market Growth",
+      "so_far": "Indian cities are increasingly looking to municipal bonds to finance urban infrastructure projects like water systems, roads, and sewage. This shift moves cities away from complete reliance on state or central government grants.",
       "timeline": [
        {
-        "date": "2026-10-28",
-        "text": "DBS reports that nearly 90% of large businesses are now adopting tokenized cash solutions for faster financial settlement.",
-        "link": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+        "date": "2026-10-29",
+        "text": "Patna is entering the bond market for the first time, signaling a trend of Indian cities seeking alternative funding for infrastructure.",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/patna-to-raise-rs-200-crore-via-municipal-bonds/articleshow/135285199.cms",
+        "source": "Markets-Economic Times"
        }
       ]
      }
     },
     {
-     "id": "e56fd2d8c553",
-     "title": "Info Edge Q2 Results: Net profit plunges 93% YoY to Rs 334 crore, revenue rises 13%; co declares Rs 3/share interim dividend",
-     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/info-edge-naukri-net-profit-plunges-93-yoy-to-rs-334-crore-revenue-rises-13-co-declares-rs-3/share-interim-dividend/articleshow/135261958.cms",
+     "id": "2e74dd73ba79",
+     "title": "Global Market Today: Asian shares edge higher as investors assess tech earnings, Fed outlook",
+     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-shares-edge-higher-as-investors-assess-tech-earnings-fed-outlook/articleshow/135285079.cms",
      "source": "Markets-Economic Times",
-     "published": "2026-10-28T10:41:11+00:00",
-     "summary": "Info Edge reported a significant year-on-year drop in net profit for Q2 2026, largely due to one-time financial comparisons.",
-     "explain": "A year-on-year (YoY) comparison measures performance against the same period in the previous year. A 'net profit plunge' doesn't always mean a failing business; in this case, it was largely caused by an 'exceptional gain' (a one-time windfall) in the previous year's financials, which makes this year's normal performance look worse by comparison.",
-     "related": [],
+     "published": "2026-10-29T00:56:43+00:00",
+     "summary": "Global markets are seeing mixed results, with Nasdaq futures falling following underwhelming earnings from Alphabet, while Asian markets showed slight gains.",
+     "explain": "When major companies like Alphabet (Google's parent company) report earnings that fall short of market expectations, it often causes wider market anxiety. Investors use these reports to judge the health of the entire tech sector, which is why a single disappointing report can lead to drops in stock index futures.",
+     "related": [
+      {
+       "date": "2026-10-26",
+       "title": "Global Market Today: Asian shares slip as AI jitters deepen ahead of big tech earnings",
+       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-slip-as-ai-jitters-deepen-ahead-of-big-tech-earnings/articleshow/135200167.cms",
+       "source": "Markets-Economic Times"
+      },
+      {
+       "date": "2026-10-26",
+       "title": "Global Market: European shares flat as investors assess earnings, France turmoil",
+       "link": "https://economictimes.indiatimes.com/markets/stocks/news/global-market-european-shares-flat-as-investors-assess-earnings-france-turmoil/articleshow/135209743.cms",
+       "source": "Markets-Economic Times"
+      }
+     ],
      "story": {
-      "id": "markets-info-edge-q2-financial-results",
-      "title": "Info Edge Q2 Financial Results",
-      "so_far": "Info Edge is a prominent Indian internet company that owns platforms like Naukri (recruitment), 99acres (real estate), and Jeevansathi (matrimony). Investors look at their quarterly results to understand trends in the Indian digital job market and online real estate activity.",
+      "id": "markets-us-tech-market-volatility",
+      "title": "US Tech Market Volatility",
+      "so_far": "The US tech market has faced a turbulent 2026 as high interest rates and changing advertising demand have pressured growth-focused digital and software companies. Many of these firms saw inflated valuations during the previous cycle and are now undergoing significant market correction.",
       "timeline": [
        {
-        "date": "2026-10-28",
-        "text": "Info Edge's net profit fell 93% to Rs 334 crore, though core business segments like recruitment and 99acres saw revenue growth.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/info-edge-naukri-net-profit-plunges-93-yoy-to-rs-334-crore-revenue-rises-13-co-declares-rs-3/share-interim-dividend/articleshow/135261958.cms",
+        "date": "2026-10-24",
+        "text": "A list of 'portfolio killers' identifies top US stocks that have faced significant capital erosion throughout 2026.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/portfolio-killers-10-us-stocks-that-wiped-out-up-to-66-of-investors-wealth-in-2026/slideshow/135167355.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-29",
+        "text": "Weak earnings reports from major tech players like Alphabet are triggering a decline in US tech market futures.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-shares-edge-higher-as-investors-assess-tech-earnings-fed-outlook/articleshow/135285079.cms",
         "source": "Markets-Economic Times"
        }
       ]
