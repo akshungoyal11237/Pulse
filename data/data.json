@@ -1,6 +1,6 @@
 {
  "generated": "2026-10-30T11:07:49.079593+00:00",
- "prices_generated": "2026-10-30T12:32:34.293465+00:00",
+ "prices_generated": "2026-10-30T13:49:33.163771+00:00",
  "ai": "gemini",
  "pulse": "Indian markets ended the session higher as investors responded to a flurry of positive quarterly earnings reports from major companies. In the U.S., major indices faced downward pressure, with the tech-heavy Nasdaq lagging behind due to growing investor anxiety regarding high corporate spending on artificial intelligence. Meanwhile, commodities experienced notable volatility as gold and silver prices fell, while reports surrounding a significant security breach at Binance weighed on broader sentiment across the crypto market.",
  "ticker_strip": [
@@ -151,10 +151,10 @@
   "^GSPC": {
    "symbol": "^GSPC",
    "name": "S&P 500",
-   "price": 7720.3901,
-   "change": -23.5898,
-   "pct": -0.3,
-   "pct_1m": 0.9,
+   "price": 7629.5098,
+   "change": -90.8804,
+   "pct": -1.18,
+   "pct_1m": -0.29,
    "spark": [
     7651.54,
     7666.4502,
@@ -177,17 +177,18 @@
     7676.77,
     7722.6001,
     7743.98,
-    7720.3901
+    7720.3901,
+    7629.5098
    ],
-   "asof": "2026-10-29"
+   "asof": "2026-10-30"
   },
   "^IXIC": {
    "symbol": "^IXIC",
    "name": "Nasdaq",
-   "price": 26184.7207,
-   "change": -365.1289,
-   "pct": -1.38,
-   "pct_1m": -2.52,
+   "price": 25616.0215,
+   "change": -568.6992,
+   "pct": -2.17,
+   "pct_1m": -4.64,
    "spark": [
     26861.0605,
     26871.5996,
@@ -210,17 +211,18 @@
     26169.3809,
     26477.8105,
     26549.8496,
-    26184.7207
+    26184.7207,
+    25616.0215
    ],
-   "asof": "2026-10-29"
+   "asof": "2026-10-30"
   },
   "^DJI": {
    "symbol": "^DJI",
    "name": "Dow Jones",
-   "price": 52342.5586,
-   "change": -132.543,
-   "pct": -0.25,
-   "pct_1m": 2.82,
+   "price": 52170.3594,
+   "change": -172.1992,
+   "pct": -0.33,
+   "pct_1m": 2.48,
    "spark": [
     50906.0508,
     50926.5586,
@@ -243,17 +245,18 @@
     52361.5781,
     52377.5703,
     52475.1016,
-    52342.5586
+    52342.5586,
+    52170.3594
    ],
-   "asof": "2026-10-29"
+   "asof": "2026-10-30"
   },
   "BTC-USD": {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 77385.8281,
-   "change": -389.2812,
-   "pct": -0.5,
-   "pct_1m": -7.38,
+   "price": 76653.6406,
+   "change": -1121.4688,
+   "pct": -1.44,
+   "pct_1m": -8.26,
    "spark": [
     83553.8516,
     84853.1016,
@@ -285,17 +288,17 @@
     80805.0781,
     81267.5859,
     77775.1094,
-    77385.8281
+    76653.6406
    ],
    "asof": "2026-10-30"
   },
   "ETH-USD": {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 2232.0,
-   "change": -17.4983,
-   "pct": -0.78,
-   "pct_1m": -16.83,
+   "price": 2212.8999,
+   "change": -36.5984,
+   "pct": -1.63,
+   "pct_1m": -17.54,
    "spark": [
     2683.6794,
     2705.5371,
@@ -327,17 +330,17 @@
     2347.73,
     2357.624,
     2249.4983,
-    2232.0
+    2212.8999
    ],
    "asof": "2026-10-30"
   },
   "SOL-USD": {
    "symbol": "SOL-USD",
    "name": "Solana",
-   "price": 96.46,
-   "change": 0.9659,
-   "pct": 1.01,
-   "pct_1m": -18.25,
+   "price": 94.79,
+   "change": -0.7041,
+   "pct": -0.74,
+   "pct_1m": -19.67,
    "spark": [
     117.9948,
     118.3978,
@@ -369,7 +372,7 @@
     101.255,
     102.3075,
     95.4941,
-    96.46
+    94.79
    ],
    "asof": "2026-10-30"
   },
@@ -410,10 +413,10 @@
   "EURINR=X": {
    "symbol": "EURINR=X",
    "name": "EUR/INR",
-   "price": 106.2456,
-   "change": 0.0756,
-   "pct": 0.07,
-   "pct_1m": -2.32,
+   "price": 105.9189,
+   "change": -0.2511,
+   "pct": -0.24,
+   "pct_1m": -2.62,
    "spark": [
     108.769,
     108.642,
@@ -437,17 +440,17 @@
     106.269,
     105.761,
     106.17,
-    106.2456
+    105.9189
    ],
    "asof": "2026-10-30"
   },
   "EURUSD=X": {
    "symbol": "EURUSD=X",
    "name": "EUR/USD",
-   "price": 1.1192,
-   "change": 0.0036,
-   "pct": 0.32,
-   "pct_1m": -1.31,
+   "price": 1.1156,
+   "change": 0.0,
+   "pct": 0.0,
+   "pct_1m": -1.63,
    "spark": [
     1.1341,
     1.1327,
@@ -471,17 +474,17 @@
     1.1174,
     1.113,
     1.1156,
-    1.1192
+    1.1156
    ],
    "asof": "2026-10-30"
   },
   "GBPINR=X": {
    "symbol": "GBPINR=X",
    "name": "GBP/INR",
-   "price": 127.421,
-   "change": 0.5777,
-   "pct": 0.46,
-   "pct_1m": 0.29,
+   "price": 127.0891,
+   "change": 0.2458,
+   "pct": 0.19,
+   "pct_1m": 0.03,
    "spark": [
     127.0541,
     127.2369,
@@ -505,17 +508,17 @@
     127.0049,
     126.6426,
     126.8433,
-    127.421
+    127.0891
    ],
    "asof": "2026-10-30"
   },
   "GC=F": {
    "symbol": "GC=F",
    "name": "Gold",
-   "price": 3970.3,
-   "change": -61.0999,
-   "pct": -1.52,
-   "pct_1m": -5.17,
+   "price": 3943.5,
+   "change": -87.8999,
+   "pct": -2.18,
+   "pct_1m": -5.81,
    "spark": [
     4186.7002,
     4202.2998,
@@ -539,17 +542,17 @@
     4074.6001,
     4051.6001,
     4031.3999,
-    3970.3
+    3943.5
    ],
    "asof": "2026-10-30"
   },
   "SI=F": {
    "symbol": "SI=F",
    "name": "Silver",
-   "price": 50.06,
-   "change": -2.131,
-   "pct": -4.08,
-   "pct_1m": -16.7,
+   "price": 49.88,
+   "change": -2.311,
+   "pct": -4.43,
+   "pct_1m": -17.0,
    "spark": [
     60.098,
     60.725,
@@ -573,17 +576,17 @@
     54.293,
     53.457,
     52.191,
-    50.06
+    49.88
    ],
    "asof": "2026-10-30"
   },
   "CL=F": {
    "symbol": "CL=F",
    "name": "WTI Crude",
-   "price": 104.08,
-   "change": 2.08,
-   "pct": 2.04,
-   "pct_1m": 15.11,
+   "price": 103.93,
+   "change": 1.93,
+   "pct": 1.89,
+   "pct_1m": 14.94,
    "spark": [
     90.42,
     92.87,
@@ -607,17 +610,17 @@
     99.9,
     102.78,
     102.0,
-    104.08
+    103.93
    ],
    "asof": "2026-10-30"
   },
   "BZ=F": {
    "symbol": "BZ=F",
    "name": "Brent Crude",
-   "price": 113.34,
-   "change": -1.54,
-   "pct": -1.34,
-   "pct_1m": 9.48,
+   "price": 113.19,
+   "change": -1.69,
+   "pct": -1.47,
+   "pct_1m": 9.33,
    "spark": [
     103.53,
     102.31,
@@ -641,7 +644,7 @@
     113.88,
     115.32,
     114.88,
-    113.34
+    113.19
    ],
    "asof": "2026-10-30"
   },
@@ -776,10 +779,10 @@
   "AAPL": {
    "symbol": "AAPL",
    "name": "Apple",
-   "price": 348.91,
-   "change": 5.08,
-   "pct": 1.48,
-   "pct_1m": 4.77,
+   "price": 345.18,
+   "change": -3.73,
+   "pct": -1.07,
+   "pct_1m": 3.65,
    "spark": [
     333.02,
     330.32,
@@ -802,17 +805,18 @@
     343.91,
     347.1,
     343.83,
-    348.91
+    348.91,
+    345.18
    ],
-   "asof": "2026-10-29"
+   "asof": "2026-10-30"
   },
   "NVDA": {
    "symbol": "NVDA",
    "name": "Nvidia",
-   "price": 213.66,
-   "change": -1.72,
-   "pct": -0.8,
-   "pct_1m": -6.45,
+   "price": 207.075,
+   "change": -6.585,
+   "pct": -3.08,
+   "pct_1m": -9.33,
    "spark": [
     228.38,
     230.86,
@@ -835,17 +839,18 @@
     216.0,
     217.94,
     215.38,
-    213.66
+    213.66,
+    207.075
    ],
-   "asof": "2026-10-29"
+   "asof": "2026-10-30"
   },
   "MSFT": {
    "symbol": "MSFT",
    "name": "Microsoft",
-   "price": 530.14,
-   "change": -0.87,
-   "pct": -0.16,
-   "pct_1m": 3.36,
+   "price": 522.725,
+   "change": -7.415,
+   "pct": -1.4,
+   "pct_1m": 1.92,
    "spark": [
     512.9,
     512.8,
@@ -868,9 +873,10 @@
     532.6,
     531.33,
     531.01,
-    530.14
+    530.14,
+    522.725
    ],
-   "asof": "2026-10-29"
+   "asof": "2026-10-30"
   }
  },
  "mutual_funds": [
