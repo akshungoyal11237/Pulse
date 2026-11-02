@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-02T02:23:06.701123+00:00",
- "prices_generated": "2026-11-02T06:58:36.769931+00:00",
+ "prices_generated": "2026-11-02T08:21:54.965442+00:00",
  "ai": "gemini",
  "pulse": "Indian markets saw modest gains today, likely driven by positive sentiment surrounding strong quarterly earnings from heavyweights like Reliance and encouraging auto sales data. In contrast, US indices faced a significant sell-off, possibly due to investor uncertainty ahead of the midterm elections and ongoing concerns regarding aggressive Federal Reserve interest rate hikes. Meanwhile, oil prices dropped sharply on reports of potential progress in ending the Iran war, while gold prices ticked up slightly despite broader market volatility.",
  "ticker_strip": [
@@ -55,10 +55,10 @@
   "^NSEI": {
    "symbol": "^NSEI",
    "name": "Nifty 50",
-   "price": 23336.6992,
-   "change": 283.5996,
-   "pct": 1.23,
-   "pct_1m": 3.46,
+   "price": 23238.5996,
+   "change": 185.5,
+   "pct": 0.8,
+   "pct_1m": 3.03,
    "spark": [
     22555.75,
     22776.0996,
@@ -79,17 +79,17 @@
     22698.8496,
     22936.75,
     23053.0996,
-    23336.6992
+    23238.5996
    ],
    "asof": "2026-11-02"
   },
   "^BSESN": {
    "symbol": "^BSESN",
    "name": "Sensex",
-   "price": 75414.3516,
-   "change": 954.8203,
-   "pct": 1.28,
-   "pct_1m": 4.19,
+   "price": 75050.1562,
+   "change": 590.625,
+   "pct": 0.79,
+   "pct_1m": 3.69,
    "spark": [
     72382.4688,
     73067.8125,
@@ -110,17 +110,17 @@
     73246.0312,
     74151.0391,
     74459.5312,
-    75414.3516
+    75050.1562
    ],
    "asof": "2026-11-02"
   },
   "^NSEBANK": {
    "symbol": "^NSEBANK",
    "name": "Bank Nifty",
-   "price": 54935.9492,
-   "change": 249.0,
-   "pct": 0.46,
-   "pct_1m": 0.41,
+   "price": 54670.6484,
+   "change": -16.3008,
+   "pct": -0.03,
+   "pct_1m": -0.08,
    "spark": [
     54714.1016,
     55128.3984,
@@ -141,7 +141,7 @@
     54267.3984,
     54909.6484,
     54686.9492,
-    54935.9492
+    54670.6484
    ],
    "asof": "2026-11-02"
   },
@@ -250,9 +250,9 @@
   "BTC-USD": {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 78043.6719,
-   "change": 608.9219,
-   "pct": 0.79,
+   "price": 78043.5781,
+   "change": -204.875,
+   "pct": -0.26,
    "pct_1m": -7.64,
    "spark": [
     84497.2109,
@@ -285,17 +285,18 @@
     77775.1094,
     77198.2109,
     77434.75,
-    78043.6719
+    78248.4531,
+    78043.5781
    ],
    "asof": "2026-11-02"
   },
   "ETH-USD": {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 2282.46,
-   "change": 29.7122,
-   "pct": 1.32,
-   "pct_1m": -14.46,
+   "price": 2287.28,
+   "change": 14.2278,
+   "pct": 0.63,
+   "pct_1m": -14.27,
    "spark": [
     2668.1511,
     2687.2554,
@@ -327,17 +328,18 @@
     2249.4983,
     2241.0544,
     2252.7478,
-    2282.46
+    2273.0522,
+    2287.28
    ],
    "asof": "2026-11-02"
   },
   "SOL-USD": {
    "symbol": "SOL-USD",
    "name": "Solana",
-   "price": 94.32,
-   "change": -1.0282,
-   "pct": -1.08,
-   "pct_1m": -20.48,
+   "price": 94.18,
+   "change": -0.2746,
+   "pct": -0.29,
+   "pct_1m": -20.6,
    "spark": [
     118.6151,
     119.6451,
@@ -369,17 +371,18 @@
     95.4941,
     96.2188,
     95.3482,
-    94.32
+    94.4546,
+    94.18
    ],
    "asof": "2026-11-02"
   },
   "USDINR=X": {
    "symbol": "USDINR=X",
    "name": "USD/INR",
-   "price": 94.86,
-   "change": -0.2924,
-   "pct": -0.31,
-   "pct_1m": -1.42,
+   "price": 94.985,
+   "change": -0.1674,
+   "pct": -0.18,
+   "pct_1m": -1.29,
    "spark": [
     96.2248,
     96.3253,
@@ -402,17 +405,17 @@
     95.1778,
     95.2095,
     95.1524,
-    94.86
+    94.985
    ],
    "asof": "2026-11-02"
   },
   "EURINR=X": {
    "symbol": "EURINR=X",
    "name": "EUR/INR",
-   "price": 106.1199,
-   "change": -0.2671,
-   "pct": -0.25,
-   "pct_1m": -1.98,
+   "price": 106.3832,
+   "change": -0.0038,
+   "pct": -0.0,
+   "pct_1m": -1.74,
    "spark": [
     108.264,
     108.157,
@@ -435,17 +438,17 @@
     105.761,
     106.17,
     106.387,
-    106.1199
+    106.3832
    ],
    "asof": "2026-11-02"
   },
   "EURUSD=X": {
    "symbol": "EURUSD=X",
    "name": "EUR/USD",
-   "price": 1.1189,
-   "change": 0.0007,
-   "pct": 0.06,
-   "pct_1m": -0.54,
+   "price": 1.1202,
+   "change": 0.0019,
+   "pct": 0.17,
+   "pct_1m": -0.43,
    "spark": [
     1.125,
     1.1255,
@@ -468,17 +471,17 @@
     1.113,
     1.1156,
     1.1183,
-    1.1189
+    1.1202
    ],
    "asof": "2026-11-02"
   },
   "GBPINR=X": {
    "symbol": "GBPINR=X",
    "name": "GBP/INR",
-   "price": 127.1503,
-   "change": -0.1694,
-   "pct": -0.13,
-   "pct_1m": 0.13,
+   "price": 127.4224,
+   "change": 0.1027,
+   "pct": 0.08,
+   "pct_1m": 0.35,
    "spark": [
     126.9832,
     127.525,
@@ -501,17 +504,17 @@
     126.6426,
     126.8433,
     127.3197,
-    127.1503
+    127.4224
    ],
    "asof": "2026-11-02"
   },
   "GC=F": {
    "symbol": "GC=F",
    "name": "Gold",
-   "price": 3914.2,
-   "change": 15.3,
-   "pct": 0.39,
-   "pct_1m": -5.96,
+   "price": 3906.3,
+   "change": 7.4001,
+   "pct": 0.19,
+   "pct_1m": -6.15,
    "spark": [
     4162.2998,
     4156.7998,
@@ -534,17 +537,17 @@
     4051.6001,
     4031.3999,
     3898.8999,
-    3914.2
+    3906.3
    ],
    "asof": "2026-11-02"
   },
   "SI=F": {
    "symbol": "SI=F",
    "name": "Silver",
-   "price": 50.25,
-   "change": 1.153,
-   "pct": 2.35,
-   "pct_1m": -16.22,
+   "price": 50.24,
+   "change": 1.143,
+   "pct": 2.33,
+   "pct_1m": -16.23,
    "spark": [
     59.977,
     60.869,
@@ -567,17 +570,17 @@
     53.457,
     52.191,
     49.097,
-    50.25
+    50.24
    ],
    "asof": "2026-11-02"
   },
   "CL=F": {
    "symbol": "CL=F",
    "name": "WTI Crude",
-   "price": 100.73,
-   "change": -3.39,
-   "pct": -3.26,
-   "pct_1m": 10.56,
+   "price": 100.35,
+   "change": -3.77,
+   "pct": -3.62,
+   "pct_1m": 10.14,
    "spark": [
     91.11,
     89.43,
@@ -600,17 +603,17 @@
     102.78,
     102.0,
     104.12,
-    100.73
+    100.35
    ],
    "asof": "2026-11-02"
   },
   "BZ=F": {
    "symbol": "BZ=F",
    "name": "Brent Crude",
-   "price": 110.19,
-   "change": -7.45,
-   "pct": -6.33,
-   "pct_1m": 7.77,
+   "price": 109.72,
+   "change": -7.92,
+   "pct": -6.73,
+   "pct_1m": 7.31,
    "spark": [
     102.25,
     100.32,
@@ -633,17 +636,17 @@
     115.32,
     114.88,
     117.64,
-    110.19
+    109.72
    ],
    "asof": "2026-11-02"
   },
   "RELIANCE.NS": {
    "symbol": "RELIANCE.NS",
    "name": "Reliance",
-   "price": 1255.1,
-   "change": 90.2,
-   "pct": 7.74,
-   "pct_1m": 5.79,
+   "price": 1253.2,
+   "change": 88.2999,
+   "pct": 7.58,
+   "pct_1m": 5.63,
    "spark": [
     1186.4,
     1218.0,
@@ -664,17 +667,17 @@
     1158.0,
     1167.4,
     1164.9,
-    1255.1
+    1253.2
    ],
    "asof": "2026-11-02"
   },
   "TCS.NS": {
    "symbol": "TCS.NS",
    "name": "TCS",
-   "price": 2524.8999,
-   "change": 22.2998,
-   "pct": 0.89,
-   "pct_1m": 20.05,
+   "price": 2505.5,
+   "change": 2.8999,
+   "pct": 0.12,
+   "pct_1m": 19.13,
    "spark": [
     2103.219,
     2088.8953,
@@ -695,17 +698,17 @@
     2460.0,
     2478.0,
     2502.6001,
-    2524.8999
+    2505.5
    ],
    "asof": "2026-11-02"
   },
   "HDFCBANK.NS": {
    "symbol": "HDFCBANK.NS",
    "name": "HDFC Bank",
-   "price": 692.85,
-   "change": 0.05,
-   "pct": 0.01,
-   "pct_1m": -1.7,
+   "price": 690.0,
+   "change": -2.8,
+   "pct": -0.4,
+   "pct_1m": -2.1,
    "spark": [
     704.8,
     711.45,
@@ -726,17 +729,17 @@
     685.3,
     683.3,
     692.8,
-    692.85
+    690.0
    ],
    "asof": "2026-11-02"
   },
   "INFY.NS": {
    "symbol": "INFY.NS",
    "name": "Infosys",
-   "price": 1167.4,
-   "change": -17.6,
-   "pct": -1.49,
-   "pct_1m": 14.39,
+   "price": 1153.3,
+   "change": -31.7,
+   "pct": -2.68,
+   "pct_1m": 13.01,
    "spark": [
     1020.5,
     1013.85,
@@ -757,7 +760,7 @@
     1123.15,
     1146.5,
     1185.0,
-    1167.4
+    1153.3
    ],
    "asof": "2026-11-02"
   },
