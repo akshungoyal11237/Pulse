@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-04T11:29:09.636117+00:00",
- "prices_generated": "2026-11-04T11:29:09.636117+00:00",
+ "prices_generated": "2026-11-04T11:49:59.742964+00:00",
  "ai": "gemini",
  "pulse": "Indian markets rose today, likely bolstered by positive investor sentiment following strong quarterly results from major companies and new government investments in energy storage. In the U.S., the Nasdaq and S&P 500 gained momentum as optimism around AI-driven productivity potentially offset weakness in the Dow Jones. Meanwhile, gold and silver prices saw significant surges, possibly reflecting a \"safe-haven\" rally amid broader market uncertainty, while crypto assets like Bitcoin and Ethereum also traded higher.",
  "ticker_strip": [
@@ -253,10 +253,10 @@
   "BTC-USD": {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 78572.1875,
-   "change": 1227.1406,
-   "pct": 1.59,
-   "pct_1m": -9.14,
+   "price": 78555.4297,
+   "change": 1210.3828,
+   "pct": 1.56,
+   "pct_1m": -9.16,
    "spark": [
     86480.3047,
     85786.5938,
@@ -289,17 +289,17 @@
     78248.4531,
     76677.2969,
     77345.0469,
-    78572.1875
+    78555.4297
    ],
    "asof": "2026-11-04"
   },
   "ETH-USD": {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 2331.5901,
-   "change": 58.8643,
-   "pct": 2.59,
-   "pct_1m": -14.48,
+   "price": 2332.47,
+   "change": 59.7441,
+   "pct": 2.63,
+   "pct_1m": -14.45,
    "spark": [
     2726.509,
     2711.0315,
@@ -332,16 +332,16 @@
     2273.0522,
     2248.8862,
     2272.7258,
-    2331.5901
+    2332.47
    ],
    "asof": "2026-11-04"
   },
   "SOL-USD": {
    "symbol": "SOL-USD",
    "name": "Solana",
-   "price": 93.85,
-   "change": 0.931,
-   "pct": 1.0,
+   "price": 93.84,
+   "change": 0.921,
+   "pct": 0.99,
    "pct_1m": -22.78,
    "spark": [
     121.5286,
@@ -375,7 +375,7 @@
     94.4546,
     91.8355,
     92.919,
-    93.85
+    93.84
    ],
    "asof": "2026-11-04"
   },
@@ -450,10 +450,10 @@
   "EURUSD=X": {
    "symbol": "EURUSD=X",
    "name": "EUR/USD",
-   "price": 1.1252,
-   "change": 0.006,
-   "pct": 0.54,
-   "pct_1m": -0.02,
+   "price": 1.1257,
+   "change": 0.0065,
+   "pct": 0.58,
+   "pct_1m": 0.03,
    "spark": [
     1.1255,
     1.1217,
@@ -477,7 +477,7 @@
     1.1183,
     1.1157,
     1.1192,
-    1.1252
+    1.1257
    ],
    "asof": "2026-11-04"
   },
@@ -518,10 +518,10 @@
   "GC=F": {
    "symbol": "GC=F",
    "name": "Gold",
-   "price": 4054.5,
-   "change": 114.1001,
-   "pct": 2.9,
-   "pct_1m": -2.46,
+   "price": 4052.2,
+   "change": 111.8,
+   "pct": 2.84,
+   "pct_1m": -2.52,
    "spark": [
     4156.7998,
     4187.1001,
@@ -545,17 +545,17 @@
     3898.8999,
     3969.6001,
     3940.3999,
-    4054.5
+    4052.2
    ],
    "asof": "2026-11-04"
   },
   "SI=F": {
    "symbol": "SI=F",
    "name": "Silver",
-   "price": 52.08,
-   "change": 2.493,
-   "pct": 5.03,
-   "pct_1m": -14.44,
+   "price": 52.015,
+   "change": 2.428,
+   "pct": 4.9,
+   "pct_1m": -14.55,
    "spark": [
     60.869,
     61.168,
@@ -579,17 +579,17 @@
     49.097,
     50.72,
     49.587,
-    52.08
+    52.015
    ],
    "asof": "2026-11-04"
   },
   "CL=F": {
    "symbol": "CL=F",
    "name": "WTI Crude",
-   "price": 95.28,
-   "change": -0.81,
-   "pct": -0.84,
-   "pct_1m": 6.54,
+   "price": 95.18,
+   "change": -0.91,
+   "pct": -0.95,
+   "pct_1m": 6.43,
    "spark": [
     89.43,
     89.44,
@@ -613,17 +613,17 @@
     104.12,
     96.46,
     96.09,
-    95.28
+    95.18
    ],
    "asof": "2026-11-04"
   },
   "BZ=F": {
    "symbol": "BZ=F",
    "name": "Brent Crude",
-   "price": 102.25,
-   "change": -1.35,
-   "pct": -1.3,
-   "pct_1m": 1.92,
+   "price": 102.32,
+   "change": -1.28,
+   "pct": -1.24,
+   "pct_1m": 1.99,
    "spark": [
     100.32,
     100.58,
@@ -647,7 +647,7 @@
     117.64,
     104.77,
     103.6,
-    102.25
+    102.32
    ],
    "asof": "2026-11-04"
   },
