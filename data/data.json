@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-06T11:22:17.882935+00:00",
- "prices_generated": "2026-11-06T18:39:38.874177+00:00",
+ "generated": "2026-11-07T02:18:04.041326+00:00",
+ "prices_generated": "2026-11-07T02:18:04.041326+00:00",
  "ai": "gemini",
- "pulse": "Indian markets surged today as strong foreign inflows and a strengthening rupee bolstered investor sentiment across banking and major indices. Conversely, US markets experienced sharp declines likely due to growing investor anxiety over economic outlooks and broad sectoral selling. Meanwhile, crypto prices remained relatively stable despite fresh global regulatory updates, and gold prices dipped as investors possibly shifted focus toward other asset classes.",
+ "pulse": null,
  "ticker_strip": [
   "^NSEI",
   "^BSESN",
@@ -55,10 +55,10 @@
   "^NSEI": {
    "symbol": "^NSEI",
    "name": "Nifty 50",
-   "price": 24536.5996,
-   "change": 576.0,
-   "pct": 2.4,
-   "pct_1m": 7.73,
+   "price": 25030.3496,
+   "change": 493.75,
+   "pct": 2.01,
+   "pct_1m": 9.9,
    "spark": [
     22776.0996,
     22603.0508,
@@ -81,17 +81,18 @@
     23440.8008,
     23810.8496,
     23960.5996,
-    24536.5996
+    24536.5996,
+    25030.3496
    ],
-   "asof": "2026-11-05"
+   "asof": "2026-11-06"
   },
   "^BSESN": {
    "symbol": "^BSESN",
    "name": "Sensex",
-   "price": 79310.0078,
-   "change": 2008.6094,
-   "pct": 2.6,
-   "pct_1m": 8.54,
+   "price": 81028.0234,
+   "change": 1718.0156,
+   "pct": 2.17,
+   "pct_1m": 10.89,
    "spark": [
     73067.8125,
     72638.7031,
@@ -114,17 +115,18 @@
     75692.7812,
     76917.8516,
     77301.3984,
-    79310.0078
+    79310.0078,
+    81028.0234
    ],
-   "asof": "2026-11-05"
+   "asof": "2026-11-06"
   },
   "^NSEBANK": {
    "symbol": "^NSEBANK",
    "name": "Bank Nifty",
-   "price": 57773.6484,
-   "change": 1860.0469,
-   "pct": 3.33,
-   "pct_1m": 4.8,
+   "price": 59086.0,
+   "change": 1312.3516,
+   "pct": 2.27,
+   "pct_1m": 7.18,
    "spark": [
     55128.3984,
     55055.5508,
@@ -147,19 +149,19 @@
     55002.1992,
     55540.0508,
     55913.6016,
-    57773.6484
+    57773.6484,
+    59086.0
    ],
-   "asof": "2026-11-05"
+   "asof": "2026-11-06"
   },
   "^GSPC": {
    "symbol": "^GSPC",
    "name": "S&P 500",
-   "price": 7399.9902,
-   "change": 46.2603,
-   "pct": 0.63,
-   "pct_1m": -5.36,
+   "price": 7376.8599,
+   "change": 23.1299,
+   "pct": 0.31,
+   "pct_1m": -5.45,
    "spark": [
-    7818.9302,
     7801.77,
     7765.3599,
     7811.54,
@@ -182,19 +184,18 @@
     7568.9199,
     7688.6201,
     7353.73,
-    7399.9902
+    7376.8599
    ],
    "asof": "2026-11-06"
   },
   "^IXIC": {
    "symbol": "^IXIC",
    "name": "Nasdaq",
-   "price": 24628.3105,
-   "change": 313.3105,
-   "pct": 1.29,
-   "pct_1m": -10.77,
+   "price": 24579.4238,
+   "change": 264.4238,
+   "pct": 1.09,
+   "pct_1m": -10.75,
    "spark": [
-    27599.7891,
     27538.6895,
     27193.3398,
     27366.1699,
@@ -217,19 +218,18 @@
     25372.0098,
     25736.5098,
     24315.0,
-    24628.3105
+    24579.4238
    ],
    "asof": "2026-11-06"
   },
   "^DJI": {
    "symbol": "^DJI",
    "name": "Dow Jones",
-   "price": 51483.5781,
-   "change": -39.4805,
-   "pct": -0.08,
-   "pct_1m": -0.07,
+   "price": 51285.7305,
+   "change": -237.3281,
+   "pct": -0.46,
+   "pct_1m": 0.21,
    "spark": [
-    51521.2812,
     51179.8711,
     51231.6406,
     51654.9492,
@@ -252,19 +252,18 @@
     51786.7188,
     53356.1211,
     51523.0586,
-    51483.5781
+    51285.7305
    ],
    "asof": "2026-11-06"
   },
   "BTC-USD": {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 75778.1797,
-   "change": -163.9453,
-   "pct": -0.22,
-   "pct_1m": -11.43,
+   "price": 75975.8125,
+   "change": 33.6875,
+   "pct": 0.04,
+   "pct_1m": -8.77,
    "spark": [
-    85557.5625,
     83275.9297,
     81676.3359,
     82546.3203,
@@ -295,19 +294,18 @@
     77345.0469,
     80405.2891,
     75942.125,
-    75778.1797
+    75975.8125
    ],
-   "asof": "2026-11-06"
+   "asof": "2026-11-07"
   },
   "ETH-USD": {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 2228.1599,
-   "change": -6.3164,
-   "pct": -0.28,
-   "pct_1m": -17.4,
+   "price": 2245.6201,
+   "change": 11.1438,
+   "pct": 0.5,
+   "pct_1m": -12.74,
    "spark": [
-    2697.5164,
     2573.5273,
     2471.9126,
     2485.5386,
@@ -338,19 +336,18 @@
     2272.7258,
     2422.3118,
     2234.4763,
-    2228.1599
+    2245.6201
    ],
-   "asof": "2026-11-06"
+   "asof": "2026-11-07"
   },
   "SOL-USD": {
    "symbol": "SOL-USD",
    "name": "Solana",
-   "price": 90.26,
-   "change": 1.1166,
-   "pct": 1.25,
-   "pct_1m": -25.27,
+   "price": 90.47,
+   "change": 1.3266,
+   "pct": 1.49,
+   "pct_1m": -22.16,
    "spark": [
-    120.7876,
     116.2226,
     109.4423,
     109.1395,
@@ -381,19 +378,18 @@
     92.919,
     95.4884,
     89.1434,
-    90.26
+    90.47
    ],
-   "asof": "2026-11-06"
+   "asof": "2026-11-07"
   },
   "USDINR=X": {
    "symbol": "USDINR=X",
    "name": "USD/INR",
-   "price": 93.895,
-   "change": -0.6204,
-   "pct": -0.66,
-   "pct_1m": -2.54,
+   "price": 94.4589,
+   "change": -0.0565,
+   "pct": -0.06,
+   "pct_1m": -1.98,
    "spark": [
-    96.3428,
     96.3704,
     96.7568,
     96.8233,
@@ -416,19 +412,18 @@
     94.7254,
     94.7484,
     94.5154,
-    93.895
+    94.4589
    ],
    "asof": "2026-11-06"
   },
   "EURINR=X": {
    "symbol": "EURINR=X",
    "name": "EUR/INR",
-   "price": 104.7487,
-   "change": -1.4143,
-   "pct": -1.33,
-   "pct_1m": -2.96,
+   "price": 106.001,
+   "change": -0.162,
+   "pct": -0.15,
+   "pct_1m": -2.21,
    "spark": [
-    107.94,
     108.399,
     108.325,
     108.449,
@@ -451,19 +446,18 @@
     106.126,
     106.096,
     106.163,
-    104.7487
+    106.001
    ],
    "asof": "2026-11-06"
   },
   "EURUSD=X": {
    "symbol": "EURUSD=X",
    "name": "EUR/USD",
-   "price": 1.1148,
-   "change": -0.0087,
-   "pct": -0.77,
-   "pct_1m": -0.61,
+   "price": 1.1228,
+   "change": -0.0007,
+   "pct": -0.06,
+   "pct_1m": -0.22,
    "spark": [
-    1.1217,
     1.1254,
     1.1201,
     1.1213,
@@ -486,19 +480,18 @@
     1.1192,
     1.1207,
     1.1235,
-    1.1148
+    1.1228
    ],
    "asof": "2026-11-06"
   },
   "GBPINR=X": {
    "symbol": "GBPINR=X",
    "name": "GBP/INR",
-   "price": 125.5121,
-   "change": -1.8414,
-   "pct": -1.45,
-   "pct_1m": -1.45,
+   "price": 127.1135,
+   "change": -0.24,
+   "pct": -0.19,
+   "pct_1m": -0.62,
    "spark": [
-    127.3527,
     127.9062,
     127.5278,
     127.9671,
@@ -521,17 +514,17 @@
     126.9863,
     127.1304,
     127.3535,
-    125.5121
+    127.1135
    ],
    "asof": "2026-11-06"
   },
   "GC=F": {
    "symbol": "GC=F",
    "name": "Gold",
-   "price": 4075.3,
-   "change": -38.2,
-   "pct": -0.93,
-   "pct_1m": -2.67,
+   "price": 4079.5,
+   "change": -34.0,
+   "pct": -0.83,
+   "pct_1m": -2.57,
    "spark": [
     4187.1001,
     4140.7002,
@@ -556,17 +549,17 @@
     3940.3999,
     4073.0,
     4113.5,
-    4075.3
+    4079.5
    ],
    "asof": "2026-11-06"
   },
   "SI=F": {
    "symbol": "SI=F",
    "name": "Silver",
-   "price": 51.955,
-   "change": -0.278,
-   "pct": -0.53,
-   "pct_1m": -15.06,
+   "price": 51.965,
+   "change": -0.268,
+   "pct": -0.51,
+   "pct_1m": -15.05,
    "spark": [
     61.168,
     59.899,
@@ -591,17 +584,17 @@
     49.587,
     52.12,
     52.233,
-    51.955
+    51.965
    ],
    "asof": "2026-11-06"
   },
   "CL=F": {
    "symbol": "CL=F",
    "name": "WTI Crude",
-   "price": 90.0,
-   "change": -0.52,
-   "pct": -0.57,
-   "pct_1m": 0.63,
+   "price": 90.34,
+   "change": -0.18,
+   "pct": -0.2,
+   "pct_1m": 1.01,
    "spark": [
     89.44,
     88.28,
@@ -626,17 +619,17 @@
     96.09,
     88.12,
     90.52,
-    90.0
+    90.34
    ],
    "asof": "2026-11-06"
   },
   "BZ=F": {
    "symbol": "BZ=F",
    "name": "Brent Crude",
-   "price": 97.36,
-   "change": -0.93,
-   "pct": -0.95,
-   "pct_1m": -3.2,
+   "price": 97.76,
+   "change": -0.53,
+   "pct": -0.54,
+   "pct_1m": -2.8,
    "spark": [
     100.58,
     100.2,
@@ -661,7 +654,7 @@
     103.6,
     94.62,
     98.29,
-    97.36
+    97.76
    ],
    "asof": "2026-11-06"
   },
@@ -800,12 +793,11 @@
   "AAPL": {
    "symbol": "AAPL",
    "name": "Apple",
-   "price": 344.305,
-   "change": 0.135,
-   "pct": 0.04,
-   "pct_1m": 3.2,
+   "price": 342.37,
+   "change": -1.8,
+   "pct": -0.52,
+   "pct_1m": 1.69,
    "spark": [
-    333.63,
     336.67,
     340.42,
     336.64,
@@ -828,19 +820,18 @@
     331.9,
     349.51,
     344.17,
-    344.305
+    342.37
    ],
    "asof": "2026-11-06"
   },
   "NVDA": {
    "symbol": "NVDA",
    "name": "Nvidia",
-   "price": 186.875,
-   "change": 5.275,
-   "pct": 2.9,
-   "pct_1m": -21.89,
+   "price": 186.64,
+   "change": 5.04,
+   "pct": 2.78,
+   "pct_1m": -21.4,
    "spark": [
-    239.24,
     237.47,
     230.48,
     229.28,
@@ -863,19 +854,18 @@
     206.69,
     200.13,
     181.6,
-    186.875
+    186.64
    ],
    "asof": "2026-11-06"
   },
   "MSFT": {
    "symbol": "MSFT",
    "name": "Microsoft",
-   "price": 532.815,
-   "change": -3.115,
-   "pct": -0.58,
-   "pct_1m": 0.66,
+   "price": 530.61,
+   "change": -5.32,
+   "pct": -0.99,
+   "pct_1m": 0.16,
    "spark": [
-    529.3,
     529.76,
     522.61,
     535.07,
@@ -898,7 +888,7 @@
     520.99,
     555.8,
     535.93,
-    532.815
+    530.61
    ],
    "asof": "2026-11-06"
   }
@@ -992,487 +982,114 @@
    "label": "India",
    "articles": [
     {
-     "id": "23fcbbf450d6",
-     "title": "Nora Fatehi appears in Delhi Court in extortion case involving Sukesh Chandrasekhar",
-     "link": "https://www.thehindu.com/news/cities/Delhi/nora-fatehi-appears-in-delhi-court-in-extortion-case-involving-sukesh-chandrasekhar/article71673825.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-06T11:06:34+00:00",
-     "summary": "Actor Nora Fatehi testified as a witness in the ongoing extortion case against Sukesh Chandrasekhar in a Delhi court.",
-     "explain": "Sukesh Chandrasekhar is a high-profile conman accused of orchestrating a major money laundering and extortion scheme from inside prison. Because celebrities and influential figures are often linked to such high-profile financial scandals, their involvement draws significant public and media attention, making their court appearances high-visibility events.",
-     "related": [],
-     "story": {
-      "id": "india-crime-and-investigation-reports",
-      "title": "Crime and Investigation Reports",
-      "so_far": "Public safety incidents involving celebrities in Mumbai frequently trigger immediate political attention and rapid deployment of elite police units due to the high profile of the victims and the risk to the city's reputation.",
-      "timeline": [
-       {
-        "date": "2026-10-25",
-        "text": "A delivery person was apprehended by police for misappropriating high-value goods meant for delivery.",
-        "link": "https://www.ndtv.com/india-news/delivery-agent-stole-rs-4-lakh-worth-of-parcels-instead-of-delivering-them-in-gujarat-12231786#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-10-26",
-        "text": "The long-running investigation into the murder of a retired police officer's wife resulted in four arrests after teams tracked the suspects to Nepal.",
-        "link": "https://www.thehindu.com/news/cities/Hyderabad/four-arrested-in-retired-ips-officers-wife-murder-case-after-six-month-hunt/article71626475.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-29",
-        "text": "DGP Sandeep Rai Rathore was transferred days after 17 inmates escaped from a sub-jail in Theni.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/days-after-theni-jailbreak-tamil-nadu-prisons-dgp-sandeep-rai-rathore-transferred/article71640084.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-29",
-        "text": "After the Supreme Court denied his bail, former MLA Muthukumar surrendered to face charges in a bribery case.",
-        "link": "https://www.thehindu.com/news/cities/chennai/former-mla-muthukumar-surrenders-in-bribery-case-involving-ex-minister-anbil-mahesh-poyyamozhi/article71639781.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-02",
-        "text": "Government officials have provided a health update on a student victim of a severe violent assault in Andhra Pradesh.",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/anantapur-chainsaw-attack-ap-minister-nara-lokesh-says-class-10-girl-stable-after-bleeding-controlled/article71651991.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-03",
-        "text": "A mass food poisoning incident at a wedding in Mumbai has resulted in 100 people falling ill, with over 20 hospitalized.",
-        "link": "https://www.ndtv.com/india-news/100-fall-ill-after-eating-at-wedding-in-mumbai-food-poisoning-suspected-12273971#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-04",
-        "text": "Police in Madhya Pradesh engaged two suspects in the hit-and-run of a police officer, resulting in injuries to both individuals.",
-        "link": "https://www.ndtv.com/india-news/madhya-pradesh-cop-hit-and-run-case-both-accused-injured-in-police-encounter-12279432#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-04",
-        "text": "A senior police official resigned amid fallout from a deadly hooch tragedy that claimed 25 lives in Sagar district.",
-        "link": "https://www.thehindu.com/news/national/madhya-pradesh/days-after-transfer-as-sagar-sp-ips-officer-anurag-sujania-resigns-amid-ongoing-liquor-row-in-mp/article71661136.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-04",
-        "text": "The primary suspect in the hit-and-run of a Madhya Pradesh police officer has been apprehended, with investigations ongoing into their criminal network.",
-        "link": "https://www.thehindu.com/news/national/madhya-pradesh/driver-who-ran-over-mp-police-officer-arrested/article71661767.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "A fast-track legal process in Gujarat resulted in a life sentence for a murder committed at a public bus station, with the verdict reached within a month of the charge sheet filing.",
-        "link": "https://www.ndtv.com/india-news/gujarat-man-faisal-lakhani-jailed-for-life-for-killing-partner-at-bus-station-12290454#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Nora Fatehi appeared in court to provide testimony regarding the extortion case involving Sukesh Chandrasekhar.",
-        "link": "https://www.thehindu.com/news/cities/Delhi/nora-fatehi-appears-in-delhi-court-in-extortion-case-involving-sukesh-chandrasekhar/article71673825.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Nora Fatehi clarified her immigration status while testifying in the extortion trial.",
-        "link": "https://www.ndtv.com/india-news/nora-fatehi-tells-court-in-sukesh-chandrasekhar-case-in-india-on-work-visa-12292566#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       }
-      ]
-     }
-    },
-    {
-     "id": "96038050065a",
-     "title": "Supreme Court refuses to suspend Tarun Tejpal’s 10-year sentence in 2013 rape case",
-     "link": "https://www.thehindu.com/news/national/supreme-court-refuses-to-suspend-tarun-tejpals-10-year-sentence-in-2013-rape-case/article71673809.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-06T11:02:49+00:00",
-     "summary": "The Supreme Court denied a request to suspend the 10-year prison sentence of Tarun Tejpal, convicted in a 2013 rape case.",
-     "explain": "In the Indian legal system, 'suspending a sentence' acts effectively like bail, allowing a convicted person to remain free while their appeal is heard. The Supreme Court has stated that because the evidence is serious, Tejpal must remain in custody while the legal process continues.",
-     "related": [
-      {
-       "date": "2026-11-05",
-       "title": "Supreme Court Refuses To Shift Tirupati Laddu Case Trial Out Of Andhra",
-       "link": "https://www.ndtv.com/india-news/supreme-court-refuses-to-shift-tirupati-laddu-case-trial-out-of-andhra-pradesh-12286424#publisher=newsstand",
-       "source": "NDTV News Search Records Found 1000"
-      }
-     ],
-     "story": {
-      "id": "india-legal-relief-for-political-convicts",
-      "title": "Legal Relief for Political Convicts",
-      "so_far": "Tarun Tejpal, a prominent former journalist, was convicted of raping a colleague in 2013. He has been serving a 10-year prison sentence while appealing his conviction and while the state of Goa seeks to increase the length of his sentence.",
-      "timeline": [
-       {
-        "date": "2026-10-19",
-        "text": "The court stayed a conviction for a murder case, citing the individual's political background and intent to contest upcoming elections.",
-        "link": "https://www.thehindu.com/elections/uttar-pradesh-assembly/allahabad-high-court-stays-conviction-of-murder-convict-who-wishes-to-contest-2027-up-polls/article71603091.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-24",
-        "text": "The court overturned the prison authority's practice of forcing convicts to take their entire leave in a single block.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/life-convicts-can-avail-40-days-of-annual-leave-in-two-instalments-rules-madras-high-court/article71619647.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "The Supreme Court refused to grant bail or suspend the sentence of journalist Tarun Tejpal.",
-        "link": "https://www.thehindu.com/news/national/supreme-court-refuses-to-suspend-tarun-tejpals-10-year-sentence-in-2013-rape-case/article71673809.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "The Supreme Court is now awaiting a response from the Goa government concerning Tejpal's ongoing appeal.",
-        "link": "https://www.thehindu.com/news/national/supreme-court-seeks-goa-polices-response-on-tarun-tejpals-appeal-against-rape-case-conviction/article71507360.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "fa5aafa75fe3",
-     "title": "Supreme Court seeks Goa’s response on Tarun Tejpal’s appeal against rape case conviction",
-     "link": "https://www.thehindu.com/news/national/supreme-court-seeks-goa-polices-response-on-tarun-tejpals-appeal-against-rape-case-conviction/article71507360.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-06T11:02:30+00:00",
-     "summary": "The Supreme Court has asked the Goa government for its formal response regarding Tarun Tejpal's appeal against his conviction.",
-     "explain": "When an individual appeals a conviction, the prosecution (in this case, the State of Goa) must respond to the arguments presented by the defense. This procedural back-and-forth is standard in high-stakes criminal appeals to ensure both sides of the legal argument are fully considered before a final judgment.",
-     "related": [],
-     "story": {
-      "id": "india-legal-relief-for-political-convicts",
-      "title": "Legal Relief for Political Convicts",
-      "so_far": "Tarun Tejpal, a prominent former journalist, was convicted of raping a colleague in 2013. He has been serving a 10-year prison sentence while appealing his conviction and while the state of Goa seeks to increase the length of his sentence.",
-      "timeline": [
-       {
-        "date": "2026-10-19",
-        "text": "The court stayed a conviction for a murder case, citing the individual's political background and intent to contest upcoming elections.",
-        "link": "https://www.thehindu.com/elections/uttar-pradesh-assembly/allahabad-high-court-stays-conviction-of-murder-convict-who-wishes-to-contest-2027-up-polls/article71603091.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-24",
-        "text": "The court overturned the prison authority's practice of forcing convicts to take their entire leave in a single block.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/life-convicts-can-avail-40-days-of-annual-leave-in-two-instalments-rules-madras-high-court/article71619647.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "The Supreme Court refused to grant bail or suspend the sentence of journalist Tarun Tejpal.",
-        "link": "https://www.thehindu.com/news/national/supreme-court-refuses-to-suspend-tarun-tejpals-10-year-sentence-in-2013-rape-case/article71673809.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "The Supreme Court is now awaiting a response from the Goa government concerning Tejpal's ongoing appeal.",
-        "link": "https://www.thehindu.com/news/national/supreme-court-seeks-goa-polices-response-on-tarun-tejpals-appeal-against-rape-case-conviction/article71507360.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "7cd7f5c1bbee",
-     "title": "'In India On Work Visa': Nora Fatehi Tells Court In Sukesh Chandrasekhar Case",
-     "link": "https://www.ndtv.com/india-news/nora-fatehi-tells-court-in-sukesh-chandrasekhar-case-in-india-on-work-visa-12292566#publisher=newsstand",
+     "id": "01950b06bea4",
+     "title": "Analysis: From Hospital Bed, Sharad Pawar Keeps Maharashtra Guessing Over NCP-NDA Move",
+     "link": "https://www.ndtv.com/india-news/analysis-pm-modi-call-praful-patel-visit-sharad-pawars-politics-from-hospital-keeps-maharashtra-guessing-over-ncp-merger-nda-move-12293203#publisher=newsstand",
      "source": "NDTV News Search Records Found 1000",
-     "published": "2026-11-06T10:48:50+00:00",
-     "summary": "Nora Fatehi stated in court that she is in India on a work visa during her testimony for the Sukesh Chandrasekhar case.",
-     "explain": "Testifying in court requires individuals to establish their background and status. Mentioning a work visa is a standard formality to confirm her legal standing while working in the Indian film industry, distinguishing her role as a witness from the legal complexities facing the accused.",
+     "published": "2026-11-07T01:49:14+00:00",
+     "summary": "Sharad Pawar is getting treatment for a chest infection at a Mumbai hospital.",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "india-crime-and-investigation-reports",
-      "title": "Crime and Investigation Reports",
-      "so_far": "Public safety incidents involving celebrities in Mumbai frequently trigger immediate political attention and rapid deployment of elite police units due to the high profile of the victims and the risk to the city's reputation.",
-      "timeline": [
-       {
-        "date": "2026-10-25",
-        "text": "A delivery person was apprehended by police for misappropriating high-value goods meant for delivery.",
-        "link": "https://www.ndtv.com/india-news/delivery-agent-stole-rs-4-lakh-worth-of-parcels-instead-of-delivering-them-in-gujarat-12231786#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-10-26",
-        "text": "The long-running investigation into the murder of a retired police officer's wife resulted in four arrests after teams tracked the suspects to Nepal.",
-        "link": "https://www.thehindu.com/news/cities/Hyderabad/four-arrested-in-retired-ips-officers-wife-murder-case-after-six-month-hunt/article71626475.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-29",
-        "text": "DGP Sandeep Rai Rathore was transferred days after 17 inmates escaped from a sub-jail in Theni.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/days-after-theni-jailbreak-tamil-nadu-prisons-dgp-sandeep-rai-rathore-transferred/article71640084.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-29",
-        "text": "After the Supreme Court denied his bail, former MLA Muthukumar surrendered to face charges in a bribery case.",
-        "link": "https://www.thehindu.com/news/cities/chennai/former-mla-muthukumar-surrenders-in-bribery-case-involving-ex-minister-anbil-mahesh-poyyamozhi/article71639781.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-02",
-        "text": "Government officials have provided a health update on a student victim of a severe violent assault in Andhra Pradesh.",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/anantapur-chainsaw-attack-ap-minister-nara-lokesh-says-class-10-girl-stable-after-bleeding-controlled/article71651991.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-03",
-        "text": "A mass food poisoning incident at a wedding in Mumbai has resulted in 100 people falling ill, with over 20 hospitalized.",
-        "link": "https://www.ndtv.com/india-news/100-fall-ill-after-eating-at-wedding-in-mumbai-food-poisoning-suspected-12273971#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-04",
-        "text": "Police in Madhya Pradesh engaged two suspects in the hit-and-run of a police officer, resulting in injuries to both individuals.",
-        "link": "https://www.ndtv.com/india-news/madhya-pradesh-cop-hit-and-run-case-both-accused-injured-in-police-encounter-12279432#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-04",
-        "text": "A senior police official resigned amid fallout from a deadly hooch tragedy that claimed 25 lives in Sagar district.",
-        "link": "https://www.thehindu.com/news/national/madhya-pradesh/days-after-transfer-as-sagar-sp-ips-officer-anurag-sujania-resigns-amid-ongoing-liquor-row-in-mp/article71661136.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-04",
-        "text": "The primary suspect in the hit-and-run of a Madhya Pradesh police officer has been apprehended, with investigations ongoing into their criminal network.",
-        "link": "https://www.thehindu.com/news/national/madhya-pradesh/driver-who-ran-over-mp-police-officer-arrested/article71661767.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "A fast-track legal process in Gujarat resulted in a life sentence for a murder committed at a public bus station, with the verdict reached within a month of the charge sheet filing.",
-        "link": "https://www.ndtv.com/india-news/gujarat-man-faisal-lakhani-jailed-for-life-for-killing-partner-at-bus-station-12290454#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Nora Fatehi appeared in court to provide testimony regarding the extortion case involving Sukesh Chandrasekhar.",
-        "link": "https://www.thehindu.com/news/cities/Delhi/nora-fatehi-appears-in-delhi-court-in-extortion-case-involving-sukesh-chandrasekhar/article71673825.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Nora Fatehi clarified her immigration status while testifying in the extortion trial.",
-        "link": "https://www.ndtv.com/india-news/nora-fatehi-tells-court-in-sukesh-chandrasekhar-case-in-india-on-work-visa-12292566#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "24b48a23a868",
-     "title": "Nithya Raman and her journey from Keralam to Los Angeles",
-     "link": "https://www.thehindu.com/news/national/kerala/kerala-born-nithya-raman-becomes-los-angeles-mayor/article71670901.ece",
+     "id": "d4d73a67af51",
+     "title": "A missing persons complaint that unravelled Bengaluru’s seven murders",
+     "link": "https://www.thehindu.com/news/cities/bangalore/a-missing-persons-complaint-that-unravelled-bengalurus-seven-murders/article71675640.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-06T10:21:50+00:00",
-     "summary": "Nithya Raman, an Indian-origin individual, won a mayoral election in Los Angeles, defeating incumbent Karen Bass.",
-     "explain": "Nithya Raman is a public official who rose to prominence through grassroots activism. Being elected mayor of Los Angeles, the second-largest city in the United States, is a major career achievement that reflects the growing political influence of Indian-origin leaders on the global stage.",
+     "published": "2026-11-07T01:46:33+00:00",
+     "summary": "Senior police officers said that Sunita, the accused’s wife, and Roopavathi, his mother-in-law, were the first to be murdered.",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "india-indian-origin-mayor-elected-in-la",
-      "title": "Indian-Origin Mayor Elected in LA",
-      "so_far": "Nithya Raman is a politician of Indian descent who has gained prominence in American local government. Her journey from her roots in Kerala to public service in Los Angeles marks a significant milestone for the Indian diaspora in international politics.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "Nithya Raman was elected Mayor of Los Angeles.",
-        "link": "https://www.thehindu.com/news/national/kerala/kerala-born-nithya-raman-becomes-los-angeles-mayor/article71670901.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Media reports are profiling the biographical journey that led Nithya Raman to her current political role.",
-        "link": "https://www.ndtv.com/world-news/nithya-raman-us-midterms-results-2026-from-kerala-to-delhi-to-los-angeles-mayor-her-india-connection-explained-12291070#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "753969b877c5",
-     "title": "Nithya Raman's Journey From Kerala To Los Angeles Mayor Via Delhi Slums",
-     "link": "https://www.ndtv.com/world-news/nithya-raman-us-midterms-results-2026-from-kerala-to-delhi-to-los-angeles-mayor-her-india-connection-explained-12291070#publisher=newsstand",
+     "id": "1b123de72935",
+     "title": "India, EU conclude multi-billion Euro global innovation programme",
+     "link": "https://www.thehindu.com/news/national/india-eu-conclude-multi-billion-euro-global-innovation-programme/article71677171.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-07T01:44:47+00:00",
+     "summary": "India’s association with the Horizon programme is seen as part of the comprehensive strategic agenda of the two sides for the next five years",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "7b22fd1cfa5d",
+     "title": "Did all the murders happen in the small house on the terrace?",
+     "link": "https://www.thehindu.com/news/national/karnataka/did-all-the-murders-happen-in-the-small-house-on-the-terrace/article71675859.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-07T01:38:05+00:00",
+     "summary": "Seven murders in Bengaluru have raised law and order concerns. Here’s a look at accused Indushekhar’s whereabouts and criminal history",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "573b8d9c6f33",
+     "title": "Govt. focuses on land for augmenting resources",
+     "link": "https://www.thehindu.com/news/national/telangana/govt-focuses-on-land-for-augmenting-resources/article71674929.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-07T01:25:07+00:00",
+     "summary": "Deputy CM directs officials to prepare dashboard containing land details",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "31ea4cd2580f",
+     "title": "Zubeen Garg case: Assam CM flags danger to family in threat to besiege his house",
+     "link": "https://www.thehindu.com/news/national/assam/house-gherao-threat-in-zubeen-death-case-poses-danger-to-my-family-to-be-raised-in-court-assam-cm/article71674297.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-07T01:12:57+00:00",
+     "summary": "He told journalists in Guwahati that he would bring the threat to the notice of the Supreme Court and the Gauhati High Court, as it could amount to an attempt to murder",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "077b72a67b25",
+     "title": "5 Killed, Several Injured In Road Accident In UP: Cops",
+     "link": "https://www.ndtv.com/india-news/5-killed-several-injured-in-road-accident-in-ups-sitapur-12295117#publisher=newsstand",
      "source": "NDTV News Search Records Found 1000",
-     "published": "2026-11-06T07:10:07+00:00",
-     "summary": "Media coverage highlights Nithya Raman's background, detailing her path from Kerala through Delhi slums to her political career in Los Angeles.",
-     "explain": "Biographical profiles of political figures help the public understand their motivations and policy priorities. In this case, reports are focusing on how her lived experiences in both India and the US shaped her political ideology and support for progressive urban policies.",
+     "published": "2026-11-06T22:23:36+00:00",
+     "summary": "Several others also injured and are currently undergoing treatment, police said.",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "india-indian-origin-mayor-elected-in-la",
-      "title": "Indian-Origin Mayor Elected in LA",
-      "so_far": "Nithya Raman is a politician of Indian descent who has gained prominence in American local government. Her journey from her roots in Kerala to public service in Los Angeles marks a significant milestone for the Indian diaspora in international politics.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "Nithya Raman was elected Mayor of Los Angeles.",
-        "link": "https://www.thehindu.com/news/national/kerala/kerala-born-nithya-raman-becomes-los-angeles-mayor/article71670901.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Media reports are profiling the biographical journey that led Nithya Raman to her current political role.",
-        "link": "https://www.ndtv.com/world-news/nithya-raman-us-midterms-results-2026-from-kerala-to-delhi-to-los-angeles-mayor-her-india-connection-explained-12291070#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "ee00389ba5da",
-     "title": "Stricter Pollution Curbs Under GRAP-III Imposed In Delhi-NCR Ahead Of Diwali",
-     "link": "https://www.ndtv.com/india-news/delhi-grap-3-stricter-pollution-curbs-under-grap-iii-imposed-in-delhi-ncr-ahead-of-diwali-12292778#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-11-06T11:20:37+00:00",
-     "summary": "Authorities in Delhi have triggered Stage-III of the Graded Response Action Plan (GRAP) due to rising air pollution levels.",
-     "explain": "The Air Quality Index (AQI) is a measure of how clean or polluted the air is. Stage-III restrictions include measures like stopping construction and demolition activities and restricting the use of certain types of fuel. These steps are designed to prevent the air quality from reaching 'severe' or 'hazardous' levels that threaten public health.",
-     "related": [],
-     "story": {
-      "id": "india-delhi-air-quality-crisis",
-      "title": "Delhi Air Quality Crisis",
-      "so_far": "Delhi consistently faces severe winter pollution caused by vehicular emissions, industrial activity, and crop residue burning. The Graded Response Action Plan (GRAP) is a set of emergency measures that trigger automatically as air quality indices (AQI) reach specific, dangerous thresholds.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "Stage-III restrictions have been implemented to combat hazardous air quality levels.",
-        "link": "https://www.ndtv.com/india-news/delhi-grap-3-stricter-pollution-curbs-under-grap-iii-imposed-in-delhi-ncr-ahead-of-diwali-12292778#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       }
-      ]
-     }
-    },
-    {
-     "id": "8205e19b02b5",
-     "title": "Gold rush chokes traffic in Hyderabad’s Panjagutta on November 6; not enough sales say jewellers",
-     "link": "https://www.thehindu.com/news/cities/Hyderabad/gold-rush-chokes-traffic-in-hyderabads-panjagutta-not-enough-sales-say-jewellers/article71674020.ece",
+     "id": "bfa25d5c5ec1",
+     "title": "Disallowed Friday prayers, under house detention for 6th day: Mirwaiz",
+     "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/disallowed-friday-prayers-under-house-detention-for-6thday-mirwaiz/article71675173.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-06T11:18:03+00:00",
-     "summary": "Increased traffic in Hyderabad's Panjagutta area was attributed to a 'gold rush,' though jewelers reported no significant surge in sales.",
-     "explain": "Gold is a traditional investment and cultural symbol in India, especially during festivals. When traffic patterns change unexpectedly, observers often link it to commercial activity, though, as noted here, public perception does not always align with actual retail sales data.",
+     "published": "2026-11-06T22:03:59+00:00",
+     "summary": "On the previous Friday, the Mirwaiz mentioned in his sermon the findings of the International Crisis Group report on Jammu and Kashmir and highlighted the concerns over political prisoners, civil liberties and the need f",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "india-urban-traffic-and-consumer-trends",
-      "title": "Urban Traffic and Consumer Trends",
-      "so_far": "Major Indian cities often see traffic spikes during festival seasons or auspicious shopping days like Dhanteras. Local authorities frequently monitor these spikes to ensure traffic flow does not reach a standstill.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "Traffic congestion in Hyderabad on November 6 was linked to perceived gold-buying activity.",
-        "link": "https://www.thehindu.com/news/cities/Hyderabad/gold-rush-chokes-traffic-in-hyderabads-panjagutta-not-enough-sales-say-jewellers/article71674020.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "9098d233c157",
-     "title": "Air Force Sports Complex shut as Centre moves to reclaim prime land in Delhi",
-     "link": "https://www.thehindu.com/news/cities/Delhi/air-force-sports-complex-shut-as-centre-moves-to-reclaim-prime-land-in-delhi/article71645207.ece",
+     "id": "ab1ae86cdfd0",
+     "title": "CPI(M) leader Biman Basu retracts after holding Jyoti Basu responsible for LF government’s industrial policy",
+     "link": "https://www.thehindu.com/news/national/west-bengal/cpim-leader-biman-basu-retracts-after-holding-jyoti-basu-responsible-for-lf-governments-industrial-policy/article71675588.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-06T11:16:48+00:00",
-     "summary": "The Air Force Sports Complex in Delhi has been ordered to close as the government moves to reclaim the land.",
-     "explain": "Reclaiming land is a common administrative process where the state takes back control of property it officially owns, even if that property was previously used by other state agencies. This often leads to the displacement of existing facilities like sports clubs or offices.",
+     "published": "2026-11-06T21:32:57+00:00",
+     "summary": "Chief Minister Suvendu Adhikari on November 5 blamed the policy of forcible land acquisition during the regime of former Chief Minister Buddhadeb Bhattacharjee for decline in industrial prospects of the State.",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "india-government-land-reclamation",
-      "title": "Government Land Reclamation",
-      "so_far": "The Land and Development Office (L&DO) manages government-owned property in the national capital. Periodically, the government reclaims land utilized by various departments to redistribute it for new infrastructure or administrative projects.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "The Land and Development Office has issued a notice for the Air Force Sports Complex to be vacated.",
-        "link": "https://www.thehindu.com/news/cities/Delhi/air-force-sports-complex-shut-as-centre-moves-to-reclaim-prime-land-in-delhi/article71645207.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "07723f1a447b",
-     "title": "Election Commission gives fresh opportunity to electors left out of SIR draft rolls in Delhi, six States",
-     "link": "https://www.thehindu.com/news/national/eci-sir-draft-rolls-fresh-opportunity-to-electors-seven-states/article71674069.ece",
+     "id": "015a450e8679",
+     "title": "West Bengal election is not legally valid: Former CEC S.Y. Quraishi",
+     "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-election-is-not-legally-validformer-cec-sy-quraishi/article71674557.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-06T11:13:44+00:00",
-     "summary": "The Election Commission of India has opened a new registration window for voters who were missing from the draft electoral rolls.",
-     "explain": "An electoral roll is the official list of people eligible to vote. If someone is left off the 'draft' roll (an preliminary list), they are denied the right to vote. The Election Commission is now providing a correction window to ensure the final electoral list is as inclusive and accurate as possible before upcoming elections.",
+     "published": "2026-11-06T20:27:48+00:00",
+     "summary": "The former top poll official also reinstated that the Election Commission of India is supposed to make decisions based on a majority",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "india-election-commission-internal-operations",
-      "title": "Election Commission Internal Operations",
-      "so_far": "The ECI is an independent body that manages Indian elections. Procedures like Form 6 are crucial for voter registration. Recent scrutiny from the Supreme Court has highlighted the importance of transparency and accuracy in the electoral roll process.",
-      "timeline": [
-       {
-        "date": "2026-10-23",
-        "text": "Documentation revealed that the Cabinet Secretary received a copy of communications between the Election Commissioners and the Chief Election Commissioner regarding staff management.",
-        "link": "https://www.thehindu.com/news/national/cabinet-secretary-had-copied-acknowledgement-sent-to-letters-by-two-ecs-to-cec-for-information-rti-reply/article71612629.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-27",
-        "text": "The ECI filed an affidavit asserting that the CEC's removal must follow the same strict process as that of a Supreme Court justice to maintain autonomy.",
-        "link": "https://www.thehindu.com/news/national/cec-can-be-removed-only-like-a-supreme-court-judge-eci-tells-top-court/article71628290.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-27",
-        "text": "The ECI clarified that a new mandatory declaration for voters is technically separate from standard Form 6 following Supreme Court interest in the matter.",
-        "link": "https://www.thehindu.com/news/national/ecis-stand-that-additional-declaration-is-not-part-of-form-6-comes-days-after-sc-said-it-will-examine-new-form-6/article71629933.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-29",
-        "text": "A new report from Karnataka officials indicates significant under-enrolment in the voter registry, specifically among the 18-29 age demographic.",
-        "link": "https://www.thehindu.com/data/karnataka-sir-645-lakh-voters-potentially-missing-in-rolls-majority-of-them-young/article71638758.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-29",
-        "text": "The opposition INDIA bloc scheduled a 'public impeachment' event against the CEC, led by senior figures like Mallikarjun Kharge and Rahul Gandhi.",
-        "link": "https://www.thehindu.com/news/national/india-blocs-public-impeachment-of-cec-likely-to-avoid-mocking-parliament/article71639811.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-30",
-        "text": "Political actors are actively using Form 7 to challenge voter registrations, leading to community concerns over transparency.",
-        "link": "https://www.thehindu.com/news/cities/Delhi/in-delhi-bjp-booth-agents-file-deletion-forms-against-muslim-voters-living-at-their-addresses/article71641353.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-02",
-        "text": "A high rejection rate of voter registration applications has been attributed to clerical errors regarding mandatory declaration forms.",
-        "link": "https://www.thehindu.com/news/national/telangana/37-of-pre-sir-form-6-applications-rejected-due-to-absence-of-declaration-form/article71640758.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-03",
-        "text": "Prabhakar highlighted concerns about declining voter numbers in constituencies while questioning the status of citizens marked as 'permanently shifted' in electoral rolls.",
-        "link": "https://www.thehindu.com/news/national/telangana/parakala-prabhakar-questions-if-governments-elected-post-2014-were-illegal/article71660336.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-04",
-        "text": "Audit findings in the Mahadevapura constituency confirmed over 800 voter IDs linked to duplicate names, highlighting ongoing electoral roll verification issues.",
-        "link": "https://www.thehindu.com/news/cities/bangalore/in-karnataka-seat-where-vote-chori-claims-first-surfaced-over-800-voter-ids-linked-to-397-names-after-sir/article71661304.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-05",
-        "text": "The ECI is streamlining voter registration documentation by removing mandatory declaration forms in specific states undergoing electoral roll updates.",
-        "link": "https://www.thehindu.com/news/national/eci-separates-online-form-6-accompanying-declaration-for-states-undergoing-sir/article71665706.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Government officials have pushed back against opposition claims regarding the electoral roll revision, calling for fact-based discourse.",
-        "link": "https://www.thehindu.com/news/national/bihar/congress-wants-to-spread-anarchy-in-the-name-of-democracy-bhupender-yadav/article71670188.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "A fresh opportunity for voter registration has been granted across seven states and union territories, including Delhi.",
-        "link": "https://www.thehindu.com/news/national/eci-sir-draft-rolls-fresh-opportunity-to-electors-seven-states/article71674069.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
+     "story": null
     }
    ]
   },
@@ -1480,294 +1097,128 @@
    "label": "World",
    "articles": [
     {
-     "id": "0e08bca16418",
-     "title": "Trump signs order to preserve Oval Office as national monument",
-     "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-06T09:19:57+00:00",
-     "summary": "President Trump signed an executive order designating the Oval Office as a national monument.",
-     "explain": "A national monument is a protected area or site designated by a president to preserve its cultural or historical significance. By designating the Oval Office as such, the administration intends to prevent future structural alterations to the room where the U.S. President works. This move comes amid political controversy regarding recent renovations made during the current term.",
-     "related": [],
-     "story": {
-      "id": "world-trump-declares-oval-office-national-monu",
-      "title": "Trump Declares Oval Office National Monument",
-      "so_far": "Following recent election losses, Donald Trump has focused on several renovation projects within the White House complex. These actions include significant decor changes to the Oval Office and the demolition of the East Wing, prompting this new executive order to preserve the space.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "The president officially moved to preserve the Oval Office as a national monument following recent controversial renovations.",
-        "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "The declaration is the latest in a series of renovation-focused events undertaken by the president this week.",
-        "link": "https://www.aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
-    },
-    {
-     "id": "04b106114964",
-     "title": "Trump issues proclamation declaring Oval Office national monument",
-     "link": "https://www.aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument?traffic_source=rss",
+     "id": "3091b79a973b",
+     "title": "Who is Stephen Miller, Trump’s new White House chief of staff?",
+     "link": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-06T04:48:00+00:00",
-     "summary": "President Trump has issued a formal proclamation designating the Oval Office as a national monument.",
-     "explain": "A national monument is a status granted to a site to ensure its protection from major changes. This proclamation effectively makes it more difficult for future administrations to alter the interior of the Oval Office, which has been the site of recent controversial design changes and structural work.",
+     "published": "2026-11-06T21:22:57+00:00",
+     "summary": "Miller has been a close confidant of Trump since 2016 and an architect of the president&#039;s hardline immigration policies.",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "world-trump-declares-oval-office-national-monu",
-      "title": "Trump Declares Oval Office National Monument",
-      "so_far": "Following recent election losses, Donald Trump has focused on several renovation projects within the White House complex. These actions include significant decor changes to the Oval Office and the demolition of the East Wing, prompting this new executive order to preserve the space.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "The president officially moved to preserve the Oval Office as a national monument following recent controversial renovations.",
-        "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "The declaration is the latest in a series of renovation-focused events undertaken by the president this week.",
-        "link": "https://www.aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "f3bb0ae40f1c",
-     "title": "Macau jails pro-democracy campaigner in city's first national security case",
-     "link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-06T06:46:21+00:00",
-     "summary": "Former Macau lawmaker Au Kam-san was sentenced to 12.5 years in prison for subversion.",
-     "explain": "Subversion is a legal term often used to describe acts intended to undermine or overthrow an existing government. The conviction of Au Kam-san, a known pro-democracy activist, marks a significant shift in Macau’s legal environment as the territory aligns itself more closely with mainland China's security policies.",
+     "id": "480c32c337c0",
+     "title": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
+     "link": "https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-06T20:28:07+00:00",
+     "summary": "US authorities found sexually explicit photos that appeared to show Thomas Markle with prepubescent girls.",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "world-macau-national-security-conviction",
-      "title": "Macau National Security Conviction",
-      "so_far": "Macau, a special administrative region of China, expanded its national security legislation in 2023 to broaden the scope of what constitutes crimes against the state. This legal framework has now been applied to a prominent political figure for the first time.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "Au Kam-san became the first person convicted and sentenced under Macau's updated 2023 national security laws.",
-        "link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "The court specifically highlighted Au's involvement in annual vigils for the 1989 Tiananmen Square crackdown as part of the context for the charges.",
-        "link": "https://www.thehindu.com/news/international/chinas-macau-jails-ex-lawmaker-in-first-national-security-trial/article71672885.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-11-06",
-        "text": "The court specifically convicted Au of spreading false information and attempting to disrupt Macau's 2024 elections.",
-        "link": "https://www.aljazeera.com/news/2026/11/6/macao-sentences-pro-democracy-ex-politician-to-12-5-years-in-jail?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "1f5a6f1a6b9c",
-     "title": "China's Macau jails ex-lawmaker in first national security trial",
-     "link": "https://www.thehindu.com/news/international/chinas-macau-jails-ex-lawmaker-in-first-national-security-trial/article71672885.ece",
+     "id": "02fce670f60a",
+     "title": "Trump replaces Susie Wiles with Stephen Miller as chief of staff after GOP’s midterm defeat",
+     "link": "https://www.thehindu.com/news/international/trump-replaces-susie-wiles-with-stephen-miller-as-chief-of-staff-after-gops-midterm-defeat/article71676063.ece",
      "source": "World News: Latest International News & ",
-     "published": "2026-11-06T05:32:54+00:00",
-     "summary": "Au Kam-san, a former Macau lawmaker, has been convicted in the territory's first national security trial.",
-     "explain": "The Tiananmen Square crackdown refers to the 1989 military action taken by the Chinese government against protesters in Beijing. In recent years, commemoration of this event has been increasingly restricted or banned in mainland China, Hong Kong, and Macau. The court's focus on this activity indicates the strict interpretation of national security laws regarding political expression.",
+     "published": "2026-11-06T19:40:45+00:00",
+     "summary": "On his social media site, Donald Trump praised Susie Wiles and said she’d continue working for his political organisation",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "world-macau-national-security-conviction",
-      "title": "Macau National Security Conviction",
-      "so_far": "Macau, a special administrative region of China, expanded its national security legislation in 2023 to broaden the scope of what constitutes crimes against the state. This legal framework has now been applied to a prominent political figure for the first time.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "Au Kam-san became the first person convicted and sentenced under Macau's updated 2023 national security laws.",
-        "link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "The court specifically highlighted Au's involvement in annual vigils for the 1989 Tiananmen Square crackdown as part of the context for the charges.",
-        "link": "https://www.thehindu.com/news/international/chinas-macau-jails-ex-lawmaker-in-first-national-security-trial/article71672885.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-11-06",
-        "text": "The court specifically convicted Au of spreading false information and attempting to disrupt Macau's 2024 elections.",
-        "link": "https://www.aljazeera.com/news/2026/11/6/macao-sentences-pro-democracy-ex-politician-to-12-5-years-in-jail?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "d063981b3ba9",
-     "title": "Paraguay’s president impeached amid bank collapse crisis",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/paraguays-president-impeached-amid-bank-collapse-crisis?traffic_source=rss",
+     "id": "ba946734a9d0",
+     "title": "Trump names Stephen Miller as new chief of staff, replacing Susie Wiles",
+     "link": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-06T03:49:33+00:00",
-     "summary": "Paraguay's President Santiago Peña has been impeached by lawmakers following a major banking collapse.",
-     "explain": "Impeachment is a formal process by which a legislative body levels charges against a high-ranking government official, which can lead to their removal from office. The crisis stems from a systemic bank failure that has triggered widespread economic concern and public pressure on the executive branch.",
+     "published": "2026-11-06T19:08:31+00:00",
+     "summary": "Susie Wiles steps down as White House chief of staff; Stephen Miller assumes the role amid post-election reshuffling.",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "world-paraguay-presidential-impeachment",
-      "title": "Paraguay Presidential Impeachment",
-      "so_far": "Paraguay has recently been destabilized by a banking crisis that has caused significant economic turmoil. This environment of financial instability led the lower house of congress to initiate impeachment proceedings against President Santiago Peña, citing his handling of the situation.",
-      "timeline": [
-       {
-        "date": "2026-11-05",
-        "text": "Following the lower house's vote to pursue impeachment, President Peña formally resigned from his position.",
-        "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Lawmakers successfully voted to impeach President Peña as the country deals with the fallout of a domestic bank crisis.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/paraguays-president-impeached-amid-bank-collapse-crisis?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "bc9abfcd7f04",
-     "title": "Paraguay President Santiago Peña resigns after bank collapse",
-     "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-05T17:40:40+00:00",
-     "summary": "President Santiago Peña of Paraguay has resigned following an impeachment vote.",
-     "explain": "Resignation in the face of impeachment is a common political outcome to avoid a lengthy and potentially damaging trial. President Peña's decision concludes the immediate constitutional crisis, though the nation remains focused on recovering from the banking collapse that precipitated his departure.",
-     "related": [],
-     "story": {
-      "id": "world-paraguay-presidential-impeachment",
-      "title": "Paraguay Presidential Impeachment",
-      "so_far": "Paraguay has recently been destabilized by a banking crisis that has caused significant economic turmoil. This environment of financial instability led the lower house of congress to initiate impeachment proceedings against President Santiago Peña, citing his handling of the situation.",
-      "timeline": [
-       {
-        "date": "2026-11-05",
-        "text": "Following the lower house's vote to pursue impeachment, President Peña formally resigned from his position.",
-        "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Lawmakers successfully voted to impeach President Peña as the country deals with the fallout of a domestic bank crisis.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/paraguays-president-impeached-amid-bank-collapse-crisis?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
-    },
-    {
-     "id": "1c78bf808ad6",
-     "title": "Two dead after bus crashes in France, officials say",
-     "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-06T11:21:20+00:00",
-     "summary": "A bus crash in France resulted in two fatalities, including a child and a young adult.",
-     "explain": "This refers to a standard traffic incident investigation. In France, fatal accidents involving public transport are subjected to rigorous scrutiny by transport authorities to ensure safety standards are being met and to determine if driver error, mechanical failure, or road conditions were responsible.",
-     "related": [],
-     "story": {
-      "id": "world-fatal-bus-crash-in-france",
-      "title": "Fatal Bus Crash in France",
-      "so_far": "France, like many European nations, experiences occasional fatal traffic accidents involving public or private transportation. Local emergency services and law enforcement are currently investigating the circumstances surrounding this specific crash to determine the cause.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "Authorities confirmed two deaths and multiple injuries in the recent incident.",
-        "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "2a7bbc0cecc0",
-     "title": "Asian parties reject ‘unilateral actions’, call for respect for international law",
-     "link": "https://www.thehindu.com/news/international/asian-parties-reject-unilateral-actions-call-for-respect-for-international-law/article71674004.ece",
+     "id": "903e0cf7f088",
+     "title": "FBI arrests Thomas Markle, father of Meghan, over child sexual abuse material",
+     "link": "https://www.thehindu.com/news/international/meghan-markle-father-thomas-arrested-fbi/article71675624.ece",
      "source": "World News: Latest International News & ",
-     "published": "2026-11-06T11:09:35+00:00",
-     "summary": "Political parties from 83 Asian nations adopted a declaration in Seoul opposing unilateral actions.",
-     "explain": "Unilateral actions refer to policies or military moves taken by one country without the agreement or consultation of others. By calling for respect for international law, the assembly is signaling a desire for multilateral diplomacy, where countries resolve disputes through shared treaties and international institutions rather than individual, uncoordinated actions.",
+     "published": "2026-11-06T18:06:19+00:00",
+     "summary": "Meghan Markle recently said she was “deeply distressed” by allegations that a collection of child sexual abuse images had been found at her father's former home",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "world-asian-political-parties-declaration",
-      "title": "Asian Political Parties Declaration",
-      "so_far": "The ICAPP is a platform for political parties across Asia to discuss regional cooperation and shared political goals. Recent assemblies have increasingly focused on the importance of maintaining regional stability and following international legal norms amid rising geopolitical tensions.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "The 13th General Assembly of the International Conference of Asian Political Parties (ICAPP) concluded with a unanimous call for adherence to international law.",
-        "link": "https://www.thehindu.com/news/international/asian-parties-reject-unilateral-actions-call-for-respect-for-international-law/article71674004.ece",
-        "source": "World News: Latest International News & "
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "c349e91d118f",
-     "title": "‘Nobody can stop them’: Who are Europe’s Black Bloc protesters?",
-     "link": "https://www.aljazeera.com/news/2026/11/6/nobody-can-stop-them-who-are-europes-black-bloc-protesters?traffic_source=rss",
+     "id": "360a56c23695",
+     "title": "CDC reports more than 5,000 measles cases, highest number in 35 years",
+     "link": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-06T11:09:04+00:00",
-     "summary": "The 'Black Bloc' refers to a tactic used by protesters who wear black clothing and masks to maintain anonymity during demonstrations.",
-     "explain": "Black Bloc is not a single organization but a protest tactic where participants disguise their identity to protect themselves from law enforcement and to present a unified front. While often associated with anarchist ideologies, their presence varies by country and specific social movement, highlighting ongoing debates about the right to protest versus law enforcement responses.",
+     "published": "2026-11-07T01:55:03+00:00",
+     "summary": "Children and teenagers make up almost 60 percent of confirmed cases.",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "world-black-bloc-protest-tactics",
-      "title": "Black Bloc Protest Tactics",
-      "so_far": "Black Bloc protesters are a fixture in many European civil rights and political protests. They are known for wearing dark clothing to make it difficult for police to identify individuals within a group, often clashing with authorities during civil unrest.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "Reports examine the persistence and tactics of these groups across Europe, from France to Albania.",
-        "link": "https://www.aljazeera.com/news/2026/11/6/nobody-can-stop-them-who-are-europes-black-bloc-protesters?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "345b35413692",
-     "title": "Macao court sentences pro-democracy ex-politician to 12.5 years in jail",
-     "link": "https://www.aljazeera.com/news/2026/11/6/macao-sentences-pro-democracy-ex-politician-to-12-5-years-in-jail?traffic_source=rss",
+     "id": "e314496da380",
+     "title": "EU prosecutor office investigates fatal train crash in Spain",
+     "link": "https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-06T11:08:02+00:00",
-     "summary": "A Macao court sentenced former politician Au Kam-san to 12.5 years for subversion.",
-     "explain": "The court's mention of 'spreading false information' alongside subversion indicates a legal strategy that classifies certain political activities or criticisms of the government as threats to national stability. This highlights the heightened sensitivity toward political discourse in Macau's legal system following the 2023 security reforms.",
+     "published": "2026-11-07T01:33:39+00:00",
+     "summary": "The EU office carries out probes at Spanish rail network administrator, safety agency and state auditors.",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "world-macau-national-security-conviction",
-      "title": "Macau National Security Conviction",
-      "so_far": "Macau, a special administrative region of China, expanded its national security legislation in 2023 to broaden the scope of what constitutes crimes against the state. This legal framework has now been applied to a prominent political figure for the first time.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "Au Kam-san became the first person convicted and sentenced under Macau's updated 2023 national security laws.",
-        "link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "The court specifically highlighted Au's involvement in annual vigils for the 1989 Tiananmen Square crackdown as part of the context for the charges.",
-        "link": "https://www.thehindu.com/news/international/chinas-macau-jails-ex-lawmaker-in-first-national-security-trial/article71672885.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-11-06",
-        "text": "The court specifically convicted Au of spreading false information and attempting to disrupt Macau's 2024 elections.",
-        "link": "https://www.aljazeera.com/news/2026/11/6/macao-sentences-pro-democracy-ex-politician-to-12-5-years-in-jail?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
+     "story": null
+    },
+    {
+     "id": "d4265e728f21",
+     "title": "Iran reviewing proposals on Tehran’s nuclear programme: Officials",
+     "link": "https://www.thehindu.com/news/international/iran-reviewing-proposals-on-tehrans-nuclear-programme-officials/article71677167.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-11-07T01:25:49+00:00",
+     "summary": "Mediators and Iran have discussed a potential bridge deal aimed at helping pave the way for further talks on Tehran’s nuclear programme, according to regional officials",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "8dabe256411e",
+     "title": "Pope Leo XIV arrives for South American tour after cancer surgery",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-07T00:55:51+00:00",
+     "summary": "Pope Leo XIV arrives in Uruguay kicking off a 12-day tour of South America after undergoing lung surgery last month.",
+     "explain": null,
+     "related": [
+      {
+       "date": "2026-10-21",
+       "title": "Pope Leo needs no further treatment after cancer surgery, doctors say",
+       "link": "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss",
+       "source": "Al Jazeera – Breaking News, World News a"
+      }
+     ],
+     "story": null
+    },
+    {
+     "id": "f392a7e177a0",
+     "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+     "link": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-07T00:31:41+00:00",
+     "summary": "The sudden leadership change comes as Paraguay reels from the collapse of the Ueno Bank, a popular lender.",
+     "explain": null,
+     "related": [
+      {
+       "date": "2026-11-06",
+       "title": "Santiago Pena, Paraguay President, steps down as banking crisis sows chaos",
+       "link": "https://www.thehindu.com/news/international/santiago-pena-paraguay-president-steps-down-as-banking-crisis-sows-chaos/article71672650.ece",
+       "source": "World News: Latest International News & "
+      }
+     ],
+     "story": null
     }
    ]
   },
@@ -1775,355 +1226,121 @@
    "label": "Business & Finance",
    "articles": [
     {
-     "id": "8581a447820b",
-     "title": "Who is Venugopal Dhoot? Former Videocon promoter declared ‘bankrupt’ by NCLT Mumbai bench over ₹12,668-cr SBI default",
-     "link": "https://www.livemint.com/companies/people/who-is-venugopal-dhoot-former-videocon-promoter-declared-bankrupt-by-nclt-mumbai-bench-over-rs-12-668-cr-sbi-default-11793958227774.html",
+     "id": "f0234e9ae5be",
+     "title": "Noel Tata appointed Voltas Chairman Emeritus; Sunil D’Souza to take over as Chairman",
+     "link": "https://www.thehindubusinessline.com/companies/noel-tata-appointed-voltas-chairman-emeritus-sunil-dsouza-to-take-over-as-chairman/article71677134.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-07T00:28:49+00:00",
+     "summary": "The Tata Group company has outlined a phased leadership transition, with changes involving its board and senior management taking effect over coming months",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "3f8bea9aa299",
+     "title": "Airtel brings back ₹299 plan amidst subscriber churn",
+     "link": "https://www.thehindubusinessline.com/info-tech/airtel-brings-back-299-plan-amidst-subscriber-churn/article71675245.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-06T15:46:35+00:00",
+     "summary": "Airtel reported higher ARPU of 5.9 per cent YoY and 2.7 per cent sequentially",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "b6e30967435b",
+     "title": "Who is Kishore Biyani? CBI books Future Retail founder, brother in alleged ₹904-crore SBI loan fraud case",
+     "link": "https://www.livemint.com/companies/people/who-is-kishore-biyani-cbi-books-future-retail-founder-brother-in-904-crore-sbi-loan-fraud-case-11793971071226.html",
      "source": "mint - companies",
-     "published": "2026-11-06T10:45:00+00:00",
-     "summary": "The National Company Law Tribunal (NCLT) has declared former Videocon Industries promoter Venugopal Dhoot bankrupt following an unpaid loan default of ₹12,668 crore to State Bank of India (SBI).",
-     "explain": "Bankruptcy is a legal process where an individual or company that cannot repay their debts to creditors is declared insolvent. An NCLT-appointed trustee will now take control of assets to attempt recovery for lenders like SBI. This protects creditors by ensuring assets are liquidated fairly rather than individuals defaulting without oversight.",
+     "published": "2026-11-06T13:59:47+00:00",
+     "summary": "The CBI has booked Future Retail founder Kishore Biyani and his brother Rakesh in an alleged ₹904.32-crore bank fraud case following an SBI complaint. The agency searched premises linked to Biyani in Mumbai, alleging loa",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "business-videocon-promoter-bankruptcy-proceedings",
-      "title": "Videocon Promoter Bankruptcy Proceedings",
-      "so_far": "Venugopal Dhoot was the promoter of Videocon Industries, a consumer electronics and oil and gas conglomerate that faced severe financial distress. In recent years, the company underwent insolvency proceedings due to massive debt accumulation. This latest ruling marks a personal bankruptcy filing against Dhoot himself, distinct from the corporate insolvency of his firm.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "The Mumbai bench of the NCLT rejected Dhoot's proposed ₹600 crore repayment plan and appointed a trustee to oversee his bankruptcy.",
-        "link": "https://www.livemint.com/companies/people/who-is-venugopal-dhoot-former-videocon-promoter-declared-bankrupt-by-nclt-mumbai-bench-over-rs-12-668-cr-sbi-default-11793958227774.html",
-        "source": "mint - companies"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "The NCLT rejected a ₹600 crore settlement offer, leading to the appointment of a bankruptcy trustee.",
-        "link": "https://www.thehindubusinessline.com/news/nclt-declares-videocons-venugopal-dhoot-as-bankrupt-over-12668-cr-sbi-dues/article71673524.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "fc3f5b52f6ee",
-     "title": "NCLT declares Videocon's Venugopal Dhoot as bankrupt over ₹12,668-cr SBI dues",
-     "link": "https://www.thehindubusinessline.com/news/nclt-declares-videocons-venugopal-dhoot-as-bankrupt-over-12668-cr-sbi-dues/article71673524.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-06T08:26:35+00:00",
-     "summary": "Venugopal Dhoot has been declared bankrupt by the NCLT after failing to secure approval for a repayment plan for his debt to SBI.",
-     "explain": "The NCLT (National Company Law Tribunal) acts as the adjudicating authority for insolvency cases in India. When a promoter is declared bankrupt, they effectively lose control over their personal assets as a court-appointed official begins the process of settling debts owed to institutions like the State Bank of India.",
-     "related": [],
-     "story": {
-      "id": "business-videocon-promoter-bankruptcy-proceedings",
-      "title": "Videocon Promoter Bankruptcy Proceedings",
-      "so_far": "Venugopal Dhoot was the promoter of Videocon Industries, a consumer electronics and oil and gas conglomerate that faced severe financial distress. In recent years, the company underwent insolvency proceedings due to massive debt accumulation. This latest ruling marks a personal bankruptcy filing against Dhoot himself, distinct from the corporate insolvency of his firm.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "The Mumbai bench of the NCLT rejected Dhoot's proposed ₹600 crore repayment plan and appointed a trustee to oversee his bankruptcy.",
-        "link": "https://www.livemint.com/companies/people/who-is-venugopal-dhoot-former-videocon-promoter-declared-bankrupt-by-nclt-mumbai-bench-over-rs-12-668-cr-sbi-default-11793958227774.html",
-        "source": "mint - companies"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "The NCLT rejected a ₹600 crore settlement offer, leading to the appointment of a bankruptcy trustee.",
-        "link": "https://www.thehindubusinessline.com/news/nclt-declares-videocons-venugopal-dhoot-as-bankrupt-over-12668-cr-sbi-dues/article71673524.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "5bf2ca64a101",
-     "title": "DGTR recommends two-year import curbs on soda ash to protect domestic industry",
-     "link": "https://www.thehindubusinessline.com/economy/policy/dgtr-recommends-two-year-import-curbs-on-soda-ash-to-protect-domestic-industry/article71673801.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-06T10:07:05+00:00",
-     "summary": "The Directorate General of Trade Remedies (DGTR) has proposed two-year import curbs on soda ash to support domestic producers.",
-     "explain": "Import curbs are trade barriers designed to limit the amount of foreign goods entering a country. By restricting how much soda ash can be imported, the government hopes to make domestic alternatives more attractive to Indian businesses. This is often done to help local industries compete against lower-priced international supplies.",
-     "related": [],
-     "story": {
-      "id": "business-soda-ash-import-restrictions",
-      "title": "Soda Ash Import Restrictions",
-      "so_far": "The DGTR is an arm of the Indian Ministry of Commerce that investigates unfair trade practices and recommends protective duties or quotas. Soda ash is a vital chemical used in glass, detergent, and chemical manufacturing. Domestic manufacturers have periodically lobbied for protection against cheaper imported materials.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "Regulators recommended quarterly import limits and country-specific quotas to stabilize the local market.",
-        "link": "https://www.thehindubusinessline.com/economy/policy/dgtr-recommends-two-year-import-curbs-on-soda-ash-to-protect-domestic-industry/article71673801.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Proposed measures include setting specific volume caps on imports over the next 24 months.",
-        "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/dgtr-recommends-imposition-of-quantitative-restrictions-on-soda-ash-imports-for-2-years/articleshow/135602720.cms",
-        "source": "Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "415f47233ff2",
-     "title": "DGTR proposes 2-year curbs on soda ash imports",
-     "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/dgtr-recommends-imposition-of-quantitative-restrictions-on-soda-ash-imports-for-2-years/articleshow/135602720.cms",
+     "id": "695dbcb92068",
+     "title": "Voltas names Noel Tata chairman emeritus",
+     "link": "https://economictimes.indiatimes.com/industry/cons-products/durables/voltas-names-noel-tata-chairman-emeritus-q2-profit-rises-53-5/articleshow/135609507.cms",
      "source": "Economic Times",
-     "published": "2026-11-06T10:02:29+00:00",
-     "summary": "The DGTR is pushing for import restrictions on soda ash for the next two years.",
-     "explain": "The DGTR (Directorate General of Trade Remedies) ensures a level playing field for domestic businesses. By setting import caps, the government regulates supply levels. This move aims to prevent Indian companies from being undercut by foreign competitors while local manufacturers work to scale up their own operations.",
-     "related": [],
-     "story": {
-      "id": "business-soda-ash-import-restrictions",
-      "title": "Soda Ash Import Restrictions",
-      "so_far": "The DGTR is an arm of the Indian Ministry of Commerce that investigates unfair trade practices and recommends protective duties or quotas. Soda ash is a vital chemical used in glass, detergent, and chemical manufacturing. Domestic manufacturers have periodically lobbied for protection against cheaper imported materials.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "Regulators recommended quarterly import limits and country-specific quotas to stabilize the local market.",
-        "link": "https://www.thehindubusinessline.com/economy/policy/dgtr-recommends-two-year-import-curbs-on-soda-ash-to-protect-domestic-industry/article71673801.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Proposed measures include setting specific volume caps on imports over the next 24 months.",
-        "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/dgtr-recommends-imposition-of-quantitative-restrictions-on-soda-ash-imports-for-2-years/articleshow/135602720.cms",
-        "source": "Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "4f442a55355a",
-     "title": "Gujarat Energy signs 10-yr LNG deal with ADNOC for up to 4 million tonnes",
-     "link": "https://www.thehindubusinessline.com/companies/gujarat-energy-signs-10-yr-lng-deal-with-adnoc-for-up-to-4-million-tonnes/article71673515.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-06T08:31:14+00:00",
-     "summary": "Gujarat Energy has finalized a 10-year agreement to purchase liquefied natural gas (LNG) from ADNOC.",
-     "explain": "LNG (Liquefied Natural Gas) is natural gas that has been cooled to a liquid state for easier transport across oceans. A 10-year contract provides 'energy security' by guaranteeing a steady supply of fuel at a negotiated price, shielding the buyer from extreme price spikes in the volatile global energy market.",
-     "related": [],
-     "story": {
-      "id": "business-gujarat-energy-lng-procurement",
-      "title": "Gujarat Energy LNG Procurement",
-      "so_far": "India is a major importer of energy, and state entities like Gujarat Energy frequently sign long-term supply agreements to ensure consistent energy availability for power and industrial use. ADNOC is the state-owned oil company of the United Arab Emirates.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "The deal secures up to 4 million tonnes of LNG annually through ADNOC's investment arm, XRG.",
-        "link": "https://www.thehindubusinessline.com/companies/gujarat-energy-signs-10-yr-lng-deal-with-adnoc-for-up-to-4-million-tonnes/article71673515.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "61941e23549a",
-     "title": "Gujarat Pipavav Port pushes liquid jetty commissioning to March-April 2027, cites construction delays",
-     "link": "https://www.thehindubusinessline.com/economy/logistics/gujarat-pipavav-port-pushes-liquid-jetty-commissioning-to-march-april-2027-cites-construction-delays/article71673917.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-06T10:52:40+00:00",
-     "summary": "Gujarat Pipavav Port delayed the opening of its new liquid jetty to early 2027 while reporting increased container traffic.",
-     "explain": "A jetty is a structure extending into a body of water to allow ships to dock and unload cargo. 'Trans-shipment' refers to the process of moving cargo from one ship to another at an intermediate port before reaching its final destination, which has become more common as regional geopolitical conflicts disrupt direct shipping lanes.",
-     "related": [],
-     "story": {
-      "id": "business-gujarat-pipavav-port-logistics-updates",
-      "title": "Gujarat Pipavav Port Logistics Updates",
-      "so_far": "Gujarat Pipavav is a prominent port operator in India. Ports are currently seeing changes in traffic flow due to regional conflicts in West Asia, which have forced shifts in shipping routes and increased the reliance on trans-shipment hubs.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "Construction delays pushed the liquid jetty commissioning to March-April 2027, despite growth in container demand.",
-        "link": "https://www.thehindubusinessline.com/economy/logistics/gujarat-pipavav-port-pushes-liquid-jetty-commissioning-to-march-april-2027-cites-construction-delays/article71673917.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "270ca18f5f37",
-     "title": "MakeMyTrip expands ground transport play with Quick Ride acquisition",
-     "link": "https://www.thehindubusinessline.com/companies/makemytrip-expands-ground-transport-play-with-quick-ride-acquisition/article71673855.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-06T10:52:04+00:00",
-     "summary": "MakeMyTrip has acquired Quick Ride to bolster its presence in the ride-pooling and ground transport sector.",
-     "explain": "Ride-pooling is a service where commuters share a vehicle to reduce travel costs and traffic congestion. By acquiring this platform, MakeMyTrip can integrate carpooling directly into its travel ecosystem, allowing users to book inter-city or intra-city shared transport alongside their flights or bus tickets.",
-     "related": [],
-     "story": {
-      "id": "business-makemytrip-logistics-acquisition",
-      "title": "MakeMyTrip Logistics Acquisition",
-      "so_far": "MakeMyTrip is a leading online travel company in India. The company has been diversifying from flight and hotel bookings into broader mobility and ground transport services to capture more of the consumer travel journey.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "The purchase includes the Quick Ride brand and its existing vehicle-pooling infrastructure.",
-        "link": "https://www.thehindubusinessline.com/companies/makemytrip-expands-ground-transport-play-with-quick-ride-acquisition/article71673855.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "349e226497fe",
-     "title": "Silver rate falls on Dhanteras: Check updates",
-     "link": "https://economictimes.indiatimes.com/wealth/invest/silver-rate-today-november-6-2026-silver-becomes-cheaper-on-dhanteras-check-latest-price-and-hallmarking-rules/articleshow/135604398.cms",
-     "source": "Economic Times",
-     "published": "2026-11-06T10:51:20+00:00",
-     "summary": "Silver prices saw a slight decline during the Dhanteras festive period.",
-     "explain": "Dhanteras marks the beginning of the Diwali festival in India. While the story is categorized under Gold ETF investment trends, it reflects the broader retail market for precious metals. A decline in price during a major shopping festival is often attributed to shifts in global commodities markets rather than local demand alone.",
-     "related": [],
-     "story": {
-      "id": "business-gold-etf-investment-trends",
-      "title": "Gold ETF Investment Trends",
-      "so_far": "Dhanteras is a significant festival in India where buying precious metals like gold and silver is considered auspicious. This period usually sees a surge in physical retail demand, which is tracked alongside broader trends in gold ETFs.",
-      "timeline": [
-       {
-        "date": "2026-10-24",
-        "text": "Market data now includes granular pricing for various gold purity levels to help investors and consumers.",
-        "link": "https://economictimes.indiatimes.com/wealth/invest/gold-silver-rate-today-october-24-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-ibja-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-and-tanishq/articleshow/135164785.cms",
-        "source": "Economic Times"
-       },
-       {
-        "date": "2026-10-27",
-        "text": "ICICI Prudential has expanded the available ETF offerings in India with a new fund focused on the power sector.",
-        "link": "https://www.thehindubusinessline.com/markets/icici-prudential-mutual-fund-launches-bse-power-etf-nfo-open-until-october-30/article71630959.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-29",
-        "text": "Gold prices showed upward movement in multiple regional Indian markets, reflecting continued price sensitivity.",
-        "link": "https://www.thehindubusinessline.com/gold-rate-today/gold-price-today-in-coimbatore-nagpur-visakhapatnam-surat-jaipur-lucknow-chandigarh-gold-rates-other-cities-october-29-2026/article71639624.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-29",
-        "text": "Market data confirms price increases across key metropolitan hubs, maintaining the ongoing interest in gold as an asset.",
-        "link": "https://www.thehindubusinessline.com/gold-rate-today/gold-price-today-in-delhi-mumbai-kolkata-chennai-bengaluru-hyderabad-pune-gold-rates-metro-cities-october-29-2026/article71639623.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-29",
-        "text": "Detailed breakdowns of 24k, 22k, 20k, and 18k gold pricing were released, helping consumers understand value variations based on alloy content.",
-        "link": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-and-silver-rate-today-october-29-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-tanishq-ibja-in-delhi-mumbai-hyderabad-more-cities/articleshow/135295765.cms",
-        "source": "Economic Times"
-       },
-       {
-        "date": "2026-10-31",
-        "text": "Physical gold prices in multiple Indian cities saw a decline on October 31, 2026.",
-        "link": "https://www.thehindubusinessline.com/gold-rate-today/gold-price-today-in-coimbatore-nagpur-visakhapatnam-surat-jaipur-lucknow-chandigarh-gold-rates-other-cities-october-31-2026/article71648666.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-31",
-        "text": "Metropolitan gold prices followed the downward trend seen in smaller cities on October 31, 2026.",
-        "link": "https://www.thehindubusinessline.com/gold-rate-today/gold-price-today-in-delhi-mumbai-kolkata-chennai-bengaluru-hyderabad-pune-gold-rates-metro-cities-october-31-2026/article71648665.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-31",
-        "text": "Recent updates now provide a breakdown of pricing across different gold karats.",
-        "link": "https://economictimes.indiatimes.com/wealth/invest/gold-rates-dropped-silver-rate-today-october-31-2026-check-24k-22k-20k-18k-jewellery-prices-from-ibja-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-and-tanishq/articleshow/135389433.cms",
-        "source": "Economic Times"
-       },
-       {
-        "date": "2026-11-05",
-        "text": "Daily market updates continue to show upward pricing trends for 22k and 24k gold across multiple Indian cities.",
-        "link": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-november-5-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-malabar-gold-diamonds-kalyan-jewellers-tanishq-ibja-in-delhi-mumbai-hyderabad-more-cities/articleshow/135564956.cms",
-        "source": "Economic Times"
-       },
-       {
-        "date": "2026-11-05",
-        "text": "Prices for 22k and 24k gold rose in locations including Coimbatore, Nagpur, and Jaipur.",
-        "link": "https://www.thehindubusinessline.com/gold-rate-today/gold-price-today-in-coimbatore-nagpur-visakhapatnam-surat-jaipur-lucknow-chandigarh-gold-rates-other-cities-november-5-2026/article71669107.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-05",
-        "text": "The rising price trend was confirmed across major economic hubs like Delhi, Mumbai, and Bengaluru.",
-        "link": "https://www.thehindubusinessline.com/gold-rate-today/gold-price-today-in-delhi-mumbai-kolkata-chennai-bengaluru-hyderabad-pune-gold-rates-metro-cities-november-5-2026/article71669106.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Silver prices dipped during the traditionally high-demand Dhanteras shopping period.",
-        "link": "https://economictimes.indiatimes.com/wealth/invest/silver-rate-today-november-6-2026-silver-becomes-cheaper-on-dhanteras-check-latest-price-and-hallmarking-rules/articleshow/135604398.cms",
-        "source": "Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "7c579f1ccc70",
-     "title": "Thermax shares fall 20% to 52-week low on weak Q2, JM Financial maintains sell",
-     "link": "https://www.thehindubusinessline.com/markets/thermax-shares-fall-20-to-52-week-low-after-q2-results-jm-financial-maintains-sell/article71673760.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-06T10:51:05+00:00",
-     "summary": "Thermax shares dropped 20% following a decline in second-quarter profits.",
-     "explain": "A 52-week low is the lowest price a stock has traded at in the past year, indicating significant investor pessimism. When analysts issue a 'sell' rating, they believe the company's stock will continue to decline or underperform, advising investors to offload their holdings to minimize further potential losses.",
-     "related": [],
-     "story": {
-      "id": "business-thermax-quarterly-performance-slump",
-      "title": "Thermax Quarterly Performance Slump",
-      "so_far": "Thermax is an Indian engineering firm focused on energy and environment solutions, including boiler systems and wastewater treatment. Their performance is often viewed as a bellwether for the industrial manufacturing sector in India.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "The company reported a net profit decrease to ₹114.54 crore for Q2FY27.",
-        "link": "https://www.thehindubusinessline.com/markets/thermax-shares-fall-20-to-52-week-low-after-q2-results-jm-financial-maintains-sell/article71673760.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "c8f15aefc2ae",
-     "title": "Rupee surges 52 points to close at 93.89 against US dollar",
-     "link": "https://www.thehindubusinessline.com/markets/forex/rupee-surges-52-points-to-close-at-9389-against-us-dollar/article71673987.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-06T10:50:52+00:00",
-     "summary": "The Indian Rupee strengthened against the US Dollar, gaining 52 paise to close at 93.89.",
-     "explain": "Currency appreciation means the domestic currency has become more valuable relative to a foreign currency (the US Dollar). A gain of 52 paise (a unit of Indian currency equal to 1/100 of a Rupee) is a significant move in a single day, typically signaling increased investor confidence or improved trade inflows.",
+     "published": "2026-11-06T13:45:06+00:00",
+     "summary": "",
+     "explain": null,
      "related": [
       {
-       "date": "2026-10-28",
-       "title": "Rupee falls 21 paise to close at 95.28 against US dollar",
-       "link": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-21-paise-to-close-at-9528-against-us-dollar/article71635467.ece",
-       "source": "Business News Today: Latest Business New"
-      },
-      {
-       "date": "2026-10-30",
-       "title": "Rupee rises 33 paise to close at 94.93 against US dollar",
-       "link": "https://www.thehindubusinessline.com/markets/forex/rupee-rises-33-paise-to-close-at-9493-against-us-dollar/article71644634.ece",
-       "source": "Business News Today: Latest Business New"
+       "date": "2026-10-29",
+       "title": "Noel Tata to step down as Trent chairman after 29 yrs",
+       "link": "https://economictimes.indiatimes.com/industry/services/retail/noel-tata-to-step-down-as-trent-chairman-after-29-years-on-november-11-bahram-vakil-set-to-succeed-him/articleshow/135310659.cms",
+       "source": "Economic Times"
       }
      ],
-     "story": {
-      "id": "business-imf-advice-on-rupee-stability",
-      "title": "IMF Advice on Rupee Stability",
-      "so_far": "The value of the Rupee is influenced by trade balances, foreign investment, and global oil prices. The RBI frequently monitors these fluctuations to ensure that the domestic currency remains stable enough to prevent inflationary pressure on imported goods like crude oil.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "The IMF recommended that the RBI prioritize currency flexibility over market intervention during oil-related economic stress.",
-        "link": "https://www.thehindubusinessline.com/economy/imf-advises-india-to-let-rupee-move-as-first-defence-amid-oil-shock/article71607130.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-28",
-        "text": "The rupee depreciated further as global economic pressures persisted.",
-        "link": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-21-paise-to-close-at-9528-against-us-dollar/article71635467.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-10-30",
-        "text": "The IMF clarified that while market intervention is permissible, maintaining a flexible exchange rate is preferred for India's economy.",
-        "link": "https://www.thehindubusinessline.com/markets/forex/rupee-should-be-indias-first-line-of-defence-against-energy-shocks-imf/article71643376.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "The currency showed strong recovery in recent trading sessions, closing at 93.89 per dollar.",
-        "link": "https://www.thehindubusinessline.com/markets/forex/rupee-surges-52-points-to-close-at-9389-against-us-dollar/article71673987.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
+     "story": null
+    },
+    {
+     "id": "83eb51694b7e",
+     "title": "CBI books Biyani, Future Retail over ₹904-cr fraud",
+     "link": "https://economictimes.indiatimes.com/news/india/cbi-books-kishore-biyani-future-retail-in-rs-904-crore-bank-fraud-case/articleshow/135605209.cms",
+     "source": "Economic Times",
+     "published": "2026-11-06T11:17:04+00:00",
+     "summary": "",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "98562a027846",
+     "title": "From 250,000-unit ambitions to a production wind-down: What went wrong with Elon Musk's Cybertruck?",
+     "link": "https://www.livemint.com/companies/news/from-250-000-unit-ambitions-to-a-production-wind-down-what-went-wrong-with-elon-musks-cybertruck-11794016680043.html",
+     "source": "mint - companies",
+     "published": "2026-11-07T02:09:53+00:00",
+     "summary": "Tesla will wind down Cybertruck production at its Texas factory by mid-2027 to make room for its Cybercab robotaxi. The pickup struggled to meet sales expectations despite Musk's ambitious projection.",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "464359b7a738",
+     "title": "Talks underway for historic Xi-Trump-Putin meet",
+     "link": "https://economictimes.indiatimes.com/news/international/world-news/china-confirms-discussions-are-underway-on-a-historic-xi-trump-putin-meeting/articleshow/135624412.cms",
+     "source": "Economic Times",
+     "published": "2026-11-07T02:05:05+00:00",
+     "summary": "",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "57dc29188d97",
+     "title": "Trump discusses West Asia with Qatar's emir",
+     "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-discusses-west-asia-de-escalation-with-qatars-emir-at-least-30-killed-in-airstrikes-in-yemen/articleshow/135624311.cms",
+     "source": "Economic Times",
+     "published": "2026-11-07T01:58:27+00:00",
+     "summary": "",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "d021ba66098b",
+     "title": "France-bound Rubio to face questions on Trump",
+     "link": "https://economictimes.indiatimes.com/news/international/world-news/rubio-to-visit-france-on-first-post-midterm-foreign-trip-to-face-questions-on-trump-policies/articleshow/135624263.cms",
+     "source": "Economic Times",
+     "published": "2026-11-07T01:54:28+00:00",
+     "summary": "",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "08a673c3f693",
+     "title": "Man says he heard voices telling him to kill Trump",
+     "link": "https://economictimes.indiatimes.com/news/international/world-news/secret-service-arrests-man-near-white-house-after-he-said-he-heard-voices-telling-him-to-kill-trump/articleshow/135624258.cms",
+     "source": "Economic Times",
+     "published": "2026-11-07T01:47:10+00:00",
+     "summary": "",
+     "explain": null,
+     "related": [],
+     "story": null
     }
    ]
   },
@@ -2160,6 +1377,17 @@
      }
     },
     {
+     "id": "12c274fefe42",
+     "title": "Dhanteras 2026 gold, silver rates today: How much do precious metals cost today? Check MCX price, outlook",
+     "link": "https://www.livemint.com/market/stock-market-news/dhanteras-2026-gold-silver-rates-today-how-much-do-precious-metals-cost-today-check-mcx-price-outlook-11793955217848.html",
+     "source": "mint - markets",
+     "published": "2026-11-06T08:59:00+00:00",
+     "summary": "Gold and silver futures fell on Dhanteras, with December gold down 1.18% to ₹1,42,401 per 10 grams and silver down 1.24% to ₹1,84,815 per kilogram on Friday.&amp;nbsp;",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
      "id": "53e91613e577",
      "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
      "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
@@ -2189,237 +1417,81 @@
      }
     },
     {
-     "id": "262e87920145",
-     "title": "Lighting up your Diwali! Cupid, HFCL, Sterlite Tech, MTAR: 10 multibagger stocks that soared over 150% in Samvat 2082",
-     "link": "https://www.livemint.com/market/stock-market-news/lighting-up-your-diwali-cupid-hfcl-sterlite-tech-mtar-10-multibagger-stocks-that-soared-over-150-in-samvat-2082-11793956981821.html",
-     "source": "mint - markets",
-     "published": "2026-11-06T11:09:00+00:00",
-     "summary": "Despite general market volatility during the Samvat 2082 trading year, several Indian stocks achieved 'multibagger' status with gains exceeding 150%.",
-     "explain": "A 'multibagger' is a stock that returns several times its initial investment cost. 'Samvat 2082' refers to the traditional Hindu calendar year used by Indian stock exchanges, which often starts with the Diwali festival. This performance tracking helps investors identify which companies remained resilient even when the overall index struggled.",
+     "id": "ec3ee92596c0",
+     "title": "Gold, Silver Price Live updates: Check latest gold and silver prices on Dhanteras. Check 22K, 24K physical rates today (November 6)",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/gold-silver-rates-live-updates-22k-24k-18k-mcx-gold-silver-price-on-dhanteras-6th-november-city-wise-latest-gold-news/liveblog/135591659.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-11-06T03:05:52+00:00",
+     "summary": "",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "markets-indian-stock-market-performance-review",
-      "title": "Indian Stock Market Performance Review",
-      "so_far": "The Indian stock market follows the lunar calendar for its annual 'Samvat' cycle, which is a period of reflection and trading. Historically, the transition between Samvats is a key time for investors to evaluate the performance of companies against broader economic headwinds such as crude oil price fluctuations and foreign investor sentiment.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "A selection of Nifty 500 stocks delivered triple-digit returns despite a broader market downturn driven by geopolitical tensions and foreign outflows.",
-        "link": "https://www.livemint.com/market/stock-market-news/lighting-up-your-diwali-cupid-hfcl-sterlite-tech-mtar-10-multibagger-stocks-that-soared-over-150-in-samvat-2082-11793956981821.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Investors are optimistic that the start of the new Samvat year could mark the beginning of a major market rally.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/diwali-2026-is-samvat-2083-the-start-of-dalal-streets-next-big-rally/videoshow/135603351.cms",
-        "source": "Markets-Economic Times"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "3efdeffc7396",
-     "title": "GOPAX halts crypto trading, withdrawals to move all assets to cold storage",
-     "link": "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "id": "9940ba9882db",
+     "title": "Three warship manufacturing stocks to watch in India",
+     "link": "https://www.livemint.com/market/stock-market-news/three-warship-manufacturing-stocks-to-watch-in-india-11793980065116.html",
+     "source": "mint - markets",
+     "published": "2026-11-07T01:31:05+00:00",
+     "summary": "Considering stocks with a focus on warship manufacturing. Here are 3 such stocks with a solid track record in warship manufacturing.",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "f921b67e11ea",
+     "title": "Arini’s Hedge Fund Losses Grow to 32% as It Sells Some Positions",
+     "link": "https://www.livemint.com/market/arinis-hedge-fund-losses-grow-to-32-as-it-sells-some-positions-11794005315599.html",
+     "source": "mint - markets",
+     "published": "2026-11-06T22:48:35+00:00",
+     "summary": "Losses at Arini Capital Management’s main hedge fund deepened in the final days of October, taking declines to 32% for the year, according to a letter to investors seen by Bloomberg.",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "78f7a83e386d",
+     "title": "Here’s what happened in crypto today",
+     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph.com News",
-     "published": "2026-11-06T10:47:33+00:00",
-     "summary": "South Korean exchange GOPAX has suspended operations to secure user assets following a hacking threat.",
-     "explain": "Exchanges are marketplaces where users buy and sell cryptocurrencies. When an exchange reports a 'hacking threat,' it freezes accounts to prevent theft. Cold storage is essentially an offline safe, which is safer than 'hot wallets' (online accounts) but less convenient for daily trading.",
+     "published": "2026-11-06T22:00:15+00:00",
+     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "markets-crypto-exchange-security-and-hacks",
-      "title": "Crypto Exchange Security and Hacks",
-      "so_far": "Cryptocurrency exchanges are frequent targets for hackers because they hold massive pools of digital assets. 'Cold storage' is a security measure where funds are moved to a device disconnected from the internet, making them inaccessible to remote digital attackers.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "GOPAX is moving assets to cold storage to protect them after detecting a potential security breach.",
-        "link": "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Researchers are questioning how internal wallet safeguards were bypassed during the massive fund outflow.",
-        "link": "https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "fc476d980d6e",
-     "title": "Binance’s $6.3B hack leaves questions over hot wallet safeguards",
-     "link": "https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "id": "a61e44970720",
+     "title": "Gold Extends Drop on Stronger-Than-Expected US Employment Data",
+     "link": "https://www.livemint.com/market/gold-extends-drop-on-stronger-than-expected-us-employment-data-11794000796269.html",
+     "source": "mint - markets",
+     "published": "2026-11-06T21:33:15+00:00",
+     "summary": "Gold fell after a hot US nonfarm payrolls print added fuel to speculations that the Federal Reserve will seek to raise interest rates to contain inflation.",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "e2e2a5a5de8c",
+     "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
+     "link": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph.com News",
-     "published": "2026-11-06T10:40:57+00:00",
-     "summary": "Security analysts are scrutinizing Binance's security controls following reports of a $6.3 billion hack.",
-     "explain": "When an exchange is hacked, it raises concerns about 'internal signing controls,' which are the digital locks and passwords required to approve the movement of large amounts of money. A loss of this magnitude forces the entire industry to rethink how they store user funds online.",
-     "related": [
-      {
-       "date": "2026-10-29",
-       "title": "Binance loses over $6 billion in 'biggest crypto hack in history'",
-       "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
-       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-      }
-     ],
-     "story": {
-      "id": "markets-crypto-exchange-security-and-hacks",
-      "title": "Crypto Exchange Security and Hacks",
-      "so_far": "Cryptocurrency exchanges are frequent targets for hackers because they hold massive pools of digital assets. 'Cold storage' is a security measure where funds are moved to a device disconnected from the internet, making them inaccessible to remote digital attackers.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "GOPAX is moving assets to cold storage to protect them after detecting a potential security breach.",
-        "link": "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Researchers are questioning how internal wallet safeguards were bypassed during the massive fund outflow.",
-        "link": "https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       }
-      ]
-     }
+     "published": "2026-11-06T21:05:25+00:00",
+     "summary": "The US Treasury bureau FinCEN on Friday ordered US financial institutions to stop processing transfers involving MEXC Global.",
+     "explain": null,
+     "related": [],
+     "story": null
     },
     {
-     "id": "509e1d4e7d9c",
-     "title": "Indian rupee strengthens past 94/$ as oil slides, foreign inflows return",
-     "link": "https://economictimes.indiatimes.com/markets/forex/indian-rupee-strengthens-past-94/-as-oil-slides-foreign-inflows-return/articleshow/135604040.cms",
-     "source": "Markets-Economic Times",
-     "published": "2026-11-06T10:35:18+00:00",
-     "summary": "The Indian rupee has strengthened to 94 per dollar, bolstered by falling global oil prices and returning foreign capital.",
-     "explain": "A stronger rupee (a lower number against the dollar) makes imports cheaper but exports potentially less competitive. Foreign inflows occur when global investors find Indian assets more attractive than those in their home countries. This shift is critical as it balances the volatility caused by high tech-sector spending globally.",
+     "id": "32eb8a222b8f",
+     "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
+     "link": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph.com News",
+     "published": "2026-11-06T20:51:23+00:00",
+     "summary": "The crypto debit card provider said customer funds remained safe despite the exposure of sensitive financial and personal information.",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "markets-indian-currency-and-macro-stability",
-      "title": "Indian Currency and Macro Stability",
-      "so_far": "The value of the rupee is sensitive to global oil prices because India is a major energy importer. When oil prices drop, India's balance of payments improves. Foreign Institutional Investors (FIIs) frequently move money into or out of Indian stocks, which directly impacts the exchange rate.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "Increased foreign inflows and a pivot away from AI-heavy global tech sectors have pushed the rupee past the 94 mark.",
-        "link": "https://economictimes.indiatimes.com/markets/forex/indian-rupee-strengthens-past-94/-as-oil-slides-foreign-inflows-return/articleshow/135604040.cms",
-        "source": "Markets-Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "b256ee20ccb0",
-     "title": "Why did Yes Bank shares rally 6%, extend winning streak to 3rd day and snap a 7-week losing run — what led to rebound?",
-     "link": "https://www.livemint.com/market/stock-market-news/why-did-yes-bank-shares-rally-6-extend-winning-streak-to-3rd-day-and-snap-a-7-week-losing-run-what-led-to-rebound-11793959853879.html",
-     "source": "mint - markets",
-     "published": "2026-11-06T10:34:44+00:00",
-     "summary": "Yes Bank shares are rebounding following a sharp rally driven by investor optimism after a favorable Supreme Court ruling.",
-     "explain": "AT-1 (Additional Tier 1) bonds are debt instruments banks issue to maintain capital requirements. They carry higher risk than standard bonds. The Supreme Court's involvement created uncertainty, but the recent rally indicates investors believe the potential cost to the bank may be manageable.",
-     "related": [],
-     "story": {
-      "id": "markets-yes-bank-at1-bond-crisis",
-      "title": "Yes Bank AT1 Bond Crisis",
-      "so_far": "Yes Bank faced a crisis when its AT-1 bonds—a type of risky, high-yield debt—were written down to zero. The Supreme Court recently overturned this, sparking volatility as the market attempts to calculate the financial impact of restoring these assets.",
-      "timeline": [
-       {
-        "date": "2026-10-23",
-        "text": "The Supreme Court ruled to restore the value of these bonds, overturning a prior write-down that had rendered the investments worthless.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-at1-bonds-why-the-supreme-court-reversed-the-8415-crore-write-down/videoshow/135131450.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-23",
-        "text": "Nippon AMC agreed to a ₹96.8 crore settlement to resolve allegations of non-compliance following a show-cause notice.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nippon-amc-gets-sebi-nod-for-settlement-in-yes-bank-at1-case/articleshow/135131314.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-23",
-        "text": "Despite the court reversing the write-down of their bonds, investors report that they have not yet received scheduled interest (coupon) payments.",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/yes-bank-at1-coupon-due-bondholders-seek-clarity/articleshow/135131245.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "The bank's stock extended its winning streak for a third session, gaining 14% over the week.",
-        "link": "https://www.livemint.com/market/stock-market-news/why-did-yes-bank-shares-rally-6-extend-winning-streak-to-3rd-day-and-snap-a-7-week-losing-run-what-led-to-rebound-11793959853879.html",
-        "source": "mint - markets"
-       }
-      ]
-     }
-    },
-    {
-     "id": "71fecf81b14e",
-     "title": "Diwali 2026: Is Samvat 2083 the start of Dalal Street’s next big rally?",
-     "link": "https://economictimes.indiatimes.com/markets/stocks/diwali-2026-is-samvat-2083-the-start-of-dalal-streets-next-big-rally/videoshow/135603351.cms",
-     "source": "Markets-Economic Times",
-     "published": "2026-11-06T10:15:01+00:00",
-     "summary": "Market analysts are debating whether the upcoming Samvat 2083 will trigger a new bull run for the Indian stock market.",
-     "explain": "A 'bull run' is a sustained period where market prices are rising, often fueling investor optimism. The start of a new Samvat is traditionally seen as a favorable time to begin new investments in India, making this a period of high sentiment and expectation.",
-     "related": [],
-     "story": {
-      "id": "markets-indian-stock-market-performance-review",
-      "title": "Indian Stock Market Performance Review",
-      "so_far": "The Indian stock market follows the lunar calendar for its annual 'Samvat' cycle, which is a period of reflection and trading. Historically, the transition between Samvats is a key time for investors to evaluate the performance of companies against broader economic headwinds such as crude oil price fluctuations and foreign investor sentiment.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "A selection of Nifty 500 stocks delivered triple-digit returns despite a broader market downturn driven by geopolitical tensions and foreign outflows.",
-        "link": "https://www.livemint.com/market/stock-market-news/lighting-up-your-diwali-cupid-hfcl-sterlite-tech-mtar-10-multibagger-stocks-that-soared-over-150-in-samvat-2082-11793956981821.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Investors are optimistic that the start of the new Samvat year could mark the beginning of a major market rally.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/diwali-2026-is-samvat-2083-the-start-of-dalal-streets-next-big-rally/videoshow/135603351.cms",
-        "source": "Markets-Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "0f17884e8fae",
-     "title": "Penny stock under ₹10 hits 5% upper circuit on Dhanteras 2026 date; finds no seller for third straight session",
-     "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-hits-5-upper-circuit-on-dhanteras-2026-date-finds-no-seller-for-third-straight-session-11793957644761.html",
-     "source": "mint - markets",
-     "published": "2026-11-06T10:03:44+00:00",
-     "summary": "An unidentified penny stock priced under ₹10 has hit its upper circuit limit for three consecutive days.",
-     "explain": "When a stock 'hits the upper circuit' and finds 'no sellers,' it means demand is so high that no one is willing to sell their shares at the current price, causing the price to stop moving upward for the day. This is common in highly speculative, low-liquidity small-cap stocks.",
-     "related": [],
-     "story": {
-      "id": "markets-indian-small-cap-speculation",
-      "title": "Indian Small-Cap Speculation",
-      "so_far": "Penny stocks are low-priced shares of small companies that are highly volatile and often subject to intense speculation. An 'upper circuit' is a regulatory limit on how much a stock price can rise in a single day, preventing extreme price manipulation.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "The stock locked at the upper circuit on Dhanteras 2026, showing a lack of sellers for the third day.",
-        "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-hits-5-upper-circuit-on-dhanteras-2026-date-finds-no-seller-for-third-straight-session-11793957644761.html",
-        "source": "mint - markets"
-       }
-      ]
-     }
-    },
-    {
-     "id": "66a7ea4cfe08",
-     "title": "12 midcap stocks deliver returns of up to 136% in FY27 so far",
-     "link": "https://economictimes.indiatimes.com/markets/stocks/news/12-midcap-stocks-deliver-returns-of-up-to-136-in-fy27-so-far/slideshow/135603584.cms",
-     "source": "Markets-Economic Times",
-     "published": "2026-11-06T10:03:29+00:00",
-     "summary": "Midcap stocks in India have outperformed the broader market in FY27, with many delivering significant returns.",
-     "explain": "The 'midcap' segment often acts as a barometer for domestic economic health. Returns of over 50% in a single fiscal year indicate a high-growth environment for these companies, though they also carry more risk than the largest, most stable corporations on the exchange.",
-     "related": [],
-     "story": {
-      "id": "markets-indian-midcap-market-growth",
-      "title": "Indian Midcap Market Growth",
-      "so_far": "Midcap companies are firms with medium-sized market capitalizations. They are often favored by investors who want more growth potential than established 'blue chip' large-cap companies but less risk than tiny penny stocks.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "Data shows that 12 specific midcap companies have seen gains between 51% and 136% during the current fiscal year.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/12-midcap-stocks-deliver-returns-of-up-to-136-in-fy27-so-far/slideshow/135603584.cms",
-        "source": "Markets-Economic Times"
-       }
-      ]
-     }
+     "story": null
     }
    ]
   }
