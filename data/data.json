@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-08T02:23:05.239163+00:00",
- "prices_generated": "2026-11-08T10:30:28.310272+00:00",
+ "generated": "2026-11-08T11:09:39.406033+00:00",
+ "prices_generated": "2026-11-08T11:09:39.406033+00:00",
  "ai": "gemini",
- "pulse": "Indian markets surged today, likely driven by positive investor sentiment and a shifting trade landscape that is favoring Indian equities. In the U.S., the tech-heavy Nasdaq rose while the Dow dipped, possibly due to a rotation in investor interest following recent political and economic signals. Meanwhile, crypto markets remained relatively flat as regulatory scrutiny from the U.S. Treasury created caution, and commodities like gold saw a slight decline.",
+ "pulse": "Indian markets saw a modest decline during Muhurat trading as investors possibly locked in gains after a recent seven-day rally, despite positive sentiment surrounding new capital expenditure plans from major conglomerates. In the U.S., the tech-heavy Nasdaq rose while the Dow dipped, likely driven by investors rotating into growth stocks and reacting to regulatory updates regarding crypto exchange compliance. Meanwhile, gold and silver prices moved lower, possibly due to shifting market appetite for safe-haven assets amidst fluctuating geopolitical headlines.",
  "ticker_strip": [
   "^NSEI",
   "^BSESN",
@@ -262,10 +262,10 @@
   "BTC-USD": {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 75765.6719,
-   "change": 18.0938,
-   "pct": 0.02,
-   "pct_1m": -7.24,
+   "price": 75828.9766,
+   "change": 81.3984,
+   "pct": 0.11,
+   "pct_1m": -7.16,
    "spark": [
     81676.3359,
     82546.3203,
@@ -298,17 +298,17 @@
     75942.125,
     75746.9297,
     75747.5781,
-    75765.6719
+    75828.9766
    ],
    "asof": "2026-11-08"
   },
   "ETH-USD": {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 2231.49,
-   "change": -4.8252,
-   "pct": -0.22,
-   "pct_1m": -9.73,
+   "price": 2233.96,
+   "change": -2.3552,
+   "pct": -0.11,
+   "pct_1m": -9.63,
    "spark": [
     2471.9126,
     2485.5386,
@@ -341,17 +341,17 @@
     2234.4763,
     2235.0474,
     2236.3152,
-    2231.49
+    2233.96
    ],
    "asof": "2026-11-08"
   },
   "SOL-USD": {
    "symbol": "SOL-USD",
    "name": "Solana",
-   "price": 88.98,
-   "change": -0.6887,
-   "pct": -0.77,
-   "pct_1m": -18.7,
+   "price": 89.16,
+   "change": -0.5087,
+   "pct": -0.57,
+   "pct_1m": -18.53,
    "spark": [
     109.4423,
     109.1395,
@@ -384,7 +384,7 @@
     89.1434,
     90.0594,
     89.6687,
-    88.98
+    89.16
    ],
    "asof": "2026-11-08"
   },
@@ -991,428 +991,236 @@
    "label": "India",
    "articles": [
     {
-     "id": "46a0f43f9840",
-     "title": "Singapore-based senior IT executive shot dead over parking dispute in Faridabad",
-     "link": "https://www.thehindu.com/news/cities/Delhi/singapore-based-senior-it-executive-shot-dead-over-parking-dispute-in-faridabad/article71678760.ece",
+     "id": "de2f7fe3485a",
+     "title": "‘Dimagi Naxals’ instigating people against Constitution and democracy: PM Modi as Maoists eliminated",
+     "link": "https://www.thehindu.com/news/national/pm-modi-deepavali-celebration-soldiers-bastar-november-8-2026/article71680574.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-08T01:25:25+00:00",
-     "summary": "A senior IT executive from Singapore was shot dead in Faridabad following a dispute over parking and a pet dog. The victim's son managed to escape the attack, and the incident has triggered a police investigation.",
-     "explain": "This incident involves a violent escalation of a local neighborhood dispute. Such cases are often high-profile due to the severity of the violence and the involvement of individuals with international ties, leading to immediate police intervention.",
+     "published": "2026-11-08T11:08:48+00:00",
+     "summary": "Prime Minister Narendra Modi, while celebrating Diwali with CRPF troops in Bastar, criticized ideological supporters of Naxalism, calling them 'Dimagi Naxals' who undermine democracy.",
+     "explain": "The term 'Naxal' refers to a radical militant movement inspired by Maoist ideology. PM Modi's statement targets those he believes support these militants through intellectual or political means rather than direct violence, suggesting that their influence threatens national stability. This highlights the government's continued focus on both physical security and ideological combat against the insurgency.",
      "related": [],
      "story": {
-      "id": "india-crime-and-investigation-reports",
-      "title": "Crime and Investigation Reports",
-      "so_far": "Public safety incidents involving celebrities in Mumbai frequently trigger immediate political attention and rapid deployment of elite police units due to the high profile of the victims and the risk to the city's reputation.",
+      "id": "india-pm-modi-on-naxal-ideology",
+      "title": "PM Modi on Naxal Ideology",
+      "so_far": "The Naxalite-Maoist insurgency is a long-standing armed movement in India, primarily concentrated in forested tribal regions like Bastar, Chhattisgarh. The government maintains a dual-pronged strategy of kinetic security operations by the CRPF (Central Reserve Police Force) and development-led rehabilitation to reintegrate surrendered cadres.",
       "timeline": [
        {
-        "date": "2026-10-29",
-        "text": "After the Supreme Court denied his bail, former MLA Muthukumar surrendered to face charges in a bribery case.",
-        "link": "https://www.thehindu.com/news/cities/chennai/former-mla-muthukumar-surrenders-in-bribery-case-involving-ex-minister-anbil-mahesh-poyyamozhi/article71639781.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-02",
-        "text": "Government officials have provided a health update on a student victim of a severe violent assault in Andhra Pradesh.",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/anantapur-chainsaw-attack-ap-minister-nara-lokesh-says-class-10-girl-stable-after-bleeding-controlled/article71651991.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-03",
-        "text": "A mass food poisoning incident at a wedding in Mumbai has resulted in 100 people falling ill, with over 20 hospitalized.",
-        "link": "https://www.ndtv.com/india-news/100-fall-ill-after-eating-at-wedding-in-mumbai-food-poisoning-suspected-12273971#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-04",
-        "text": "Police in Madhya Pradesh engaged two suspects in the hit-and-run of a police officer, resulting in injuries to both individuals.",
-        "link": "https://www.ndtv.com/india-news/madhya-pradesh-cop-hit-and-run-case-both-accused-injured-in-police-encounter-12279432#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-04",
-        "text": "A senior police official resigned amid fallout from a deadly hooch tragedy that claimed 25 lives in Sagar district.",
-        "link": "https://www.thehindu.com/news/national/madhya-pradesh/days-after-transfer-as-sagar-sp-ips-officer-anurag-sujania-resigns-amid-ongoing-liquor-row-in-mp/article71661136.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-04",
-        "text": "The primary suspect in the hit-and-run of a Madhya Pradesh police officer has been apprehended, with investigations ongoing into their criminal network.",
-        "link": "https://www.thehindu.com/news/national/madhya-pradesh/driver-who-ran-over-mp-police-officer-arrested/article71661767.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "A fast-track legal process in Gujarat resulted in a life sentence for a murder committed at a public bus station, with the verdict reached within a month of the charge sheet filing.",
-        "link": "https://www.ndtv.com/india-news/gujarat-man-faisal-lakhani-jailed-for-life-for-killing-partner-at-bus-station-12290454#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Nora Fatehi appeared in court to provide testimony regarding the extortion case involving Sukesh Chandrasekhar.",
-        "link": "https://www.thehindu.com/news/cities/Delhi/nora-fatehi-appears-in-delhi-court-in-extortion-case-involving-sukesh-chandrasekhar/article71673825.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Nora Fatehi clarified her immigration status while testifying in the extortion trial.",
-        "link": "https://www.ndtv.com/india-news/nora-fatehi-tells-court-in-sukesh-chandrasekhar-case-in-india-on-work-visa-12292566#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-07",
-        "text": "Additional context confirms the shooting was the culmination of a recurring dispute over a pet.",
-        "link": "https://www.ndtv.com/india-news/man-who-worked-for-tech-mahindra-in-singapore-murdered-in-faridabad-festering-dispute-over-dog-argument-over-parking-then-gunfire-12296993#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
         "date": "2026-11-08",
-        "text": "A fatal shooting in Faridabad linked to neighborly disputes over parking and pets is being investigated by local authorities.",
-        "link": "https://www.thehindu.com/news/cities/Delhi/singapore-based-senior-it-executive-shot-dead-over-parking-dispute-in-faridabad/article71678760.ece",
+        "text": "PM Modi asserted that 'Dimagi Naxals' have infiltrated various organizations and must be identified and defeated to protect the Constitution.",
+        "link": "https://www.thehindu.com/news/national/pm-modi-deepavali-celebration-soldiers-bastar-november-8-2026/article71680574.ece",
         "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-08",
-        "text": "A missing person case in Guwahati has transitioned into a homicide investigation following the discovery of a body.",
-        "link": "https://www.ndtv.com/india-news/guwahati-missing-womans-decomposed-body-found-in-gunny-bag-near-temple-12298892#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
        }
       ]
      }
     },
     {
-     "id": "2c32d355d74b",
-     "title": "'Ignore, See Consequences': IndiGo Flight Returns To Bengaluru After Hijack Threat Note Found In Toilet",
-     "link": "https://www.ndtv.com/india-news/hijack-threat-note-in-toilet-bengaluru-lucknow-flight-makes-u-turn-ignore-and-see-consequences-12298199#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-11-07T18:15:04+00:00",
-     "summary": "An IndiGo flight from Bengaluru returned to its origin after a note threatening a hijack was discovered in the airplane restroom. Passengers were evacuated as a precautionary measure, and authorities are investigating the origin of the threat.",
-     "explain": "A hijack threat is considered a top-tier security emergency. Airlines are required to take these notes seriously, resulting in the return to the airport and subsequent screening of all passengers and luggage to ensure no genuine explosive or dangerous threat exists.",
-     "related": [],
-     "story": {
-      "id": "india-aviation-security-and-hijack-threats",
-      "title": "Aviation Security and Hijack Threats",
-      "so_far": "Aviation security in India is governed by strict protocols where any threat, including written notes or verbal claims, necessitates an immediate emergency response. Airlines and the Bureau of Civil Aviation Security (BCAS) regularly manage these incidents to ensure passenger safety, often resulting in diverted flights and thorough security sweeps.",
-      "timeline": [
-       {
-        "date": "2026-11-07",
-        "text": "A flight from Bengaluru was forced to turn back due to a security threat discovered on board.",
-        "link": "https://www.ndtv.com/india-news/hijack-threat-note-in-toilet-bengaluru-lucknow-flight-makes-u-turn-ignore-and-see-consequences-12298199#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       }
-      ]
-     }
-    },
-    {
-     "id": "dcb0da0526bb",
-     "title": "Home From Singapore, Man Shot 9 Times In Faridabad Over Parking, Dog Dispute",
-     "link": "https://www.ndtv.com/india-news/man-who-worked-for-tech-mahindra-in-singapore-murdered-in-faridabad-festering-dispute-over-dog-argument-over-parking-then-gunfire-12296993#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-11-07T16:26:20+00:00",
-     "summary": "Further details on the Faridabad shooting identify the victim as Paramjit Dhankhar and confirm that the violence stemmed from long-standing conflicts with a neighbor.",
-     "explain": "Following the initial report, this update clarifies the motive behind the murder. It highlights the role of ongoing local tensions in escalating to criminal activity.",
-     "related": [],
-     "story": {
-      "id": "india-crime-and-investigation-reports",
-      "title": "Crime and Investigation Reports",
-      "so_far": "Public safety incidents involving celebrities in Mumbai frequently trigger immediate political attention and rapid deployment of elite police units due to the high profile of the victims and the risk to the city's reputation.",
-      "timeline": [
-       {
-        "date": "2026-10-29",
-        "text": "After the Supreme Court denied his bail, former MLA Muthukumar surrendered to face charges in a bribery case.",
-        "link": "https://www.thehindu.com/news/cities/chennai/former-mla-muthukumar-surrenders-in-bribery-case-involving-ex-minister-anbil-mahesh-poyyamozhi/article71639781.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-02",
-        "text": "Government officials have provided a health update on a student victim of a severe violent assault in Andhra Pradesh.",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/anantapur-chainsaw-attack-ap-minister-nara-lokesh-says-class-10-girl-stable-after-bleeding-controlled/article71651991.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-03",
-        "text": "A mass food poisoning incident at a wedding in Mumbai has resulted in 100 people falling ill, with over 20 hospitalized.",
-        "link": "https://www.ndtv.com/india-news/100-fall-ill-after-eating-at-wedding-in-mumbai-food-poisoning-suspected-12273971#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-04",
-        "text": "Police in Madhya Pradesh engaged two suspects in the hit-and-run of a police officer, resulting in injuries to both individuals.",
-        "link": "https://www.ndtv.com/india-news/madhya-pradesh-cop-hit-and-run-case-both-accused-injured-in-police-encounter-12279432#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-04",
-        "text": "A senior police official resigned amid fallout from a deadly hooch tragedy that claimed 25 lives in Sagar district.",
-        "link": "https://www.thehindu.com/news/national/madhya-pradesh/days-after-transfer-as-sagar-sp-ips-officer-anurag-sujania-resigns-amid-ongoing-liquor-row-in-mp/article71661136.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-04",
-        "text": "The primary suspect in the hit-and-run of a Madhya Pradesh police officer has been apprehended, with investigations ongoing into their criminal network.",
-        "link": "https://www.thehindu.com/news/national/madhya-pradesh/driver-who-ran-over-mp-police-officer-arrested/article71661767.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "A fast-track legal process in Gujarat resulted in a life sentence for a murder committed at a public bus station, with the verdict reached within a month of the charge sheet filing.",
-        "link": "https://www.ndtv.com/india-news/gujarat-man-faisal-lakhani-jailed-for-life-for-killing-partner-at-bus-station-12290454#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Nora Fatehi appeared in court to provide testimony regarding the extortion case involving Sukesh Chandrasekhar.",
-        "link": "https://www.thehindu.com/news/cities/Delhi/nora-fatehi-appears-in-delhi-court-in-extortion-case-involving-sukesh-chandrasekhar/article71673825.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Nora Fatehi clarified her immigration status while testifying in the extortion trial.",
-        "link": "https://www.ndtv.com/india-news/nora-fatehi-tells-court-in-sukesh-chandrasekhar-case-in-india-on-work-visa-12292566#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-07",
-        "text": "Additional context confirms the shooting was the culmination of a recurring dispute over a pet.",
-        "link": "https://www.ndtv.com/india-news/man-who-worked-for-tech-mahindra-in-singapore-murdered-in-faridabad-festering-dispute-over-dog-argument-over-parking-then-gunfire-12296993#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-08",
-        "text": "A fatal shooting in Faridabad linked to neighborly disputes over parking and pets is being investigated by local authorities.",
-        "link": "https://www.thehindu.com/news/cities/Delhi/singapore-based-senior-it-executive-shot-dead-over-parking-dispute-in-faridabad/article71678760.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-08",
-        "text": "A missing person case in Guwahati has transitioned into a homicide investigation following the discovery of a body.",
-        "link": "https://www.ndtv.com/india-news/guwahati-missing-womans-decomposed-body-found-in-gunny-bag-near-temple-12298892#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       }
-      ]
-     }
-    },
-    {
-     "id": "08af24cae50a",
-     "title": "Missing Woman's Decomposed Body Found In Gunny Bag Near Guwahati Temple",
-     "link": "https://www.ndtv.com/india-news/guwahati-missing-womans-decomposed-body-found-in-gunny-bag-near-temple-12298892#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-11-08T02:17:38+00:00",
-     "summary": "Police discovered the decomposed body of a woman in a gunny bag near a temple in Guwahati, 12 days after she was reported missing. An investigation is underway to determine the cause of death and identify suspects.",
-     "explain": "This report highlights a tragic criminal case involving a missing person. Authorities treat such discoveries as high-priority investigations to determine if foul play was involved.",
-     "related": [],
-     "story": {
-      "id": "india-crime-and-investigation-reports",
-      "title": "Crime and Investigation Reports",
-      "so_far": "Public safety incidents involving celebrities in Mumbai frequently trigger immediate political attention and rapid deployment of elite police units due to the high profile of the victims and the risk to the city's reputation.",
-      "timeline": [
-       {
-        "date": "2026-10-29",
-        "text": "After the Supreme Court denied his bail, former MLA Muthukumar surrendered to face charges in a bribery case.",
-        "link": "https://www.thehindu.com/news/cities/chennai/former-mla-muthukumar-surrenders-in-bribery-case-involving-ex-minister-anbil-mahesh-poyyamozhi/article71639781.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-02",
-        "text": "Government officials have provided a health update on a student victim of a severe violent assault in Andhra Pradesh.",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/anantapur-chainsaw-attack-ap-minister-nara-lokesh-says-class-10-girl-stable-after-bleeding-controlled/article71651991.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-03",
-        "text": "A mass food poisoning incident at a wedding in Mumbai has resulted in 100 people falling ill, with over 20 hospitalized.",
-        "link": "https://www.ndtv.com/india-news/100-fall-ill-after-eating-at-wedding-in-mumbai-food-poisoning-suspected-12273971#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-04",
-        "text": "Police in Madhya Pradesh engaged two suspects in the hit-and-run of a police officer, resulting in injuries to both individuals.",
-        "link": "https://www.ndtv.com/india-news/madhya-pradesh-cop-hit-and-run-case-both-accused-injured-in-police-encounter-12279432#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-04",
-        "text": "A senior police official resigned amid fallout from a deadly hooch tragedy that claimed 25 lives in Sagar district.",
-        "link": "https://www.thehindu.com/news/national/madhya-pradesh/days-after-transfer-as-sagar-sp-ips-officer-anurag-sujania-resigns-amid-ongoing-liquor-row-in-mp/article71661136.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-04",
-        "text": "The primary suspect in the hit-and-run of a Madhya Pradesh police officer has been apprehended, with investigations ongoing into their criminal network.",
-        "link": "https://www.thehindu.com/news/national/madhya-pradesh/driver-who-ran-over-mp-police-officer-arrested/article71661767.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "A fast-track legal process in Gujarat resulted in a life sentence for a murder committed at a public bus station, with the verdict reached within a month of the charge sheet filing.",
-        "link": "https://www.ndtv.com/india-news/gujarat-man-faisal-lakhani-jailed-for-life-for-killing-partner-at-bus-station-12290454#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Nora Fatehi appeared in court to provide testimony regarding the extortion case involving Sukesh Chandrasekhar.",
-        "link": "https://www.thehindu.com/news/cities/Delhi/nora-fatehi-appears-in-delhi-court-in-extortion-case-involving-sukesh-chandrasekhar/article71673825.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Nora Fatehi clarified her immigration status while testifying in the extortion trial.",
-        "link": "https://www.ndtv.com/india-news/nora-fatehi-tells-court-in-sukesh-chandrasekhar-case-in-india-on-work-visa-12292566#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-07",
-        "text": "Additional context confirms the shooting was the culmination of a recurring dispute over a pet.",
-        "link": "https://www.ndtv.com/india-news/man-who-worked-for-tech-mahindra-in-singapore-murdered-in-faridabad-festering-dispute-over-dog-argument-over-parking-then-gunfire-12296993#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-08",
-        "text": "A fatal shooting in Faridabad linked to neighborly disputes over parking and pets is being investigated by local authorities.",
-        "link": "https://www.thehindu.com/news/cities/Delhi/singapore-based-senior-it-executive-shot-dead-over-parking-dispute-in-faridabad/article71678760.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-08",
-        "text": "A missing person case in Guwahati has transitioned into a homicide investigation following the discovery of a body.",
-        "link": "https://www.ndtv.com/india-news/guwahati-missing-womans-decomposed-body-found-in-gunny-bag-near-temple-12298892#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       }
-      ]
-     }
-    },
-    {
-     "id": "08367a7de0ad",
-     "title": "MPSC Group-C Recruitment 2026: Vacancies Increased To 16,717, Exam On January 24",
-     "link": "https://www.ndtv.com/education/mpsc-group-c-recruitment-2026-vacancies-increased-to-16-717-prelims-on-january-24-12298858#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-11-08T02:01:09+00:00",
-     "summary": "The Maharashtra Public Service Commission (MPSC) has increased the number of vacancies for the Group-C recruitment exam to 16,717 and rescheduled the exam to January 24, 2027.",
-     "explain": "The MPSC is the government body responsible for hiring staff for state-level administrative jobs. Increasing vacancies is a significant development for job seekers, as it broadens the opportunity for employment within the state infrastructure.",
-     "related": [],
-     "story": {
-      "id": "india-mpsc-recruitment-and-exam-updates",
-      "title": "MPSC Recruitment and Exam Updates",
-      "so_far": "The MPSC conducts competitive examinations to recruit candidates for various positions within the Maharashtra state government. These exams are essential for civil service career paths and are frequently subject to schedule changes based on administrative requirements.",
-      "timeline": [
-       {
-        "date": "2026-11-08",
-        "text": "Vacancies for the upcoming Group-C exam have been expanded and the testing date has been finalized.",
-        "link": "https://www.ndtv.com/education/mpsc-group-c-recruitment-2026-vacancies-increased-to-16-717-prelims-on-january-24-12298858#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       }
-      ]
-     }
-    },
-    {
-     "id": "c998a1a2b7c2",
-     "title": "FSSAI seizes 3,280 tonne food items, cancels 52 licences in nationwide inspection drive",
-     "link": "https://www.thehindu.com/news/national/fssai-seizes-3280-tonne-food-items-cancels-52-licences-in-nationwide-inspection-drive/article71680460.ece",
+     "id": "cf5d3c61085a",
+     "title": "Banner seeking info on four wanted terrorists surfaces in Srinagar's Lal Chowk",
+     "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/banner-seeking-info-on-four-wanted-terrorists-surfaces-in-srinagars-lal-chowk/article71680859.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-08T01:54:19+00:00",
-     "summary": "The Food Safety and Standards Authority of India (FSSAI) seized over 3,000 tonnes of food products and canceled 52 licenses following a nationwide enforcement drive. The inspections targeted basic commodities like milk, ghee, and sweets to ensure market safety.",
-     "explain": "The FSSAI ensures that the food sold to consumers meets health and quality standards. Seizing non-compliant products is a regulatory action taken to protect public health by removing contaminated or adulterated food items from the supply chain.",
+     "published": "2026-11-08T11:05:22+00:00",
+     "summary": "A banner appeared in Srinagar's Lal Chowk seeking public information on four wanted terrorists.",
+     "explain": "Lal Chowk is the main commercial hub of Srinagar. Placing banners for wanted individuals is a tactic used by authorities to encourage the public to report sightings or information about militants. It underscores the ongoing security efforts to track down those responsible for recent violence in the region.",
      "related": [],
      "story": {
-      "id": "india-fssai-nationwide-food-safety-enforcement",
-      "title": "FSSAI Nationwide Food Safety Enforcement",
-      "so_far": "FSSAI is the primary regulator responsible for maintaining food safety standards in India. It periodically conducts nationwide drives, especially before major festivals when the production of processed foods like sweets and dairy increases significantly.",
+      "id": "india-srinagar-counter-terrorism-efforts",
+      "title": "Srinagar Counter-Terrorism Efforts",
+      "so_far": "Kashmir frequently faces security challenges involving militant groups operating in urban and rural pockets. Local police and security forces often rely on public intelligence-gathering strategies to track wanted individuals involved in attacks on officials or civilians.",
       "timeline": [
        {
         "date": "2026-11-08",
-        "text": "A large-scale inspection drive resulted in massive seizures of non-compliant food items across India.",
-        "link": "https://www.thehindu.com/news/national/fssai-seizes-3280-tonne-food-items-cancels-52-licences-in-nationwide-inspection-drive/article71680460.ece",
+        "text": "A public alert regarding four wanted terrorists, including those linked to a police officer's killing in July, was displayed in Srinagar's city center.",
+        "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/banner-seeking-info-on-four-wanted-terrorists-surfaces-in-srinagars-lal-chowk/article71680859.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "f455e4ca4db8",
-     "title": "PM Modi Extends \"Boundless Diwali Wishes To Family Members\" Across Country",
-     "link": "https://www.ndtv.com/india-news/pm-modi-extends-boundless-diwali-wishes-to-family-members-across-country-12298840#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-11-08T01:50:31+00:00",
-     "summary": "Prime Minister Narendra Modi released a video message offering Diwali greetings to the nation, emphasizing community and national unity during the festival season.",
-     "explain": "These official greetings serve as a traditional bridge between the government and the public, reinforcing cultural cohesion and the leader's visibility during significant national holidays.",
+     "id": "3a9039ad1240",
+     "title": "'Notebandi' devastated economy, 'votebandi' destroying polity: Congress slams PM Modi",
+     "link": "https://www.thehindu.com/news/national/notebandi-devastated-economy-votebandi-destroying-polity-congress-slams-pm-modi/article71680863.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-08T10:50:57+00:00",
+     "summary": "The Congress party criticized the BJP government on the 10th anniversary of demonetization.",
+     "explain": "The opposition is using the anniversary to renew criticism of the government's economic legacy. 'Notebandi' refers to the note-ban policy of 2016. By linking this to the state of the current polity, the opposition is arguing that the government has a history of disruptive, top-down decision-making.",
      "related": [],
      "story": {
-      "id": "india-national-leadership-and-cultural-festiva",
-      "title": "National Leadership and Cultural Festivals",
-      "so_far": "High-level political figures in India often use major cultural festivals, such as Diwali, to connect with the public through video addresses. These messages typically focus on national identity and seasonal celebrations.",
+      "id": "india-political-debates-on-economic-policy",
+      "title": "Political Debates on Economic Policy",
+      "so_far": "Demonetization, announced on November 8, 2016, involved the sudden withdrawal of ₹500 and ₹1,000 currency notes from circulation. It remains a polarizing topic in Indian politics, with the ruling BJP citing it as a measure against black money and the opposition criticizing its long-term impact on the informal economy.",
       "timeline": [
        {
         "date": "2026-11-08",
-        "text": "The Prime Minister issued a public Diwali greeting to the citizens of India.",
-        "link": "https://www.ndtv.com/india-news/pm-modi-extends-boundless-diwali-wishes-to-family-members-across-country-12298840#publisher=newsstand",
+        "text": "Congress leaders marked the anniversary of the 2016 demonetization move by describing it as a devastating blow to the Indian economy.",
+        "link": "https://www.thehindu.com/news/national/notebandi-devastated-economy-votebandi-destroying-polity-congress-slams-pm-modi/article71680863.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "18eaa4ff78f5",
+     "title": "J&K: 4 police personnel, including SHO, injured as bus rams police vehicle in Ramban",
+     "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-4-police-personnel-including-sho-injured-as-bus-rams-police-vehicle-in-ramban/article71680858.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-08T10:49:29+00:00",
+     "summary": "A traffic accident in Ramban, Jammu and Kashmir, injured four police personnel who were part of an escort for a BJP leader.",
+     "explain": "The incident highlights the logistical risks involved in protecting political figures in high-security zones. Police escorts are vehicles that accompany prominent leaders to provide protection, and any accident involving them is treated with high priority to ensure the safety of both the protected individuals and the officers.",
+     "related": [],
+     "story": {
+      "id": "india-j-k-police-traffic-incident",
+      "title": "J&K Police Traffic Incident",
+      "so_far": "Maintaining security for politicians in Jammu and Kashmir is a significant logistical task given the region's complex security environment. Security convoys are standard for high-profile public figures to mitigate threats from hostile actors.",
+      "timeline": [
+       {
+        "date": "2026-11-08",
+        "text": "A bus crashed into a police vehicle escorting opposition leader Sunil Sharma, resulting in four injuries.",
+        "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-4-police-personnel-including-sho-injured-as-bus-rams-police-vehicle-in-ramban/article71680858.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b0f2cf7cf1c9",
+     "title": "Union Minister H.D. Kumaraswamy alleges Hassan DC retained her post by paying bribe district minister",
+     "link": "https://www.thehindu.com/news/national/karnataka/union-minister-hd-kumaraswamy-alleges-hassan-dc-retained-her-post-by-paying-bribe-district-minister/article71680844.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-08T10:43:13+00:00",
+     "summary": "Union Minister H.D. Kumaraswamy alleged that the Deputy Commissioner of Hassan maintained her position through bribery.",
+     "explain": "A Deputy Commissioner (DC) is the top administrative officer in an Indian district. Allegations of bribery for retaining such a post suggest a conflict over whether civil servants are acting independently or are subject to political patronage. This reflects broader tensions between elected representatives and administrative officials.",
+     "related": [],
+     "story": {
+      "id": "india-allegations-of-administrative-misconduct",
+      "title": "Allegations of Administrative Misconduct",
+      "so_far": "In India, administrative transfers and appointments of district-level officials are often subject to political scrutiny. Allegations of corruption in these appointments are common points of contention between state-level ministers and the bureaucracy.",
+      "timeline": [
+       {
+        "date": "2026-11-08",
+        "text": "Minister Kumaraswamy accused Hassan Deputy Commissioner K.S. Latha Kumari of corruption, which she has denied.",
+        "link": "https://www.thehindu.com/news/national/karnataka/union-minister-hd-kumaraswamy-alleges-hassan-dc-retained-her-post-by-paying-bribe-district-minister/article71680844.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "468d599cda02",
+     "title": "No concrete proof yet from Indonesia for claim over rescued orangutans: Odisha Minister",
+     "link": "https://www.thehindu.com/news/national/odisha/no-concrete-proof-yet-from-indonesia-for-claim-over-rescued-orangutans-odisha-minister/article71680837.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-08T10:19:07+00:00",
+     "summary": "The Odisha government stated that Indonesia has yet to provide evidence that rescued orangutans originated from their country.",
+     "explain": "This involves international wildlife trade law. When an animal is rescued, its country of origin must be proven to facilitate repatriation. Odisha is emphasizing that a mere claim by another country is insufficient without documentation or genetic evidence confirming the animals were stolen from the wild in that specific territory.",
+     "related": [],
+     "story": {
+      "id": "india-wildlife-trade-dispute",
+      "title": "Wildlife Trade Dispute",
+      "so_far": "India has strict regulations regarding the import and possession of exotic wildlife. When animals are seized during illegal trade interceptions, they are held by state authorities while international provenance is investigated.",
+      "timeline": [
+       {
+        "date": "2026-11-08",
+        "text": "Odisha clarified that international claims over rescued animals require concrete evidence, which is currently missing.",
+        "link": "https://www.thehindu.com/news/national/odisha/no-concrete-proof-yet-from-indonesia-for-claim-over-rescued-orangutans-odisha-minister/article71680837.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "efbef7859196",
+     "title": "Telangana celebrates Deepavali with traditional fervour; Guv visits Bhagya Lakshmi temple",
+     "link": "https://www.thehindu.com/news/national/telangana/telangana-celebrates-deepavali-with-traditional-fervour-guv-visits-bhagya-lakshmi-temple/article71680833.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-08T10:15:47+00:00",
+     "summary": "Telangana officials and political leaders held public celebrations for Deepavali, including temple visits.",
+     "explain": "Public officials often participate in religious and cultural events to signal their respect for local traditions and connect with the public. These events are standard political practice during major holidays to project a sense of unity and normalcy.",
+     "related": [],
+     "story": {
+      "id": "india-regional-festival-observances",
+      "title": "Regional Festival Observances",
+      "so_far": "Deepavali (Diwali) is a major national festival. In states like Telangana, top leadership involvement in temple visits and public greetings is a routine way to demonstrate cultural engagement and state stability.",
+      "timeline": [
+       {
+        "date": "2026-11-08",
+        "text": "The Governor and several cabinet ministers participated in traditional Deepavali festivities in Hyderabad.",
+        "link": "https://www.thehindu.com/news/national/telangana/telangana-celebrates-deepavali-with-traditional-fervour-guv-visits-bhagya-lakshmi-temple/article71680833.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "7f297ba30210",
+     "title": "Primary Education Key To Social Transformation, Says Odisha Chief Minister",
+     "link": "https://www.ndtv.com/education/primary-education-key-to-social-transformation-says-odisha-chief-minister-12300029#publisher=newsstand",
+     "source": "NDTV News Search Records Found 1000",
+     "published": "2026-11-08T10:09:13+00:00",
+     "summary": "Odisha Chief Minister Majhi attended the inauguration of the Dharanidhar University South Campus, emphasizing education's role in social change.",
+     "explain": "University expansion projects are aimed at improving local literacy and professional training. By linking education to 'social transformation,' the Chief Minister is framing the investment in university infrastructure as a fundamental tool for long-term economic and social progress.",
+     "related": [],
+     "story": {
+      "id": "india-higher-education-development",
+      "title": "Higher Education Development",
+      "so_far": "Expanding university access is a key goal for Indian state governments to support economic development and skill building among rural and semi-urban populations.",
+      "timeline": [
+       {
+        "date": "2026-11-08",
+        "text": "The Chief Minister inaugurated a new university campus to expand access to primary and higher education in the region.",
+        "link": "https://www.ndtv.com/education/primary-education-key-to-social-transformation-says-odisha-chief-minister-12300029#publisher=newsstand",
         "source": "NDTV News Search Records Found 1000"
        }
       ]
      }
     },
     {
-     "id": "7b12567e8147",
-     "title": "A bridge between past and present",
-     "link": "https://www.thehindu.com/news/national/bihar/a-bridge-between-past-and-present/article71678324.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-07T23:12:10+00:00",
-     "summary": "The Bihar Museum has received international recognition by a German publication, marking it as one of the best museums globally. The museum is noted for its role in showcasing the development of Indian civilization.",
-     "explain": "Cultural recognition of this type promotes tourism and national pride. It highlights the shift toward modernizing how Indian history is displayed and accessed by the public.",
+     "id": "4e154c75ca35",
+     "title": "Army Cadet College January 2027 Registration Begins: Check Exam Date, Key Details",
+     "link": "https://www.ndtv.com/education/army-cadet-college-january-2027-registration-begins-check-exam-date-key-details-12299998#publisher=newsstand",
+     "source": "NDTV News Search Records Found 1000",
+     "published": "2026-11-08T09:59:55+00:00",
+     "summary": "Registration has opened for the Army Cadet College (ACC) entrance exam scheduled for January 4, 2027.",
+     "explain": "The Army Cadet College is an institution that trains soldiers to become commissioned officers. The exam allows current serving military personnel to transition into leadership roles. UPSC-conducted exams are standardized processes ensuring merit-based entry into India's defense services.",
      "related": [],
      "story": {
-      "id": "india-cultural-heritage-and-tourism-developmen",
-      "title": "Cultural Heritage and Tourism Development",
-      "so_far": "State governments in India have been investing in world-class museums to promote cultural tourism and preserve local history. These institutions are designed to be pedagogical and attract both domestic and international visitors.",
+      "id": "india-upsc-recruitment-results",
+      "title": "UPSC Recruitment Results",
+      "so_far": "The CDS exam is a competitive recruitment test for the Indian Military Academy, Officers Training Academy, Indian Naval Academy, and Indian Air Force Academy. It is conducted twice a year by the Union Public Service Commission (UPSC).",
       "timeline": [
        {
-        "date": "2026-11-07",
-        "text": "The Bihar Museum has gained international acclaim for its contributions to preserving Indian history.",
-        "link": "https://www.thehindu.com/news/national/bihar/a-bridge-between-past-and-present/article71678324.ece",
-        "source": "India Latest News: Top National Headline"
+        "date": "2026-10-20",
+        "text": "A total of 8,956 candidates have successfully qualified following the offline exam conducted on September 13, 2026.",
+        "link": "https://www.ndtv.com/education/upsc-combined-defence-services-2-result-2026-out-8-956-candidates-qualified-check-details-12208898#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-11-08",
+        "text": "The ACC entrance exam for January 2027 has been announced with an exam date of January 4.",
+        "link": "https://www.ndtv.com/education/army-cadet-college-january-2027-registration-begins-check-exam-date-key-details-12299998#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
        }
       ]
      }
     },
     {
-     "id": "3b139c3d6fee",
-     "title": "Ahead of Deepavali, Chhath festivals, migrants reach Bihar in hordes covering thousands of kilometers",
-     "link": "https://www.thehindu.com/news/national/bihar/ahead-of-deepavali-chhath-festivals-migrants-reach-bihar-in-hordes-covering-thousands-of-kilometers/article71678281.ece",
+     "id": "93917d875edd",
+     "title": "Vijayan demands withdrawal of circular allowing colleges to increase seats without Keralam Govt nod",
+     "link": "https://www.thehindu.com/news/national/kerala/vijayan-demands-withdrawal-of-circular-allowing-colleges-to-increase-seats-without-keralam-govt-nod/article71680815.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-07T22:23:43+00:00",
-     "summary": "Ahead of the Deepavali and Chhath festivals, migrants are returning to Bihar in large numbers, including some who traveled over 2,000 kilometers in a repurposed auto-rickshaw.",
-     "explain": "This illustrates the social and logistical impact of major festivals in India. The effort spent in traveling thousands of kilometers underscores the cultural importance of these holidays for migrant communities.",
+     "published": "2026-11-08T09:46:09+00:00",
+     "summary": "CPI(M) leader Pinarayi Vijayan requested that the Kerala government withdraw a circular regarding college seat increases.",
+     "explain": "This issue centers on the balance of power between autonomous educational institutions and government oversight. The government wants to maintain control over seat numbers to ensure equitable access and standards, while some colleges may prefer the flexibility to increase capacity independently to meet demand.",
      "related": [],
      "story": {
-      "id": "india-seasonal-migration-for-festivals",
-      "title": "Seasonal Migration for Festivals",
-      "so_far": "Chhath and Deepavali are major festivals that trigger mass travel movements in India. Migrant workers, often employed in metropolitan cities, prioritize returning to their home states to observe these cultural events with family.",
+      "id": "india-kerala-education-department-policy",
+      "title": "Kerala Education Department Policy",
+      "so_far": "Higher education administration in Kerala is strictly regulated by the state government. Debates regarding the autonomy of colleges versus government oversight are frequent, especially concerning admissions policies and course capacities.",
       "timeline": [
        {
-        "date": "2026-11-07",
-        "text": "Large numbers of migrant workers are making arduous journeys back to Bihar to celebrate traditional festivals.",
-        "link": "https://www.thehindu.com/news/national/bihar/ahead-of-deepavali-chhath-festivals-migrants-reach-bihar-in-hordes-covering-thousands-of-kilometers/article71678281.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "5c6cddf65a0a",
-     "title": "RJD MP Sanjay Yadav writes to President, seeks action against DU Professor Sangeet Ragi",
-     "link": "https://www.thehindu.com/news/national/bihar/rjd-mp-sanjay-yadav-writes-to-president-seeks-action-against-du-professor-sangeet-ragi/article71678647.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-07T22:06:02+00:00",
-     "summary": "RJD MP Sanjay Yadav has requested the President of India to take action against a Delhi University professor, Sangeet Ragi, over alleged abusive comments directed at the Yadav community.",
-     "explain": "This is an example of the ongoing friction between political representation and academic freedom. When public figures or professors make controversial statements about communities, it often leads to formal demands for censure or investigation as part of the country's accountability processes.",
-     "related": [],
-     "story": {
-      "id": "india-political-discourse-and-community-relati",
-      "title": "Political Discourse and Community Relations",
-      "so_far": "Indian political discourse often involves tensions between community identities and public figures. Allegations of disparaging remarks frequently lead to petitions for legal or administrative action by higher authorities.",
-      "timeline": [
-       {
-        "date": "2026-11-07",
-        "text": "A formal complaint has been filed by a politician against an academic regarding alleged derogatory language used against a specific social group.",
-        "link": "https://www.thehindu.com/news/national/bihar/rjd-mp-sanjay-yadav-writes-to-president-seeks-action-against-du-professor-sangeet-ragi/article71678647.ece",
+        "date": "2026-11-08",
+        "text": "Vijayan criticized a circular that permits colleges to increase seat capacity without prior state approval.",
+        "link": "https://www.thehindu.com/news/national/kerala/vijayan-demands-withdrawal-of-circular-allowing-colleges-to-increase-seats-without-keralam-govt-nod/article71680815.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
@@ -1423,6 +1231,35 @@
   "world": {
    "label": "World",
    "articles": [
+    {
+     "id": "db8c6aa7d8eb",
+     "title": "US military attacks cargo ship in the Gulf of Oman",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-08T08:24:37+00:00",
+     "summary": "The U.S. military disabled a St. Kitts-flagged cargo ship in the Gulf of Oman, according to a recent announcement.",
+     "explain": "The U.S. military fired on a ship to stop it from leaving the area after it visited an Iranian port. This move highlights ongoing efforts by the U.S. to monitor and restrict Iranian maritime activity, which it often links to regional destabilization or sanctions evasion. 'Precision munitions' are guided weapons designed to hit a specific target with high accuracy while minimizing collateral damage.",
+     "related": [],
+     "story": {
+      "id": "world-u-s-military-action-in-gulf-of-oman",
+      "title": "U.S. Military Action in Gulf of Oman",
+      "so_far": "The Gulf of Oman is a critical maritime corridor for global oil supplies, connecting the Persian Gulf to the Arabian Sea. Tensions in the region remain elevated due to the ongoing standoff between the United States and Iran, often involving surveillance of shipping suspected of violating sanctions or carrying illicit cargo.",
+      "timeline": [
+       {
+        "date": "2026-11-07",
+        "text": "U.S. forces directed the crew to leave the vessel before firing precision munitions at the ship's stern.",
+        "link": "https://www.thehindu.com/news/international/us-military-says-it-disabled-cargo-vessel-in-gulf-of-oman/article71679590.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-08",
+        "text": "The U.S. military confirmed it used precision munitions to disable a cargo vessel in the Gulf of Oman following its departure from an Iranian port.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
     {
      "id": "50e653c00d17",
      "title": "Paraguay's ousted President charged with crimes linked to collapse of major bank",
@@ -1449,6 +1286,12 @@
        "title": "How a bank collapse in Paraguay brought down the country’s President | Explained",
        "link": "https://www.thehindu.com/news/international/how-a-bank-collapse-in-paraguay-brought-down-the-countrys-president-explained/article71677767.ece",
        "source": "World News: Latest International News & "
+      },
+      {
+       "date": "2026-11-07",
+       "title": "Paraguay's former president charged after bank collapse",
+       "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC News"
       }
      ],
      "story": {
@@ -1472,66 +1315,30 @@
      }
     },
     {
-     "id": "86e65c720617",
-     "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
-     "link": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-07T20:26:58+00:00",
-     "summary": "Israeli President Isaac Herzog has tasked former military chief Gadi Eisenkot with forming a new government, challenging incumbent Prime Minister Benjamin Netanyahu.",
-     "explain": "In Israel's parliamentary system, a prime minister must maintain a majority (61 out of 120 seats) in the Knesset to govern effectively. Forming a government often requires creating a 'coalition' by negotiating with multiple political parties, which can be difficult if those parties have conflicting ideologies. The 'Knesset' is Israel's legislative body, and this process is critical because failing to secure a majority can lead to new national elections.",
-     "related": [
-      {
-       "date": "2026-10-28",
-       "title": "Israel polls: Golan urges Eisenkot's bloc to form government with Arab parties to oust Netanyahu",
-       "link": "https://www.thehindu.com/news/international/israel-polls-golan-urges-eisenkots-bloc-to-form-government-with-arab-parties-to-oust-netanyahu/article71635413.ece",
-       "source": "World News: Latest International News & "
-      }
-     ],
-     "story": {
-      "id": "world-israel-government-formation-standoff",
-      "title": "Israel Government Formation Standoff",
-      "so_far": "Israel is currently navigating a period of political transition following recent parliamentary developments. With President Herzog's decision to bypass Netanyahu, the focus has shifted to Eisenkot's ability to build a coalition in the Knesset.",
-      "timeline": [
-       {
-        "date": "2026-11-07",
-        "text": "Gadi Eisenkot has been given 28 days to secure a parliamentary majority to replace Benjamin Netanyahu.",
-        "link": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-11-07",
-        "text": "Eisenkot is struggling to find the necessary support to replace Netanyahu because he refuses to align with Arab-led political factions.",
-        "link": "https://www.thehindu.com/news/international/israeli-president-picks-gadi-eisenkot-netanyahu-rival-to-try-to-form-government/article71679477.ece",
-        "source": "World News: Latest International News & "
-       }
-      ]
-     }
-    },
-    {
-     "id": "552652e8a72d",
-     "title": "Israeli President picks Gadi Eisenkot, Netanyahu rival, to try to form government",
-     "link": "https://www.thehindu.com/news/international/israeli-president-picks-gadi-eisenkot-netanyahu-rival-to-try-to-form-government/article71679477.ece",
+     "id": "79c8ef523e32",
+     "title": "U.S. military says it disabled cargo vessel in Gulf of Oman",
+     "link": "https://www.thehindu.com/news/international/us-military-says-it-disabled-cargo-vessel-in-gulf-of-oman/article71679590.ece",
      "source": "World News: Latest International News & ",
-     "published": "2026-11-07T20:23:54+00:00",
-     "summary": "Gadi Eisenkot faces difficulty forming a coalition as he has ruled out cooperation with Arab parties, complicating his path to a parliamentary majority.",
-     "explain": "A political coalition in Israel often relies on diverse parties, including those representing the Arab minority, to cross the 61-seat threshold. By declining to partner with these factions, Eisenkot narrows his pool of potential allies, potentially leaving him unable to form a government and forcing the country into another round of elections.",
+     "published": "2026-11-07T23:03:58+00:00",
+     "summary": "U.S. Central Command reported that it successfully disabled a cargo vessel in the Gulf of Oman after a standoff.",
+     "explain": "The U.S. military took direct action to disable a ship after ordering its crew to abandon it. This type of intervention is a calculated move to prevent a vessel from continuing a voyage deemed suspicious by U.S. forces, specifically regarding the ship's previous stop in Iran.",
      "related": [],
      "story": {
-      "id": "world-israel-government-formation-standoff",
-      "title": "Israel Government Formation Standoff",
-      "so_far": "Israel is currently navigating a period of political transition following recent parliamentary developments. With President Herzog's decision to bypass Netanyahu, the focus has shifted to Eisenkot's ability to build a coalition in the Knesset.",
+      "id": "world-u-s-military-action-in-gulf-of-oman",
+      "title": "U.S. Military Action in Gulf of Oman",
+      "so_far": "The Gulf of Oman is a critical maritime corridor for global oil supplies, connecting the Persian Gulf to the Arabian Sea. Tensions in the region remain elevated due to the ongoing standoff between the United States and Iran, often involving surveillance of shipping suspected of violating sanctions or carrying illicit cargo.",
       "timeline": [
        {
         "date": "2026-11-07",
-        "text": "Gadi Eisenkot has been given 28 days to secure a parliamentary majority to replace Benjamin Netanyahu.",
-        "link": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
+        "text": "U.S. forces directed the crew to leave the vessel before firing precision munitions at the ship's stern.",
+        "link": "https://www.thehindu.com/news/international/us-military-says-it-disabled-cargo-vessel-in-gulf-of-oman/article71679590.ece",
+        "source": "World News: Latest International News & "
        },
        {
-        "date": "2026-11-07",
-        "text": "Eisenkot is struggling to find the necessary support to replace Netanyahu because he refuses to align with Arab-led political factions.",
-        "link": "https://www.thehindu.com/news/international/israeli-president-picks-gadi-eisenkot-netanyahu-rival-to-try-to-form-government/article71679477.ece",
-        "source": "World News: Latest International News & "
+        "date": "2026-11-08",
+        "text": "The U.S. military confirmed it used precision munitions to disable a cargo vessel in the Gulf of Oman following its departure from an Iranian port.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
        }
       ]
      }
@@ -1579,35 +1386,6 @@
      }
     },
     {
-     "id": "16341eeb3ac1",
-     "title": "Houston mayor orders police to limit cooperation with ICE",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houston-mayor-orders-police-to-limit-cooperation-with-ice?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-07T18:55:40+00:00",
-     "summary": "Houston Mayor John Whitmire has directed local police to restrict cooperation with federal immigration agents (ICE).",
-     "explain": "ICE is the U.S. Immigration and Customs Enforcement agency responsible for enforcing federal immigration laws. When a city limits cooperation with ICE, it typically means local police will not use their resources to assist in identifying or detaining individuals solely for immigration violations. This is often done to maintain trust between the police and immigrant communities, ensuring that residents feel safe reporting crimes without fear of deportation.",
-     "related": [],
-     "story": {
-      "id": "world-houston-police-immigration-policy-shift",
-      "title": "Houston Police Immigration Policy Shift",
-      "so_far": "The relationship between local law enforcement and federal immigration authorities has been a point of contention in many U.S. cities. Houston's policy shift reflects ongoing national debates regarding how local police departments interact with undocumented individuals and federal agencies.",
-      "timeline": [
-       {
-        "date": "2026-11-07",
-        "text": "The Houston mayor has officially ordered police to limit their interaction with ICE, reversing previous city policy.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houston-mayor-orders-police-to-limit-cooperation-with-ice?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-11-07",
-        "text": "Public pressure following a fatal shooting by an ICE officer has spurred the city's decision to decouple local police from immigration enforcement.",
-        "link": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       }
-      ]
-     }
-    },
-    {
      "id": "e42016e1df34",
      "title": "US offers $20m reward for information about Iran's nuclear programme",
      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
@@ -1619,14 +1397,8 @@
      "story": {
       "id": "world-u-s-iran-diplomatic-standoff",
       "title": "U.S.-Iran Diplomatic Standoff",
-      "so_far": "The U.S.-Iran relationship remains highly volatile, characterized by nuclear tensions and regional proxy wars. Previous efforts to manage this standoff through diplomacy have frequently been overshadowed by aggressive rhetoric and sanctions from both sides.",
+      "so_far": "The U.S.-Iran relationship is defined by deep hostility, centering on Iran's nuclear development, ballistic missile program, and support for regional proxy groups. Past diplomacy has largely stalled, replaced by a strategy of 'maximum pressure' through sanctions and covert monitoring to prevent Iran from acquiring nuclear weapons capabilities.",
       "timeline": [
-       {
-        "date": "2026-10-29",
-        "text": "The IRGC alleges the affected vessels were operating with navigation systems turned off and failed to heed official warnings before hitting mines.",
-        "link": "https://www.thehindu.com/news/international/iran-says-four-tankers-on-fire-after-hitting-mines-in-hormuz/article71642019.ece",
-        "source": "World News: Latest International News & "
-       },
        {
         "date": "2026-10-30",
         "text": "The IRGC reports that four tankers have been damaged by mines in the Strait of Hormuz.",
@@ -1692,6 +1464,12 @@
         "text": "The U.S. is using financial incentives to gather intelligence on Iran's nuclear program amidst threats of potential military strikes.",
         "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+       },
+       {
+        "date": "2026-11-07",
+        "text": "The U.S. government announced a $20 million reward through the Rewards for Justice program for intelligence related to Iran's nuclear activities.",
+        "link": "https://www.thehindu.com/news/international/united-states-offers-20-million-reward-for-information-on-irans-nuclear-program-centcom/article71677324.ece",
+        "source": "World News: Latest International News & "
        }
       ]
      }
@@ -1791,30 +1569,113 @@
      }
     },
     {
-     "id": "8ab71ad49fc1",
-     "title": "Texas mayor instructs police to limit co-operation with ICE",
-     "link": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-07T08:15:55+00:00",
-     "summary": "Houston's policy to limit cooperation with ICE follows months of public outcry over the shooting of a commuter by a federal agent.",
-     "explain": "The policy shift in Houston is a direct response to community trauma and anger. When a federal agent kills a citizen, the local population often demands that the city distance itself from that agency to avoid being associated with the agent's actions. This highlights the tension between federal mandates and local community concerns regarding the role of law enforcement.",
+     "id": "ce0561846be5",
+     "title": "United States offers $20 million reward for information on 'Iran's nuclear program': CENTCOM",
+     "link": "https://www.thehindu.com/news/international/united-states-offers-20-million-reward-for-information-on-irans-nuclear-program-centcom/article71677324.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-11-07T05:12:15+00:00",
+     "summary": "The U.S. State Department is offering a $20 million reward for information concerning Iran's nuclear program.",
+     "explain": "The U.S. is using financial incentives to gather intelligence on Iran's nuclear program. This is a common tactic in international relations to pressure foreign governments by seeking internal information or secrets. The 'Rewards for Justice' program is a U.S. State Department initiative that pays for information leading to the disruption of national security threats.",
      "related": [],
      "story": {
-      "id": "world-houston-police-immigration-policy-shift",
-      "title": "Houston Police Immigration Policy Shift",
-      "so_far": "The relationship between local law enforcement and federal immigration authorities has been a point of contention in many U.S. cities. Houston's policy shift reflects ongoing national debates regarding how local police departments interact with undocumented individuals and federal agencies.",
+      "id": "world-u-s-iran-diplomatic-standoff",
+      "title": "U.S.-Iran Diplomatic Standoff",
+      "so_far": "The U.S.-Iran relationship is defined by deep hostility, centering on Iran's nuclear development, ballistic missile program, and support for regional proxy groups. Past diplomacy has largely stalled, replaced by a strategy of 'maximum pressure' through sanctions and covert monitoring to prevent Iran from acquiring nuclear weapons capabilities.",
       "timeline": [
        {
-        "date": "2026-11-07",
-        "text": "The Houston mayor has officially ordered police to limit their interaction with ICE, reversing previous city policy.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houston-mayor-orders-police-to-limit-cooperation-with-ice?traffic_source=rss",
+        "date": "2026-10-30",
+        "text": "The IRGC reports that four tankers have been damaged by mines in the Strait of Hormuz.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-30",
+        "text": "The U.S. is signaling a dual-track approach of potential military action and outreach, though trust issues remain.",
+        "link": "https://www.aljazeera.com/news/2026/10/30/us-weighs-new-iran-strikes-as-vance-reaches-out-is-war-or-a-deal-closer?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-11-02",
+        "text": "China is actively engaging in diplomacy with Iranian officials to push for a negotiated resolution to regional conflicts.",
+        "link": "https://www.thehindu.com/news/international/west-asia-conflict-chinas-foreign-minister-pushes-for-dialogue/article71656273.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-02",
+        "text": "Iran has signaled a potential 'good-faith' plan to reopen the critical shipping lane within 48 hours.",
+        "link": "https://www.thehindu.com/news/international/iran-says-considering-two-day-plan-to-reopen-hormuz/article71656060.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-03",
+        "text": "The U.S. reportedly conducted limited, covert strikes on Qeshm Island, strategically keeping the scope narrow to avoid full-scale military confrontation.",
+        "link": "https://www.thehindu.com/news/international/us-strikes-irans-qeshm-island-report/article71659212.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-03",
+        "text": "The U.S. carried out limited defensive strikes on Qeshm Island as tensions persist despite ongoing diplomatic discussions.",
+        "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-11-03",
+        "text": "U.S. leadership signaled optimism regarding potential diplomatic settlements with Iran despite ongoing regional military friction.",
+        "link": "https://www.thehindu.com/news/international/us-strikes-iran-strait-of-hormuz-midterm-elections-trump-netanyahu-vance/article71659244.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-03",
+        "text": "Despite military action, Iranian officials appear to be signaling a commitment to ongoing diplomatic tracks.",
+        "link": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-11-03",
+        "text": "Hostility persists as a billboard threatening Donald Trump’s life was erected in Tehran's Enghelab Square.",
+        "link": "https://www.thehindu.com/news/international/iran-unveils-huge-billboard-with-threat-against-donald-trumps-life/article71660523.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-03",
+        "text": "Multiple defensive strikes were reported on Qeshm Island, marking a significant escalation in the recent cycle of regional activity.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/us-conducts-series-of-defensive-strikes-against-iran?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
        },
        {
         "date": "2026-11-07",
-        "text": "Public pressure following a fatal shooting by an ICE officer has spurred the city's decision to decouple local police from immigration enforcement.",
-        "link": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
+        "text": "The U.S. is using financial incentives to gather intelligence on Iran's nuclear program amidst threats of potential military strikes.",
+        "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+       },
+       {
+        "date": "2026-11-07",
+        "text": "The U.S. government announced a $20 million reward through the Rewards for Justice program for intelligence related to Iran's nuclear activities.",
+        "link": "https://www.thehindu.com/news/international/united-states-offers-20-million-reward-for-information-on-irans-nuclear-program-centcom/article71677324.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "3437a70be82c",
+     "title": "Poland mourns victims of Krakow mass shooting as security fears grow",
+     "link": "https://www.thehindu.com/news/international/poland-mourns-victims-of-krakow-mass-shooting-as-security-fears-grow/article71680839.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-11-08T10:39:52+00:00",
+     "summary": "Poland is observing a mourning period following a mass shooting in Krakow that resulted in 17 casualties.",
+     "explain": "A mass shooting occurred in Krakow, Poland, causing significant casualties and prompting public mourning. While the details of the gunman's motives are still being investigated, the event has raised fears about security in a country where such violence is uncommon. Authorities are now managing the aftermath, including supporting the victims and investigating how the violence unfolded.",
+     "related": [],
+     "story": {
+      "id": "world-krakow-mass-shooting",
+      "title": "Krakow Mass Shooting",
+      "so_far": "Poland has historically maintained strict control over firearms, and mass shootings are extremely rare in the country compared to other nations. The incident has triggered national concern regarding public safety and the potential for increased domestic threats in a major urban center like Krakow.",
+      "timeline": [
+       {
+        "date": "2026-11-08",
+        "text": "Authorities confirmed that 17 people, including two police officers and the shooter, were wounded or killed during the mass shooting in Krakow.",
+        "link": "https://www.thehindu.com/news/international/poland-mourns-victims-of-krakow-mass-shooting-as-security-fears-grow/article71680839.ece",
+        "source": "World News: Latest International News & "
        }
       ]
      }
@@ -1825,315 +1686,362 @@
    "label": "Business & Finance",
    "articles": [
     {
-     "id": "0ecf17f74897",
-     "title": "Costa Rica shell entity and unauthorised foreign transactions - what ED raids at CoinDCX and Delta Exchange found",
-     "link": "https://www.livemint.com/companies/news/costa-rica-shell-entity-and-unauthorised-foreign-transactions-what-ed-raids-at-coindcx-and-delta-exchange-found-11794103231236.html",
-     "source": "mint - companies",
-     "published": "2026-11-08T02:19:25+00:00",
-     "summary": "India's Enforcement Directorate (ED) raided crypto exchanges CoinDCX and Delta Exchange regarding suspected violations of the Foreign Exchange Management Act (FEMA). The investigation involves the use of unauthorized overseas transactions and stablecoins.",
-     "explain": "The ED is investigating whether these platforms bypassed Indian financial laws to move money abroad using crypto derivatives and digital tokens. FEMA is the primary legislation in India governing foreign exchange transactions; violating it can lead to heavy penalties. Stablecoins are cryptocurrencies pegged to a stable asset like the US dollar to minimize price volatility.",
+     "id": "c3f0d84457e1",
+     "title": "Adani Enterprises plans ₹40,000 cr annual capex over two years",
+     "link": "https://www.thehindubusinessline.com/companies/adani-enterprises-plans-35000-40000-cr-annual-capex-in-next-two-years/article71680572.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-08T06:06:08+00:00",
+     "summary": "Adani Enterprises plans a capital expenditure of ₹40,000 crore annually over the next two years to accelerate infrastructure projects.",
+     "explain": "Capital expenditure, or 'capex,' is the money a company spends on major physical assets like buildings, equipment, or infrastructure. This significant investment signals that Adani is confident in the long-term growth of its current projects and is scaling up its operational capacity to meet future market needs.",
      "related": [],
      "story": {
-      "id": "business-crypto-exchanges-under-ed-investigation",
-      "title": "Crypto Exchanges Under ED Investigation",
-      "so_far": "Indian regulatory bodies like the Enforcement Directorate (ED) and the Financial Intelligence Unit (FIU) have been intensifying oversight of the cryptocurrency sector. This scrutiny focuses on anti-money laundering compliance and the prevention of unauthorized capital outflows that could violate the Foreign Exchange Management Act (FEMA).",
+      "id": "business-adani-enterprises-infrastructure-expansi",
+      "title": "Adani Enterprises Infrastructure Expansion",
+      "so_far": "Adani Enterprises, the flagship company of the Adani Group, oversees a diverse portfolio including airports, power, and data infrastructure. The company has been in a phase of aggressive infrastructure development, focusing on large-scale capital projects across India to capitalize on growing demand in domestic logistics and digital sectors.",
       "timeline": [
        {
         "date": "2026-11-08",
-        "text": "India's Enforcement Directorate (ED) raided crypto exchanges CoinDCX and Delta Exchange regarding suspected violations of the Foreign Exchange Management Act (FEMA). The investigation involves the use of unauthorized overseas transactions and stablecoins.",
-        "link": "https://www.livemint.com/companies/news/costa-rica-shell-entity-and-unauthorised-foreign-transactions-what-ed-raids-at-coindcx-and-delta-exchange-found-11794103231236.html",
-        "source": "mint - companies"
-       }
-      ]
-     }
-    },
-    {
-     "id": "3f37f537ccf1",
-     "title": "Berkshire surprised with record buybacks, but pace slowed as the stock rose",
-     "link": "https://www.livemint.com/companies/news/berkshire-surprised-with-record-buybacks-but-pace-slowed-as-the-stock-rose-11794102777738.html",
-     "source": "mint - companies",
-     "published": "2026-11-08T01:55:15+00:00",
-     "summary": "Berkshire Hathaway reported record share buybacks in its third-quarter results, while also seeing strong performance from its BNSF railroad unit and profit declines in its insurance sector.",
-     "explain": "A share buyback occurs when a company uses its own cash to purchase its outstanding shares, which typically boosts the value of the remaining shares held by investors. BNSF is one of North America's largest freight railroad networks, making it a critical indicator for supply chain and industrial activity.",
-     "related": [],
-     "story": {
-      "id": "business-berkshire-hathaway-quarterly-performance",
-      "title": "Berkshire Hathaway Quarterly Performance",
-      "so_far": "Berkshire Hathaway, led by Warren Buffett, is a massive American conglomerate with diverse holdings ranging from insurance and energy to manufacturing and railroads. The company is often viewed as a bellwether for the health of the US economy, and its quarterly results are closely watched by global investors.",
-      "timeline": [
-       {
-        "date": "2026-11-08",
-        "text": "Berkshire Hathaway reported record share buybacks in its third-quarter results, while also seeing strong performance from its BNSF railroad unit and profit declines in its insurance sector.",
-        "link": "https://www.livemint.com/companies/news/berkshire-surprised-with-record-buybacks-but-pace-slowed-as-the-stock-rose-11794102777738.html",
-        "source": "mint - companies"
-       }
-      ]
-     }
-    },
-    {
-     "id": "f38e71309e2e",
-     "title": "Not so sweet! FSSAI seizes ₹82 crore food haul",
-     "link": "https://economictimes.indiatimes.com/industry/cons-products/food/sweet-trouble-this-diwali-rs-82-crore-worth-of-food-1185-licences-come-under-fssai-scanner/articleshow/135649427.cms",
-     "source": "Economic Times",
-     "published": "2026-11-08T01:55:02+00:00",
-     "summary": "The Food Safety and Standards Authority of India (FSSAI) seized a food haul worth ₹82 crore for safety violations.",
-     "explain": "FSSAI is the government agency responsible for enforcing standards on food safety and quality in India. Seizing products often happens when goods are found to be adulterated, mislabeled, or manufactured in unsanitary conditions, particularly during festive periods when consumption spikes.",
-     "related": [],
-     "story": {
-      "id": "business-fssai-labeling-mandates",
-      "title": "FSSAI Labeling Mandates",
-      "so_far": "The Food Safety and Standards Authority of India (FSSAI) is the primary regulatory body for food and supplements. They frequently update guidelines to ensure consumer safety regarding health claims and ingredients.",
-      "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "India's food regulator, FSSAI, has issued a directive requiring nutraceutical manufacturers to include warning statements on products containing herbs, under threat of license suspension.",
-        "link": "https://www.thehindubusinessline.com/companies/fssai-directs-nutraceutical-makers-to-ensure-mandatory-warning-statements-on-products-with-herbal-extracts/article71604130.ece",
+        "text": "The conglomerate is committing to a substantial annual capex of ₹40,000 crore for the next two years to advance its airport, data center, and manufacturing projects.",
+        "link": "https://www.thehindubusinessline.com/companies/adani-enterprises-plans-35000-40000-cr-annual-capex-in-next-two-years/article71680572.ece",
         "source": "Business News Today: Latest Business New"
        },
+       {
+        "date": "2026-11-08",
+        "text": "The company clarified its annual capex guidance to be in the range of ₹35,000-40,000 crore.",
+        "link": "https://economictimes.indiatimes.com/news/company/corporate-trends/adani-enterprises-plans-rs-35000-40000-crore-annual-capex-in-next-two-years/articleshow/135651827.cms",
+        "source": "Economic Times"
+       }
+      ]
+     }
+    },
+    {
+     "id": "8ccbd660d9c3",
+     "title": "Adani plans ₹35,000-40,000 crore annual capex",
+     "link": "https://economictimes.indiatimes.com/news/company/corporate-trends/adani-enterprises-plans-rs-35000-40000-crore-annual-capex-in-next-two-years/articleshow/135651827.cms",
+     "source": "Economic Times",
+     "published": "2026-11-08T05:09:07+00:00",
+     "summary": "Adani Enterprises confirms plans for an annual capital expenditure of ₹35,000-40,000 crore.",
+     "explain": "This confirms the company's commitment to heavy investment in infrastructure. Consistent capex at this scale is a key indicator of a company's growth strategy and its ability to finance large-scale developments.",
+     "related": [],
+     "story": {
+      "id": "business-adani-enterprises-infrastructure-expansi",
+      "title": "Adani Enterprises Infrastructure Expansion",
+      "so_far": "Adani Enterprises, the flagship company of the Adani Group, oversees a diverse portfolio including airports, power, and data infrastructure. The company has been in a phase of aggressive infrastructure development, focusing on large-scale capital projects across India to capitalize on growing demand in domestic logistics and digital sectors.",
+      "timeline": [
+       {
+        "date": "2026-11-08",
+        "text": "The conglomerate is committing to a substantial annual capex of ₹40,000 crore for the next two years to advance its airport, data center, and manufacturing projects.",
+        "link": "https://www.thehindubusinessline.com/companies/adani-enterprises-plans-35000-40000-cr-annual-capex-in-next-two-years/article71680572.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-08",
+        "text": "The company clarified its annual capex guidance to be in the range of ₹35,000-40,000 crore.",
+        "link": "https://economictimes.indiatimes.com/news/company/corporate-trends/adani-enterprises-plans-rs-35000-40000-crore-annual-capex-in-next-two-years/articleshow/135651827.cms",
+        "source": "Economic Times"
+       }
+      ]
+     }
+    },
+    {
+     "id": "f5a3ec790708",
+     "title": "Stock markets end marginally lower in special Muhurat trading, snapping 7-day rally",
+     "link": "https://www.thehindubusinessline.com/markets/stock-markets-end-marginally-lower-in-special-muhurat-trading-snapping-7-day-rally/article71680873.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-08T11:06:43+00:00",
+     "summary": "Indian stock markets ended slightly lower following special Muhurat trading sessions, ending a seven-day rally.",
+     "explain": "Muhurat trading is a brief, one-hour trading window held on the first day of the new Hindu calendar year. Investors and traders perform this to mark a prosperous beginning. The slight dip after a long rally is common in markets, as traders often take profits after a sustained period of price increases.",
+     "related": [],
+     "story": {
+      "id": "business-indian-stock-market-performance",
+      "title": "Indian Stock Market Performance",
+      "so_far": "The Indian stock market frequently observes a 'Muhurat' trading session during Diwali, which is considered an auspicious time for investors to begin new financial ventures. It is a brief, symbolic session that often reflects the prevailing investor sentiment at the start of the Hindu financial year, known as Samvat.",
+      "timeline": [
+       {
+        "date": "2026-10-26",
+        "text": "The Sensex rose by 482.92 points to finish at 73,606.75, while the Nifty gained 153.20 points to reach 22,753.20.",
+        "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-26-october-2026/article71622964.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-08",
+        "text": "The market closed marginally down at 80,999.40 after a week of consistent gains.",
+        "link": "https://www.thehindubusinessline.com/markets/stock-markets-end-marginally-lower-in-special-muhurat-trading-snapping-7-day-rally/article71680873.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "a347c08bfc10",
+     "title": "Gangster Afridi deported after 10-month manhunt",
+     "link": "https://economictimes.indiatimes.com/news/india/deportation-of-wanted-gangster-afridi-secured-after-10-month-international-manhunt/articleshow/135657033.cms",
+     "source": "Economic Times",
+     "published": "2026-11-08T10:58:38+00:00",
+     "summary": "A fugitive gangster known as Afridi was deported to India following a 10-month international manhunt.",
+     "explain": "Deportation involves a foreign government sending an individual back to their home country, usually for legal or immigration violations. In this context, it represents a successful conclusion to an effort by Indian agencies to bring a criminal to justice who had been hiding abroad.",
+     "related": [],
+     "story": {
+      "id": "business-fugitive-criminal-deportation",
+      "title": "Fugitive Criminal Deportation",
+      "so_far": "International cooperation between Indian law enforcement and foreign governments is essential for apprehending fugitives who flee the country to escape prosecution. Extradition and deportation processes are complex legal procedures that rely on international treaties and bilateral diplomatic relations.",
+      "timeline": [
+       {
+        "date": "2026-11-08",
+        "text": "After a 10-month pursuit, the gangster was successfully deported to face legal proceedings in India.",
+        "link": "https://economictimes.indiatimes.com/news/india/deportation-of-wanted-gangster-afridi-secured-after-10-month-international-manhunt/articleshow/135657033.cms",
+        "source": "Economic Times"
+       }
+      ]
+     }
+    },
+    {
+     "id": "db316a097f88",
+     "title": "Saudi Arabia intercepts missiles as Aramco building in Riyadh damaged, other Mideast news",
+     "link": "https://www.thehindubusinessline.com/news/world/saudi-arabia-intercepts-missiles-as-aramco-building-in-riyadh-damaged-other-mideast-news/article71680852.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-08T10:45:31+00:00",
+     "summary": "An Aramco building in Riyadh was damaged following a missile and drone attack, with no immediate claim of responsibility.",
+     "explain": "The Houthi movement is an insurgent group based in Yemen that frequently engages in regional conflicts, often targeting infrastructure in neighboring Saudi Arabia. Such attacks cause significant concern for global energy markets because they occur near major oil facilities, which are vital for the world's crude supply.",
+     "related": [],
+     "story": {
+      "id": "business-houthi-mediation-efforts",
+      "title": "Houthi Mediation Efforts",
+      "so_far": "The Houthi movement frequently conducts missile and drone attacks in the region, which periodically force regional airports and shipping lanes to suspend operations. These security incidents impact international travel and logistics across the Middle East.",
+      "timeline": [
        {
         "date": "2026-10-21",
-        "text": "The regulator has formally questioned the promotional claims of infant nutrition products Lactogen Pro 1 and Nan Excella Pro.",
-        "link": "https://www.thehindubusinessline.com/companies/fssai-issues-notices-to-zydus-wellness-nestle-india/article71608447.ece",
+        "text": "Efforts to establish mediation with the Houthis have stalled as they have failed to respond to recent calls.",
+        "link": "https://economictimes.indiatimes.com/news/international/world-news/iran-says-saudi-arabia-houthis-have-not-answered-mediation-offer/articleshow/135079284.cms",
+        "source": "Economic Times"
+       },
+       {
+        "date": "2026-10-25",
+        "text": "Commercial flight operations have returned to normal at Riyadh airport following recent security concerns linked to the Houthi conflict.",
+        "link": "https://www.thehindubusinessline.com/news/world/riyadh-airport-resumes-flights-as-saudis-fight-houthi-missiles/article71622883.ece",
         "source": "Business News Today: Latest Business New"
        },
+       {
+        "date": "2026-11-08",
+        "text": "A missile attack targeted a commercial site in Riyadh, damaging an Aramco building, though no deaths were reported.",
+        "link": "https://www.thehindubusinessline.com/news/world/saudi-arabia-intercepts-missiles-as-aramco-building-in-riyadh-damaged-other-mideast-news/article71680852.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-08",
+        "text": "Aramco confirmed damage to its tower in Riyadh's financial district, noting that the site remains operational as no staff were injured.",
+        "link": "https://www.thehindubusinessline.com/news/world/aramco-tower-in-riyadhs-financial-hub-damaged-after-attack/article71680816.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "bcff8935f2a6",
+     "title": "Modi warns of 'dimagi Naxals' in political parties",
+     "link": "https://economictimes.indiatimes.com/news/politics-and-nation/maoists-gone-but-dimagi-naxals-instigating-people-against-constitution-and-democracy-pm-modi/articleshow/135657039.cms",
+     "source": "Economic Times",
+     "published": "2026-11-08T10:42:07+00:00",
+     "summary": "Prime Minister Narendra Modi criticized political opponents, referring to them as 'dimagi Naxals' who undermine the constitution.",
+     "explain": "The term 'dimagi Naxal' (literally 'intellectual Naxal') is a rhetorical device used by political leaders to label critics or opponents as harboring radical, anti-establishment ideologies. It suggests that while the armed physical insurgency has subsided, the underlying ideology persists among intellectuals or political actors.",
+     "related": [],
+     "story": {
+      "id": "business-political-rhetoric-in-india",
+      "title": "Political Rhetoric in India",
+      "so_far": "In Indian political discourse, 'Naxal' refers to an extremist leftist ideology that historically relied on armed rebellion. The government has focused on curbing these groups' influence and violence over several years, leading to claims that the armed struggle has been largely neutralized.",
+      "timeline": [
+       {
+        "date": "2026-11-08",
+        "text": "PM Modi accused political opponents of harboring an ideology that works against the Constitution despite the end of active Naxalite violence.",
+        "link": "https://economictimes.indiatimes.com/news/politics-and-nation/maoists-gone-but-dimagi-naxals-instigating-people-against-constitution-and-democracy-pm-modi/articleshow/135657039.cms",
+        "source": "Economic Times"
+       },
+       {
+        "date": "2026-11-08",
+        "text": "The Prime Minister linked the fight against Maoist ideology to the protection of the Constitution and national unity.",
+        "link": "https://www.thehindubusinessline.com/news/national/armed-maoists-gone-but-dimagi-naxals-instigating-people-against-constitution-modi/article71680806.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "68ed6ac61794",
+     "title": "Aramco Tower in Riyadh’s financial hub damaged after attack",
+     "link": "https://www.thehindubusinessline.com/news/world/aramco-tower-in-riyadhs-financial-hub-damaged-after-attack/article71680816.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-08T09:31:57+00:00",
+     "summary": "The Aramco tower in Riyadh’s financial center sustained damage after being struck in a security incident; there were no casualties.",
+     "explain": "Aramco is Saudi Arabia's state-owned oil giant and one of the world's most valuable companies. Attacks on its infrastructure in a major city like Riyadh demonstrate a escalation in regional security risks, potentially impacting investor confidence in the region's stability.",
+     "related": [],
+     "story": {
+      "id": "business-houthi-mediation-efforts",
+      "title": "Houthi Mediation Efforts",
+      "so_far": "The Houthi movement frequently conducts missile and drone attacks in the region, which periodically force regional airports and shipping lanes to suspend operations. These security incidents impact international travel and logistics across the Middle East.",
+      "timeline": [
        {
         "date": "2026-10-21",
-        "text": "The FSSAI notice specifically targets the Lactogen product range for compliance issues.",
-        "link": "https://economictimes.indiatimes.com/industry/cons-products/food/fssai-issues-notice-to-nestle-india-over-lactogen-pro-1-digestion-claim/articleshow/135094109.cms",
+        "text": "Efforts to establish mediation with the Houthis have stalled as they have failed to respond to recent calls.",
+        "link": "https://economictimes.indiatimes.com/news/international/world-news/iran-says-saudi-arabia-houthis-have-not-answered-mediation-offer/articleshow/135079284.cms",
         "source": "Economic Times"
        },
        {
-        "date": "2026-11-08",
-        "text": "The FSSAI has taken significant enforcement action by seizing ₹82 crore worth of food products, emphasizing its ongoing crackdown on health and safety non-compliance.",
-        "link": "https://economictimes.indiatimes.com/industry/cons-products/food/sweet-trouble-this-diwali-rs-82-crore-worth-of-food-1185-licences-come-under-fssai-scanner/articleshow/135649427.cms",
-        "source": "Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "ec013c8e6427",
-     "title": "Last shift for Cybertruck before Tesla moves on",
-     "link": "https://economictimes.indiatimes.com/news/international/business/tesla-to-add-cybertruck-shift-to-clear-orders-before-dismantling-line-next-year/articleshow/135649473.cms",
-     "source": "Economic Times",
-     "published": "2026-11-08T01:42:53+00:00",
-     "summary": "Tesla is winding down production of the Cybertruck as the company shifts its focus toward new manufacturing priorities.",
-     "explain": "The Cybertruck is Tesla's futuristic, angular-designed electric pickup truck. Moving away from a product line indicates a shift in corporate strategy, potentially focusing on more mass-market vehicles or newer technologies as the company optimizes its factory floor.",
-     "related": [],
-     "story": {
-      "id": "business-tesla-strategic-product-shifts",
-      "title": "Tesla Strategic Product Shifts",
-      "so_far": "Tesla, led by CEO Elon Musk, is the world's leading electric vehicle manufacturer. The company frequently reallocates manufacturing resources and updates its vehicle lineups to match market demand and technological advancements.",
-      "timeline": [
-       {
-        "date": "2026-11-08",
-        "text": "Tesla is winding down production of the Cybertruck as the company shifts its focus toward new manufacturing priorities.",
-        "link": "https://economictimes.indiatimes.com/news/international/business/tesla-to-add-cybertruck-shift-to-clear-orders-before-dismantling-line-next-year/articleshow/135649473.cms",
-        "source": "Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "da46562964e2",
-     "title": "Death toll from Poland mass-shooting at 6",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/poland-shooting-3-bodies-found-at-home-of-krakow-gunman-6-killed-15-injured-in-attack/articleshow/135649381.cms",
-     "source": "Economic Times",
-     "published": "2026-11-08T01:23:41+00:00",
-     "summary": "A mass shooting in Krakow, Poland, carried out by a suspect with far-right ties, has resulted in six deaths, including the suspect's own family members.",
-     "explain": "A mass shooting is an incident where multiple people are shot, usually in a public place. This tragedy involves both a public attack in a city square and the discovery of family members killed in a private home, pointing to a highly destructive and targeted event. Prime Minister Donald Tusk has condemned the violence.",
-     "related": [],
-     "story": {
-      "id": "business-krakow-mass-shooting-incident",
-      "title": "Krakow Mass Shooting Incident",
-      "so_far": "A mass shooting in Krakow, Poland, carried out by a suspect with far-right ties, has resulted in six deaths, including the suspect's own family members.",
-      "timeline": [
-       {
-        "date": "2026-11-08",
-        "text": "A mass shooting in Krakow, Poland, carried out by a suspect with far-right ties, has resulted in six deaths, including the suspect's own family members.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/poland-shooting-3-bodies-found-at-home-of-krakow-gunman-6-killed-15-injured-in-attack/articleshow/135649381.cms",
-        "source": "Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "e5e0667a7e75",
-     "title": "Strong 5.7 magnitude earthquake strikes Japan",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/strong-earthquake-with-preliminary-magnitude-of-5-7-strikes-japan/articleshow/135649267.cms",
-     "source": "Economic Times",
-     "published": "2026-11-08T00:52:24+00:00",
-     "summary": "A 5.7 magnitude earthquake struck Japan, causing tremors across the affected region.",
-     "explain": "Earthquakes are sudden releases of energy in the Earth's crust that create seismic waves. Japan is located on the 'Ring of Fire,' a highly active tectonic zone that makes it one of the most earthquake-prone countries in the world. Magnitude is a measure of the energy released at the earthquake's source.",
-     "related": [
-      {
-       "date": "2026-10-22",
-       "title": "7.0-magnitude earthquake hits Tibet",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/7-0-magnitude-earthquake-hits-tibet/articleshow/135122509.cms",
-       "source": "Economic Times"
-      },
-      {
-       "date": "2026-10-22",
-       "title": "Strong 7.0-magnitude earthquake hits Tibet’s Baqen County in China",
-       "link": "https://www.thehindubusinessline.com/news/world/strong-70-magnitude-earthquake-hits-tibets-baqen-county-in-china/article71613075.ece",
-       "source": "Business News Today: Latest Business New"
-      }
-     ],
-     "story": {
-      "id": "business-japan-seismic-activity",
-      "title": "Japan Seismic Activity",
-      "so_far": "A 5.7 magnitude earthquake struck Japan, causing tremors across the affected region.",
-      "timeline": [
-       {
-        "date": "2026-11-08",
-        "text": "A 5.7 magnitude earthquake struck Japan, causing tremors across the affected region.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/strong-earthquake-with-preliminary-magnitude-of-5-7-strikes-japan/articleshow/135649267.cms",
-        "source": "Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "f75e90e2eddd",
-     "title": "Meet Dana White: Trump offers him top job",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/who-is-dana-white-from-ufc-boss-to-trumps-proposed-press-secretary-his-ties-with-joe-rogan-and-khabib/articleshow/135645316.cms",
-     "source": "Economic Times",
-     "published": "2026-11-07T19:06:19+00:00",
-     "summary": "President-elect Donald Trump has offered the position of White House Press Secretary to UFC CEO Dana White.",
-     "explain": "The White House Press Secretary is the senior official responsible for briefing the media on the administration's policies and actions. Dana White is the prominent CEO of the Ultimate Fighting Championship (UFC), a professional mixed martial arts organization.",
-     "related": [],
-     "story": {
-      "id": "business-us-diplomatic-strategy-and-summits",
-      "title": "US Diplomatic Strategy and Summits",
-      "so_far": "Following the recent US election, the transition of power and the legal processes surrounding vote certification have become subjects of intense public and political scrutiny.",
-      "timeline": [
-       {
-        "date": "2026-11-04",
-        "text": "Donald Trump has expressed public frustration with media coverage as the 2026 midterm election cycle comes to an end.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/us-midterm-results-trump-reaction-rages-at-fox-as-us-midterms-voting-wraps/articleshow/135517554.cms",
-        "source": "Economic Times"
-       },
-       {
-        "date": "2026-11-04",
-        "text": "Early midterm exit polls show that economic grievances and dissatisfaction with Trump are dominant themes among voters.",
-        "link": "https://www.thehindubusinessline.com/news/world/us-midterm-exit-polls-two-thirds-of-voters-blame-trump-for-high-prices/article71663690.ece",
+        "date": "2026-10-25",
+        "text": "Commercial flight operations have returned to normal at Riyadh airport following recent security concerns linked to the Houthi conflict.",
+        "link": "https://www.thehindubusinessline.com/news/world/riyadh-airport-resumes-flights-as-saudis-fight-houthi-missiles/article71622883.ece",
         "source": "Business News Today: Latest Business New"
        },
        {
-        "date": "2026-11-04",
-        "text": "Initial voter feedback suggests a potential rebuke of the current leadership, with Democrats eyeing a shift in legislative power.",
-        "link": "https://www.thehindubusinessline.com/news/world/us-midterm-elections-voters-signal-rebuke-to-trump-as-democrats-eye-control-of-congress/article71663703.ece",
+        "date": "2026-11-08",
+        "text": "A missile attack targeted a commercial site in Riyadh, damaging an Aramco building, though no deaths were reported.",
+        "link": "https://www.thehindubusinessline.com/news/world/saudi-arabia-intercepts-missiles-as-aramco-building-in-riyadh-damaged-other-mideast-news/article71680852.ece",
         "source": "Business News Today: Latest Business New"
        },
        {
-        "date": "2026-11-04",
-        "text": "Local races in New York are proving to be highly contested as midterm voting concludes.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/new-york-governor-race-results-2026-who-is-winning-kathy-hochul-vs-bruce-blakeman-latest-updates-as-votes-are-counted/articleshow/135516918.cms",
+        "date": "2026-11-08",
+        "text": "Aramco confirmed damage to its tower in Riyadh's financial district, noting that the site remains operational as no staff were injured.",
+        "link": "https://www.thehindubusinessline.com/news/world/aramco-tower-in-riyadhs-financial-hub-damaged-after-attack/article71680816.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "ba3cad321ca4",
+     "title": "Armed Maoists gone, but 'dimagi Naxals' instigating people against Constitution: Modi",
+     "link": "https://www.thehindubusinessline.com/news/national/armed-maoists-gone-but-dimagi-naxals-instigating-people-against-constitution-modi/article71680806.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-08T09:18:12+00:00",
+     "summary": "During a Diwali visit to security personnel in Bastar, PM Modi emphasized that the threat of 'dimagi Naxals' persists despite the end of armed Maoist militancy.",
+     "explain": "Bastar is a region in central India that was previously a hub for Maoist militancy. By addressing security personnel here, the government emphasizes its victory over traditional forms of rebellion while simultaneously shifting the focus to a new, ideological battle against opponents it labels as 'intellectual insurgents'.",
+     "related": [],
+     "story": {
+      "id": "business-political-rhetoric-in-india",
+      "title": "Political Rhetoric in India",
+      "so_far": "In Indian political discourse, 'Naxal' refers to an extremist leftist ideology that historically relied on armed rebellion. The government has focused on curbing these groups' influence and violence over several years, leading to claims that the armed struggle has been largely neutralized.",
+      "timeline": [
+       {
+        "date": "2026-11-08",
+        "text": "PM Modi accused political opponents of harboring an ideology that works against the Constitution despite the end of active Naxalite violence.",
+        "link": "https://economictimes.indiatimes.com/news/politics-and-nation/maoists-gone-but-dimagi-naxals-instigating-people-against-constitution-and-democracy-pm-modi/articleshow/135657039.cms",
         "source": "Economic Times"
        },
        {
-        "date": "2026-11-04",
-        "text": "As voting concludes, public approval of Donald Trump has dropped to 38%.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/us-midterm-elections-2026-trump-approval-plunges-to-38-as-polls-begin-to-close-cbs-exit-poll-shows/articleshow/135516823.cms",
+        "date": "2026-11-08",
+        "text": "The Prime Minister linked the fight against Maoist ideology to the protection of the Constitution and national unity.",
+        "link": "https://www.thehindubusinessline.com/news/national/armed-maoists-gone-but-dimagi-naxals-instigating-people-against-constitution-modi/article71680806.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "c7851555f537",
+     "title": "Bangladesh law minister calls Hasina 'convicted criminal', says extradition request sent to India",
+     "link": "https://www.thehindubusinessline.com/news/world/bangladesh-law-minister-calls-hasina-convicted-criminal-says-extradition-request-sent-to-india/article71680801.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-08T09:11:11+00:00",
+     "summary": "The Bangladesh Law Minister has requested that India extradite former Prime Minister Sheikh Hasina, labeling her a convicted criminal.",
+     "explain": "An extradition treaty is a formal agreement between two countries to hand over suspected or convicted criminals. Requesting extradition is a legal move that now places India in a difficult diplomatic position, requiring it to balance international legal commitments against regional stability and bilateral relationships.",
+     "related": [],
+     "story": {
+      "id": "business-india-bangladesh-extradition-request",
+      "title": "India-Bangladesh Extradition Request",
+      "so_far": "The political situation in Bangladesh has shifted significantly following recent unrest and the subsequent transition of power. Sheikh Hasina, the long-serving former Prime Minister, left Bangladesh amid mass protests. India serves as a key regional neighbor and has often hosted political figures in exile, making the status of such leaders a matter of diplomatic sensitivity.",
+      "timeline": [
+       {
+        "date": "2026-11-08",
+        "text": "Bangladesh formally initiated a request for the extradition of former PM Sheikh Hasina under existing treaty frameworks.",
+        "link": "https://www.thehindubusinessline.com/news/world/bangladesh-law-minister-calls-hasina-convicted-criminal-says-extradition-request-sent-to-india/article71680801.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "466fc0c6cf09",
+     "title": "Samvat: Will the good times roll for businesses?",
+     "link": "https://economictimes.indiatimes.com/news/economy/indicators/samvat-2083-begins-is-it-happy-diwali-for-indian-economy-gdp-inflation-empoyment-and-will-the-good-times-roll-for-indian-businesses/articleshow/135655168.cms",
+     "source": "Economic Times",
+     "published": "2026-11-08T08:58:01+00:00",
+     "summary": "Economic analysts assess the business outlook for the new Hindu year (Samvat), debating if favorable conditions will persist for corporate growth.",
+     "explain": "Samvat is the Hindu calendar year. In the Indian financial community, the start of a new Samvat is often treated as a symbolic 'new year' for businesses, and market experts frequently issue new forecasts for the economy and corporate performance during this time.",
+     "related": [],
+     "story": {
+      "id": "business-gold-etf-investment-trends",
+      "title": "Gold ETF Investment Trends",
+      "so_far": "Dhanteras is a significant festival in India where buying precious metals like gold and silver is considered auspicious. This period usually sees a surge in physical retail demand, which is tracked alongside broader trends in gold ETFs.",
+      "timeline": [
+       {
+        "date": "2026-10-29",
+        "text": "Detailed breakdowns of 24k, 22k, 20k, and 18k gold pricing were released, helping consumers understand value variations based on alloy content.",
+        "link": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-and-silver-rate-today-october-29-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-tanishq-ibja-in-delhi-mumbai-hyderabad-more-cities/articleshow/135295765.cms",
         "source": "Economic Times"
        },
        {
-        "date": "2026-11-04",
-        "text": "Recent election results have created a shift in power dynamics, suggesting potential for continued political gridlock in Washington.",
-        "link": "https://www.thehindubusinessline.com/news/world/chaos-ahead-democrats-win-big-inus-midterm-electionswhile-trump-holds-veto-power/article71664965.ece",
+        "date": "2026-10-31",
+        "text": "Physical gold prices in multiple Indian cities saw a decline on October 31, 2026.",
+        "link": "https://www.thehindubusinessline.com/gold-rate-today/gold-price-today-in-coimbatore-nagpur-visakhapatnam-surat-jaipur-lucknow-chandigarh-gold-rates-other-cities-october-31-2026/article71648666.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-10-31",
+        "text": "Metropolitan gold prices followed the downward trend seen in smaller cities on October 31, 2026.",
+        "link": "https://www.thehindubusinessline.com/gold-rate-today/gold-price-today-in-delhi-mumbai-kolkata-chennai-bengaluru-hyderabad-pune-gold-rates-metro-cities-october-31-2026/article71648665.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-10-31",
+        "text": "Recent updates now provide a breakdown of pricing across different gold karats.",
+        "link": "https://economictimes.indiatimes.com/wealth/invest/gold-rates-dropped-silver-rate-today-october-31-2026-check-24k-22k-20k-18k-jewellery-prices-from-ibja-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-and-tanishq/articleshow/135389433.cms",
+        "source": "Economic Times"
+       },
+       {
+        "date": "2026-11-05",
+        "text": "Daily market updates continue to show upward pricing trends for 22k and 24k gold across multiple Indian cities.",
+        "link": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-november-5-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-malabar-gold-diamonds-kalyan-jewellers-tanishq-ibja-in-delhi-mumbai-hyderabad-more-cities/articleshow/135564956.cms",
+        "source": "Economic Times"
+       },
+       {
+        "date": "2026-11-05",
+        "text": "Prices for 22k and 24k gold rose in locations including Coimbatore, Nagpur, and Jaipur.",
+        "link": "https://www.thehindubusinessline.com/gold-rate-today/gold-price-today-in-coimbatore-nagpur-visakhapatnam-surat-jaipur-lucknow-chandigarh-gold-rates-other-cities-november-5-2026/article71669107.ece",
         "source": "Business News Today: Latest Business New"
        },
        {
         "date": "2026-11-05",
-        "text": "Trump claims that negotiations are progressing toward a peace agreement regarding the Russia-Ukraine conflict.",
-        "link": "https://www.thehindubusinessline.com/news/world/trump-expects-russia-ukraine-peace-deal-soon-says-agreement-could-involve-all-of-europe/article71671869.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-05",
-        "text": "Rubio is evaluating his future in the current administration amidst questions about the party's direction.",
-        "link": "https://www.thehindubusinessline.com/news/world/marco-rubio-weighs-quitting-trump-administration-after-republicans-midterm-election-defeat/article71671766.ece",
+        "text": "The rising price trend was confirmed across major economic hubs like Delhi, Mumbai, and Bengaluru.",
+        "link": "https://www.thehindubusinessline.com/gold-rate-today/gold-price-today-in-delhi-mumbai-kolkata-chennai-bengaluru-hyderabad-pune-gold-rates-metro-cities-november-5-2026/article71669106.ece",
         "source": "Business News Today: Latest Business New"
        },
        {
         "date": "2026-11-06",
-        "text": "Trump cited poll results as a primary driver for the recent downward pressure on stock markets.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/it-wasnt-republicans-it-was-dumocrats-trump-blames-election-results-for-stock-market-plunge/articleshow/135589887.cms",
-        "source": "Economic Times"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Political figure Hegseth is preparing to defend against impeachment after a poor performance by his party in the midterms.",
-        "link": "https://economictimes.indiatimes.com/news/defence/hegseth-vows-to-fight-impeachment-as-democrats-target-us-defense-chief-after-midterm-losses/articleshow/135589598.cms",
+        "text": "Silver prices dipped during the traditionally high-demand Dhanteras shopping period.",
+        "link": "https://economictimes.indiatimes.com/wealth/invest/silver-rate-today-november-6-2026-silver-becomes-cheaper-on-dhanteras-check-latest-price-and-hallmarking-rules/articleshow/135604398.cms",
         "source": "Economic Times"
        },
        {
         "date": "2026-11-07",
-        "text": "Global perceptions of US stability are shifting, with international trust now contingent on predictable leadership and consistent policy.",
-        "link": "https://www.thehindubusinessline.com/news/world/after-trumps-midterm-setback-the-world-struggles-to-trust-america-again/article71677368.ece",
+        "text": "Gold prices rose across various Indian cities, including Coimbatore, Nagpur, and Jaipur, on November 7.",
+        "link": "https://www.thehindubusinessline.com/gold-rate-today/gold-price-today-in-coimbatore-nagpur-visakhapatnam-surat-jaipur-lucknow-chandigarh-gold-rates-other-cities-november-7-2026/article71677633.ece",
         "source": "Business News Today: Latest Business New"
        },
        {
         "date": "2026-11-07",
-        "text": "Donald Trump has begun selecting key members of his administration, including the surprising nomination of UFC executive Dana White for the role of Press Secretary.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/who-is-dana-white-from-ufc-boss-to-trumps-proposed-press-secretary-his-ties-with-joe-rogan-and-khabib/articleshow/135645316.cms",
+        "text": "Gold prices rose across major Indian metro cities, including Delhi, Mumbai, and Bengaluru, on November 7.",
+        "link": "https://www.thehindubusinessline.com/gold-rate-today/gold-price-today-in-delhi-mumbai-kolkata-chennai-bengaluru-hyderabad-pune-gold-rates-metro-cities-november-7-2026/article71677632.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-07",
+        "text": "Market analysts are currently comparing price points across 24k, 22k, 20k, and 18k gold purities.",
+        "link": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-and-silver-rates-today-november-7-2026-check-24k-20k-and-18k-jewellery-prices-from-ibja-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-and-tanishq-in-delhi-mumbai-hyderabad/articleshow/135627793.cms",
         "source": "Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "f68a0e8c29c3",
-     "title": "Trump pitches UFC Dana White for WH press secy",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/dana-please-take-the-job-trump-offers-ufc-chief-dana-white-white-house-press-secretary-role-names-khabib-makhachev-as-aides/articleshow/135645230.cms",
-     "source": "Economic Times",
-     "published": "2026-11-07T18:59:53+00:00",
-     "summary": "",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "ab227995e853",
-     "title": "NIT Raipur, AKSI Aerospace join hands, set-up Centre Of Excellence: What will the new partnership focus on?",
-     "link": "https://www.livemint.com/companies/news/nit-raipur-aksi-aerospace-join-hands-set-up-centre-of-excellence-what-will-the-new-partnership-focus-on-11794072162179.html",
-     "source": "mint - companies",
-     "published": "2026-11-07T18:33:36+00:00",
-     "summary": "NIT Raipur and AKSI Aerospace Group are partnering to launch a Centre of Excellence focused on aerospace and drone technology.",
-     "explain": "A Centre of Excellence is a specialized facility that pools expertise and resources to advance research and development in a specific field. This partnership aims to move drone technology from theoretical research into mass production, supporting India's goal of becoming a major aerospace hub.",
-     "related": [],
-     "story": {
-      "id": "business-aerospace-and-drone-technology-partnersh",
-      "title": "Aerospace and Drone Technology Partnership",
-      "so_far": "India is currently investing heavily in the domestic production of drones and aerospace components as part of its 'Atmanirbhar Bharat' (Self-Reliant India) initiative. Universities and private industry are increasingly collaborating to bridge the gap between academic research and industrial manufacturing.",
-      "timeline": [
+       },
        {
-        "date": "2026-11-07",
-        "text": "NIT Raipur and AKSI Aerospace Group are partnering to launch a Centre of Excellence focused on aerospace and drone technology.",
-        "link": "https://www.livemint.com/companies/news/nit-raipur-aksi-aerospace-join-hands-set-up-centre-of-excellence-what-will-the-new-partnership-focus-on-11794072162179.html",
-        "source": "mint - companies"
-       }
-      ]
-     }
-    },
-    {
-     "id": "5d63ec2d390e",
-     "title": "Mohd Shami: A master of seam and swing",
-     "link": "https://economictimes.indiatimes.com/news/sports/cricket/mohammed-shami-a-master-of-seam-and-swing-he-possessed-something-no-coaching-manual-could-teach/articleshow/135644328.cms",
-     "source": "Economic Times",
-     "published": "2026-11-07T18:09:18+00:00",
-     "summary": "A commentary piece highlights the career and technical skill of Indian cricketer Mohammed Shami.",
-     "explain": "Mohammed Shami is a prominent professional fast bowler for the Indian national cricket team. 'Seam and swing' refers to the technique of bowling where the ball's orientation and movement through the air make it difficult for batters to hit, which is a hallmark of high-level cricket proficiency.",
-     "related": [],
-     "story": {
-      "id": "business-cricket-athlete-profile",
-      "title": "Cricket Athlete Profile",
-      "so_far": "A commentary piece highlights the career and technical skill of Indian cricketer Mohammed Shami.",
-      "timeline": [
-       {
-        "date": "2026-11-07",
-        "text": "A commentary piece highlights the career and technical skill of Indian cricketer Mohammed Shami.",
-        "link": "https://economictimes.indiatimes.com/news/sports/cricket/mohammed-shami-a-master-of-seam-and-swing-he-possessed-something-no-coaching-manual-could-teach/articleshow/135644328.cms",
+        "date": "2026-11-08",
+        "text": "The start of the new Samvat year prompts analysts to forecast whether Indian businesses will experience sustained growth in the coming months.",
+        "link": "https://economictimes.indiatimes.com/news/economy/indicators/samvat-2083-begins-is-it-happy-diwali-for-indian-economy-gdp-inflation-empoyment-and-will-the-good-times-roll-for-indian-businesses/articleshow/135655168.cms",
         "source": "Economic Times"
        }
       ]
@@ -2144,6 +2052,77 @@
   "markets": {
    "label": "Markets & Crypto",
    "articles": [
+    {
+     "id": "d5ec92bd4183",
+     "title": "Muhurat trading: Sensex up 320 pts, Nifty crosses 25,100; Tata Steel, Sun Pharma among top gainers",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/news/muhurat-trading-sensex-up-320-pts-nifty-crosses-25100-tata-steel-sun-pharma-among-top-gainers/videoshow/135656015.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-11-08T09:35:11+00:00",
+     "summary": "Indian markets conducted the traditional Diwali 'Muhurat' trading session, which saw initial gains followed by a decline as the Samvat 2083 year began.",
+     "explain": "Muhurat trading is a symbolic one-hour trading session held on Diwali, the Hindu festival of lights, which marks the start of the new Samvat financial year. It is considered auspicious by many investors, who place small buy orders in hopes of prosperity. While it is a tradition, the session's performance is often seen as a barometer for market sentiment at the start of the new year.",
+     "related": [],
+     "story": {
+      "id": "markets-2026-indian-stock-market-holidays",
+      "title": "2026 Indian Stock Market Holidays",
+      "so_far": "The Indian stock market operates under set regulatory guidelines and is influenced by both domestic economic policy and global investor sentiment. Traders monitor major indices like the Nifty—which represents the 50 largest companies listed on the National Stock Exchange—to gauge the health of the Indian economy.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "The NSE and BSE are closed today for the Dussehra holiday, marking one of 16 scheduled holidays for 2026.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-2026-is-stock-market-closed-today-for-dussehra-check-remaining-holidays-for-the-year/articleshow/135059981.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "The NSE and BSE are confirmed to be closed today for Dussehra, with normal operations returning on Wednesday.",
+        "link": "https://www.livemint.com/market/stock-market-news/dussehra-2026-stock-market-holiday-today-or-not-nse-bse-to-remain-open-or-closed-on-20-oct-tuesday-exchange-calendar-11792456900292.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Indian equities saw significant selling in the banking and IT sectors, dragging the Nifty index under the 23,000 threshold.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-federal-bank-among-4-stock-recommendations-for-wednesday/slideshow/135067773.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-21",
+        "text": "Investors are monitoring a specific list of high-profile Indian stocks ahead of Wednesday's trading session.",
+        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-eternal-reliance-industries-ireda-railtel-shares-in-focus-on-wed-21-oct-full-list-11792546323951.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-21",
+        "text": "Pre-market indicators suggest a modest gain for the Nifty, reflecting positive cues from international markets.",
+        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-19-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792543474837.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "Investors must purchase shares by October 22 to qualify for upcoming corporate payouts or stock splits scheduled for October 23.",
+        "link": "https://www.livemint.com/market/stock-market-news/dividend-bonus-split-last-chance-to-buy-today-ahead-of-record-date-techm-irfc-ltm-payout-ratio-other-details-11792604841012.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-07",
+        "text": "The NSE announced operational changes to trading hours and price discovery, effective December 7, 2026.",
+        "link": "https://www.livemint.com/market/stock-market-news/nse-overhauls-key-trading-rules-closing-auction-session-f-o-expiry-trading-hours-revised-what-changes-from-dec-7-11794047384672.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-08",
+        "text": "The Muhurat trading session on November 8, 2026, closed in the red for the first time since 2017, dampened by geopolitical tensions and foreign capital outflows.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/muhurat-trading-sensex-up-320-pts-nifty-crosses-25100-tata-steel-sun-pharma-among-top-gainers/videoshow/135656015.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-08",
+        "text": "Factors including rising oil prices, Middle East tensions, and foreign outflows contributed to a rare negative finish for the festive trading session.",
+        "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-samvat-2082-ends-samvat-2083-begins-sensex-nifty-end-in-red-first-time-after-2017-reasons-11794130754040.html",
+        "source": "mint - markets"
+       }
+      ]
+     }
+    },
     {
      "id": "762deb45ff93",
      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
@@ -2181,245 +2160,252 @@
      }
     },
     {
-     "id": "e2e2a5a5de8c",
-     "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
-     "link": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph.com News",
-     "published": "2026-11-06T21:05:25+00:00",
-     "summary": "The U.S. Treasury's FinCEN has prohibited U.S. financial institutions from processing transfers linked to the crypto exchange MEXC due to alleged involvement in $16 billion of illicit transactions.",
-     "explain": "The U.S. Treasury has cut off a crypto exchange from the American banking system, effectively banning it from processing any dollar-based transactions. This happens when regulators believe an entity is facilitating illegal activity, such as money laundering, and uses this power to isolate the entity from the global financial grid. FinCEN is the specific agency responsible for fighting financial crimes.",
-     "related": [],
-     "story": {
-      "id": "markets-u-s-treasury-sanctions-mexc-exchange",
-      "title": "U.S. Treasury Sanctions MEXC Exchange",
-      "so_far": "Cryptocurrency exchanges are increasingly coming under the scrutiny of global regulators. The U.S. Treasury, through the Financial Crimes Enforcement Network (FinCEN), maintains strict oversight of financial institutions to prevent money laundering and the financing of illicit activities.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "This confirms that the order was issued on a Friday and mandates that U.S. banks stop facilitating transfers for the exchange.",
-        "link": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-07",
-        "text": "FinCEN has formally ordered a freeze on U.S. financial interactions with MEXC Global over massive illicit flow allegations.",
-        "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "ff4f00351aef",
-     "title": "How anti-AI trade after US midterm election results is reviving Indian, Chinese stocks",
-     "link": "https://www.livemint.com/market/how-anti-ai-trade-after-us-midterm-election-results-is-reviving-indian-chinese-stocks-11794101102138.html",
+     "id": "5feacd4dd468",
+     "title": "Why did RR Kabel share rally 8% during Muhurat Trading despite weak market sentiment — what triggered the surge?",
+     "link": "https://www.livemint.com/market/stock-market-news/why-did-rr-kabel-share-rally-8-during-muhurat-trading-despite-weak-market-sentiment-what-triggered-the-surge-11794133913486.html",
      "source": "mint - markets",
-     "published": "2026-11-08T01:34:37+00:00",
-     "summary": "Recent U.S. midterm election results have triggered a shift in investor sentiment, leading to a move away from AI-focused stocks and a renewed interest in emerging markets like India and China.",
-     "explain": "A market rotation occurs when investors sell shares in one sector that has performed well and move that money into another area that is seen as more promising or undervalued. This current shift suggests that the political environment following the midterm elections has made the AI industry seem riskier, prompting money to flow back into other parts of the global stock market.",
+     "published": "2026-11-08T10:49:39+00:00",
+     "summary": "RR Kabel shares rallied 8% during the Muhurat trading session despite general market weakness.",
+     "explain": "A 'rally' in stock market terms means a significant increase in the price of a security. Investors often look for stocks that outperform the broader market during special sessions like Muhurat to identify companies with strong underlying momentum or investor confidence.",
      "related": [],
      "story": {
-      "id": "markets-post-election-global-market-rotation",
-      "title": "Post-Election Global Market Rotation",
-      "so_far": "Investors constantly reallocate funds based on macroeconomic shifts. When tech or AI valuations appear overheated, institutional capital often moves toward 'value' plays or emerging economies that offer different growth prospects or less exposure to domestic U.S. political volatility.",
+      "id": "markets-rr-kabel-market-performance",
+      "title": "RR Kabel Market Performance",
+      "so_far": "RR Kabel is a major Indian manufacturer of wires and cables. The company has faced pressure in 2026 due to cautious growth guidance, though it maintains strong year-over-year revenue and profit margins.",
       "timeline": [
        {
         "date": "2026-11-08",
-        "text": "Investors are shifting their capital away from the cooling AI sector toward markets perceived to benefit from lower inflation and easing geopolitical tensions.",
-        "link": "https://www.livemint.com/market/how-anti-ai-trade-after-us-midterm-election-results-is-reviving-indian-chinese-stocks-11794101102138.html",
+        "text": "The stock surged during Muhurat trading following strong quarterly results, showing a 55.7% profit increase despite recent growth guidance concerns.",
+        "link": "https://www.livemint.com/market/stock-market-news/why-did-rr-kabel-share-rally-8-during-muhurat-trading-despite-weak-market-sentiment-what-triggered-the-surge-11794133913486.html",
         "source": "mint - markets"
        }
       ]
      }
     },
     {
-     "id": "3b821354b6fa",
-     "title": "Mint Explainer: Will Sebi’s new rules on currency derivatives help the falling rupee?",
-     "link": "https://www.livemint.com/market/will-sebi-s-new-rules-on-currency-derivatives-help-the-falling-rupee-11793955300780.html",
+     "id": "b6225595f128",
+     "title": "Emami vs Dabur Q2 results: Which FMCG giant wins on profit, revenue and dividend? Check target, upcoming record dates",
+     "link": "https://www.livemint.com/market/stock-market-news/emami-vs-dabur-q2-results-which-fmcg-giant-wins-on-profit-revenue-and-dividend-check-target-upcoming-record-dates-11794133857711.html",
      "source": "mint - markets",
-     "published": "2026-11-08T01:30:11+00:00",
-     "summary": "The Securities and Exchange Board of India (SEBI) has tightened rules on currency derivatives trading to protect the rupee from volatility.",
-     "explain": "Derivatives are contracts whose value is based on the price of something else, like the exchange rate between the rupee and the dollar. By limiting 'unhedged' positions, regulators are forcing traders to prove they have a real reason to buy these contracts, rather than just speculating. This helps prevent traders from overwhelming the market and causing the rupee's value to crash unnecessarily.",
+     "published": "2026-11-08T10:36:29+00:00",
+     "summary": "Emami and Dabur reported their Q2 FY27 results, leading to a rise in their share prices.",
+     "explain": "FMCG refers to consumer products that sell quickly at a relatively low cost, such as toothpaste, soap, and packaged foods. Investors track these companies closely because their earnings reports reflect how much disposable income consumers are spending in the current economic environment.",
      "related": [],
      "story": {
-      "id": "markets-sebi-currency-derivative-regulation",
-      "title": "SEBI Currency Derivative Regulation",
-      "so_far": "The rupee is a major currency monitored by the Reserve Bank of India (RBI) and SEBI. Speculative trading, where participants bet on price movements without holding an underlying asset (unhedged), can create artificial downward pressure on the currency's value during volatile times.",
+      "id": "markets-fmcg-sector-q2-earnings",
+      "title": "FMCG Sector Q2 Earnings",
+      "so_far": "Emami and Dabur are major players in the Fast-Moving Consumer Goods (FMCG) sector in India. These companies are viewed as reliable indicators of rural and urban consumer demand, as their products—ranging from healthcare to personal care—are purchased regularly by households.",
       "timeline": [
        {
         "date": "2026-11-08",
-        "text": "Limits on unhedged currency trading have been slashed from $100 million to $5 million.",
-        "link": "https://www.livemint.com/market/will-sebi-s-new-rules-on-currency-derivatives-help-the-falling-rupee-11793955300780.html",
+        "text": "Emami and Dabur shares rose nearly 7% over the past week as both companies announced financial results and dividends for the second quarter.",
+        "link": "https://www.livemint.com/market/stock-market-news/emami-vs-dabur-q2-results-which-fmcg-giant-wins-on-profit-revenue-and-dividend-check-target-upcoming-record-dates-11794133857711.html",
         "source": "mint - markets"
        }
       ]
      }
     },
     {
-     "id": "66b1d0bdacef",
-     "title": "Greece approves 10% tax on crypto gains starting in 2027",
-     "link": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph.com News",
-     "published": "2026-11-06T11:05:36+00:00",
-     "summary": "Greece has introduced a 10% tax on cryptocurrency capital gains, beginning in 2027.",
-     "explain": "A crypto tax is a levy on profits made when selling digital assets like Bitcoin for more than they were purchased. DeFi, or Decentralized Finance, refers to financial services (like lending or trading) built on blockchain technology that operate without traditional intermediaries like banks. This matters because it signals a shift toward stricter government oversight of digital asset wealth.",
-     "related": [],
-     "story": {
-      "id": "markets-greece-crypto-taxation-policy",
-      "title": "Greece Crypto Taxation Policy",
-      "so_far": "Countries globally are increasingly formalizing regulatory frameworks for digital assets. Taxing crypto gains is a step toward bringing decentralized finance (DeFi) and digital currencies into the traditional fiscal fold, allowing governments to generate tax revenue from the crypto market.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "The Greek government approved a 10% tax on crypto gains and a 15% levy on DeFi income, with a small profit exemption for lower-earning investors.",
-        "link": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "The legislation clarifies that income generated from DeFi activities will face a higher 15% levy.",
-        "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "53e91613e577",
-     "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
-     "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
-     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
-     "published": "2026-11-06T08:47:42+00:00",
-     "summary": "Greece's new tax framework for digital assets includes a 10% tax on crypto gains and a 15% levy on decentralized finance (DeFi) income.",
-     "explain": "This move by Greece aligns it with other EU nations attempting to curb the 'wild west' nature of crypto trading. By specifically targeting DeFi, regulators are addressing income earned through automated protocols that function like banks but operate on software code rather than financial institutions.",
-     "related": [],
-     "story": {
-      "id": "markets-greece-crypto-taxation-policy",
-      "title": "Greece Crypto Taxation Policy",
-      "so_far": "Countries globally are increasingly formalizing regulatory frameworks for digital assets. Taxing crypto gains is a step toward bringing decentralized finance (DeFi) and digital currencies into the traditional fiscal fold, allowing governments to generate tax revenue from the crypto market.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "The Greek government approved a 10% tax on crypto gains and a 15% levy on DeFi income, with a small profit exemption for lower-earning investors.",
-        "link": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "The legislation clarifies that income generated from DeFi activities will face a higher 15% levy.",
-        "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "1ee9be08f0b6",
-     "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
-     "link": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
-     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
-     "published": "2026-11-07T19:13:16+00:00",
-     "summary": "Binance is notifying users in specific European countries to withdraw their funds as it phases out services in those regions ahead of year-end account closures.",
-     "explain": "Binance is essentially closing down accounts for some of its customers to comply with changing rules or to simplify its business. When an exchange pulls out of a market, users are often given a deadline to move their crypto to private wallets or other platforms, or they risk losing access to their assets once the platform shuts down its local services.",
-     "related": [],
-     "story": {
-      "id": "markets-binance-european-service-consolidation",
-      "title": "Binance European Service Consolidation",
-      "so_far": "Cryptocurrency platforms often struggle with the patchwork of regulations across different nations. In Europe, the Markets in Crypto-Assets (MiCA) regulation has forced many global exchanges to evaluate whether continuing operations in smaller or strictly regulated markets is financially sustainable.",
-      "timeline": [
-       {
-        "date": "2026-11-07",
-        "text": "Users in affected regions are facing mandatory account closures and fee adjustments as the platform retreats from certain markets.",
-        "link": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "fbcfed45e548",
-     "title": "US markets next week 9-14 Nov: After crash and bounce back, investors eye inflation data, tech earnings, and more",
-     "link": "https://www.livemint.com/market/us-markets-next-week-9-14-nov-after-crash-and-bounce-back-investors-eye-inflation-data-tech-earnings-and-more-11794072283036.html",
+     "id": "86133517d073",
+     "title": "Why Bertie thinks investors should be like drones",
+     "link": "https://www.livemint.com/market/why-bertie-thinks-investors-should-be-like-drones-11794131602003.html",
      "source": "mint - markets",
-     "published": "2026-11-07T18:30:09+00:00",
-     "summary": "U.S. investors are preparing for a critical week focused on inflation data and tech earnings, amidst uncertainty over political impacts on data center expansion.",
-     "explain": "Tech stocks are currently being hit by two forces: fear of persistent inflation, which makes future profits less valuable, and uncertainty about political support for big tech projects. When investors worry about government regulations slowing down physical infrastructure like data centers, they tend to sell tech stocks, causing market volatility.",
+     "published": "2026-11-08T10:28:05+00:00",
+     "summary": "The article discusses the tension between shareholder desire for short-term returns and the long-term benefits of corporate R&D investment.",
+     "explain": "R&D (Research and Development) is the process by which companies innovate to create new products or services. While expensive and risky in the short term, it is often essential for long-term growth. Investors often have to decide if they value immediate payouts or the future potential of these investments.",
      "related": [],
      "story": {
-      "id": "markets-us-tech-market-volatility",
-      "title": "US Tech Market Volatility",
-      "so_far": "The US tech market has faced a turbulent 2026 as high interest rates and changing advertising demand have pressured growth-focused digital and software companies. Many of these firms saw inflated valuations during the previous cycle and are now undergoing significant market correction.",
+      "id": "markets-corporate-capital-allocation-strategy",
+      "title": "Corporate Capital Allocation Strategy",
+      "so_far": "Publicly traded companies frequently balance the need to return cash to shareholders through dividends or buybacks versus reinvesting that cash into the business. This is known as capital allocation.",
       "timeline": [
        {
-        "date": "2026-10-24",
-        "text": "A list of 'portfolio killers' identifies top US stocks that have faced significant capital erosion throughout 2026.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/portfolio-killers-10-us-stocks-that-wiped-out-up-to-66-of-investors-wealth-in-2026/slideshow/135167355.cms",
+        "date": "2026-11-08",
+        "text": "There is a growing debate among market analysts regarding whether shareholders punish companies for long-term investments like R&D and capacity expansion.",
+        "link": "https://www.livemint.com/market/why-bertie-thinks-investors-should-be-like-drones-11794131602003.html",
+        "source": "mint - markets"
+       }
+      ]
+     }
+    },
+    {
+     "id": "9f9c1e6e24f0",
+     "title": "Muhurat Trading 2026: Samvat 2082 ends, Samvat 2083 begins - Sensex, Nifty end in red first time after 2017 | Reasons",
+     "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-samvat-2082-ends-samvat-2083-begins-sensex-nifty-end-in-red-first-time-after-2017-reasons-11794130754040.html",
+     "source": "mint - markets",
+     "published": "2026-11-08T10:23:22+00:00",
+     "summary": "The Sensex and Nifty indices closed lower for the first Muhurat session since 2017.",
+     "explain": "Foreign Institutional Investor (FII) outflows occur when global funds sell shares in a local market, which can exert downward pressure on stock prices. These investors are sensitive to global macroeconomic factors like oil prices and US interest rates.",
+     "related": [],
+     "story": {
+      "id": "markets-2026-indian-stock-market-holidays",
+      "title": "2026 Indian Stock Market Holidays",
+      "so_far": "The Indian stock market operates under set regulatory guidelines and is influenced by both domestic economic policy and global investor sentiment. Traders monitor major indices like the Nifty—which represents the 50 largest companies listed on the National Stock Exchange—to gauge the health of the Indian economy.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "The NSE and BSE are closed today for the Dussehra holiday, marking one of 16 scheduled holidays for 2026.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-2026-is-stock-market-closed-today-for-dussehra-check-remaining-holidays-for-the-year/articleshow/135059981.cms",
         "source": "Markets-Economic Times"
        },
        {
-        "date": "2026-10-29",
-        "text": "Weak earnings reports from major tech players like Alphabet are triggering a decline in US tech market futures.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-shares-edge-higher-as-investors-assess-tech-earnings-fed-outlook/articleshow/135285079.cms",
+        "date": "2026-10-20",
+        "text": "The NSE and BSE are confirmed to be closed today for Dussehra, with normal operations returning on Wednesday.",
+        "link": "https://www.livemint.com/market/stock-market-news/dussehra-2026-stock-market-holiday-today-or-not-nse-bse-to-remain-open-or-closed-on-20-oct-tuesday-exchange-calendar-11792456900292.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Indian equities saw significant selling in the banking and IT sectors, dragging the Nifty index under the 23,000 threshold.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-federal-bank-among-4-stock-recommendations-for-wednesday/slideshow/135067773.cms",
         "source": "Markets-Economic Times"
        },
        {
-        "date": "2026-11-07",
-        "text": "The sector faces fresh uncertainty as political outcomes threaten to slow down infrastructure projects essential for AI growth.",
-        "link": "https://www.livemint.com/market/us-markets-next-week-9-14-nov-after-crash-and-bounce-back-investors-eye-inflation-data-tech-earnings-and-more-11794072283036.html",
+        "date": "2026-10-21",
+        "text": "Investors are monitoring a specific list of high-profile Indian stocks ahead of Wednesday's trading session.",
+        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-eternal-reliance-industries-ireda-railtel-shares-in-focus-on-wed-21-oct-full-list-11792546323951.html",
         "source": "mint - markets"
-       }
-      ]
-     }
-    },
-    {
-     "id": "7d4c41d77549",
-     "title": "Upcoming IPO: Coca-Cola India bottler HCCH files DRHP for public issue, majority shareholder to sell up to 15% stake",
-     "link": "https://www.livemint.com/market/ipo/upcoming-ipo-coca-cola-india-bottler-hcch-files-drhp-for-public-issue-majority-shareholder-to-sell-up-to-15-stake-11794070690577.html",
-     "source": "mint - markets",
-     "published": "2026-11-07T18:11:52+00:00",
-     "summary": "Coca-Cola India's bottling arm, HCCH, has filed draft documents for an IPO involving an offer for sale of up to 15% of its shares.",
-     "explain": "An IPO is when a company invites the public to buy shares, making it a publicly traded company. In this case, the company itself isn't raising money to build new plants; instead, the people who already own the company are selling part of their ownership to the public. It's a way for early investors to 'cash out' their stake.",
-     "related": [],
-     "story": {
-      "id": "markets-hcch-coca-cola-bottling-ipo",
-      "title": "HCCH Coca-Cola Bottling IPO",
-      "so_far": "Initial Public Offerings (IPOs) allow private companies to list on a stock exchange. An 'offer for sale' means the money from the IPO goes to existing investors who are selling their shares, rather than into the company itself for new investments.",
-      "timeline": [
+       },
+       {
+        "date": "2026-10-21",
+        "text": "Pre-market indicators suggest a modest gain for the Nifty, reflecting positive cues from international markets.",
+        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-19-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792543474837.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "Investors must purchase shares by October 22 to qualify for upcoming corporate payouts or stock splits scheduled for October 23.",
+        "link": "https://www.livemint.com/market/stock-market-news/dividend-bonus-split-last-chance-to-buy-today-ahead-of-record-date-techm-irfc-ltm-payout-ratio-other-details-11792604841012.html",
+        "source": "mint - markets"
+       },
        {
         "date": "2026-11-07",
-        "text": "The company has initiated the public offering process, which will allow existing shareholders to sell their stakes to the public.",
-        "link": "https://www.livemint.com/market/ipo/upcoming-ipo-coca-cola-india-bottler-hcch-files-drhp-for-public-issue-majority-shareholder-to-sell-up-to-15-stake-11794070690577.html",
+        "text": "The NSE announced operational changes to trading hours and price discovery, effective December 7, 2026.",
+        "link": "https://www.livemint.com/market/stock-market-news/nse-overhauls-key-trading-rules-closing-auction-session-f-o-expiry-trading-hours-revised-what-changes-from-dec-7-11794047384672.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-08",
+        "text": "The Muhurat trading session on November 8, 2026, closed in the red for the first time since 2017, dampened by geopolitical tensions and foreign capital outflows.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/muhurat-trading-sensex-up-320-pts-nifty-crosses-25100-tata-steel-sun-pharma-among-top-gainers/videoshow/135656015.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-08",
+        "text": "Factors including rising oil prices, Middle East tensions, and foreign outflows contributed to a rare negative finish for the festive trading session.",
+        "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-samvat-2082-ends-samvat-2083-begins-sensex-nifty-end-in-red-first-time-after-2017-reasons-11794130754040.html",
         "source": "mint - markets"
        }
       ]
      }
     },
     {
-     "id": "7c2b757b3b23",
-     "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-     "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
-     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
-     "published": "2026-11-07T16:51:00+00:00",
-     "summary": "Gnosis Pay has suffered a data breach resulting in the exposure of sensitive customer information, including addresses and wallet details.",
-     "explain": "A data breach is when unauthorized individuals gain access to a company's private records. Because Gnosis Pay connects traditional finance (cards) with crypto (wallets), this breach is particularly serious as it exposes both physical identity info and digital asset access points, which hackers could use to steal both money and personal credentials.",
+     "id": "df2afbb2b5e1",
+     "title": "Diwali Muhurat trading 2026: Why HDFC Bank shares a talking point today amid Samvat 2083 despite 13% monthly rally",
+     "link": "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-why-hdfc-bank-shares-a-talking-point-today-amid-samvat-2083-despite-13-monthly-rally-11794130829551.html",
+     "source": "mint - markets",
+     "published": "2026-11-08T10:02:48+00:00",
+     "summary": "HDFC Bank shares fell slightly during the Muhurat session despite a strong rally earlier in the week.",
+     "explain": "The Nifty Bank index is an index comprised of the most liquid and large-cap Indian banking stocks. A dip in this index suggests that investors are becoming more cautious about the financial sector's near-term outlook.",
      "related": [
       {
+       "date": "2026-11-05",
+       "title": "Muhurat Trading Picks: Shanti Gold to Apollo Micro Systems - Angel One’s 8 stocks to buy on Diwali 2026 for Samvat 2083",
+       "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-picks-shanti-gold-to-apollo-micro-systems-angel-one-s-8-stocks-to-buy-on-diwali-2026-for-samvat-2083-11793842607672.html",
+       "source": "mint - markets"
+      },
+      {
        "date": "2026-11-06",
-       "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
-       "link": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-       "source": "Cointelegraph.com News"
+       "title": "Diwali 2026: Is Samvat 2083 the start of Dalal Street’s next big rally?",
+       "link": "https://economictimes.indiatimes.com/markets/stocks/diwali-2026-is-samvat-2083-the-start-of-dalal-streets-next-big-rally/videoshow/135603351.cms",
+       "source": "Markets-Economic Times"
+      },
+      {
+       "date": "2026-11-07",
+       "title": "Muhurat trading 2026 guide: Gold ETF vs Silver ETF on Diwali day — what to buy for higher returns in Samvat 2083?",
+       "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-guide-gold-etf-vs-silver-etf-on-diwali-day-what-to-buy-for-higher-returns-in-samvat-2083-11794042037235.html",
+       "source": "mint - markets"
       }
      ],
      "story": {
-      "id": "markets-gnosis-pay-data-breach",
-      "title": "Gnosis Pay Data Breach",
-      "so_far": "Financial and crypto-service platforms manage highly sensitive personal data. Breaches occur when attackers exploit vulnerabilities in a company's digital infrastructure to steal the data of its users, leaving them vulnerable to financial fraud or identity theft.",
+      "id": "markets-hdfc-bank-market-analysis",
+      "title": "HDFC Bank Market Analysis",
+      "so_far": "HDFC Bank is India's largest private sector lender. It has experienced a volatile 2026, with the stock price underperforming significantly year-to-date despite short-term rallies.",
       "timeline": [
        {
-        "date": "2026-11-07",
-        "text": "A security incident has compromised user card numbers, home addresses, and linked cryptocurrency wallet information.",
-        "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+        "date": "2026-11-08",
+        "text": "HDFC Bank shares declined 0.32% on November 8, 2026, amid a broader dip in the Nifty Bank index.",
+        "link": "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-why-hdfc-bank-shares-a-talking-point-today-amid-samvat-2083-despite-13-monthly-rally-11794130829551.html",
+        "source": "mint - markets"
+       }
+      ]
+     }
+    },
+    {
+     "id": "1ca56a242276",
+     "title": "Tata Teleservices shares jump 6% in Muhurat Trading, extend 4-day rally to 23% | What's driving the surge?",
+     "link": "https://www.livemint.com/market/stock-market-news/tata-teleservices-shares-jump-6-in-muhurat-trading-extend-4-day-rally-to-23-whats-driving-the-surge-11794130908054.html",
+     "source": "mint - markets",
+     "published": "2026-11-08T09:55:07+00:00",
+     "summary": "Tata Teleservices shares continued an upward trend during the Muhurat session.",
+     "explain": "A regulatory penalty is a fine or restriction imposed by a government agency. In the telecom sector, these are common due to complex licensing and compliance requirements. A stock rising despite such news often indicates that investors are more focused on growth prospects or improvements in net losses.",
+     "related": [],
+     "story": {
+      "id": "markets-tata-teleservices-market-rally",
+      "title": "Tata Teleservices Market Rally",
+      "so_far": "Tata Teleservices is a provider of telecom services for businesses in India. The company has been working to improve its financial standing as it navigates a competitive telecommunications landscape and various regulatory challenges.",
+      "timeline": [
+       {
+        "date": "2026-11-08",
+        "text": "Shares climbed 6% on November 8, extending a four-day gain to 23% despite a recent penalty from the Department of Telecommunications.",
+        "link": "https://www.livemint.com/market/stock-market-news/tata-teleservices-shares-jump-6-in-muhurat-trading-extend-4-day-rally-to-23-whats-driving-the-surge-11794130908054.html",
+        "source": "mint - markets"
+       }
+      ]
+     }
+    },
+    {
+     "id": "2a90495a05a1",
+     "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
+     "link": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph.com News",
+     "published": "2026-11-08T09:48:48+00:00",
+     "summary": "Activists broke into a Microsoft data center construction site in the Netherlands.",
+     "explain": "Data centers are specialized facilities that house the servers required to power the internet, cloud storage, and AI models. They are resource-intensive, often drawing criticism from local environmental groups regarding their carbon footprint and resource usage.",
+     "related": [],
+     "story": {
+      "id": "markets-data-center-security-and-protests",
+      "title": "Data Center Security and Protests",
+      "so_far": "As the demand for AI and cloud computing grows, the construction of massive data centers has accelerated globally. These projects have increasingly faced local opposition due to concerns over electricity and water consumption.",
+      "timeline": [
+       {
+        "date": "2026-11-08",
+        "text": "Protesters successfully breached a construction site, leading to the detention of nearly 200 individuals by Dutch authorities.",
+        "link": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "3205044202cd",
+     "title": "EU Close to Deal to Link UK Carbon Market After Brexit Split",
+     "link": "https://www.livemint.com/market/eu-close-to-deal-to-link-uk-carbon-market-after-brexit-split-11794131188933.html",
+     "source": "mint - markets",
+     "published": "2026-11-08T09:46:28+00:00",
+     "summary": "The EU and UK are finalizing a deal to link their carbon markets.",
+     "explain": "A carbon market is a system where companies can buy and sell 'permits' to emit a certain amount of greenhouse gases. Linking two different markets allows for a more efficient price for carbon and helps ensure that companies across both regions face similar costs for their emissions, encouraging cleaner operations.",
+     "related": [],
+     "story": {
+      "id": "markets-uk-eu-carbon-market-integration",
+      "title": "UK-EU Carbon Market Integration",
+      "so_far": "Post-Brexit, the UK established its own carbon market separate from the EU's Emissions Trading System (ETS). Both markets are designed to limit greenhouse gas emissions by setting a cap on the total pollution allowed, which firms can trade like a commodity.",
+      "timeline": [
+       {
+        "date": "2026-11-08",
+        "text": "Negotiations are in the final stages to merge carbon emissions trading systems, which aims to improve market liquidity and reduce compliance costs.",
+        "link": "https://www.livemint.com/market/eu-close-to-deal-to-link-uk-carbon-market-after-brexit-split-11794131188933.html",
+        "source": "mint - markets"
        }
       ]
      }
