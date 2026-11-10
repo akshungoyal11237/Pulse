@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-10T02:24:33.737544+00:00",
- "prices_generated": "2026-11-10T04:42:00.054738+00:00",
+ "prices_generated": "2026-11-10T05:42:40.859580+00:00",
  "ai": "gemini",
  "pulse": "Indian markets remained closed today for the Diwali-Balipratipada holiday, though local sentiment remains focused on government efforts to boost EV manufacturing. US markets saw a significant rally as investors reacted to positive corporate developments and cooling tensions in the Middle East, which likely contributed to a sharp drop in oil prices. Meanwhile, precious metals like gold and silver posted gains, possibly reflecting cautious positioning ahead of upcoming US inflation data, even as crude oil prices fell on reduced geopolitical risk.",
  "ticker_strip": [
@@ -183,8 +183,8 @@
   "^IXIC": {
    "symbol": "^IXIC",
    "name": "Nasdaq",
-   "price": 25253.1387,
-   "change": 673.709,
+   "price": 25253.1406,
+   "change": 673.7109,
    "pct": 2.74,
    "pct_1m": -7.31,
    "spark": [
@@ -208,15 +208,15 @@
     25736.5098,
     24315.0,
     24579.4297,
-    25253.1387
+    25253.1406
    ],
    "asof": "2026-11-09"
   },
   "^DJI": {
    "symbol": "^DJI",
    "name": "Dow Jones",
-   "price": 52389.8008,
-   "change": 1104.0703,
+   "price": 52389.75,
+   "change": 1104.0195,
    "pct": 2.15,
    "pct_1m": 1.04,
    "spark": [
@@ -240,17 +240,17 @@
     53356.1211,
     51523.0586,
     51285.7305,
-    52389.8008
+    52389.75
    ],
    "asof": "2026-11-09"
   },
   "BTC-USD": {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 74617.2109,
-   "change": 32.5625,
-   "pct": 0.04,
-   "pct_1m": -10.0,
+   "price": 74777.4062,
+   "change": 192.7578,
+   "pct": 0.26,
+   "pct_1m": -9.81,
    "spark": [
     82912.2266,
     83679.4688,
@@ -282,17 +282,17 @@
     75746.9297,
     75747.5781,
     74584.6484,
-    74617.2109
+    74777.4062
    ],
    "asof": "2026-11-10"
   },
   "ETH-USD": {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 2116.1399,
-   "change": -4.8403,
-   "pct": -0.23,
-   "pct_1m": -15.49,
+   "price": 2124.3,
+   "change": 3.3198,
+   "pct": 0.16,
+   "pct_1m": -15.16,
    "spark": [
     2504.0278,
     2534.6992,
@@ -324,17 +324,17 @@
     2235.0474,
     2236.3152,
     2120.9802,
-    2116.1399
+    2124.3
    ],
    "asof": "2026-11-10"
   },
   "SOL-USD": {
    "symbol": "SOL-USD",
    "name": "Solana",
-   "price": 85.76,
-   "change": -0.4828,
-   "pct": -0.56,
-   "pct_1m": -22.06,
+   "price": 86.15,
+   "change": -0.0928,
+   "pct": -0.11,
+   "pct_1m": -21.71,
    "spark": [
     110.034,
     111.2413,
@@ -366,7 +366,7 @@
     90.0594,
     89.6687,
     86.2428,
-    85.76
+    86.15
    ],
    "asof": "2026-11-10"
   },
@@ -439,10 +439,10 @@
   "EURUSD=X": {
    "symbol": "EURUSD=X",
    "name": "EUR/USD",
-   "price": 1.1228,
-   "change": 0.0081,
-   "pct": 0.73,
-   "pct_1m": 0.21,
+   "price": 1.1226,
+   "change": 0.0079,
+   "pct": 0.7,
+   "pct_1m": 0.19,
    "spark": [
     1.1205,
     1.116,
@@ -465,7 +465,7 @@
     1.1235,
     1.1228,
     1.1147,
-    1.1228
+    1.1226
    ],
    "asof": "2026-11-10"
   },
@@ -505,12 +505,11 @@
   "GC=F": {
    "symbol": "GC=F",
    "name": "Gold",
-   "price": 4123.6001,
-   "change": 48.7002,
-   "pct": 1.2,
-   "pct_1m": -2.2,
+   "price": 4127.3999,
+   "change": 12.8999,
+   "pct": 0.31,
+   "pct_1m": -1.51,
    "spark": [
-    4216.2998,
     4190.6001,
     4177.2998,
     4107.8999,
@@ -531,19 +530,19 @@
     4073.0,
     4113.5,
     4074.8999,
-    4123.6001
+    4114.5,
+    4127.3999
    ],
-   "asof": "2026-11-09"
+   "asof": "2026-11-10"
   },
   "SI=F": {
    "symbol": "SI=F",
    "name": "Silver",
-   "price": 53.19,
-   "change": 1.387,
-   "pct": 2.68,
-   "pct_1m": -12.33,
+   "price": 53.255,
+   "change": 0.691,
+   "pct": 1.31,
+   "pct_1m": -11.45,
    "spark": [
-    60.67,
     60.141,
     59.161,
     55.55,
@@ -564,19 +563,19 @@
     52.12,
     52.233,
     51.803,
-    53.19
+    52.564,
+    53.255
    ],
-   "asof": "2026-11-09"
+   "asof": "2026-11-10"
   },
   "CL=F": {
    "symbol": "CL=F",
    "name": "WTI Crude",
-   "price": 85.86,
-   "change": -4.97,
-   "pct": -5.47,
-   "pct_1m": -6.52,
+   "price": 86.01,
+   "change": -0.84,
+   "pct": -0.97,
+   "pct_1m": -8.25,
    "spark": [
-    91.85,
     93.74,
     94.14,
     95.09,
@@ -597,19 +596,19 @@
     88.12,
     90.52,
     90.83,
-    85.86
+    86.85,
+    86.01
    ],
-   "asof": "2026-11-09"
+   "asof": "2026-11-10"
   },
   "BZ=F": {
    "symbol": "BZ=F",
    "name": "Brent Crude",
-   "price": 91.67,
-   "change": -6.65,
-   "pct": -6.76,
-   "pct_1m": -12.46,
+   "price": 91.76,
+   "change": -0.81,
+   "pct": -0.88,
+   "pct_1m": -13.96,
    "spark": [
-    104.72,
     106.65,
     105.69,
     106.06,
@@ -630,9 +629,10 @@
     94.62,
     98.29,
     98.32,
-    91.67
+    92.57,
+    91.76
    ],
-   "asof": "2026-11-09"
+   "asof": "2026-11-10"
   },
   "RELIANCE.NS": {
    "symbol": "RELIANCE.NS",
