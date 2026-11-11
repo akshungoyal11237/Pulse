@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-11T02:21:14.996823+00:00",
- "prices_generated": "2026-11-11T10:48:44.997736+00:00",
+ "generated": "2026-11-11T11:22:34.087722+00:00",
+ "prices_generated": "2026-11-11T11:22:34.087722+00:00",
  "ai": "gemini",
- "pulse": "Indian markets saw modest gains led by a strong performance in the banking sector, likely buoyed by significant corporate investment news like Blackstone’s stake in IIFL Finance. In contrast, US markets retreated as hot inflation data and cautious Federal Reserve comments fueled investor worries about potential interest rate adjustments. Meanwhile, cryptocurrencies and gold saw notable declines, possibly reflecting a broader risk-off sentiment as traders react to the uncertain interest rate outlook and strengthening dollar.",
+ "pulse": "Indian markets closed with strong gains today, led by a surge in banking stocks and positive sentiment around major corporate developments like Bajaj Finance's upcoming share sale. In contrast, US indices drifted lower as investors remained cautious amidst broader economic uncertainty and tech sector headwinds. Meanwhile, precious metals like silver and gold saw a notable rise, likely driven by investors seeking safe-haven assets as global market volatility continues.",
  "ticker_strip": [
   "^NSEI",
   "^BSESN",
@@ -250,10 +250,10 @@
   "BTC-USD": {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 73858.3984,
-   "change": 138.2812,
-   "pct": 0.19,
-   "pct_1m": -11.74,
+   "price": 73979.2891,
+   "change": 259.1719,
+   "pct": 0.35,
+   "pct_1m": -11.59,
    "spark": [
     83679.4688,
     81762.5625,
@@ -286,17 +286,17 @@
     74584.6484,
     75223.1484,
     73720.1172,
-    73858.3984
+    73979.2891
    ],
    "asof": "2026-11-11"
   },
   "ETH-USD": {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 2055.29,
-   "change": 5.1091,
-   "pct": 0.25,
-   "pct_1m": -18.91,
+   "price": 2058.79,
+   "change": 8.6091,
+   "pct": 0.42,
+   "pct_1m": -18.78,
    "spark": [
     2534.6992,
     2444.3574,
@@ -329,17 +329,17 @@
     2120.9802,
     2131.4985,
     2050.1809,
-    2055.29
+    2058.79
    ],
    "asof": "2026-11-11"
   },
   "SOL-USD": {
    "symbol": "SOL-USD",
    "name": "Solana",
-   "price": 83.59,
-   "change": 0.3297,
-   "pct": 0.4,
-   "pct_1m": -24.86,
+   "price": 83.86,
+   "change": 0.5997,
+   "pct": 0.72,
+   "pct_1m": -24.61,
    "spark": [
     111.2413,
     105.5594,
@@ -372,7 +372,7 @@
     86.2428,
     86.5493,
     83.2603,
-    83.59
+    83.86
    ],
    "asof": "2026-11-11"
   },
@@ -447,10 +447,10 @@
   "EURUSD=X": {
    "symbol": "EURUSD=X",
    "name": "EUR/USD",
-   "price": 1.1146,
-   "change": -0.0077,
-   "pct": -0.68,
-   "pct_1m": -0.53,
+   "price": 1.114,
+   "change": -0.0083,
+   "pct": -0.74,
+   "pct_1m": -0.58,
    "spark": [
     1.1205,
     1.116,
@@ -474,7 +474,7 @@
     1.1228,
     1.1147,
     1.1222,
-    1.1146
+    1.114
    ],
    "asof": "2026-11-11"
   },
@@ -515,10 +515,10 @@
   "GC=F": {
    "symbol": "GC=F",
    "name": "Gold",
-   "price": 4054.8999,
-   "change": 24.7,
-   "pct": 0.61,
-   "pct_1m": -3.24,
+   "price": 4061.6001,
+   "change": 31.4001,
+   "pct": 0.78,
+   "pct_1m": -3.08,
    "spark": [
     4190.6001,
     4177.2998,
@@ -542,17 +542,17 @@
     4074.8999,
     4114.5,
     4030.2,
-    4054.8999
+    4061.6001
    ],
    "asof": "2026-11-11"
   },
   "SI=F": {
    "symbol": "SI=F",
    "name": "Silver",
-   "price": 52.905,
-   "change": 1.804,
-   "pct": 3.53,
-   "pct_1m": -12.03,
+   "price": 52.97,
+   "change": 1.869,
+   "pct": 3.66,
+   "pct_1m": -11.92,
    "spark": [
     60.141,
     59.161,
@@ -576,17 +576,17 @@
     51.803,
     52.564,
     51.101,
-    52.905
+    52.97
    ],
    "asof": "2026-11-11"
   },
   "CL=F": {
    "symbol": "CL=F",
    "name": "WTI Crude",
-   "price": 87.31,
-   "change": 1.27,
-   "pct": 1.48,
-   "pct_1m": -6.86,
+   "price": 86.8,
+   "change": 0.76,
+   "pct": 0.88,
+   "pct_1m": -7.4,
    "spark": [
     93.74,
     94.14,
@@ -610,17 +610,17 @@
     90.83,
     86.85,
     86.04,
-    87.31
+    86.8
    ],
    "asof": "2026-11-11"
   },
   "BZ=F": {
    "symbol": "BZ=F",
    "name": "Brent Crude",
-   "price": 93.56,
-   "change": 2.07,
-   "pct": 2.26,
-   "pct_1m": -12.27,
+   "price": 92.94,
+   "change": 1.45,
+   "pct": 1.58,
+   "pct_1m": -12.86,
    "spark": [
     106.65,
     105.69,
@@ -644,7 +644,7 @@
     98.32,
     92.57,
     91.49,
-    93.56
+    92.94
    ],
    "asof": "2026-11-11"
   },
@@ -965,374 +965,242 @@
    "label": "India",
    "articles": [
     {
-     "id": "146672522535",
-     "title": "National Education Day 2026: From IITs To UGC, Institutions That Reflect Azad's Education Vision",
-     "link": "https://www.ndtv.com/education/national-education-day-2026-from-iits-to-ugc-institutions-that-reflect-azads-education-vision-12310487#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-11-11T01:41:46+00:00",
-     "summary": "India celebrates National Education Day to honor Maulana Abul Kalam Azad's contributions to the country's education system. The day highlights the legacy of India's first education minister in establishing foundational institutions like IITs and the UGC.",
-     "explain": "National Education Day is celebrated annually on November 11th to mark the birth anniversary of Maulana Azad. It serves as a reminder of the government's commitment to building a robust academic infrastructure. The UGC is the primary agency that provides funds and sets academic criteria for universities across the nation.",
-     "related": [],
-     "story": {
-      "id": "india-national-education-day-commemorations",
-      "title": "National Education Day Commemorations",
-      "so_far": "Maulana Abul Kalam Azad served as India's first Minister of Education from 1947 to 1958. He is widely credited with establishing the Indian Institutes of Technology (IITs) and the University Grants Commission (UGC), which regulates higher education standards in India.",
-      "timeline": [
-       {
-        "date": "2026-11-11",
-        "text": "The 2026 celebrations emphasize the continued relevance of Azad's vision for inclusive and accessible higher education.",
-        "link": "https://www.ndtv.com/education/national-education-day-2026-from-iits-to-ugc-institutions-that-reflect-azads-education-vision-12310487#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       }
-      ]
-     }
-    },
-    {
-     "id": "1dffdf0ce20d",
-     "title": "Cross-Border Arms, Drug Trafficking Networks Busted In Punjab, 7 Arrested",
-     "link": "https://www.ndtv.com/india-news/cross-border-arms-drug-trafficking-networks-busted-in-punjabs-amritsar-7-arrested-12310473#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-11-11T01:34:41+00:00",
-     "summary": "Punjab police arrested seven individuals and dismantled an active cross-border network involved in drug and illegal arms trafficking. Authorities recovered significant quantities of opium and illegal firearms.",
-     "explain": "Cross-border trafficking refers to the illegal movement of goods—such as drugs and weapons—across international lines. These networks are often linked to organized crime and pose a threat to public safety by fueling violence and addiction. Law enforcement agencies use surveillance and intelligence reports to identify and bust these syndicates.",
-     "related": [],
-     "story": {
-      "id": "india-cross-border-trafficking-investigations",
-      "title": "Cross-Border Trafficking Investigations",
-      "so_far": "Punjab shares a long, sensitive border with Pakistan, which has long been a conduit for illegal smuggling of narcotics and weapons. Security agencies, including the Border Security Force (BSF) and state police, frequently conduct counter-trafficking operations to prevent these items from entering the domestic black market.",
-      "timeline": [
-       {
-        "date": "2026-11-11",
-        "text": "Police disrupted a major illicit supply chain involving arms and narcotics in Punjab.",
-        "link": "https://www.ndtv.com/india-news/cross-border-arms-drug-trafficking-networks-busted-in-punjabs-amritsar-7-arrested-12310473#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       }
-      ]
-     }
-    },
-    {
-     "id": "379225088318",
-     "title": "Over 74 lakh voters missing from Tamil Nadu electoral rolls, says citizens’ collective",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/over-74-lakh-voters-missing-from-tamil-nadu-electoral-rolls-says-citizens-collective/article71685695.ece",
+     "id": "6955a5e900bc",
+     "title": "J&K attack: Three injured after terrorists open fire on CRPF personnel in Kulgam",
+     "link": "https://www.thehindu.com/news/national/kulgam-jammu-kashmir-crpf-attack-updates-november-11-2026/article71689037.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-11T01:27:25+00:00",
-     "summary": "A citizens' group in Tamil Nadu claims that over 7.4 million voters are missing from the state's electoral rolls. They have organized a protest to challenge the ongoing Special Intensive Revision process.",
-     "explain": "Electoral rolls are the official lists of registered voters eligible to vote in an election. A 'Special Intensive Revision' is a periodic exercise conducted by the Election Commission of India (ECI) to verify data, add new voters, and remove names that are no longer eligible. If names are deleted incorrectly, it can disenfranchise eligible citizens, leading to public protests.",
+     "published": "2026-11-11T10:36:03+00:00",
+     "summary": "Terrorists on a motorcycle opened fire on CRPF personnel stationed at a checkpoint in Kulgam, Jammu and Kashmir, resulting in injuries.",
+     "explain": "A 'naka' is a temporary police or military checkpoint used to monitor vehicles and pedestrians. This incident highlights the ongoing security volatility in the region, where insurgents use swift, surprise attacks to target security personnel and disrupt order. Such attacks often lead to immediate security lockdowns and intensive manhunts by counter-terrorism units.",
      "related": [],
      "story": {
-      "id": "india-election-commission-internal-operations",
-      "title": "Election Commission Internal Operations",
-      "so_far": "The ECI is an independent body that manages Indian elections. Procedures like Form 6 are crucial for voter registration. Recent scrutiny from the Supreme Court has highlighted the importance of transparency and accuracy in the electoral roll process, with 13.5 crore names reportedly removed during a recent revision.",
+      "id": "india-terrorist-attack-in-kulgam",
+      "title": "Terrorist Attack in Kulgam",
+      "so_far": "Jammu and Kashmir continues to face security challenges from localized insurgent activities. Security forces, including the Central Reserve Police Force (CRPF), maintain heavy deployments at checkpoints ('nakas') to deter attacks and monitor movement in sensitive districts like Kulgam.",
       "timeline": [
        {
-        "date": "2026-10-29",
-        "text": "The opposition INDIA bloc scheduled a 'public impeachment' event against the CEC, led by senior figures like Mallikarjun Kharge and Rahul Gandhi.",
-        "link": "https://www.thehindu.com/news/national/india-blocs-public-impeachment-of-cec-likely-to-avoid-mocking-parliament/article71639811.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-30",
-        "text": "Political actors are actively using Form 7 to challenge voter registrations, leading to community concerns over transparency.",
-        "link": "https://www.thehindu.com/news/cities/Delhi/in-delhi-bjp-booth-agents-file-deletion-forms-against-muslim-voters-living-at-their-addresses/article71641353.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-02",
-        "text": "A high rejection rate of voter registration applications has been attributed to clerical errors regarding mandatory declaration forms.",
-        "link": "https://www.thehindu.com/news/national/telangana/37-of-pre-sir-form-6-applications-rejected-due-to-absence-of-declaration-form/article71640758.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-03",
-        "text": "Prabhakar highlighted concerns about declining voter numbers in constituencies while questioning the status of citizens marked as 'permanently shifted' in electoral rolls.",
-        "link": "https://www.thehindu.com/news/national/telangana/parakala-prabhakar-questions-if-governments-elected-post-2014-were-illegal/article71660336.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-04",
-        "text": "Audit findings in the Mahadevapura constituency confirmed over 800 voter IDs linked to duplicate names, highlighting ongoing electoral roll verification issues.",
-        "link": "https://www.thehindu.com/news/cities/bangalore/in-karnataka-seat-where-vote-chori-claims-first-surfaced-over-800-voter-ids-linked-to-397-names-after-sir/article71661304.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-05",
-        "text": "The ECI is streamlining voter registration documentation by removing mandatory declaration forms in specific states undergoing electoral roll updates.",
-        "link": "https://www.thehindu.com/news/national/eci-separates-online-form-6-accompanying-declaration-for-states-undergoing-sir/article71665706.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Government officials have pushed back against opposition claims regarding the electoral roll revision, calling for fact-based discourse.",
-        "link": "https://www.thehindu.com/news/national/bihar/congress-wants-to-spread-anarchy-in-the-name-of-democracy-bhupender-yadav/article71670188.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "A fresh opportunity for voter registration has been granted across seven states and union territories, including Delhi.",
-        "link": "https://www.thehindu.com/news/national/eci-sir-draft-rolls-fresh-opportunity-to-electors-seven-states/article71674069.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-07",
-        "text": "The proposal, linked to electoral roll revisions, has triggered concerns that those removed from the rolls may also be denied government welfare services.",
-        "link": "https://www.thehindu.com/news/national/voter-id-for-welfare-what-rajiv-ranjan-singhs-proposal-could-mean/article71677492.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-09",
-        "text": "A Ladakh-based group has demanded an election delay, alleging that large-scale voter list deletions have occurred nationwide.",
-        "link": "https://www.thehindu.com/news/national/ladakh/postpone-panchayat-municipal-elections-to-april-may-next-year-ladakh-group/article71683915.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-10",
-        "text": "The ECI expanded the scope of the Model Code of Conduct to include state-appointed retired officials.",
-        "link": "https://www.thehindu.com/news/national/eci-extends-model-code-restrictions-to-retired-govt-officials-engaged-by-states/article71685602.ece",
+        "date": "2026-11-11",
+        "text": "Three security personnel were injured following a targeted shooting incident by motorcycle-borne assailants.",
+        "link": "https://www.thehindu.com/news/national/kulgam-jammu-kashmir-crpf-attack-updates-november-11-2026/article71689037.ece",
         "source": "India Latest News: Top National Headline"
        },
        {
         "date": "2026-11-11",
-        "text": "A citizens' collective in Tamil Nadu is protesting the removal of 74 lakh voters from electoral rolls, citing errors in the revision process.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/over-74-lakh-voters-missing-from-tamil-nadu-electoral-rolls-says-citizens-collective/article71685695.ece",
-        "source": "India Latest News: Top National Headline"
+        "text": "The CRPF officially confirmed the attack occurred around 2:15 pm.",
+        "link": "https://www.ndtv.com/india-news/jammu-and-kashmir-firing-terrorists-fire-at-security-personnel-in-jammu-and-kashmis-kulgam-crpfs-full-statement-12312211#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
        }
       ]
      }
     },
     {
-     "id": "1b0a2658ed3e",
-     "title": "Pranab Mukherjee hinted at desire to become PM, ‘shocked’ me, writes Sonia Gandhi",
-     "link": "https://www.thehindu.com/news/national/pranab-mukherjee-hinted-at-desire-to-become-pm-shocked-me-writes-sonia-gandhi/article71686777.ece",
+     "id": "c835211b67bb",
+     "title": "Terrorists Fire At Security Personnel In J&K's Kulgam. CRPF's Full Statement",
+     "link": "https://www.ndtv.com/india-news/jammu-and-kashmir-firing-terrorists-fire-at-security-personnel-in-jammu-and-kashmis-kulgam-crpfs-full-statement-12312211#publisher=newsstand",
+     "source": "NDTV News Search Records Found 1000",
+     "published": "2026-11-11T09:48:16+00:00",
+     "summary": "The CRPF released a statement regarding the terror attack on their personnel in Kulgam, which occurred in the afternoon.",
+     "explain": "The Central Reserve Police Force (CRPF) is India's largest central armed police force, often deployed for internal security and counter-insurgency operations. Official statements following attacks serve to clarify the timeline and details of the incident for the public and media.",
+     "related": [],
+     "story": {
+      "id": "india-terrorist-attack-in-kulgam",
+      "title": "Terrorist Attack in Kulgam",
+      "so_far": "Jammu and Kashmir continues to face security challenges from localized insurgent activities. Security forces, including the Central Reserve Police Force (CRPF), maintain heavy deployments at checkpoints ('nakas') to deter attacks and monitor movement in sensitive districts like Kulgam.",
+      "timeline": [
+       {
+        "date": "2026-11-11",
+        "text": "Three security personnel were injured following a targeted shooting incident by motorcycle-borne assailants.",
+        "link": "https://www.thehindu.com/news/national/kulgam-jammu-kashmir-crpf-attack-updates-november-11-2026/article71689037.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-11",
+        "text": "The CRPF officially confirmed the attack occurred around 2:15 pm.",
+        "link": "https://www.ndtv.com/india-news/jammu-and-kashmir-firing-terrorists-fire-at-security-personnel-in-jammu-and-kashmis-kulgam-crpfs-full-statement-12312211#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b4f7f8f9a657",
+     "title": "Periyar Arivulagam row: Book purchase order for Tiruchi’s Kamarajar Grand Library cancelled",
+     "link": "https://www.thehindu.com/news/cities/Tiruchirapalli/book-purchase-order-for-kamarajar-grand-library-cancelled/article71686227.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-11T01:26:53+00:00",
-     "summary": "Sonia Gandhi's new memoir reveals a 2010 conversation where former President Pranab Mukherjee expressed ambition to become Prime Minister, which she noted surprised her. The revelation has sparked a public debate, with Mukherjee's daughter defending her father's political aspirations.",
-     "explain": "Political memoirs are autobiographical books written by leaders to provide their perspective on past historical events. These often contain private conversations or behind-the-scenes accounts that offer insight into how government and party decisions were made, though they naturally reflect the author's viewpoint.",
+     "published": "2026-11-11T11:19:51+00:00",
+     "summary": "The Tamil Nadu government cancelled a book purchase order for the Kamarajar Grand Library in Tiruchi amid local controversy.",
+     "explain": "When government agencies cancel procurement orders for cultural institutions, it often points to a shift in political or administrative priorities. These decisions affect the educational resources available to the public and are frequently subject to intense local scrutiny regarding the selection process.",
      "related": [],
      "story": {
-      "id": "india-political-memoirs-and-history",
-      "title": "Political Memoirs and History",
-      "so_far": "Pranab Mukherjee was a towering figure in the Indian National Congress who served as Finance Minister and later as the 13th President of India (2012–2017). Sonia Gandhi served as the long-time president of the Congress party.",
+      "id": "india-tiruchi-library-book-procurement-controv",
+      "title": "Tiruchi Library Book Procurement Controversy",
+      "so_far": "Publicly funded libraries in India often procure books through competitive tenders. Decisions regarding which books to include can sometimes become points of contention if they touch upon sensitive political or social figures, leading to administrative reversals.",
       "timeline": [
        {
         "date": "2026-11-11",
-        "text": "The publication of Sonia Gandhi's memoir has reignited historical discussions regarding the leadership dynamics within the Congress party during the UPA era.",
-        "link": "https://www.thehindu.com/news/national/pranab-mukherjee-hinted-at-desire-to-become-pm-shocked-me-writes-sonia-gandhi/article71686777.ece",
+        "text": "The government has rescinded the procurement order and instructed publishers to recall their submissions currently held at the District Central Library.",
+        "link": "https://www.thehindu.com/news/cities/Tiruchirapalli/book-purchase-order-for-kamarajar-grand-library-cancelled/article71686227.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "e28a05b6e1f7",
-     "title": "After Bangladesh rules out passport for Hasina, India says ‘travel document’ needed",
-     "link": "https://www.thehindu.com/news/national/after-bangladesh-rules-out-passport-for-hasina-india-says-travel-document-needed/article71686655.ece",
+     "id": "bb9e566aaaa7",
+     "title": "Kolkata-Sairang Express derails in Assam: A look at other recent train accidents",
+     "link": "https://www.thehindu.com/news/national/kolkata-sairang-express-train-accident-what-are-the-other-train-incidents/article71689071.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-11T01:26:33+00:00",
-     "summary": "The Indian Ministry of External Affairs clarified that a valid travel document is required for the potential extradition of former Bangladeshi Prime Minister Sheikh Hasina. This follows reports that Bangladesh has revoked her passport.",
-     "explain": "Extradition is the formal legal process where one country asks another to hand over a person accused of a crime. A passport or official 'travel document' is a standard requirement for verifying identity and facilitating movement. Stating this is a 'technical issue' suggests the two nations are navigating complex diplomatic and legal requirements.",
+     "published": "2026-11-11T11:19:41+00:00",
+     "summary": "The derailment of the Kolkata-Sairang Express has triggered a fresh review of rail safety protocols across India.",
+     "explain": "A derailment occurs when a train comes off its tracks. These accidents are major public concerns in India because of the vast reliance on rail travel. Authorities investigate these events to determine if the cause was human error, mechanical failure, or infrastructure degradation.",
      "related": [],
      "story": {
-      "id": "india-sheikh-hasina-extradition-status",
-      "title": "Sheikh Hasina Extradition Status",
-      "so_far": "Sheikh Hasina resigned as Prime Minister of Bangladesh and fled to India in August 2024 following massive civil unrest. The current interim government in Bangladesh has expressed interest in holding her accountable for her actions while in office.",
+      "id": "india-rail-safety-and-accident-reviews",
+      "title": "Rail Safety and Accident Reviews",
+      "so_far": "Indian Railways operates one of the world's largest rail networks, which is frequently subject to safety audits following derailments or collisions. Officials generally focus on track maintenance, signaling, and anti-collision technology when reviewing these accidents.",
       "timeline": [
        {
         "date": "2026-11-11",
-        "text": "India confirmed that international travel protocols, specifically the need for a valid travel document, remain a prerequisite for any extradition request concerning the former Bangladeshi leader.",
-        "link": "https://www.thehindu.com/news/national/after-bangladesh-rules-out-passport-for-hasina-india-says-travel-document-needed/article71686655.ece",
+        "text": "The incident has prompted authorities to re-examine safety safeguards and historical accident patterns.",
+        "link": "https://www.thehindu.com/news/national/kolkata-sairang-express-train-accident-what-are-the-other-train-incidents/article71689071.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "d93d419510d3",
-     "title": "Kerala Travel Agency Director Arrested In Overseas Job Fraud Case",
-     "link": "https://www.ndtv.com/india-news/kerala-travel-agency-director-arrested-in-job-fraud-case-12310456#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-11-11T01:20:29+00:00",
-     "summary": "Kerala police arrested the director of a travel agency, Mary Lopez, following allegations of a job fraud scheme involving overseas employment. Investigations are ongoing.",
-     "explain": "Overseas job fraud occurs when companies promise non-existent foreign employment in exchange for money. Victims are often left without jobs or money, and sometimes stuck in foreign countries without legal status. Police monitor such agencies to ensure they have the proper government licenses to act as recruitment agents.",
-     "related": [],
-     "story": {
-      "id": "india-employment-fraud-investigations",
-      "title": "Employment Fraud Investigations",
-      "so_far": "Many travel agencies in India facilitate work visas for citizens seeking employment abroad. However, criminal syndicates frequently exploit desperate job seekers by charging large fees for fake job offers or invalid travel documents, a common type of financial crime in states with high outward migration.",
-      "timeline": [
-       {
-        "date": "2026-11-11",
-        "text": "A travel agency director in Kerala was arrested for allegedly cheating job seekers with false promises of foreign employment.",
-        "link": "https://www.ndtv.com/india-news/kerala-travel-agency-director-arrested-in-job-fraud-case-12310456#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       }
-      ]
-     }
-    },
-    {
-     "id": "939faadc9efa",
-     "title": "Amid Boycott Call, Ladakh To Hold Hill Council Elections On December 4",
-     "link": "https://www.ndtv.com/india-news/amid-boycott-call-ladakh-to-hold-hill-council-elections-on-december-4-12310382#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-11-11T00:32:10+00:00",
-     "summary": "Ladakh has scheduled its Hill Council elections for December 4. Despite calls for a boycott, officials are proceeding with the expansion of the council, which will now feature 100 constituencies including reserved seats for women.",
-     "explain": "The Hill Council is a semi-autonomous body that manages local affairs like development projects, education, and health in Ladakh. Expanding constituencies and reserving seats for women is a government effort to improve local representation and governance in the remote Union Territory.",
-     "related": [],
-     "story": {
-      "id": "india-ladakh-hill-council-elections",
-      "title": "Ladakh Hill Council Elections",
-      "so_far": "Ladakh was carved out as a Union Territory from Jammu and Kashmir in 2019. The Ladakh Autonomous Hill Development Council (LAHDC) is the primary governing body for the region's districts. There have been ongoing local debates regarding the region's political autonomy and constitutional protections.",
-      "timeline": [
-       {
-        "date": "2026-11-11",
-        "text": "The election date is set for December 4, 2026, marking a significant expansion of the regional council structure.",
-        "link": "https://www.ndtv.com/india-news/amid-boycott-call-ladakh-to-hold-hill-council-elections-on-december-4-12310382#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       }
-      ]
-     }
-    },
-    {
-     "id": "bf6f8fd5ba7b",
-     "title": "Man Dies After Assault Over Rs 200 Temple Lights Payment In UP: Cops",
-     "link": "https://www.ndtv.com/india-news/man-dies-after-assault-over-rs-200-temple-lights-payment-in-pilibhit-in-up-cops-12310357#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-11-10T23:57:27+00:00",
-     "summary": "A 28-year-old man was killed in Uttar Pradesh following an assault over a small payment of Rs 200 for temple lights. Local police have initiated an investigation into the incident.",
-     "explain": "Vigilantism or mob violence occurs when individuals bypass the legal system to enforce their own form of justice or settle disputes through force. When these incidents turn fatal, they trigger police investigations into 'culpable homicide' or murder. These acts are often driven by sudden outbursts of anger or deep-seated local prejudices.",
-     "related": [],
-     "story": {
-      "id": "india-mob-violence-and-vigilantism",
-      "title": "Mob Violence and Vigilantism",
-      "so_far": "India periodically reports incidents where private citizens or groups take the law into their own hands, often fueled by social media rumors, local suspicion, or prejudices. These acts of 'mob justice' often target marginalized or vulnerable individuals, causing widespread public outrage and prompting police intervention to restore order.",
-      "timeline": [
-       {
-        "date": "2026-10-23",
-        "text": "Authorities are investigating a lethal case of mob vigilantism in Palakkad where a disabled man was killed by a group.",
-        "link": "https://www.thehindu.com/news/national/kerala/when-mob-takes-law-into-its-own-hands-another-man-lynched-in-keralams-palakkad/article71608681.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-09",
-        "text": "A fatal altercation occurred in Tiruchi during Deepavali celebrations, highlighting risks of localized violent disputes.",
-        "link": "https://www.thehindu.com/news/cities/Tiruchirapalli/quarrel-over-bursting-crackers-ends-up-in-youths-murder-in-tiruchi-district/article71681845.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-10",
-        "text": "A fatal assault occurred in Uttar Pradesh sparked by a minor financial dispute, highlighting ongoing issues with localized violence.",
-        "link": "https://www.ndtv.com/india-news/man-dies-after-assault-over-rs-200-temple-lights-payment-in-pilibhit-in-up-cops-12310357#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       }
-      ]
-     }
-    },
-    {
-     "id": "1f3df4723e93",
-     "title": "Man Arrested For Raping Woman, Filming Incident In UP: Cops",
-     "link": "https://www.ndtv.com/india-news/man-arrested-for-raping-woman-filming-incident-in-ups-vrindavan-cops-12310322#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-11-10T23:10:56+00:00",
-     "summary": "A man identified as Anil Kumar was arrested in Uttar Pradesh for allegedly raping a woman and recording the incident on video. Police are currently processing the case.",
-     "explain": "Cases involving the filming of sexual assaults are treated as severe violations in India, often leading to charges under both the Indian Penal Code (for sexual violence) and the Information Technology Act (for the illicit distribution of digital content). These incidents frequently draw significant media and political attention.",
-     "related": [],
-     "story": {
-      "id": "india-crime-and-investigation-reports",
-      "title": "Crime and Investigation Reports",
-      "so_far": "Public safety incidents involving celebrities in Mumbai frequently trigger immediate political attention and rapid deployment of elite police units due to the high profile of the victims and the risk to the city's reputation.",
-      "timeline": [
-       {
-        "date": "2026-11-04",
-        "text": "The primary suspect in the hit-and-run of a Madhya Pradesh police officer has been apprehended, with investigations ongoing into their criminal network.",
-        "link": "https://www.thehindu.com/news/national/madhya-pradesh/driver-who-ran-over-mp-police-officer-arrested/article71661767.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "A fast-track legal process in Gujarat resulted in a life sentence for a murder committed at a public bus station, with the verdict reached within a month of the charge sheet filing.",
-        "link": "https://www.ndtv.com/india-news/gujarat-man-faisal-lakhani-jailed-for-life-for-killing-partner-at-bus-station-12290454#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Nora Fatehi appeared in court to provide testimony regarding the extortion case involving Sukesh Chandrasekhar.",
-        "link": "https://www.thehindu.com/news/cities/Delhi/nora-fatehi-appears-in-delhi-court-in-extortion-case-involving-sukesh-chandrasekhar/article71673825.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Nora Fatehi clarified her immigration status while testifying in the extortion trial.",
-        "link": "https://www.ndtv.com/india-news/nora-fatehi-tells-court-in-sukesh-chandrasekhar-case-in-india-on-work-visa-12292566#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-07",
-        "text": "Additional context confirms the shooting was the culmination of a recurring dispute over a pet.",
-        "link": "https://www.ndtv.com/india-news/man-who-worked-for-tech-mahindra-in-singapore-murdered-in-faridabad-festering-dispute-over-dog-argument-over-parking-then-gunfire-12296993#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-08",
-        "text": "A fatal shooting in Faridabad linked to neighborly disputes over parking and pets is being investigated by local authorities.",
-        "link": "https://www.thehindu.com/news/cities/Delhi/singapore-based-senior-it-executive-shot-dead-over-parking-dispute-in-faridabad/article71678760.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-08",
-        "text": "A missing person case in Guwahati has transitioned into a homicide investigation following the discovery of a body.",
-        "link": "https://www.ndtv.com/india-news/guwahati-missing-womans-decomposed-body-found-in-gunny-bag-near-temple-12298892#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-09",
-        "text": "Emergency services in Mumbai responded to two significant fire incidents, resulting in at least one death.",
-        "link": "https://www.thehindu.com/news/cities/mumbai/major-fire-breaks-out-in-mumbais-dongri-dousing-ops-on-one-dead-in-november-7-highrise-blaze/article71681271.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-09",
-        "text": "Trinamool Congress MLA Paresh Ram Das has been arrested, continuing a trend of arrests involving TMC leaders since the BJP took power in West Bengal.",
-        "link": "https://www.thehindu.com/news/cities/kolkata/trinamool-mla-paresh-ram-das-arrested-on-charges-of-rape-and-extortion/article71683579.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-09",
-        "text": "A tragic fire in Maharashtra resulted in the loss of six lives, with only one child surviving.",
-        "link": "https://www.thehindu.com/news/national/maharashtra/six-of-family-killed-in-fire-at-home-above-grocery-store-in-maharashtra/article71683897.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-10",
-        "text": "Cyber forensic experts have retrieved a deleted video allegedly showing child abuse involving the accused.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/police-seize-third-video-allegedly-showing-gem-granites-veeramani-abusing-minor/article71683139.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-10",
-        "text": "A sexual assault suspect was taken into custody in Uttar Pradesh following the filming of the criminal act.",
-        "link": "https://www.ndtv.com/india-news/man-arrested-for-raping-woman-filming-incident-in-ups-vrindavan-cops-12310322#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       }
-      ]
-     }
-    },
-    {
-     "id": "ff4e4d6f3988",
-     "title": "Bihar CM suspends 15 officers for negligence of duty",
-     "link": "https://www.thehindu.com/news/national/bihar/bihar-cm-suspends-15-officers-for-negligence-of-duty/article71686309.ece",
+     "id": "1388d9be4526",
+     "title": "‘பா.ஜ.கவால் இந்தியாவின் கட்டமைப்பிற்கு பெரும் சேதம் ஏற்பட்டுள்ளது’ | சோனியா காந்தியின் பிரத்யேகப் பேட்டி",
+     "link": "https://www.thehindu.com/news/national/sonia-gandhi-interview-in-tamil/article71689126.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-10T22:49:24+00:00",
-     "summary": "The Chief Minister of Bihar has suspended 15 government officers from various departments, citing negligence of duty. The officials belong to departments ranging from land reform to urban development.",
-     "explain": "Suspension is a temporary disciplinary action where an officer is removed from their current post while an investigation into their conduct is performed. Negligence of duty refers to the failure of a public servant to carry out tasks required by their job description, such as file processing or project oversight.",
+     "published": "2026-11-11T11:19:38+00:00",
+     "summary": "Sonia Gandhi gave an interview criticizing the current political administration for damaging India's institutional framework.",
+     "explain": "Institutional framework refers to the various bodies—like the judiciary, the Election Commission, and the press—that uphold democracy. Critique regarding 'damage' to these institutions is a common feature of Indian political discourse, reflecting a debate over whether the executive branch is concentrating too much power.",
      "related": [],
      "story": {
-      "id": "india-administrative-accountability-in-bihar",
-      "title": "Administrative Accountability in Bihar",
-      "so_far": "Administrative inefficiency is a frequent concern in Indian state governments. Chief Ministers often exercise their power to suspend officers as a disciplinary measure to enforce accountability and improve the delivery of public services.",
+      "id": "india-opposition-political-critique",
+      "title": "Opposition Political Critique",
+      "so_far": "Sonia Gandhi is a senior leader of the Indian National Congress (INC). Political discourse in India frequently involves opposition leaders highlighting concerns over the weakening of independent constitutional and democratic institutions under the ruling BJP government.",
       "timeline": [
        {
-        "date": "2026-11-10",
-        "text": "Bihar's administration suspended 15 civil servants for failure to perform official responsibilities.",
-        "link": "https://www.thehindu.com/news/national/bihar/bihar-cm-suspends-15-officers-for-negligence-of-duty/article71686309.ece",
+        "date": "2026-11-11",
+        "text": "Sonia Gandhi stated in an interview that the BJP's governance has negatively impacted the structural integrity of India's institutions.",
+        "link": "https://www.thehindu.com/news/national/sonia-gandhi-interview-in-tamil/article71689126.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b9c85f02a48e",
+     "title": "Bengaluru family murders: DCP North Division appointed Investigating Officer in case",
+     "link": "https://www.thehindu.com/news/national/karnataka/bengaluru-family-murders-dcp-north-division-appointed-investigating-officer-in-case/article71688849.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-11T11:19:31+00:00",
+     "summary": "Authorities in Bengaluru have appointed a high-ranking officer to investigate a family murder case and are seeking a fast-track trial.",
+     "explain": "A Special Public Prosecutor (SPP) is an attorney appointed by the state to represent the government in serious criminal trials. A fast-track court is a temporary or permanent judicial setup designed to dispose of cases in a time-bound manner, preventing the backlogs often found in standard district courts.",
+     "related": [],
+     "story": {
+      "id": "india-bengaluru-family-murder-investigation",
+      "title": "Bengaluru Family Murder Investigation",
+      "so_far": "High-profile crimes, particularly those involving multiple victims, typically see an increase in police resource allocation to maintain public confidence. Fast-track courts are specialized judicial bodies established to ensure quicker outcomes for severe offenses.",
+      "timeline": [
+       {
+        "date": "2026-11-11",
+        "text": "The police have requested a Special Public Prosecutor and a fast-track court to expedite the justice process.",
+        "link": "https://www.thehindu.com/news/national/karnataka/bengaluru-family-murders-dcp-north-division-appointed-investigating-officer-in-case/article71688849.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "aa2ec6c77ed9",
+     "title": "FinMin asks ministries to make EVs ‘default and preferred choice’ for staff car purchases",
+     "link": "https://www.thehindu.com/news/national/finmin-asks-ministries-to-make-evs-default-and-preferred-choice-for-staff-car-purchases/article71689377.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-11T11:18:25+00:00",
+     "summary": "The Ministry of Finance has directed government ministries to prioritize electric vehicles (EVs) for their staff car fleets.",
+     "explain": "An electric vehicle (EV) is a car powered by an electric battery rather than gasoline or diesel. By mandating that government departments purchase EVs, the state aims to signal a broader transition toward sustainable energy and demonstrate the viability of green transportation.",
+     "related": [],
+     "story": {
+      "id": "india-government-ev-fleet-transition",
+      "title": "Government EV Fleet Transition",
+      "so_far": "The Indian government has been actively promoting the adoption of electric vehicles to reduce oil imports and meet climate goals. This initiative follows various subsidies and policies aimed at incentivizing the private and public sector to shift away from internal combustion engines.",
+      "timeline": [
+       {
+        "date": "2026-11-11",
+        "text": "Ministries have been instructed to make EVs the 'default' and preferred choice when purchasing vehicles for official use.",
+        "link": "https://www.thehindu.com/news/national/finmin-asks-ministries-to-make-evs-default-and-preferred-choice-for-staff-car-purchases/article71689377.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "dae7577d5359",
+     "title": "Andhra aims to secure ₹10 lakh crore at CII Partnership Summit, says TDP MP Chintakayala Vijay",
+     "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-aims-to-secure-10-lakh-crore-at-cii-partnership-summit-says-tdp-mp-chintakayala-vijay/article71688977.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-11T11:13:46+00:00",
+     "summary": "Andhra Pradesh is targeting significant investment at the upcoming CII Partnership Summit, citing strong economic growth.",
+     "explain": "GSDP (Gross State Domestic Product) is the total value of all goods and services produced within a state in a year, serving as a measure of the state's economic health. A high growth rate suggests the economy is expanding rapidly, which the government uses to attract businesses and capital.",
+     "related": [],
+     "story": {
+      "id": "india-andhra-pradesh-investment-drive",
+      "title": "Andhra Pradesh Investment Drive",
+      "so_far": "The Confederation of Indian Industry (CII) organizes summits to facilitate deals between the state government and private investors. Attracting investment is a key metric for state governments to showcase developmental success and job creation.",
+      "timeline": [
+       {
+        "date": "2026-11-11",
+        "text": "An official announced a target to secure ₹10 lakh crore in investment, highlighting the state's 8.51% economic growth rate.",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-aims-to-secure-10-lakh-crore-at-cii-partnership-summit-says-tdp-mp-chintakayala-vijay/article71688977.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "e375c4543c24",
+     "title": "Keralam to launch Family Sustainability Mapping to identify children in high-risk environments",
+     "link": "https://www.thehindu.com/news/national/kerala/keralam-to-launch-family-sustainability-mapping-to-identify-children-in-high-risk-environments/article71689217.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-11T11:13:39+00:00",
+     "summary": "Kerala is launching a program to identify and assist children living in high-risk environments.",
+     "explain": "Anganwadis are state-run rural centers providing basic health and nutrition services to children and mothers. Mapping in this context refers to data collection intended to identify families needing targeted social support, ensuring that vulnerable youth receive better protection and resources.",
+     "related": [],
+     "story": {
+      "id": "india-kerala-child-sustainability-mapping",
+      "title": "Kerala Child Sustainability Mapping",
+      "so_far": "Kerala has an extensive network of social welfare infrastructure, including Anganwadis (rural childcare centers) and specialized units for child protection. Programs like these focus on proactive intervention for children in vulnerable socioeconomic situations.",
+      "timeline": [
+       {
+        "date": "2026-11-11",
+        "text": "The government is initiating 'Family Sustainability Mapping' in coordination with local schools and social agencies.",
+        "link": "https://www.thehindu.com/news/national/kerala/keralam-to-launch-family-sustainability-mapping-to-identify-children-in-high-risk-environments/article71689217.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "765475afa185",
+     "title": "Six arrested for murder of two minor boys at Samayapuram near Tiruchi",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/six-arrested-for-murder-of-two-minor-boys-at-samayapuram-near-tiruchi/article71688730.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-11T11:09:51+00:00",
+     "summary": "Police arrested six individuals for the murder of two minor boys in Tiruchi, with one suspect wounded during the investigation.",
+     "explain": "A weapon recovery operation occurs when police take a suspect to a location where a weapon was hidden to retrieve evidence. This is a standard but sensitive part of an investigation; if a suspect turns violent during this process, police may use force, resulting in incidents like the one reported.",
+     "related": [],
+     "story": {
+      "id": "india-tiruchi-double-murder-case",
+      "title": "Tiruchi Double Murder Case",
+      "so_far": "The investigation into violent crimes involving minors often involves rapid mobilization by district police. The process includes not only the initial arrest but also recovery operations for weapons or evidence used in the crime.",
+      "timeline": [
+       {
+        "date": "2026-11-11",
+        "text": "Six arrests were made; one accused was shot in the knee by police after attempting to attack officers during a recovery operation.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/six-arrested-for-murder-of-two-minor-boys-at-samayapuram-near-tiruchi/article71688730.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
@@ -1344,318 +1212,369 @@
    "label": "World",
    "articles": [
     {
-     "id": "3911c3b7e5fd",
-     "title": "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
-     "link": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss",
+     "id": "4cc0b1d1b8c6",
+     "title": "Spain’s first general strike in 14 years begins",
+     "link": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-11T01:44:21+00:00",
-     "summary": "The U.S. has charged three men allegedly linked to Iran for plotting an attack on RAF Fairford, a UK air base used by U.S. forces.",
-     "explain": "The U.S. government has filed criminal charges against three individuals accused of being Iranian operatives who planned an attack on a British air base. This matters because it escalates tensions between Washington and Tehran, highlighting the risk of foreign-backed attacks on Western military infrastructure. RAF Fairford is a key UK airbase used by the U.S. Air Force, particularly for strategic reconnaissance and support missions in the Middle East.",
+     "published": "2026-11-11T10:18:28+00:00",
+     "summary": "Spain is experiencing its first general strike in 14 years, causing widespread disruptions to public transportation and industry. The action is driven by demands for significant housing reform ahead of the national elections scheduled for November 29.",
+     "explain": "A general strike is a coordinated work stoppage by employees across various sectors and industries to protest or demand changes from the government. It is a powerful form of collective action intended to show widespread public support for specific issues, in this case, housing affordability and reform.",
      "related": [],
      "story": {
-      "id": "world-plot-against-uk-air-base",
-      "title": "Plot against UK air base",
-      "so_far": "In September 2026, an incident occurred at Britain’s RAF Fairford airbase, which is utilized by U.S. forces for operations in the Middle East. The site is a strategic hub for intelligence and power projection, and U.S. authorities have since been investigating ties between the attackers and Iranian state-aligned actors.",
+      "id": "world-spain-general-strike-over-housing",
+      "title": "Spain General Strike Over Housing",
+      "so_far": "Spain is facing a housing crisis characterized by rising costs and lack of availability, which has become a central issue ahead of the upcoming national elections on November 29, 2026. Labor unions have initiated a general strike to demand policy interventions.",
       "timeline": [
        {
-        "date": "2026-11-10",
-        "text": "The accused operatives were identified as Mohammad Baqer Saad Dawood al-Saadi, Mohsen Mohajeri, and Mohammad Ali al-Hassani.",
-        "link": "https://www.thehindu.com/news/international/us-charges-three-iranian-operatives-over-uk-airbase-plot/article71687536.ece",
-        "source": "World News: Latest International News & "
+        "date": "2026-11-11",
+        "text": "Spain has entered its first general strike in 14 years, organized by major labor unions UGT and CCOO to protest housing conditions.",
+        "link": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
        },
        {
         "date": "2026-11-11",
-        "text": "Three men, including one already incarcerated, have been formally charged by the U.S. for directing the September incident at RAF Fairford.",
-        "link": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
+        "text": "Labor unions UGT and CCOO have confirmed that the first day of the general strike is seeing significant participation across strategic industries.",
+        "link": "https://www.thehindu.com/news/international/spains-first-general-strike-in-14-years-brings-clashing-social-and-political-desires-to-the-fore/article71688857.ece",
+        "source": "World News: Latest International News & "
        }
       ]
      }
     },
     {
-     "id": "c323a8960308",
-     "title": "U.S. charges three ‘Iranian operatives’ over U.K. airbase plot",
-     "link": "https://www.thehindu.com/news/international/us-charges-three-iranian-operatives-over-uk-airbase-plot/article71687536.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-11-10T23:09:18+00:00",
-     "summary": "U.S. prosecutors charged three individuals identified as Iranian operatives for plotting an attack on the UK's RAF Fairford airbase.",
-     "explain": "This confirms the names of the individuals linked to the alleged plot at the UK military site. By charging these individuals, the U.S. is signaling an intent to pursue legal accountability for operations it links directly to Iranian influence. The involvement of the FBI in identifying these suspects underscores the international nature of the security threat.",
+     "id": "763d07074fbf",
+     "title": "US Treasury chief Bessent moved to military base after ‘Iranian threats’",
+     "link": "https://www.aljazeera.com/news/2026/11/11/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-11T10:16:38+00:00",
+     "summary": "U.S. Treasury Secretary Scott Bessent has been relocated to a military installation following concerns over Iranian threats. The security measure was taken after a photo of his Washington, D.C. residence was publicized, reportedly enabling Iranian actors to geo-locate his property.",
+     "explain": "Geo-locating involves using digital data—such as images or metadata—to determine the precise physical coordinates of a location. This is a common method used in modern intelligence and harassment campaigns to identify vulnerabilities in security.",
      "related": [],
      "story": {
-      "id": "world-plot-against-uk-air-base",
-      "title": "Plot against UK air base",
-      "so_far": "In September 2026, an incident occurred at Britain’s RAF Fairford airbase, which is utilized by U.S. forces for operations in the Middle East. The site is a strategic hub for intelligence and power projection, and U.S. authorities have since been investigating ties between the attackers and Iranian state-aligned actors.",
+      "id": "world-threats-against-us-treasury-secretary",
+      "title": "Threats Against US Treasury Secretary",
+      "so_far": "Geopolitical tensions between the U.S. and Iran remain high, with recurring threats against U.S. officials and institutions. The government occasionally utilizes military facilities to house high-ranking personnel when specific security threats are identified.",
       "timeline": [
-       {
-        "date": "2026-11-10",
-        "text": "The accused operatives were identified as Mohammad Baqer Saad Dawood al-Saadi, Mohsen Mohajeri, and Mohammad Ali al-Hassani.",
-        "link": "https://www.thehindu.com/news/international/us-charges-three-iranian-operatives-over-uk-airbase-plot/article71687536.ece",
-        "source": "World News: Latest International News & "
-       },
        {
         "date": "2026-11-11",
-        "text": "Three men, including one already incarcerated, have been formally charged by the U.S. for directing the September incident at RAF Fairford.",
-        "link": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss",
+        "text": "The U.S. Treasury chief was moved to a military base for security reasons following alleged Iranian efforts to target his home.",
+        "link": "https://www.aljazeera.com/news/2026/11/11/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
        }
       ]
      }
     },
     {
-     "id": "beede3a42773",
-     "title": "US soldier arrested in UK on suspicion of spying for Russia",
-     "link": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-10T20:41:53+00:00",
-     "summary": "A U.S. soldier has been arrested in the UK on suspicion of spying for Russia.",
-     "explain": "A soldier has been taken into custody under suspicion of working as a mole or informant for Russia. This is a rare and serious security breach involving a member of the U.S. military stationed abroad. Counter-terrorism units in London worked with American agencies to make the arrest, indicating the intelligence involved was likely classified or critical to national security.",
+     "id": "20028231002c",
+     "title": "Tearful Smith switches allegiance to Netherlands",
+     "link": "https://www.bbc.co.uk/sport/swimming/articles/cmx27n60n3wno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-11T09:45:14+00:00",
+     "summary": "Olympic swimmer Tatjana Smith, a double gold medalist representing South Africa, has announced she is switching her sporting allegiance to the Netherlands.",
+     "explain": "Swapping sports allegiance allows an athlete to compete for a different country in events like the Olympics or World Championships. This often happens when an athlete finds that another country offers better training infrastructure, medical support, or financial sponsorship.",
      "related": [],
      "story": {
-      "id": "world-u-s-soldier-arrested-for-espionage",
-      "title": "U.S. soldier arrested for espionage",
-      "so_far": "The United States and the United Kingdom frequently share sensitive intelligence regarding Russian military activities. The arrest of a U.S. military member on British soil suggests a high-level breach of security cooperation between the two nations.",
+      "id": "world-tatjana-smith-changes-nationality",
+      "title": "Tatjana Smith Changes Nationality",
+      "so_far": "Elite athletes occasionally change their national sports federations due to better funding, training facilities, or personal circumstances. This process is governed by international sports regulations that dictate eligibility requirements for major competitions.",
       "timeline": [
        {
-        "date": "2026-11-10",
-        "text": "London Metropolitan Police, in coordination with the FBI and the U.S. military, arrested an active-duty U.S. soldier suspected of espionage on behalf of Russia.",
-        "link": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
-    },
-    {
-     "id": "efe967892ec6",
-     "title": "Israeli forces shoot dead 14-year-old in West Bank: Palestinian officials",
-     "link": "https://www.thehindu.com/news/international/israeli-forces-shoot-dead-14-year-old-in-west-bank-palestinian-officials/article71687248.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-11-10T16:45:17+00:00",
-     "summary": "A 14-year-old Palestinian boy was shot and killed by Israeli forces in the West Bank.",
-     "explain": "An Israeli military operation resulted in the death of a minor in the West Bank. The military claims the action was a defensive measure to stop people from throwing stones, while Palestinian officials contest the circumstances. This highlights the ongoing and deadly friction in the region, where military presence and local resistance frequently lead to fatal confrontations.",
-     "related": [
-      {
-       "date": "2026-10-28",
-       "title": "Israeli forces continue West Bank raids as Hebron lockdown enters sixth day",
-       "link": "https://www.aljazeera.com/news/2026/10/28/israeli-forces-continue-west-bank-raids-as-hebron-lockdown-enters-sixth-day?traffic_source=rss",
-       "source": "Al Jazeera – Breaking News, World News a"
-      }
-     ],
-     "story": {
-      "id": "world-west-bank-violence",
-      "title": "West Bank violence",
-      "so_far": "The West Bank has experienced a long-standing cycle of violence between Israeli security forces and Palestinian residents. These incidents often occur during military raids or clashes over the control and security of roads used by Israeli settlers and military personnel.",
-      "timeline": [
-       {
-        "date": "2026-11-10",
-        "text": "Palestinian officials reported the boy's death on November 10, 2026, following an incident involving the Israeli military.",
-        "link": "https://www.thehindu.com/news/international/israeli-forces-shoot-dead-14-year-old-in-west-bank-palestinian-officials/article71687248.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-11-10",
-        "text": "The Israeli military confirmed its soldiers opened fire at individuals aiming to attack a road used by Israelis.",
-        "link": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-11-11",
+        "text": "Tatjana Smith has officially switched her national allegiance to the Netherlands, citing financial and practical challenges.",
+        "link": "https://www.bbc.co.uk/sport/swimming/articles/cmx27n60n3wno?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+       },
+       {
+        "date": "2026-11-11",
+        "text": "Tatjana Smith provided further context on her decision, naming logistical and financial hurdles as primary reasons for switching nationalities.",
+        "link": "https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
        }
       ]
      }
     },
     {
-     "id": "a7917066dd89",
-     "title": "Trump says FBI looking into Nvidia CEO Jensen Huang's affair with 'Chinese agent'",
-     "link": "https://www.thehindu.com/news/international/trump-says-fbi-looking-into-nvidia-ceo-jensen-huangs-affair-with-chinese-agent/article71684773.ece",
+     "id": "8ca33fabb4e5",
+     "title": "Spain’s first general strike in 14 years brings clashing social and political desires to the fore",
+     "link": "https://www.thehindu.com/news/international/spains-first-general-strike-in-14-years-brings-clashing-social-and-political-desires-to-the-fore/article71688857.ece",
      "source": "World News: Latest International News & ",
-     "published": "2026-11-10T11:28:45+00:00",
-     "summary": "President Trump announced that the FBI is investigating Nvidia CEO Jensen Huang over an alleged affair with a woman suspected of being a Chinese agent. The disclosure has sparked fears regarding the security of AI-related technology.",
-     "explain": "This story concerns a potential national security breach involving one of the most important tech leaders in the world. Nvidia produces the chips that power almost all modern artificial intelligence software. If a CEO has ties to foreign intelligence, there are fears that secret information about future technology designs or national security secrets could be stolen by the Chinese government, which competes with the U.S. in the AI industry.",
+     "published": "2026-11-11T08:23:52+00:00",
+     "summary": "Spain's major labor unions report widespread participation in the ongoing general strike, with significant work stoppages observed across key strategic sectors.",
+     "explain": "Strategic sectors refer to industries essential to the daily operation of a country, such as transportation, energy, and communication. A stoppage in these sectors creates immediate impact, signaling the strength of the labor movement.",
+     "related": [],
+     "story": {
+      "id": "world-spain-general-strike-over-housing",
+      "title": "Spain General Strike Over Housing",
+      "so_far": "Spain is facing a housing crisis characterized by rising costs and lack of availability, which has become a central issue ahead of the upcoming national elections on November 29, 2026. Labor unions have initiated a general strike to demand policy interventions.",
+      "timeline": [
+       {
+        "date": "2026-11-11",
+        "text": "Spain has entered its first general strike in 14 years, organized by major labor unions UGT and CCOO to protest housing conditions.",
+        "link": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-11-11",
+        "text": "Labor unions UGT and CCOO have confirmed that the first day of the general strike is seeing significant participation across strategic industries.",
+        "link": "https://www.thehindu.com/news/international/spains-first-general-strike-in-14-years-brings-clashing-social-and-political-desires-to-the-fore/article71688857.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "cd1db96359af",
+     "title": "South African swimmer Tatjana Smith switches allegiance to Netherlands",
+     "link": "https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-11T05:52:28+00:00",
+     "summary": "South African swimmer Tatjana Smith has publicly confirmed her decision to compete for the Netherlands, citing the financial and practical difficulties of continuing her career under the South African banner.",
+     "explain": "Professional swimming requires significant investment in travel, specialized coaching, and training facilities. When national federations face budget constraints, athletes may look to move to countries with stronger, better-funded programs to remain competitive.",
+     "related": [],
+     "story": {
+      "id": "world-tatjana-smith-changes-nationality",
+      "title": "Tatjana Smith Changes Nationality",
+      "so_far": "Elite athletes occasionally change their national sports federations due to better funding, training facilities, or personal circumstances. This process is governed by international sports regulations that dictate eligibility requirements for major competitions.",
+      "timeline": [
+       {
+        "date": "2026-11-11",
+        "text": "Tatjana Smith has officially switched her national allegiance to the Netherlands, citing financial and practical challenges.",
+        "link": "https://www.bbc.co.uk/sport/swimming/articles/cmx27n60n3wno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-11-11",
+        "text": "Tatjana Smith provided further context on her decision, naming logistical and financial hurdles as primary reasons for switching nationalities.",
+        "link": "https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "ca37ef8a2320",
+     "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
+     "link": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-11T01:18:09+00:00",
+     "summary": "A U.S. judge has ruled that Donald Trump's $10 billion defamation lawsuit against the BBC may proceed to trial. The judge dismissed a portion of the complaint regarding a specific Florida law but allowed the core defamation claim to move forward.",
+     "explain": "Defamation occurs when a party publishes false information that harms an individual's reputation. In U.S. law, a judge 'denying a motion to dismiss' means there is enough legal evidence to move the case forward to discovery and potential trial.",
+     "related": [],
+     "story": {
+      "id": "world-trump-defamation-case-against-bbc",
+      "title": "Trump Defamation Case Against BBC",
+      "so_far": "Former President Donald Trump frequently engages in litigation against media organizations, claiming they publish false or misleading information that damages his public image. This suit involves allegations that the BBC presented content about him in a defamatory manner.",
+      "timeline": [
+       {
+        "date": "2026-11-11",
+        "text": "A federal judge allowed the core of Donald Trump’s defamation lawsuit against the BBC to proceed, finding his claims of reputation damage plausible.",
+        "link": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-11-11",
+        "text": "Judge Jeffrey Kuntz ruled that the lawsuit can continue because Trump established a plausible case that the BBC knowingly aired harmful, misleading content.",
+        "link": "https://www.thehindu.com/news/international/us-judge-says-trumps-10-billion-bbc-defamation-case-can-proceed/article71688097.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "19985893c732",
+     "title": "U.S. judge says Trump’s $10 billion BBC defamation case can proceed",
+     "link": "https://www.thehindu.com/news/international/us-judge-says-trumps-10-billion-bbc-defamation-case-can-proceed/article71688097.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-11-11T00:36:19+00:00",
+     "summary": "U.S. District Judge Jeffrey Kuntz declined to dismiss Donald Trump's defamation lawsuit against the BBC, stating that Trump plausibly alleged the outlet knowingly published misleading material damaging his reputation.",
+     "explain": "A motion to dismiss is a request by the defendant to have a case thrown out early because it lacks merit. By denying this, the judge is confirming that the legal argument is strong enough to warrant a full court examination.",
+     "related": [],
+     "story": {
+      "id": "world-trump-defamation-case-against-bbc",
+      "title": "Trump Defamation Case Against BBC",
+      "so_far": "Former President Donald Trump frequently engages in litigation against media organizations, claiming they publish false or misleading information that damages his public image. This suit involves allegations that the BBC presented content about him in a defamatory manner.",
+      "timeline": [
+       {
+        "date": "2026-11-11",
+        "text": "A federal judge allowed the core of Donald Trump’s defamation lawsuit against the BBC to proceed, finding his claims of reputation damage plausible.",
+        "link": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-11-11",
+        "text": "Judge Jeffrey Kuntz ruled that the lawsuit can continue because Trump established a plausible case that the BBC knowingly aired harmful, misleading content.",
+        "link": "https://www.thehindu.com/news/international/us-judge-says-trumps-10-billion-bbc-defamation-case-can-proceed/article71688097.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "3cfac51787c2",
+     "title": "Man City whistleblower Rui Pinto could help UK uncover more sporting crime",
+     "link": "https://www.aljazeera.com/sports/2026/11/11/man-city-whistleblower-rui-pinto-could-help-uk-uncover-more-sporting-crime?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-11T11:05:50+00:00",
+     "summary": "Rui Pinto, the whistleblower known for the 'Football Leaks' revelations, is reportedly in negotiations with UK authorities to assist in uncovering further sporting crime in exchange for police protection.",
+     "explain": "A whistleblower is an individual who reveals illicit or unethical activities within an organization to the public or authorities. Cooperation agreements allow individuals to share sensitive information in exchange for legal leniency or personal security.",
+     "related": [],
+     "story": {
+      "id": "world-whistleblower-rui-pinto-and-uk",
+      "title": "Whistleblower Rui Pinto and UK",
+      "so_far": "Rui Pinto is a Portuguese hacker who leaked massive amounts of internal data from professional football clubs, exposing financial irregularities and transfer malpractice. He has previously sought protection in exchange for cooperating with international investigators.",
+      "timeline": [
+       {
+        "date": "2026-11-11",
+        "text": "Rui Pinto is actively negotiating with UK officials to share more evidence of sporting misconduct in return for safety guarantees.",
+        "link": "https://www.aljazeera.com/sports/2026/11/11/man-city-whistleblower-rui-pinto-could-help-uk-uncover-more-sporting-crime?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "6fd204495eba",
+     "title": "Russia, Ukraine hold second day of U.S.-brokered talks in Abu Dhabi",
+     "link": "https://www.thehindu.com/news/international/russia-ukraine-hold-second-day-of-us-brokered-talks-in-abu-dhabi/article71689267.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-11-11T11:01:19+00:00",
+     "summary": "Ukrainian and Russian delegations have entered their second day of U.S.-brokered peace negotiations in Abu Dhabi. Rustem Umerov, head of Ukraine's intelligence, is leading the effort on behalf of Kyiv.",
+     "explain": "U.S.-brokered talks mean that the United States is acting as a facilitator or mediator to bring two warring parties to the table. Using a neutral location like Abu Dhabi helps ensure the talks remain focused on diplomacy rather than ongoing battlefield concerns.",
      "related": [
       {
-       "date": "2026-11-09",
-       "title": "Nvidia investigating reports that CEO Jensen Huang was targeted by Chinese intelligence",
-       "link": "https://www.thehindu.com/sci-tech/technology/nvidia-investigating-reports-that-ceo-jensen-huang-was-targeted-by-chinese-intelligence/article71681239.ece",
+       "date": "2026-10-20",
+       "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
+       "link": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss",
+       "source": "Al Jazeera – Breaking News, World News a"
+      },
+      {
+       "date": "2026-10-22",
+       "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
+       "link": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC News"
+      },
+      {
+       "date": "2026-10-23",
+       "title": "Talks between Russia, Ukraine and U.S. ‘planned’ to resume in November in Abu Dhabi",
+       "link": "https://www.thehindu.com/news/international/talks-between-russia-ukraine-and-us-planned-to-resume-in-november-in-abu-dhabi/article71615588.ece",
        "source": "World News: Latest International News & "
       },
       {
-       "date": "2026-11-09",
-       "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-       "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC News"
+       "date": "2026-10-27",
+       "title": "U.S.-brokered truce begins in Ukraine city occupied by Russia",
+       "link": "https://www.thehindu.com/news/international/us-brokered-truce-begins-in-ukraine-city-occupied-by-russia/article71629729.ece",
+       "source": "World News: Latest International News & "
       }
      ],
      "story": {
-      "id": "world-nvidia-ceo-investigated-over-alleged-spy",
-      "title": "Nvidia CEO Investigated Over Alleged Spy Affair",
-      "so_far": "Nvidia is a dominant global player in the semiconductor industry, specifically in the production of high-end graphics processing units (GPUs) essential for artificial intelligence development. Recent reports suggest that CEO Jensen Huang is the subject of an FBI inquiry involving his personal life and potential links to foreign intelligence operatives.",
+      "id": "world-diplomatic-talks-on-ukraine",
+      "title": "Diplomatic Talks on Ukraine",
+      "so_far": "The G7 and Western allies have been deeply involved in supporting Ukraine since the 2022 Russian invasion. The U.S. role is central to this effort, and diplomatic efforts to end the conflict are frequently influenced by changes in U.S. political leadership, which can lead to shifts in military aid levels and negotiation stances.",
       "timeline": [
        {
-        "date": "2026-11-09",
-        "text": "The news caused a massive sell-off, wiping hundreds of billions of dollars from the company's total market value.",
-        "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-11-10",
-        "text": "President Trump announced that the FBI is investigating Nvidia CEO Jensen Huang over an alleged affair with a woman suspected of being a Chinese agent. The disclosure has sparked fears regarding the security of AI-related technology.",
-        "link": "https://www.thehindu.com/news/international/trump-says-fbi-looking-into-nvidia-ceo-jensen-huangs-affair-with-chinese-agent/article71684773.ece",
+        "date": "2026-10-23",
+        "text": "Following a meeting in Saint Petersburg between Vladimir Putin and Steve Witkoff, Russia has indicated it is ready to return to the negotiating table next month.",
+        "link": "https://www.thehindu.com/news/international/talks-between-russia-ukraine-and-us-planned-to-resume-in-november-in-abu-dhabi/article71615588.ece",
         "source": "World News: Latest International News & "
        },
        {
-        "date": "2026-11-10",
-        "text": "The U.S. President confirmed he held a direct conversation with Jensen Huang regarding the allegations.",
-        "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "5b9f203b0201",
-     "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
-     "link": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-10T11:23:18+00:00",
-     "summary": "Israeli forces shot and killed a Palestinian boy in the West Bank, an incident the military claims was intended to thwart stone-throwing attacks.",
-     "explain": "This reporting adds the military's specific justification for the lethal force used. Such incidents often fuel local unrest and international criticism regarding the use of force against youth. The conflict remains centered on security protocols for Israeli traffic in the occupied West Bank territory.",
-     "related": [
-      {
-       "date": "2026-10-28",
-       "title": "Israeli forces continue West Bank raids as Hebron lockdown enters sixth day",
-       "link": "https://www.aljazeera.com/news/2026/10/28/israeli-forces-continue-west-bank-raids-as-hebron-lockdown-enters-sixth-day?traffic_source=rss",
-       "source": "Al Jazeera – Breaking News, World News a"
-      }
-     ],
-     "story": {
-      "id": "world-west-bank-violence",
-      "title": "West Bank violence",
-      "so_far": "The West Bank has experienced a long-standing cycle of violence between Israeli security forces and Palestinian residents. These incidents often occur during military raids or clashes over the control and security of roads used by Israeli settlers and military personnel.",
-      "timeline": [
-       {
-        "date": "2026-11-10",
-        "text": "Palestinian officials reported the boy's death on November 10, 2026, following an incident involving the Israeli military.",
-        "link": "https://www.thehindu.com/news/international/israeli-forces-shoot-dead-14-year-old-in-west-bank-palestinian-officials/article71687248.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-11-10",
-        "text": "The Israeli military confirmed its soldiers opened fire at individuals aiming to attack a road used by Israelis.",
-        "link": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "1d4d916193d8",
-     "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-     "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-10T08:23:21+00:00",
-     "summary": "President Trump stated he personally questioned Jensen Huang about reports of an affair with an alleged Chinese spy.",
-     "explain": "When the President of the United States directly questions a corporate executive about a security matter, it signals that the federal government views the situation as a potential threat to national interests. This involvement heightens the stakes for the company, as it faces both regulatory scrutiny and potential damage to its reputation in the global market.",
-     "related": [
-      {
-       "date": "2026-11-09",
-       "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-       "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC News"
-      }
-     ],
-     "story": {
-      "id": "world-nvidia-ceo-investigated-over-alleged-spy",
-      "title": "Nvidia CEO Investigated Over Alleged Spy Affair",
-      "so_far": "Nvidia is a dominant global player in the semiconductor industry, specifically in the production of high-end graphics processing units (GPUs) essential for artificial intelligence development. Recent reports suggest that CEO Jensen Huang is the subject of an FBI inquiry involving his personal life and potential links to foreign intelligence operatives.",
-      "timeline": [
-       {
-        "date": "2026-11-09",
-        "text": "The news caused a massive sell-off, wiping hundreds of billions of dollars from the company's total market value.",
-        "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-27",
+        "text": "A localized truce in Oleshky, brokered by First Lady Melania Trump, has begun to allow for urgent humanitarian aid and civilian evacuations.",
+        "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
        },
        {
-        "date": "2026-11-10",
-        "text": "President Trump announced that the FBI is investigating Nvidia CEO Jensen Huang over an alleged affair with a woman suspected of being a Chinese agent. The disclosure has sparked fears regarding the security of AI-related technology.",
-        "link": "https://www.thehindu.com/news/international/trump-says-fbi-looking-into-nvidia-ceo-jensen-huangs-affair-with-chinese-agent/article71684773.ece",
+        "date": "2026-10-27",
+        "text": "Both warring parties have publicly committed to observing the U.S.-brokered truce in Oleshky.",
+        "link": "https://www.thehindu.com/news/international/us-brokered-truce-begins-in-ukraine-city-occupied-by-russia/article71629729.ece",
         "source": "World News: Latest International News & "
        },
        {
-        "date": "2026-11-10",
-        "text": "The U.S. President confirmed he held a direct conversation with Jensen Huang regarding the allegations.",
-        "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-27",
+        "text": "The leaders of Finland and Norway have engaged in a direct call with Vladimir Putin, emphasizing that silence will not resolve the war.",
+        "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "15a5742f74fd",
-     "title": "World leaders take stage at COP31 but big names missing",
-     "link": "https://www.thehindu.com/sci-tech/energy-and-environment/world-leaders-take-stage-at-cop31-but-big-names-missing/article71688148.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-11-11T02:15:22+00:00",
-     "summary": "World leaders gathered for the COP31 climate summit in Turkiye, focusing on global energy transition goals.",
-     "explain": "COP31 is the latest international climate conference hosted in Turkiye. Nations are discussing how to shift away from traditional fuels toward cleaner electricity. The goal of 35% by 2035 is an ambitious target designed to decarbonize transport and industry, though the absence of some major global leaders has prompted concern about the political commitment to these targets.",
-     "related": [],
-     "story": {
-      "id": "world-cop31-climate-summit",
-      "title": "COP31 Climate Summit",
-      "so_far": "COP summits are annual UN-led climate conferences where nations negotiate targets to limit global warming. Past summits have struggled with the tension between industrial economic growth and the necessity of transitioning away from fossil fuels.",
-      "timeline": [
+       },
        {
-        "date": "2026-11-09",
-        "text": "The COP31 summit has officially opened, drawing over 100,000 attendees to discuss climate action.",
-        "link": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-in-turkiye-climate-and-geopolitical-pressures-mount/article71681273.ece",
+        "date": "2026-10-29",
+        "text": "A Russian strike hit a railway station in Dnipro, killing at least 13 people.",
+        "link": "https://www.thehindu.com/news/international/ukraine-says-at-least-13-killed-in-russian-attack-on-train-station/article71641924.ece",
         "source": "World News: Latest International News & "
        },
        {
-        "date": "2026-11-11",
-        "text": "Turkiye launched an initiative aiming to increase electricity's share of global energy consumption to 35% by 2035.",
-        "link": "https://www.thehindu.com/sci-tech/energy-and-environment/world-leaders-take-stage-at-cop31-but-big-names-missing/article71688148.ece",
-        "source": "World News: Latest International News & "
-       }
-      ]
-     }
-    },
-    {
-     "id": "9f002f7736fb",
-     "title": "Protesters throw milk at Joe Biden during Hunter event in Dublin",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-11T02:12:22+00:00",
-     "summary": "Pro-Palestinian protesters threw milk at U.S. President Joe Biden during an event in Ireland.",
-     "explain": "Demonstrators disrupted a public appearance by the U.S. President by throwing liquid at him. This is a form of political protest targeting the administration's foreign policy. It reflects the deep public polarization and frustration regarding the humanitarian situation in Gaza and the perceived role of the U.S. in enabling the current conflict.",
-     "related": [],
-     "story": {
-      "id": "world-protests-against-biden",
-      "title": "Protests against Biden",
-      "so_far": "President Biden has faced consistent pressure from activists regarding U.S. military and diplomatic support for Israel. These protests have occasionally disrupted public appearances and campaign events.",
-      "timeline": [
+        "date": "2026-10-29",
+        "text": "The death toll from the Russian drone strike on a Dnipro train station has risen to at least 14.",
+        "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
        {
-        "date": "2026-11-11",
-        "text": "The incident occurred during a political event for Hunter Biden, highlighting ongoing public anger regarding the U.S. stance on the conflict in Gaza.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss",
+        "date": "2026-10-31",
+        "text": "The U.S. approved a $2.1 billion sale of Patriot interceptors to Ukraine to counter Russian ballistic missile attacks.",
+        "link": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-10-31",
+        "text": "The U.S. has confirmed it is supplying 500 Patriot interceptor missiles to Ukraine.",
+        "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-11-03",
+        "text": "Russia launched a heavy aerial attack on a civilian aid center, resulting in 26 deaths and further dimming prospects for immediate peace negotiations.",
+        "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-11-09",
+        "text": "G7 ministers are meeting to align on strategies for the ongoing Ukraine conflict and rising tensions with Iran.",
+        "link": "https://www.thehindu.com/news/international/g7-ministers-meeting-in-paris-russia-ukraine-conflict-us-israel-strikes-on-iran/article71681281.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-09",
+        "text": "Russia's spokesperson, Dmitry Peskov, stated that the Kremlin views potential U.S. congressional changes as domestic American matters that they hope will not interfere with Trump's approach to the Ukraine conflict.",
+        "link": "https://www.thehindu.com/news/international/kremlin-hopes-us-election-shake-up-wont-shift-trumps-negotiations-on-ukraine/article71680679.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-11",
+        "text": "The two sides are now in their second day of direct negotiations taking place in the United Arab Emirates.",
+        "link": "https://www.thehindu.com/news/international/russia-ukraine-hold-second-day-of-us-brokered-talks-in-abu-dhabi/article71689267.ece",
+        "source": "World News: Latest International News & "
        }
       ]
      }
     },
     {
-     "id": "205c0f8ce494",
-     "title": "Former Iraqi lawmaker Ahmed al-Alwani found dead in Beirut",
-     "link": "https://www.aljazeera.com/news/2026/11/11/former-iraqi-awmaker-ahmed-al-alwani-found-dead-in-beirut?traffic_source=rss",
+     "id": "36769448b913",
+     "title": "Israel kills Gaza goalkeeper days after playing in cup for slain athletes",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/israel-kills-gaza-goalkeeper-days-after-playing-in-cup-for-slain-athletes?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-11T02:07:15+00:00",
-     "summary": "Former Iraqi lawmaker Ahmed al-Alwani was found dead in an apartment in Beirut, leading to a murder investigation.",
-     "explain": "The suspicious death of a former high-ranking Iraqi politician has prompted Lebanese police to open a homicide case. This is significant because it could indicate regional political violence spilling over into Lebanon. Investigations like this are critical for determining whether the death was a random act of crime or a targeted political assassination.",
+     "published": "2026-11-11T10:57:39+00:00",
+     "summary": "Mahmoud Abdel-Malek, a 20-year-old goalkeeper for the Gaza Sports Club, has been killed in an Israeli airstrike. The death occurred only days after he participated in a memorial match for other athletes lost in the conflict.",
+     "explain": "The conflict in Gaza has led to widespread loss of life among civilians, including athletes and youth, as airstrikes continue in densely populated areas. These incidents reflect the severe impact of the war on all aspects of civilian society.",
      "related": [],
      "story": {
-      "id": "world-iraqi-politician-found-dead",
-      "title": "Iraqi politician found dead",
-      "so_far": "Ahmed al-Alwani was a known political figure in Iraq. Political figures from the region often reside in Lebanon, which has historically been a hub for political exiles and figures seeking safety outside their home countries.",
+      "id": "world-wfp-aid-cuts-in-gaza",
+      "title": "WFP Aid Cuts in Gaza",
+      "so_far": "The WFP has been a primary provider of food and nutrition in Gaza during ongoing regional instability. Recent funding shortages have forced the agency to cut aid coverage in Gaza by one-third, severely limiting basic resources for the population.",
       "timeline": [
        {
+        "date": "2026-10-19",
+        "text": "The WFP confirmed it is cutting aid for 500,000 people in Gaza, reducing its reach from 1.6 million to 1.1 million beneficiaries.",
+        "link": "https://www.thehindu.com/news/international/world-food-programme-says-ending-aid-for-half-million-in-gaza-due-to-funding-shortfall/article71602337.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-06",
+        "text": "Residents are resorting to scavenging for infrastructure materials as international aid remains constrained.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/gaza-turns-discarded-cooking-pots-into-seawalls?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
         "date": "2026-11-11",
-        "text": "Lebanese authorities have opened an official murder investigation into the death of the prominent Iraqi figure.",
-        "link": "https://www.aljazeera.com/news/2026/11/11/former-iraqi-awmaker-ahmed-al-alwani-found-dead-in-beirut?traffic_source=rss",
+        "text": "A young professional athlete has been killed in Gaza, highlighting the ongoing civilian toll of the regional conflict.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/israel-kills-gaza-goalkeeper-days-after-playing-in-cup-for-slain-athletes?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
        }
       ]
@@ -1667,327 +1586,261 @@
    "label": "Business & Finance",
    "articles": [
     {
-     "id": "322d0e50c20a",
-     "title": "Blackstone to acquire 16% stake in IIFL Finance",
-     "link": "https://www.thehindubusinessline.com/money-and-banking/iifl-financesboard-okays-6414-crcapital-raise-from-blackstone-pe-co-promoters-anchorage-capital/article71686148.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-10T15:57:31+00:00",
-     "summary": "Private equity firm Blackstone is acquiring a 16% stake in the Indian non-banking financial company IIFL Finance for ₹6,414 crore.",
-     "explain": "A non-banking financial company (NBFC) is a business that provides financial services similar to a bank, such as loans or investments, but does not hold a full banking license. Private equity (PE) firms like Blackstone invest large amounts of money into companies to help them grow or stabilize. This deal is significant as it provides IIFL with substantial fresh capital to expand its lending capacity.",
-     "related": [],
-     "story": {
-      "id": "business-blackstone-acquires-stake-in-iifl-financ",
-      "title": "Blackstone Acquires Stake in IIFL Finance",
-      "so_far": "IIFL Finance is a major Indian non-banking financial company (NBFC) that provides credit and financial services. Following recent periods of regulatory scrutiny regarding their gold loan portfolios, the firm has sought to bolster its balance sheet through capital raises to support long-term lending operations and market confidence.",
-      "timeline": [
-       {
-        "date": "2026-11-10",
-        "text": "Blackstone leads a major capital injection into IIFL Finance, with the company's promoters also participating as co-investors.",
-        "link": "https://www.thehindubusinessline.com/money-and-banking/iifl-financesboard-okays-6414-crcapital-raise-from-blackstone-pe-co-promoters-anchorage-capital/article71686148.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-10",
-        "text": "The investment by Blackstone is formally confirmed as a ₹6,414 crore boost.",
-        "link": "https://economictimes.indiatimes.com/industry/banking/finance/blackstone-to-acquire-16-stake-in-iifl-finance-as-nbfc-announces-rs-6414-crore-capital-raise-led-by-global-investor/articleshow/135709294.cms",
-        "source": "Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "afc385fdf121",
-     "title": "Blackstone gives IIFL Finance a Rs 6,414 crore boost",
-     "link": "https://economictimes.indiatimes.com/industry/banking/finance/blackstone-to-acquire-16-stake-in-iifl-finance-as-nbfc-announces-rs-6414-crore-capital-raise-led-by-global-investor/articleshow/135709294.cms",
+     "id": "f63b80d46e01",
+     "title": "Qualcomm layoffs: What severance package offers",
+     "link": "https://economictimes.indiatimes.com/news/new-updates/qualcomm-layoffs-severance-package-3-months-salary-extra-payout-based-on-years-of-service-one-more-months-pay-for-signing-exit-papers-within-3-days-what-employees-are-being-offered/articleshow/135733726.cms",
      "source": "Economic Times",
-     "published": "2026-11-10T11:29:44+00:00",
-     "summary": "Blackstone is investing ₹6,414 crore into IIFL Finance to help strengthen its financial position.",
-     "explain": "Blackstone is a massive global investment firm that buys stakes in companies. By injecting over 6,000 crore rupees, they are signaling confidence in IIFL Finance's future, helping the lender grow its operations despite a competitive financial sector.",
+     "published": "2026-11-11T10:34:55+00:00",
+     "summary": "Qualcomm is implementing a phased layoff plan for its Indian workforce as part of a global restructuring effort.",
+     "explain": "Layoffs occur when a company decides to reduce its number of employees, often to save money or reorganize. A 'severance package' is the compensation provided to employees when they are let go, which typically includes pay, extended benefits, and sometimes career counseling to help them transition to new jobs.",
      "related": [],
      "story": {
-      "id": "business-blackstone-acquires-stake-in-iifl-financ",
-      "title": "Blackstone Acquires Stake in IIFL Finance",
-      "so_far": "IIFL Finance is a major Indian non-banking financial company (NBFC) that provides credit and financial services. Following recent periods of regulatory scrutiny regarding their gold loan portfolios, the firm has sought to bolster its balance sheet through capital raises to support long-term lending operations and market confidence.",
-      "timeline": [
-       {
-        "date": "2026-11-10",
-        "text": "Blackstone leads a major capital injection into IIFL Finance, with the company's promoters also participating as co-investors.",
-        "link": "https://www.thehindubusinessline.com/money-and-banking/iifl-financesboard-okays-6414-crcapital-raise-from-blackstone-pe-co-promoters-anchorage-capital/article71686148.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-10",
-        "text": "The investment by Blackstone is formally confirmed as a ₹6,414 crore boost.",
-        "link": "https://economictimes.indiatimes.com/industry/banking/finance/blackstone-to-acquire-16-stake-in-iifl-finance-as-nbfc-announces-rs-6414-crore-capital-raise-led-by-global-investor/articleshow/135709294.cms",
-        "source": "Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "1d931bcccde9",
-     "title": "US SEC seeks to close Musk, Tesla settlement fund",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/us-sec-seeks-to-close-elon-musk-tesla-settlement-fund/articleshow/135722752.cms",
-     "source": "Economic Times",
-     "published": "2026-11-11T02:02:24+00:00",
-     "summary": "The US SEC is taking steps to close the settlement fund established following a 2018 legal dispute involving Elon Musk and Tesla.",
-     "explain": "The SEC (Securities and Exchange Commission) is the US agency responsible for protecting investors and maintaining fair markets. When a company or executive breaks market rules, the SEC often mandates a settlement—a penalty payment—to resolve the issue. Closing this fund means the regulator believes the original case is now fully settled and administered.",
-     "related": [],
-     "story": {
-      "id": "business-sec-closes-musk-tesla-settlement-fund",
-      "title": "SEC Closes Musk-Tesla Settlement Fund",
-      "so_far": "In 2018, the SEC sued Elon Musk for claiming he had 'funding secured' to take Tesla private. The settlement required Musk to step down as chairman, and both he and Tesla paid millions into a fund to compensate harmed investors. This move marks the final chapter of that regulatory enforcement action.",
+      "id": "business-qualcomm-global-workforce-restructuring",
+      "title": "Qualcomm Global Workforce Restructuring",
+      "so_far": "As part of a broad global strategy to streamline operations and manage costs, US-based chipmaker Qualcomm is reducing its headcount. The restructuring is being executed in phases across the company's international locations to align with its current financial and operational objectives.",
       "timeline": [
        {
         "date": "2026-11-11",
-        "text": "The regulator is moving to officially wind down the fund originally created to compensate investors affected by Musk's 2018 tweets about taking Tesla private.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/us-sec-seeks-to-close-elon-musk-tesla-settlement-fund/articleshow/135722752.cms",
+        "text": "Qualcomm has initiated layoffs in India, following similar job cuts previously enacted in the United States.",
+        "link": "https://economictimes.indiatimes.com/news/new-updates/qualcomm-layoffs-severance-package-3-months-salary-extra-payout-based-on-years-of-service-one-more-months-pay-for-signing-exit-papers-within-3-days-what-employees-are-being-offered/articleshow/135733726.cms",
         "source": "Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "b693ebe24ffb",
-     "title": "Cognizant to tie job titles to AI adoption in major workforce revamp",
-     "link": "https://www.livemint.com/companies/cognizant-to-tie-job-titles-to-ai-adoption-in-major-workforce-revamp-11794319497907.html",
-     "source": "mint - companies",
-     "published": "2026-11-11T00:30:38+00:00",
-     "summary": "Cognizant is restructuring its job titles to account for how much AI has automated specific work tasks.",
-     "explain": "IT services companies traditionally bill clients based on the number of hours employees work. AI tools now allow those employees to finish tasks much faster. Cognizant is redefining job titles to reflect that their value is shifting from pure 'human hours' to 'AI-enabled expertise,' which may change how they bill clients in the future.",
-     "related": [],
-     "story": {
-      "id": "business-cognizant-ai-job-restructuring",
-      "title": "Cognizant AI Job Restructuring",
-      "so_far": "As Generative AI tools like ChatGPT gain prominence, IT services companies have been under pressure to adapt their service models. Cognizant is one of the many large technology outsourcing firms grappling with how to maintain profitability while workers adopt AI tools that can perform coding and administrative tasks faster than humans.",
-      "timeline": [
+       },
        {
         "date": "2026-11-11",
-        "text": "The IT giant is implementing a three-tiered role architecture to categorize employees based on their current level of AI integration.",
-        "link": "https://www.livemint.com/companies/cognizant-to-tie-job-titles-to-ai-adoption-in-major-workforce-revamp-11794319497907.html",
+        "text": "The company has confirmed that the reduction in staff will take place in phases across its Indian offices.",
+        "link": "https://www.livemint.com/companies/news/qualcomm-begins-layoffs-india-bengaluru-how-many-jobs-at-risk-what-severance-package-benefits-offered-to-employees-11794366514287.html",
         "source": "mint - companies"
        }
       ]
      }
     },
     {
-     "id": "6d7ee3930c5e",
-     "title": "US House Republicans block effort to impeach Defence Secretary Pete Hegseth",
-     "link": "https://www.thehindubusinessline.com/news/world/us-house-republicans-block-effort-to-impeach-defence-secretary-pete-hegseth/article71687543.ece",
+     "id": "5ce69933257d",
+     "title": "Amul, Mother Dairy to raise milk prices by ₹2-6 per litre from November 12",
+     "link": "https://www.thehindubusinessline.com/economy/agri-business/amul-mother-dairy-to-raise-milk-prices-by-2-6-per-litre-from-november-12/article71689137.ece",
      "source": "Business News Today: Latest Business New",
-     "published": "2026-11-10T23:20:31+00:00",
-     "summary": "The US House of Representatives has blocked a motion to impeach Secretary of Defense Pete Hegseth.",
-     "explain": "Impeachment is the formal process of charging a government official with misconduct. In the US, it starts in the House of Representatives. By 'blocking' the motion, the House leadership has effectively killed the attempt to remove the Secretary of Defense from office, signaling support from the majority party for the current Cabinet.",
+     "published": "2026-11-11T10:10:15+00:00",
+     "summary": "Major dairy cooperatives Amul and Mother Dairy are increasing milk prices by ₹2 to ₹6 per litre.",
+     "explain": "When companies like Amul or Mother Dairy raise prices, it is usually because the cost of producing the product has gone up. Feed costs and supply constraints impact how much milk is available, and these price hikes are a way for firms to maintain their business stability when operating expenses increase.",
      "related": [],
      "story": {
-      "id": "business-us-diplomatic-strategy-and-summits",
-      "title": "US Diplomatic Strategy and Summits",
-      "so_far": "Following the recent US election, the transition of power and the legal processes surrounding vote certification and appointments have become subjects of intense public and political scrutiny. Various factions in the House continue to challenge or support Cabinet-level officials as the new administration takes shape.",
+      "id": "business-rising-milk-and-dairy-prices",
+      "title": "Rising Milk and Dairy Prices",
+      "so_far": "The dairy industry in India has been facing significant operational pressure due to rising costs in animal husbandry. Factors such as increased prices for cattle feed and higher costs associated with milk fat procurement have strained profit margins, leading major suppliers to pass these costs on to consumers.",
       "timeline": [
        {
-        "date": "2026-11-04",
-        "text": "Early midterm exit polls show that economic grievances and dissatisfaction with Trump are dominant themes among voters.",
-        "link": "https://www.thehindubusinessline.com/news/world/us-midterm-exit-polls-two-thirds-of-voters-blame-trump-for-high-prices/article71663690.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-04",
-        "text": "Initial voter feedback suggests a potential rebuke of the current leadership, with Democrats eyeing a shift in legislative power.",
-        "link": "https://www.thehindubusinessline.com/news/world/us-midterm-elections-voters-signal-rebuke-to-trump-as-democrats-eye-control-of-congress/article71663703.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-04",
-        "text": "Local races in New York are proving to be highly contested as midterm voting concludes.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/new-york-governor-race-results-2026-who-is-winning-kathy-hochul-vs-bruce-blakeman-latest-updates-as-votes-are-counted/articleshow/135516918.cms",
-        "source": "Economic Times"
-       },
-       {
-        "date": "2026-11-04",
-        "text": "As voting concludes, public approval of Donald Trump has dropped to 38%.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/us-midterm-elections-2026-trump-approval-plunges-to-38-as-polls-begin-to-close-cbs-exit-poll-shows/articleshow/135516823.cms",
-        "source": "Economic Times"
-       },
-       {
-        "date": "2026-11-04",
-        "text": "Recent election results have created a shift in power dynamics, suggesting potential for continued political gridlock in Washington.",
-        "link": "https://www.thehindubusinessline.com/news/world/chaos-ahead-democrats-win-big-inus-midterm-electionswhile-trump-holds-veto-power/article71664965.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-05",
-        "text": "Trump claims that negotiations are progressing toward a peace agreement regarding the Russia-Ukraine conflict.",
-        "link": "https://www.thehindubusinessline.com/news/world/trump-expects-russia-ukraine-peace-deal-soon-says-agreement-could-involve-all-of-europe/article71671869.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-05",
-        "text": "Rubio is evaluating his future in the current administration amidst questions about the party's direction.",
-        "link": "https://www.thehindubusinessline.com/news/world/marco-rubio-weighs-quitting-trump-administration-after-republicans-midterm-election-defeat/article71671766.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Trump cited poll results as a primary driver for the recent downward pressure on stock markets.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/it-wasnt-republicans-it-was-dumocrats-trump-blames-election-results-for-stock-market-plunge/articleshow/135589887.cms",
-        "source": "Economic Times"
-       },
-       {
-        "date": "2026-11-06",
-        "text": "Political figure Hegseth is preparing to defend against impeachment after a poor performance by his party in the midterms.",
-        "link": "https://economictimes.indiatimes.com/news/defence/hegseth-vows-to-fight-impeachment-as-democrats-target-us-defense-chief-after-midterm-losses/articleshow/135589598.cms",
-        "source": "Economic Times"
-       },
-       {
-        "date": "2026-11-07",
-        "text": "Global perceptions of US stability are shifting, with international trust now contingent on predictable leadership and consistent policy.",
-        "link": "https://www.thehindubusinessline.com/news/world/after-trumps-midterm-setback-the-world-struggles-to-trust-america-again/article71677368.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-07",
-        "text": "Donald Trump has begun selecting key members of his administration, including the surprising nomination of UFC executive Dana White for the role of Press Secretary.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/who-is-dana-white-from-ufc-boss-to-trumps-proposed-press-secretary-his-ties-with-joe-rogan-and-khabib/articleshow/135645316.cms",
-        "source": "Economic Times"
-       },
-       {
-        "date": "2026-11-10",
-        "text": "A push for the impeachment of Defense Secretary Hegseth by Representative Thomas Massie was voted down by the House.",
-        "link": "https://www.thehindubusinessline.com/news/world/us-house-republicans-block-effort-to-impeach-defence-secretary-pete-hegseth/article71687543.ece",
+        "date": "2026-11-11",
+        "text": "Effective November 12, retail milk prices across India will rise due to higher input costs for dairy companies.",
+        "link": "https://www.thehindubusinessline.com/economy/agri-business/amul-mother-dairy-to-raise-milk-prices-by-2-6-per-litre-from-november-12/article71689137.ece",
         "source": "Business News Today: Latest Business New"
        }
       ]
      }
     },
     {
-     "id": "5186a2e571bb",
-     "title": "IBM to stop US visa, green card sponsorship for majority of Consulting jobs",
-     "link": "https://www.thehindubusinessline.com/info-tech/ibm-to-stop-us-visa-green-card-sponsorship-for-majority-of-consulting-jobs/article71687532.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-10T23:13:41+00:00",
-     "summary": "IBM will no longer sponsor US visas or green cards for most of its consulting roles, citing increased regulatory scrutiny on foreign labor.",
-     "explain": "Visa sponsorship is when a company takes on the legal and financial responsibility to help a foreign worker obtain the legal right to work in the US. By stopping this for consulting jobs, IBM is signaling that it will prioritize local US-based talent, likely to avoid legal compliance costs and align with tightening federal regulations on immigration.",
+     "id": "b108aed26e80",
+     "title": "Qualcomm begins layoffs in India: How many jobs are at risk, what's the severance package, benefits offered to employees",
+     "link": "https://www.livemint.com/companies/news/qualcomm-begins-layoffs-india-bengaluru-how-many-jobs-at-risk-what-severance-package-benefits-offered-to-employees-11794366514287.html",
+     "source": "mint - companies",
+     "published": "2026-11-11T03:12:51+00:00",
+     "summary": "Qualcomm is initiating layoffs in its Indian division, aligning with its global restructuring strategy.",
+     "explain": "This confirms the ongoing restructuring at Qualcomm. The company is reducing its employee count globally, and Indian operations are now being included in this shift, marking a significant change in the tech giant's staffing model.",
      "related": [],
      "story": {
-      "id": "business-ibm-curbs-foreign-worker-sponsorship",
-      "title": "IBM Curbs Foreign Worker Sponsorship",
-      "so_far": "Large technology and consulting firms have historically relied on H-1B visas and similar programs to recruit specialized technical talent globally. Recent years have seen shifting US immigration policies and increased scrutiny from Washington regarding the hiring of foreign workers in high-tech industries, prompting companies to adjust their recruitment pipelines.",
+      "id": "business-qualcomm-global-workforce-restructuring",
+      "title": "Qualcomm Global Workforce Restructuring",
+      "so_far": "As part of a broad global strategy to streamline operations and manage costs, US-based chipmaker Qualcomm is reducing its headcount. The restructuring is being executed in phases across the company's international locations to align with its current financial and operational objectives.",
       "timeline": [
        {
-        "date": "2026-11-10",
-        "text": "IBM announced a shift in its hiring policy for consulting positions, ending visa and green card sponsorship for the majority of these roles.",
-        "link": "https://www.thehindubusinessline.com/info-tech/ibm-to-stop-us-visa-green-card-sponsorship-for-majority-of-consulting-jobs/article71687532.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "4f5d28180dcc",
-     "title": "Global cotton output to decline as US, India crops shrink, says USDA",
-     "link": "https://www.thehindubusinessline.com/economy/agri-business/global-cotton-output-to-decline-as-us-india-crops-shrink-says-usda/article71687533.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-10T23:10:19+00:00",
-     "summary": "The USDA projects a decline in global cotton production due to smaller crop yields in the US and India.",
-     "explain": "The USDA (US Department of Agriculture) tracks global crop data to help markets predict future supply and demand. A 'decline in output' means less cotton will be available on the global market. Because demand for cotton remains steady for clothing, a supply shortage generally leads to higher prices for textile manufacturers and potentially consumers.",
-     "related": [],
-     "story": {
-      "id": "business-global-cotton-supply-outlook",
-      "title": "Global Cotton Supply Outlook",
-      "so_far": "Cotton is a vital commodity for the global textile and apparel industry. Production levels are highly sensitive to weather patterns, geopolitical stability, and trade policies. India and the US have long been two of the world's largest producers, and their agricultural performance directly affects global prices for clothing manufacturers.",
-      "timeline": [
-       {
-        "date": "2026-11-10",
-        "text": "New data from the USDA indicates that lower cotton output in major producing nations like India, the US, and Turkey will outweigh production gains in China and Australia.",
-        "link": "https://www.thehindubusinessline.com/economy/agri-business/global-cotton-output-to-decline-as-us-india-crops-shrink-says-usda/article71687533.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "10f47e3b9e97",
-     "title": "India and France deepen space cooperation, launch critical technologies dialogue",
-     "link": "https://www.thehindubusinessline.com/news/india-and-france-deepen-space-cooperation-launch-critical-technologies-dialogue/article71687531.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-10T23:04:46+00:00",
-     "summary": "India and France have initiated a new dialogue focused on critical technologies and space cooperation.",
-     "explain": "A 'critical technologies dialogue' is a formal diplomatic process where countries align on how to develop and secure essential industries like computing, space exploration, and defense. By working together, India and France aim to become less dependent on third-party suppliers for the hardware and software required to run their economies and militaries.",
-     "related": [],
-     "story": {
-      "id": "business-india-france-technology-partnership",
-      "title": "India-France Technology Partnership",
-      "so_far": "India and France have historically maintained strong strategic partnerships in defense and aerospace. As global competition in semiconductor, AI, and space sectors intensifies, both nations are looking to diversify their technological dependencies away from other dominant global powers.",
-      "timeline": [
-       {
-        "date": "2026-11-10",
-        "text": "The two nations are deepening industrial and strategic ties through a new critical technologies dialogue aimed at improving supply chain resilience.",
-        "link": "https://www.thehindubusinessline.com/news/india-and-france-deepen-space-cooperation-launch-critical-technologies-dialogue/article71687531.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "f6ee8c7a7272",
-     "title": "Iran’s economic pain to intensify in coming months, says Marco Rubio",
-     "link": "https://www.thehindubusinessline.com/news/world/irans-economic-pain-to-intensify-in-coming-months-says-marco-rubio/article71687530.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-10T23:00:01+00:00",
-     "summary": "Senator Marco Rubio suggested that Iran will face worsening economic conditions due to tougher US policies.",
-     "explain": "An 'economic pressure campaign' usually involves sanctions—government-imposed trade restrictions—that make it difficult for a country to sell its natural resources or access international banking. If Iran's economy is squeezed, global oil prices often rise because the market anticipates supply disruptions in key shipping regions like the Strait of Hormuz.",
-     "related": [],
-     "story": {
-      "id": "business-strait-of-hormuz-geopolitical-tensions",
-      "title": "Strait of Hormuz Geopolitical Tensions",
-      "so_far": "The Strait of Hormuz is a critical maritime chokepoint for global oil. Tensions involving Iran, the US, and other regional powers often fluctuate based on sanctions and military posture. These tensions directly influence global energy prices and international diplomatic stability.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "Regional actors have issued threats to close the Strait of Hormuz unless specific conditions are met by the US government.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/hormuz-is-closed-until-america-accepts-our-conditions-araghchi-demands-us-to-honour-mou-commitments/articleshow/135079334.cms",
+        "date": "2026-11-11",
+        "text": "Qualcomm has initiated layoffs in India, following similar job cuts previously enacted in the United States.",
+        "link": "https://economictimes.indiatimes.com/news/new-updates/qualcomm-layoffs-severance-package-3-months-salary-extra-payout-based-on-years-of-service-one-more-months-pay-for-signing-exit-papers-within-3-days-what-employees-are-being-offered/articleshow/135733726.cms",
         "source": "Economic Times"
        },
        {
-        "date": "2026-11-02",
-        "text": "Diplomatic efforts between Iran and Qatar are providing temporary relief to oil markets, causing prices to slide.",
-        "link": "https://www.thehindubusinessline.com/markets/commodities/oil-prices-fall-over-1-as-iran-qatar-talks-raise-hopes-of-diplomatic-progress/article71655114.ece",
-        "source": "Business News Today: Latest Business New"
-       },
+        "date": "2026-11-11",
+        "text": "The company has confirmed that the reduction in staff will take place in phases across its Indian offices.",
+        "link": "https://www.livemint.com/companies/news/qualcomm-begins-layoffs-india-bengaluru-how-many-jobs-at-risk-what-severance-package-benefits-offered-to-employees-11794366514287.html",
+        "source": "mint - companies"
+       }
+      ]
+     }
+    },
+    {
+     "id": "4a1f82517c20",
+     "title": "TACC gets ₹609 crore incentive for Dewas project",
+     "link": "https://www.thehindubusinessline.com/info-tech/tacc-gets-rs-609-cr-incentive-for-dewas-project/article71689391.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-11T11:18:18+00:00",
+     "summary": "TACC has received a ₹609 crore incentive for its synthetic graphite anode material project in Madhya Pradesh.",
+     "explain": "Synthetic graphite is a critical material used in making anodes for lithium-ion batteries, which power electric vehicles. An 'incentive' is a financial reward or tax break provided by the government to encourage companies to invest in specific projects that contribute to national economic goals.",
+     "related": [],
+     "story": {
+      "id": "business-tacc-industrial-incentive-approval",
+      "title": "TACC Industrial Incentive Approval",
+      "so_far": "The Indian government frequently offers financial incentives to promote domestic manufacturing, particularly in sectors related to clean energy and advanced materials. These grants aim to boost local production capabilities and reduce reliance on imported industrial components.",
+      "timeline": [
        {
-        "date": "2026-11-03",
-        "text": "The cooling of crude oil prices and reduced fears of regional escalation in the Middle East are providing a boost to Indian market confidence.",
-        "link": "https://www.thehindubusinessline.com/markets/indian-markets-likely-to-open-higher-gift-nifty-signals-150-point-gap-up/article71659211.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-10",
-        "text": "Washington signals a renewed commitment to an economic pressure campaign against Iran.",
-        "link": "https://www.thehindubusinessline.com/news/world/irans-economic-pain-to-intensify-in-coming-months-says-marco-rubio/article71687530.ece",
+        "date": "2026-11-11",
+        "text": "The government approved a large incentive for TACC's new production facility in the Sirsoda Industrial Area.",
+        "link": "https://www.thehindubusinessline.com/info-tech/tacc-gets-rs-609-cr-incentive-for-dewas-project/article71689391.ece",
         "source": "Business News Today: Latest Business New"
        }
       ]
      }
     },
     {
-     "id": "577aff69cc83",
-     "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
-     "link": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
-     "source": "Business News",
-     "published": "2026-11-10T22:39:30+00:00",
-     "summary": "Watchmaker Fossil reports that its turnaround plan is yielding results, with a return to both profit and sales growth.",
-     "explain": "A 'turnaround' is a corporate recovery plan for a struggling business. When a company reports a 'return to profit,' it means it is finally making more money from sales than it is spending on operations. For Fossil, this suggests their new strategy—possibly focusing on different designs or reducing costs—is starting to work after a period of financial decline.",
+     "id": "c8231b447c78",
+     "title": "Argentina, Malaysia overtake Indonesia as top veg oil exporters to India",
+     "link": "https://www.thehindubusinessline.com/economy/agri-business/argentina-malaysia-overtake-indonesia-as-top-veg-oil-exporters-to-india/article71689201.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-11T11:10:42+00:00",
+     "summary": "Argentina and Malaysia have surpassed Indonesia as the primary suppliers of vegetable oil to India.",
+     "explain": "Vegetable oil is a staple in the Indian diet and a key commodity in global trade. Changes in the 'source' country for imports happen when one nation becomes more affordable or efficient at producing and exporting the product compared to others, often due to changes in government trade policies or harvest success.",
      "related": [],
      "story": {
-      "id": "business-fossil-group-turnaround-progress",
-      "title": "Fossil Group Turnaround Progress",
-      "so_far": "Fossil Group, known for its watches and accessories, has struggled in recent years as consumer preference shifted toward smartwatches and away from traditional timepieces. The company has been closing underperforming stores and adjusting its product lineup to stabilize finances.",
+      "id": "business-shifts-in-vegetable-oil-imports",
+      "title": "Shifts in Vegetable Oil Imports",
+      "so_far": "India is one of the world's largest consumers and importers of vegetable oil. The country's supply chain is highly sensitive to global price fluctuations, export policies of producer nations, and agricultural output in regions like Southeast Asia and South America.",
       "timeline": [
        {
-        "date": "2026-11-10",
-        "text": "Fossil confirms its first signs of profitability and growth as the company executes its restructuring strategy.",
-        "link": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
-        "source": "Business News"
+        "date": "2026-11-11",
+        "text": "Argentina is now India's top vegetable oil provider due to lower export taxes and high demand for soybean oil.",
+        "link": "https://www.thehindubusinessline.com/economy/agri-business/argentina-malaysia-overtake-indonesia-as-top-veg-oil-exporters-to-india/article71689201.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "8f729b120a7b",
+     "title": "Indices hold gains at noon; M&M, IndiGo top Nifty charts as IT stocks drag",
+     "link": "https://www.thehindubusinessline.com/markets/indices-hold-gains-at-noon-mm-indigo-top-nifty-charts-as-it-stocks-drag/article71688800.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-11T11:03:26+00:00",
+     "summary": "Indian stock indices, Sensex and Nifty 50, saw gains on November 11 led by the automotive sector.",
+     "explain": "A 'stock index' like the Sensex or Nifty is a statistical measure that tracks the performance of a group of major companies on a stock exchange. When an index goes up, it generally means the majority of listed companies are performing well, signaling investor confidence.",
+     "related": [],
+     "story": {
+      "id": "business-indian-stock-market-performance",
+      "title": "Indian Stock Market Performance",
+      "so_far": "The Indian stock market fluctuates daily based on corporate earnings, investor sentiment, and broader macroeconomic data. Analysts closely monitor sectors like IT, manufacturing, and aviation to gauge the economic health of the country.",
+      "timeline": [
+       {
+        "date": "2026-10-26",
+        "text": "The Sensex rose by 482.92 points to finish at 73,606.75, while the Nifty gained 153.20 points to reach 22,753.20.",
+        "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-26-october-2026/article71622964.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-08",
+        "text": "The market closed marginally down at 80,999.40 after a week of consistent gains.",
+        "link": "https://www.thehindubusinessline.com/markets/stock-markets-end-marginally-lower-in-special-muhurat-trading-snapping-7-day-rally/article71680873.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-09",
+        "text": "Markets rose on Monday as economic factors like oil prices and bank stability improved.",
+        "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-9-november-2026/article71681002.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-11",
+        "text": "Market indices posted gains with strong performance from Mahindra & Mahindra and IndiGo, while IT stocks experienced a decline.",
+        "link": "https://www.thehindubusinessline.com/markets/indices-hold-gains-at-noon-mm-indigo-top-nifty-charts-as-it-stocks-drag/article71688800.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "a8190a63a6c5",
+     "title": "Karnataka CM Shivakumar renews concerns over ethanol blending amid BJP protests",
+     "link": "https://www.thehindubusinessline.com/news/karnataka-cm-shivakumar-renews-concerns-over-ethanol-blending-amid-bjp-protests/article71689270.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-11T11:01:47+00:00",
+     "summary": "Karnataka CM D.K. Shivakumar raised concerns about high ethanol blending in fuel, citing vehicle damage.",
+     "explain": "Ethanol is a biofuel derived from crops like sugarcane. 'Ethanol blending' is the practice of mixing a percentage of this alcohol with gasoline. While it is intended to make fuel cleaner and cheaper, critics worry that high concentrations might negatively affect vehicle engines that were not built for biofuel use.",
+     "related": [],
+     "story": {
+      "id": "business-ethanol-blending-policy-concerns",
+      "title": "Ethanol Blending Policy Concerns",
+      "so_far": "The Indian government has been pushing to blend ethanol into petrol to reduce dependence on crude oil imports and support the sugar industry. However, the policy has faced pushback from some political leaders and vehicle users who fear mechanical side effects.",
+      "timeline": [
+       {
+        "date": "2026-11-11",
+        "text": "The Chief Minister has publicly questioned the effects of mandatory ethanol-fuel blending on engine performance and mileage.",
+        "link": "https://www.thehindubusinessline.com/news/karnataka-cm-shivakumar-renews-concerns-over-ethanol-blending-amid-bjp-protests/article71689270.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "8268e1fa39cc",
+     "title": "Stand-Up India scheme extended till 2031 to support 2.5 lakh new entrepreneurs",
+     "link": "https://www.thehindubusinessline.com/economy/policy/stand-up-india-scheme-extended-till-2031-to-support-25-lakh-new-entrepreneurs/article71689334.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-11T10:57:37+00:00",
+     "summary": "The Indian government has extended the 'Stand-Up India' scheme until 2031 to foster entrepreneurship.",
+     "explain": "The 'Stand-Up India' scheme helps new entrepreneurs get access to bank loans that might otherwise be difficult to secure. By extending this program, the government is signaling a commitment to long-term economic development by ensuring that people from diverse backgrounds can get the capital they need to launch businesses.",
+     "related": [],
+     "story": {
+      "id": "business-stand-up-india-scheme-extension",
+      "title": "Stand-Up India Scheme Extension",
+      "so_far": "Stand-Up India was designed to provide loans to underserved groups, including women and marginalized communities, to help them start their own businesses. The government uses such initiatives to drive economic inclusion and job creation.",
+      "timeline": [
+       {
+        "date": "2026-11-11",
+        "text": "The program will continue for another five years, targeting support for 2.5 lakh new entrepreneurs.",
+        "link": "https://www.thehindubusinessline.com/economy/policy/stand-up-india-scheme-extended-till-2031-to-support-25-lakh-new-entrepreneurs/article71689334.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "dcc81bf4929d",
+     "title": "Indian Overseas Bank hikes interest rates on 444-day term deposits by up to 15 bps",
+     "link": "https://www.thehindubusinessline.com/money-and-banking/indian-overseas-bank-hikes-interest-rates-on-444-day-term-deposits-by-up-to-15-bps/article71689302.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-11T10:56:59+00:00",
+     "summary": "Indian Overseas Bank has increased interest rates on specific 444-day term deposits.",
+     "explain": "A 'term deposit' (or fixed deposit) is a savings account that pays a fixed interest rate for a set period. A 'basis point' is a standard unit of measure in finance; one basis point is equal to 0.01%. When a bank hikes rates, it is trying to encourage people to keep more money in the bank.",
+     "related": [],
+     "story": {
+      "id": "business-bank-interest-rate-adjustments",
+      "title": "Bank Interest Rate Adjustments",
+      "so_far": "Banks in India regularly adjust their deposit interest rates based on liquidity requirements and RBI interest rate policies. Offering higher returns on specific deposit tenures is a common method for banks to attract more cash from customers.",
+      "timeline": [
+       {
+        "date": "2026-11-11",
+        "text": "The bank raised rates by up to 15 basis points for certain large-value term deposits.",
+        "link": "https://www.thehindubusinessline.com/money-and-banking/indian-overseas-bank-hikes-interest-rates-on-444-day-term-deposits-by-up-to-15-bps/article71689302.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "1c2182d78cea",
+     "title": "IMD update: Weather alert raised to depression, heavy rain likely for TN, Puducherry",
+     "link": "https://www.thehindubusinessline.com/economy/agri-business/imd-update-isolated-heavy-rain-likely-for-tn-puducherry-as-fresh-low-brews/article71688439.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-11T10:50:52+00:00",
+     "summary": "The IMD has issued a weather alert for heavy rain across Tamil Nadu and Puducherry due to a developing depression.",
+     "explain": "A 'depression' in meteorology is a low-pressure weather system that often leads to strong winds and heavy rainfall. The IMD provides these alerts so that local authorities and citizens can prepare for potential flooding or infrastructure disruptions caused by the storm.",
+     "related": [],
+     "story": {
+      "id": "business-severe-weather-alerts-and-depression",
+      "title": "Severe Weather Alerts and Depression",
+      "so_far": "The India Meteorological Department (IMD) monitors weather systems in the Bay of Bengal and the Arabian Sea, which frequently impact India's coastline, particularly during the monsoon and post-monsoon seasons.",
+      "timeline": [
+       {
+        "date": "2026-11-11",
+        "text": "A weather system in the Bay of Bengal has intensified, threatening the South Peninsula with heavy rainfall.",
+        "link": "https://www.thehindubusinessline.com/economy/agri-business/imd-update-isolated-heavy-rain-likely-for-tn-puducherry-as-fresh-low-brews/article71688439.ece",
+        "source": "Business News Today: Latest Business New"
        }
       ]
      }
@@ -1998,164 +1851,58 @@
    "label": "Markets & Crypto",
    "articles": [
     {
-     "id": "a3429be483f5",
-     "title": "Anthropic targets $90 billion IPO at $1.4 trillion valuation",
-     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-targets-90-billion-ipo-at-1-4-trillion-valuation/articleshow/135721872.cms",
-     "source": "Markets-Economic Times",
-     "published": "2026-11-11T00:27:03+00:00",
-     "summary": "AI company Anthropic has officially initiated its IPO process, targeting a valuation of up to $1.4 trillion and aiming to raise over $90 billion.",
-     "explain": "An IPO (Initial Public Offering) is when a private company sells shares to the public for the first time to raise capital. Anthropic is seeking a $1.4 trillion valuation, which would make it one of the most valuable companies in the world. Investors are watching this closely as a barometer for the broader AI industry's actual commercial potential versus its hype.",
+     "id": "05745b6dee2d",
+     "title": "Bajaj Finance said set to launch up to $1.2 billion QIP as early as this week",
+     "link": "https://www.livemint.com/market/stock-market-news/bajaj-finance-said-set-to-launch-up-to-1-2-billion-qip-as-early-as-this-week-11794382537759.html",
+     "source": "mint - markets",
+     "published": "2026-11-11T07:51:00+00:00",
+     "summary": "Bajaj Finance is preparing to raise approximately $1.2 billion through a Qualified Institutions Placement (QIP) this week following successful investor roadshows.",
+     "explain": "A Qualified Institutions Placement (QIP) allows a company to sell shares to a specific group of institutional investors, like mutual funds or insurance companies, rather than the general public. This is a common way for large companies to raise capital efficiently for growth or debt repayment. It matters because it signals confidence in the company's future while potentially diluting existing shareholders' stakes.",
      "related": [],
      "story": {
-      "id": "markets-anthropic-massive-ipo-launch",
-      "title": "Anthropic Massive IPO Launch",
-      "so_far": "Anthropic is a prominent artificial intelligence research company known for its Claude AI models. It is a major competitor to OpenAI and has attracted significant backing from tech giants like Amazon and Google. The company is now pursuing one of the largest public market debuts in history, reflecting the massive capital influx into the AI sector.",
+      "id": "markets-bajaj-finance-qip-fundraising",
+      "title": "Bajaj Finance QIP Fundraising",
+      "so_far": "Bajaj Finance is one of India's largest non-banking financial companies (NBFCs), providing consumer and small business loans. QIPs (Qualified Institutions Placements) are a mechanism for listed companies to raise capital quickly from institutional investors without the extensive regulatory paperwork of a public follow-on offering.",
       "timeline": [
        {
-        "date": "2026-11-10",
-        "text": "The company has defined its pricing range of $70-$78, aiming to raise $64.35 billion through the issuance of 825 million shares.",
-        "link": "https://www.livemint.com/market/ipo/anthropic-sets-ipo-price-band-at-70-78-targets-valuation-of-up-to-1-4-trillion-11794311891604.html",
+        "date": "2026-11-11",
+        "text": "Bajaj Finance is launching a $1.2 billion share sale to institutional investors.",
+        "link": "https://www.livemint.com/market/stock-market-news/bajaj-finance-said-set-to-launch-up-to-1-2-billion-qip-as-early-as-this-week-11794382537759.html",
         "source": "mint - markets"
        },
        {
         "date": "2026-11-11",
-        "text": "Anthropic has set a target valuation of $1.4 trillion and plans to begin trading on the Nasdaq on November 19.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-targets-90-billion-ipo-at-1-4-trillion-valuation/articleshow/135721872.cms",
+        "text": "The company has finalized plans for a 117 billion rupee capital raise following the conclusion of roadshows.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-said-to-be-set-to-launch-up-to-1-2-billion-share-sale/articleshow/135729545.cms",
         "source": "Markets-Economic Times"
        }
       ]
      }
     },
     {
-     "id": "dd7380797d69",
-     "title": "Wall St retreats as hot inflation data, Fed comments fuel rate worries",
-     "link": "https://www.livemint.com/market/wall-st-retreats-as-hot-inflation-data-fed-comments-fuel-rate-worries-11794339875709.html",
-     "source": "mint - markets",
-     "published": "2026-11-10T19:44:35+00:00",
-     "summary": "U.S. stock markets declined following reports of persistent inflation and cautionary comments from Federal Reserve officials.",
-     "explain": "When inflation data is 'hot,' it means prices are rising faster than expected, which often forces the Federal Reserve to keep interest rates high to cool the economy. High interest rates make it more expensive for companies to borrow money and reduce the 'present value' of future earnings, which tends to hurt stock prices, especially for tech firms.",
-     "related": [],
-     "story": {
-      "id": "markets-us-tech-market-volatility",
-      "title": "US Tech Market Volatility",
-      "so_far": "The US tech market has faced a turbulent 2026 as high interest rates and changing advertising demand have pressured growth-focused digital and software companies. Many of these firms saw inflated valuations during the previous cycle and are now undergoing significant market correction.",
-      "timeline": [
-       {
-        "date": "2026-10-24",
-        "text": "A list of 'portfolio killers' identifies top US stocks that have faced significant capital erosion throughout 2026.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/portfolio-killers-10-us-stocks-that-wiped-out-up-to-66-of-investors-wealth-in-2026/slideshow/135167355.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-29",
-        "text": "Weak earnings reports from major tech players like Alphabet are triggering a decline in US tech market futures.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-shares-edge-higher-as-investors-assess-tech-earnings-fed-outlook/articleshow/135285079.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-11-07",
-        "text": "The sector faces fresh uncertainty as political outcomes threaten to slow down infrastructure projects essential for AI growth.",
-        "link": "https://www.livemint.com/market/us-markets-next-week-9-14-nov-after-crash-and-bounce-back-investors-eye-inflation-data-tech-earnings-and-more-11794072283036.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-10",
-        "text": "Rising Treasury yields fueled by hawkish comments from Fed Governor Waller are pressuring markets ahead of new inflation data.",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-rise-as-feds-waller-presses-rate-hike-case/articleshow/135708551.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-11-10",
-        "text": "Market sentiment turned bearish as higher-than-expected inflation data cooled hopes for quick interest rate cuts by the Federal Reserve.",
-        "link": "https://www.livemint.com/market/wall-st-retreats-as-hot-inflation-data-fed-comments-fuel-rate-worries-11794339875709.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-10",
-        "text": "The market saw a broad retreat as Fed-related rate concerns exacerbated selling pressure.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-anthropic-ipo-nvidia-intel-marvell-tech-ai-chip-stocks-inflation-fed-rate-hike-treasury-bond-yield-news-10th-november-2026/liveblog/135712173.cms",
-        "source": "Markets-Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "241b464c1ccb",
-     "title": "US market ends lower as hot inflation data, Fed comments heighten rate worries: Stock Market Highlights",
-     "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-anthropic-ipo-nvidia-intel-marvell-tech-ai-chip-stocks-inflation-fed-rate-hike-treasury-bond-yield-news-10th-november-2026/liveblog/135712173.cms",
+     "id": "272e0cf0084c",
+     "title": "Bajaj Finance to launch share sale worth up to Rs 11,700 cr this week: Report",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-said-to-be-set-to-launch-up-to-1-2-billion-share-sale/articleshow/135729545.cms",
      "source": "Markets-Economic Times",
-     "published": "2026-11-10T13:03:22+00:00",
-     "summary": "U.S. indices closed lower as investors reacted to inflation data and concerns regarding future monetary policy.",
-     "explain": "The 'Fed' (Federal Reserve) is the U.S. central bank. Their comments on interest rates are closely monitored because when they signal that rates will stay 'higher for longer,' investors move away from risky stocks into safer investments like government bonds, causing broader stock market declines.",
+     "published": "2026-11-11T07:36:59+00:00",
+     "summary": "Bajaj Finance is moving forward with a share sale worth 117 billion rupees (approx. $1.2 billion) targeting institutional investors.",
+     "explain": "This confirms the scope and scale of the previously reported fundraising efforts. By targeting institutional investors, Bajaj Finance is looking to strengthen its balance sheet to support continued lending operations.",
      "related": [],
      "story": {
-      "id": "markets-us-tech-market-volatility",
-      "title": "US Tech Market Volatility",
-      "so_far": "The US tech market has faced a turbulent 2026 as high interest rates and changing advertising demand have pressured growth-focused digital and software companies. Many of these firms saw inflated valuations during the previous cycle and are now undergoing significant market correction.",
+      "id": "markets-bajaj-finance-qip-fundraising",
+      "title": "Bajaj Finance QIP Fundraising",
+      "so_far": "Bajaj Finance is one of India's largest non-banking financial companies (NBFCs), providing consumer and small business loans. QIPs (Qualified Institutions Placements) are a mechanism for listed companies to raise capital quickly from institutional investors without the extensive regulatory paperwork of a public follow-on offering.",
       "timeline": [
        {
-        "date": "2026-10-24",
-        "text": "A list of 'portfolio killers' identifies top US stocks that have faced significant capital erosion throughout 2026.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/portfolio-killers-10-us-stocks-that-wiped-out-up-to-66-of-investors-wealth-in-2026/slideshow/135167355.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-29",
-        "text": "Weak earnings reports from major tech players like Alphabet are triggering a decline in US tech market futures.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-shares-edge-higher-as-investors-assess-tech-earnings-fed-outlook/articleshow/135285079.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-11-07",
-        "text": "The sector faces fresh uncertainty as political outcomes threaten to slow down infrastructure projects essential for AI growth.",
-        "link": "https://www.livemint.com/market/us-markets-next-week-9-14-nov-after-crash-and-bounce-back-investors-eye-inflation-data-tech-earnings-and-more-11794072283036.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-10",
-        "text": "Rising Treasury yields fueled by hawkish comments from Fed Governor Waller are pressuring markets ahead of new inflation data.",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-rise-as-feds-waller-presses-rate-hike-case/articleshow/135708551.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-11-10",
-        "text": "Market sentiment turned bearish as higher-than-expected inflation data cooled hopes for quick interest rate cuts by the Federal Reserve.",
-        "link": "https://www.livemint.com/market/wall-st-retreats-as-hot-inflation-data-fed-comments-fuel-rate-worries-11794339875709.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-10",
-        "text": "The market saw a broad retreat as Fed-related rate concerns exacerbated selling pressure.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-anthropic-ipo-nvidia-intel-marvell-tech-ai-chip-stocks-inflation-fed-rate-hike-treasury-bond-yield-news-10th-november-2026/liveblog/135712173.cms",
-        "source": "Markets-Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "027e0ac37066",
-     "title": "Anthropic sets IPO price band at $70-$78, targets valuation of up to $1.4 trillion",
-     "link": "https://www.livemint.com/market/ipo/anthropic-sets-ipo-price-band-at-70-78-targets-valuation-of-up-to-1-4-trillion-11794311891604.html",
-     "source": "mint - markets",
-     "published": "2026-11-10T12:38:20+00:00",
-     "summary": "Anthropic has set the price range for its upcoming IPO at $70 to $78 per share.",
-     "explain": "A price band is the range set by a company and its bankers for an IPO. By setting this range, Anthropic helps potential investors know how much they will need to pay for a piece of the company when it hits the stock exchange. The total amount raised depends on how many shares are ultimately sold at these prices.",
-     "related": [],
-     "story": {
-      "id": "markets-anthropic-massive-ipo-launch",
-      "title": "Anthropic Massive IPO Launch",
-      "so_far": "Anthropic is a prominent artificial intelligence research company known for its Claude AI models. It is a major competitor to OpenAI and has attracted significant backing from tech giants like Amazon and Google. The company is now pursuing one of the largest public market debuts in history, reflecting the massive capital influx into the AI sector.",
-      "timeline": [
-       {
-        "date": "2026-11-10",
-        "text": "The company has defined its pricing range of $70-$78, aiming to raise $64.35 billion through the issuance of 825 million shares.",
-        "link": "https://www.livemint.com/market/ipo/anthropic-sets-ipo-price-band-at-70-78-targets-valuation-of-up-to-1-4-trillion-11794311891604.html",
+        "date": "2026-11-11",
+        "text": "Bajaj Finance is launching a $1.2 billion share sale to institutional investors.",
+        "link": "https://www.livemint.com/market/stock-market-news/bajaj-finance-said-set-to-launch-up-to-1-2-billion-qip-as-early-as-this-week-11794382537759.html",
         "source": "mint - markets"
        },
        {
         "date": "2026-11-11",
-        "text": "Anthropic has set a target valuation of $1.4 trillion and plans to begin trading on the Nasdaq on November 19.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-targets-90-billion-ipo-at-1-4-trillion-valuation/articleshow/135721872.cms",
+        "text": "The company has finalized plans for a 117 billion rupee capital raise following the conclusion of roadshows.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-said-to-be-set-to-launch-up-to-1-2-billion-share-sale/articleshow/135729545.cms",
         "source": "Markets-Economic Times"
        }
       ]
@@ -2227,131 +1974,421 @@
      }
     },
     {
-     "id": "669e6a9ea362",
-     "title": "Securitize agrees to buy River One to expand into asset-backed lending",
-     "link": "https://cointelegraph.com/news/securitize-river-one-asset-backed-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph.com News",
-     "published": "2026-11-10T07:49:14+00:00",
-     "summary": "Securitize is acquiring River One to integrate stablecoin funding into the asset-backed lending market. The deal is expected to close in the fourth quarter of 2026.",
-     "explain": "Asset-backed lending involves loans secured by tangible collateral, like equipment or inventory. By using stablecoins—cryptocurrencies pegged to the value of a fiat currency like the US dollar—Securitize aims to make this type of lending faster and more accessible. This matters as it represents a growing trend of institutional financial players adopting blockchain to streamline traditional credit markets.",
-     "related": [
-      {
-       "date": "2026-11-09",
-       "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
-       "link": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
-       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-      }
-     ],
+     "id": "73aadff98351",
+     "title": "Gold or Silver? Which investment will offer higher returns after rates correction? What experts say; key levels to watch",
+     "link": "https://www.livemint.com/market/gold-or-silver-which-investment-will-offer-higher-returns-after-rates-correction-what-experts-say-key-levels-to-watch-11794394141742.html",
+     "source": "mint - markets",
+     "published": "2026-11-11T11:20:51+00:00",
+     "summary": "Gold and silver prices increased on the MCX exchange, with experts advising gold for long-term stability and silver for higher-risk growth.",
+     "explain": "Precious metals are often viewed as safe-haven assets. When interest rates are high, they usually struggle because they don't provide interest income; however, investors look to them as a hedge when they worry about currency devaluation or broader economic instability.",
+     "related": [],
      "story": {
-      "id": "markets-securitize-acquires-river-one",
-      "title": "Securitize Acquires River One",
-      "so_far": "Securitize is a blockchain-based firm that specializes in tokenizing real-world assets. By acquiring River One, a platform focused on asset-backed lending, the company intends to bridge the gap between traditional finance and decentralized stablecoin liquidity.",
+      "id": "markets-global-currency-market-trends",
+      "title": "Global Currency Market Trends",
+      "so_far": "Gold is traditionally seen as a hedge against inflation. However, its value is inversely related to interest rates; as central banks keep rates high, the 'opportunity cost' of holding gold increases because gold doesn't pay interest.",
       "timeline": [
        {
+        "date": "2026-11-01",
+        "text": "Gold and silver prices saw a significant single-day drop in India, attributed to macroeconomic pressure and Fed interest rate expectations.",
+        "link": "https://www.livemint.com/market/commodities/gold-silver-rates-approaching-dec-2025-levels-energy-prices-inflation-fed-weighing-on-investor-sentiments-details-11793521144409.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-02",
+        "text": "Expectations of higher interest rates are putting downward pressure on gold prices as it competes with interest-bearing assets.",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-lingers-near-one-year-low-as-fed-hike-expectations-firm/articleshow/135442111.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-03",
+        "text": "Gold prices are fluctuating in response to cooling oil prices and market anticipation of potential Fed interest rate hikes in December.",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-higher-on-softer-oil-us-midterm-elections-in-focus/articleshow/135478813.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-03",
+        "text": "Precious metals fell as geopolitical tension sent oil prices up, stoking inflation concerns and causing investors to reassess interest rate expectations.",
+        "link": "https://www.livemint.com/market/stock-market-news/silver-prices-crash-rs-8-500-kg-gold-drops-rs-2-000-10g-as-us-iran-tensions-revive-inflation-fears-is-more-fall-ahead-11793698796709.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-06",
+        "text": "Gold prices continue to climb toward a weekly gain as markets await key US non-farm payrolls data.",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-set-for-weekly-gain-as-markets-await-us-payrolls-data/articleshow/135590413.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-06",
+        "text": "The dollar and yen are strengthening as safe-haven demand spikes during the current equity market sell-off.",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-holds-yen-gains-as-equity-rout-saps-risk-appetite-ahead-of-payrolls/articleshow/135590399.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-07",
+        "text": "Financial experts highlighted that while Gold serves as a classic investment hedge, Silver offers dual potential due to its industrial utility.",
+        "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-guide-gold-etf-vs-silver-etf-on-diwali-day-what-to-buy-for-higher-returns-in-samvat-2083-11794042037235.html",
+        "source": "mint - markets"
+       },
+       {
         "date": "2026-11-09",
-        "text": "Further reports emphasize that the acquisition aims to tap into a $6 trillion market for asset-backed financing.",
-        "link": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+        "text": "Bullion prices are expected to struggle due to the ongoing US-Iran conflict and looming economic data releases from major global powers.",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-may-sway-with-us-iran-tensions/articleshow/135668216.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-09",
+        "text": "The dollar index has steadied at 102.20 as investors reconsider the likelihood of Federal Reserve interest rate hikes.",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/us-dollar-holds-onto-payrolls-gains-nz-dollar-rises-after-election/articleshow/135667774.cms",
+        "source": "Markets-Economic Times"
        },
        {
         "date": "2026-11-10",
-        "text": "Securitize announced an acquisition of River One to expand into the $6 trillion asset-backed finance market using stablecoin infrastructure.",
-        "link": "https://cointelegraph.com/news/securitize-river-one-asset-backed-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "a6101a9b34a8",
-     "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
-     "link": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
-     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
-     "published": "2026-11-09T22:56:27+00:00",
-     "summary": "Securitize is acquiring River One to integrate stablecoin funding into the asset-backed lending market. The deal is expected to close in the fourth quarter of 2026.",
-     "explain": "This article provides further context on the size of the market Securitize is entering. Asset-backed finance is a massive segment of the global economy where companies borrow money against their own assets. Bringing this on-chain signifies the industry's attempt to lower transaction costs and increase transparency.",
-     "related": [],
-     "story": {
-      "id": "markets-securitize-acquires-river-one",
-      "title": "Securitize Acquires River One",
-      "so_far": "Securitize is a blockchain-based firm that specializes in tokenizing real-world assets. By acquiring River One, a platform focused on asset-backed lending, the company intends to bridge the gap between traditional finance and decentralized stablecoin liquidity.",
-      "timeline": [
-       {
-        "date": "2026-11-09",
-        "text": "Further reports emphasize that the acquisition aims to tap into a $6 trillion market for asset-backed financing.",
-        "link": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+        "text": "Gold prices slipped as investors anticipate inflation metrics that will influence Federal Reserve interest rate policy.",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-dips-ahead-of-us-inflation-data/articleshow/135696094.cms",
+        "source": "Markets-Economic Times"
        },
        {
         "date": "2026-11-10",
-        "text": "Securitize announced an acquisition of River One to expand into the $6 trillion asset-backed finance market using stablecoin infrastructure.",
-        "link": "https://cointelegraph.com/news/securitize-river-one-asset-backed-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
+        "text": "Currency traders are pausing as they wait for US inflation data to provide direction for the US dollar.",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-sellers-hit-pause-for-us-inflation-data/articleshow/135696077.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-11",
+        "text": "Precious metals saw a rebound, with silver showing higher volatility and gains compared to gold.",
+        "link": "https://www.livemint.com/market/gold-or-silver-which-investment-will-offer-higher-returns-after-rates-correction-what-experts-say-key-levels-to-watch-11794394141742.html",
+        "source": "mint - markets"
        }
       ]
      }
     },
     {
-     "id": "9a8d8372cedb",
-     "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
-     "link": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "id": "2fe8d4c40950",
+     "title": "Bitcoin short-term holders send 47K BTC to exchanges at a loss",
+     "link": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph.com News",
-     "published": "2026-11-09T20:26:34+00:00",
-     "summary": "North Korean hackers are launching new memecoins to launder funds stolen from a $6.3 billion Binance hack.",
-     "explain": "A 'memecoin' is a cryptocurrency inspired by internet memes, often lacking traditional utility. In this context, hackers create them as a cover to move money through 'liquidity pools'—decentralized pools of funds—to make it difficult for authorities to track the stolen money back to its source.",
+     "published": "2026-11-11T11:05:26+00:00",
+     "summary": "Bitcoin dropped to an 11-week low as short-term investors sold their holdings at a loss due to prices falling below their average cost.",
+     "explain": "When Bitcoin's market price drops below the average price paid by recent buyers (the 'cost basis'), it can create 'panic selling' as those investors try to minimize losses. This can create a chain reaction of downward pressure on the price.",
      "related": [],
      "story": {
-      "id": "markets-north-korean-crypto-laundering-tactics",
-      "title": "North Korean Crypto Laundering Tactics",
-      "so_far": "North Korean state-sponsored hackers are widely recognized by international intelligence as being responsible for multiple large-scale cryptocurrency exchange breaches. By moving funds through various chains and decentralized protocols, they attempt to bypass global financial sanctions and convert stolen digital assets into usable currency.",
+      "id": "markets-bitcoin-long-term-market-outlook",
+      "title": "Bitcoin Long-term Market Outlook",
+      "so_far": "Bitcoin is a decentralized digital currency often referred to as 'digital gold' due to its fixed supply. Investors debate its role in portfolios, with proponents citing its potential for high growth and detractors pointing to its extreme price volatility and lack of intrinsic industrial value.",
       "timeline": [
        {
-        "date": "2026-11-09",
-        "text": "Blockchain firm Elliptic discovered hackers using new tokens on the NEAR blockchain to obscure the flow of stolen assets.",
-        "link": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "date": "2026-10-24",
+        "text": "The firms are addressing the operational challenge of balancing aggressive cryptocurrency acquisition with traditional requirements for dividend payments.",
+        "link": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "Bitcoin is testing the $80,000 support level as traders anticipate volatile economic data from the US.",
+        "link": "https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-10-27",
+        "text": "An analyst has issued a new price forecast of $57,000 for Bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-10-29",
+        "text": "Expectations of a December US interest rate hike are currently weighing on Bitcoin's market performance.",
+        "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-10-29",
+        "text": "Data suggests that long-term Bitcoin holders may begin selling their holdings once the price hits $85,000, creating a barrier to further price growth.",
+        "link": "https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-10-29",
+        "text": "Bitcoin is maintaining a support level at $80,000 ahead of key market events that may affect broader investor sentiment.",
+        "link": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-11-03",
+        "text": "Bitcoin has dipped below the entry price point of recent 1-3 month buyers, creating a potential 'resistance' level that could hinder further price appreciation.",
+        "link": "https://cointelegraph.com/markets/bitcoin-price-support-loss-recent-buyers-underwater?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-05",
+        "text": "Bitcoin has held steady at $80,000 following a broad market rally prompted by a sweep of the U.S. Congress by Democrats.",
+        "link": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-11-05",
+        "text": "Bitcoin has shown increased resilience in its performance against the S&P 500, a key U.S. stock index, as history points toward post-midterm election market growth.",
+        "link": "https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News"
        },
        {
         "date": "2026-11-09",
-        "text": "Multiple reports confirm the use of memecoins to launder billions in stolen crypto assets.",
-        "link": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
+        "text": "Bitcoin is currently facing downward pressure, tracking the broader market volatility seen in high-growth tech stocks.",
+        "link": "https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-10",
+        "text": "Bitcoin is experiencing downward price pressure as traders adjust their expectations for a Federal Reserve rate increase.",
+        "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-11-11",
+        "text": "Bitcoin hit an 11-week low, triggering sell-offs by investors who were holding at a loss.",
+        "link": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "3aa04d962aba",
+     "title": "Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion",
+     "link": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion",
+     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
+     "published": "2026-11-11T10:51:34+00:00",
+     "summary": "The crypto exchange Kraken has expanded its 'xStocks' service to include 200 European and UK shares, with assets now exceeding $1.1 billion.",
+     "explain": "Tokenized stocks allow users to trade digital versions of shares, often 24/7, on a blockchain. This is significant because it aims to make investing more accessible, but it faces scrutiny from financial regulators who are concerned about investor protection, clear ownership rights, and the potential for money laundering.",
+     "related": [],
+     "story": {
+      "id": "markets-opposition-to-okx-ice-tokenized-stock-pl",
+      "title": "Opposition to OKX-ICE Tokenized Stock Platform",
+      "so_far": "Tokenized stocks are digital tokens that represent ownership in shares of traditional companies, allowing for trading on blockchain platforms. These services operate in a gray area of global regulation, as they bridge the gap between regulated traditional stock markets and decentralized digital assets.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "Roughly 25% of the companies included in the platform's proposal are moving to opt-out of the service.",
+        "link": "https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-10-20",
+        "text": "Goldman Sachs has joined the growing list of major firms seeking to block the platform from using their equities.",
+        "link": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-10-26",
+        "text": "Securitize's tokenized stock value halved to $208.6 million as the broader tokenized equities market reached $3.3 billion.",
+        "link": "https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-11",
+        "text": "Kraken is scaling its tokenized stock offerings by adding hundreds of new global equities.",
+        "link": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
        }
       ]
      }
     },
     {
-     "id": "b33b950aecef",
-     "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
-     "link": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
+     "id": "b984ecc9e608",
+     "title": "Bitcoin holds steady as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
+     "link": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
-     "published": "2026-11-09T15:00:44+00:00",
-     "summary": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack.",
-     "explain": "This confirms a trend of sophisticated money laundering where criminals create new, obscure digital assets to mask their tracks. By using these tokens to shuffle stolen capital through decentralized finance (DeFi) platforms, they aim to avoid detection by international law enforcement and financial watchdogs.",
-     "related": [
-      {
-       "date": "2026-10-30",
-       "title": "Binance arranges $6.34 billion to cover losses from record crypto hack",
-       "link": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack",
-       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-      }
-     ],
+     "published": "2026-11-11T10:45:49+00:00",
+     "summary": "Bitcoin prices stabilized as investor confidence in AI tech was renewed by positive earnings from CoreWeave and reports of a high IPO valuation for Anthropic.",
+     "explain": "AI sector sentiment has been cooling, causing stocks to drop. CoreWeave (an AI infrastructure provider) and Anthropic (an AI research firm) are key players; when these companies show strong financial potential, it gives investors confidence that the 'AI boom' is still generating real value, helping stabilize the broader market.",
+     "related": [],
      "story": {
-      "id": "markets-north-korean-crypto-laundering-tactics",
-      "title": "North Korean Crypto Laundering Tactics",
-      "so_far": "North Korean state-sponsored hackers are widely recognized by international intelligence as being responsible for multiple large-scale cryptocurrency exchange breaches. By moving funds through various chains and decentralized protocols, they attempt to bypass global financial sanctions and convert stolen digital assets into usable currency.",
+      "id": "markets-global-ai-sector-sell-off",
+      "title": "Global AI Sector Sell-off",
+      "so_far": "Global tech markets have recently faced volatility as investor enthusiasm for AI-related infrastructure and chip manufacturing cools. Companies that saw massive growth during the AI boom are now struggling with market corrections and reassessments of their long-term earnings potential.",
       "timeline": [
        {
-        "date": "2026-11-09",
-        "text": "Blockchain firm Elliptic discovered hackers using new tokens on the NEAR blockchain to obscure the flow of stolen assets.",
-        "link": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
+        "date": "2026-10-26",
+        "text": "Analysts argue that current US market earnings are artificial 'victory' points driven by specific geopolitical events and AI hype.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/the-war-bump-is-a-false-victory-for-sp-500-profits/articleshow/135209183.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-29",
+        "text": "Disappointing revenue results from major tech players like Alphabet have intensified investor concerns regarding the sustainability of AI capital expenditures.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-today-us-stocks-end-lower-as-alphabet-revenue-miss-revives-ai-capex-jitters/articleshow/135331051.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-29",
+        "text": "Negative sentiment regarding AI-related spending continues to drive selling pressure across the broader US tech market.",
+        "link": "https://www.livemint.com/market/wall-street-slides-as-alphabet-revenue-miss-revives-ai-capex-jitters-11793298623792.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-30",
+        "text": "Tech giants are reporting tighter cash flow and rising operational expenses, leading to increased market volatility in AI cloud and semiconductor stocks.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/amazon-burns-cash-intel-flags-weak-pc-demand-as-ai-booms-costs-ripple-across-markets/articleshow/135338818.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-30",
+        "text": "Intel reported a weak quarter and a factory explosion, fueling broader concerns about the health of the chip industry.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/weak-quarter-for-intel-sends-shivers-through-cooling-chip-stocks/articleshow/135338775.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-06",
+        "text": "The sell-off intensified in Asian markets, with South Korea's KOSPI falling 8.5% due to a crash in semiconductor and AI stocks.",
+        "link": "https://www.livemint.com/market/stock-market-news/asian-markets-today-south-koreas-kospi-crashes-8-plunges-below-5-000-whats-behind-the-selloff-11793930297845.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-06",
+        "text": "Japan's Nikkei 225 plummeted 5.5% following broader Asian market losses and political uncertainty from the US midterm elections.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-slumps-5-5-as-market-rout-deepens-on-ai-worries/articleshow/135590552.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-06",
+        "text": "South Korea activated circuit breakers to halt trading after an 8% index collapse fueled by semiconductor share volatility.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korea-stocks-plunge-8-circuit-breaker-triggered-as-chip-shares-tumble/articleshow/135590522.cms",
+        "source": "Markets-Economic Times"
        },
        {
         "date": "2026-11-09",
-        "text": "Multiple reports confirm the use of memecoins to launder billions in stolen crypto assets.",
-        "link": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
+        "text": "Taiwanese authorities have introduced new measures to bolster investor confidence and halt a significant market decline driven by the broader global AI tech rout.",
+        "link": "https://www.livemint.com/market/taiwan-stocks-jump-as-authorities-move-to-stem-market-rout-11794190420004.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-09",
+        "text": "Commodity prices for metals like tin are being dragged down by the prevailing pessimistic mood in global stock markets, regardless of supply constraints.",
+        "link": "https://www.livemint.com/market/roitin-hit-by-ai-stock-rout-despite-physical-market-tightness-andy-home-11794186109069.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-09",
+        "text": "Nvidia, a key driver of the AI boom, is facing new downward pressure due to executive-level controversies, adding to the sector's existing volatility.",
+        "link": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-11-11",
+        "text": "Positive AI earnings and valuation news have helped temper the recent sector-wide sell-off.",
+        "link": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "84cacd1c7083",
+     "title": "Eternal's IPO investors sitting on 375% gains as stock hits new record high; from ₹76 price to ₹361, what changed?",
+     "link": "https://www.livemint.com/market/stock-market-news/eternals-ipo-investors-sitting-on-375-gains-as-stock-hits-new-record-high-from-rs-76-price-to-rs-361-what-changed-11794391062630.html",
+     "source": "mint - markets",
+     "published": "2026-11-11T10:41:57+00:00",
+     "summary": "Eternal shares have reached a record high, yielding a 375% gain for IPO investors, driven by improved profitability and the growth of its Blinkit unit.",
+     "explain": "A record stock price indicates that the market has high confidence in the company's current business model. In this case, success in 'quick-commerce' (delivery in under 20 minutes) has transformed the company's financial outlook, turning initial skeptical IPO investors into winners as the company demonstrates it can be profitable while growing fast.",
+     "related": [],
+     "story": {
+      "id": "markets-eternal-stock-record-growth",
+      "title": "Eternal Stock Record Growth",
+      "so_far": "Eternal is a company involved in the quick-commerce space, specifically associated with the Blinkit platform. Quick-commerce is a delivery model focused on transporting groceries and household goods to consumers in minutes, which has seen rapid adoption in urban India.",
+      "timeline": [
+       {
+        "date": "2026-11-11",
+        "text": "Eternal shares reached an all-time high of ₹372, marking significant long-term growth since its IPO.",
+        "link": "https://www.livemint.com/market/stock-market-news/eternals-ipo-investors-sitting-on-375-gains-as-stock-hits-new-record-high-from-rs-76-price-to-rs-361-what-changed-11794391062630.html",
+        "source": "mint - markets"
+       }
+      ]
+     }
+    },
+    {
+     "id": "37357e892364",
+     "title": "These 12 midcap stocks rally up to 30% in just one month",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/news/these-12-midcap-stocks-rally-up-to-30-in-just-one-month/slideshow/135734690.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-11-11T10:40:03+00:00",
+     "summary": "Twelve midcap stocks in India have rallied between 15% and 30% over the last month, significantly outperforming the Nifty 50's 11% gain.",
+     "explain": "Midcap stocks are companies with medium-sized market capitalizations. They are generally considered higher risk but offer more growth potential than the large 'blue-chip' companies in the Nifty 50. Their outperformance suggests that investors are currently feeling optimistic enough to take on extra risk in pursuit of higher returns.",
+     "related": [],
+     "story": {
+      "id": "markets-indian-stock-market-volatility",
+      "title": "Indian Stock Market Volatility",
+      "so_far": "The Indian market is currently navigating a period of volatility driven by both global trends and domestic factors. Investors track indices like the Nifty and individual heavyweights like Reliance to gauge the overall direction of the market.",
+      "timeline": [
+       {
+        "date": "2026-11-02",
+        "text": "GIFT Nifty is trading up nearly 0.89%, suggesting a bullish sentiment for the start of the Indian trading day.",
+        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-2-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11793580087099.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-03",
+        "text": "GIFT Nifty futures are predicting a rebound after a period of volatility.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-itc-marico-share-price-03-november-2026/liveblog/135478647.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-03",
+        "text": "A range of major stocks across banking, consumer goods, and pharma sectors are identified as focal points for the trading session.",
+        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-sbi-nse-itc-sun-pharma-idbi-bank-shares-in-focus-on-tuesday-3-nov-full-list-11793668822019.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-03",
+        "text": "Indian equities saw a major rebound, with Reliance Industries acting as a primary driver of the index gains.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-surges-over-1200-points-nifty-reclaims-23400-as-ril-leads-rally/articleshow/135478423.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-04",
+        "text": "The GIFT Nifty indicator suggests a dip of about 40 points at the start of the session.",
+        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-4-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11793752972780.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-05",
+        "text": "Analysts predict the Nifty index could reach 26,500-27,000, recommending large-cap stocks as a defensive strategy against geopolitical and oil-related risks.",
+        "link": "https://www.livemint.com/market/stock-market-news/samvat-2083-outlook-ahead-of-diwali-muhurat-trading-nifty-at-27-000-soon-what-choice-wealths-dheeraj-said-strategy-11793867994138.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-06",
+        "text": "The Cboe Volatility Index (VIX) has spiked, reflecting intense panic as retail investors sell off assets amid concerns over AI sector regulation.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-fear-gauge-soars-and-retail-traders-bolt-as-markets-in-tailspin/articleshow/135590367.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-07",
+        "text": "Markets are showing strength as the new Samvat year begins, driven by a resurgence in foreign institutional investment and lower crude oil prices.",
+        "link": "https://www.livemint.com/market/diwali-2026-stock-market-enters-samvat-2083-with-nifty-50-above-25-000-key-support-resistance-levels-targets-to-know-11794037933505.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-07",
+        "text": "Market sentiment remains cautiously optimistic as investors enter the new Samvat year, supported by recent foreign capital inflows.",
+        "link": "https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-celebrations-aboard-nifty-gains-in-12-out-of-15-muhurat-sessions-check-performance-11794040199490.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-09",
+        "text": "Analysts are focusing on specific large-cap stocks like Tata Steel and Adani Enterprises to gauge market direction as the week begins.",
+        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-tata-steel-adani-enterprises-marico-shares-in-focus-on-monday-9-november-full-list-11794187790707.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-09",
+        "text": "GIFT Nifty futures suggest a positive start for the Indian indices on Monday morning.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-mm-bhel-share-price-09-november-2026/liveblog/135667960.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-11",
+        "text": "Midcap stocks are seeing a period of strong momentum, outpacing the broader blue-chip index.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/these-12-midcap-stocks-rally-up-to-30-in-just-one-month/slideshow/135734690.cms",
+        "source": "Markets-Economic Times"
        }
       ]
      }
