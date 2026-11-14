@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-14T02:21:34.948575+00:00",
- "prices_generated": "2026-11-14T03:39:10.976974+00:00",
+ "prices_generated": "2026-11-14T04:41:08.379263+00:00",
  "ai": "gemini",
  "pulse": "Indian markets saw a decline today, likely driven by broad investor caution and profit-taking in banking stocks. US indices were mixed, with tech-heavy stocks possibly facing pressure as the market rebalances ahead of further economic updates. Meanwhile, major cryptocurrencies like Bitcoin and Ethereum experienced a sharp pullback, likely due to a sudden shift in speculative sentiment and evolving mining dynamics.",
  "ticker_strip": [
@@ -222,8 +222,8 @@
   "^DJI": {
    "symbol": "^DJI",
    "name": "Dow Jones",
-   "price": 52347.5508,
-   "change": 50.4609,
+   "price": 52347.6016,
+   "change": 50.5117,
    "pct": 0.1,
    "pct_1m": 1.41,
    "spark": [
@@ -249,17 +249,17 @@
     52231.8906,
     52486.4883,
     52297.0898,
-    52347.5508
+    52347.6016
    ],
    "asof": "2026-11-13"
   },
   "BTC-USD": {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 66873.3828,
-   "change": -4469.5859,
-   "pct": -6.26,
-   "pct_1m": -18.01,
+   "price": 67014.4609,
+   "change": -4328.5078,
+   "pct": -6.07,
+   "pct_1m": -17.84,
    "spark": [
     81562.4922,
     82141.4609,
@@ -291,17 +291,17 @@
     73720.1172,
     73964.4688,
     71342.9688,
-    66873.3828
+    67014.4609
    ],
    "asof": "2026-11-14"
   },
   "ETH-USD": {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 1887.89,
-   "change": -128.9397,
-   "pct": -6.39,
-   "pct_1m": -21.93,
+   "price": 1896.8199,
+   "change": -120.0098,
+   "pct": -5.95,
+   "pct_1m": -21.56,
    "spark": [
     2418.207,
     2440.48,
@@ -333,17 +333,17 @@
     2050.1809,
     2055.8762,
     2016.8297,
-    1887.89
+    1896.8199
    ],
    "asof": "2026-11-14"
   },
   "SOL-USD": {
    "symbol": "SOL-USD",
    "name": "Solana",
-   "price": 75.12,
-   "change": -6.5407,
-   "pct": -8.01,
-   "pct_1m": -27.82,
+   "price": 75.55,
+   "change": -6.1107,
+   "pct": -7.48,
+   "pct_1m": -27.41,
    "spark": [
     104.0744,
     105.3306,
@@ -375,7 +375,7 @@
     83.2603,
     83.3211,
     81.6607,
-    75.12
+    75.55
    ],
    "asof": "2026-11-14"
   },
@@ -521,10 +521,10 @@
   "GC=F": {
    "symbol": "GC=F",
    "name": "Gold",
-   "price": 3887.6001,
-   "change": 2.3,
-   "pct": 0.06,
-   "pct_1m": -6.94,
+   "price": 3886.3,
+   "change": 1.0,
+   "pct": 0.03,
+   "pct_1m": -6.97,
    "spark": [
     4177.2998,
     4107.8999,
@@ -549,17 +549,17 @@
     4030.2,
     4000.5,
     3885.3,
-    3887.6001
+    3886.3
    ],
    "asof": "2026-11-13"
   },
   "SI=F": {
    "symbol": "SI=F",
    "name": "Silver",
-   "price": 48.65,
-   "change": -1.322,
-   "pct": -2.65,
-   "pct_1m": -17.77,
+   "price": 49.121,
+   "change": -0.851,
+   "pct": -1.7,
+   "pct_1m": -16.97,
    "spark": [
     59.161,
     55.55,
@@ -584,7 +584,7 @@
     51.101,
     51.881,
     49.972,
-    48.65
+    49.121
    ],
    "asof": "2026-11-13"
   },
@@ -626,10 +626,10 @@
   "BZ=F": {
    "symbol": "BZ=F",
    "name": "Brent Crude",
-   "price": 96.08,
-   "change": 0.26,
-   "pct": 0.27,
-   "pct_1m": -9.09,
+   "price": 95.84,
+   "change": 0.02,
+   "pct": 0.02,
+   "pct_1m": -9.32,
    "spark": [
     105.69,
     106.06,
@@ -654,7 +654,7 @@
     91.49,
     92.76,
     95.82,
-    96.08
+    95.84
    ],
    "asof": "2026-11-13"
   },
