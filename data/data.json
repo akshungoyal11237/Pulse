@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-19T19:05:56.986784+00:00",
- "prices_generated": "2026-11-19T19:26:50.824738+00:00",
+ "generated": "2026-11-20T08:56:34.643557+00:00",
+ "prices_generated": "2026-11-20T08:56:34.643557+00:00",
  "ai": "gemini",
- "pulse": "Indian markets saw a modest decline as investors likely turned cautious following a broader trend of risk aversion. U.S. indices faced sharper losses, possibly driven by investor anxiety ahead of the high-profile Anthropic IPO and broader economic uncertainty. Meanwhile, commodities like gold and oil pulled back, while Bitcoin showed slight weakness as market participants adjusted their portfolios amidst changing global sentiment.",
+ "pulse": "Indian markets rallied today, with the Nifty and Sensex hitting fresh highs as investors reacted positively to domestic industrial growth and strong banking sector performance. Conversely, US markets saw a sharp decline, likely driven by a rotation of capital as investors shifted focus toward the massive, record-breaking IPO debut of AI giant Anthropic. Meanwhile, commodities like gold and crude oil faced downward pressure, possibly due to a strengthening dollar and investors reallocating funds away from traditional assets to chase the high-profile tech debut.",
  "ticker_strip": [
   "^NSEI",
   "^BSESN",
@@ -55,12 +55,11 @@
   "^NSEI": {
    "symbol": "^NSEI",
    "name": "Nifty 50",
-   "price": 25227.9492,
-   "change": -159.4512,
-   "pct": -0.63,
-   "pct_1m": 10.22,
+   "price": 25762.5,
+   "change": 248.1992,
+   "pct": 0.97,
+   "pct_1m": 12.94,
    "spark": [
-    22888.9492,
     22811.3496,
     22687.6504,
     22600.0,
@@ -80,19 +79,20 @@
     25144.3008,
     25291.0996,
     25387.4004,
-    25227.9492
+    25227.9492,
+    25514.3008,
+    25762.5
    ],
-   "asof": "2026-11-18"
+   "asof": "2026-11-20"
   },
   "^BSESN": {
    "symbol": "^BSESN",
    "name": "Sensex",
-   "price": 82031.8125,
-   "change": -500.375,
-   "pct": -0.61,
-   "pct_1m": 11.07,
+   "price": 83844.2734,
+   "change": 822.5234,
+   "pct": 0.99,
+   "pct_1m": 13.75,
    "spark": [
-    73852.8984,
     73709.6875,
     73249.3906,
     73123.8281,
@@ -112,19 +112,20 @@
     81592.4531,
     82104.7891,
     82532.1875,
-    82031.8125
+    82031.8125,
+    83021.75,
+    83844.2734
    ],
-   "asof": "2026-11-18"
+   "asof": "2026-11-20"
   },
   "^NSEBANK": {
    "symbol": "^NSEBANK",
    "name": "Bank Nifty",
-   "price": 62038.6484,
-   "change": -234.6016,
-   "pct": -0.38,
-   "pct_1m": 11.81,
+   "price": 64578.4492,
+   "change": 1515.4492,
+   "pct": 2.4,
+   "pct_1m": 17.46,
    "spark": [
-    55488.1016,
     54976.8984,
     54925.6992,
     54287.3516,
@@ -144,19 +145,20 @@
     61034.1016,
     61575.8984,
     62273.25,
-    62038.6484
+    62038.6484,
+    63063.0,
+    64578.4492
    ],
-   "asof": "2026-11-18"
+   "asof": "2026-11-20"
   },
   "^GSPC": {
    "symbol": "^GSPC",
    "name": "S&P 500",
-   "price": 7226.1001,
-   "change": -97.5298,
-   "pct": -1.33,
-   "pct_1m": -6.04,
+   "price": 7175.8301,
+   "change": -147.7998,
+   "pct": -2.02,
+   "pct_1m": -6.96,
    "spark": [
-    7690.73,
     7712.5698,
     7757.1699,
     7663.4302,
@@ -179,19 +181,18 @@
     7416.5898,
     7340.5298,
     7323.6299,
-    7226.1001
+    7175.8301
    ],
    "asof": "2026-11-19"
   },
   "^IXIC": {
    "symbol": "^IXIC",
    "name": "Nasdaq",
-   "price": 24095.0977,
-   "change": -334.7832,
-   "pct": -1.37,
-   "pct_1m": -8.84,
+   "price": 23879.1992,
+   "change": -550.6816,
+   "pct": -2.25,
+   "pct_1m": -9.63,
    "spark": [
-    26430.8906,
     26424.8203,
     26702.8594,
     26008.8594,
@@ -214,19 +215,18 @@
     24509.7598,
     24328.3809,
     24429.8809,
-    24095.0977
+    23879.1992
    ],
    "asof": "2026-11-19"
   },
   "^DJI": {
    "symbol": "^DJI",
    "name": "Dow Jones",
-   "price": 49376.1719,
-   "change": -822.0,
-   "pct": -1.64,
-   "pct_1m": -4.98,
+   "price": 49097.0586,
+   "change": -1101.1133,
+   "pct": -2.19,
+   "pct_1m": -6.47,
    "spark": [
-    51966.0312,
     52495.8789,
     52856.0898,
     52867.9805,
@@ -249,19 +249,18 @@
     51608.1719,
     50759.4219,
     50198.1719,
-    49376.1719
+    49097.0586
    ],
    "asof": "2026-11-19"
   },
   "BTC-USD": {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 62791.8086,
-   "change": -195.457,
-   "pct": -0.31,
-   "pct_1m": -23.29,
+   "price": 61756.2812,
+   "change": -145.5391,
+   "pct": -0.24,
+   "pct_1m": -25.54,
    "spark": [
-    81853.5391,
     82941.0,
     84011.9688,
     81311.8906,
@@ -292,19 +291,19 @@
     64855.8438,
     64893.9453,
     62987.2656,
-    62791.8086
+    61901.8203,
+    61756.2812
    ],
-   "asof": "2026-11-19"
+   "asof": "2026-11-20"
   },
   "ETH-USD": {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 1778.98,
-   "change": 4.2308,
-   "pct": 0.24,
-   "pct_1m": -26.02,
+   "price": 1749.67,
+   "change": -5.5198,
+   "pct": -0.31,
+   "pct_1m": -28.49,
    "spark": [
-    2404.8152,
     2446.7307,
     2470.7661,
     2386.1892,
@@ -335,19 +334,19 @@
     1819.2759,
     1822.9613,
     1774.7491,
-    1778.98
+    1755.1898,
+    1749.67
    ],
-   "asof": "2026-11-19"
+   "asof": "2026-11-20"
   },
   "SOL-USD": {
    "symbol": "SOL-USD",
    "name": "Solana",
-   "price": 73.85,
-   "change": 0.2272,
-   "pct": 0.31,
-   "pct_1m": -29.62,
+   "price": 72.49,
+   "change": -0.576,
+   "pct": -0.79,
+   "pct_1m": -31.88,
    "spark": [
-    104.9262,
     106.4223,
     106.7937,
     103.5423,
@@ -378,19 +377,19 @@
     71.5053,
     75.1052,
     73.6228,
-    73.85
+    73.066,
+    72.49
    ],
-   "asof": "2026-11-19"
+   "asof": "2026-11-20"
   },
   "USDINR=X": {
    "symbol": "USDINR=X",
    "name": "USD/INR",
-   "price": 93.28,
-   "change": -0.1946,
-   "pct": -0.21,
-   "pct_1m": -1.79,
+   "price": 92.785,
+   "change": -0.6803,
+   "pct": -0.73,
+   "pct_1m": -2.32,
    "spark": [
-    94.9777,
     94.9936,
     94.7164,
     94.3123,
@@ -413,19 +412,19 @@
     94.238,
     93.9631,
     93.4746,
-    93.28
+    93.4653,
+    92.785
    ],
-   "asof": "2026-11-19"
+   "asof": "2026-11-20"
   },
   "EURINR=X": {
    "symbol": "EURINR=X",
    "name": "EUR/INR",
-   "price": 102.4252,
-   "change": -0.2478,
-   "pct": -0.24,
-   "pct_1m": -3.94,
+   "price": 101.7759,
+   "change": -0.6921,
+   "pct": -0.68,
+   "pct_1m": -4.32,
    "spark": [
-    106.63,
     106.374,
     106.334,
     106.043,
@@ -448,19 +447,19 @@
     103.798,
     103.23,
     102.673,
-    102.4252
+    102.468,
+    101.7759
    ],
-   "asof": "2026-11-19"
+   "asof": "2026-11-20"
   },
   "EURUSD=X": {
    "symbol": "EURUSD=X",
    "name": "EUR/USD",
-   "price": 1.0978,
-   "change": -0.0015,
-   "pct": -0.13,
-   "pct_1m": -2.2,
+   "price": 1.0972,
+   "change": 0.0,
+   "pct": 0.0,
+   "pct_1m": -2.17,
    "spark": [
-    1.1225,
     1.1216,
     1.1227,
     1.1235,
@@ -483,19 +482,19 @@
     1.1025,
     1.0998,
     1.0993,
-    1.0978
+    1.0972,
+    1.0972
    ],
-   "asof": "2026-11-19"
+   "asof": "2026-11-20"
   },
   "GBPINR=X": {
    "symbol": "GBPINR=X",
    "name": "GBP/INR",
-   "price": 122.16,
-   "change": -1.2915,
-   "pct": -1.05,
-   "pct_1m": -3.55,
+   "price": 121.5484,
+   "change": -1.323,
+   "pct": -1.08,
+   "pct_1m": -3.85,
    "spark": [
-    126.6547,
     126.4189,
     126.6686,
     126.3324,
@@ -518,19 +517,19 @@
     124.5348,
     123.8842,
     123.4515,
-    122.16
+    122.8714,
+    121.5484
    ],
-   "asof": "2026-11-19"
+   "asof": "2026-11-20"
   },
   "GC=F": {
    "symbol": "GC=F",
    "name": "Gold",
-   "price": 3675.0,
-   "change": -66.8999,
-   "pct": -1.79,
-   "pct_1m": -11.66,
+   "price": 3582.5,
+   "change": -103.0,
+   "pct": -2.79,
+   "pct_1m": -13.52,
    "spark": [
-    4160.1001,
     4142.6001,
     4150.0,
     4060.3999,
@@ -553,19 +552,19 @@
     3853.0,
     3864.2,
     3741.8999,
-    3675.0
+    3685.5,
+    3582.5
    ],
-   "asof": "2026-11-19"
+   "asof": "2026-11-20"
   },
   "SI=F": {
    "symbol": "SI=F",
    "name": "Silver",
-   "price": 44.18,
-   "change": -0.819,
-   "pct": -1.82,
-   "pct_1m": -22.46,
+   "price": 42.445,
+   "change": -1.873,
+   "pct": -4.23,
+   "pct_1m": -26.45,
    "spark": [
-    56.974,
     57.706,
     57.422,
     54.764,
@@ -588,19 +587,19 @@
     46.785,
     47.288,
     44.999,
-    44.18
+    44.318,
+    42.445
    ],
-   "asof": "2026-11-19"
+   "asof": "2026-11-20"
   },
   "CL=F": {
    "symbol": "CL=F",
    "name": "WTI Crude",
-   "price": 82.69,
-   "change": -0.57,
-   "pct": -0.68,
-   "pct_1m": -20.23,
+   "price": 81.61,
+   "change": -1.6,
+   "pct": -1.92,
+   "pct_1m": -19.83,
    "spark": [
-    103.66,
     101.79,
     97.15,
     99.47,
@@ -623,19 +622,19 @@
     85.72,
     86.01,
     83.26,
-    82.69
+    83.21,
+    81.61
    ],
-   "asof": "2026-11-19"
+   "asof": "2026-11-20"
   },
   "BZ=F": {
    "symbol": "BZ=F",
    "name": "Brent Crude",
-   "price": 89.61,
-   "change": -2.34,
-   "pct": -2.54,
-   "pct_1m": -18.2,
+   "price": 88.52,
+   "change": -3.46,
+   "pct": -3.76,
+   "pct_1m": -18.63,
    "spark": [
-    109.55,
     108.79,
     108.82,
     113.17,
@@ -658,19 +657,19 @@
     92.44,
     93.14,
     91.95,
-    89.61
+    91.98,
+    88.52
    ],
-   "asof": "2026-11-19"
+   "asof": "2026-11-20"
   },
   "RELIANCE.NS": {
    "symbol": "RELIANCE.NS",
    "name": "Reliance",
-   "price": 1363.0,
-   "change": -4.0,
-   "pct": -0.29,
-   "pct_1m": 13.39,
+   "price": 1367.5,
+   "change": -8.1,
+   "pct": -0.59,
+   "pct_1m": 13.11,
    "spark": [
-    1202.0,
     1209.0,
     1184.5,
     1190.0,
@@ -690,19 +689,20 @@
     1339.7,
     1344.8,
     1367.0,
-    1363.0
+    1363.0,
+    1375.6,
+    1367.5
    ],
-   "asof": "2026-11-18"
+   "asof": "2026-11-20"
   },
   "TCS.NS": {
    "symbol": "TCS.NS",
    "name": "TCS",
-   "price": 2379.5,
-   "change": -27.1001,
-   "pct": -1.13,
-   "pct_1m": -3.31,
+   "price": 2377.7,
+   "change": 35.0,
+   "pct": 1.49,
+   "pct_1m": -5.98,
    "spark": [
-    2460.8999,
     2529.0,
     2506.8999,
     2530.0,
@@ -722,19 +722,20 @@
     2407.5,
     2405.0,
     2406.6001,
-    2379.5
+    2379.5,
+    2342.7,
+    2377.7
    ],
-   "asof": "2026-11-18"
+   "asof": "2026-11-20"
   },
   "HDFCBANK.NS": {
    "symbol": "HDFCBANK.NS",
    "name": "HDFC Bank",
-   "price": 808.15,
-   "change": -6.8,
-   "pct": -0.83,
-   "pct_1m": 13.5,
+   "price": 848.85,
+   "change": 27.05,
+   "pct": 3.29,
+   "pct_1m": 20.07,
    "spark": [
-    712.0,
     706.95,
     694.05,
     692.8,
@@ -754,19 +755,20 @@
     804.0,
     816.5,
     814.95,
-    808.15
+    808.15,
+    821.8,
+    848.85
    ],
-   "asof": "2026-11-18"
+   "asof": "2026-11-20"
   },
   "INFY.NS": {
    "symbol": "INFY.NS",
    "name": "Infosys",
-   "price": 1108.8,
-   "change": -21.2,
-   "pct": -1.88,
-   "pct_1m": 0.31,
+   "price": 1092.8,
+   "change": 0.9,
+   "pct": 0.08,
+   "pct_1m": -4.3,
    "spark": [
-    1105.3785,
     1141.8433,
     1127.5214,
     1127.9613,
@@ -786,19 +788,20 @@
     1141.5,
     1145.1,
     1130.0,
-    1108.8
+    1108.8,
+    1091.9,
+    1092.8
    ],
-   "asof": "2026-11-18"
+   "asof": "2026-11-20"
   },
   "AAPL": {
    "symbol": "AAPL",
    "name": "Apple",
-   "price": 349.91,
-   "change": -2.54,
-   "pct": -0.72,
-   "pct_1m": 2.11,
+   "price": 349.21,
+   "change": -3.24,
+   "pct": -0.92,
+   "pct_1m": 2.94,
    "spark": [
-    342.6796,
     339.2422,
     343.7288,
     347.9556,
@@ -821,19 +824,18 @@
     352.78,
     351.91,
     352.45,
-    349.91
+    349.21
    ],
    "asof": "2026-11-19"
   },
   "NVDA": {
    "symbol": "NVDA",
    "name": "Nvidia",
-   "price": 148.85,
-   "change": -2.11,
-   "pct": -1.4,
-   "pct_1m": -31.43,
+   "price": 145.98,
+   "change": -4.98,
+   "pct": -3.3,
+   "pct_1m": -32.56,
    "spark": [
-    217.09,
     216.47,
     221.97,
     212.21,
@@ -856,42 +858,41 @@
     156.14,
     155.46,
     150.96,
-    148.85
+    145.98
    ],
    "asof": "2026-11-19"
   },
   "MSFT": {
    "symbol": "MSFT",
    "name": "Microsoft",
-   "price": 503.41,
-   "change": -4.88,
-   "pct": -0.96,
-   "pct_1m": -5.64,
+   "price": 498.3,
+   "change": -9.01,
+   "pct": -1.78,
+   "pct_1m": -6.13,
    "spark": [
-    533.52,
-    531.87,
-    532.95,
-    521.08,
-    524.51,
-    532.6,
-    531.33,
-    531.01,
-    530.14,
-    521.91,
-    507.12,
-    520.99,
-    555.8,
-    535.93,
-    530.61,
-    545.18,
-    533.16,
-    521.13,
-    523.0,
-    523.88,
-    517.99,
-    506.24,
-    508.29,
-    503.41
+    530.8445,
+    531.9225,
+    520.0754,
+    523.4987,
+    531.5731,
+    530.3056,
+    529.9862,
+    529.1179,
+    520.9037,
+    506.1422,
+    519.9855,
+    554.7284,
+    534.8967,
+    529.587,
+    544.1288,
+    532.132,
+    520.1252,
+    521.9916,
+    522.8699,
+    516.9913,
+    505.2639,
+    507.31,
+    498.3
    ],
    "asof": "2026-11-19"
   }
@@ -900,12 +901,11 @@
   {
    "code": 120716,
    "name": "UTI Nifty 50 Index Fund (Direct, Growth)",
-   "nav": 177.7464,
-   "pct": -0.63,
-   "pct_1m": 11.91,
-   "date": "18-11-2026",
+   "nav": 179.7634,
+   "pct": 1.13,
+   "pct_1m": 12.09,
+   "date": "19-11-2026",
    "spark": [
-    158.829,
     160.3789,
     159.1593,
     156.5445,
@@ -935,7 +935,8 @@
     177.162,
     178.1936,
     178.8713,
-    177.7464
+    177.7464,
+    179.7634
    ]
   },
   {
@@ -985,236 +986,296 @@
    "label": "India",
    "articles": [
     {
-     "id": "953d9cc8ccd0",
-     "title": "Speakers recall Sathya Sai Baba’s emphasis on vital role of women in society",
-     "link": "https://www.thehindu.com/news/national/andhra-pradesh/speakers-recall-sathya-sai-babas-emphasis-on-vital-role-of-women-in-society/article71720862.ece",
+     "id": "b70272ce585b",
+     "title": "‘O.M’ movie review: Dhanush, Sai Pallavi score in an otherwise bloated, convenient action thriller",
+     "link": "https://www.thehindu.com/entertainment/movies/om-operation-mole-movie-review-dhanush-mammootty-sai-pallavi-rajkumar-periasamy-sai-abhyankkar/article71723539.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-19T18:59:52+00:00",
-     "summary": "Actor Rashmika Mandanna and former bureaucrat Vandita Sharma attended a Ladies' Day event at Puttaparthi to mark the birth centenary of Sri Sathya Sai Baba.",
-     "explain": "Sri Sathya Sai Baba was a prominent spiritual leader whose teachings emphasized service and human values. 'Ladies' Day' is an annual observance within his organization dedicated to highlighting the contributions of women. This event is part of a year-long series of celebrations honoring his legacy.",
+     "published": "2026-11-20T08:51:58+00:00",
+     "summary": "The film 'O.M', directed by Rajkumar Periasamy and starring Dhanush and Sai Pallavi, has received mixed reviews for its action-heavy but unevenly written narrative.",
+     "explain": "A film review provides a critique of a movie's acting, direction, and plot. This matters for audiences deciding what to watch and for the film industry to gauge the reception of high-budget releases. 'Action thriller' refers to a genre combining fast-paced stunts with a suspenseful plot.",
      "related": [],
      "story": {
-      "id": "india-sri-sathya-sai-baba-centenary-celebratio",
-      "title": "Sri Sathya Sai Baba Centenary Celebrations",
-      "so_far": "Sri Sathya Sai Baba (1926–2011) was a highly influential Indian spiritual leader and philanthropist based in Puttaparthi, Andhra Pradesh. His organization, the Sri Sathya Sai Central Trust, oversees numerous educational, healthcare, and humanitarian projects globally. The year 2026 marks his birth centenary, which is being celebrated with various cultural and spiritual events across India.",
+      "id": "india-film-review-o-m",
+      "title": "Film Review: O.M",
+      "so_far": "This is a new entertainment news item concerning a recent Indian cinematic release. Reviews for major action thrillers in India often highlight the balance between star performances and script quality.",
       "timeline": [
        {
-        "date": "2026-11-19",
-        "text": "The event celebrated the birth centenary of the spiritual leader with a focus on the role of women in society.",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/speakers-recall-sathya-sai-babas-emphasis-on-vital-role-of-women-in-society/article71720862.ece",
+        "date": "2026-11-20",
+        "text": "The film 'O.M', directed by Rajkumar Periasamy and starring Dhanush and Sai Pallavi, has received mixed reviews for its action-heavy but unevenly written narrative.",
+        "link": "https://www.thehindu.com/entertainment/movies/om-operation-mole-movie-review-dhanush-mammootty-sai-pallavi-rajkumar-periasamy-sai-abhyankkar/article71723539.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "8922e7f3cf1f",
-     "title": "Cheran, the poet who chronicled Eelam’s war and memory, passes away at 68",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/cheran-the-poet-who-chronicled-eelams-war-and-memory-passes-away-at-68/article71721105.ece",
+     "id": "d1d45b2857eb",
+     "title": "Keralam Forest dept to tranquilise, radio-collar and release wild tusker Chakkakompan in Chinnakkanal",
+     "link": "https://www.thehindu.com/news/national/kerala/keralam-forest-dept-to-tranquilise-radio-collar-and-release-wild-tusker-chakkakompan-in-chinnakkanal/article71723678.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-19T18:58:28+00:00",
-     "summary": "Renowned Tamil poet and writer Cheran, known for his work chronicling the Eelam conflict, has died at age 68.",
-     "explain": "Cheran was a voice for the Tamil community affected by the Sri Lankan Civil War. His death marks a significant loss for Tamil literature, as he was well-known for his ability to translate the complex human experience of war into poignant poetry and essays.",
+     "published": "2026-11-20T08:50:27+00:00",
+     "summary": "Kerala forest officials will tranquilize and radio-collar a wild elephant named 'Chakkakompan' in Chinnakkanal instead of relocating it.",
+     "explain": "Radio-collaring involves attaching a tracking device to an animal to monitor its movements via satellite. This helps forest departments prevent the elephant from entering villages, protecting both the local population and the animal. NGOs intervened in this case to ensure the animal's welfare.",
      "related": [],
      "story": {
-      "id": "india-death-of-poet-cheran",
-      "title": "Death of Poet Cheran",
-      "so_far": "Cheran (Rudra Cheran) was a prominent Sri Lankan Tamil poet and intellectual who lived in exile for many years. His work is highly regarded for its visceral portrayal of the trauma and memory associated with the long-standing civil war in Sri Lanka, often referred to as the 'Eelam war'. He was a prolific contributor to Tamil and English literary journals.",
+      "id": "india-wildlife-management-in-kerala",
+      "title": "Wildlife Management in Kerala",
+      "so_far": "Human-wildlife conflict is a recurring issue in Kerala, where elephants often stray into human-populated areas. Wildlife departments manage these encounters by either monitoring animals or, in extreme cases, relocating them to deeper forest regions.",
       "timeline": [
        {
-        "date": "2026-11-19",
-        "text": "Cheran, a significant literary figure who documented the impact of the Sri Lankan Civil War, passed away at 68.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/cheran-the-poet-who-chronicled-eelams-war-and-memory-passes-away-at-68/article71721105.ece",
+        "date": "2026-11-20",
+        "text": "Kerala forest officials will tranquilize and radio-collar a wild elephant named 'Chakkakompan' in Chinnakkanal instead of relocating it.",
+        "link": "https://www.thehindu.com/news/national/kerala/keralam-forest-dept-to-tranquilise-radio-collar-and-release-wild-tusker-chakkakompan-in-chinnakkanal/article71723678.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "5a69edbf7145",
-     "title": "APSRTC outsourced staff allege exploitation, seek fair deal",
-     "link": "https://www.thehindu.com/news/cities/Vijayawada/apsrtc-outsourced-staff-allege-exploitation-seek-fair-deal/article71720870.ece",
+     "id": "d233cd9d23e5",
+     "title": "SC rejects PIL seeking database of individuals filing ‘repeated’ complaints of sexual offences",
+     "link": "https://www.thehindu.com/news/national/sc-rejects-pil-seeking-database-of-individuals-filing-repeated-complaints-of-sexual-offences/article71723712.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-19T18:53:29+00:00",
-     "summary": "Outsourced employees of the Andhra Pradesh State Road Transport Corporation (APSRTC) are protesting over delayed wages and job insecurity.",
-     "explain": "This is a labor dispute between outsourced workers—who are hired on a temporary or contract basis—and the state transport authority. These workers are often seeking 'regularization' or parity in pay with permanent staff to ensure financial stability and legal protections.",
+     "published": "2026-11-20T08:50:25+00:00",
+     "summary": "The Supreme Court has rejected a petition asking for a database of individuals who file multiple sexual offense complaints, citing privacy risks for victims.",
+     "explain": "A 'PIL' (Public Interest Litigation) is a lawsuit filed in a court of law for the protection of public interest. The court rejected this specific plea to avoid creating a system that could inadvertently expose the identities of victims, which could lead to social stigma or retaliation against them.",
      "related": [],
      "story": {
-      "id": "india-apsrtc-staff-labor-disputes",
-      "title": "APSRTC Staff Labor Disputes",
-      "so_far": "APSRTC is the state-owned transport agency of Andhra Pradesh, responsible for public bus services. Like many large state enterprises, it relies on a mix of permanent and outsourced (contract) labor. Disputes regarding wage payments, the status of temporary workers, and overall labor conditions are common within the organization.",
+      "id": "india-legal-privacy-in-sexual-assault-cases",
+      "title": "Legal Privacy in Sexual Assault Cases",
+      "so_far": "The Indian legal system places a high priority on protecting the anonymity of sexual assault survivors. Courts consistently rule against policies that might discourage victims from reporting crimes or compromise their safety.",
       "timeline": [
        {
-        "date": "2026-11-19",
-        "text": "Contract staff have submitted a memorandum to the corporation's leadership demanding better pay regularity and improved benefits.",
-        "link": "https://www.thehindu.com/news/cities/Vijayawada/apsrtc-outsourced-staff-allege-exploitation-seek-fair-deal/article71720870.ece",
+        "date": "2026-11-20",
+        "text": "The Supreme Court has rejected a petition asking for a database of individuals who file multiple sexual offense complaints, citing privacy risks for victims.",
+        "link": "https://www.thehindu.com/news/national/sc-rejects-pil-seeking-database-of-individuals-filing-repeated-complaints-of-sexual-offences/article71723712.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "6068975f3f78",
-     "title": "Work to widen service lane towards Vellore town begins",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/work-to-widen-service-lane-towards-vellore-town-begins/article71720315.ece",
+     "id": "4a9a3fa15e53",
+     "title": "Yadadri Thermal Power Plant: The toxic cost of power",
+     "link": "https://www.thehindu.com/news/national/telangana/yadadri-thermal-power-plant-the-toxic-cost-of-power/article71721759.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-19T18:51:57+00:00",
-     "summary": "Construction has commenced to widen the service lane leading into Vellore town to improve traffic flow.",
-     "explain": "Infrastructure projects like these aim to reduce traffic bottlenecks in growing cities. By widening service lanes, the city hopes to prevent large commercial vehicles from blocking local roads, thereby improving overall traffic circulation.",
+     "published": "2026-11-20T08:47:32+00:00",
+     "summary": "The Yadadri Thermal Power Plant in Telangana is facing scrutiny for polluting nearby water bodies with toxic fly ash, threatening local agriculture and fishing.",
+     "explain": "Fly ash is a fine powder byproduct of burning pulverized coal in thermal power plants. If not contained properly, it contains heavy metals that can leach into groundwater or rivers, poisoning water supplies and damaging local ecosystems. This highlights the conflict between industrial growth and environmental preservation.",
      "related": [],
      "story": {
-      "id": "india-vellore-infrastructure-development",
-      "title": "Vellore Infrastructure Development",
-      "so_far": "Vellore is a key city in Tamil Nadu known for its educational and medical institutions. Urban development in the city often faces pressure from rapid growth, necessitating infrastructure projects such as road widening and traffic management interventions to support the influx of vehicles.",
+      "id": "india-yadadri-thermal-plant-environmental-impa",
+      "title": "Yadadri Thermal Plant Environmental Impact",
+      "so_far": "Telangana has expanded its energy infrastructure significantly in recent years. Large thermal power projects often face criticism regarding their waste disposal practices, specifically the management of toxic byproducts like fly ash.",
       "timeline": [
        {
-        "date": "2026-11-19",
-        "text": "The local administration is expanding service lanes and restricting heavy vehicles to manage congestion.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/work-to-widen-service-lane-towards-vellore-town-begins/article71720315.ece",
+        "date": "2026-11-20",
+        "text": "The Yadadri Thermal Power Plant in Telangana is facing scrutiny for polluting nearby water bodies with toxic fly ash, threatening local agriculture and fishing.",
+        "link": "https://www.thehindu.com/news/national/telangana/yadadri-thermal-power-plant-the-toxic-cost-of-power/article71721759.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "7ca29ae28d8b",
-     "title": "Self-reliance is key to India’s development, says Adani Group CEO",
-     "link": "https://www.thehindu.com/news/cities/Vijayawada/self-reliance-is-key-to-indias-development-says-adani-group-ceo/article71720460.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-19T18:51:38+00:00",
-     "summary": "Robin Bhowmick of the Adani Group has called on India's youth to prioritize technical skills and adaptation to automation for national development.",
-     "explain": "This reflects the ongoing push by both the government and large corporations to align the education of India's youth with modern job market requirements. The emphasis on 'automation' refers to the increasing use of robotics and artificial intelligence in industry, which necessitates a more technically skilled workforce.",
+     "id": "84cd2aef0c45",
+     "title": "\"Paid To Defame India\": BJP On Rahul Gandhi's \"Compromised PM\" Post",
+     "link": "https://www.ndtv.com/india-news/paid-to-defame-india-bjp-on-rahul-gandhis-compromised-pm-post-pm-mod-trump-xi-putin-meeting-12352856#publisher=newsstand",
+     "source": "NDTV News Search Records Found 1000",
+     "published": "2026-11-20T08:47:15+00:00",
+     "summary": "The BJP has criticized Congress leader Rahul Gandhi for his social media posts questioning Prime Minister Modi's diplomatic stance, accusing him of defaming India.",
+     "explain": "This is a typical political clash between the ruling party (BJP) and the main opposition (Congress). The debate revolves around how the Prime Minister represents India on the world stage during international meetings, with the opposition arguing for more accountability and the ruling party defending their diplomatic actions.",
      "related": [],
      "story": {
-      "id": "india-india-s-skill-development-goals",
-      "title": "India's Skill Development Goals",
-      "so_far": "The Indian government and major private sector firms are pushing for 'Atmanirbhar Bharat' (Self-Reliant India), an initiative aimed at reducing import dependence through domestic manufacturing and skill-building. Enhancing the 'demographic dividend'—India's large, young population—is seen as central to achieving these economic goals.",
+      "id": "india-india-bloc-political-strategy",
+      "title": "INDIA Bloc Political Strategy",
+      "so_far": "The INDIA bloc frequently organizes protests to pressure the government on various policy and governance issues. These events are often met with strong political pushback from the ruling BJP, which frequently questions the timing and intent of the opposition's actions.",
       "timeline": [
        {
-        "date": "2026-11-19",
-        "text": "A major industry executive has urged students to focus on technical proficiency to support India's self-reliance (Atmanirbhar) initiative.",
-        "link": "https://www.thehindu.com/news/cities/Vijayawada/self-reliance-is-key-to-indias-development-says-adani-group-ceo/article71720460.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "464abe3d63ee",
-     "title": "VIT Chancellor meets Vice-President in New Delhi",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/vit-chancellor-meets-vice-president-in-new-delhi/article71720326.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-19T18:50:51+00:00",
-     "summary": "The Chancellor of the Vellore Institute of Technology (VIT) held a meeting with India's Vice-President in New Delhi.",
-     "explain": "Such meetings between heads of major private educational institutions and senior government officials are common ways to discuss national education policies, funding, or accreditation goals.",
-     "related": [],
-     "story": {
-      "id": "india-academic-state-engagement",
-      "title": "Academic-State Engagement",
-      "so_far": "VIT is one of India's top-ranked private engineering universities. Its leadership frequently engages with high-level government officials to discuss higher education policy, research cooperation, and institutional development.",
-      "timeline": [
-       {
-        "date": "2026-11-19",
-        "text": "The Chancellor of VIT conducted a diplomatic and consultative meeting with the Vice-President.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/vit-chancellor-meets-vice-president-in-new-delhi/article71720326.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "11a9accc345f",
-     "title": "CMC to organise essay, painting competition in Vellore",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/cmc-to-organise-essay-painting-competition-in-vellore/article71720333.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-19T18:49:08+00:00",
-     "summary": "Christian Medical College (CMC) in Vellore is organizing community outreach competitions to raise awareness about diabetes.",
-     "explain": "This is a public health initiative designed to engage students and the local community in learning about a chronic illness. Using creative platforms like essays and painting competitions is a strategy to destigmatize the disease and spread factual health information.",
-     "related": [],
-     "story": {
-      "id": "india-health-awareness-in-vellore",
-      "title": "Health Awareness in Vellore",
-      "so_far": "CMC Vellore is one of the most prestigious medical centers in India, known for its focus on both clinical excellence and public health awareness programs. Diabetes is a major public health concern in India, and medical centers regularly hold community drives to encourage early diagnosis and lifestyle changes.",
-      "timeline": [
-       {
-        "date": "2026-11-19",
-        "text": "A major medical institution is launching an essay and painting competition to educate the public on diabetes prevention.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/cmc-to-organise-essay-painting-competition-in-vellore/article71720333.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "f03f88bff785",
-     "title": "10 patented technologies handed over to various firms at T.N. Tech Transfer Summit",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/10-patented-technologies-handed-over-to-various-firms-at-tn-tech-transfer-summit/article71721117.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-19T18:42:42+00:00",
-     "summary": "Tamil Nadu's Higher Education Minister has inaugurated a technology transfer summit, with plans to make the event an annual state-wide initiative.",
-     "explain": "The goal of technology transfer summits is to turn academic 'patents' (legal rights to an invention) into actual products that companies can sell. By facilitating these deals, the government hopes to spark local innovation and industrial growth.",
-     "related": [],
-     "story": {
-      "id": "india-tamil-nadu-tech-transfer",
-      "title": "Tamil Nadu Tech Transfer",
-      "so_far": "Technology transfer refers to the process of moving scientific discoveries or patented inventions from academic research labs into the commercial sector for public or industrial use. The Tamil Nadu government has been focusing on bridging the gap between university research and the manufacturing industry.",
-      "timeline": [
-       {
-        "date": "2026-11-19",
-        "text": "Ten patented technologies were formally handed over to private firms to encourage commercialization.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/10-patented-technologies-handed-over-to-various-firms-at-tn-tech-transfer-summit/article71721117.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "d296ead4d207",
-     "title": "Dr. NTRUHS plans AI-based courses in affiliated colleges to strengthen research collaboration",
-     "link": "https://www.thehindu.com/news/national/andhra-pradesh/dr-ntruhs-plans-ai-based-courses-in-affiliated-colleges-to-strengthen-research-collaboration/article71721220.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-19T18:42:11+00:00",
-     "summary": "Dr. NTR University of Health Sciences (Dr. NTRUHS) is looking into adding AI-focused courses to its curriculum to enhance medical research.",
-     "explain": "Integrating AI into medical education means teaching doctors and researchers how to use advanced software to better diagnose patients or analyze massive amounts of health data. This is part of a broader trend of digitalizing medical infrastructure in India.",
-     "related": [],
-     "story": {
-      "id": "india-digital-transformation-in-health-educati",
-      "title": "Digital Transformation in Health Education",
-      "so_far": "Dr. NTR University of Health Sciences, located in Andhra Pradesh, regulates medical education in the state. As medical diagnostics and research become increasingly data-dependent, many universities are updating their curriculum to include training in Artificial Intelligence (AI) and data analytics.",
-      "timeline": [
-       {
-        "date": "2026-11-19",
-        "text": "The university is exploring the integration of AI-based certificate and diploma programs in health sciences.",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/dr-ntruhs-plans-ai-based-courses-in-affiliated-colleges-to-strengthen-research-collaboration/article71721220.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "b6bced2b53e0",
-     "title": "Akvan may spare most of Andhra Pradesh; red alert issued for Srikakulam, Vizianagaram",
-     "link": "https://www.thehindu.com/news/national/andhra-pradesh/akvan-may-spare-most-of-andhra-pradesh/article71721000.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-19T18:39:51+00:00",
-     "summary": "The India Meteorological Department (IMD) has issued a red alert for heavy rainfall in northern Andhra Pradesh districts due to weather system Akvan.",
-     "explain": "The IMD uses a color-coded alert system to warn residents of incoming severe weather. A 'Red Alert' is the highest level, signaling that residents must take immediate action to stay safe, as weather events can lead to flooding or landslides. Akvan is the current weather system expected to bring intense rain to these specific districts.",
-     "related": [],
-     "story": {
-      "id": "india-kerala-heavy-rain-alerts",
-      "title": "Kerala Heavy Rain Alerts",
-      "so_far": "Kerala is frequently impacted by heavy rains that can trigger landslides and waterlogging. The India Meteorological Department (IMD) uses color-coded alerts—Yellow (be aware), Orange (be prepared), and Red (take action)—to inform citizens of impending weather risks.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "An orange alert has been issued for four Kerala districts, while five others remain under a yellow alert for potential severe weather.",
-        "link": "https://www.thehindu.com/news/national/kerala/orange-alert-for-4-keralam-districts-amid-heavy-rain-warning/article71606929.ece",
+        "date": "2026-10-23",
+        "text": "The BJP has accused opposition parties of orchestrating 'anarchy' by choosing November 1 for a protest in Delhi.",
+        "link": "https://www.thehindu.com/news/national/congress-allies-aim-to-create-anarchy-through-november-1-delhi-protest-bjp/article71615493.ece",
         "source": "India Latest News: Top National Headline"
        },
        {
-        "date": "2026-11-19",
-        "text": "A red alert has been issued for Srikakulam and Vizianagaram due to the weather system Akvan, with heavy rain expected.",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/akvan-may-spare-most-of-andhra-pradesh/article71721000.ece",
+        "date": "2026-10-24",
+        "text": "Opposition leaders are framing the government's response to protests as an effort to suppress democratic dissent.",
+        "link": "https://www.thehindu.com/news/national/kerala/current-struggle-not-merely-limited-to-resignation-gyanesh-kumar-it-is-also-a-fight-to-regain-democratic-space-cpim-mp-john-brittas/article71619246.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-25",
+        "text": "Opposition leaders announced plans for a massive protest in Delhi on November 1st to address concerns over election integrity.",
+        "link": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-amid-protest/article71621030.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-30",
+        "text": "The bloc rescheduled a protest against the CEC to October 31 and alleged that the Home Minister is obstructing supporters' transit to Delhi.",
+        "link": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-of-cec-gyanesh-kumar-postponed-october-31-2026/article71644196.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-30",
+        "text": "The protest against the CEC was delayed by one day citing weather conditions, with ongoing accusations of state interference in movement.",
+        "link": "https://www.thehindu.com/news/national/cec-row-india-bloc-sir-protest-delhi-gyanesh-kumar-october-30-2026-live-updates/article71644149.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-31",
+        "text": "Opposition leaders staged a 'public impeachment' event to express their grievances with the CEC.",
+        "link": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-sir-protest-chalo-dilli-march-rahul-gandhi-live-updates-october-31-2026/article71648094.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-31",
+        "text": "Rijiju challenged the Congress to explain their electoral losses, noting that the current CEC was not in charge during the 2024 elections.",
+        "link": "https://www.thehindu.com/news/national/union-minister-rijiju-challenges-congress-to-answer-basic-questions-amid-row-over-sir-cec/article71648910.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-01",
+        "text": "Opposition leaders are holding a rally to protest alleged voter roll deletions and pressure the Election Commission.",
+        "link": "https://www.thehindu.com/news/national/india-bloc-mega-delhi-rally-cec-gyanesh-kumar-impeachment-anti-cec-protests-sir-row-live-updates-november-1-2026/article71651970.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-02",
+        "text": "CM Revanth Reddy used mythological metaphors during a protest to rally support for the opposition's claims regarding election administration.",
+        "link": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-reddy-likens-pm-modi-to-ravana-and-congress-to-vanara-sena/article71652391.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-02",
+        "text": "Thousands of supporters joined a nationwide rally in Delhi to demand transparency in the electoral process.",
+        "link": "https://www.thehindu.com/news/national/you-can-break-a-stick-not-a-bundle-from-an-it-couple-to-a-hospital-patient-citizens-turn-up-for-india-bloc-rally/article71652556.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-02",
+        "text": "Kharge explicitly linked the government to the alleged 'vote chori' (vote theft) controversy at a major public rally.",
+        "link": "https://www.thehindu.com/news/national/india-bloc-rally-congress-on-modi-sir-gyanesh-kumar/article71652720.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-20",
+        "text": "The BJP has responded to Rahul Gandhi's latest digital critique of the Prime Minister's foreign policy engagement.",
+        "link": "https://www.ndtv.com/india-news/paid-to-defame-india-bjp-on-rahul-gandhis-compromised-pm-post-pm-mod-trump-xi-putin-meeting-12352856#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       }
+      ]
+     }
+    },
+    {
+     "id": "8e137232119f",
+     "title": "'Because Of His Name': Congress vs BJP Over Siraj's Exclusion From NZ Test",
+     "link": "https://www.ndtv.com/india-news/because-of-his-name-congress-vs-bjp-over-mohammed-sirajs-exclusion-from-new-zealand-test-12353397#publisher=newsstand",
+     "source": "NDTV News Search Records Found 1000",
+     "published": "2026-11-20T08:46:36+00:00",
+     "summary": "A political debate has erupted between Congress and the BJP regarding the exclusion of cricketer Mohammed Siraj from a Test match squad.",
+     "explain": "The inclusion or exclusion of a player in a national team often becomes a proxy battle in Indian politics. Supporters of a player may allege discrimination based on name or background, while others argue that team selection is based strictly on performance statistics.",
+     "related": [],
+     "story": {
+      "id": "india-political-allegations-in-sports-selectio",
+      "title": "Political Allegations in Sports Selection",
+      "so_far": "Indian sports selection processes are generally merit-based, but claims of religious or regional bias occasionally surface in public discourse, leading to heated debates between rival political parties.",
+      "timeline": [
+       {
+        "date": "2026-11-20",
+        "text": "A political debate has erupted between Congress and the BJP regarding the exclusion of cricketer Mohammed Siraj from a Test match squad.",
+        "link": "https://www.ndtv.com/india-news/because-of-his-name-congress-vs-bjp-over-mohammed-sirajs-exclusion-from-new-zealand-test-12353397#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       }
+      ]
+     }
+    },
+    {
+     "id": "70f0c83c570f",
+     "title": "FSSAI licences suspended of two Karachi Bakery units in Hyderabad, four meat outlets over food safety violations",
+     "link": "https://www.thehindu.com/news/cities/Hyderabad/fssai-licences-suspended-of-two-karachi-bakery-units-in-hyderabad-four-meat-outlets-over-food-safety-violations/article71721101.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-20T08:43:37+00:00",
+     "summary": "Telangana authorities have suspended licenses for several Karachi Bakery units and meat shops due to severe food safety violations.",
+     "explain": "FSSAI (Food Safety and Standards Authority of India) is the government body that sets standards for food products and regulates manufacturing and sale. Suspending a license is an enforcement action taken when a business fails to maintain hygienic conditions, directly impacting public health.",
+     "related": [],
+     "story": {
+      "id": "india-food-safety-inspections-in-telangana",
+      "title": "Food Safety Inspections in Telangana",
+      "so_far": "Telangana's 'SAFE' teams periodically inspect food establishments to ensure compliance with health regulations. Common issues found include unhygienic storage, expired inventory, and improper waste disposal.",
+      "timeline": [
+       {
+        "date": "2026-11-20",
+        "text": "Telangana authorities have suspended licenses for several Karachi Bakery units and meat shops due to severe food safety violations.",
+        "link": "https://www.thehindu.com/news/cities/Hyderabad/fssai-licences-suspended-of-two-karachi-bakery-units-in-hyderabad-four-meat-outlets-over-food-safety-violations/article71721101.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "7d08b82396c0",
+     "title": "Cyclone 'Akvan' LIVE: Odisha's coastal districts witness rough sea and strong winds as landfall begins",
+     "link": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-20T08:43:15+00:00",
+     "summary": "Cyclone Akvan is making landfall in Odisha, bringing strong winds and causing rough sea conditions across coastal districts.",
+     "explain": "A cyclone is a powerful rotating storm system formed over warm ocean waters. 'Landfall' refers to the moment the center of the storm reaches the coast. This is a critical time when severe winds, heavy rainfall, and potential storm surges (flooding) occur, requiring emergency preparations.",
+     "related": [],
+     "story": {
+      "id": "india-cyclone-akvan-landfall",
+      "title": "Cyclone Akvan Landfall",
+      "so_far": "Odisha's long coastline makes it highly susceptible to cyclones, particularly during the post-monsoon period. State authorities typically prepare for these events by mobilizing disaster response teams and tracking meteorological data.",
+      "timeline": [
+       {
+        "date": "2026-11-20",
+        "text": "Cyclone Akvan is making landfall in Odisha, bringing strong winds and causing rough sea conditions across coastal districts.",
+        "link": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "84990e6cb60d",
+     "title": "'If we have water, will give to T.N.' says Shivakumar after SC verdict on Cauvery dispute | LIVE",
+     "link": "https://www.thehindu.com/news/national/cauvery-water-sharing-dispute-tamil-nadu-karnataka-supreme-court-judgement-live-updates-november-20-2026/article71723088.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-20T08:38:01+00:00",
+     "summary": "The Cauvery water dispute continues as Tamil Nadu claims Karnataka is withholding water, while Karnataka maintains it will share water only if reserves are sufficient.",
+     "explain": "This dispute involves river water rights between two states. Farmers in both states rely heavily on the Cauvery for agriculture, and political leaders often use the issue to appeal to local voters, making it a highly contentious and sensitive topic.",
+     "related": [],
+     "story": {
+      "id": "india-cauvery-water-dispute",
+      "title": "Cauvery Water Dispute",
+      "so_far": "The Cauvery water-sharing dispute between Karnataka and Tamil Nadu is a decades-old conflict over river water usage for irrigation and drinking. The Supreme Court periodically issues directions to resolve water distribution during lean rainfall years.",
+      "timeline": [
+       {
+        "date": "2026-11-20",
+        "text": "The Cauvery water dispute continues as Tamil Nadu claims Karnataka is withholding water, while Karnataka maintains it will share water only if reserves are sufficient.",
+        "link": "https://www.thehindu.com/news/national/cauvery-water-sharing-dispute-tamil-nadu-karnataka-supreme-court-judgement-live-updates-november-20-2026/article71723088.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "3510523bfdd4",
+     "title": "Telangana’s one-day Pochampally tour package from November 22",
+     "link": "https://www.thehindu.com/news/national/telangana/telanganas-one-day-pochampally-tour-package-from-november-22/article71723508.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-20T08:34:58+00:00",
+     "summary": "Telangana is launching a new one-day tour package to Pochampally, famous for its traditional weaving, starting November 22.",
+     "explain": "Pochampally is a town known for its 'Ikat' weaving technique, which is a traditional method of tie-dyeing fabric to create intricate patterns. These tours are designed to promote local craftsmanship, provide income for weavers, and preserve traditional cultural practices.",
+     "related": [],
+     "story": {
+      "id": "india-telangana-tourism-initiatives",
+      "title": "Telangana Tourism Initiatives",
+      "so_far": "The Telangana state government has been promoting its cultural heritage through organized tourism programs. These initiatives aim to support local artisans by integrating their crafts into the tourism economy.",
+      "timeline": [
+       {
+        "date": "2026-11-20",
+        "text": "Telangana is launching a new one-day tour package to Pochampally, famous for its traditional weaving, starting November 22.",
+        "link": "https://www.thehindu.com/news/national/telangana/telanganas-one-day-pochampally-tour-package-from-november-22/article71723508.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
@@ -1226,43 +1287,24 @@
    "label": "World",
    "articles": [
     {
-     "id": "523d8a206bbc",
-     "title": "Trump and Putin ‘hijacked’ China summit",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-and-putin-hijacked-china-summit?traffic_source=rss",
+     "id": "246772bdc72e",
+     "title": "Hippo Fiona dies days after swallowing visitor’s hat",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-19T17:02:22+00:00",
-     "summary": "President-elect Donald Trump and Russian President Vladimir Putin reportedly dominated a trilateral summit in China, overshadowing the intended agenda.",
-     "explain": "A 'sphere of influence' is a region or concept where a powerful nation has significant political, military, or economic sway over other countries. When major powers meet to discuss such arrangements, smaller nations fear their own sovereignty might be ignored or traded away. This summit is considered significant because it brings together the three most powerful nuclear-armed states to negotiate the future of global alliances.",
-     "related": [
-      {
-       "date": "2026-11-14",
-       "title": "Trump, Xi and Putin plan unprecedented joint meeting on sidelines of APEC in China: officials",
-       "link": "https://www.thehindu.com/news/international/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-apec-summit-china/article71700699.ece",
-       "source": "World News: Latest International News & "
-      },
-      {
-       "date": "2026-11-16",
-       "title": "China confirms first Xi-Trump-Putin summit on November 19",
-       "link": "https://www.thehindu.com/news/international/china-confirms-first-xi-trump-putin-summit-on-november-19/article71706625.ece",
-       "source": "World News: Latest International News & "
-      }
-     ],
+     "published": "2026-11-20T02:51:44+00:00",
+     "summary": "Fiona, a famous hippopotamus born prematurely at the Cincinnati Zoo in 2017, has died.",
+     "explain": "Fiona was a popular animal at the Cincinnati Zoo who survived a difficult birth. Her death is being reported because she was a global internet sensation followed by millions. The report mentions a visitor's hat, suggesting she may have ingested a foreign object, which can be fatal for zoo animals.",
+     "related": [],
      "story": {
-      "id": "world-trilateral-china-summit-with-trump-and-p",
-      "title": "Trilateral China Summit with Trump and Putin",
-      "so_far": "In November 2026, Presidents Xi Jinping (China), Donald Trump (USA), and Vladimir Putin (Russia) met for a highly anticipated and historic trilateral summit. The meeting drew global attention due to fears that the three leaders might attempt to divide international geopolitics into new 'spheres of influence'.",
+      "id": "world-death-of-fiona-the-hippo",
+      "title": "Death of Fiona the Hippo",
+      "so_far": "Fiona was a celebrity animal born six weeks early at the Cincinnati Zoo in 2017. She gained international fame due to her survival story and regular social media updates detailing her growth and personality.",
       "timeline": [
        {
-        "date": "2026-11-19",
-        "text": "President-elect Donald Trump and Russian President Vladimir Putin reportedly dominated a trilateral summit in China, overshadowing the intended agenda.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-and-putin-hijacked-china-summit?traffic_source=rss",
+        "date": "2026-11-20",
+        "text": "Fiona, a famous hippopotamus born prematurely at the Cincinnati Zoo in 2017, has died.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "The leaders exchanged greetings at the start of their meeting, though the lack of an announced agenda has fueled speculation about secret power-sharing agreements.",
-        "link": "https://www.thehindu.com/news/international/xi-trump-putin-exchange-greetings-before-historic-china-summit/article71718490.ece",
-        "source": "World News: Latest International News & "
        }
       ]
      }
@@ -1272,7 +1314,7 @@
      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
      "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-19T16:55:57+00:00",
+     "published": "2026-11-19T20:07:02+00:00",
      "summary": "The International Court of Justice (ICJ) has ruled that Myanmar committed genocide against the Rohingya minority during a 2017 military crackdown.",
      "explain": "The ICJ is the highest UN court for settling disputes between countries. Genocide is defined as the deliberate killing or destruction of a large group of people, especially those of a particular ethnic group or nation. This ruling is historic as it is the first time in the ICJ's 80-year history that the court has officially determined that a state committed the act of genocide, which carries immense legal and moral weight globally.",
      "related": [],
@@ -1373,188 +1415,224 @@
      }
     },
     {
-     "id": "490abc199ae3",
-     "title": "Florida pastor found guilty over role in assassination of Haitian president",
-     "link": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
+     "id": "d07cd85ea690",
+     "title": "Three Kyiv bridges hit during major Russian missile attack",
+     "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-19T11:44:57+00:00",
-     "summary": "A Florida-based pastor, Christian Emmanuel Sanon, was convicted for his role in the 2021 assassination of Haitian President Jovenel Moïse.",
-     "explain": "The assassination exacerbated Haiti's ongoing crisis, leaving the country without a functioning government and leading to a surge in gang violence. A federal conviction in this case highlights the transnational nature of the plot, showing how individuals in the U.S. were instrumental in organizing and financing the attack that destabilized the Caribbean nation.",
+     "published": "2026-11-20T08:40:45+00:00",
+     "summary": "Russia launched a major missile attack on Kyiv, striking three bridges and killing five people.",
+     "explain": "Russia and Ukraine have been at war since Russia's 2022 invasion. Ukraine recently struck the Crimean Bridge, a key supply route for Russian forces. In retaliation, Russia targeted bridges in Kyiv, the capital, showing how both sides are increasingly attacking strategic civilian and military infrastructure.",
      "related": [],
      "story": {
-      "id": "world-conviction-in-haitian-president-assassin",
-      "title": "Conviction in Haitian President Assassination",
-      "so_far": "In July 2021, Haitian President Jovenel Moïse was assassinated in his home in Port-au-Prince by a group of mercenaries, largely composed of Colombian ex-soldiers. The plot triggered a massive international investigation, revealing a complex web of conspirators, including foreign nationals and political figures operating from the United States.",
+      "id": "world-diplomatic-talks-on-ukraine",
+      "title": "Diplomatic Talks on Ukraine",
+      "so_far": "The conflict between Russia and Ukraine has persisted since 2022, causing immense devastation and triggering massive global diplomatic and military efforts from Western allies. Attempts to negotiate peace are frequent but fragile, often undermined by continued military hostilities.",
       "timeline": [
        {
-        "date": "2026-11-19",
-        "text": "A Florida-based pastor, Christian Emmanuel Sanon, was convicted for his role in the 2021 assassination of Haitian President Jovenel Moïse.",
-        "link": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-31",
+        "text": "The U.S. has confirmed it is supplying 500 Patriot interceptor missiles to Ukraine.",
+        "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
        },
        {
-        "date": "2026-11-19",
-        "text": "The court delivered a guilty verdict, and the defendant now awaits sentencing, where he could face up to life in prison.",
-        "link": "https://www.thehindu.com/news/international/florida-pastor-convicted-of-us-charges-related-to-assassination-of-haitian-president-jovenel-moise/article71718520.ece",
-        "source": "World News: Latest International News & "
-       }
-      ]
-     }
-    },
-    {
-     "id": "cad9e537f64b",
-     "title": "Musk says he feels 'pretty foolish' for failed U.S. election spending",
-     "link": "https://www.thehindu.com/news/international/musk-says-he-feels-pretty-foolish-for-failed-us-election-spending/article71718696.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-11-19T09:00:25+00:00",
-     "summary": "Elon Musk admitted to feeling 'foolish' regarding his significant financial contributions to recent U.S. election efforts.",
-     "explain": "Musk’s comments suggest a shift in his outlook on political financing, acknowledging that money does not guarantee political success or influence. This matters because it challenges the narrative that billionaire spending is the primary driver of election outcomes, inviting public discussion on how much 'dark money' should be allowed in campaigns.",
-     "related": [],
-     "story": {
-      "id": "world-musk-reflects-on-election-spending",
-      "title": "Musk Reflects on Election Spending",
-      "so_far": "Following the 2024 U.S. election cycle, attention turned to the massive spending by billionaire donors, including Elon Musk, who heavily backed certain candidates and political causes. Musk’s involvement sparked debate about the influence of private wealth on American democratic processes.",
-      "timeline": [
-       {
-        "date": "2026-11-19",
-        "text": "Elon Musk admitted to feeling 'foolish' regarding his significant financial contributions to recent U.S. election efforts.",
-        "link": "https://www.thehindu.com/news/international/musk-says-he-feels-pretty-foolish-for-failed-us-election-spending/article71718696.ece",
-        "source": "World News: Latest International News & "
-       }
-      ]
-     }
-    },
-    {
-     "id": "907914728268",
-     "title": "Xi, Trump, Putin exchange greetings before historic China summit",
-     "link": "https://www.thehindu.com/news/international/xi-trump-putin-exchange-greetings-before-historic-china-summit/article71718490.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-11-19T08:19:11+00:00",
-     "summary": "Xi Jinping, Donald Trump, and Vladimir Putin met for a historic summit in China, with the meeting's specific objectives remaining unclear to the public.",
-     "explain": null,
-     "related": [
-      {
-       "date": "2026-11-14",
-       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-       "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-       "source": "BBC News"
-      },
-      {
-       "date": "2026-11-16",
-       "title": "China confirms first Xi-Trump-Putin summit on November 19",
-       "link": "https://www.thehindu.com/news/international/china-confirms-first-xi-trump-putin-summit-on-november-19/article71706625.ece",
-       "source": "World News: Latest International News & "
-      }
-     ],
-     "story": {
-      "id": "world-trilateral-china-summit-with-trump-and-p",
-      "title": "Trilateral China Summit with Trump and Putin",
-      "so_far": "In November 2026, Presidents Xi Jinping (China), Donald Trump (USA), and Vladimir Putin (Russia) met for a highly anticipated and historic trilateral summit. The meeting drew global attention due to fears that the three leaders might attempt to divide international geopolitics into new 'spheres of influence'.",
-      "timeline": [
-       {
-        "date": "2026-11-19",
-        "text": "President-elect Donald Trump and Russian President Vladimir Putin reportedly dominated a trilateral summit in China, overshadowing the intended agenda.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-and-putin-hijacked-china-summit?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "The leaders exchanged greetings at the start of their meeting, though the lack of an announced agenda has fueled speculation about secret power-sharing agreements.",
-        "link": "https://www.thehindu.com/news/international/xi-trump-putin-exchange-greetings-before-historic-china-summit/article71718490.ece",
-        "source": "World News: Latest International News & "
-       }
-      ]
-     }
-    },
-    {
-     "id": "7a893204f9d8",
-     "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-     "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-19T02:59:06+00:00",
-     "summary": "Elon Musk stated that his significant financial contributions to recent U.S. midterm elections were a mistake and clarified he is not aligned with the MAGA movement.",
-     "explain": "The MAGA movement (Make America Great Again) is a political movement associated with Donald Trump and his supporters. By distancing himself from this group, Musk is signaling a potential shift in his political strategy. These comments are notable because they contradict recent narratives that cast him as a primary financier for specific populist political factions.",
-     "related": [],
-     "story": {
-      "id": "world-elon-musk-political-stance",
-      "title": "Elon Musk Political Stance",
-      "so_far": "Elon Musk, the CEO of Tesla and SpaceX, has become increasingly involved in U.S. political discourse in recent years. His public comments on policy and campaign finance often draw significant attention due to his massive social media influence and wealth, making his political affiliations a subject of ongoing media speculation.",
-      "timeline": [
-       {
-        "date": "2026-11-19",
-        "text": "Elon Musk stated that his significant financial contributions to recent U.S. midterm elections were a mistake and clarified he is not aligned with the MAGA movement.",
-        "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "0c16a243a395",
-     "title": "Florida pastor convicted of U.S. charges related to assassination of Haitian President Jovenel Moise",
-     "link": "https://www.thehindu.com/news/international/florida-pastor-convicted-of-us-charges-related-to-assassination-of-haitian-president-jovenel-moise/article71718520.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-11-19T02:13:41+00:00",
-     "summary": "Christian Emmanuel Sanon was found guilty in a Miami federal court of charges linked to the murder of Haitian leader Jovenel Moïse.",
-     "explain": null,
-     "related": [],
-     "story": {
-      "id": "world-conviction-in-haitian-president-assassin",
-      "title": "Conviction in Haitian President Assassination",
-      "so_far": "In July 2021, Haitian President Jovenel Moïse was assassinated in his home in Port-au-Prince by a group of mercenaries, largely composed of Colombian ex-soldiers. The plot triggered a massive international investigation, revealing a complex web of conspirators, including foreign nationals and political figures operating from the United States.",
-      "timeline": [
-       {
-        "date": "2026-11-19",
-        "text": "A Florida-based pastor, Christian Emmanuel Sanon, was convicted for his role in the 2021 assassination of Haitian President Jovenel Moïse.",
-        "link": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
+        "date": "2026-11-03",
+        "text": "Russia launched a heavy aerial attack on a civilian aid center, resulting in 26 deaths and further dimming prospects for immediate peace negotiations.",
+        "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
        },
        {
-        "date": "2026-11-19",
-        "text": "The court delivered a guilty verdict, and the defendant now awaits sentencing, where he could face up to life in prison.",
-        "link": "https://www.thehindu.com/news/international/florida-pastor-convicted-of-us-charges-related-to-assassination-of-haitian-president-jovenel-moise/article71718520.ece",
-        "source": "World News: Latest International News & "
-       }
-      ]
-     }
-    },
-    {
-     "id": "735ff02198e9",
-     "title": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-19T19:01:00+00:00",
-     "summary": "Israeli forces have launched a new ground offensive near the Bureij camp in Gaza, prompting families to flee the area.",
-     "explain": "Bureij is a refugee camp in central Gaza that has been heavily impacted by the ongoing conflict. Military offensives in these dense areas often force civilian populations to move frequently, further complicating the delivery of food and medical supplies provided by groups like the World Food Programme (WFP).",
-     "related": [],
-     "story": {
-      "id": "world-wfp-aid-cuts-in-gaza",
-      "title": "WFP Aid Cuts in Gaza",
-      "so_far": "The WFP has been a primary provider of food and nutrition in Gaza during ongoing regional instability. Recent funding shortages have forced the agency to cut aid coverage in Gaza by one-third, severely limiting basic resources for the population.",
-      "timeline": [
-       {
-        "date": "2026-10-19",
-        "text": "The WFP confirmed it is cutting aid for 500,000 people in Gaza, reducing its reach from 1.6 million to 1.1 million beneficiaries.",
-        "link": "https://www.thehindu.com/news/international/world-food-programme-says-ending-aid-for-half-million-in-gaza-due-to-funding-shortfall/article71602337.ece",
+        "date": "2026-11-09",
+        "text": "G7 ministers are meeting to align on strategies for the ongoing Ukraine conflict and rising tensions with Iran.",
+        "link": "https://www.thehindu.com/news/international/g7-ministers-meeting-in-paris-russia-ukraine-conflict-us-israel-strikes-on-iran/article71681281.ece",
         "source": "World News: Latest International News & "
        },
        {
-        "date": "2026-11-06",
-        "text": "Residents are resorting to scavenging for infrastructure materials as international aid remains constrained.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/gaza-turns-discarded-cooking-pots-into-seawalls?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
+        "date": "2026-11-09",
+        "text": "Russia's spokesperson, Dmitry Peskov, stated that the Kremlin views potential U.S. congressional changes as domestic American matters that they hope will not interfere with Trump's approach to the Ukraine conflict.",
+        "link": "https://www.thehindu.com/news/international/kremlin-hopes-us-election-shake-up-wont-shift-trumps-negotiations-on-ukraine/article71680679.ece",
+        "source": "World News: Latest International News & "
        },
        {
         "date": "2026-11-11",
-        "text": "A young professional athlete has been killed in Gaza, highlighting the ongoing civilian toll of the regional conflict.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/israel-kills-gaza-goalkeeper-days-after-playing-in-cup-for-slain-athletes?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
+        "text": "The two sides are now in their second day of direct negotiations taking place in the United Arab Emirates.",
+        "link": "https://www.thehindu.com/news/international/russia-ukraine-hold-second-day-of-us-brokered-talks-in-abu-dhabi/article71689267.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-12",
+        "text": "Envoys Jared Kushner and Steve Witkoff have traveled to Moscow for discussions with Vladimir Putin and will meet with Volodymyr Zelensky in Dublin shortly after.",
+        "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-11-13",
+        "text": "U.S. envoys have conducted direct meetings with Vladimir Putin and briefed Ukrainian leadership, with plans to include European partners in future talks.",
+        "link": "https://www.thehindu.com/news/international/us-ukraine-say-europe-to-join-russia-talks-as-putin-sticks-to-hardline-stance/article71696395.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-13",
+        "text": "President Zelenskyy expressed support for expanding the pool of negotiators to include European leaders.",
+        "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-11-13",
+        "text": "A violent drone attack occurred in Russia, complicating ongoing international diplomatic efforts to seek a ceasefire.",
+        "link": "https://www.thehindu.com/news/international/russia-says-four-killed-in-major-ukraine-drone-barrage/article71697111.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-14",
+        "text": "Zelensky revealed that US representatives proposed a controversial land-for-NATO membership swap to end the war.",
+        "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
        },
        {
         "date": "2026-11-19",
-        "text": "New military operations in central Gaza have triggered further displacement for residents already struggling with aid shortages.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss",
+        "text": "The Crimean Bridge has been targeted again, causing a suspension of traffic across the vital Russian supply and transit route.",
+        "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-11-20",
+        "text": "The conflict escalated with a Russian missile strike on Kyiv's infrastructure following a Ukrainian operation against the Crimean Bridge.",
+        "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "660ce979304b",
+     "title": "El Salvador’s Bukele seeks third term after constitution change",
+     "link": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-20T08:21:34+00:00",
+     "summary": "El Salvadoran President Nayib Bukele is pursuing a third term following constitutional changes.",
+     "explain": "A third term for a president is often controversial in countries that set term limits to prevent one person from holding power too long. Critics argue that changing the constitution to allow this move toward a 'one-party state,' where opposition is sidelined and democratic competition is limited.",
+     "related": [],
+     "story": {
+      "id": "world-el-salvador-presidential-term-limits",
+      "title": "El Salvador Presidential Term Limits",
+      "so_far": "Nayib Bukele is a populist leader who has overseen significant changes in El Salvador, particularly regarding security policy. His administration has faced scrutiny from international observers regarding democratic norms and the concentration of power.",
+      "timeline": [
+       {
+        "date": "2026-11-20",
+        "text": "El Salvadoran President Nayib Bukele is pursuing a third term following constitutional changes.",
+        "link": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "5d599ce7decc",
+     "title": "US robbery suspects charged over alleged $22M train heist spree",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/us-robbery-suspects-charged-over-alleged-22m-train-heist-spree?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-20T07:56:30+00:00",
+     "summary": "Suspects in the United States have been charged for allegedly stealing $22 million in a series of train heists.",
+     "explain": "A 'heist' refers to a large-scale robbery. Authorities are prosecuting these individuals for allegedly stealing $22 million worth of goods from freight trains, a significant criminal offense that involves organized planning to bypass railroad security protocols.",
+     "related": [],
+     "story": {
+      "id": "world-u-s-train-heist-charges",
+      "title": "U.S. Train Heist Charges",
+      "so_far": "Law enforcement agencies in the U.S. periodically investigate large-scale cargo theft operations. These crimes often involve sophisticated coordination to breach security on freight trains and move large volumes of goods across state lines.",
+      "timeline": [
+       {
+        "date": "2026-11-20",
+        "text": "Suspects in the United States have been charged for allegedly stealing $22 million in a series of train heists.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/us-robbery-suspects-charged-over-alleged-22m-train-heist-spree?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "8af4f733caa0",
+     "title": "Islam set to be the largest religion by 2035: Where will most Muslims live?",
+     "link": "https://www.aljazeera.com/news/2026/11/20/islam-set-to-be-the-largest-religion-by-2035-where-will-most-muslims-live?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-20T07:56:03+00:00",
+     "summary": "Projections from Pew Research indicate that Islam will become the world's largest religion by 2035.",
+     "explain": "This report uses demographic modeling to predict future population sizes for different religious groups. It highlights that the global Muslim population is growing quickly and is projected to shift geographically, with countries like Pakistan, India, and Nigeria becoming the homes of the largest Muslim populations in the coming decades.",
+     "related": [],
+     "story": {
+      "id": "world-global-demographic-trends-in-religion",
+      "title": "Global Demographic Trends in Religion",
+      "so_far": "Demographic analysts track global religious growth patterns based on birth rates, life expectancy, and migration. These studies are used by policymakers and social scientists to understand long-term global societal shifts.",
+      "timeline": [
+       {
+        "date": "2026-11-20",
+        "text": "Projections from Pew Research indicate that Islam will become the world's largest religion by 2035.",
+        "link": "https://www.aljazeera.com/news/2026/11/20/islam-set-to-be-the-largest-religion-by-2035-where-will-most-muslims-live?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "5ba9397311c0",
+     "title": "Rohingya in Bangladesh welcome UN court’s genocide verdict but say they want to go home to Myanmar",
+     "link": "https://www.thehindu.com/news/international/rohingya-in-bangladesh-welcome-un-courts-genocide-verdict-but-say-they-want-to-go-home-to-myanmar/article71723495.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-11-20T07:52:41+00:00",
+     "summary": "Rohingya refugees in Bangladesh welcomed a UN court ruling on genocide but emphasized their desire to return to Myanmar.",
+     "explain": "A 'genocide verdict' refers to a legal ruling by an international court acknowledging that a group has been targeted for destruction. While the refugees are glad the world recognizes their suffering, they remain displaced and are calling for the right to return to their ancestral homes in Myanmar.",
+     "related": [
+      {
+       "date": "2026-11-19",
+       "title": "Myanmar guilty of genocide against Rohingya, says top UN court",
+       "link": "https://www.thehindu.com/news/international/icj-verdict-on-rohingya-crackdown-killings-in-myanmar/article71719604.ece",
+       "source": "World News: Latest International News & "
+      },
+      {
+       "date": "2026-11-19",
+       "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+       "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC News"
+      }
+     ],
+     "story": {
+      "id": "world-rohingya-genocide-verdict",
+      "title": "Rohingya Genocide Verdict",
+      "so_far": "The Rohingya are a Muslim ethnic minority group that fled systematic violence in Myanmar. Since 2017, hundreds of thousands have lived in large refugee camps in Bangladesh, while international courts have investigated allegations of genocide against the Myanmar military.",
+      "timeline": [
+       {
+        "date": "2026-11-20",
+        "text": "Rohingya refugees in Bangladesh welcomed a UN court ruling on genocide but emphasized their desire to return to Myanmar.",
+        "link": "https://www.thehindu.com/news/international/rohingya-in-bangladesh-welcome-un-courts-genocide-verdict-but-say-they-want-to-go-home-to-myanmar/article71723495.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "a4af5736e7c2",
+     "title": "Foreign Secretary Misri sets stage for Nepal PM’s upcoming India visit",
+     "link": "https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-11-20T07:46:49+00:00",
+     "summary": "India is coordinating a state visit for the Prime Minister of Nepal following recent humanitarian aid cooperation.",
+     "explain": "India is working to deepen ties with its neighbor, Nepal, as part of a broader foreign policy strategy to maintain influence in South Asia. This includes providing humanitarian aid during disasters, which helps build goodwill and keeps diplomatic channels open before high-level official meetings.",
+     "related": [],
+     "story": {
+      "id": "world-u-s-india-trade-negotiations",
+      "title": "U.S.-India Trade Negotiations",
+      "so_far": "The U.S. and India have been strengthening their strategic partnership to counter regional influence, particularly regarding China. Trade talks have been ongoing for years, aiming to lower tariffs and streamline economic cooperation between the world's two largest democracies.",
+      "timeline": [
+       {
+        "date": "2026-10-21",
+        "text": "The Indian Ministry of External Affairs confirmed significant progress in recent negotiations.",
+        "link": "https://www.thehindu.com/news/international/india-us-talks-push-energy-defence-cooperation/article71606041.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-20",
+        "text": "India is strengthening its regional diplomatic influence by coordinating high-level visits with neighbors like Nepal after providing flood relief.",
+        "link": "https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
+        "source": "World News: Latest International News & "
        }
       ]
      }
@@ -1565,309 +1643,323 @@
    "label": "Business & Finance",
    "articles": [
     {
-     "id": "3b3a2ac949bc",
-     "title": "Canadas BMO returning to US oil and gas investment banking, sources say",
-     "link": "https://www.livemint.com/companies/canadas-bmo-returning-to-us-oil-and-gas-investment-banking-sources-say-11795114233832.html",
-     "source": "mint - companies",
-     "published": "2026-11-19T18:50:33+00:00",
-     "summary": "BMO Financial Group is re-entering the US oil and gas investment banking sector.",
-     "explain": "Investment banking involves banks helping corporations raise capital through selling stocks or bonds and advising on mergers. BMO, a Canadian bank, is betting that the US energy market—specifically oil and gas—offers enough growth to justify dedicating specialized bankers to the sector again.",
-     "related": [],
-     "story": {
-      "id": "business-bmo-expands-us-energy-banking",
-      "title": "BMO Expands US Energy Banking",
-      "so_far": "Investment banks frequently adjust their sectoral focus based on energy price trends and regulatory environments. BMO's move follows broader shifts in capital allocation toward energy infrastructure as energy security remains a priority for North American markets.",
-      "timeline": [
-       {
-        "date": "2026-11-19",
-        "text": "BMO is returning to provide financial services to the US energy sector after previously exiting.",
-        "link": "https://www.livemint.com/companies/canadas-bmo-returning-to-us-oil-and-gas-investment-banking-sources-say-11795114233832.html",
-        "source": "mint - companies"
-       }
-      ]
-     }
-    },
-    {
-     "id": "cf6a2cd16b2a",
-     "title": "Skydance, ESPN Opt Out of Bidding for FIFA World Cup Rights",
-     "link": "https://www.livemint.com/companies/skydance-espn-opt-out-of-bidding-for-fifa-world-cup-rights-11795113852106.html",
-     "source": "mint - companies",
-     "published": "2026-11-19T18:44:11+00:00",
-     "summary": "Skydance Corp and ESPN have decided not to bid for the US media rights to the upcoming FIFA Men's World Cup.",
-     "explain": "Broadcasting rights allow a company to be the exclusive source for viewers to watch a live event. Media companies pay huge fees for these rights hoping to make the money back through advertisements and subscriber fees; however, the cost has become so high that some companies like ESPN are choosing to focus their budgets elsewhere.",
-     "related": [],
-     "story": {
-      "id": "business-fifa-world-cup-bidding-competition",
-      "title": "FIFA World Cup Bidding Competition",
-      "so_far": "Media rights for major sporting events are some of the most expensive assets in entertainment, often drawing billions in bids from networks and streaming platforms. FIFA's World Cup remains a premier global event, though the high cost of rights has led some major media companies to re-evaluate their sports spending.",
-      "timeline": [
-       {
-        "date": "2026-11-19",
-        "text": "Major players Skydance and ESPN have opted out of the bidding war for US broadcasting rights.",
-        "link": "https://www.livemint.com/companies/skydance-espn-opt-out-of-bidding-for-fifa-world-cup-rights-11795113852106.html",
-        "source": "mint - companies"
-       }
-      ]
-     }
-    },
-    {
-     "id": "7c1e57b7cc0a",
-     "title": "Anthropic IPO jackpot! CEO Dario Amodei's 237.3 million shares at $83 apiece now carry a $19.7 billion valuation",
-     "link": "https://www.livemint.com/companies/people/anthropic-ipo-jackpot-ceo-dario-amodeis-237-3-million-shares-at-83-apiece-now-carry-a-19-7-billion-valuation-11795112083821.html",
-     "source": "mint - companies",
-     "published": "2026-11-19T18:34:09+00:00",
-     "summary": "Anthropic has completed the largest IPO in history, raising approximately $81.34 billion, with CEO Dario Amodei's stake now valued at nearly $20 billion.",
-     "explain": "An Initial Public Offering (IPO) is when a private company sells shares to the public for the first time. Anthropic's IPO is historic because of its size, signaling massive investor confidence in the future of artificial intelligence technology and its potential to revolutionize business and medicine.",
-     "related": [],
-     "story": {
-      "id": "business-anthropic-historic-ipo-debut",
-      "title": "Anthropic Historic IPO Debut",
-      "so_far": "Anthropic is a prominent developer of Generative AI, known for focusing on safety-aligned models. As AI demand has surged, the company attracted massive venture capital, leading to intense anticipation surrounding its entry into public markets.",
-      "timeline": [
-       {
-        "date": "2026-11-19",
-        "text": "Anthropic officially went public with a record-breaking $81.34 billion fundraising effort.",
-        "link": "https://www.livemint.com/companies/people/anthropic-ipo-jackpot-ceo-dario-amodeis-237-3-million-shares-at-83-apiece-now-carry-a-19-7-billion-valuation-11795112083821.html",
-        "source": "mint - companies"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "Founders are shifting focus to the long-term impact of AI applications in medicine and labor after the successful IPO launch.",
-        "link": "https://www.livemint.com/companies/people/anthropic-founders-see-ai-speeding-up-medical-breakthroughs-transforming-daily-life-11795106593779.html",
-        "source": "mint - companies"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "The company debuted with a multi-class share structure that distinguishes between voting rights and economic ownership.",
-        "link": "https://economictimes.indiatimes.com/world/us/not-all-anthropic-shares-are-the-same-what-class-a-class-n-and-a-26-billion-private-deal-mean-for-ordinary-investors-buying-ant-stock/articleshow/135998371.cms",
-        "source": "Economic Times"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "CEO Dario Amodei's net worth saw a massive increase due to the market valuation of his shares in the company.",
-        "link": "https://economictimes.indiatimes.com/world/business/dario-amodei-net-worth-soars-after-ant-ipo-how-anthropic-ceos-1-3-stake-at-83-a-share-boosted-his-fortune/articleshow/135997587.cms",
-        "source": "Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "7fef67becd87",
-     "title": "As Anthropic IPO debuts, founders see AI accelerating medical breakthroughs, transforming lives",
-     "link": "https://www.livemint.com/companies/people/anthropic-founders-see-ai-speeding-up-medical-breakthroughs-transforming-daily-life-11795106593779.html",
-     "source": "mint - companies",
-     "published": "2026-11-19T17:09:03+00:00",
-     "summary": "Anthropic co-founders Dario and Daniela Amodei emphasized the potential for AI to advance medical research and workplace productivity following the company's IPO.",
-     "explain": "The founders are addressing concerns about AI by focusing on 'responsible development'—essentially trying to ensure that their powerful AI tools are used for human benefit, like curing diseases, rather than causing harm. They are positioning their company not just as a tech platform, but as a utility that will fundamentally improve human productivity.",
-     "related": [],
-     "story": {
-      "id": "business-anthropic-historic-ipo-debut",
-      "title": "Anthropic Historic IPO Debut",
-      "so_far": "Anthropic is a prominent developer of Generative AI, known for focusing on safety-aligned models. As AI demand has surged, the company attracted massive venture capital, leading to intense anticipation surrounding its entry into public markets.",
-      "timeline": [
-       {
-        "date": "2026-11-19",
-        "text": "Anthropic officially went public with a record-breaking $81.34 billion fundraising effort.",
-        "link": "https://www.livemint.com/companies/people/anthropic-ipo-jackpot-ceo-dario-amodeis-237-3-million-shares-at-83-apiece-now-carry-a-19-7-billion-valuation-11795112083821.html",
-        "source": "mint - companies"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "Founders are shifting focus to the long-term impact of AI applications in medicine and labor after the successful IPO launch.",
-        "link": "https://www.livemint.com/companies/people/anthropic-founders-see-ai-speeding-up-medical-breakthroughs-transforming-daily-life-11795106593779.html",
-        "source": "mint - companies"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "The company debuted with a multi-class share structure that distinguishes between voting rights and economic ownership.",
-        "link": "https://economictimes.indiatimes.com/world/us/not-all-anthropic-shares-are-the-same-what-class-a-class-n-and-a-26-billion-private-deal-mean-for-ordinary-investors-buying-ant-stock/articleshow/135998371.cms",
-        "source": "Economic Times"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "CEO Dario Amodei's net worth saw a massive increase due to the market valuation of his shares in the company.",
-        "link": "https://economictimes.indiatimes.com/world/business/dario-amodei-net-worth-soars-after-ant-ipo-how-anthropic-ceos-1-3-stake-at-83-a-share-boosted-his-fortune/articleshow/135997587.cms",
-        "source": "Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "92babb1c7c83",
-     "title": "What Trump, Xi, Putin's historic meeting achieved",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/symbolism-over-substance-what-trump-xi-and-putins-historic-meeting-achieved/articleshow/135999915.cms",
-     "source": "Economic Times",
-     "published": "2026-11-19T17:08:53+00:00",
-     "summary": "Donald Trump, Xi Jinping, and Vladimir Putin held a significant meeting, though specific details on outcomes were not provided in the snippet.",
-     "explain": "A summit of this magnitude is a meeting between the world's most influential heads of state. It matters because it could potentially reshape global alliances, trade agreements, and how these powers handle international conflicts, though the actual influence of such meetings depends heavily on the agreements reached behind closed doors.",
+     "id": "ad5d854cc6f8",
+     "title": "Anthropic shares surge 17% after record $107.3 billion IPO, valuing AI firm at $1.8 trillion",
+     "link": "https://www.thehindubusinessline.com/markets/stock-markets/anthropic-shares-surge-17-after-record-1073-billion-ipo-valuing-ai-firm-at-18-trillion/article71721993.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-20T06:25:58+00:00",
+     "summary": "AI startup Anthropic has completed a record-breaking $107.3 billion initial public offering. Its shares surged significantly on their first day of trading, reflecting high investor interest despite ongoing debates about AI infrastructure costs and profitability.",
+     "explain": "An Initial Public Offering (IPO) is when a private company sells shares to the public for the first time, essentially 'going public' to raise capital for growth. This is a massive event because the valuation is record-breaking, signaling that investors are willing to bet heavily on the future of AI technology, even if the companies are still working on long-term paths to profitability.",
      "related": [
       {
-       "date": "2026-11-07",
-       "title": "Talks underway for historic Xi-Trump-Putin meet",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/china-confirms-discussions-are-underway-on-a-historic-xi-trump-putin-meeting/articleshow/135624412.cms",
-       "source": "Economic Times"
+       "date": "2026-10-28",
+       "title": "Jio to make trading debut after record $3.2 billion IPO",
+       "link": "https://www.thehindubusinessline.com/markets/jio-to-make-trading-debut-after-record-32-billion-ipo/article71634118.ece",
+       "source": "Business News Today: Latest Business New"
       }
      ],
      "story": {
-      "id": "business-global-power-leaders-meeting",
-      "title": "Global Power Leaders Meeting",
-      "so_far": "International relations between the US, China, and Russia have been strained due to geopolitical tensions, trade disputes, and regional conflicts. High-level summits between these nations are rare and often occur only when there is an attempt to address foundational shifts in global policy.",
+      "id": "business-anthropic-record-breaking-ipo",
+      "title": "Anthropic Record-Breaking IPO",
+      "so_far": "Anthropic is a major AI research and safety company known for its Claude chatbot. It was founded with a focus on 'Constitutional AI,' which aims to make AI systems more helpful, honest, and harmless through rigorous safety training. The company has attracted massive investment from major tech firms before finally deciding to list its shares on the public market.",
       "timeline": [
        {
-        "date": "2026-11-19",
-        "text": "The three leaders convened for a historic meeting, signaling a shift in the current international diplomatic landscape.",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/symbolism-over-substance-what-trump-xi-and-putins-historic-meeting-achieved/articleshow/135999915.cms",
-        "source": "Economic Times"
+        "date": "2026-11-20",
+        "text": "Anthropic made its public market debut, raising $107.3 billion in the largest IPO ever recorded.",
+        "link": "https://www.thehindubusinessline.com/markets/stock-markets/anthropic-shares-surge-17-after-record-1073-billion-ipo-valuing-ai-firm-at-18-trillion/article71721993.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-20",
+        "text": "The company's shares climbed 21% above their IPO price, confirming it has secured the title for the largest market offering in history.",
+        "link": "https://www.livemint.com/companies/anthropic-shares-jump-21-after-107-3-billion-ipo-breaks-record-11795137716176.html",
+        "source": "mint - companies"
        }
       ]
      }
     },
     {
-     "id": "ba3b9a5a41fd",
-     "title": "Anthropic stock has 3 classes: What's the catch?",
-     "link": "https://economictimes.indiatimes.com/world/us/not-all-anthropic-shares-are-the-same-what-class-a-class-n-and-a-26-billion-private-deal-mean-for-ordinary-investors-buying-ant-stock/articleshow/135998371.cms",
-     "source": "Economic Times",
-     "published": "2026-11-19T16:44:56+00:00",
-     "summary": "Anthropic's stock structure features three different classes of shares, raising questions about control and shareholder voting power.",
-     "explain": "In many tech companies, founders issue different 'classes' of shares. Typically, Class A might go to the public with limited voting power, while Class B or C (held by founders) might carry extra voting power, ensuring that even after going public, the founders maintain total control over the company's direction.",
-     "related": [],
+     "id": "d03418ee9103",
+     "title": "Anthropic shares jump 21% after $107.3 billion IPO breaks record",
+     "link": "https://www.livemint.com/companies/anthropic-shares-jump-21-after-107-3-billion-ipo-breaks-record-11795137716176.html",
+     "source": "mint - companies",
+     "published": "2026-11-20T01:23:24+00:00",
+     "summary": "Anthropic shares jumped 21% following their IPO, surpassing the previous record held by SpaceX for the largest-ever market debut.",
+     "explain": "A stock debut's jump in price indicates strong investor demand and market confidence. By surpassing SpaceX's record, Anthropic has set a new benchmark for capital raised by a private firm entering the stock exchange, highlighting how central AI has become to current financial markets.",
+     "related": [
+      {
+       "date": "2026-10-28",
+       "title": "Jio to make trading debut after record $3.2 billion IPO",
+       "link": "https://www.thehindubusinessline.com/markets/jio-to-make-trading-debut-after-record-32-billion-ipo/article71634118.ece",
+       "source": "Business News Today: Latest Business New"
+      }
+     ],
      "story": {
-      "id": "business-anthropic-historic-ipo-debut",
-      "title": "Anthropic Historic IPO Debut",
-      "so_far": "Anthropic is a prominent developer of Generative AI, known for focusing on safety-aligned models. As AI demand has surged, the company attracted massive venture capital, leading to intense anticipation surrounding its entry into public markets.",
+      "id": "business-anthropic-record-breaking-ipo",
+      "title": "Anthropic Record-Breaking IPO",
+      "so_far": "Anthropic is a major AI research and safety company known for its Claude chatbot. It was founded with a focus on 'Constitutional AI,' which aims to make AI systems more helpful, honest, and harmless through rigorous safety training. The company has attracted massive investment from major tech firms before finally deciding to list its shares on the public market.",
       "timeline": [
        {
-        "date": "2026-11-19",
-        "text": "Anthropic officially went public with a record-breaking $81.34 billion fundraising effort.",
-        "link": "https://www.livemint.com/companies/people/anthropic-ipo-jackpot-ceo-dario-amodeis-237-3-million-shares-at-83-apiece-now-carry-a-19-7-billion-valuation-11795112083821.html",
+        "date": "2026-11-20",
+        "text": "Anthropic made its public market debut, raising $107.3 billion in the largest IPO ever recorded.",
+        "link": "https://www.thehindubusinessline.com/markets/stock-markets/anthropic-shares-surge-17-after-record-1073-billion-ipo-valuing-ai-firm-at-18-trillion/article71721993.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-20",
+        "text": "The company's shares climbed 21% above their IPO price, confirming it has secured the title for the largest market offering in history.",
+        "link": "https://www.livemint.com/companies/anthropic-shares-jump-21-after-107-3-billion-ipo-breaks-record-11795137716176.html",
         "source": "mint - companies"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "Founders are shifting focus to the long-term impact of AI applications in medicine and labor after the successful IPO launch.",
-        "link": "https://www.livemint.com/companies/people/anthropic-founders-see-ai-speeding-up-medical-breakthroughs-transforming-daily-life-11795106593779.html",
-        "source": "mint - companies"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "The company debuted with a multi-class share structure that distinguishes between voting rights and economic ownership.",
-        "link": "https://economictimes.indiatimes.com/world/us/not-all-anthropic-shares-are-the-same-what-class-a-class-n-and-a-26-billion-private-deal-mean-for-ordinary-investors-buying-ant-stock/articleshow/135998371.cms",
-        "source": "Economic Times"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "CEO Dario Amodei's net worth saw a massive increase due to the market valuation of his shares in the company.",
-        "link": "https://economictimes.indiatimes.com/world/business/dario-amodei-net-worth-soars-after-ant-ipo-how-anthropic-ceos-1-3-stake-at-83-a-share-boosted-his-fortune/articleshow/135997587.cms",
-        "source": "Economic Times"
        }
       ]
      }
     },
     {
-     "id": "b1a3d2700a8f",
-     "title": "Anthropic IPO sends Dario Amodei's fortune soaring",
-     "link": "https://economictimes.indiatimes.com/world/business/dario-amodei-net-worth-soars-after-ant-ipo-how-anthropic-ceos-1-3-stake-at-83-a-share-boosted-his-fortune/articleshow/135997587.cms",
-     "source": "Economic Times",
-     "published": "2026-11-19T16:32:25+00:00",
-     "summary": "Dario Amodei's personal wealth has increased significantly following the successful public debut of Anthropic.",
-     "explain": "When a founder holds a large number of shares in a company, the 'paper value' of their wealth changes instantly when the company starts trading on a stock exchange. The market's valuation of the company directly determines the personal net worth of those who hold the largest portions of its stock.",
-     "related": [],
-     "story": {
-      "id": "business-anthropic-historic-ipo-debut",
-      "title": "Anthropic Historic IPO Debut",
-      "so_far": "Anthropic is a prominent developer of Generative AI, known for focusing on safety-aligned models. As AI demand has surged, the company attracted massive venture capital, leading to intense anticipation surrounding its entry into public markets.",
-      "timeline": [
-       {
-        "date": "2026-11-19",
-        "text": "Anthropic officially went public with a record-breaking $81.34 billion fundraising effort.",
-        "link": "https://www.livemint.com/companies/people/anthropic-ipo-jackpot-ceo-dario-amodeis-237-3-million-shares-at-83-apiece-now-carry-a-19-7-billion-valuation-11795112083821.html",
-        "source": "mint - companies"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "Founders are shifting focus to the long-term impact of AI applications in medicine and labor after the successful IPO launch.",
-        "link": "https://www.livemint.com/companies/people/anthropic-founders-see-ai-speeding-up-medical-breakthroughs-transforming-daily-life-11795106593779.html",
-        "source": "mint - companies"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "The company debuted with a multi-class share structure that distinguishes between voting rights and economic ownership.",
-        "link": "https://economictimes.indiatimes.com/world/us/not-all-anthropic-shares-are-the-same-what-class-a-class-n-and-a-26-billion-private-deal-mean-for-ordinary-investors-buying-ant-stock/articleshow/135998371.cms",
-        "source": "Economic Times"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "CEO Dario Amodei's net worth saw a massive increase due to the market valuation of his shares in the company.",
-        "link": "https://economictimes.indiatimes.com/world/business/dario-amodei-net-worth-soars-after-ant-ipo-how-anthropic-ceos-1-3-stake-at-83-a-share-boosted-his-fortune/articleshow/135997587.cms",
-        "source": "Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "d55de4ae01d0",
-     "title": "India customs dispute holds up $66 million of Scotch Whisky",
-     "link": "https://www.thehindubusinessline.com/news/india-customs-dispute-holds-up-66-million-of-scotch-whisky/article71720972.ece",
+     "id": "ed44c7b700a0",
+     "title": "Ethanol blending: Grain-based feedstocks account for 73.52% of India’s supplies in FY26",
+     "link": "https://www.thehindubusinessline.com/economy/agri-business/ethanol-blending-grain-based-feedstocks-account-for-7352-of-indias-supplies-in-fy26/article71723455.ece",
      "source": "Business News Today: Latest Business New",
-     "published": "2026-11-19T16:31:45+00:00",
-     "summary": "A customs classification dispute is causing a backlog of $66 million worth of Scotch whisky shipments at Indian ports.",
-     "explain": "Customs classification determines the tax rate applied to imported goods. If authorities disagree with an importer on how a product should be labeled—for example, as 'raw material' versus 'finished spirit'—the goods are held in port until the dispute is resolved, leading to storage fees and lost sales.",
+     "published": "2026-11-20T08:45:46+00:00",
+     "summary": "India's ethanol supply chain in fiscal year 2026 is increasingly reliant on grain-based feedstocks, which now account for over 73% of total supplies.",
+     "explain": "Ethanol is a biofuel derived from plant material. The Indian government encourages blending it into gasoline to lower fuel costs and reduce pollution. Shifting to grain-based feedstocks means the country is using agricultural products, rather than just sugarcane, to meet its climate and energy goals.",
      "related": [],
      "story": {
-      "id": "business-india-customs-whisky-dispute",
-      "title": "India Customs Whisky Dispute",
-      "so_far": "India and the UK have been working toward a Free Trade Agreement (FTA) to lower barriers like tariffs. However, administrative hurdles and classification disputes at the border often persist, creating delays for exporters who expect smoother processing under the spirit of the trade pact.",
+      "id": "business-india-s-ethanol-blending-policy",
+      "title": "India's Ethanol Blending Policy",
+      "so_far": "The Indian government has been pushing an 'Ethanol Blended Petrol' program to reduce the nation's dependence on imported crude oil and support the agricultural sector. By converting agricultural waste and surplus grains into fuel, the initiative aims to balance energy security with rural income support.",
       "timeline": [
        {
-        "date": "2026-11-19",
-        "text": "Bulk whisky imports are stalled due to disagreements over how they should be classified by Indian customs authorities.",
-        "link": "https://www.thehindubusinessline.com/news/india-customs-dispute-holds-up-66-million-of-scotch-whisky/article71720972.ece",
+        "date": "2026-11-20",
+        "text": "Data shows grain-based feedstocks like maize and surplus FCI rice reached 73.52% of total supplies.",
+        "link": "https://www.thehindubusinessline.com/economy/agri-business/ethanol-blending-grain-based-feedstocks-account-for-7352-of-indias-supplies-in-fy26/article71723455.ece",
         "source": "Business News Today: Latest Business New"
        }
       ]
      }
     },
     {
-     "id": "9bf8aa872285",
-     "title": "Substance abuse: PM calls for 'jan bhagidari'",
-     "link": "https://economictimes.indiatimes.com/news/india/pm-modi-calls-for-greater-jan-bhagidari-to-fight-substance-abuse/articleshow/135998882.cms",
-     "source": "Economic Times",
-     "published": "2026-11-19T16:31:15+00:00",
-     "summary": "The Indian Prime Minister has called for public participation ('jan bhagidari') to address the issue of substance abuse in the country.",
-     "explain": "'Jan bhagidari' is a Hindi term for public participation. By asking for it, the government is signaling that it believes top-down enforcement isn't enough to solve the substance abuse crisis and that communities, NGOs, and families must work together to identify problems and support those struggling with addiction.",
+     "id": "67286d63879f",
+     "title": "Vijay Sankar takes over as FICCI President in centenary year",
+     "link": "https://www.thehindubusinessline.com/companies/vijay-sankar-takes-over-as-ficci-president-in-centenary-year/article71723602.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-20T08:45:26+00:00",
+     "summary": "Vijay Sankar of the Sanmar Group has been appointed as the President of the Federation of Indian Chambers of Commerce and Industry (FICCI) for its centenary year.",
+     "explain": "FICCI (Federation of Indian Chambers of Commerce and Industry) is an influential trade body that helps shape economic policies in India. When a new President is elected, it often signals a shift in the organization's priorities, particularly as it marks a centenary—a major milestone representing 100 years of operation.",
      "related": [],
      "story": {
-      "id": "business-national-substance-abuse-campaign",
-      "title": "National Substance Abuse Campaign",
-      "so_far": "India has faced rising concerns regarding the availability and misuse of various substances, affecting public health and social order. Previous government efforts have focused on law enforcement and rehabilitation, but current strategies are increasingly emphasizing public awareness and local involvement.",
+      "id": "business-ficci-leadership-changes",
+      "title": "FICCI Leadership Changes",
+      "so_far": "FICCI is one of India's oldest and largest apex business organizations, representing the interests of the corporate sector. It works as an intermediary between the government and businesses, lobbying for policy changes and economic reforms.",
       "timeline": [
        {
-        "date": "2026-11-19",
-        "text": "Government leadership is pivoting toward a community-led approach to combat drug and substance misuse.",
-        "link": "https://economictimes.indiatimes.com/news/india/pm-modi-calls-for-greater-jan-bhagidari-to-fight-substance-abuse/articleshow/135998882.cms",
-        "source": "Economic Times"
+        "date": "2026-11-20",
+        "text": "Vijay Sankar assumed the role of President for 2026-27, with Puneet Dalmia named Senior Vice President.",
+        "link": "https://www.thehindubusinessline.com/companies/vijay-sankar-takes-over-as-ficci-president-in-centenary-year/article71723602.ece",
+        "source": "Business News Today: Latest Business New"
        }
       ]
      }
     },
     {
-     "id": "dc8212116ed5",
-     "title": "India’s GI boom is a filing story",
-     "link": "https://www.thehindubusinessline.com/opinion/indias-gi-boom-is-a-filing-story/article71715883.ece",
+     "id": "007ddd4c8ef4",
+     "title": "Sensex today | Stock Market Live: Sensex jumps 700 pts, Nifty touches fresh 10-month high at 25,730",
+     "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-20th-november-2026/article71720685.ece",
      "source": "Business News Today: Latest Business New",
-     "published": "2026-11-19T16:22:33+00:00",
-     "summary": "India's Geographic Indication (GI) tag system is seeing a surge in registrations, but critics argue the data fails to measure the actual benefit to artisans.",
-     "explain": "While a GI tag protects the *name* of a product, critics say it is just a 'filing story'—a bureaucratic win—that doesn't automatically mean the artisans are getting higher prices for their work. The concern is that middlemen may be capturing the value rather than the local producers the system was intended to protect.",
-     "related": [],
+     "published": "2026-11-20T08:43:31+00:00",
+     "summary": "Indian stock markets showed strong gains, with the Nifty 50 index reaching a fresh 10-month high.",
+     "explain": "The Sensex and Nifty 50 are stock market indices that track the performance of the largest companies on the Bombay Stock Exchange (BSE) and National Stock Exchange (NSE). A 'fresh high' means the market is trading at a price level it hasn't reached in ten months, indicating positive sentiment among investors.",
+     "related": [
+      {
+       "date": "2026-11-09",
+       "title": "Sensex today | Stock Market Live Updates: Stock to buy today: PG Electroplast (₹546.65)",
+       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-9-november-2026/article71681002.ece",
+       "source": "Business News Today: Latest Business New"
+      },
+      {
+       "date": "2026-11-13",
+       "title": "Sensex today | Stock Market Live Updates: Stock to buy today: SBI Life Insurance (₹1,820)",
+       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-13-november-2026/article71693403.ece",
+       "source": "Business News Today: Latest Business New"
+      },
+      {
+       "date": "2026-11-16",
+       "title": "Sensex today | Stock Market Live Updates: Nifty, Sensex eye fresh gains amid global weakness",
+       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-16th-november-2026/article71705118.ece",
+       "source": "Business News Today: Latest Business New"
+      },
+      {
+       "date": "2026-11-17",
+       "title": "Sensex today | Stock Market Live Updates: Stock to buy today: CAMS",
+       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-17th-november-2026/article71708442.ece",
+       "source": "Business News Today: Latest Business New"
+      },
+      {
+       "date": "2026-11-18",
+       "title": "Sensex today | Stock Market Live Updates: Stock to buy today: Cemindia Projects (₹1,353) – BUY",
+       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-18-november-2026/article71711870.ece",
+       "source": "Business News Today: Latest Business New"
+      },
+      {
+       "date": "2026-11-19",
+       "title": "Sensex today | Stock Market Live: Stock to buy today: Sagility (₹45) – BUY",
+       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-19th-november-2026/article71717151.ece",
+       "source": "Business News Today: Latest Business New"
+      }
+     ],
      "story": {
-      "id": "business-gi-tag-impact-assessment",
-      "title": "GI Tag Impact Assessment",
-      "so_far": "A Geographic Indication (GI) is a tag that identifies a product as originating from a specific region, giving it a unique reputation (e.g., Darjeeling tea or Kanchipuram silk). India has been aggressively pushing for more GI tags to protect traditional crafts and regional specialties from imitation.",
+      "id": "business-indian-stock-market-performance",
+      "title": "Indian Stock Market Performance",
+      "so_far": "Indian markets have been volatile throughout 2026, influenced by global economic conditions, interest rate policies from the Reserve Bank of India, and corporate earnings reports. Investors frequently track these benchmarks as proxies for the overall health of the Indian economy.",
       "timeline": [
        {
-        "date": "2026-11-19",
-        "text": "There is a growing debate over whether the record-breaking number of GI filings translates into improved livelihoods for the artisans behind the products.",
-        "link": "https://www.thehindubusinessline.com/opinion/indias-gi-boom-is-a-filing-story/article71715883.ece",
+        "date": "2026-10-26",
+        "text": "The Sensex rose by 482.92 points to finish at 73,606.75, while the Nifty gained 153.20 points to reach 22,753.20.",
+        "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-26-october-2026/article71622964.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-08",
+        "text": "The market closed marginally down at 80,999.40 after a week of consistent gains.",
+        "link": "https://www.thehindubusinessline.com/markets/stock-markets-end-marginally-lower-in-special-muhurat-trading-snapping-7-day-rally/article71680873.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-09",
+        "text": "Markets rose on Monday as economic factors like oil prices and bank stability improved.",
+        "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-9-november-2026/article71681002.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-11",
+        "text": "Market indices posted gains with strong performance from Mahindra & Mahindra and IndiGo, while IT stocks experienced a decline.",
+        "link": "https://www.thehindubusinessline.com/markets/indices-hold-gains-at-noon-mm-indigo-top-nifty-charts-as-it-stocks-drag/article71688800.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-20",
+        "text": "Benchmark indices Sensex and Nifty 50 rallied on Friday to hit a new 10-month peak.",
+        "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-20th-november-2026/article71720685.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "44c322dbd920",
+     "title": "Jupiter Wagons bags ₹128.61-crore order from JSW group for 302 wagons",
+     "link": "https://www.thehindubusinessline.com/economy/logistics/jupiter-wagons-bags-12861-crore-order-from-jsw-group-for-302-wagons/article71723482.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-20T08:42:37+00:00",
+     "summary": "Jupiter Wagons has secured a contract worth ₹128.61 crore from the JSW Group for the supply of 302 wagons.",
+     "explain": "Wagons are the freight-carrying cars attached to trains. This contract is significant for Jupiter Wagons because it demonstrates demand from private industrial groups (like JSW) that are investing in their own logistics and supply chain infrastructure.",
+     "related": [],
+     "story": {
+      "id": "business-jupiter-wagons-logistics-order",
+      "title": "Jupiter Wagons Logistics Order",
+      "so_far": "Jupiter Wagons is a major manufacturer of railway wagons and related components in India. As India modernizes its logistics and rail infrastructure, companies like Jupiter Wagons have seen increased order inflows from both the Indian Railways and private freight players.",
+      "timeline": [
+       {
+        "date": "2026-11-20",
+        "text": "The company won a significant private order, further expanding its business with freight operators.",
+        "link": "https://www.thehindubusinessline.com/economy/logistics/jupiter-wagons-bags-12861-crore-order-from-jsw-group-for-302-wagons/article71723482.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "d0a8618a32b9",
+     "title": "HDFC Bank shares surges 1.6% as banking stocks rally to fresh highs",
+     "link": "https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-surges-16-as-banking-stocks-rally-to-fresh-highs/article71723438.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-20T08:39:23+00:00",
+     "summary": "HDFC Bank shares rose by 1.6% as broader banking stocks in the Indian market saw a rally.",
+     "explain": "HDFC Bank is India's largest private sector bank. Banking sector stocks are often seen as barometers of economic health; when they rise, it suggests that investors are optimistic about economic growth and corporate lending. 'Buy-side participation' refers to investors actively purchasing shares, which drives the price up.",
+     "related": [],
+     "story": {
+      "id": "business-south-indian-bank-market-outlook",
+      "title": "South Indian Bank Market Outlook",
+      "so_far": "South Indian Bank is a private sector bank in India that has been attracting attention from market analysts following recent stock performance trends. Investors often monitor these ratings to decide on asset allocation within the banking sector, weighing institutional performance and interest rate environments.",
+      "timeline": [
+       {
+        "date": "2026-10-21",
+        "text": "Market analysts have issued a 'BUY' rating for South Indian Bank, projecting a target price of ₹62.",
+        "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-21st-october-2026/article71604730.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-20",
+        "text": "HDFC Bank outperformed during a general rally in the banking sector, showing improved participation from buyers.",
+        "link": "https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-surges-16-as-banking-stocks-rally-to-fresh-highs/article71723438.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "efd62ab59de9",
+     "title": "Urban Company’s ₹2,500-crore QIP attracts over ₹15,000 crore in investor bids",
+     "link": "https://www.thehindubusinessline.com/companies/urban-companys-2500-crore-qip-attracts-over-15000-crore-in-investor-bids/article71723403.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-20T08:37:43+00:00",
+     "summary": "Urban Company's institutional share placement drew overwhelming demand, with bids exceeding ₹15,000 crore for a ₹2,500-crore offering.",
+     "explain": "A QIP (Qualified Institutional Placement) is a way for a publicly listed or pre-public company to raise capital from qualified institutional investors (like mutual funds or insurance companies) without having to undergo the standard, lengthy process of a public follow-on offering. The fact that bids exceeded the goal significantly indicates strong confidence from major financial institutions in Urban Company's business model.",
+     "related": [],
+     "story": {
+      "id": "business-urban-company-financial-scaling",
+      "title": "Urban Company Financial Scaling",
+      "so_far": "Urban Company is an Indian startup providing home services, such as cleaning, beauty, and repairs, through an app. The company has been expanding its service footprint and looking to raise capital to scale operations.",
+      "timeline": [
+       {
+        "date": "2026-11-20",
+        "text": "The company successfully attracted high demand from institutional investors for its qualified institutional placement (QIP).",
+        "link": "https://www.thehindubusinessline.com/companies/urban-companys-2500-crore-qip-attracts-over-15000-crore-in-investor-bids/article71723403.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "03eb22ddac5c",
+     "title": "Cauvery water dispute: Supreme Court rejects Tamil Nadu’s pleas for 11 TMC from Karnataka",
+     "link": "https://www.thehindubusinessline.com/news/cauvery-water-dispute-supreme-court-rejects-tamil-nadus-pleas-for-11-tmc-from-karnataka/article71723644.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-20T08:29:08+00:00",
+     "summary": "The Supreme Court of India rejected Tamil Nadu's request for additional water from the Cauvery River, citing the ongoing water-sharing dispute during a drought year.",
+     "explain": "TMC stands for 'Thousand Million Cubic feet,' a unit used to measure large volumes of water. The Supreme Court often mediates these disputes based on tribunal awards. This issue matters because it directly affects farming livelihoods, water security, and political stability in both states during years of poor rainfall.",
+     "related": [],
+     "story": {
+      "id": "business-cauvery-water-sharing-dispute",
+      "title": "Cauvery Water Sharing Dispute",
+      "so_far": "The Cauvery water dispute is a decades-old conflict between the states of Karnataka and Tamil Nadu over the sharing of water from the Cauvery River. The river is a vital source for irrigation and drinking water for both states, and disputes typically escalate during monsoon-deficit years when water levels are low.",
+      "timeline": [
+       {
+        "date": "2026-11-20",
+        "text": "The Supreme Court denied a plea from Tamil Nadu seeking 11 TMC of water from Karnataka.",
+        "link": "https://www.thehindubusinessline.com/news/cauvery-water-dispute-supreme-court-rejects-tamil-nadus-pleas-for-11-tmc-from-karnataka/article71723644.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "0088e0b19a9a",
+     "title": "Cyclone Akvan LIVE Updates: Cyclone Akvan weakens, crosses north Andhra Pradesh, south Odisha coasts",
+     "link": "https://www.thehindubusinessline.com/news/national/cylone-akvan-live-news-updates-november-20-2026/article71723082.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-20T08:25:27+00:00",
+     "summary": "Cyclone Akvan has weakened significantly after making landfall across the coasts of Andhra Pradesh and Odisha.",
+     "explain": "A cyclone is a intense circular storm that originates over warm tropical oceans. They bring high winds and heavy rains. When a cyclone 'crosses the coast' and 'weakens,' it means the primary destructive force is dissipating as it moves over land and loses its source of heat and moisture.",
+     "related": [],
+     "story": {
+      "id": "business-cyclone-akvan-weather-event",
+      "title": "Cyclone Akvan Weather Event",
+      "so_far": "The coastal regions of India, particularly along the Bay of Bengal, are frequently hit by tropical cyclones. These weather events often disrupt local trade, agriculture, and infrastructure, necessitating rapid disaster response and government monitoring.",
+      "timeline": [
+       {
+        "date": "2026-11-20",
+        "text": "The cyclone crossed the coast and is losing intensity, according to live reports.",
+        "link": "https://www.thehindubusinessline.com/news/national/cylone-akvan-live-news-updates-november-20-2026/article71723082.ece",
         "source": "Business News Today: Latest Business New"
        }
       ]
@@ -1878,6 +1970,84 @@
   "markets": {
    "label": "Markets & Crypto",
    "articles": [
+    {
+     "id": "b9a0ddb871bd",
+     "title": "Anthropic shares soar 21% in blockbuster debut: Can the AI giant justify its $1.8 trillion valuation?",
+     "link": "https://www.livemint.com/market/stock-market-news/anthropic-shares-soar-21-in-blockbuster-debut-can-the-ai-giant-justify-its-1-8-trillion-valuation-11795138481055.html",
+     "source": "mint - markets",
+     "published": "2026-11-20T01:51:55+00:00",
+     "summary": "AI company Anthropic has launched a massive IPO on the Nasdaq, reaching a valuation of approximately $1.8 trillion after raising $81.3 billion.",
+     "explain": "An IPO, or Initial Public Offering, is when a private company sells shares to the public for the first time to raise capital. Anthropic's entry into the stock market is significant due to its massive valuation, which reflects high investor confidence in the future of artificial intelligence. Investors look at these valuations to determine if a company is truly worth its price based on potential future earnings.",
+     "related": [
+      {
+       "date": "2026-11-11",
+       "title": "Anthropic targets $90 billion IPO at $1.4 trillion valuation",
+       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-targets-90-billion-ipo-at-1-4-trillion-valuation/articleshow/135721872.cms",
+       "source": "Markets-Economic Times"
+      }
+     ],
+     "story": {
+      "id": "markets-anthropic-s-massive-ipo-debut",
+      "title": "Anthropic's Massive IPO Debut",
+      "so_far": "Anthropic is a prominent AI research company founded by former OpenAI executives, known for its Claude line of language models. Its IPO is one of the largest in history, signaling significant investor appetite for AI infrastructure and technology as the industry moves toward commercial scaling.",
+      "timeline": [
+       {
+        "date": "2026-11-20",
+        "text": "Anthropic completed its public market debut, raising $81.3 billion and achieving a valuation near $1.8 trillion on its first day of trading.",
+        "link": "https://www.livemint.com/market/stock-market-news/anthropic-shares-soar-21-in-blockbuster-debut-can-the-ai-giant-justify-its-1-8-trillion-valuation-11795138481055.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-20",
+        "text": "Anthropic's stock opened at $111.50, significantly higher than its $83 IPO price, and the company has reiterated its focus on safe AI development.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/2-trillion-anthropic-soars-34-on-wall-street-debut/articleshow/136009222.cms",
+        "source": "Markets-Economic Times"
+       }
+      ]
+     }
+    },
+    {
+     "id": "61275d4b1376",
+     "title": "Anthropic shares surge 34% in Nasdaq debut, valuation hits $2 trillion",
+     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/2-trillion-anthropic-soars-34-on-wall-street-debut/articleshow/136009222.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-11-20T00:57:11+00:00",
+     "summary": "Anthropic's share price surged 34% during its first day on the Nasdaq, pushing its total market valuation to $2 trillion.",
+     "explain": "A stock market debut is the first day a company's shares are publicly traded. When shares open well above their initial price, it indicates high demand from investors. This is often driven by excitement about the company's prospects, though early volatility is common for large tech listings.",
+     "related": [
+      {
+       "date": "2026-11-10",
+       "title": "Anthropic sets IPO price band at $70-$78, targets valuation of up to $1.4 trillion",
+       "link": "https://www.livemint.com/market/ipo/anthropic-sets-ipo-price-band-at-70-78-targets-valuation-of-up-to-1-4-trillion-11794311891604.html",
+       "source": "mint - markets"
+      },
+      {
+       "date": "2026-11-11",
+       "title": "Anthropic targets $90 billion IPO at $1.4 trillion valuation",
+       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-targets-90-billion-ipo-at-1-4-trillion-valuation/articleshow/135721872.cms",
+       "source": "Markets-Economic Times"
+      }
+     ],
+     "story": {
+      "id": "markets-anthropic-s-massive-ipo-debut",
+      "title": "Anthropic's Massive IPO Debut",
+      "so_far": "Anthropic is a prominent AI research company founded by former OpenAI executives, known for its Claude line of language models. Its IPO is one of the largest in history, signaling significant investor appetite for AI infrastructure and technology as the industry moves toward commercial scaling.",
+      "timeline": [
+       {
+        "date": "2026-11-20",
+        "text": "Anthropic completed its public market debut, raising $81.3 billion and achieving a valuation near $1.8 trillion on its first day of trading.",
+        "link": "https://www.livemint.com/market/stock-market-news/anthropic-shares-soar-21-in-blockbuster-debut-can-the-ai-giant-justify-its-1-8-trillion-valuation-11795138481055.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-20",
+        "text": "Anthropic's stock opened at $111.50, significantly higher than its $83 IPO price, and the company has reiterated its focus on safe AI development.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/2-trillion-anthropic-soars-34-on-wall-street-debut/articleshow/136009222.cms",
+        "source": "Markets-Economic Times"
+       }
+      ]
+     }
+    },
     {
      "id": "983fa77be5f0",
      "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
@@ -1892,12 +2062,6 @@
       "title": "Bitcoin Long-term Market Outlook",
       "so_far": "Bitcoin is a decentralized digital currency often referred to as 'digital gold' due to its fixed supply. Investors debate its role in portfolios, with proponents citing its potential for high growth and detractors pointing to its extreme price volatility and lack of intrinsic industrial value.",
       "timeline": [
-       {
-        "date": "2026-11-16",
-        "text": "Bitcoin's price dipped following a period of attempted recovery from mid-July lows.",
-        "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
        {
         "date": "2026-11-16",
         "text": "Bitcoin dropped below $62,000 as investors shifted their attention to upcoming AI-sector earnings reports.",
@@ -1962,6 +2126,12 @@
         "date": "2026-11-19",
         "text": "Bitcoin volatility remains high, appearing unfazed by the fluctuating performance of new AI stock debuts.",
         "link": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-20",
+        "text": "BlackRock's IBIT experienced its largest-ever daily outflow as liquidity was redirected toward high-profile tech IPOs.",
+        "link": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News"
        }
       ]
@@ -2006,10 +2176,93 @@
       "timeline": [
        {
         "date": "2026-11-16",
-        "text": "Bitcoin's price dipped following a period of attempted recovery from mid-July lows.",
-        "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
+        "text": "Bitcoin dropped below $62,000 as investors shifted their attention to upcoming AI-sector earnings reports.",
+        "link": "https://cointelegraph.com/markets/btc-price-18-week-low-nvidia-three-things-know-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-17",
+        "text": "BlackRock's Bitcoin ETF recorded a net inflow after 11 consecutive days of withdrawals totaling $2.35 billion.",
+        "link": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-17",
+        "text": "Short-term Bitcoin holders recorded their highest realized losses since February as the price dropped to $62,000.",
+        "link": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-17",
+        "text": "Bitcoin price is stabilizing around $64,000 amid broader tech sector hesitation before a key chip-maker's earnings disclosure.",
+        "link": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
        },
+       {
+        "date": "2026-11-17",
+        "text": "Bitcoin hit local lows near $63,000 as traders prepared for heightened volatility linked to Nvidia's Q3 performance.",
+        "link": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-18",
+        "text": "Bitcoin prices steadied near the $60,000 level after Nvidia's earnings report provided a boost to broader tech markets.",
+        "link": "https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-18",
+        "text": "Bitcoin saw a price decline as investors pivoted toward traditional tech stocks ahead of Nvidia's Q3 earnings release.",
+        "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-11-19",
+        "text": "Investor appetite for Bitcoin is waning, evidenced by ETF outflows amid broader market shifts.",
+        "link": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-11-19",
+        "text": "Bitcoin price volatility continues as investors pivot between crypto and the highly anticipated Anthropic public debut.",
+        "link": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-19",
+        "text": "Higher interest rates are creating financial hurdles for companies attempting to expand their Bitcoin treasury holdings.",
+        "link": "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-19",
+        "text": "Bitcoin volatility remains high, appearing unfazed by the fluctuating performance of new AI stock debuts.",
+        "link": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-20",
+        "text": "BlackRock's IBIT experienced its largest-ever daily outflow as liquidity was redirected toward high-profile tech IPOs.",
+        "link": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "840097d362d0",
+     "title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
+     "link": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph.com News",
+     "published": "2026-11-20T08:18:42+00:00",
+     "summary": "BlackRock’s Bitcoin ETF (IBIT) saw record outflows of $541 million as market participants shifted capital away from crypto during the Anthropic IPO.",
+     "explain": "IBIT is an Exchange-Traded Fund (ETF) that tracks the price of Bitcoin. When investors sell their shares in the ETF, it results in an 'outflow,' which can signal waning interest or a move toward other assets like newly listed tech stocks. This reflects the broader trend of money rotating into new, high-growth investment opportunities.",
+     "related": [],
+     "story": {
+      "id": "markets-bitcoin-long-term-market-outlook",
+      "title": "Bitcoin Long-term Market Outlook",
+      "so_far": "Bitcoin is a decentralized digital currency often referred to as 'digital gold' due to its fixed supply. Investors debate its role in portfolios, with proponents citing its potential for high growth and detractors pointing to its extreme price volatility and lack of intrinsic industrial value.",
+      "timeline": [
        {
         "date": "2026-11-16",
         "text": "Bitcoin dropped below $62,000 as investors shifted their attention to upcoming AI-sector earnings reports.",
@@ -2075,396 +2328,104 @@
         "text": "Bitcoin volatility remains high, appearing unfazed by the fluctuating performance of new AI stock debuts.",
         "link": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "af113bb75b07",
-     "title": "Offshore Chinese Yuan Drops to Weakest Level in Over a Month",
-     "link": "https://www.livemint.com/market/offshore-chinese-yuan-drops-to-weakest-level-in-over-a-month-11795114293193.html",
-     "source": "mint - markets",
-     "published": "2026-11-19T18:51:32+00:00",
-     "summary": "The offshore Chinese yuan has weakened to a one-month low as the US dollar strengthens amid diminishing global risk appetite.",
-     "explain": "The 'offshore' yuan refers to the currency traded outside of mainland China, often used as a benchmark for how international markets view China's economy. A weaker yuan makes Chinese exports cheaper but can signal investor concerns about China's economic stability.",
-     "related": [],
-     "story": {
-      "id": "markets-global-currency-market-trends",
-      "title": "Global Currency Market Trends",
-      "so_far": "The value of currencies like the yuan is influenced by national economic health and global trade sentiment. When investors lose 'risk appetite,' they often sell assets in emerging markets or currencies considered riskier and move capital into the US dollar, which is viewed as a safer, more stable store of value.",
-      "timeline": [
-       {
-        "date": "2026-11-14",
-        "text": "The Dollar Index (DXY) has risen to 103-104, pressuring commodity prices.",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/base-metals-lose-momentum-amid-strong-dollar-and-demand-concerns/articleshow/135827655.cms",
-        "source": "Markets-Economic Times"
        },
        {
-        "date": "2026-11-16",
-        "text": "Gold prices are rising as investors await central bank commentary regarding future interest rate paths.",
-        "link": "https://www.livemint.com/market/gold-edges-higher-as-investors-await-warsh-remarks-for-rate-signals-11794792432423.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-16",
-        "text": "Japan's economic growth slowed, but the currency remains relatively stable as global markets digest the new data.",
-        "link": "https://www.livemint.com/market/yen-steady-against-euro-and-dollar-after-soft-japanese-gdp-data-11794791270301.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-16",
-        "text": "Foreign investors poured nearly $10 billion into Indian equities in November, helping the rupee stabilize against the dollar.",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-volatility-ebbs-as-equity-inflows-blunt-global-headwinds/articleshow/135883543.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-11-17",
-        "text": "The dollar index surged to 103.66 as market participants brace for potential interest rate hikes, which has pressured other currencies like the Australian dollar.",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/us-dollar-hits-19-month-peak-on-fed-hike-bets-aussie-dips/articleshow/135907267.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-11-17",
-        "text": "Gold continues to face downward pressure as the strength of the US dollar makes the precious metal less attractive compared to interest-bearing assets.",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-hovers-near-over-one-year-low-as-firm-dollar-fed-hike-bets-weigh/articleshow/135907217.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-11-18",
-        "text": "The US dollar strengthened due to expectations of continued interest rate hikes by the Federal Reserve.",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-holds-near-19-month-high-as-data-supports-case-for-us-rate-hikes/articleshow/135945560.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-11-18",
-        "text": "Gold prices dropped to their lowest levels since October 2025 as the Federal Reserve signaled more potential rate hikes.",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-over-one-year-low-ahead-of-fed-minutes/articleshow/135945512.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-11-18",
-        "text": "Both Bitcoin and gold are facing downward pressure as the market prices in a likely U.S. Federal Reserve interest rate hike.",
-        "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "Gold prices rose 0.6% as investors weigh the likelihood of a 25-basis-point US interest rate hike in December.",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-recovers-from-one-year-low-as-markets-assess-fed-rate-outlook/articleshow/135975129.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "FOMC minutes indicate a stronger consensus for interest rate hikes than previously suggested by recent votes, pushing markets to price in a December increase.",
-        "link": "https://cointelegraph.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "The offshore Chinese yuan hit a one-month low as investors seek the safety of the US dollar.",
-        "link": "https://www.livemint.com/market/offshore-chinese-yuan-drops-to-weakest-level-in-over-a-month-11795114293193.html",
-        "source": "mint - markets"
-       }
-      ]
-     }
-    },
-    {
-     "id": "27a8898733d8",
-     "title": "Oil prices inch up as tanker disruptions offset surplus supply outlook",
-     "link": "https://www.livemint.com/market/oil-prices-inch-up-as-tanker-disruptions-offset-surplus-supply-outlook-11795113669203.html",
-     "source": "mint - markets",
-     "published": "2026-11-19T18:41:08+00:00",
-     "summary": "Oil prices saw slight gains as supply chain disruptions, specifically tanker issues, outweighed concerns about a potential surplus.",
-     "explain": "Tanker disruptions mean that even if there is enough oil being produced, it cannot reach its destination efficiently. This increases transport costs and limits supply in certain regions, causing the price of oil to rise.",
-     "related": [
-      {
-       "date": "2026-11-17",
-       "title": "Oil slips on supply surplus outlook despite Gulf tensions",
-       "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-slips-on-supply-surplus-outlook-despite-gulf-tensions/articleshow/135907255.cms",
-       "source": "Markets-Economic Times"
-      }
-     ],
-     "story": {
-      "id": "markets-global-oil-market-dynamics",
-      "title": "Global Oil Market Dynamics",
-      "so_far": "Oil prices are driven by the balance of supply and demand. Supply can be impacted by OPEC production quotas, geopolitical instability, and logistics—such as the movement of tankers through key shipping routes. When logistical 'disruptions' occur, it creates localized supply shortages that can drive prices up despite overall market abundance.",
-      "timeline": [
-       {
-        "date": "2026-11-19",
-        "text": "Oil prices increased slightly due to logistical disruptions in shipping.",
-        "link": "https://www.livemint.com/market/oil-prices-inch-up-as-tanker-disruptions-offset-surplus-supply-outlook-11795113669203.html",
-        "source": "mint - markets"
-       }
-      ]
-     }
-    },
-    {
-     "id": "076c12cfeef1",
-     "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
-     "link": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph.com News",
-     "published": "2026-11-19T18:20:49+00:00",
-     "summary": "Ethereum's planned 'Glamsterdam' network upgrade may be delayed until May 2027 to address compatibility risks with existing smart contracts.",
-     "explain": "A smart contract is a piece of code on the blockchain that automatically performs actions when certain conditions are met. 'Gas pricing' refers to the fees users pay to process transactions on the Ethereum network; changing these fees can disrupt how those automated smart contracts function.",
-     "related": [],
-     "story": {
-      "id": "markets-ethereum-network-upgrade-delays",
-      "title": "Ethereum Network Upgrade Delays",
-      "so_far": "Ethereum periodically undergoes major 'upgrades' to improve network speed, security, and costs. Because Ethereum supports thousands of applications (DApps) through smart contracts, any change to its underlying code must be rigorously tested to ensure existing applications do not break or lose data.",
-      "timeline": [
-       {
-        "date": "2026-11-19",
-        "text": "Ethereum developers are considering postponing the Glamsterdam upgrade to May 2027 to prevent technical bugs.",
-        "link": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "date": "2026-11-20",
+        "text": "BlackRock's IBIT experienced its largest-ever daily outflow as liquidity was redirected toward high-profile tech IPOs.",
+        "link": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News"
        }
       ]
      }
     },
     {
-     "id": "710daf795c43",
-     "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
-     "link": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
+     "id": "8a45b62db409",
+     "title": "Gold price crash: Muthoot Finance, Manappuram shares lose sheen, down up to 5% | Is gold heading for deeper correction?",
+     "link": "https://www.livemint.com/market/stock-market-news/gold-price-crash-muthoot-finance-manappuram-shares-lose-sheen-down-up-to-5-is-gold-heading-for-deeper-correction-11795161489903.html",
+     "source": "mint - markets",
+     "published": "2026-11-20T08:09:00+00:00",
+     "summary": "Shares of Muthoot Finance and Manappuram Finance fell following a decline in global gold prices, which hit a one-year low.",
+     "explain": "Gold loan lenders offer immediate cash to borrowers in exchange for pledged gold. When the market price of gold drops, the loan-to-value ratio changes, making the loans riskier for the lender. Investors sell these stocks out of fear that lower gold prices will hurt the companies' margins and loan recovery efforts.",
+     "related": [],
+     "story": {
+      "id": "markets-gold-price-decline-impacting-lenders",
+      "title": "Gold Price Decline Impacting Lenders",
+      "so_far": "Gold loan companies in India provide credit to consumers by taking gold jewelry as collateral. These firms are highly sensitive to the market price of gold; if gold prices drop, the value of the collateral backing their loans also decreases, which can lead to higher default risks and lower profitability.",
+      "timeline": [
+       {
+        "date": "2026-11-20",
+        "text": "Gold loan companies are facing market pressure as the US dollar strengthens and expectations for US interest rate hikes weigh on gold prices.",
+        "link": "https://www.livemint.com/market/stock-market-news/gold-price-crash-muthoot-finance-manappuram-shares-lose-sheen-down-up-to-5-is-gold-heading-for-deeper-correction-11795161489903.html",
+        "source": "mint - markets"
+       }
+      ]
+     }
+    },
+    {
+     "id": "7d9e49666202",
+     "title": "Wrapped Monero token plunges 99% as issuer-linked wallet sells $13.5 million",
+     "link": "https://www.coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million",
      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
-     "published": "2026-11-19T18:15:56+00:00",
-     "summary": "A potential SEC appointee under the Trump administration has indicated that the regulation of tokenized stocks should follow a formal, full-rule process.",
-     "explain": "A 'full rule process' means that instead of regulators handling these issues on a case-by-case basis, they would create official, permanent legal guidelines that all companies must follow. This suggests that tokenized stock platforms may face more formal, standardized oversight in the near future.",
+     "published": "2026-11-20T08:04:40+00:00",
+     "summary": "The value of a 'wrapped' Monero token crashed by 99% following a large sale from a wallet linked to its issuer.",
+     "explain": "A 'wrapped' token is essentially a digital receipt that allows you to use a cryptocurrency on a network where it doesn't normally function. If the issuer of that receipt sells off their reserves or loses control, the link to the original asset breaks, causing the token's value to plummet.",
      "related": [],
      "story": {
-      "id": "markets-opposition-to-okx-ice-tokenized-stock-pl",
-      "title": "Opposition to OKX-ICE Tokenized Stock Platform",
-      "so_far": "Tokenized stocks are blockchain tokens representing ownership of real shares, often operating in a regulatory gray area. Regulators like the SEC (Securities and Exchange Commission) are tasked with deciding whether these fall under existing securities laws, which would require strict oversight to prevent fraud and market manipulation.",
+      "id": "markets-wrapped-token-market-volatility",
+      "title": "Wrapped Token Market Volatility",
+      "so_far": "Wrapped tokens are tokens on one blockchain (like Ethereum) that are meant to represent the value of a token on a different blockchain (like Monero). They rely on 'bridges' or custodial services to maintain a 1:1 value ratio, making them susceptible to technical failures, mismanagement, or fraud.",
       "timeline": [
        {
-        "date": "2026-10-20",
-        "text": "Roughly 25% of the companies included in the platform's proposal are moving to opt-out of the service.",
-        "link": "https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-10-20",
-        "text": "Goldman Sachs has joined the growing list of major firms seeking to block the platform from using their equities.",
-        "link": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-10-26",
-        "text": "Securitize's tokenized stock value halved to $208.6 million as the broader tokenized equities market reached $3.3 billion.",
-        "link": "https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-11",
-        "text": "Kraken is scaling its tokenized stock offerings by adding hundreds of new global equities.",
-        "link": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "A potential future SEC official advocates for a full regulatory rule-making process for tokenized assets.",
-        "link": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
+        "date": "2026-11-20",
+        "text": "A $13.5 million sell-off by an issuer-linked wallet triggered a nearly total collapse in the price of the wrapped Monero token.",
+        "link": "https://www.coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
        }
       ]
      }
     },
     {
-     "id": "e62f432a5bcc",
-     "title": "AMD shares slide 8% as report says China links could invite US scrutiny",
-     "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/amd-shares-slide-8-as-report-says-china-links-could-invite-us-scrutiny/articleshow/136002141.cms",
-     "source": "Markets-Economic Times",
-     "published": "2026-11-19T18:13:12+00:00",
-     "summary": "AMD shares fell by 8% following reports that its firmware is used by blacklisted Chinese firms, raising concerns of US regulatory action.",
-     "explain": "Firmware is low-level software that controls hardware devices. If AMD's firmware is found in hardware owned by companies on the US government's blacklist, it can lead to investigations or bans, which scares investors who fear AMD will lose its ability to sell products in important global markets.",
-     "related": [],
-     "story": {
-      "id": "markets-amd-regulatory-scrutiny",
-      "title": "AMD Regulatory Scrutiny",
-      "so_far": "AMD is a major US semiconductor company. The US government frequently places export controls on technology companies to prevent advanced chips and software from reaching Chinese entities that might use them for military or intelligence purposes, creating significant business risks for US firms.",
-      "timeline": [
-       {
-        "date": "2026-11-19",
-        "text": "AMD's stock dropped following reports of business ties to restricted Chinese entities.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/amd-shares-slide-8-as-report-says-china-links-could-invite-us-scrutiny/articleshow/136002141.cms",
-        "source": "Markets-Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "71a3a8de7dc6",
-     "title": "Why higher rates could slow Bitcoin buying at treasury firms",
-     "link": "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "id": "d822a1b6dd4a",
+     "title": "SEC charges eight firms over fake crypto platforms tied to $37M fraud",
+     "link": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph.com News",
-     "published": "2026-11-19T18:09:32+00:00",
-     "summary": "Rising interest rates may discourage companies with treasury holdings from using their capital to purchase more Bitcoin.",
-     "explain": "A 'treasury' is the pool of cash and assets a company keeps on hand. When interest rates are high, a company can earn more money by keeping that cash in safe, interest-bearing accounts (like bonds or certificates of deposit) rather than spending it on a volatile asset like Bitcoin, which does not pay interest.",
+     "published": "2026-11-20T08:03:34+00:00",
+     "summary": "The SEC has charged eight firms for orchestrating a $37 million fraud involving fake cryptocurrency platforms.",
+     "explain": "The SEC works to ensure fair and transparent markets. This action highlights the ongoing battle against 'scam' exchanges that use social media and fake credentials to lure people into investing in non-existent or fraudulent crypto projects.",
      "related": [],
      "story": {
-      "id": "markets-bitcoin-long-term-market-outlook",
-      "title": "Bitcoin Long-term Market Outlook",
-      "so_far": "Bitcoin is a decentralized digital currency often referred to as 'digital gold' due to its fixed supply. Investors debate its role in portfolios, with proponents citing its potential for high growth and detractors pointing to its extreme price volatility and lack of intrinsic industrial value.",
+      "id": "markets-sec-crackdown-on-crypto-fraud",
+      "title": "SEC Crackdown on Crypto Fraud",
+      "so_far": "The Securities and Exchange Commission (SEC) is the primary US regulator for investment activities. It has recently increased its oversight of the cryptocurrency sector to combat deceptive practices and unregistered securities offerings that exploit retail investors.",
       "timeline": [
        {
-        "date": "2026-11-16",
-        "text": "Bitcoin's price dipped following a period of attempted recovery from mid-July lows.",
-        "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-11-16",
-        "text": "Bitcoin dropped below $62,000 as investors shifted their attention to upcoming AI-sector earnings reports.",
-        "link": "https://cointelegraph.com/markets/btc-price-18-week-low-nvidia-three-things-know-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-17",
-        "text": "BlackRock's Bitcoin ETF recorded a net inflow after 11 consecutive days of withdrawals totaling $2.35 billion.",
-        "link": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-17",
-        "text": "Short-term Bitcoin holders recorded their highest realized losses since February as the price dropped to $62,000.",
-        "link": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-17",
-        "text": "Bitcoin price is stabilizing around $64,000 amid broader tech sector hesitation before a key chip-maker's earnings disclosure.",
-        "link": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-11-17",
-        "text": "Bitcoin hit local lows near $63,000 as traders prepared for heightened volatility linked to Nvidia's Q3 performance.",
-        "link": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-18",
-        "text": "Bitcoin prices steadied near the $60,000 level after Nvidia's earnings report provided a boost to broader tech markets.",
-        "link": "https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-18",
-        "text": "Bitcoin saw a price decline as investors pivoted toward traditional tech stocks ahead of Nvidia's Q3 earnings release.",
-        "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "Investor appetite for Bitcoin is waning, evidenced by ETF outflows amid broader market shifts.",
-        "link": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "Bitcoin price volatility continues as investors pivot between crypto and the highly anticipated Anthropic public debut.",
-        "link": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "Higher interest rates are creating financial hurdles for companies attempting to expand their Bitcoin treasury holdings.",
-        "link": "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "Bitcoin volatility remains high, appearing unfazed by the fluctuating performance of new AI stock debuts.",
-        "link": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "date": "2026-11-20",
+        "text": "Regulators filed charges against eight entities for using misleading social media tactics and forged SEC filings to deceive investors.",
+        "link": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News"
        }
       ]
      }
     },
     {
-     "id": "e71ee57af204",
-     "title": "Bitcoin price ignores Anthropic debut as ANT share price dips below $100",
-     "link": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph.com News",
-     "published": "2026-11-19T18:06:50+00:00",
-     "summary": "Bitcoin prices retested $62,000 as AI company Anthropic saw its shares drop below $100 after an initial spike.",
-     "explain": "A 'retest' in technical analysis is when an asset's price returns to a level it previously hit to see if it will bounce back up or fall further. The fact that Bitcoin is retesting $62,000 suggests that $62,000 is a critical support level—a price point where buying demand has historically stepped in to prevent the price from dropping further.",
+     "id": "1d0704ced5c8",
+     "title": "Urban Company shares dip 4% after ₹2,500 crore fundraising; opportunity to buy on the dip? Target, stop-loss",
+     "link": "https://www.livemint.com/market/stock-market-news/urban-company-shares-dip-4-after-rs-2-500-crore-fundraising-opportunity-to-buy-on-the-dip-target-stoploss-11795160058174.html",
+     "source": "mint - markets",
+     "published": "2026-11-20T07:59:38+00:00",
+     "summary": "Urban Company shares declined 4% following a successful ₹2,500 crore fundraising round.",
+     "explain": "A QIP is a way for listed companies to raise money from large institutional investors like banks or mutual funds. Even if a fundraising event is successful, share prices can dip if investors are worried about how the company plans to spend the money or if the market conditions generally favor caution.",
      "related": [],
      "story": {
-      "id": "markets-bitcoin-long-term-market-outlook",
-      "title": "Bitcoin Long-term Market Outlook",
-      "so_far": "Bitcoin is a decentralized digital currency often referred to as 'digital gold' due to its fixed supply. Investors debate its role in portfolios, with proponents citing its potential for high growth and detractors pointing to its extreme price volatility and lack of intrinsic industrial value.",
+      "id": "markets-urban-company-capital-expansion",
+      "title": "Urban Company Capital Expansion",
+      "so_far": "Urban Company is an Indian tech-enabled service platform that connects users with professionals for home services. Capital raises, such as a Qualified Institutional Placement (QIP), allow companies to fund expansion, though the market often reacts to the dilution of existing shares or concerns about short-term profitability.",
       "timeline": [
        {
-        "date": "2026-11-16",
-        "text": "Bitcoin's price dipped following a period of attempted recovery from mid-July lows.",
-        "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-11-16",
-        "text": "Bitcoin dropped below $62,000 as investors shifted their attention to upcoming AI-sector earnings reports.",
-        "link": "https://cointelegraph.com/markets/btc-price-18-week-low-nvidia-three-things-know-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-17",
-        "text": "BlackRock's Bitcoin ETF recorded a net inflow after 11 consecutive days of withdrawals totaling $2.35 billion.",
-        "link": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-17",
-        "text": "Short-term Bitcoin holders recorded their highest realized losses since February as the price dropped to $62,000.",
-        "link": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-17",
-        "text": "Bitcoin price is stabilizing around $64,000 amid broader tech sector hesitation before a key chip-maker's earnings disclosure.",
-        "link": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-11-17",
-        "text": "Bitcoin hit local lows near $63,000 as traders prepared for heightened volatility linked to Nvidia's Q3 performance.",
-        "link": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-18",
-        "text": "Bitcoin prices steadied near the $60,000 level after Nvidia's earnings report provided a boost to broader tech markets.",
-        "link": "https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-18",
-        "text": "Bitcoin saw a price decline as investors pivoted toward traditional tech stocks ahead of Nvidia's Q3 earnings release.",
-        "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "Investor appetite for Bitcoin is waning, evidenced by ETF outflows amid broader market shifts.",
-        "link": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "Bitcoin price volatility continues as investors pivot between crypto and the highly anticipated Anthropic public debut.",
-        "link": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "Higher interest rates are creating financial hurdles for companies attempting to expand their Bitcoin treasury holdings.",
-        "link": "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "Bitcoin volatility remains high, appearing unfazed by the fluctuating performance of new AI stock debuts.",
-        "link": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
+        "date": "2026-11-20",
+        "text": "Despite high interest from investors during a ₹2,500 crore fundraising round, the stock price dropped, highlighting market caution.",
+        "link": "https://www.livemint.com/market/stock-market-news/urban-company-shares-dip-4-after-rs-2-500-crore-fundraising-opportunity-to-buy-on-the-dip-target-stoploss-11795160058174.html",
+        "source": "mint - markets"
        }
       ]
      }
