@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-21T17:42:26.073975+00:00",
- "prices_generated": "2026-11-21T22:40:57.904816+00:00",
+ "generated": "2026-11-22T08:35:21.045191+00:00",
+ "prices_generated": "2026-11-22T08:35:21.045191+00:00",
  "ai": "gemini",
- "pulse": "Indian markets rose sharply today, likely driven by positive domestic sentiment and strong financial sector performance. In contrast, US indices saw significant declines as the recent market rally stalled, possibly reflecting investor uncertainty following new legislative developments. Meanwhile, cryptocurrencies gained ground, while commodities like gold and silver faced a notable pullback.",
+ "pulse": "Indian markets closed with strong gains today, likely fueled by domestic optimism and positive corporate announcements like infrastructure expansion plans. Conversely, US markets experienced significant declines, possibly due to a major AI-sector selloff and growing investor anxiety regarding future Federal Reserve interest rate policies. In other markets, gold and silver saw sharp price drops as investors pulled back, while Bitcoin remained relatively stable amidst the broader volatility.",
  "ticker_strip": [
   "^NSEI",
   "^BSESN",
@@ -52,6 +52,39 @@
   "MSFT"
  ],
  "quotes": {
+  "^NSEI": {
+   "symbol": "^NSEI",
+   "name": "Nifty 50",
+   "price": 25800.5996,
+   "change": 286.2988,
+   "pct": 1.12,
+   "pct_1m": 13.1,
+   "spark": [
+    22811.3496,
+    22687.6504,
+    22600.0,
+    22753.1992,
+    22749.75,
+    22698.8496,
+    22936.75,
+    23053.0996,
+    23440.8008,
+    23810.8496,
+    23960.5996,
+    24536.5996,
+    25030.3496,
+    25044.6504,
+    25255.0508,
+    25299.3496,
+    25144.3008,
+    25291.0996,
+    25387.4004,
+    25227.9492,
+    25514.3008,
+    25800.5996
+   ],
+   "asof": "2026-11-20"
+  },
   "^BSESN": {
    "symbol": "^BSESN",
    "name": "Sensex",
@@ -223,12 +256,11 @@
   "BTC-USD": {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 60060.1211,
-   "change": 1261.1406,
-   "pct": 2.14,
-   "pct_1m": -28.51,
+   "price": 60143.9805,
+   "change": 49.8906,
+   "pct": 0.08,
+   "pct_1m": -26.03,
    "spark": [
-    84011.9688,
     81311.8906,
     81074.1875,
     80790.8359,
@@ -259,19 +291,19 @@
     62987.2656,
     61901.8203,
     58798.9805,
-    60060.1211
+    60094.0898,
+    60143.9805
    ],
-   "asof": "2026-11-21"
+   "asof": "2026-11-22"
   },
   "ETH-USD": {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 1676.65,
-   "change": 57.2179,
-   "pct": 3.53,
-   "pct_1m": -32.14,
+   "price": 1693.1,
+   "change": 10.8954,
+   "pct": 0.65,
+   "pct_1m": -29.05,
    "spark": [
-    2470.7661,
     2386.1892,
     2384.0774,
     2355.9536,
@@ -302,19 +334,19 @@
     1774.7491,
     1755.1898,
     1619.4321,
-    1676.65
+    1682.2046,
+    1693.1
    ],
-   "asof": "2026-11-21"
+   "asof": "2026-11-22"
   },
   "SOL-USD": {
    "symbol": "SOL-USD",
    "name": "Solana",
-   "price": 69.92,
-   "change": 1.1725,
-   "pct": 1.71,
-   "pct_1m": -34.53,
+   "price": 70.05,
+   "change": -0.1652,
+   "pct": -0.24,
+   "pct_1m": -32.35,
    "spark": [
-    106.7937,
     103.5423,
     102.7799,
     102.2717,
@@ -345,9 +377,10 @@
     73.6228,
     73.066,
     68.7475,
-    69.92
+    70.2152,
+    70.05
    ],
-   "asof": "2026-11-21"
+   "asof": "2026-11-22"
   },
   "USDINR=X": {
    "symbol": "USDINR=X",
@@ -382,7 +415,7 @@
     93.295,
     92.67
    ],
-   "asof": "2026-11-21"
+   "asof": "2026-11-22"
   },
   "EURINR=X": {
    "symbol": "EURINR=X",
@@ -417,7 +450,7 @@
     102.264,
     101.6127
    ],
-   "asof": "2026-11-21"
+   "asof": "2026-11-22"
   },
   "EURUSD=X": {
    "symbol": "EURUSD=X",
@@ -486,7 +519,7 @@
     122.0962,
     121.2309
    ],
-   "asof": "2026-11-21"
+   "asof": "2026-11-22"
   },
   "GC=F": {
    "symbol": "GC=F",
@@ -494,9 +527,8 @@
    "price": 3515.3999,
    "change": -170.1001,
    "pct": -4.62,
-   "pct_1m": -15.29,
+   "pct_1m": -13.42,
    "spark": [
-    4150.0,
     4060.3999,
     4007.8999,
     4038.3999,
@@ -525,12 +557,11 @@
   "SI=F": {
    "symbol": "SI=F",
    "name": "Silver",
-   "price": 41.035,
-   "change": -3.283,
-   "pct": -7.41,
-   "pct_1m": -28.54,
+   "price": 41.07,
+   "change": -3.248,
+   "pct": -7.33,
+   "pct_1m": -25.01,
    "spark": [
-    57.422,
     54.764,
     53.711,
     54.108,
@@ -552,19 +583,18 @@
     47.288,
     44.999,
     44.318,
-    41.035
+    41.07
    ],
    "asof": "2026-11-20"
   },
   "CL=F": {
    "symbol": "CL=F",
    "name": "WTI Crude",
-   "price": 83.98,
-   "change": 0.77,
-   "pct": 0.93,
-   "pct_1m": -13.56,
+   "price": 83.41,
+   "change": 0.2,
+   "pct": 0.24,
+   "pct_1m": -16.15,
    "spark": [
-    97.15,
     99.47,
     103.27,
     101.76,
@@ -586,19 +616,18 @@
     86.01,
     83.26,
     83.21,
-    83.98
+    83.41
    ],
    "asof": "2026-11-20"
   },
   "BZ=F": {
    "symbol": "BZ=F",
    "name": "Brent Crude",
-   "price": 92.57,
-   "change": 0.59,
-   "pct": 0.64,
-   "pct_1m": -14.93,
+   "price": 89.95,
+   "change": -2.03,
+   "pct": -2.21,
+   "pct_1m": -20.52,
    "spark": [
-    108.82,
     113.17,
     116.72,
     115.81,
@@ -620,7 +649,7 @@
     93.14,
     91.95,
     91.98,
-    92.57
+    89.95
    ],
    "asof": "2026-11-20"
   },
@@ -857,39 +886,6 @@
     484.52
    ],
    "asof": "2026-11-20"
-  },
-  "^NSEI": {
-   "symbol": "^NSEI",
-   "name": "Nifty 50",
-   "price": 25800.5996,
-   "change": 286.2988,
-   "pct": 1.12,
-   "pct_1m": 13.1,
-   "spark": [
-    22811.3496,
-    22687.6504,
-    22600.0,
-    22753.1992,
-    22749.75,
-    22698.8496,
-    22936.75,
-    23053.0996,
-    23440.8008,
-    23810.8496,
-    23960.5996,
-    24536.5996,
-    25030.3496,
-    25044.6504,
-    25255.0508,
-    25299.3496,
-    25144.3008,
-    25291.0996,
-    25387.4004,
-    25227.9492,
-    25514.3008,
-    25800.5996
-   ],
-   "asof": "2026-11-20"
   }
  },
  "mutual_funds": [
@@ -981,230 +977,327 @@
    "label": "India",
    "articles": [
     {
-     "id": "a8ad1861b2d9",
-     "title": "Odisha government orders inquiry into foreign visits by former CM Naveen Patnaik, aide Pandian",
-     "link": "https://www.thehindu.com/news/national/odisha/odisha-government-orders-inquiry-into-foreign-visits-by-former-cm-naveen-patnaik-aide-pandian/article71729218.ece",
+     "id": "0e96ca18586e",
+     "title": "Over 100 children, 12 adults hospitalised after eating ‘chowmein’ at village fair in Madhya Pradesh",
+     "link": "https://www.thehindu.com/news/national/madhya-pradesh/over-100-children-12-adults-hospitalised-after-eating-chowmein-at-village-fair-in-madhya-pradesh/article71730680.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-21T17:35:50+00:00",
-     "summary": "The Odisha government has initiated an inquiry into the foreign visits of former Chief Minister Naveen Patnaik and his aide V.K. Pandian. Social activists raised concerns over incomplete and opaque responses to Right to Information (RTI) requests regarding these trips to Japan and Italy.",
-     "explain": "The Right to Information (RTI) is a law that allows Indian citizens to request documents and information from government bodies to ensure transparency. An inquiry is an official investigation conducted by the state to determine if there was any misuse of public funds or authority by former officials. This matters because it sets a precedent for how incoming governments hold their predecessors accountable.",
+     "published": "2026-11-22T08:23:58+00:00",
+     "summary": "Over 100 people, mostly children, were hospitalized after consuming food at a village fair in Madhya Pradesh's Balaghat district. Local authorities have launched an investigation into the suspected food poisoning incident.",
+     "explain": "Food poisoning is an illness caused by eating food contaminated with bacteria, viruses, or parasites. In the context of village fairs or large public events, lack of refrigeration and improper food handling can lead to rapid spread among attendees. Authorities usually test food samples to determine the cause and hold vendors accountable if health safety codes were violated.",
      "related": [],
      "story": {
-      "id": "india-odisha-official-conduct-inquiry",
-      "title": "Odisha Official Conduct Inquiry",
-      "so_far": "Following the transition of power in Odisha, the new administration has begun scrutinizing the actions and financial records of the previous leadership. This follows public scrutiny and legal complaints regarding transparency and the use of state resources during the tenure of the previous administration.",
+      "id": "india-madhya-pradesh-village-food-poisoning",
+      "title": "Madhya Pradesh Village Food Poisoning",
+      "so_far": "Incidents of mass food poisoning at large community gatherings in India are often linked to poor hygiene standards at informal food stalls or contaminated water supplies. Local health departments typically investigate these events to identify the source of contamination, which often involves pathogens like E. coli or Salmonella.",
       "timeline": [
        {
-        "date": "2026-11-21",
-        "text": "The Odisha government has initiated an inquiry into the foreign visits of former Chief Minister Naveen Patnaik and his aide V.K. Pandian. Social activists raised concerns over incomplete and opaque responses to Right to Information (RTI) requests regarding these trips to Japan and Italy.",
-        "link": "https://www.thehindu.com/news/national/odisha/odisha-government-orders-inquiry-into-foreign-visits-by-former-cm-naveen-patnaik-aide-pandian/article71729218.ece",
+        "date": "2026-11-22",
+        "text": "Over 100 people, mostly children, were hospitalized after consuming food at a village fair in Madhya Pradesh's Balaghat district. Local authorities have launched an investigation into the suspected food poisoning incident.",
+        "link": "https://www.thehindu.com/news/national/madhya-pradesh/over-100-children-12-adults-hospitalised-after-eating-chowmein-at-village-fair-in-madhya-pradesh/article71730680.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "cb1fb82871db",
-     "title": "Amid cold wave, students’ indefinite strike against J&K recruitment board scam gathers steam",
-     "link": "https://www.thehindu.com/news/national/amid-cold-wave-students-indefinite-strike-against-jk-recruitment-board-scam-gathers-steam/article71729167.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-21T17:35:43+00:00",
-     "summary": "Students in Jammu and Kashmir are staging an indefinite strike protesting an alleged recruitment board scam. Despite the onset of a cold wave, protesters are demanding accountability in the selection process.",
-     "explain": "A recruitment board is the government agency responsible for hiring employees for public service roles. A recruitment scam usually involves unfair practices like leaking question papers or taking bribes for jobs, which ruins the chances of honest candidates. These protests are significant because they highlight the intense competition and frustration among young job seekers in India.",
+     "id": "e4f7e49aae46",
+     "title": "Delhi Cop Gets Rs 9 Lakh Aura Instead Of Rs 13 Lakh Brezza. He Cancels Wedding",
+     "link": "https://www.ndtv.com/india-news/delhi-cop-gets-rs-9-lakh-aura-instead-of-rs-13-lakh-brezza-he-cancels-wedding-12361414#publisher=newsstand",
+     "source": "NDTV News Search Records Found 1000",
+     "published": "2026-11-22T08:22:11+00:00",
+     "summary": "A Delhi police officer cancelled his daughter's wedding after alleging that the groom's family provided a different vehicle than the one promised as a dowry. The incident has resulted in a formal police complaint regarding the broken marriage agreement.",
+     "explain": "Dowry is the transfer of property, goods, or money from the bride's side to the groom's side as a condition of marriage. While the practice is illegal in India, it persists in many communities. Legal disputes often arise when parties fail to fulfill the terms of these arrangements, highlighting the ongoing tension between traditional societal practices and modern legal prohibitions.",
      "related": [],
      "story": {
-      "id": "india-j-k-recruitment-protests",
-      "title": "J&K Recruitment Protests",
-      "so_far": "Public trust in recruitment processes in Jammu and Kashmir has been strained by recurring allegations of exam paper leaks and systemic corruption. These issues often trigger civil unrest as youth, facing high unemployment, demand fair and merit-based hiring practices.",
+      "id": "india-dowry-dispute-and-wedding-cancellation",
+      "title": "Dowry Dispute and Wedding Cancellation",
+      "so_far": "Dowry remains a highly sensitive and legally contentious issue in India, despite being prohibited under the Dowry Prohibition Act of 1961. Disputes involving vehicles or cash payments as part of pre-wedding negotiations are common triggers for legal complaints and public social discourse.",
       "timeline": [
        {
-        "date": "2026-11-21",
-        "text": "Students in Jammu and Kashmir are staging an indefinite strike protesting an alleged recruitment board scam. Despite the onset of a cold wave, protesters are demanding accountability in the selection process.",
-        "link": "https://www.thehindu.com/news/national/amid-cold-wave-students-indefinite-strike-against-jk-recruitment-board-scam-gathers-steam/article71729167.ece",
+        "date": "2026-11-22",
+        "text": "A Delhi police officer cancelled his daughter's wedding after alleging that the groom's family provided a different vehicle than the one promised as a dowry. The incident has resulted in a formal police complaint regarding the broken marriage agreement.",
+        "link": "https://www.ndtv.com/india-news/delhi-cop-gets-rs-9-lakh-aura-instead-of-rs-13-lakh-brezza-he-cancels-wedding-12361414#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       }
+      ]
+     }
+    },
+    {
+     "id": "5379566a1422",
+     "title": "Man sentenced to 10 year rigorous imprisonment for raping home-alone woman",
+     "link": "https://www.thehindu.com/news/cities/Mangalore/man-sentenced-to-10-year-rigorous-imprisonment-for-raping-home-alone-woman/article71730701.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-22T08:21:31+00:00",
+     "summary": "A man named Anil Poojary was sentenced to 10 years in prison for the rape of a woman in Karnataka. He received additional time for criminal trespass and intimidation.",
+     "explain": "This story falls under legal proceedings regarding serious criminal convictions. In India, 'rigorous imprisonment' is a penalty that includes mandatory labor while incarcerated, meant to serve as a harsher punishment than simple imprisonment for grave crimes like sexual violence.",
+     "related": [],
+     "story": {
+      "id": "india-legal-relief-for-political-convicts",
+      "title": "Legal Relief for Political Convicts",
+      "so_far": "Tarun Tejpal, a prominent former journalist, was convicted of raping a colleague in 2013. He has been serving a 10-year prison sentence while appealing his conviction and while the state of Goa seeks to increase the length of his sentence.",
+      "timeline": [
+       {
+        "date": "2026-10-19",
+        "text": "The court stayed a conviction for a murder case, citing the individual's political background and intent to contest upcoming elections.",
+        "link": "https://www.thehindu.com/elections/uttar-pradesh-assembly/allahabad-high-court-stays-conviction-of-murder-convict-who-wishes-to-contest-2027-up-polls/article71603091.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-24",
+        "text": "The court overturned the prison authority's practice of forcing convicts to take their entire leave in a single block.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/life-convicts-can-avail-40-days-of-annual-leave-in-two-instalments-rules-madras-high-court/article71619647.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-06",
+        "text": "The Supreme Court refused to grant bail or suspend the sentence of journalist Tarun Tejpal.",
+        "link": "https://www.thehindu.com/news/national/supreme-court-refuses-to-suspend-tarun-tejpals-10-year-sentence-in-2013-rape-case/article71673809.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-06",
+        "text": "The Supreme Court is now awaiting a response from the Goa government concerning Tejpal's ongoing appeal.",
+        "link": "https://www.thehindu.com/news/national/supreme-court-seeks-goa-polices-response-on-tarun-tejpals-appeal-against-rape-case-conviction/article71507360.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-22",
+        "text": "A Karnataka man received a 10-year prison sentence following a conviction for rape and related criminal offenses.",
+        "link": "https://www.thehindu.com/news/cities/Mangalore/man-sentenced-to-10-year-rigorous-imprisonment-for-raping-home-alone-woman/article71730701.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "a3b5b25777e0",
-     "title": "Break free of limiting beliefs to achieve new heights: PM Modi at IIT Kharagpur",
-     "link": "https://www.thehindu.com/news/national/pm-modi-iit-kharagpur-bengal-updates-november-21-2026/article71727603.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-21T17:18:43+00:00",
-     "summary": "PM Modi visited IIT Kharagpur for its Platinum Jubilee, emphasizing the role of the institute in national development.",
-     "explain": "The Platinum Jubilee marks 75 years of the institution's founding. The Prime Minister's presence underscores the strategic importance of technology and education in the Indian government's vision for national progress.",
-     "related": [],
+     "id": "82288e7001ec",
+     "title": "CAT 2026 Exam Day Guidelines: Check Do's And Don'ts For Management Test",
+     "link": "https://www.ndtv.com/education/cat-2026-exam-day-guidelines-dos-and-donts-12361567#publisher=newsstand",
+     "source": "NDTV News Search Records Found 1000",
+     "published": "2026-11-22T08:18:34+00:00",
+     "summary": "The Common Admission Test (CAT) 2026 guidelines have been issued, requiring candidates to download admit cards and follow specific protocols for the exam day.",
+     "explain": "CAT is a critical exam for students pursuing a Master of Business Administration (MBA). Because the exam is taken by hundreds of thousands of students annually, strict logistical guidelines are enforced to maintain test integrity and ensure fair conditions for all participants.",
+     "related": [
+      {
+       "date": "2026-10-27",
+       "title": "NTA Revises 2026-27 Exam Calendar: Check Dates For Major Entrance Tests",
+       "link": "https://www.ndtv.com/education/nta-revises-2026-27-exam-calendar-check-dates-for-major-entrance-tests-12240435#publisher=newsstand",
+       "source": "NDTV News Search Records Found 1000"
+      }
+     ],
      "story": {
-      "id": "india-iit-kharagpur-platinum-jubilee",
-      "title": "IIT Kharagpur Platinum Jubilee",
-      "so_far": "The IITs are considered India's premier engineering institutions, founded post-independence to provide high-quality technical education and support national industrialization.",
+      "id": "india-cat-2026-admissions-process",
+      "title": "CAT 2026 Admissions Process",
+      "so_far": "The Common Admission Test (CAT) is the primary entrance exam for admission into the Indian Institutes of Management (IIMs) and other top-tier business schools in India. It is a highly competitive, computer-based standardized test conducted annually.",
       "timeline": [
        {
-        "date": "2026-11-21",
-        "text": "Prime Minister Narendra Modi attended the 75th-year celebrations of India's first Indian Institute of Technology.",
-        "link": "https://www.thehindu.com/news/national/pm-modi-iit-kharagpur-bengal-updates-november-21-2026/article71727603.ece",
+        "date": "2026-11-22",
+        "text": "The Common Admission Test (CAT) 2026 guidelines have been issued, requiring candidates to download admit cards and follow specific protocols for the exam day.",
+        "link": "https://www.ndtv.com/education/cat-2026-exam-day-guidelines-dos-and-donts-12361567#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       }
+      ]
+     }
+    },
+    {
+     "id": "3dabb5ec3703",
+     "title": "\"Hate Politics\": Another Congress Leader Counters Imran Masood's Siraj Remark",
+     "link": "https://www.ndtv.com/india-news/congress-leader-mumtaz-patel-counters-party-mp-on-mohammed-siraj-row-slams-hate-politics-12361146#publisher=newsstand",
+     "source": "NDTV News Search Records Found 1000",
+     "published": "2026-11-22T08:09:51+00:00",
+     "summary": "Congress party leaders are debating remarks made by Imran Masood regarding Mohammed Siraj, highlighting internal political friction over public statements.",
+     "explain": "Political discourse in India often involves party leaders managing the fallout from controversial statements made by colleagues. This matters because such remarks can be framed as 'hate politics' or divisive, potentially affecting the party's public image and internal cohesion.",
+     "related": [],
+     "story": {
+      "id": "india-political-realignments-and-legal-battles",
+      "title": "Political Realignments and Legal Battles",
+      "so_far": "Legislative Council elections involve complex power dynamics where alliances are often tested. Internal dissent and accusations of failing to support party-aligned candidates reflect broader instability within party hierarchies.",
+      "timeline": [
+       {
+        "date": "2026-11-02",
+        "text": "NCP leaders have publicly voiced dissatisfaction with the party's current leadership after a meeting with BJP's Amit Shah.",
+        "link": "https://www.thehindu.com/news/national/maharashtra/ncp-leaders-express-discontent-in-core-committee-meeting-after-talks-with-amit-shah/article71658188.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-03",
+        "text": "The JD(U) is demanding an explanation from the BJP regarding their association with independent members of the Legislative Council, as the Jan Suraaj Party calls for their disqualification.",
+        "link": "https://www.thehindu.com/news/national/bihar/alliance-partner-jdu-asks-bjp-to-explain-the-joining-of-independent-mlc/article71657441.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-03",
+        "text": "Internal strife within the West Bengal BJP escalated after a sitting MLA alleged he was attacked by party colleagues.",
+        "link": "https://www.thehindu.com/news/national/west-bengal/bengal-bjps-debra-mla-alleges-assault-by-own-party-workers/article71661211.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-04",
+        "text": "National Conference leadership has formally accused the BJP of engineering party defections to weaken their political standing.",
+        "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/mp-ruhullahs-exit-from-nc-a-success-of-bjp-attempt-to-disempower-people-like-in-1953-nc-leaders/article71666469.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-05",
+        "text": "Internal friction within the NDA alliance has surfaced following a defeat in a local Legislative Council election.",
+        "link": "https://www.thehindu.com/news/national/bihar/bjp-not-giving-much-importance-to-rajput-says-rajiv-pratap-rudy/article71666350.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-05",
+        "text": "The Supreme Court redirected a legal challenge regarding rebel Trinamool Congress MLAs to the Calcutta High Court for resolution.",
+        "link": "https://www.thehindu.com/news/national/west-bengal/supreme-court-asks-calcutta-high-court-to-decide-plea-for-direction-on-disqualification-of-rebel-trinamool-mlas/article71669372.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-05",
+        "text": "The Supreme Court formally declined to hear the disqualification plea, referring the issue to the Calcutta High Court.",
+        "link": "https://www.ndtv.com/india-news/sc-asks-calcutta-hc-to-decide-plea-for-direction-on-disqualification-of-rebel-tmc-mlas-12286753#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-11-05",
+        "text": "A senior BJP leader has publicly rejected allegations of political conspiracy against the TVK government, shifting the blame onto the ruling party for unethical recruitment.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/nainar-nagenthran-rejects-tn-ministers-charge-of-aiadmk-bjp-conspiracy-to-bring-down-tvk-government/article71669007.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-10",
+        "text": "A rare internal 'implosion' has occurred in the National Conference, with the old guard attempting to reassert influence over Omar Abdullah's administration.",
+        "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/return-of-patriarch-farooq-steps-in-as-nc-old-guard-reasserts-influence-to-check-omar/article71683985.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-10",
+        "text": "Tensions within the United Democratic Front (UDF) have surfaced as senior leaders debate the frequency of ruling front meetings.",
+        "link": "https://www.thehindu.com/news/national/kerala/in-veiled-dig-at-satheesan-udf-convener-adoor-prakash-questions-delay-in-convening-meeting-of-ruling-front/article71685846.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-16",
+        "text": "The Punjab BJP has officially established committees to outline its future policy goals and grievances against the opposition.",
+        "link": "https://www.thehindu.com/news/national/punjab/punjab-bjp-forms-manifesto-chargesheet-committees/article71706608.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-22",
+        "text": "Congress party members are actively countering controversial remarks made by a party leader, underscoring internal dissent.",
+        "link": "https://www.ndtv.com/india-news/congress-leader-mumtaz-patel-counters-party-mp-on-mohammed-siraj-row-slams-hate-politics-12361146#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       }
+      ]
+     }
+    },
+    {
+     "id": "474c66ecd96b",
+     "title": "Noida Cafe Raided For Illegally Operating As Bar, Serving Liquor",
+     "link": "https://www.ndtv.com/india-news/noida-cafe-puff-and-spice-sector-118-raided-for-illegally-operating-as-bar-serving-liquor-12359653#publisher=newsstand",
+     "source": "NDTV News Search Records Found 1000",
+     "published": "2026-11-22T07:57:02+00:00",
+     "summary": "Authorities in Noida raided a cafe for operating as an unauthorized bar and illegally serving alcohol. The raid caused significant disruption at the venue.",
+     "explain": "State governments require businesses to obtain specific licenses to serve alcohol. Establishments operating as restaurants or cafes without the proper 'bar license' are illegal, and law enforcement periodically inspects these venues to enforce tax compliance and zoning laws.",
+     "related": [],
+     "story": {
+      "id": "india-noida-unauthorized-bar-raid",
+      "title": "Noida Unauthorized Bar Raid",
+      "so_far": "Urban centers like Noida frequently conduct raids on hospitality establishments that violate state excise laws or zoning regulations. These operations aim to ensure public safety and adherence to government licensing requirements for the sale of alcohol.",
+      "timeline": [
+       {
+        "date": "2026-11-22",
+        "text": "Authorities in Noida raided a cafe for operating as an unauthorized bar and illegally serving alcohol. The raid caused significant disruption at the venue.",
+        "link": "https://www.ndtv.com/india-news/noida-cafe-puff-and-spice-sector-118-raided-for-illegally-operating-as-bar-serving-liquor-12359653#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       }
+      ]
+     }
+    },
+    {
+     "id": "dd236a072fa8",
+     "title": "BJP Rajya Sabha MP Ramrao Wadkute dies of cardiac arrest in Delhi",
+     "link": "https://www.thehindu.com/news/national/bjp-maharashtra-rajya-sabha-mp-ramrao-wadkute-dies-of-cardiac-arrest-in-delhi/article71730872.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-22T07:47:32+00:00",
+     "summary": "BJP Rajya Sabha MP Ramrao Wadkute passed away following a cardiac arrest in Delhi. He had been elected to the Upper House of Parliament earlier this year.",
+     "explain": "The Rajya Sabha is the Upper House of the Indian Parliament. A cardiac arrest is a sudden loss of heart function. The death of a sitting MP is a significant political event as it creates a vacancy that must be filled to maintain the legislative representation of the respective state.",
+     "related": [],
+     "story": {
+      "id": "india-death-of-rajya-sabha-mp",
+      "title": "Death of Rajya Sabha MP",
+      "so_far": "Members of the Rajya Sabha are elected by the members of State Legislative Assemblies. The sudden death of a sitting parliamentarian necessitates the Election Commission to initiate the process for a by-election to fill the vacant seat.",
+      "timeline": [
+       {
+        "date": "2026-11-22",
+        "text": "BJP Rajya Sabha MP Ramrao Wadkute passed away following a cardiac arrest in Delhi. He had been elected to the Upper House of Parliament earlier this year.",
+        "link": "https://www.thehindu.com/news/national/bjp-maharashtra-rajya-sabha-mp-ramrao-wadkute-dies-of-cardiac-arrest-in-delhi/article71730872.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "e6fd822c3c65",
-     "title": "‘Lathi haregi-Laptop jitega’: Akhilesh coins slogan aimed at youth, pushing development pitch",
-     "link": "https://www.thehindu.com/news/national/uttar-pradesh/lathi-haregi-laptop-jitega-akhilesh-coins-slogan-aimed-at-youth-pushing-development-pitch/article71728726.ece",
+     "id": "a6b3e56a5878",
+     "title": "Hemant Soren writes to CJI to urgently appoint Jharkhand HC Chief Justice successor",
+     "link": "https://www.thehindu.com/news/national/jharkhand/hemant-soren-writes-to-cji-to-urgently-appoint-jharkhand-hc-chief-justice-successor/article71730713.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-21T17:16:25+00:00",
-     "summary": "Samajwadi Party leader Akhilesh Yadav introduced the slogan 'Lathi haregi, Laptop jitega' to appeal to Uttar Pradesh's younger voters. The campaign criticizes the current BJP government's policies, contrasting the provision of technology with what the party calls a 'bulldozer raj'.",
-     "explain": "In Indian political discourse, 'bulldozer raj' is a term used by critics to describe a governance style that focuses on the aggressive demolition of property, often targeting political opponents or controversial structures. Using slogans like 'laptop over lathi' (the latter being a police baton) is a way for opposition parties to frame their platform as progressive and tech-focused compared to the ruling party.",
+     "published": "2026-11-22T07:37:58+00:00",
+     "summary": "Jharkhand Chief Minister Hemant Soren has urged the Chief Justice of India to permanently appoint a Chief Justice for the Jharkhand High Court to address leadership instability.",
+     "explain": "An 'Acting' Chief Justice serves temporarily when the permanent position is vacant. The Chief Minister's request suggests that frequent leadership changes in the court may be hindering its ability to handle cases effectively and maintain long-term institutional stability.",
      "related": [],
      "story": {
-      "id": "india-u-p-political-campaigning",
-      "title": "U.P. Political Campaigning",
-      "so_far": "Uttar Pradesh politics is highly polarized, with major parties focusing on infrastructure and youth empowerment as core campaign pillars. Political rhetoric often targets the opposition's governance style to capture the support of Gen Z voters.",
+      "id": "india-jharkhand-high-court-appointments",
+      "title": "Jharkhand High Court Appointments",
+      "so_far": "The appointment of High Court Chief Justices is managed by the Supreme Court Collegium. Regional governments often advocate for permanent appointments to ensure judicial efficiency and consistency in legal proceedings.",
       "timeline": [
        {
-        "date": "2026-11-21",
-        "text": "Samajwadi Party leader Akhilesh Yadav introduced the slogan 'Lathi haregi, Laptop jitega' to appeal to Uttar Pradesh's younger voters. The campaign criticizes the current BJP government's policies, contrasting the provision of technology with what the party calls a 'bulldozer raj'.",
-        "link": "https://www.thehindu.com/news/national/uttar-pradesh/lathi-haregi-laptop-jitega-akhilesh-coins-slogan-aimed-at-youth-pushing-development-pitch/article71728726.ece",
+        "date": "2026-11-22",
+        "text": "Jharkhand Chief Minister Hemant Soren has urged the Chief Justice of India to permanently appoint a Chief Justice for the Jharkhand High Court to address leadership instability.",
+        "link": "https://www.thehindu.com/news/national/jharkhand/hemant-soren-writes-to-cji-to-urgently-appoint-jharkhand-hc-chief-justice-successor/article71730713.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "1d5b429837f2",
-     "title": "Is forfeiting copies of a book the right way to handle ‘objectionable content’?",
-     "link": "https://www.thehindu.com/news/national/karnataka/is-forfieting-copies-of-a-book-the-right-way-to-handle-objectionable-content/article71728747.ece",
+     "id": "4cefa958f5b1",
+     "title": "Indian-origin man detained in Texas after serving sentence for visual recording conviction",
+     "link": "https://www.thehindu.com/news/international/indian-origin-man-detained-in-texas-after-serving-sentence-for-visual-recording-conviction/article71730866.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-21T17:15:55+00:00",
-     "summary": "Legal experts are debating whether the forfeiture of books is an appropriate mechanism for handling content deemed objectionable. The discussion highlights the narrow legal grounds for book bans in India.",
-     "explain": "Forfeiture is the legal act of seizing items, in this case, printed books. Under Indian law, the government can only ban or seize content if it directly threatens national security, public order, or public morality. This is a sensitive area of law because it requires a balance between preventing harmful incitement and allowing the freedom to express unpopular ideas.",
+     "published": "2026-11-22T07:32:31+00:00",
+     "summary": "An Indian-origin man, Raghul Anandakrishnan, has been detained by US immigration authorities following the completion of his prison sentence for a visual recording conviction.",
+     "explain": "Immigration detention is the process of holding foreign nationals in custody pending a decision on their legal status or deportation. Being detained after a prison sentence indicates that the individual's criminal history may have triggered federal immigration enforcement measures.",
      "related": [],
      "story": {
-      "id": "india-legal-standards-for-book-censorship",
-      "title": "Legal Standards for Book Censorship",
-      "so_far": "India’s Constitution provides specific protections for free speech, but these are subject to 'reasonable restrictions.' Discussions about banning literature often oscillate between protecting societal values and upholding intellectual freedom.",
+      "id": "india-indian-origin-man-us-immigration-detenti",
+      "title": "Indian-Origin Man US Immigration Detention",
+      "so_far": "When foreign nationals in the U.S. are convicted of crimes, they often face immigration consequences, including detention by ICE (Immigration and Customs Enforcement) following the completion of their criminal sentences, which can lead to deportation proceedings.",
       "timeline": [
        {
-        "date": "2026-11-21",
-        "text": "Legal experts are debating whether the forfeiture of books is an appropriate mechanism for handling content deemed objectionable. The discussion highlights the narrow legal grounds for book bans in India.",
-        "link": "https://www.thehindu.com/news/national/karnataka/is-forfieting-copies-of-a-book-the-right-way-to-handle-objectionable-content/article71728747.ece",
+        "date": "2026-11-22",
+        "text": "An Indian-origin man, Raghul Anandakrishnan, has been detained by US immigration authorities following the completion of his prison sentence for a visual recording conviction.",
+        "link": "https://www.thehindu.com/news/international/indian-origin-man-detained-in-texas-after-serving-sentence-for-visual-recording-conviction/article71730866.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "cb1fd9d67e47",
-     "title": "Shivakumar challenges BJP to get ₹5,300 crore grant by Centre for Upper Bhadra Project",
-     "link": "https://www.thehindu.com/news/national/karnataka/shivakumar-challenges-bjp-to-get-5300-crore-grant-by-centre-for-upper-bhadra-project/article71728666.ece",
+     "id": "f908261ccfdd",
+     "title": "NHAI yet to act despite 300 complaints of inordinate delay at Chowlagere toll plaza on NH 75 Hassan-Sakleshpur section",
+     "link": "https://www.thehindu.com/news/national/karnataka/nhai-yet-to-act-despite-300-complaints-of-inordinate-delay-at-chowlagere-toll-plaza-on-nh-75-hassan-sakleshpur-section/article71730786.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-21T17:14:19+00:00",
-     "summary": "Karnataka Deputy CM D.K. Shivakumar challenged the BJP to secure a promised ₹5,300 crore central grant for the Upper Bhadra Project. The project is a major irrigation initiative in the state.",
-     "explain": "The Upper Bhadra Project is a major irrigation plan designed to provide water for agriculture in dry regions of Karnataka. A central grant is money allocated by the federal government in New Delhi to a state government for development. This matters because it impacts the progress of critical infrastructure projects that affect the livelihoods of local farmers.",
+     "published": "2026-11-22T07:30:23+00:00",
+     "summary": "The National Highways Authority of India (NHAI) has yet to address hundreds of complaints regarding significant traffic delays at the Chowlagere toll plaza on NH 75.",
+     "explain": "NHAI is the autonomous agency responsible for the development and maintenance of India's national highways. Toll plaza delays are a common grievance, as long wait times undermine the efficiency of road infrastructure and the intended convenience of the electronic FASTag payment system.",
      "related": [],
      "story": {
-      "id": "india-karnataka-central-funding-disputes",
-      "title": "Karnataka Central Funding Disputes",
-      "so_far": "Funding for infrastructure projects in India often becomes a point of contention between state governments and the central government. Politicians frequently engage in public 'challenges' to highlight the perceived neglect or support of the state by federal authorities.",
+      "id": "india-nhai-toll-plaza-delays",
+      "title": "NHAI Toll Plaza Delays",
+      "so_far": "Toll plazas across India have implemented electronic toll collection via FASTag to reduce wait times. Despite this, technical failures, infrastructure issues, or mismanagement at specific plazas often lead to localized traffic congestion and public frustration.",
       "timeline": [
        {
-        "date": "2026-11-21",
-        "text": "Karnataka Deputy CM D.K. Shivakumar challenged the BJP to secure a promised ₹5,300 crore central grant for the Upper Bhadra Project. The project is a major irrigation initiative in the state.",
-        "link": "https://www.thehindu.com/news/national/karnataka/shivakumar-challenges-bjp-to-get-5300-crore-grant-by-centre-for-upper-bhadra-project/article71728666.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "795537dd16e4",
-     "title": "Will work to resolve fund crunch facing Edamalakudy: Minister",
-     "link": "https://www.thehindu.com/news/national/kerala/will-work-to-resolve-fund-crunch-facing-edamalakudy-minister/article71725562.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-21T17:11:46+00:00",
-     "summary": "Kerala's Local Self-Government Minister K.M. Shaji pledged to address the funding crisis in Edamalakudy. The minister emphasized that the predominantly tribal region requires dedicated government support.",
-     "explain": "Local Self-Government refers to local bodies like panchayats (village councils) that manage day-to-day services. Edamalakudy is one of the most remote, isolated tribal villages in Kerala. The 'fund crunch' means the local council lacks the money to pay for basic services like healthcare, schools, or road maintenance.",
-     "related": [],
-     "story": {
-      "id": "india-tribal-welfare-funding",
-      "title": "Tribal Welfare Funding",
-      "so_far": "Providing infrastructure and public services to remote, tribal-dominated regions like Edamalakudy is a recurring challenge for Indian state governments. Geographical isolation often leads to administrative difficulties in delivering funds and development projects.",
-      "timeline": [
-       {
-        "date": "2026-11-21",
-        "text": "Kerala's Local Self-Government Minister K.M. Shaji pledged to address the funding crisis in Edamalakudy. The minister emphasized that the predominantly tribal region requires dedicated government support.",
-        "link": "https://www.thehindu.com/news/national/kerala/will-work-to-resolve-fund-crunch-facing-edamalakudy-minister/article71725562.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "c13a7ed918e2",
-     "title": "Govt. will explore land allotment for tennis academy in Bengaluru: Deputy CM",
-     "link": "https://www.thehindu.com/news/national/karnataka/govt-will-explore-land-allotment-for-tennis-academy-in-bengaluru-deputy-cm/article71729351.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-21T17:11:06+00:00",
-     "summary": "The Deputy Chief Minister of Karnataka announced that the government is evaluating a proposal to allot land for a new tennis academy in Bengaluru.",
-     "explain": "Land allotment is the process by which a government provides a plot of land for a specific project. When the government discusses allotting land for private or sporting ventures, it must often justify how the land will serve the public good. This is important in rapidly growing cities where space for public use is shrinking.",
-     "related": [],
-     "story": {
-      "id": "india-bengaluru-land-allotment-policy",
-      "title": "Bengaluru Land Allotment Policy",
-      "so_far": "Large metropolitan cities like Bengaluru face intense competition for available land. Proposals for sports and recreational facilities often face scrutiny regarding land-use policy, private versus public interest, and urban planning priorities.",
-      "timeline": [
-       {
-        "date": "2026-11-21",
-        "text": "The Deputy Chief Minister of Karnataka announced that the government is evaluating a proposal to allot land for a new tennis academy in Bengaluru.",
-        "link": "https://www.thehindu.com/news/national/karnataka/govt-will-explore-land-allotment-for-tennis-academy-in-bengaluru-deputy-cm/article71729351.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "0aa0771a5700",
-     "title": "World needs skilled youth, not merely degree-holders, says PM Modi",
-     "link": "https://www.thehindu.com/news/national/uttar-pradesh/world-needs-skilled-youth-not-merely-degree-holders-says-pm-modi/article71729144.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-21T17:04:44+00:00",
-     "summary": "PM Narendra Modi emphasized the importance of skill-based education at an ITI convocation, arguing that skilled workers are as vital as degree holders for national growth. He encouraged students to view their trade training as a direct path to contributing to nation-building.",
-     "explain": "ITIs (Industrial Training Institutes) provide technical and vocational training, focusing on specific trades like welding, electrical work, or mechanics, rather than general academic subjects taught in IITs (Indian Institutes of Technology). The goal is to move the economy toward a more 'skilled' workforce, as unemployment is often lower for those with practical technical expertise.",
-     "related": [],
-     "story": {
-      "id": "india-national-skill-development-initiative",
-      "title": "National Skill Development Initiative",
-      "so_far": "The Indian government has been actively promoting vocational training through the Industrial Training Institutes (ITIs) to bridge the gap between education and the needs of the industrial job market. This shift aims to reduce reliance on traditional academic degrees.",
-      "timeline": [
-       {
-        "date": "2026-11-21",
-        "text": "PM Narendra Modi emphasized the importance of skill-based education at an ITI convocation, arguing that skilled workers are as vital as degree holders for national growth. He encouraged students to view their trade training as a direct path to contributing to nation-building.",
-        "link": "https://www.thehindu.com/news/national/uttar-pradesh/world-needs-skilled-youth-not-merely-degree-holders-says-pm-modi/article71729144.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "c56fecbeb8cc",
-     "title": "Raichur is a treasure trove of Kannada literature, says Rajappa Dalawai",
-     "link": "https://www.thehindu.com/news/national/karnataka/raichur-is-a-treasure-trove-of-kannada-literature-says-rajappa-dalawai/article71728610.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-21T16:55:30+00:00",
-     "summary": "Rajappa Dalawai praised Raichur for its rich literary history during a cultural event, highlighting the district's status as a major contributor to Kannada literature.",
-     "explain": "Raichur is a historical city in Karnataka known for its past involvement in various medieval empires. Kannada is the official language of the state. Celebrating literature matters because it reinforces regional pride and encourages the protection of history in an increasingly modernizing society.",
-     "related": [],
-     "story": {
-      "id": "india-cultural-preservation-in-karnataka",
-      "title": "Cultural Preservation in Karnataka",
-      "so_far": "Karnataka regularly celebrates its distinct linguistic and cultural heritage, particularly the works of Kannada writers. Public figures often highlight the importance of preserving regional literature as part of the state's identity.",
-      "timeline": [
-       {
-        "date": "2026-11-21",
-        "text": "Rajappa Dalawai praised Raichur for its rich literary history during a cultural event, highlighting the district's status as a major contributor to Kannada literature.",
-        "link": "https://www.thehindu.com/news/national/karnataka/raichur-is-a-treasure-trove-of-kannada-literature-says-rajappa-dalawai/article71728610.ece",
+        "date": "2026-11-22",
+        "text": "The National Highways Authority of India (NHAI) has yet to address hundreds of complaints regarding significant traffic delays at the Chowlagere toll plaza on NH 75.",
+        "link": "https://www.thehindu.com/news/national/karnataka/nhai-yet-to-act-despite-300-complaints-of-inordinate-delay-at-chowlagere-toll-plaza-on-nh-75-hassan-sakleshpur-section/article71730786.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
@@ -1216,338 +1309,212 @@
    "label": "World",
    "articles": [
     {
-     "id": "d009cb320544",
-     "title": "Israeli strike kills three in vehicle distributing aid in Gaza, witnesses say",
-     "link": "https://www.thehindu.com/news/international/israeli-strike-kills-three-in-vehicle-distributing-aid-in-gaza-witnesses-say/article71729327.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-11-21T16:59:42+00:00",
-     "summary": "An Israeli strike on an aid vehicle in Gaza has reportedly killed three people. Witnesses observed food supplies scattered at the site of the attack.",
-     "explain": "This article reports on a strike involving an aid distribution vehicle in Gaza, which resulted in fatalities. The incident highlights the extreme dangers faced by those attempting to provide food and medical supplies in an active war zone, where infrastructure and safety protocols are largely non-existent.",
-     "related": [
-      {
-       "date": "2026-10-25",
-       "title": "Israeli air strike on Gaza City university kills three people",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
-       "source": "Al Jazeera – Breaking News, World News a"
-      },
-      {
-       "date": "2026-10-25",
-       "title": "Strike on Gaza university kills three: staff, hospital",
-       "link": "https://www.thehindu.com/news/international/strike-on-gaza-university-kills-three-staff-hospital/article71624609.ece",
-       "source": "World News: Latest International News & "
-      },
-      {
-       "date": "2026-11-02",
-       "title": "Israeli strikes kill three people in Gaza, medics say",
-       "link": "https://www.thehindu.com/news/international/israeli-strikes-kill-three-people-in-gaza-medics-say/article71657806.ece",
-       "source": "World News: Latest International News & "
-      },
-      {
-       "date": "2026-11-12",
-       "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-       "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC News"
-      }
-     ],
+     "id": "96dfe3395928",
+     "title": "Indonesia factory fire kills three, 36 missing",
+     "link": "https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-22T07:46:35+00:00",
+     "summary": "A fire at a confectionery factory in Indonesia has resulted in three confirmed deaths and 36 people remain missing. Rescue efforts are underway, with at least 15 survivors found so far.",
+     "explain": "An industrial fire is a fire that occurs in a commercial, manufacturing, or production facility. Such fires can be particularly dangerous due to the presence of chemicals, high-heat machinery, or flammable packaging materials common in manufacturing. Authorities are currently trying to determine if safety protocols were followed and what ignited the flames.",
+     "related": [],
      "story": {
-      "id": "world-gaza-humanitarian-aid-strikes",
-      "title": "Gaza Humanitarian Aid Strikes",
-      "so_far": "The humanitarian situation in Gaza remains dire due to ongoing regional conflict. Aid distribution is frequently disrupted, and international organizations have raised alarms about the safety of both aid workers and civilians attempting to access essential supplies.",
+      "id": "world-indonesian-factory-fire",
+      "title": "Indonesian Factory Fire",
+      "so_far": "This is a breaking news event concerning a fatal industrial fire at an Indonesian confectionery facility. Local authorities have initiated search and rescue operations, though the cause of the blaze remains under investigation.",
       "timeline": [
        {
-        "date": "2026-11-21",
-        "text": "An Israeli strike on an aid vehicle in Gaza has reportedly killed three people. Witnesses observed food supplies scattered at the site of the attack.",
-        "link": "https://www.thehindu.com/news/international/israeli-strike-kills-three-in-vehicle-distributing-aid-in-gaza-witnesses-say/article71729327.ece",
-        "source": "World News: Latest International News & "
+        "date": "2026-11-22",
+        "text": "A major fire at a factory in Indonesia has left dozens missing and three people confirmed dead.",
+        "link": "https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-11-22",
+        "text": "The death toll has been confirmed at three, with 36 individuals still missing following the factory blaze.",
+        "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
        }
       ]
      }
     },
     {
-     "id": "79470cbe5ef7",
-     "title": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
-     "link": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+     "id": "346422649bc9",
+     "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
+     "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-20T23:28:17+00:00",
-     "summary": "Nepal's Prime Minister Balendra Shah is conducting a diplomatic visit to India to discuss trade, connectivity, and regional cooperation. This visit is viewed as a significant test of bilateral relations between the two neighbors.",
-     "explain": "Bilateral relations refer to the diplomatic and economic interactions between two countries. In this case, Nepal and India rely on each other for trade and transportation, making these high-level summits vital for maintaining economic stability. 'Connectivity' in this context refers to infrastructure projects like roads, railways, and power grids that link the two nations.",
-     "related": [],
-     "story": {
-      "id": "world-nepal-india-diplomatic-relations",
-      "title": "Nepal-India Diplomatic Relations",
-      "so_far": "India and Nepal share a complex history characterized by deep cultural, economic, and political ties. As India is a major regional power and Nepal is a landlocked nation, their relationship is centered on open borders and mutual security interests, though it occasionally experiences friction over territorial and trade disputes.",
-      "timeline": [
-       {
-        "date": "2026-11-20",
-        "text": "Nepal's Prime Minister has arrived in India for talks focused on strengthening trade and regional cooperation.",
-        "link": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "02c1419e4047",
-     "title": "Liverpool vs Manchester United: Premier League – teams, prediction, lineups",
-     "link": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-21T17:28:51+00:00",
-     "summary": "Liverpool is set to host Manchester United in a Premier League match, with Manchester United currently struggling in the relegation zone.",
-     "explain": "This is a sports update about an upcoming match between two historic rivals. In the Premier League, the 'relegation zone' refers to the bottom three spots in the standings, which means those teams are at risk of losing their place in the top division at the end of the season.",
-     "related": [],
-     "story": {
-      "id": "world-premier-league-soccer-updates",
-      "title": "Premier League Soccer Updates",
-      "so_far": "The English Premier League (EPL) is the top tier of English professional football. Teams compete throughout the season to avoid relegation—being demoted to a lower league for poor performance—or to climb the standings to qualify for prestigious European competitions.",
-      "timeline": [
-       {
-        "date": "2026-11-21",
-        "text": "Liverpool is set to host Manchester United in a Premier League match, with Manchester United currently struggling in the relegation zone.",
-        "link": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-11-21",
-        "text": "Leeds United defeated Chelsea 4-1 in a Premier League match at Stamford Bridge, moving them to sixth place in the league standings.",
-        "link": "https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
-    },
-    {
-     "id": "31ef3b69fad0",
-     "title": "Chelsea beaten 4-1 by Leeds United in shock home Premier League defeat",
-     "link": "https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-21T17:21:37+00:00",
-     "summary": "Leeds United defeated Chelsea 4-1 in a Premier League match at Stamford Bridge, moving them to sixth place in the league standings.",
-     "explain": "This report details a major upset in English football, where a team ranked lower in the standings (Leeds) decisively beat a more prominent opponent (Chelsea). Wins and losses shift rankings significantly as teams compete for favorable positions in the league table.",
-     "related": [],
-     "story": {
-      "id": "world-premier-league-soccer-updates",
-      "title": "Premier League Soccer Updates",
-      "so_far": "The English Premier League (EPL) is the top tier of English professional football. Teams compete throughout the season to avoid relegation—being demoted to a lower league for poor performance—or to climb the standings to qualify for prestigious European competitions.",
-      "timeline": [
-       {
-        "date": "2026-11-21",
-        "text": "Liverpool is set to host Manchester United in a Premier League match, with Manchester United currently struggling in the relegation zone.",
-        "link": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-11-21",
-        "text": "Leeds United defeated Chelsea 4-1 in a Premier League match at Stamford Bridge, moving them to sixth place in the league standings.",
-        "link": "https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
-    },
-    {
-     "id": "a92e32b01237",
-     "title": "Sri Lanka's organised crime bill gets Supreme Court nod",
-     "link": "https://www.thehindu.com/news/international/sri-lankas-organised-crime-bill-gets-supreme-court-nod/article71729357.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-11-21T17:20:32+00:00",
-     "summary": "Sri Lanka’s Supreme Court has cleared the way for an organised crime bill, which had previously faced 20 petitions challenging its constitutionality.",
-     "explain": "This article discusses a legal milestone for a new anti-crime law in Sri Lanka. When a bill is introduced, it is common for the judiciary to review it to ensure it does not infringe on existing constitutional rights, a process often triggered by concerned citizens or legal challenges.",
-     "related": [],
-     "story": {
-      "id": "world-sri-lanka-organised-crime-bill",
-      "title": "Sri Lanka Organised Crime Bill",
-      "so_far": "Sri Lanka has been working to address internal security challenges, including the rise of organized crime groups. The legislative process in the country allows for public oversight, where citizens or advocacy groups can challenge new laws in the Supreme Court to ensure they align with the national constitution.",
-      "timeline": [
-       {
-        "date": "2026-11-21",
-        "text": "Sri Lanka’s Supreme Court has cleared the way for an organised crime bill, which had previously faced 20 petitions challenging its constitutionality.",
-        "link": "https://www.thehindu.com/news/international/sri-lankas-organised-crime-bill-gets-supreme-court-nod/article71729357.ece",
-        "source": "World News: Latest International News & "
-       }
-      ]
-     }
-    },
-    {
-     "id": "a676af02420b",
-     "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
-     "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-21T17:20:03+00:00",
-     "summary": "A Russian missile attack on Kryvyi Rih, the hometown of President Zelenskyy, has killed two people and wounded 60.",
-     "explain": "This attack targets a major Ukrainian city, adding to the ongoing violence of the 2022 Russian invasion. The mention of Poland—a NATO member—is significant because any strike on a NATO country could escalate the conflict, as NATO members are committed to defending one another.",
-     "related": [],
-     "story": {
-      "id": "world-diplomatic-talks-on-ukraine",
-      "title": "Diplomatic Talks on Ukraine",
-      "so_far": "The conflict between Russia and Ukraine has persisted since 2022, causing immense devastation and triggering massive global diplomatic and military efforts from Western allies. Attempts to negotiate peace are frequent but fragile, often undermined by continued military hostilities.",
-      "timeline": [
-       {
-        "date": "2026-11-11",
-        "text": "The two sides are now in their second day of direct negotiations taking place in the United Arab Emirates.",
-        "link": "https://www.thehindu.com/news/international/russia-ukraine-hold-second-day-of-us-brokered-talks-in-abu-dhabi/article71689267.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-11-12",
-        "text": "Envoys Jared Kushner and Steve Witkoff have traveled to Moscow for discussions with Vladimir Putin and will meet with Volodymyr Zelensky in Dublin shortly after.",
-        "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-11-13",
-        "text": "U.S. envoys have conducted direct meetings with Vladimir Putin and briefed Ukrainian leadership, with plans to include European partners in future talks.",
-        "link": "https://www.thehindu.com/news/international/us-ukraine-say-europe-to-join-russia-talks-as-putin-sticks-to-hardline-stance/article71696395.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-11-13",
-        "text": "President Zelenskyy expressed support for expanding the pool of negotiators to include European leaders.",
-        "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-11-13",
-        "text": "A violent drone attack occurred in Russia, complicating ongoing international diplomatic efforts to seek a ceasefire.",
-        "link": "https://www.thehindu.com/news/international/russia-says-four-killed-in-major-ukraine-drone-barrage/article71697111.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-11-14",
-        "text": "Zelensky revealed that US representatives proposed a controversial land-for-NATO membership swap to end the war.",
-        "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "The Crimean Bridge has been targeted again, causing a suspension of traffic across the vital Russian supply and transit route.",
-        "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-11-20",
-        "text": "The conflict escalated with a Russian missile strike on Kyiv's infrastructure following a Ukrainian operation against the Crimean Bridge.",
-        "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-11-21",
-        "text": "Tensions have sharpened as Ukraine’s president directly challenged President-elect Trump’s characterization of his relationship with Vladimir Putin.",
-        "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-11-21",
-        "text": "New reports indicate that U.S. envoys are proposing security discussions that worry Ukraine and NATO members.",
-        "link": "https://www.thehindu.com/news/international/russia-dusts-off-its-pre-war-demands-as-the-us-raises-discussing-european-security-at-ukraine-talks/article71727588.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-11-21",
-        "text": "The recent attack on Kryvyi Rih coincides with reports of Russian missiles landing in Poland, further complicating international peace efforts.",
-        "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-11-21",
-        "text": "The incident adds to the growing uncertainty surrounding peace negotiations brokered by the U.S.",
-        "link": "https://www.thehindu.com/news/international/ballistic-missile-attack-on-zelenskyys-hometown-kills-2/article71729235.ece",
-        "source": "World News: Latest International News & "
-       }
-      ]
-     }
-    },
-    {
-     "id": "6d9164902295",
-     "title": "Yemen's Houthis launch strikes after Saudi coalition's 'special operation'",
-     "link": "https://www.thehindu.com/news/international/yemens-houthis-launch-strikes-after-saudi-coalitions-special-operation/article71729354.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-11-21T17:14:14+00:00",
-     "summary": "Yemeni Houthi rebels have launched retaliatory strikes following a Saudi-led coalition operation targeting the port city of Hodeida.",
-     "explain": "The Houthi movement and the Saudi-backed government have been at war for years. This latest exchange of fire underscores the volatile nature of the conflict, where strikes and counter-strikes frequently occur in strategic locations like ports, which are vital for importing food and aid.",
+     "published": "2026-11-22T06:54:06+00:00",
+     "summary": "Delegates at the COP31 climate summit in Turkey are working through overtime sessions to finalize a global agreement. Negotiators are attempting to resolve last-minute disagreements to prevent the talks from collapsing.",
+     "explain": "COP stands for Conference of the Parties, the supreme decision-making body of the UN Framework Convention on Climate Change. These summits are high-stakes because they require nearly 200 nations to agree on binding or voluntary targets. When a summit goes into 'overtime,' it means parties are still negotiating past the official deadline to secure a deal.",
      "related": [
       {
-       "date": "2026-10-24",
-       "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
-       "link": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
+       "date": "2026-11-20",
+       "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+       "link": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
        "source": "Al Jazeera – Breaking News, World News a"
-      },
-      {
-       "date": "2026-10-24",
-       "title": "Houthis say attacked Saudi Arabia, Yemen’s Aden after deadly strikes",
-       "link": "https://www.thehindu.com/news/international/houthis-attack-yemens-aden-say-saudi-strikes-kill-16/article71620895.ece",
-       "source": "World News: Latest International News & "
       }
      ],
      "story": {
-      "id": "world-houthi-strike-on-yemeni-camp",
-      "title": "Houthi Strike on Yemeni Camp",
-      "so_far": "Yemen has been embroiled in a prolonged civil war involving the Houthi rebel movement, which is backed by Iran, against the internationally recognized government supported by a Saudi-led coalition. The conflict has caused one of the world's worst humanitarian crises.",
+      "id": "world-cop31-climate-summit-negotiations",
+      "title": "COP31 Climate Summit Negotiations",
+      "so_far": "The COP (Conference of the Parties) summits are annual UN meetings where countries negotiate global responses to climate change. These summits aim to set targets for reducing carbon emissions and providing financial support to developing nations. The COP31 summit in Turkey is currently focused on updated international climate pledges.",
       "timeline": [
        {
-        "date": "2026-10-20",
-        "text": "The death toll from the missile attack has risen to 60 as officials continue searching for those missing.",
-        "link": "https://www.thehindu.com/news/international/death-toll-rises-to-60-in-houthi-strike-on-yemen-training-camp-in-deadliest-attack-in-months/article71604054.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-10-24",
-        "text": "The Houthi movement significantly escalated its campaign by targeting major Saudi airports and energy infrastructure in retaliation for recent military actions.",
-        "link": "https://www.thehindu.com/news/international/houthis-attack-yemens-aden-say-saudi-strikes-kill-16/article71620895.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-10-24",
-        "text": "The scope of the Houthi attacks has expanded to include critical coastal and transport infrastructure in Aden.",
-        "link": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-11-01",
-        "text": "Government forces have gained ground in al-Jawf, capturing significant military supplies.",
-        "link": "https://www.aljazeera.com/news/2026/11/1/yemeni-government-forces-seize-strategic-positions-in-al-jawf?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-11-15",
-        "text": "Fighting has intensified significantly in Marib and al-Jawf, leading to a massive increase in displaced civilians.",
-        "link": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-11-16",
-        "text": "Houthi militants have launched a new offensive, threatening one of the last remaining strongholds of the internationally recognized government.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-11-16",
-        "text": "Government forces are pulling back from critical maritime chokepoints to consolidate defenses around Aden amid a significant battlefield setback.",
-        "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-11-22",
+        "text": "The COP31 summit is entering an extended session as nations struggle to reach a consensus on climate commitments.",
+        "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
        },
        {
-        "date": "2026-11-16",
-        "text": "Analysts suggest the Houthi advancement is strengthening Iran’s regional influence amidst the broader regional conflict.",
-        "link": "https://www.thehindu.com/news/international/yemeni-government-forces-retreat-from-strait-in-major-setback-in-war-against-houthis/article71705608.ece",
-        "source": "World News: Latest International News & "
-       },
+        "date": "2026-11-22",
+        "text": "A new draft agreement explicitly recognizes that current efforts will likely fail to keep global warming below the 1.5C threshold.",
+        "link": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "e0d79e3493d8",
+     "title": "Three killed and dozens missing after fire at Indonesian factory",
+     "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T06:05:00+00:00",
+     "summary": "A fire at a confectionery factory in Indonesia has resulted in three confirmed deaths and 36 people remain missing. Rescue efforts are underway, with at least 15 survivors found so far.",
+     "explain": "An industrial fire is a fire that occurs in a commercial, manufacturing, or production facility. Such fires can be particularly dangerous due to the presence of chemicals, high-heat machinery, or flammable packaging materials common in manufacturing. Authorities are currently trying to determine if safety protocols were followed and what ignited the flames.",
+     "related": [],
+     "story": {
+      "id": "world-indonesian-factory-fire",
+      "title": "Indonesian Factory Fire",
+      "so_far": "This is a breaking news event concerning a fatal industrial fire at an Indonesian confectionery facility. Local authorities have initiated search and rescue operations, though the cause of the blaze remains under investigation.",
+      "timeline": [
        {
-        "date": "2026-11-17",
-        "text": "The Yemeni army claims to have launched 661 attacks against the Houthis, who are currently advancing toward the strategic port city of Aden.",
-        "link": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+        "date": "2026-11-22",
+        "text": "A major fire at a factory in Indonesia has left dozens missing and three people confirmed dead.",
+        "link": "https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
        },
        {
-        "date": "2026-11-21",
-        "text": "Houthi rebels have launched a series of missile attacks targeting Riyadh over three nights, escalating the regional threat to Saudi infrastructure.",
-        "link": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
+        "date": "2026-11-22",
+        "text": "The death toll has been confirmed at three, with 36 individuals still missing following the factory blaze.",
+        "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "e28898bcba1b",
+     "title": "COP31 climate talks close to final deal, summit president says",
+     "link": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-22T04:51:35+00:00",
+     "summary": "The COP31 climate summit president indicates that a final deal is near, with a draft text acknowledging that the world is currently on track to exceed 1.5C of global warming.",
+     "explain": "The 1.5C threshold refers to the scientific consensus that limiting global temperature rise to 1.5 degrees Celsius above pre-industrial levels is critical to avoiding the most catastrophic impacts of climate change. Acknowledging this in a COP document is significant because it forces nations to confront the gap between their current climate promises and the actual trajectory of the planet.",
+     "related": [
+      {
+       "date": "2026-11-20",
+       "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+       "link": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
+       "source": "Al Jazeera – Breaking News, World News a"
+      }
+     ],
+     "story": {
+      "id": "world-cop31-climate-summit-negotiations",
+      "title": "COP31 Climate Summit Negotiations",
+      "so_far": "The COP (Conference of the Parties) summits are annual UN meetings where countries negotiate global responses to climate change. These summits aim to set targets for reducing carbon emissions and providing financial support to developing nations. The COP31 summit in Turkey is currently focused on updated international climate pledges.",
+      "timeline": [
+       {
+        "date": "2026-11-22",
+        "text": "The COP31 summit is entering an extended session as nations struggle to reach a consensus on climate commitments.",
+        "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
        },
        {
+        "date": "2026-11-22",
+        "text": "A new draft agreement explicitly recognizes that current efforts will likely fail to keep global warming below the 1.5C threshold.",
+        "link": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "a5ffcae5a98b",
+     "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
+     "link": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-22T03:34:02+00:00",
+     "summary": "A military operation to arrest Fausto Isidro Meza Flores, a high-ranking Mexican cartel leader, resulted in a firefight that killed seven gunmen and four soldiers. The clash underscores the persistent violence associated with high-level cartel arrests.",
+     "explain": "Drug cartels are criminal organizations that control illegal trade, most notably in narcotics. Arresting a 'cartel boss' often triggers a surge in violence as factions fight to fill the power vacuum or retaliate against the state. This event highlights the extreme risks associated with security operations against transnational criminal syndicates.",
+     "related": [],
+     "story": {
+      "id": "world-mexican-cartel-leader-arrest",
+      "title": "Mexican Cartel Leader Arrest",
+      "so_far": "Mexico has long struggled with powerful drug cartels that control territory and smuggling routes. These groups often retaliate with violence when leaders are targeted by security forces, leading to 'narcotrafficking' conflicts that frequently involve the Mexican military.",
+      "timeline": [
+       {
         "date": "2026-11-21",
-        "text": "The Houthis have intensified their military response following a 'special operation' conducted by the Saudi coalition on November 20.",
-        "link": "https://www.thehindu.com/news/international/yemens-houthis-launch-strikes-after-saudi-coalitions-special-operation/article71729354.ece",
+        "text": "Background reporting confirms Flores's long history as the leader of the Beltrán-Leyva cartel before establishing his own transnational organization.",
+        "link": "https://www.thehindu.com/news/international/11-killed-in-burst-of-violence-in-northern-mexico-after-capture-of-cartel-leader-meza-flores/article71729468.ece",
         "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-22",
+        "text": "A violent confrontation erupted during the successful apprehension of cartel leader Fausto Isidro Meza Flores, resulting in 11 total fatalities.",
+        "link": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "abd9f716b52f",
+     "title": "11 killed in burst of violence in northern Mexico after capture of cartel leader Meza Flores",
+     "link": "https://www.thehindu.com/news/international/11-killed-in-burst-of-violence-in-northern-mexico-after-capture-of-cartel-leader-meza-flores/article71729468.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-11-21T20:49:00+00:00",
+     "summary": "A military operation to arrest Fausto Isidro Meza Flores, a high-ranking Mexican cartel leader, resulted in a firefight that killed seven gunmen and four soldiers. The clash underscores the persistent violence associated with high-level cartel arrests.",
+     "explain": "Drug cartels are criminal organizations that control illegal trade, most notably in narcotics. Arresting a 'cartel boss' often triggers a surge in violence as factions fight to fill the power vacuum or retaliate against the state. This event highlights the extreme risks associated with security operations against transnational criminal syndicates.",
+     "related": [],
+     "story": {
+      "id": "world-mexican-cartel-leader-arrest",
+      "title": "Mexican Cartel Leader Arrest",
+      "so_far": "Mexico has long struggled with powerful drug cartels that control territory and smuggling routes. These groups often retaliate with violence when leaders are targeted by security forces, leading to 'narcotrafficking' conflicts that frequently involve the Mexican military.",
+      "timeline": [
+       {
+        "date": "2026-11-21",
+        "text": "Background reporting confirms Flores's long history as the leader of the Beltrán-Leyva cartel before establishing his own transnational organization.",
+        "link": "https://www.thehindu.com/news/international/11-killed-in-burst-of-violence-in-northern-mexico-after-capture-of-cartel-leader-meza-flores/article71729468.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-22",
+        "text": "A violent confrontation erupted during the successful apprehension of cartel leader Fausto Isidro Meza Flores, resulting in 11 total fatalities.",
+        "link": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "2b1585b584bf",
+     "title": "Russia-bound ship attacked in Gulf of Finland",
+     "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-21T19:20:22+00:00",
+     "summary": "A Russia-bound ship in the Gulf of Finland was targeted in a drone attack, with Finnish defense authorities attributing the strike to Ukraine.",
+     "explain": "The Gulf of Finland is an arm of the Baltic Sea, which is a strategically important trade route for Russia. A drone attack involves remotely piloted aircraft used to deliver explosives. This tactic allows the Ukrainian military to pressure Russian logistics and transport infrastructure without putting pilots at risk.",
+     "related": [],
+     "story": {
+      "id": "world-drone-attack-in-gulf-of-finland",
+      "title": "Drone Attack in Gulf of Finland",
+      "so_far": "Since the 2022 invasion of Ukraine, the conflict has occasionally spilled over into regional waterways. Both sides use drones as a low-cost, precise method to strike targets behind enemy lines, including maritime vessels involved in Russian supply logistics.",
+      "timeline": [
+       {
+        "date": "2026-11-21",
+        "text": "A vessel traveling toward Russia has been hit by a drone attack reportedly launched by Ukrainian forces.",
+        "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
        }
       ]
      }
@@ -1576,25 +1543,19 @@
      }
     },
     {
-     "id": "d35bd4a79a04",
-     "title": "Ballistic missile attack on Zelenskyy's hometown kills 2",
-     "link": "https://www.thehindu.com/news/international/ballistic-missile-attack-on-zelenskyys-hometown-kills-2/article71729235.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-11-21T16:38:21+00:00",
-     "summary": "A ballistic missile attack on Kryvyi Rih resulted in two deaths, occurring alongside reports of Russian projectiles landing in Poland.",
-     "explain": "This reports on the same event as article idx 4. Ballistic missiles are long-range, high-speed weapons that are difficult to intercept. Their use against civilian targets in Ukraine while tensions are high regarding stray missiles entering Poland puts significant strain on international diplomatic efforts to stop the war.",
+     "id": "05a5d3417405",
+     "title": "Dashcam captures Russian missile strike on Lviv, Ukraine",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-22T07:59:29+00:00",
+     "summary": "Dashcam footage captured the moment a missile impacted a residential neighborhood in Lviv, Ukraine, highlighting the ongoing threat of Russian air strikes to civilians.",
+     "explain": "Lviv is a major city in western Ukraine that has faced recurring missile attacks throughout the war. Dashcam footage is video recorded from a camera mounted on a vehicle's dashboard. These recordings serve as primary evidence of war-time events, showing the immediate impact of strikes on residential areas, which is a major point of contention in international humanitarian law.",
      "related": [],
      "story": {
       "id": "world-diplomatic-talks-on-ukraine",
       "title": "Diplomatic Talks on Ukraine",
       "so_far": "The conflict between Russia and Ukraine has persisted since 2022, causing immense devastation and triggering massive global diplomatic and military efforts from Western allies. Attempts to negotiate peace are frequent but fragile, often undermined by continued military hostilities.",
       "timeline": [
-       {
-        "date": "2026-11-11",
-        "text": "The two sides are now in their second day of direct negotiations taking place in the United Arab Emirates.",
-        "link": "https://www.thehindu.com/news/international/russia-ukraine-hold-second-day-of-us-brokered-talks-in-abu-dhabi/article71689267.ece",
-        "source": "World News: Latest International News & "
-       },
        {
         "date": "2026-11-12",
         "text": "Envoys Jared Kushner and Steve Witkoff have traveled to Moscow for discussions with Vladimir Putin and will meet with Volodymyr Zelensky in Dublin shortly after.",
@@ -1660,29 +1621,35 @@
         "text": "The incident adds to the growing uncertainty surrounding peace negotiations brokered by the U.S.",
         "link": "https://www.thehindu.com/news/international/ballistic-missile-attack-on-zelenskyys-hometown-kills-2/article71729235.ece",
         "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-22",
+        "text": "New footage records a Russian missile strike on a civilian area in Lviv, illustrating the continued volatility of the war.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
        }
       ]
      }
     },
     {
-     "id": "2cc7b7508d1f",
-     "title": "FBI reportedly investigating apparent hack of its criminal database",
-     "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-21T16:35:15+00:00",
-     "summary": "The FBI is investigating an alleged security breach of the National Crime Information Center (NCIC) database.",
-     "explain": "The NCIC is a massive database used by police across the U.S. to track wanted individuals, stolen vehicles, and other criminal justice data. A 'hack' or breach suggests that unauthorized individuals may have gained access to sensitive records, which could compromise ongoing investigations or the safety of law enforcement personnel.",
+     "id": "a09c988b8107",
+     "title": "Max Verstappen wins F1 Las Vegas Grand Prix for third time in four years",
+     "link": "https://www.aljazeera.com/sports/2026/11/22/max-verstappen-las-vegas-grand-prix-f1-norris-piastri-russell-antonelli?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-22T07:48:28+00:00",
+     "summary": "Max Verstappen won the F1 Las Vegas Grand Prix, his third victory in four years at the event. The race was highly competitive, featuring 35 lead changes.",
+     "explain": "A 'lead change' occurs when one driver overtakes another to take the first position during a race. 35 lead changes in a single race is considered high, indicating that the event was exceptionally competitive. Verstappen's victory reinforces his status as the current leader in competitive racing.",
      "related": [],
      "story": {
-      "id": "world-fbi-criminal-database-breach",
-      "title": "FBI Criminal Database Breach",
-      "so_far": "Federal agencies in the U.S. maintain extensive digital networks to coordinate law enforcement activities across state lines. Protecting these databases from cyberattacks is a major priority for the U.S. Department of Justice.",
+      "id": "world-formula-1-las-vegas-grand-prix",
+      "title": "Formula 1 Las Vegas Grand Prix",
+      "so_far": "Formula 1 is the highest class of international auto racing for single-seater open-wheel grand prix cars. Max Verstappen, driving for Red Bull Racing, has been the dominant driver in the sport in recent seasons. The Las Vegas Grand Prix is a relatively new addition to the F1 calendar, known for its high-profile street circuit.",
       "timeline": [
        {
-        "date": "2026-11-21",
-        "text": "The FBI is investigating an alleged security breach of the National Crime Information Center (NCIC) database.",
-        "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "date": "2026-11-22",
+        "text": "Max Verstappen secured another victory at the Las Vegas Grand Prix in a race defined by intense competition.",
+        "link": "https://www.aljazeera.com/sports/2026/11/22/max-verstappen-las-vegas-grand-prix-f1-norris-piastri-russell-antonelli?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
        }
       ]
      }
@@ -1693,238 +1660,250 @@
    "label": "Business & Finance",
    "articles": [
     {
-     "id": "50b0774b97f2",
-     "title": "Odisha orders probe into foreign visits of Patnaik",
-     "link": "https://economictimes.indiatimes.com/news/politics-and-nation/odisha-govt-orders-probe-into-foreign-visits-of-patnaik-ex-ias-officer-pandian-during-2022-24/articleshow/136059911.cms",
-     "source": "Economic Times",
-     "published": "2026-11-21T17:13:15+00:00",
-     "summary": "The Odisha government has initiated an investigation into the foreign visits of former Chief Minister Naveen Patnaik.",
-     "explain": "A government probe is a formal investigation launched by authorities to check for potential misuse of public funds or procedural violations. This matters because it highlights the political accountability of leaders after leaving office and the standard practice of auditing previous administrations.",
+     "id": "1a2b925010be",
+     "title": "Shree Cement to cross 100 mt capacity in 3-4 years, says Chairman Hari Mohan Bangur",
+     "link": "https://www.thehindubusinessline.com/companies/shree-cement-to-cross-100-mt-capacity-in-3-4-years-says-chairman-hari-mohan-bangur/article71730925.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-22T08:24:49+00:00",
+     "summary": "Shree Cement projects its capacity will exceed 100 million tonnes within three to four years. The company anticipates a 9-10% annual growth rate, outpacing the broader Indian cement sector.",
+     "explain": "Cement companies are expanding production to support India's massive infrastructure and construction boom. Increasing capacity allows firms to maintain market share and economies of scale. CAGR (Compound Annual Growth Rate) is used here to measure the company's expected average annual growth over several years.",
      "related": [],
      "story": {
-      "id": "business-odisha-government-probes-patnaik-s-visit",
-      "title": "Odisha Government Probes Patnaik's Visits",
-      "so_far": "Naveen Patnaik served as the Chief Minister of Odisha for over two decades. Following his recent political exit, the new government is scrutinizing previous administrative expenditures and travel, reflecting a shift in state political oversight.",
+      "id": "business-shree-cement-capacity-expansion-plans",
+      "title": "Shree Cement Capacity Expansion Plans",
+      "so_far": "Shree Cement is a major player in the Indian cement industry, which is experiencing steady demand driven by infrastructure development and housing projects. The company is currently focusing on scaling its production capabilities to meet increasing market needs.",
       "timeline": [
        {
-        "date": "2026-11-21",
-        "text": "The current administration in Odisha has officially ordered a probe into the foreign trips undertaken by former CM Naveen Patnaik.",
-        "link": "https://economictimes.indiatimes.com/news/politics-and-nation/odisha-govt-orders-probe-into-foreign-visits-of-patnaik-ex-ias-officer-pandian-during-2022-24/articleshow/136059911.cms",
+        "date": "2026-11-22",
+        "text": "Shree Cement has announced a strategic growth target to reach 100 million tonnes of production capacity in the near future.",
+        "link": "https://www.thehindubusinessline.com/companies/shree-cement-to-cross-100-mt-capacity-in-3-4-years-says-chairman-hari-mohan-bangur/article71730925.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "21ea46420f9a",
+     "title": "Non-coal mining projects spread up to 500 hectares now to be appraised at state level",
+     "link": "https://www.thehindubusinessline.com/news/non-coal-mining-projects-spread-up-to-500-hectares-now-to-be-appraised-at-state-level/article71730911.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-22T08:04:32+00:00",
+     "summary": "The Union Environment Ministry has decentralized the environmental clearance process for non-coal mining projects spanning up to 500 hectares. These projects will now be evaluated at the state level rather than the central level.",
+     "explain": "Decentralization shifts power from the central federal government to individual states, theoretically reducing bureaucracy and accelerating project timelines. Mining projects are scrutinized to prevent environmental degradation and ensure safe extraction practices.",
+     "related": [],
+     "story": {
+      "id": "business-mining-environmental-clearance-decentral",
+      "title": "Mining Environmental Clearance Decentralization",
+      "so_far": "In India, industrial projects must undergo environmental impact assessments to ensure compliance with sustainability standards. Historically, large-scale approvals were handled centrally, which often led to administrative bottlenecks for smaller or medium-sized mining operations.",
+      "timeline": [
+       {
+        "date": "2026-11-22",
+        "text": "The government has delegated approval authority for medium-sized mining projects to state agencies to streamline regulatory workflows.",
+        "link": "https://www.thehindubusinessline.com/news/non-coal-mining-projects-spread-up-to-500-hectares-now-to-be-appraised-at-state-level/article71730911.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "43db7c8c2838",
+     "title": "BJP will pass Delimitation Bill ‘hook or by crook’: Congress",
+     "link": "https://economictimes.indiatimes.com/news/politics-and-nation/bjp-will-get-delimitation-bill-passed-by-hook-or-by-crook-congress-leader-raashid-alvi/articleshow/136069890.cms",
+     "source": "Economic Times",
+     "published": "2026-11-22T07:55:48+00:00",
+     "summary": "The Congress party has accused the BJP of intending to force the passage of a Delimitation Bill despite political opposition.",
+     "explain": "Delimitation ensures that constituencies have roughly equal numbers of voters. Because it can change the power balance in parliament, the process is often heavily contested by political parties concerned about losing their influence in specific regions.",
+     "related": [],
+     "story": {
+      "id": "business-political-tension-over-delimitation-bill",
+      "title": "Political Tension Over Delimitation Bill",
+      "so_far": "Delimitation is the process of redrawing electoral boundaries to account for changes in population density. It is a highly sensitive political issue in India as it directly affects the representation of different regions and demographic groups in the parliament.",
+      "timeline": [
+       {
+        "date": "2026-11-22",
+        "text": "Opposition parties are criticizing the ruling government's approach to legislative changes regarding electoral boundaries.",
+        "link": "https://economictimes.indiatimes.com/news/politics-and-nation/bjp-will-get-delimitation-bill-passed-by-hook-or-by-crook-congress-leader-raashid-alvi/articleshow/136069890.cms",
         "source": "Economic Times"
        }
       ]
      }
     },
     {
-     "id": "21bd3c02f4e3",
-     "title": "IHCL marks 400-hotel milestone with Taj Yelahanka, deepens Krishna GVK partnership",
-     "link": "https://www.livemint.com/companies/news/ihcl-marks-400-hotel-milestone-with-taj-yelahanka-deepens-krishna-gvk-partnership-11795277914880.html",
-     "source": "mint - companies",
-     "published": "2026-11-21T16:46:19+00:00",
-     "summary": "IHCL, the parent company of Taj Hotels, has reached a milestone of 400 operating hotels with the opening of a new property in Bengaluru.",
-     "explain": "IHCL is the operator of the Taj hotel brand. Reaching 400 hotels indicates significant scaling in the hospitality sector, which typically signals confidence in domestic tourism and business travel growth. The partnership mentioned is a joint investment strategy between the hotel operator and a real estate developer.",
-     "related": [],
-     "story": {
-      "id": "business-ihcl-strategic-hotel-expansion",
-      "title": "IHCL Strategic Hotel Expansion",
-      "so_far": "Indian Hotels Company Limited (IHCL) is a major hospitality firm in India that operates the iconic Taj brand. The company has been aggressively expanding its footprint across India to meet the rising demand for luxury and mid-market accommodation.",
-      "timeline": [
-       {
-        "date": "2026-11-21",
-        "text": "IHCL opened the Taj Yelahanka in Bengaluru, its 400th hotel, while deepening its long-term partnership with Krishna GVK Luxury Hotels.",
-        "link": "https://www.livemint.com/companies/news/ihcl-marks-400-hotel-milestone-with-taj-yelahanka-deepens-krishna-gvk-partnership-11795277914880.html",
-        "source": "mint - companies"
-       }
-      ]
-     }
-    },
-    {
-     "id": "60044135e25d",
-     "title": "Mahanadi Coalfields IPO: A dividend play",
-     "link": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/mahanadi-coalfields-ipo-a-dividend-play/article71724780.ece",
+     "id": "208d60462ed3",
+     "title": "Google pledges $5 million to IIT Kharagpur for AI research",
+     "link": "https://www.thehindubusinessline.com/info-tech/google-pledges-5-million-to-iit-kharagpur-for-ai-research/article71730898.ece",
      "source": "Business News Today: Latest Business New",
-     "published": "2026-11-21T16:43:49+00:00",
-     "summary": "Mahanadi Coalfields, a subsidiary of Coal India, is being evaluated by market analysts as a potential IPO candidate that could provide steady dividends.",
-     "explain": "An IPO (Initial Public Offering) allows a company to raise money from the public. Analysts view this firm as a 'dividend play,' meaning they expect the company to share a portion of its profits regularly with shareholders, making it an attractive investment for those seeking steady income.",
-     "related": [],
-     "story": {
-      "id": "business-mahanadi-coalfields-potential-ipo",
-      "title": "Mahanadi Coalfields Potential IPO",
-      "so_far": "Mahanadi Coalfields is one of the largest coal-producing companies in India, crucial for feeding the country's thermal power plants. An IPO involves listing a company on the stock exchange for the first time, allowing public investors to buy shares.",
-      "timeline": [
-       {
-        "date": "2026-11-21",
-        "text": "Market analysts are tracking Mahanadi Coalfields as a candidate for a public offering, citing expected growth as thermal power demand rises.",
-        "link": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/mahanadi-coalfields-ipo-a-dividend-play/article71724780.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "2f1db7f68699",
-     "title": "Warburg Pincus buys stake in Pricol Autotech: What should investors do?",
-     "link": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/warburg-pincus-buys-stake-in-pricol-autotech-what-should-investors-do/article71728132.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-21T16:43:33+00:00",
-     "summary": "Private equity firm Warburg Pincus has acquired a stake in Pricol Autotech, though the market reaction has been mixed due to valuation concerns.",
-     "explain": "Private equity investment involves a firm purchasing a significant stake in a company to help improve performance or expansion. When a company experiences an 'exit' at a low valuation, it means original owners sold their shares at a lower price than expected, which can temporarily worry existing stock market investors.",
+     "published": "2026-11-22T07:44:11+00:00",
+     "summary": "Google has pledged $5 million to IIT Kharagpur to support advancements in artificial intelligence research.",
+     "explain": "Artificial intelligence research involves creating software that can learn and solve complex problems. By funding top universities, corporations like Google gain access to cutting-edge research and high-skilled graduates, helping them stay ahead in the competitive tech landscape.",
      "related": [
       {
-       "date": "2026-11-14",
-       "title": "Pricol promoters to sell entire stake in demerged connected vehicle business to Warburg Pincus",
-       "link": "https://www.thehindubusinessline.com/companies/pricol-promoters-to-sell-entire-stake-in-demerged-connected-vehicle-business-to-warburg-pincus/article71699569.ece",
+       "date": "2026-11-21",
+       "title": "Google to provide IIT Kharagpur $5 million for advanced AI research",
+       "link": "https://www.thehindubusinessline.com/news/education/google-to-provide-iit-kharagpur-5-million-for-advanced-ai-research/article71727711.ece",
        "source": "Business News Today: Latest Business New"
       }
      ],
      "story": {
-      "id": "business-warburg-pincus-investment-in-pricol",
-      "title": "Warburg Pincus Investment in Pricol",
-      "so_far": "Pricol is an Indian manufacturer of automotive components. Warburg Pincus is a global private equity firm that invests in growing companies to help them scale operations.",
+      "id": "business-google-ai-research-funding-for-iit",
+      "title": "Google AI Research Funding for IIT",
+      "so_far": "Tech giants are increasingly investing in global academic institutions to secure a talent pipeline and advance research in AI. IIT Kharagpur is one of India's premier institutes for technology and engineering education.",
       "timeline": [
        {
-        "date": "2026-11-21",
-        "text": "Warburg Pincus has taken a stake in the auto component manufacturer Pricol Autotech, with investors weighing the long-term growth prospects against initial stock price dips.",
-        "link": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/warburg-pincus-buys-stake-in-pricol-autotech-what-should-investors-do/article71728132.ece",
+        "date": "2026-11-22",
+        "text": "Google, led by alumnus Sundar Pichai, has committed significant financial support to a major Indian engineering institute for AI development.",
+        "link": "https://www.thehindubusinessline.com/info-tech/google-pledges-5-million-to-iit-kharagpur-for-ai-research/article71730898.ece",
         "source": "Business News Today: Latest Business New"
        }
       ]
      }
     },
     {
-     "id": "882d3ba86d09",
-     "title": "PM launches projects worth around ₹34,000 crore in Bihar's Vaishali",
-     "link": "https://www.thehindubusinessline.com/news/national/pm-launches-projects-worth-around-34000-crore-in-bihars-vaishali/article71727840.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-21T16:39:33+00:00",
-     "summary": "The Prime Minister of India has inaugurated infrastructure projects worth ₹34,000 crore in Bihar, focusing primarily on national highway expansion.",
-     "explain": "These projects involve building and upgrading national highways (NH) to six lanes or creating new transport corridors. Improving roads is essential for reducing transport time and costs, which helps businesses move goods more efficiently across the state.",
+     "id": "541dca85587e",
+     "title": "PNB needs Rs 5,000 cr extra provisions under ECL",
+     "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/pnb-needs-rs-5000-crore-extra-provisions-under-ecl-ceo-sees-limited-impact/articleshow/136069636.cms",
+     "source": "Economic Times",
+     "published": "2026-11-22T07:32:50+00:00",
+     "summary": "Punjab National Bank (PNB) has been advised to set aside an additional ₹5,000 crore in provisions under the Expected Credit Loss (ECL) framework.",
+     "explain": "Provisions are funds set aside by a bank to cover anticipated future losses, such as non-performing loans. Increasing these provisions helps keep the bank solvent but can temporarily lower its reported profitability.",
      "related": [],
      "story": {
-      "id": "business-infrastructure-development-in-bihar",
-      "title": "Infrastructure Development in Bihar",
-      "so_far": "The Indian government has been prioritizing infrastructure development—including roads, bridges, and railways—to boost economic activity and logistics efficiency. Bihar has been a key focus area for these developmental grants in recent years.",
+      "id": "business-pnb-financial-provisions-and-ecl",
+      "title": "PNB Financial Provisions and ECL",
+      "so_far": "Banking regulations are regularly updated to ensure financial stability. The ECL framework is a modern accounting standard where banks must estimate potential losses on loans before they actually occur, ensuring they have enough money in reserve.",
       "timeline": [
        {
-        "date": "2026-11-21",
-        "text": "The Prime Minister launched significant road and infrastructure projects in Vaishali, Bihar, totaling ₹34,000 crore to improve regional connectivity.",
-        "link": "https://www.thehindubusinessline.com/news/national/pm-launches-projects-worth-around-34000-crore-in-bihars-vaishali/article71727840.ece",
-        "source": "Business News Today: Latest Business New"
+        "date": "2026-11-22",
+        "text": "PNB faces a new regulatory requirement to increase capital buffers to protect against future loan defaults.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/pnb-needs-rs-5000-crore-extra-provisions-under-ecl-ceo-sees-limited-impact/articleshow/136069636.cms",
+        "source": "Economic Times"
        }
       ]
      }
     },
     {
-     "id": "af817ce4d875",
-     "title": "Nifty finally ‘Trumps’ Nasdaq in a dramatic 2026 market reversal",
-     "link": "https://www.thehindubusinessline.com/portfolio/nifty-trumps-nasdaq/article71726036.ece",
+     "id": "2c18eda233db",
+     "title": "Maruti Suzuki hikes select model prices amid cost pressures",
+     "link": "https://www.thehindubusinessline.com/companies/maruti-suzuki-hikes-select-model-prices-amid-cost-pressures/article71730823.ece",
      "source": "Business News Today: Latest Business New",
-     "published": "2026-11-21T16:35:29+00:00",
-     "summary": "In a market reversal, the Indian Nifty index has outperformed the US-based Nasdaq in 2026 performance trends.",
-     "explain": "Stock indices are trackers that measure the health of a specific market. When one index 'trumps' another, it means the group of companies in that index grew more in value during the specified period. This trend shows how capital is flowing between different global markets.",
+     "published": "2026-11-22T07:05:25+00:00",
+     "summary": "Maruti Suzuki has implemented a price hike on select vehicle models, citing ongoing cost pressures. This follows three previous increases earlier in the year.",
+     "explain": "Cost pressures refer to the rising expenses incurred by a company to build its products. Price hikes are a standard way for manufacturers to offset these expenses and maintain their bottom line in an inflationary environment.",
      "related": [],
      "story": {
-      "id": "business-nifty-vs-nasdaq-market-trends",
-      "title": "Nifty vs Nasdaq Market Trends",
-      "so_far": "The Nifty 50 is a benchmark stock market index for the National Stock Exchange of India, representing the largest companies in the country. The Nasdaq is a US index heavily weighted toward technology stocks.",
+      "id": "business-maruti-suzuki-price-increases",
+      "title": "Maruti Suzuki Price Increases",
+      "so_far": "Automakers often raise prices when raw materials like steel, aluminum, and semiconductors become more expensive. These costs are frequently passed on to the consumer to protect the company's profit margins.",
       "timeline": [
        {
-        "date": "2026-11-21",
-        "text": "The Nifty 50 has shown stronger comparative performance than the Nasdaq in 2026, marking a notable shift in global investment favor.",
-        "link": "https://www.thehindubusinessline.com/portfolio/nifty-trumps-nasdaq/article71726036.ece",
+        "date": "2026-11-22",
+        "text": "India's largest automaker has raised prices again to manage rising manufacturing and logistics costs.",
+        "link": "https://www.thehindubusinessline.com/companies/maruti-suzuki-hikes-select-model-prices-amid-cost-pressures/article71730823.ece",
         "source": "Business News Today: Latest Business New"
        }
       ]
      }
     },
     {
-     "id": "01ee5b6a66d5",
-     "title": "Optimist bets on indigenous technology to take on established AC players",
-     "link": "https://www.thehindubusinessline.com/companies/optimist-bets-on-indigenous-technology-to-take-on-established-ac-players/article71729263.ece",
+     "id": "5b7af45c97d9",
+     "title": "Airbnb looks beyond traditional holiday hubs to deepen India presence, bets on homestays",
+     "link": "https://www.thehindubusinessline.com/companies/airbnb-looks-beyond-traditional-holiday-hubs-to-deepen-india-presence-bets-on-homestays/article71730779.ece",
      "source": "Business News Today: Latest Business New",
-     "published": "2026-11-21T16:31:31+00:00",
-     "summary": "An entrepreneur in the air conditioning sector is betting on indigenous (made-in-India) technology to compete with established brands.",
-     "explain": "Indigenous technology refers to products designed and built locally rather than imported. This matters as it reduces dependence on foreign parts, can lower costs, and aligns with national economic goals for self-reliance in the consumer electronics sector.",
+     "published": "2026-11-22T07:02:27+00:00",
+     "summary": "Airbnb is expanding its presence in India by focusing on homestays outside of major traditional tourism hubs.",
+     "explain": "Homestays allow travelers to rent a room or an entire home directly from a local owner. This model is often more affordable and personalized than hotels, and expanding into non-traditional hubs helps the company grow its footprint in untapped regional markets.",
      "related": [],
      "story": {
-      "id": "business-indigenous-tech-in-ac-market",
-      "title": "Indigenous Tech in AC Market",
-      "so_far": "The Indian air conditioning market is highly competitive, traditionally dominated by large global brands with extensive distribution networks. Companies are increasingly seeking to localize manufacturing under the 'Make in India' initiative.",
+      "id": "business-airbnb-india-market-expansion",
+      "title": "Airbnb India Market Expansion",
+      "so_far": "Airbnb operates a platform that connects travelers with hosts who rent out their properties. As travel trends evolve, the company is shifting from focusing solely on tourist hotspots to smaller, regional markets to capture the rising demand for domestic travel.",
       "timeline": [
        {
-        "date": "2026-11-21",
-        "text": "A domestic AC manufacturer claims that local innovation is the key to disrupting a market currently dominated by legacy players.",
-        "link": "https://www.thehindubusinessline.com/companies/optimist-bets-on-indigenous-technology-to-take-on-established-ac-players/article71729263.ece",
+        "date": "2026-11-22",
+        "text": "The company is diversifying its travel offerings in India, betting on domestic tourism growth in non-traditional locations.",
+        "link": "https://www.thehindubusinessline.com/companies/airbnb-looks-beyond-traditional-holiday-hubs-to-deepen-india-presence-bets-on-homestays/article71730779.ece",
         "source": "Business News Today: Latest Business New"
        }
       ]
      }
     },
     {
-     "id": "ff66e282091a",
-     "title": "Bandu’s Blockbusters for November 22, 2026",
-     "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/bandus-blockbusters-for-november-22-2026/article71728241.ece",
+     "id": "0d123d4cd58e",
+     "title": "GST officer's Rs 10 lakh bribe leads to CBI raid",
+     "link": "https://economictimes.indiatimes.com/news/new-updates/gst-officer-accepts-rs-10-lakh-bribe-cbi-raids-his-home-next-day-recovers-rs-1-86-crore-in-assets-including-rs-24-lakh-cash-rs-15-65-lakh-in-foreign-currency-gold-silver/articleshow/136069003.cms",
+     "source": "Economic Times",
+     "published": "2026-11-22T06:55:26+00:00",
+     "summary": "A GST officer has been caught in a corruption case involving a ₹10 lakh bribe, leading to a raid by the Central Bureau of Investigation (CBI).",
+     "explain": "A bribe is an illegal payment made to an official to gain a favor or avoid a penalty. A CBI raid occurs when the federal agency searches a location for evidence of criminal activity following reports of corruption.",
+     "related": [],
+     "story": {
+      "id": "business-cbi-raid-on-gst-officer",
+      "title": "CBI Raid on GST Officer",
+      "so_far": "Corruption remains a challenge in various levels of public administration in India. The CBI is the primary federal agency responsible for investigating high-profile cases of bribery and public sector corruption.",
+      "timeline": [
+       {
+        "date": "2026-11-22",
+        "text": "Authorities have taken action against a tax official accused of soliciting a bribe.",
+        "link": "https://economictimes.indiatimes.com/news/new-updates/gst-officer-accepts-rs-10-lakh-bribe-cbi-raids-his-home-next-day-recovers-rs-1-86-crore-in-assets-including-rs-24-lakh-cash-rs-15-65-lakh-in-foreign-currency-gold-silver/articleshow/136069003.cms",
+        "source": "Economic Times"
+       }
+      ]
+     }
+    },
+    {
+     "id": "e498c3b8a572",
+     "title": "EV brand E-Went eyes mass market, to test sodium-ion batteries from December",
+     "link": "https://www.thehindubusinessline.com/companies/ev-brand-e-went-eyes-mass-market-to-test-sodium-ion-batteries-from-december/article71730783.ece",
      "source": "Business News Today: Latest Business New",
-     "published": "2026-11-21T16:25:45+00:00",
-     "summary": "Guess the stock that will give the best return by next Friday",
-     "explain": null,
+     "published": "2026-11-22T06:53:58+00:00",
+     "summary": "EV startup E-Went is targeting the mass market and will begin testing sodium-ion batteries in December.",
+     "explain": "Sodium-ion batteries use salt instead of lithium, making them cheaper to produce. By adopting this technology, EV manufacturers hope to lower the cost of their vehicles, making them more attractive to price-sensitive mass-market consumers.",
+     "related": [],
+     "story": {
+      "id": "business-e-went-mass-market-ev-strategy",
+      "title": "E-Went Mass Market EV Strategy",
+      "so_far": "The electric vehicle industry is currently searching for alternatives to lithium-ion batteries due to cost and supply concerns. Sodium-ion is considered a promising, cheaper, and more sustainable alternative for entry-level vehicles.",
+      "timeline": [
+       {
+        "date": "2026-11-22",
+        "text": "The EV brand is exploring new battery technology to scale its operations across multiple Indian states.",
+        "link": "https://www.thehindubusinessline.com/companies/ev-brand-e-went-eyes-mass-market-to-test-sodium-ion-batteries-from-december/article71730783.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "1dec017b38e9",
+     "title": "Chalet Hotels plans ₹3,500 cr capex in 3 years: CEO",
+     "link": "https://www.thehindubusinessline.com/companies/chalet-hotels-plans-3500-cr-capex-in-3-years-ceo/article71730780.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-22T06:49:22+00:00",
+     "summary": "Chalet Hotels announced a ₹3,500 crore capital expenditure plan over the next three years, including an increased room capacity for its Delhi airport project.",
+     "explain": "Capex is money spent to grow or improve a business. Increasing the number of rooms at a property allows a hotel to accommodate more guests, which generally leads to higher revenue as travel demand remains high.",
      "related": [
       {
-       "date": "2026-10-31",
-       "title": "Money changes from November 1, 2026",
-       "link": "https://economictimes.indiatimes.com/wealth/invest/money-changes-from-november-1-2026-revised-pnb-credit-card-charges-increased-indusind-bank-fees-and-itr-deadline-know-key-changes/articleshow/135371890.cms",
+       "date": "2026-11-08",
+       "title": "Adani plans ₹35,000-40,000 crore annual capex",
+       "link": "https://economictimes.indiatimes.com/news/company/corporate-trends/adani-enterprises-plans-rs-35000-40000-crore-annual-capex-in-next-two-years/articleshow/135651827.cms",
        "source": "Economic Times"
       },
       {
-       "date": "2026-10-31",
-       "title": "Who Am I? November 1, 2026",
-       "link": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/who-am-i-november-1-2026/article71649463.ece",
+       "date": "2026-11-08",
+       "title": "Adani Enterprises plans ₹40,000 cr annual capex over two years",
+       "link": "https://www.thehindubusinessline.com/companies/adani-enterprises-plans-35000-40000-cr-annual-capex-in-next-two-years/article71680572.ece",
        "source": "Business News Today: Latest Business New"
       }
      ],
-     "story": null
-    },
-    {
-     "id": "53b43a317c9d",
-     "title": "The mediclaim menu gets bigger",
-     "link": "https://www.thehindubusinessline.com/portfolio/personal-finance/the-mediclaim-menu-gets-bigger/article71675637.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-21T16:25:41+00:00",
-     "summary": "The health insurance market in India is diversifying, with new policy variants emerging that cater to broader needs and cost-conscious consumers.",
-     "explain": "A 'mediclaim' is essentially health insurance coverage. As the market matures, companies are introducing new 'variants' (different types of plans) that allow consumers to pick and choose specific coverage levels, helping them manage their personal finances while getting better access to healthcare.",
-     "related": [],
      "story": {
-      "id": "business-health-insurance-market-diversification",
-      "title": "Health Insurance Market Diversification",
-      "so_far": "Health insurance in India has seen increased adoption post-pandemic. Companies are currently iterating on their offerings to cover a wider range of medical services while keeping premiums attractive for middle-class consumers.",
+      "id": "business-chalet-hotels-capex-expansion",
+      "title": "Chalet Hotels Capex Expansion",
+      "so_far": "Capital expenditure (Capex) refers to funds used by a company to acquire or upgrade physical assets like hotels. Chalet Hotels is investing heavily to capitalize on the post-pandemic rebound in domestic and international travel in India.",
       "timeline": [
        {
-        "date": "2026-11-21",
-        "text": "Insurance providers are expanding their product portfolios with new variants designed to be more affordable and inclusive, termed as the 'mediclaim menu'.",
-        "link": "https://www.thehindubusinessline.com/portfolio/personal-finance/the-mediclaim-menu-gets-bigger/article71675637.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "116f1cf15e61",
-     "title": "Tech Query: ICICI Bank, Gujarat Energy, Kaynes Technology Limited, Cochin Shipyard — What is the outlook? Where are these stocks headed?",
-     "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/tech-query-icici-bank-gujarat-energy-kaynes-technology-limited-cochin-shipyard-what-is-the-outlook-where-are-these-stocks-headed/article71724577.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-21T16:24:08+00:00",
-     "summary": "Market analysts are evaluating the future outlook for several major Indian companies, including ICICI Bank and Cochin Shipyard.",
-     "explain": "An 'outlook' analysis provides a professional opinion on whether a stock is likely to grow or decline in the near future based on available financial data. Investors use these to decide whether to 'buy', 'hold', or 'sell' their shares.",
-     "related": [],
-     "story": {
-      "id": "business-stock-market-outlook-analysis",
-      "title": "Stock Market Outlook Analysis",
-      "so_far": "Investors frequently seek expert analysis on company stocks to manage their investment portfolios. These reports weigh current financial health, market competition, and sector-specific trends.",
-      "timeline": [
-       {
-        "date": "2026-11-21",
-        "text": "Analysts provided guidance on the financial prospects of ICICI Bank, Gujarat Energy, Kaynes Technology, and Cochin Shipyard, helping investors gauge future performance.",
-        "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/tech-query-icici-bank-gujarat-energy-kaynes-technology-limited-cochin-shipyard-what-is-the-outlook-where-are-these-stocks-headed/article71724577.ece",
+        "date": "2026-11-22",
+        "text": "The hotel chain is ramping up its investment plans to expand its luxury hospitality portfolio.",
+        "link": "https://www.thehindubusinessline.com/companies/chalet-hotels-plans-3500-cr-capex-in-3-years-ceo/article71730780.ece",
         "source": "Business News Today: Latest Business New"
        }
       ]
@@ -2048,323 +2027,313 @@
      }
     },
     {
-     "id": "170e6d7f2c85",
-     "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
-     "link": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "id": "f981b59c5cc4",
+     "title": "Why gold’s five-year winning streak is under threat after dramatic selloff",
+     "link": "https://economictimes.indiatimes.com/markets/commodities/why-golds-five-year-winning-streak-is-under-threat-after-dramatic-selloff/articleshow/136070323.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-11-22T08:21:09+00:00",
+     "summary": "Gold prices have dropped significantly to approximately $3,510 per ounce, ending a five-year winning streak. Investors are moving away from the metal due to a stronger US dollar, rising bond yields, and general profit-taking.",
+     "explain": "Gold is a precious metal that investors buy when they are worried about the economy because it usually holds its value. When the US dollar becomes stronger or bond yields (the return an investor gets on government debt) rise, gold often loses popularity because it doesn't pay interest or dividends. The recent sell-off indicates that investors are currently more confident in other financial assets, leading them to cash out their gold holdings.",
+     "related": [],
+     "story": {
+      "id": "markets-global-gold-market-correction",
+      "title": "Global Gold Market Correction",
+      "so_far": "Gold is traditionally viewed as a 'safe-haven' asset, meaning investors flock to it during times of economic uncertainty or high inflation. For the past five years, gold saw consistent growth, but market sentiment has shifted recently as higher US interest rates and a stronger dollar have reduced its appeal compared to interest-bearing assets like government bonds.",
+      "timeline": [
+       {
+        "date": "2026-11-22",
+        "text": "Gold prices are on track for their first annual loss in five years following a sharp decline from record highs reached earlier in 2026.",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/why-golds-five-year-winning-streak-is-under-threat-after-dramatic-selloff/articleshow/136070323.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-22",
+        "text": "Gold recorded its steepest weekly decline since March, pressured by expectations of higher US interest rates.",
+        "link": "https://www.livemint.com/market/commodities/what-is-future-of-gold-rates-price-crash-continues-as-ai-selloff-fed-rate-hike-concerns-weigh-on-investors-sentiment-11795325490076.html",
+        "source": "mint - markets"
+       }
+      ]
+     }
+    },
+    {
+     "id": "c1dd6f708dc5",
+     "title": "WeWork India share price jumps 40% in 6 months; ICICI Direct sees 37% more gains ahead - Buy? Check Target",
+     "link": "https://www.livemint.com/market/stock-market-news/wework-india-share-price-jumps-40-in-6-months-icici-direct-sees-37-more-gains-ahead-buy-check-target-11795334473941.html",
+     "source": "mint - markets",
+     "published": "2026-11-22T08:06:42+00:00",
+     "summary": "WeWork India's share price has experienced a significant 40% gain over the last six months despite recent minor fluctuations. Analysts remain optimistic about the company's growth, maintaining a buy rating.",
+     "explain": "A 'Buy' rating from an analyst firm like ICICI Securities suggests they believe the stock price will increase in the future. 'Capex' (capital expenditure) refers to money a company spends to maintain or upgrade physical assets, like office spaces. EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) is a common metric used to measure a company's overall financial health and operational profitability.",
+     "related": [],
+     "story": {
+      "id": "markets-wework-india-market-performance",
+      "title": "WeWork India Market Performance",
+      "so_far": "WeWork India operates as a flexible workspace provider, offering coworking offices for companies and freelancers. The Indian commercial real estate market has seen increased demand as hybrid work models become standard for many businesses.",
+      "timeline": [
+       {
+        "date": "2026-11-22",
+        "text": "ICICI Securities has set a target price of ₹933 for WeWork India shares, citing expected revenue and EBITDA growth.",
+        "link": "https://www.livemint.com/market/stock-market-news/wework-india-share-price-jumps-40-in-6-months-icici-direct-sees-37-more-gains-ahead-buy-check-target-11795334473941.html",
+        "source": "mint - markets"
+       }
+      ]
+     }
+    },
+    {
+     "id": "060a14877279",
+     "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+     "link": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph.com News",
-     "published": "2026-11-20T15:55:22+00:00",
-     "summary": "The U.S. Senate has approved the DEATH BETS Act, which seeks to prohibit prediction markets from offering wagers on war, assassinations, and death.",
-     "explain": "Prediction markets are platforms where people bet money on future outcomes like elections or global events. The government is concerned that allowing bets on morbid or high-stakes events like war creates dangerous incentives or unethical practices. This bill aims to curb these specific types of trading to protect market integrity.",
+     "published": "2026-11-22T07:24:05+00:00",
+     "summary": "Cyber's token transfers have been halted on several South Korean exchanges following a suspicious bridge exploit. The incident involved unauthorized minting of tokens and assets being moved out of a bridge lockbox.",
+     "explain": "A 'bridge' is a tool that lets people move digital currency between different blockchains (like moving money between two different bank systems). These bridges are essentially digital vaults that hold large amounts of assets. When a bridge is 'exploited' or hacked, it means a bad actor has found a security flaw in the code to steal those assets, which is why exchanges often freeze trading to prevent further losses.",
      "related": [],
      "story": {
-      "id": "markets-us-senate-prediction-market-restrictions",
-      "title": "US Senate Prediction Market Restrictions",
-      "so_far": "Prediction markets allow users to bet on the outcome of real-world events. While proponents argue they provide accurate crowd-sourced data, critics express concerns about ethical implications, the potential for manipulating sensitive events, and risks of insider trading. This act specifically targets events involving violence and national security.",
+      "id": "markets-cysic-protocol-bridge-hack",
+      "title": "Cysic Protocol Bridge Hack",
+      "so_far": "Bridges are tools that allow users to transfer assets between different blockchains. Because they hold large amounts of digital assets in 'smart contracts,' they are frequently targeted by hackers looking for vulnerabilities in the code.",
       "timeline": [
        {
-        "date": "2026-11-20",
-        "text": "The Senate has officially advanced legislation aimed at banning specific, controversial categories of betting on prediction markets.",
-        "link": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "date": "2026-10-23",
+        "text": "A hacker exploited the Cysic bridge to mint 10 million tokens and moved $744,000 worth of crypto into Tornado Cash.",
+        "link": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News"
        },
        {
-        "date": "2026-11-20",
-        "text": "The bill has successfully passed the Senate, moving closer to becoming federal law.",
-        "link": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+        "date": "2026-11-22",
+        "text": "Cyber is investigating a bridge vulnerability after anomalous token activity was detected on the Solana and Ethereum networks.",
+        "link": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-22",
+        "text": "Chainflip is attempting a 'white-hat' recovery by offering a 10% bounty to the hacker in exchange for the return of stolen funds.",
+        "link": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
        }
       ]
      }
     },
     {
-     "id": "93f92c17ab1e",
-     "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
-     "link": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
-     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
-     "published": "2026-11-20T14:25:57+00:00",
-     "summary": "The U.S. Senate passed a bill to ban prediction market bets on war and death.",
-     "explain": "This move represents a direct legislative effort to define boundaries for online gambling and prediction platforms. By banning specific types of wagers, Congress is drawing a line between speculative forecasting and potentially harmful financial activity related to human tragedy.",
+     "id": "9242aaa9f830",
+     "title": "What is future of gold rates? Price crash continues as AI selloff, Fed rate-hike concerns weigh on investors' sentiment",
+     "link": "https://www.livemint.com/market/commodities/what-is-future-of-gold-rates-price-crash-continues-as-ai-selloff-fed-rate-hike-concerns-weigh-on-investors-sentiment-11795325490076.html",
+     "source": "mint - markets",
+     "published": "2026-11-22T06:54:55+00:00",
+     "summary": "Gold prices fell for the fifth consecutive day as global investor sentiment soured due to fears of US Federal Reserve rate hikes. This decline is part of a broader market trend affecting both precious metals and AI-linked stocks.",
+     "explain": "The 'Federal Reserve' (the Fed) is the US central bank that sets interest rates for the entire country. When the Fed signals a 'rate hike,' they are making it more expensive to borrow money. This usually makes the US dollar more attractive and makes assets that don't pay interest—like gold—less desirable, leading to a drop in price.",
      "related": [],
      "story": {
-      "id": "markets-us-senate-prediction-market-restrictions",
-      "title": "US Senate Prediction Market Restrictions",
-      "so_far": "Prediction markets allow users to bet on the outcome of real-world events. While proponents argue they provide accurate crowd-sourced data, critics express concerns about ethical implications, the potential for manipulating sensitive events, and risks of insider trading. This act specifically targets events involving violence and national security.",
+      "id": "markets-global-gold-market-correction",
+      "title": "Global Gold Market Correction",
+      "so_far": "Gold is traditionally viewed as a 'safe-haven' asset, meaning investors flock to it during times of economic uncertainty or high inflation. For the past five years, gold saw consistent growth, but market sentiment has shifted recently as higher US interest rates and a stronger dollar have reduced its appeal compared to interest-bearing assets like government bonds.",
       "timeline": [
        {
-        "date": "2026-11-20",
-        "text": "The Senate has officially advanced legislation aimed at banning specific, controversial categories of betting on prediction markets.",
-        "link": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
+        "date": "2026-11-22",
+        "text": "Gold prices are on track for their first annual loss in five years following a sharp decline from record highs reached earlier in 2026.",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/why-golds-five-year-winning-streak-is-under-threat-after-dramatic-selloff/articleshow/136070323.cms",
+        "source": "Markets-Economic Times"
        },
        {
-        "date": "2026-11-20",
-        "text": "The bill has successfully passed the Senate, moving closer to becoming federal law.",
-        "link": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+        "date": "2026-11-22",
+        "text": "Gold recorded its steepest weekly decline since March, pressured by expectations of higher US interest rates.",
+        "link": "https://www.livemint.com/market/commodities/what-is-future-of-gold-rates-price-crash-continues-as-ai-selloff-fed-rate-hike-concerns-weigh-on-investors-sentiment-11795325490076.html",
+        "source": "mint - markets"
        }
       ]
      }
     },
     {
-     "id": "949b7fe818c6",
-     "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
-     "link": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "id": "3a57d1dd2fab",
+     "title": "InvIT IPO rush gathers pace; 4-5 private trusts likely to go public by Mar 2027",
+     "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/invit-ipo-rush-gathers-pace-4-5-private-trusts-likely-to-go-public-by-mar-2027/articleshow/136069094.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-11-22T06:45:10+00:00",
+     "summary": "Infrastructure Investment Trusts (InvITs) are preparing for a wave of IPOs with several major firms looking to raise Rs 17,000 crore by March 2027. These trusts provide a mechanism for investors to participate in large-scale infrastructure projects.",
+     "explain": "An InvIT acts like a mutual fund but for infrastructure projects instead of stocks. It pools money from many investors to own and operate revenue-generating infrastructure. It matters because it allows massive, long-term construction projects to get funded by the public while giving regular investors a way to earn steady income from stable assets like utility networks.",
+     "related": [],
+     "story": {
+      "id": "markets-infrastructure-investment-trusts-growth",
+      "title": "Infrastructure Investment Trusts Growth",
+      "so_far": "Infrastructure projects like highways, power plants, and telecom towers require massive capital and take years to become profitable. InvITs were created to allow institutional and retail investors to pool their money to fund these projects, receiving dividends from the projects' operational cash flows in return.",
+      "timeline": [
+       {
+        "date": "2026-11-22",
+        "text": "Major firms including Brookfield and Investcorp are planning to launch public offerings for their infrastructure trusts by 2027.",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/invit-ipo-rush-gathers-pace-4-5-private-trusts-likely-to-go-public-by-mar-2027/articleshow/136069094.cms",
+        "source": "Markets-Economic Times"
+       }
+      ]
+     }
+    },
+    {
+     "id": "28f6df86eeb2",
+     "title": "5 penny stocks plunge up to 68% in six months. Do you own any?",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/news/5-penny-stocks-plunge-up-to-68-in-six-months-do-you-own-any/slideshow/136069072.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-11-22T06:33:45+00:00",
+     "summary": "Five BSE Smallcap penny stocks have recorded significant losses, with some plummeting up to 68% over the past six months. This highlights the high risk associated with trading low-liquidity stocks.",
+     "explain": "Smallcap stocks represent smaller, less established companies. Because they are not traded as often as 'blue-chip' (large, stable) stocks, their prices are much more sensitive to small changes in buying or selling activity. Traders refer to these as 'penny stocks' because of their low cost, but this low price often hides the fact that the companies may be struggling financially, making them an extremely risky investment.",
+     "related": [
+      {
+       "date": "2026-10-22",
+       "title": "10 stocks plunge up to 53% from their yearly peaks",
+       "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-stocks-plunge-up-to-53-from-their-yearly-peaks/slideshow/135116041.cms",
+       "source": "Markets-Economic Times"
+      }
+     ],
+     "story": {
+      "id": "markets-smallcap-penny-stock-volatility",
+      "title": "Smallcap Penny Stock Volatility",
+      "so_far": "Penny stocks are shares of very small companies that trade at low prices, often below ₹10 or ₹50 depending on the market. They are notorious for being highly volatile, meaning their price can swing wildly in a short time, often due to speculation rather than fundamental business performance.",
+      "timeline": [
+       {
+        "date": "2026-11-22",
+        "text": "Penny stocks like Kalind and Empower India have experienced severe price drops of 68% and 62%, respectively, in the last half-year.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/5-penny-stocks-plunge-up-to-68-in-six-months-do-you-own-any/slideshow/136069072.cms",
+        "source": "Markets-Economic Times"
+       }
+      ]
+     }
+    },
+    {
+     "id": "f6090c5d8234",
+     "title": "Reliance Brands FY26 revenue up 3.8% to Rs 3,390.9 crore; loss narrows to Rs 137 crore",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-brands-fy26-revenue-up-3-8-to-rs-3390-9-crore-loss-narrows-to-rs-137-crore/articleshow/136068185.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-11-22T05:44:52+00:00",
+     "summary": "Reliance Brands reported FY26 revenue of Rs 3,390.89 crore and narrowed its losses. The company continues to expand its retail footprint with over 1,085 points of sale across India.",
+     "explain": "Reliance Brands is a subsidiary of Reliance Industries (the conglomerate led by Mukesh Ambani). They specialize in bringing luxury and premium global brands—like Hamleys or Stella McCartney—to the Indian market. The fact that their revenue is growing while their losses are narrowing suggests they are successfully scaling their retail operations and improving their efficiency in the competitive Indian fashion and lifestyle market.",
+     "related": [
+      {
+       "date": "2026-10-22",
+       "title": "Swiggy Q2 Results: Loss narrows YoY to Rs 922 crore; revenue jumps 36%",
+       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/swiggy-q2-results-loss-narrows-yoy-to-rs-922-crore-revenue-up-36/articleshow/135115858.cms",
+       "source": "Markets-Economic Times"
+      },
+      {
+       "date": "2026-10-29",
+       "title": "IndiGo Q2 Results: Loss narrows YoY to Rs 1,879 crore; revenue rises 26%",
+       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/indigo-q2-results-loss-narrows-yoy-to-rs-1879-crore-revenue-rises-26/articleshow/135301474.cms",
+       "source": "Markets-Economic Times"
+      },
+      {
+       "date": "2026-10-30",
+       "title": "Reliance Industries Q2 Results: Profit shoots up 41% YoY to Rs 25,548 crore, revenue surges 29%",
+       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-industries-q2-results-profit-shoots-up-41-yoy-to-rs-25548-crore-revenue-up-12/articleshow/135361960.cms",
+       "source": "Markets-Economic Times"
+      }
+     ],
+     "story": {
+      "id": "markets-jio-platforms-mega-ipo",
+      "title": "Jio Platforms Mega IPO",
+      "so_far": "Reliance Industries is India's largest conglomerate, led by Mukesh Ambani, with interests spanning oil, retail, and telecommunications. Jio Platforms is the digital services arm that has recently undergone a massive IPO to scale its AI and cloud infrastructure, significantly impacting the parent company's overall market valuation.",
+      "timeline": [
+       {
+        "date": "2026-10-20",
+        "text": "The company's IPO successfully attracted anchor bids worth over $25 billion, signaling strong institutional confidence.",
+        "link": "https://www.livemint.com/market/ipo/reliance-jio-ipo-massive-bids-top-25-bn-amount-for-anchor-book-okhow-mukesh-ambani-firm-attracted-top-notch-investors-11792488288719.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "The IPO was oversubscribed 3.16 times on its opening day, driven largely by high demand from institutional investors.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-bids-hit-70000-crore-on-day-1-outpaces-nse-lic-gic-issues/articleshow/135103495.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-25",
+        "text": "The IPO closed with a subscription rate of 22.19 times, and a listing is scheduled for October 28, 2026.",
+        "link": "https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-listing-date-and-time-share-price-prediction-expected-money-gains-basis-gmp-expected-m-cap-details-11792924052178.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-25",
+        "text": "Market expectations suggest a potential listing price of ₹1,369 based on grey market trading activity.",
+        "link": "https://www.livemint.com/market/ipo/jio-platforms-ipo-allotment-status-check-online-by-pan-number-guide-for-kfin-tech-registrar-portal-on-riskfintechcom-11792919833250.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "Jio Platforms is scheduled to begin trading on the stock exchange this Wednesday following its record-setting IPO.",
+        "link": "https://www.livemint.com/market/ambani-looks-to-defy-gravity-in-debut-after-india-record-jio-ipo-11793152669324.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "Jio's stock debuted at a 21% premium, significantly boosting Reliance Group's total market capitalization to over Rs 28-30 lakh crore.",
+        "link": "https://www.livemint.com/market/stock-market-news/reliance-vs-tata-group-market-cap-jio-platforms-share-price-11793181248458.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "Jio's stock debuted at a 21% premium, significantly boosting Reliance Group's total market capitalization to over Rs 28-30 lakh crore.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-effect-reliance-beats-tata-to-become-indias-most-valued-conglomerate/articleshow/135257354.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-29",
+        "text": "Jio Platforms has reached a $137.3 billion market cap, officially becoming the fifth-largest telecom firm in the world.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-among-worlds-top-five-telcos-with-a-digital-edge/articleshow/135285980.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-29",
+        "text": "Leading brokerages have initiated coverage with positive ratings and bullish price targets, suggesting significant potential for growth.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-bullish-on-jio-platforms-with-buy-and-accumulate/articleshow/135285530.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-31",
+        "text": "Analysts confirm that both Reliance Industries and Jio Platforms delivered strong earnings results for the second quarter of 2026.",
+        "link": "https://www.livemint.com/market/stock-market-news/mukesh-ambani-stocks-reliance-industries-vs-jio-platforms-shares-compared-ril-or-jpl-what-to-buy-experts-views-11793435085388.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-02",
+        "text": "Jio Platforms and its parent, Reliance Industries, remain top-focus stocks for market participants heading into the new trading week.",
+        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-reliance-industries-jio-platforms-ntpc-itc-shares-in-focus-on-monday-2-nov-full-list-11793583063816.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-22",
+        "text": "Reliance Brands grew its revenue to nearly Rs 3,400 crore while integrating new partnerships with global fashion brands.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-brands-fy26-revenue-up-3-8-to-rs-3390-9-crore-loss-narrows-to-rs-137-crore/articleshow/136068185.cms",
+        "source": "Markets-Economic Times"
+       }
+      ]
+     }
+    },
+    {
+     "id": "0f4b00dfc569",
+     "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+     "link": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph.com News",
-     "published": "2026-11-20T13:21:39+00:00",
-     "summary": "ECB President Christine Lagarde warned that Europe risks fragmentation in its tokenized securities market if platforms cannot interoperate.",
-     "explain": "Tokenized markets aim to make trading faster and cheaper by using blockchain. However, if every platform uses a different system that cannot 'talk' to others, it is like having different currencies in every town. Lagarde's warning emphasizes the need for standard rules so assets can flow easily across the entire European Union.",
+     "published": "2026-11-22T05:28:43+00:00",
+     "summary": "Chainflip has confirmed a $12 million hack and is offering the perpetrator a 10% bounty to return the remaining funds. If the attacker complies, the firm has promised not to pursue legal action.",
+     "explain": "A 'white-hat' recovery is a common tactic in the crypto world where companies try to negotiate with hackers. Instead of spending months or years trying to track the person down, the company offers a 'bounty' (a reward) if the thief returns the money voluntarily. The firm calls this a 'white-hat' deal, implying the hacker becomes a 'good guy' by returning the funds, and the company drops any police or law enforcement involvement.",
      "related": [],
      "story": {
-      "id": "markets-eu-tokenized-market-fragmentation-concer",
-      "title": "EU Tokenized Market Fragmentation Concerns",
-      "so_far": "Tokenization refers to representing real-world financial assets, like bonds or stocks, as digital tokens on a blockchain. Europe has been developing regulatory frameworks to adopt this technology, but the infrastructure is currently decentralized across various platforms, creating 'silos' that do not communicate with each other.",
+      "id": "markets-cysic-protocol-bridge-hack",
+      "title": "Cysic Protocol Bridge Hack",
+      "so_far": "Bridges are tools that allow users to transfer assets between different blockchains. Because they hold large amounts of digital assets in 'smart contracts,' they are frequently targeted by hackers looking for vulnerabilities in the code.",
       "timeline": [
        {
-        "date": "2026-11-20",
-        "text": "The European Central Bank is raising alarms about the technical barriers preventing a unified European market for digital assets.",
-        "link": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "date": "2026-10-23",
+        "text": "A hacker exploited the Cysic bridge to mint 10 million tokens and moved $744,000 worth of crypto into Tornado Cash.",
+        "link": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News"
        },
        {
-        "date": "2026-11-20",
-        "text": "Lagarde is highlighting the urgency for unified standards to maintain regulatory and economic control over digital assets.",
-        "link": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "1b2211016776",
-     "title": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
-     "link": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
-     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
-     "published": "2026-11-20T13:11:49+00:00",
-     "summary": "ECB President Christine Lagarde warned Europe could lose control of its growing tokenized asset market.",
-     "explain": "When financial markets aren't unified, they are harder to regulate and less efficient for global trade. By urging European platforms to work together, Lagarde wants to ensure that Europe can compete with other global financial centers by maintaining a single, cohesive, and regulated market for digital securities.",
-     "related": [],
-     "story": {
-      "id": "markets-eu-tokenized-market-fragmentation-concer",
-      "title": "EU Tokenized Market Fragmentation Concerns",
-      "so_far": "Tokenization refers to representing real-world financial assets, like bonds or stocks, as digital tokens on a blockchain. Europe has been developing regulatory frameworks to adopt this technology, but the infrastructure is currently decentralized across various platforms, creating 'silos' that do not communicate with each other.",
-      "timeline": [
-       {
-        "date": "2026-11-20",
-        "text": "The European Central Bank is raising alarms about the technical barriers preventing a unified European market for digital assets.",
-        "link": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "date": "2026-11-22",
+        "text": "Cyber is investigating a bridge vulnerability after anomalous token activity was detected on the Solana and Ethereum networks.",
+        "link": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News"
        },
        {
-        "date": "2026-11-20",
-        "text": "Lagarde is highlighting the urgency for unified standards to maintain regulatory and economic control over digital assets.",
-        "link": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "677a3da37b8c",
-     "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
-     "link": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
-     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
-     "published": "2026-11-21T16:41:00+00:00",
-     "summary": "The FLIP token of the Chainflip cross-chain protocol plummeted 30% following a security breach that resulted in a loss of approximately $4.86 million.",
-     "explain": "A protocol bridge or cross-chain swap allows users to move assets between different networks, like Bitcoin and Ethereum. When these systems are 'drained,' it means a hacker found a hole in the code that controls the funds and moved those assets into their own wallet. This matters because it highlights the ongoing security risks in decentralized finance (DeFi), where code bugs can lead to immediate, irreversible financial losses for investors.",
-     "related": [],
-     "story": {
-      "id": "markets-chainflip-protocol-security-breach",
-      "title": "Chainflip Protocol Security Breach",
-      "so_far": "Chainflip is a decentralized cross-chain protocol designed to allow users to swap assets across different blockchains without centralized intermediaries. Like other protocols relying on 'vaults' or liquidity pools to facilitate these trades, it has become a target for hackers exploiting smart contract vulnerabilities. Such incidents often lead to significant price volatility for the protocol's native governance or utility tokens.",
-      "timeline": [
-       {
-        "date": "2026-11-21",
-        "text": "Chainflip suffered a $4.86 million exploit, causing its native FLIP token to lose 30% of its market value.",
-        "link": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "0eb951fcc961",
-     "title": "Dividend jackpot in chemicals: Indo Borax, GOCL and Bayer CropScience offer yields of up to 10% | Check details",
-     "link": "https://www.livemint.com/market/stock-market-news/dividend-jackpot-in-chemicals-indo-borax-gocl-and-bayer-cropscience-offer-yields-of-up-to-10-check-details-11795277367660.html",
-     "source": "mint - markets",
-     "published": "2026-11-21T16:13:09+00:00",
-     "summary": "Indo Borax & Chemicals, GOCL Corporation, and Bayer CropScience have declared significant dividends, offering yields up to 10.3%.",
-     "explain": "Dividends are a portion of a company's profit distributed to shareholders as a cash payment. A 'dividend yield' is a ratio showing how much a company pays out each year relative to its stock price; for example, a 10% yield means for every $100 invested in the stock, you receive $10 in dividends annually. Investors often target these stocks for steady income rather than just hoping the stock price increases.",
-     "related": [],
-     "story": {
-      "id": "markets-high-dividend-stock-opportunities",
-      "title": "High Dividend Stock Opportunities",
-      "so_far": "Dividends are portions of a company's profit paid out to shareholders as a reward for their investment. Dividend yield is calculated by dividing the annual dividend per share by the stock's current price. It is a common metric for income-focused investors looking to generate cash flow from their portfolio.",
-      "timeline": [
-       {
-        "date": "2026-10-24",
-        "text": "Four stocks—IOCL, PTC India, Central Bank, and PTL Enterprises—were identified as having strong dividend yields relative to their low share prices.",
-        "link": "https://www.livemint.com/market/stock-market-news/high-dividend-low-price-4-stocks-under-rs-200-with-high-yield-iocl-ptc-india-central-bank-ptl-enterprises-11792860259451.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-07",
-        "text": "Analysts identified Aurobindo Pharma, Balkrishna Industries, and Mahindra & Mahindra as stocks to watch for their combination of growth potential and upcoming dividend payouts.",
-        "link": "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-stocks-dividend-expert-picks-2-stocks-for-samvat-2083-with-record-dates-next-week-do-you-own-11794039951310.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-09",
-        "text": "Investors are flocking to Taparia Tools for a significant interim dividend payout, triggering a price cap increase.",
-        "link": "https://www.livemint.com/market/stock-market-news/rs-17-share-declares-rs-40-dividend-hits-5-upper-circuit-ahead-of-record-date-do-you-own-as-ex-date-to-fall-soon-11794217379790.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-14",
-        "text": "TD Power Systems set a record date of November 18 for its ₹0.65 per share dividend.",
-        "link": "https://www.livemint.com/market/stock-market-news/dividend-stock-to-buy-td-power-shares-rally-369-in-3-years-more-upside-ahead-check-target-price-before-record-date-11794648803654.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-14",
-        "text": "Multiple major companies including MRF, PFC, and Power Grid have scheduled corporate actions for the coming week.",
-        "link": "https://www.livemint.com/market/stock-market-news/upcoming-dividend-stock-split-buyback-record-date-next-week-16-20-nov-mrf-sci-pfc-power-grid-venus-pipes-more-11794644624084.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-14",
-        "text": "New data identifies several lesser-known Indian companies with dividend yields reaching as high as 19.6% for FY26.",
-        "link": "https://www.livemint.com/market/stock-market-news/beyond-coal-india-ongc-10-lesser-known-dividend-stocks-with-up-to-19-yield-premco-gocl-accelya-to-d-link-list-11794671719253.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-15",
-        "text": "Cochin Shipyard, Power Finance Corp, SCI, and Oil India have set record dates for upcoming dividend payouts.",
-        "link": "https://www.livemint.com/market/stock-market-news/psu-dividend-this-week-nov-16-20-cochin-shipyard-power-finance-corp-sci-to-oil-india-check-record-dates-and-returns-11794735494353.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-20",
-        "text": "New analysis identifies specific small-cap stocks offering yields between 6.8% and 16.1%.",
-        "link": "https://www.livemint.com/market/stock-market-news/smallcap-dividend-stars-5-stocks-under-rs-100-with-high-dividend-yield-jagran-prakashan-radiant-cash-and-more-11795193828075.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-21",
-        "text": "Indo Borax & Chemicals, GOCL Corporation, and Bayer CropScience reported dividend yields ranging from 4.6% to 10.3%.",
-        "link": "https://www.livemint.com/market/stock-market-news/dividend-jackpot-in-chemicals-indo-borax-gocl-and-bayer-cropscience-offer-yields-of-up-to-10-check-details-11795277367660.html",
-        "source": "mint - markets"
-       }
-      ]
-     }
-    },
-    {
-     "id": "9deb775e43d7",
-     "title": "Max Healthcare, Fortis, Apollo, Aster: Hospital stocks steal show on D-Street with up to 14% rally - Buy now or wait?",
-     "link": "https://www.livemint.com/market/stock-market-news/max-healthcare-fortis-apollo-aster-hospital-stocks-steal-show-on-d-street-with-up-to-14-rally-buy-now-or-wait-11795262811423.html",
-     "source": "mint - markets",
-     "published": "2026-11-21T14:56:47+00:00",
-     "summary": "Shares of major Indian hospital chains, including Apollo, Fortis, Max Healthcare, and Aster, surged by up to 14% following positive earnings growth forecasts.",
-     "explain": "Hospital stocks are part of the healthcare sector, which is often considered a 'defensive' play because people require medical care regardless of how the broader economy is performing. The recent 14% rally indicates that institutional investors believe these firms will continue to see strong financial returns, likely due to better pricing power or expansion into new regions. Buying 'Buy-rated' stocks suggests that professional analysts believe these companies' future growth will outweigh the current market price.",
-     "related": [],
-     "story": {
-      "id": "markets-indian-hospital-sector-market-rally",
-      "title": "Indian Hospital Sector Market Rally",
-      "so_far": "The Indian healthcare sector has been experiencing a structural shift, with large corporate chains consolidating the market. Growth in this sector is driven by rising medical tourism, increased health insurance penetration, and higher demand for advanced surgical and diagnostic services. Investors closely track these companies as they represent essential service providers with stable long-term demand.",
-      "timeline": [
-       {
-        "date": "2026-11-21",
-        "text": "Hospital stocks in India saw gains of up to 14% amid renewed investor optimism regarding corporate earnings.",
-        "link": "https://www.livemint.com/market/stock-market-news/max-healthcare-fortis-apollo-aster-hospital-stocks-steal-show-on-d-street-with-up-to-14-rally-buy-now-or-wait-11795262811423.html",
-        "source": "mint - markets"
-       }
-      ]
-     }
-    },
-    {
-     "id": "eaad43948d51",
-     "title": "Bitcoin price crash: ​Falls to lowest level in two years - What’s behind plunge of world’s largest cryptocurrency",
-     "link": "https://www.livemint.com/market/cryptocurrency/bitcoin-price-crash-falls-to-lowest-level-in-two-years-what-s-behind-plunge-of-world-s-largest-cryptocurrency-11795267687216.html",
-     "source": "mint - markets",
-     "published": "2026-11-21T14:46:56+00:00",
-     "summary": "Bitcoin's price hit a two-year low as investors pulled back from high-risk assets amid a broader decline in market confidence.",
-     "explain": "Bitcoin is a decentralized digital currency often categorized as a high-risk 'growth asset.' When the overall economic climate turns uncertain, investors often sell off these riskier holdings to move capital into 'safe-haven' assets like government bonds or cash. This 'deterioration in confidence' means sellers are currently outnumbering buyers, pushing the price down to levels not seen in 24 months.",
-     "related": [],
-     "story": {
-      "id": "markets-bitcoin-long-term-market-outlook",
-      "title": "Bitcoin Long-term Market Outlook",
-      "so_far": "Bitcoin is a decentralized digital currency often referred to as 'digital gold' due to its fixed supply. Investors debate its role in portfolios, with proponents citing its potential for high growth and detractors pointing to its extreme price volatility and lack of intrinsic industrial value.",
-      "timeline": [
-       {
-        "date": "2026-11-17",
-        "text": "Short-term Bitcoin holders recorded their highest realized losses since February as the price dropped to $62,000.",
-        "link": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "date": "2026-11-22",
+        "text": "Chainflip is attempting a 'white-hat' recovery by offering a 10% bounty to the hacker in exchange for the return of stolen funds.",
+        "link": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-17",
-        "text": "Bitcoin price is stabilizing around $64,000 amid broader tech sector hesitation before a key chip-maker's earnings disclosure.",
-        "link": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-11-17",
-        "text": "Bitcoin hit local lows near $63,000 as traders prepared for heightened volatility linked to Nvidia's Q3 performance.",
-        "link": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-18",
-        "text": "Bitcoin prices steadied near the $60,000 level after Nvidia's earnings report provided a boost to broader tech markets.",
-        "link": "https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-18",
-        "text": "Bitcoin saw a price decline as investors pivoted toward traditional tech stocks ahead of Nvidia's Q3 earnings release.",
-        "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "Investor appetite for Bitcoin is waning, evidenced by ETF outflows amid broader market shifts.",
-        "link": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "Bitcoin price volatility continues as investors pivot between crypto and the highly anticipated Anthropic public debut.",
-        "link": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "Higher interest rates are creating financial hurdles for companies attempting to expand their Bitcoin treasury holdings.",
-        "link": "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "Bitcoin volatility remains high, appearing unfazed by the fluctuating performance of new AI stock debuts.",
-        "link": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-20",
-        "text": "BlackRock's IBIT experienced its largest-ever daily outflow as liquidity was redirected toward high-profile tech IPOs.",
-        "link": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-20",
-        "text": "Bitcoin has entered a bearish phase, breaking below significant psychological support levels amid wider financial market weakness.",
-        "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-11-21",
-        "text": "Bitcoin fell to a two-year price low as market participants abandoned risk-sensitive digital assets.",
-        "link": "https://www.livemint.com/market/cryptocurrency/bitcoin-price-crash-falls-to-lowest-level-in-two-years-what-s-behind-plunge-of-world-s-largest-cryptocurrency-11795267687216.html",
-        "source": "mint - markets"
        }
       ]
      }
