@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-23T09:34:07.080637+00:00",
- "prices_generated": "2026-11-23T11:39:40.114417+00:00",
+ "generated": "2026-11-23T22:08:55.290571+00:00",
+ "prices_generated": "2026-11-23T22:08:55.290571+00:00",
  "ai": "gemini",
  "pulse": null,
  "ticker_strip": [
@@ -55,10 +55,10 @@
   "^NSEI": {
    "symbol": "^NSEI",
    "name": "Nifty 50",
-   "price": 25349.6504,
-   "change": -450.9492,
-   "pct": -1.75,
-   "pct_1m": 12.17,
+   "price": 25800.5996,
+   "change": 286.2988,
+   "pct": 1.12,
+   "pct_1m": 14.16,
    "spark": [
     22600.0,
     22753.1992,
@@ -79,18 +79,17 @@
     25387.4004,
     25227.9492,
     25514.3008,
-    25800.5996,
-    25349.6504
+    25800.5996
    ],
-   "asof": "2026-11-23"
+   "asof": "2026-11-20"
   },
   "^BSESN": {
    "symbol": "^BSESN",
    "name": "Sensex",
-   "price": 82435.9922,
-   "change": -1483.7188,
-   "pct": -1.77,
-   "pct_1m": 12.73,
+   "price": 83919.7109,
+   "change": 897.9609,
+   "pct": 1.08,
+   "pct_1m": 14.76,
    "spark": [
     73123.8281,
     73606.75,
@@ -111,18 +110,17 @@
     82532.1875,
     82031.8125,
     83021.75,
-    83919.7109,
-    82435.9922
+    83919.7109
    ],
-   "asof": "2026-11-23"
+   "asof": "2026-11-20"
   },
   "^NSEBANK": {
    "symbol": "^NSEBANK",
    "name": "Bank Nifty",
-   "price": 62585.3516,
-   "change": -2049.8477,
-   "pct": -3.17,
-   "pct_1m": 15.29,
+   "price": 64635.1992,
+   "change": 1572.1992,
+   "pct": 2.49,
+   "pct_1m": 19.06,
    "spark": [
     54287.3516,
     54366.6992,
@@ -143,22 +141,18 @@
     62273.25,
     62038.6484,
     63063.0,
-    64635.1992,
-    62585.3516
+    64635.1992
    ],
-   "asof": "2026-11-23"
+   "asof": "2026-11-20"
   },
   "^GSPC": {
    "symbol": "^GSPC",
    "name": "S&P 500",
-   "price": 6910.3901,
-   "change": -265.4399,
-   "pct": -3.7,
-   "pct_1m": -10.92,
+   "price": 7237.1699,
+   "change": 326.7798,
+   "pct": 4.73,
+   "pct_1m": -5.73,
    "spark": [
-    7757.1699,
-    7663.4302,
-    7623.6802,
     7676.77,
     7722.6001,
     7743.98,
@@ -178,21 +172,19 @@
     7340.5298,
     7323.6299,
     7175.8301,
-    6910.3901
+    6910.3901,
+    7237.1699
    ],
-   "asof": "2026-11-20"
+   "asof": "2026-11-23"
   },
   "^IXIC": {
    "symbol": "^IXIC",
    "name": "Nasdaq",
-   "price": 22617.7305,
-   "change": -1261.4688,
-   "pct": -5.28,
-   "pct_1m": -15.3,
+   "price": 24089.5586,
+   "change": 1471.8281,
+   "pct": 6.51,
+   "pct_1m": -7.95,
    "spark": [
-    26702.8594,
-    26008.8594,
-    25955.3398,
     26169.3809,
     26477.8105,
     26549.8496,
@@ -212,21 +204,19 @@
     24328.3809,
     24429.8809,
     23879.1992,
-    22617.7305
+    22617.7305,
+    24089.5586
    ],
-   "asof": "2026-11-20"
+   "asof": "2026-11-23"
   },
   "^DJI": {
    "symbol": "^DJI",
    "name": "Dow Jones",
-   "price": 48147.3281,
-   "change": -949.7305,
-   "pct": -1.93,
-   "pct_1m": -8.91,
+   "price": 49595.3086,
+   "change": 1447.9805,
+   "pct": 3.01,
+   "pct_1m": -5.28,
    "spark": [
-    52856.0898,
-    52867.9805,
-    52215.1602,
     52361.5781,
     52377.5703,
     52475.1016,
@@ -246,17 +236,18 @@
     50759.4219,
     50198.1719,
     49097.0586,
-    48147.3281
+    48147.3281,
+    49595.3086
    ],
-   "asof": "2026-11-20"
+   "asof": "2026-11-23"
   },
   "BTC-USD": {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 61420.3203,
-   "change": 258.4102,
-   "pct": 0.42,
-   "pct_1m": -24.24,
+   "price": 61250.5117,
+   "change": 88.6016,
+   "pct": 0.14,
+   "pct_1m": -24.45,
    "spark": [
     81074.1875,
     80790.8359,
@@ -289,17 +280,17 @@
     58798.9805,
     60094.0898,
     61161.9102,
-    61420.3203
+    61250.5117
    ],
    "asof": "2026-11-23"
   },
   "ETH-USD": {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 1726.51,
-   "change": 5.4343,
-   "pct": 0.32,
-   "pct_1m": -27.58,
+   "price": 1722.0699,
+   "change": 0.9943,
+   "pct": 0.06,
+   "pct_1m": -27.77,
    "spark": [
     2384.0774,
     2355.9536,
@@ -332,17 +323,17 @@
     1619.4321,
     1682.2046,
     1721.0757,
-    1726.51
+    1722.0699
    ],
    "asof": "2026-11-23"
   },
   "SOL-USD": {
    "symbol": "SOL-USD",
    "name": "Solana",
-   "price": 72.69,
-   "change": 2.1199,
-   "pct": 3.0,
-   "pct_1m": -29.28,
+   "price": 72.35,
+   "change": 1.7799,
+   "pct": 2.52,
+   "pct_1m": -29.61,
    "spark": [
     102.7799,
     102.2717,
@@ -375,17 +366,17 @@
     68.7475,
     70.2152,
     70.5701,
-    72.69
+    72.35
    ],
    "asof": "2026-11-23"
   },
   "USDINR=X": {
    "symbol": "USDINR=X",
    "name": "USD/INR",
-   "price": 92.73,
-   "change": -0.565,
-   "pct": -0.61,
-   "pct_1m": -2.09,
+   "price": 92.9,
+   "change": -0.395,
+   "pct": -0.42,
+   "pct_1m": -1.91,
    "spark": [
     94.7113,
     94.938,
@@ -408,17 +399,17 @@
     93.4746,
     93.4653,
     93.295,
-    92.73
+    92.9
    ],
    "asof": "2026-11-23"
   },
   "EURINR=X": {
    "symbol": "EURINR=X",
    "name": "EUR/INR",
-   "price": 101.66,
-   "change": -0.604,
-   "pct": -0.59,
-   "pct_1m": -4.38,
+   "price": 101.3056,
+   "change": -0.9584,
+   "pct": -0.94,
+   "pct_1m": -4.71,
    "spark": [
     106.315,
     105.868,
@@ -441,17 +432,17 @@
     102.673,
     102.468,
     102.264,
-    101.66
+    101.3056
    ],
    "asof": "2026-11-23"
   },
   "EURUSD=X": {
    "symbol": "EURUSD=X",
    "name": "EUR/USD",
-   "price": 1.0966,
-   "change": -0.0004,
-   "pct": -0.03,
-   "pct_1m": -2.28,
+   "price": 1.0903,
+   "change": -0.0067,
+   "pct": -0.61,
+   "pct_1m": -2.84,
    "spark": [
     1.1221,
     1.1218,
@@ -474,17 +465,17 @@
     1.0993,
     1.0972,
     1.097,
-    1.0966
+    1.0903
    ],
    "asof": "2026-11-23"
   },
   "GBPINR=X": {
    "symbol": "GBPINR=X",
    "name": "GBP/INR",
-   "price": 121.4338,
-   "change": -0.6624,
-   "pct": -0.54,
-   "pct_1m": -3.79,
+   "price": 121.029,
+   "change": -1.0672,
+   "pct": -0.87,
+   "pct_1m": -4.11,
    "spark": [
     126.2137,
     126.9686,
@@ -507,50 +498,17 @@
     123.4515,
     122.8714,
     122.0962,
-    121.4338
-   ],
-   "asof": "2026-11-23"
-  },
-  "GC=F": {
-   "symbol": "GC=F",
-   "name": "Gold",
-   "price": 3619.0,
-   "change": 103.6001,
-   "pct": 2.95,
-   "pct_1m": -9.7,
-   "spark": [
-    4007.8999,
-    4038.3999,
-    4074.6001,
-    4051.6001,
-    4031.3999,
-    3898.8999,
-    3969.6001,
-    3940.3999,
-    4073.0,
-    4113.5,
-    4074.8999,
-    4114.5,
-    4030.2,
-    4000.5,
-    3885.3,
-    3886.3,
-    3853.0,
-    3864.2,
-    3741.8999,
-    3685.5,
-    3515.3999,
-    3619.0
+    121.029
    ],
    "asof": "2026-11-23"
   },
   "SI=F": {
    "symbol": "SI=F",
    "name": "Silver",
-   "price": 42.395,
-   "change": 1.36,
-   "pct": 3.31,
-   "pct_1m": -21.07,
+   "price": 42.99,
+   "change": 1.955,
+   "pct": 4.76,
+   "pct_1m": -19.96,
    "spark": [
     53.711,
     54.108,
@@ -573,17 +531,17 @@
     44.999,
     44.318,
     41.035,
-    42.395
+    42.99
    ],
    "asof": "2026-11-23"
   },
   "CL=F": {
    "symbol": "CL=F",
    "name": "WTI Crude",
-   "price": 82.15,
-   "change": -1.83,
-   "pct": -2.18,
-   "pct_1m": -20.45,
+   "price": 80.25,
+   "change": -3.73,
+   "pct": -4.44,
+   "pct_1m": -22.29,
    "spark": [
     103.27,
     101.76,
@@ -606,17 +564,17 @@
     83.26,
     83.21,
     83.98,
-    82.15
+    80.25
    ],
    "asof": "2026-11-23"
   },
   "BZ=F": {
    "symbol": "BZ=F",
    "name": "Brent Crude",
-   "price": 88.42,
-   "change": -4.15,
-   "pct": -4.48,
-   "pct_1m": -24.25,
+   "price": 86.72,
+   "change": -5.85,
+   "pct": -6.32,
+   "pct_1m": -25.7,
    "spark": [
     116.72,
     115.81,
@@ -639,17 +597,17 @@
     91.95,
     91.98,
     92.57,
-    88.42
+    86.72
    ],
    "asof": "2026-11-23"
   },
   "RELIANCE.NS": {
    "symbol": "RELIANCE.NS",
    "name": "Reliance",
-   "price": 1351.0,
-   "change": -26.5,
-   "pct": -1.92,
-   "pct_1m": 13.53,
+   "price": 1377.5,
+   "change": 1.9,
+   "pct": 0.14,
+   "pct_1m": 15.76,
    "spark": [
     1190.0,
     1201.8,
@@ -670,18 +628,17 @@
     1367.0,
     1363.0,
     1375.6,
-    1377.5,
-    1351.0
+    1377.5
    ],
-   "asof": "2026-11-23"
+   "asof": "2026-11-20"
   },
   "TCS.NS": {
    "symbol": "TCS.NS",
    "name": "TCS",
-   "price": 2460.0,
-   "change": 83.8,
-   "pct": 3.53,
-   "pct_1m": -2.77,
+   "price": 2376.2,
+   "change": 33.5,
+   "pct": 1.43,
+   "pct_1m": -6.08,
    "spark": [
     2530.0,
     2535.0,
@@ -702,18 +659,17 @@
     2406.6001,
     2379.5,
     2342.7,
-    2376.2,
-    2460.0
+    2376.2
    ],
-   "asof": "2026-11-23"
+   "asof": "2026-11-20"
   },
   "HDFCBANK.NS": {
    "symbol": "HDFCBANK.NS",
    "name": "HDFC Bank",
-   "price": 817.8,
-   "change": -28.2,
-   "pct": -3.33,
-   "pct_1m": 18.04,
+   "price": 846.0,
+   "change": 24.2,
+   "pct": 2.94,
+   "pct_1m": 22.11,
    "spark": [
     692.8,
     688.05,
@@ -734,18 +690,17 @@
     814.95,
     808.15,
     821.8,
-    846.0,
-    817.8
+    846.0
    ],
-   "asof": "2026-11-23"
+   "asof": "2026-11-20"
   },
   "INFY.NS": {
    "symbol": "INFY.NS",
    "name": "Infosys",
-   "price": 1103.4,
-   "change": 5.4,
-   "pct": 0.49,
-   "pct_1m": -2.18,
+   "price": 1098.0,
+   "change": 6.1,
+   "pct": 0.56,
+   "pct_1m": -2.66,
    "spark": [
     1127.9613,
     1139.8881,
@@ -766,22 +721,18 @@
     1130.0,
     1108.8,
     1091.9,
-    1098.0,
-    1103.4
+    1098.0
    ],
-   "asof": "2026-11-23"
+   "asof": "2026-11-20"
   },
   "AAPL": {
    "symbol": "AAPL",
    "name": "Apple",
-   "price": 342.56,
-   "change": -6.65,
-   "pct": -1.9,
-   "pct_1m": -0.34,
+   "price": 349.08,
+   "change": 6.52,
+   "pct": 1.9,
+   "pct_1m": 1.58,
    "spark": [
-    343.7288,
-    347.9556,
-    347.466,
     343.6489,
     346.8365,
     343.5689,
@@ -801,21 +752,19 @@
     351.91,
     352.45,
     349.21,
-    342.56
+    342.56,
+    349.08
    ],
-   "asof": "2026-11-20"
+   "asof": "2026-11-23"
   },
   "NVDA": {
    "symbol": "NVDA",
    "name": "Nvidia",
-   "price": 125.53,
-   "change": -20.45,
-   "pct": -14.01,
-   "pct_1m": -43.45,
+   "price": 165.05,
+   "change": 39.52,
+   "pct": 31.48,
+   "pct_1m": -23.59,
    "spark": [
-    221.97,
-    212.21,
-    210.96,
     216.0,
     217.94,
     215.38,
@@ -835,21 +784,19 @@
     155.46,
     150.96,
     145.98,
-    125.53
+    125.53,
+    165.05
    ],
-   "asof": "2026-11-20"
+   "asof": "2026-11-23"
   },
   "MSFT": {
    "symbol": "MSFT",
    "name": "Microsoft",
-   "price": 484.52,
-   "change": -13.78,
-   "pct": -2.77,
-   "pct_1m": -8.91,
+   "price": 492.5,
+   "change": 7.98,
+   "pct": 1.65,
+   "pct_1m": -7.35,
    "spark": [
-    531.9225,
-    520.0754,
-    523.4987,
     531.5731,
     530.3056,
     529.9862,
@@ -869,9 +816,10 @@
     505.2639,
     507.31,
     498.3,
-    484.52
+    484.52,
+    492.5
    ],
-   "asof": "2026-11-20"
+   "asof": "2026-11-23"
   }
  },
  "mutual_funds": [
@@ -963,307 +911,263 @@
    "label": "India",
    "articles": [
     {
-     "id": "8d9d73199560",
-     "title": "Bisleri says it’s water ‘safe for consumption’ after FSSAI sanctions prosecution, says it has received no notice",
-     "link": "https://www.thehindu.com/sci-tech/health/bisleri-says-its-water-safe-for-consumption-after-fssai-sanctions-prosecution-says-it-has-received-no-notice/article71733517.ece",
+     "id": "740a7ff4c66d",
+     "title": "Will bank manager accept Kayalvizhi Alagiri’s apology, asks Madras High Court",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/will-bank-manager-accept-kayalvizhi-alagiris-apology-asks-madras-high-court/article71735095.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-23T09:19:33+00:00",
-     "summary": "Bisleri has issued a statement claiming its water is safe for consumption after the FSSAI initiated prosecution over a disputed sample. The company reports it has not received a formal notice and asserts that independent testing confirms its product meets safety standards.",
-     "explain": "The FSSAI is India's government agency that sets safety standards for food and drinks. When they flag a product, it often involves laboratory tests looking for contaminants. In this case, the company is fighting these findings by providing their own test data, arguing that their products are safe despite the potential for government-led legal action.",
+     "published": "2026-11-23T20:59:04+00:00",
+     "summary": "Justice V. Lakshminarayanan grants a day’s time for the police to find out if the victim, subjected to physical assault, would agree for closure of criminal prosecution against the accused",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "india-bisleri-regulatory-compliance-and-prosec",
-      "title": "Bisleri Regulatory Compliance and Prosecution",
-      "so_far": "The Food Safety and Standards Authority of India (FSSAI) is the primary regulatory body responsible for ensuring food and beverage quality in India. Occasionally, authorities collect samples from major brands to verify compliance with safety standards, particularly concerning chemical additives or contaminants. Disputed results often lead to legal processes where companies must prove their manufacturing standards align with national health regulations.",
-      "timeline": [
-       {
-        "date": "2026-11-23",
-        "text": "Bisleri is contesting potential regulatory prosecution by the FSSAI, citing its own safety test results.",
-        "link": "https://www.thehindu.com/sci-tech/health/bisleri-says-its-water-safe-for-consumption-after-fssai-sanctions-prosecution-says-it-has-received-no-notice/article71733517.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-23",
-        "text": "The company maintains it has not received any formal notice from regulators regarding the dispute.",
-        "link": "https://www.ndtv.com/india-news/received-no-notice-water-safe-for-consumption-bisleri-amid-row-12364435#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "d7b7e9734385",
-     "title": "\"Water Safe For Consumption\": Bisleri After Regulator Flags Carcinogens",
-     "link": "https://www.ndtv.com/india-news/received-no-notice-water-safe-for-consumption-bisleri-amid-row-12364435#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-11-23T06:27:13+00:00",
-     "summary": "Bisleri reiterated its stance that its water is safe, confirming it has not received official notice regarding reported regulatory action.",
-     "explain": "This is a follow-up to the previous report regarding the FSSAI flagging Bisleri's water quality. The company continues to assert its transparency, noting that without official notification, they cannot formally respond to specific regulatory charges.",
+     "id": "6810d8127f00",
+     "title": "Rajasthan women’s varsity signs MoU with BRICS nations for global leadership centre",
+     "link": "https://www.thehindu.com/news/national/rajasthan/rajasthan-womens-varsity-signs-mou-with-brics-nations-for-global-leadership-centre/article71736242.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-23T20:45:25+00:00",
+     "summary": "The MoU was signed on the conclusion of a five-day BRICS women leaders’ summit, organised on the university campus, which focused on promoting women’s leadership, cultural exchanges, and mutual cooperation and innovative",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "india-bisleri-regulatory-compliance-and-prosec",
-      "title": "Bisleri Regulatory Compliance and Prosecution",
-      "so_far": "The Food Safety and Standards Authority of India (FSSAI) is the primary regulatory body responsible for ensuring food and beverage quality in India. Occasionally, authorities collect samples from major brands to verify compliance with safety standards, particularly concerning chemical additives or contaminants. Disputed results often lead to legal processes where companies must prove their manufacturing standards align with national health regulations.",
-      "timeline": [
-       {
-        "date": "2026-11-23",
-        "text": "Bisleri is contesting potential regulatory prosecution by the FSSAI, citing its own safety test results.",
-        "link": "https://www.thehindu.com/sci-tech/health/bisleri-says-its-water-safe-for-consumption-after-fssai-sanctions-prosecution-says-it-has-received-no-notice/article71733517.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-23",
-        "text": "The company maintains it has not received any formal notice from regulators regarding the dispute.",
-        "link": "https://www.ndtv.com/india-news/received-no-notice-water-safe-for-consumption-bisleri-amid-row-12364435#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "7e76ee4d551d",
-     "title": "Nepal PM India visit LIVE: Saryu-Kamala Express from Ayodhya to Janakpur, Nepal inaugurated today",
-     "link": "https://www.thehindu.com/news/national/nepal-pm-india-visit-balen-shah-begins-bilateral-trip-energy-connectivity-on-agenda-live-updates-november-23-2026/article71733252.ece",
+     "id": "b945048c5cca",
+     "title": "Proposal for extending scholarship to Sri Lankan students to pursue medical education in Tamil Nadu",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/proposal-for-extending-scholarship-to-sri-lankan-students-to-pursue-medical-education-in-tamil-nadu/article71735477.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-23T09:21:58+00:00",
-     "summary": "Nepal Prime Minister Balendra Shah arrived in India for his first official bilateral visit, coinciding with the inauguration of a new express train route between Ayodhya and Janakpur.",
-     "explain": "A bilateral visit is a formal trip between two countries to discuss trade, culture, and government policy. The inauguration of a train line between Ayodhya (a significant religious city in India) and Janakpur (a major site in Nepal) symbolizes the shared cultural history and the effort to boost tourism and connectivity between the two nations.",
+     "published": "2026-11-23T20:34:05+00:00",
+     "summary": "",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "india-nepal-india-diplomatic-relations",
-      "title": "Nepal-India Diplomatic Relations",
-      "so_far": "India and Nepal share a unique cultural and geopolitical relationship, often referred to as 'Roti-Beti' ties, which encompasses open borders and strong religious connections. Recent years have seen periodic diplomatic exchanges aimed at improving connectivity and trade. High-level visits between the two nations are standard practice to reinforce cooperation on infrastructure projects and security.",
-      "timeline": [
-       {
-        "date": "2026-11-23",
-        "text": "Nepal PM Balendra Shah is on his first official state visit to India, marking a diplomatic milestone.",
-        "link": "https://www.thehindu.com/news/national/nepal-pm-india-visit-balen-shah-begins-bilateral-trip-energy-connectivity-on-agenda-live-updates-november-23-2026/article71733252.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-23",
-        "text": "PM Modi and Nepal PM Balendra Shah held a bilateral meeting at Hyderabad House in Delhi.",
-        "link": "https://www.thehindu.com/videos/shorts/pm-modi-meets-nepal-pm-balendra-shah-both-exchange-gifts-including-gangajal-and-rudraksha-in-delhi/article71733938.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "32495aa468c8",
-     "title": "Delhi court issues non-bailable warrant against Dhruv Rathee in 2018 defamation case",
-     "link": "https://www.thehindu.com/news/national/delhi-court-issues-non-bailable-warrant-against-dhruv-rathee-in-2018-defamation-case/article71734067.ece",
+     "id": "49172f4a4ae1",
+     "title": "No Winter Session of Parliament? Skipped only four times in history",
+     "link": "https://www.thehindu.com/news/national/no-winter-session-of-parliament-skipped-only-four-times-in-history/article71735258.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-23T09:21:51+00:00",
-     "summary": "A Delhi court has issued a non-bailable warrant for YouTuber Dhruv Rathee in connection with a 2018 defamation case.",
-     "explain": "A non-bailable warrant is a serious legal step where the police are authorized to arrest an individual and bring them to court. This case stems from a 2018 video, showing how legal consequences for online speech can persist years later in the Indian judicial system.",
+     "published": "2026-11-23T20:32:44+00:00",
+     "summary": "Each previous instance coincided with extraordinary disruptions, from the Emergency and Lok Sabha dissolutions to Indira Gandhi’s assassination and the COVID-19 pandemic",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "74f9bf9667da",
+     "title": "Inquiry into his old foreign visits based on false allegations, says Naveen Patnaik",
+     "link": "https://www.thehindu.com/news/national/odisha/inquiry-into-his-old-foreign-visits-based-on-false-allegations-says-naveen-patnaik/article71736237.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-23T20:28:51+00:00",
+     "summary": "Naveen Patnaik says there is possibility of BJP government in Odisha could delay rural and urban body polls next year in view of their debacle in Rajasthan",
+     "explain": null,
      "related": [
       {
-       "date": "2026-10-31",
-       "title": "Dhruv Rathee defamation case: Delhi Court issues fresh bailable warrants",
-       "link": "https://www.thehindu.com/news/cities/Delhi/dhruv-rathee-defamation-case-delhi-court-issues-fresh-bailable-warrants/article71648995.ece",
+       "date": "2026-11-21",
+       "title": "Odisha government orders inquiry into foreign visits by former CM Naveen Patnaik, aide Pandian",
+       "link": "https://www.thehindu.com/news/national/odisha/odisha-government-orders-inquiry-into-foreign-visits-by-former-cm-naveen-patnaik-aide-pandian/article71729218.ece",
        "source": "India Latest News: Top National Headline"
       }
      ],
-     "story": {
-      "id": "india-dhruv-rathee-defamation-case",
-      "title": "Dhruv Rathee Defamation Case",
-      "so_far": "Defamation cases in India can be filed under civil or criminal law if an individual believes their reputation has been intentionally harmed by published statements or videos. A non-bailable warrant is a court order that allows the police to arrest an individual who has failed to appear in court as summoned, necessitating their presence before a judge.",
-      "timeline": [
-       {
-        "date": "2026-11-23",
-        "text": "A non-bailable warrant was issued by a Delhi court against YouTuber Dhruv Rathee regarding a 2018 defamation lawsuit.",
-        "link": "https://www.thehindu.com/news/national/delhi-court-issues-non-bailable-warrant-against-dhruv-rathee-in-2018-defamation-case/article71734067.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "194302b59bd7",
-     "title": "Hyderabad bomb threat email sender used Europe-based VPN, temporary email account",
-     "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-bomb-threat-email-sender-used-vpn-temporary-email-account/article71733944.ece",
+     "id": "9a0368a4e795",
+     "title": "CJP’s Saurav Das claims he was stopped at Delhi airport from travelling to U.K.",
+     "link": "https://www.thehindu.com/news/national/cjps-saurav-das-claims-he-was-stopped-at-delhi-airport-from-travelling-to-uk/article71736209.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-23T09:21:00+00:00",
-     "summary": "Cybercrime authorities are investigating bomb threats sent to Hyderabad landmarks, revealing that the perpetrator used a VPN and temporary emails to mask their identity.",
-     "explain": "A VPN (Virtual Private Network) hides an internet user's real location, making it difficult for police to track the physical source of a digital message. This highlights the growing challenge Indian cyber-units face when trying to stop anonymous actors from causing public panic through fake threats.",
+     "published": "2026-11-23T19:49:46+00:00",
+     "summary": "In posts on X, Mr. Das said he was stopped at the immigration counter at the Delhi airport before boarding his 1 a.m. flight to London",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "india-hyderabad-cyber-security-threat",
-      "title": "Hyderabad Cyber Security Threat",
-      "so_far": "Indian cities frequently face hoax bomb threats, often delivered via digital platforms. These incidents trigger intense police response, including security sweeps of critical infrastructure like railway stations. Investigating these threats is complex due to the use of anonymity tools that hide the sender's real IP address and physical origin.",
-      "timeline": [
-       {
-        "date": "2026-11-23",
-        "text": "Investigators found the bomb threat sender utilized international VPNs and temporary email accounts to hide their location.",
-        "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-bomb-threat-email-sender-used-vpn-temporary-email-account/article71733944.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "b1fe05187e28",
-     "title": "Earthmover at Amarnath Yatra stopover Sheshnag lake draws outrage from parties and locals",
-     "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/earthmover-at-amarnath-yatra-stopover-sheshnag-lake-draws-outrage-from-parties-and-locals/article71733818.ece",
+     "id": "e517ed1b85a9",
+     "title": "The Bilkis Bano order — justice deferred again",
+     "link": "https://www.thehindu.com/opinion/lead/the-bilkis-bano-order-justice-deferred-again/article71735769.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-23T09:19:45+00:00",
-     "summary": "The presence of heavy earthmoving machinery at the ecologically fragile Sheshnag lake, a stopover for the Amarnath Yatra, has drawn criticism from local residents and political groups.",
-     "explain": "Sheshnag lake is a pristine high-altitude location. Using 'earthmovers' (heavy construction machines) there risks damaging the delicate landscape. This dispute centers on the tension between providing infrastructure for thousands of pilgrims and protecting fragile natural environments from human impact.",
+     "published": "2026-11-23T19:45:52+00:00",
+     "summary": "The right to liberty cannot undermine a survivor’s dignity, voice and difficult quest for justice",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "india-amarnath-yatra-environmental-concerns",
-      "title": "Amarnath Yatra Environmental Concerns",
-      "so_far": "The Amarnath Yatra is an annual pilgrimage to a high-altitude shrine in Jammu and Kashmir. Because the route passes through sensitive Himalayan ecosystems, any construction or infrastructure work—often necessary for pilgrim safety and facilities—is strictly monitored. Environmentalists often clash with authorities over the balance between pilgrim accommodation and ecological preservation.",
-      "timeline": [
-       {
-        "date": "2026-11-23",
-        "text": "Outrage is mounting over the use of heavy construction equipment in the sensitive ecology near Sheshnag lake.",
-        "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/earthmover-at-amarnath-yatra-stopover-sheshnag-lake-draws-outrage-from-parties-and-locals/article71733818.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "8e5abbb97b6c",
-     "title": "PM Modi meets Nepal PM Balendra Shah, both exchange gifts including Gangajal and Rudraksha in Delhi",
-     "link": "https://www.thehindu.com/videos/shorts/pm-modi-meets-nepal-pm-balendra-shah-both-exchange-gifts-including-gangajal-and-rudraksha-in-delhi/article71733938.ece",
+     "id": "d7278ce4bc19",
+     "title": "Power outage during Minister’s programme in Kannur: KSEB staff rally behind suspended sub-engineer",
+     "link": "https://www.thehindu.com/news/national/kerala/power-outage-during-ministers-programme-in-kannur-kseb-staff-rally-behind-suspended-sub-engineer/article71733750.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-23T09:18:22+00:00",
-     "summary": "Prime Minister Narendra Modi and Nepal PM Balendra Shah held formal talks in Delhi, exchanging symbolic gifts to signify the strengthening of bilateral ties.",
-     "explain": "This meeting is part of the ongoing state visit. Exchanging gifts like Gangajal (water from the Ganges) and Rudraksha beads is a traditional gesture meant to show respect and acknowledge the deep spiritual and cultural bonds between the two countries' leadership.",
+     "published": "2026-11-23T19:45:31+00:00",
+     "summary": "",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "india-nepal-india-diplomatic-relations",
-      "title": "Nepal-India Diplomatic Relations",
-      "so_far": "India and Nepal share a unique cultural and geopolitical relationship, often referred to as 'Roti-Beti' ties, which encompasses open borders and strong religious connections. Recent years have seen periodic diplomatic exchanges aimed at improving connectivity and trade. High-level visits between the two nations are standard practice to reinforce cooperation on infrastructure projects and security.",
-      "timeline": [
-       {
-        "date": "2026-11-23",
-        "text": "Nepal PM Balendra Shah is on his first official state visit to India, marking a diplomatic milestone.",
-        "link": "https://www.thehindu.com/news/national/nepal-pm-india-visit-balen-shah-begins-bilateral-trip-energy-connectivity-on-agenda-live-updates-november-23-2026/article71733252.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-23",
-        "text": "PM Modi and Nepal PM Balendra Shah held a bilateral meeting at Hyderabad House in Delhi.",
-        "link": "https://www.thehindu.com/videos/shorts/pm-modi-meets-nepal-pm-balendra-shah-both-exchange-gifts-including-gangajal-and-rudraksha-in-delhi/article71733938.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "dcf7f3284597",
-     "title": "Pinarayi Vijayan hails Kalady students’ victory after court relief",
-     "link": "https://www.thehindu.com/news/national/kerala/pinarayi-vijayan-hails-kalady-students-victory-after-court-relief/article71733925.ece",
+     "id": "1406d06b6c55",
+     "title": "Violence erupts in Pithapuram amid JSP councillors’ sparring over vice-chairman pick",
+     "link": "https://www.thehindu.com/news/national/andhra-pradesh/tension-in-pithapuram-as-jsp-councillors-differ-over-vice-chairman-pick/article71734975.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-23T09:12:52+00:00",
-     "summary": "Kerala Chief Minister Pinarayi Vijayan expressed support for Kalady university students following a legal victory that overturned their suspension.",
-     "explain": "This situation involves a disagreement between university administration and students over discipline. By praising the students' success in court, the Chief Minister is signaling political support for the students' right to protest and challenging the disciplinary methods used by the university authorities.",
+     "published": "2026-11-23T19:40:50+00:00",
+     "summary": "Jana Sena Party Councillors, supporters opposed the party’s decision to elect Bojja Venkateswara Rao as Pithapuram Municipal Vice-Chairman on the grounds of being a newcomer to the party.",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "india-kalady-university-student-dispute",
-      "title": "Kalady University Student Dispute",
-      "so_far": "Student politics is highly active in Kerala, with universities often becoming venues for clashes between ideological groups. Suspensions are sometimes issued after disciplinary inquiries regarding campus protests. When these are challenged in the High Court, the outcome can become a major political talking point regarding student rights and administrative overreach.",
-      "timeline": [
-       {
-        "date": "2026-11-23",
-        "text": "Chief Minister Pinarayi Vijayan publicly backed the 16 students reinstated by the High Court.",
-        "link": "https://www.thehindu.com/news/national/kerala/pinarayi-vijayan-hails-kalady-students-victory-after-court-relief/article71733925.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-23",
-        "text": "The Kerala High Court permitted students to contest the specific findings of the inquiry report that led to their suspension.",
-        "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-allows-amended-plea-by-suspended-sanskrit-varsity-students-against-inquiry-report/article71712319.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-23",
-        "text": "Students have successfully returned to their campus following the High Court's intervention in their suspension case.",
-        "link": "https://www.thehindu.com/news/national/kerala/high-court-relief-sparks-celebrations-as-16-suspended-ssus-students-return-to-kalady-university-campus-in-victory-march/article71733609.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "13f634ae4f25",
-     "title": "Kerala HC allows amended plea by suspended Sanskrit varsity students against inquiry report",
-     "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-allows-amended-plea-by-suspended-sanskrit-varsity-students-against-inquiry-report/article71712319.ece",
+     "id": "26d5b21565b2",
+     "title": "Krushi OWS holds road safety awareness competitions for school students",
+     "link": "https://www.thehindu.com/news/national/andhra-pradesh/krushi-ows-holds-road-safety-awareness-competitions-for-school-students/article71734936.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-23T09:11:33+00:00",
-     "summary": "The Kerala High Court has allowed suspended students from Sree Sankaracharya University of Sanskrit (SSUS) to amend their plea, facilitating their challenge against the inquiry report used to suspend them.",
-     "explain": "In legal terms, an 'amended plea' allows people to add new arguments to their existing court case. By allowing this, the High Court is giving the students a better chance to argue that the internal university inquiry—which concluded they deserved suspension—was unfair or flawed.",
+     "published": "2026-11-23T19:40:06+00:00",
+     "summary": "",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "india-kalady-university-student-dispute",
-      "title": "Kalady University Student Dispute",
-      "so_far": "Student politics is highly active in Kerala, with universities often becoming venues for clashes between ideological groups. Suspensions are sometimes issued after disciplinary inquiries regarding campus protests. When these are challenged in the High Court, the outcome can become a major political talking point regarding student rights and administrative overreach.",
-      "timeline": [
-       {
-        "date": "2026-11-23",
-        "text": "Chief Minister Pinarayi Vijayan publicly backed the 16 students reinstated by the High Court.",
-        "link": "https://www.thehindu.com/news/national/kerala/pinarayi-vijayan-hails-kalady-students-victory-after-court-relief/article71733925.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-23",
-        "text": "The Kerala High Court permitted students to contest the specific findings of the inquiry report that led to their suspension.",
-        "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-allows-amended-plea-by-suspended-sanskrit-varsity-students-against-inquiry-report/article71712319.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-23",
-        "text": "Students have successfully returned to their campus following the High Court's intervention in their suspension case.",
-        "link": "https://www.thehindu.com/news/national/kerala/high-court-relief-sparks-celebrations-as-16-suspended-ssus-students-return-to-kalady-university-campus-in-victory-march/article71733609.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "a5828289e8ff",
-     "title": "High Court relief sparks celebrations as 16 suspended SSUS students return to Kalady University campus in victory march",
-     "link": "https://www.thehindu.com/news/national/kerala/high-court-relief-sparks-celebrations-as-16-suspended-ssus-students-return-to-kalady-university-campus-in-victory-march/article71733609.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-23T09:09:06+00:00",
-     "summary": "Sixteen previously suspended students from SSUS returned to campus in a celebratory march after securing legal relief from the High Court.",
-     "explain": "This march marks the culmination of the legal battle mentioned previously. It demonstrates the tangible impact of the court's intervention, allowing students who were barred from campus to return to their academic activities.",
-     "related": [],
-     "story": {
-      "id": "india-kalady-university-student-dispute",
-      "title": "Kalady University Student Dispute",
-      "so_far": "Student politics is highly active in Kerala, with universities often becoming venues for clashes between ideological groups. Suspensions are sometimes issued after disciplinary inquiries regarding campus protests. When these are challenged in the High Court, the outcome can become a major political talking point regarding student rights and administrative overreach.",
-      "timeline": [
-       {
-        "date": "2026-11-23",
-        "text": "Chief Minister Pinarayi Vijayan publicly backed the 16 students reinstated by the High Court.",
-        "link": "https://www.thehindu.com/news/national/kerala/pinarayi-vijayan-hails-kalady-students-victory-after-court-relief/article71733925.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-23",
-        "text": "The Kerala High Court permitted students to contest the specific findings of the inquiry report that led to their suspension.",
-        "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-allows-amended-plea-by-suspended-sanskrit-varsity-students-against-inquiry-report/article71712319.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-23",
-        "text": "Students have successfully returned to their campus following the High Court's intervention in their suspension case.",
-        "link": "https://www.thehindu.com/news/national/kerala/high-court-relief-sparks-celebrations-as-16-suspended-ssus-students-return-to-kalady-university-campus-in-victory-march/article71733609.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
+     "story": null
     }
    ]
   },
   "world": {
    "label": "World",
    "articles": [
+    {
+     "id": "af28b459709a",
+     "title": "Why did COP31 climate talks collapse without a deal?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/why-did-cop31-climate-talks-collapse-without-a-deal?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-23T16:38:30+00:00",
+     "summary": "The longest UN climate summit in history collapsed without a final deal in Turkiye, the first such failure in 17 years.",
+     "explain": null,
+     "related": [
+      {
+       "date": "2026-11-21",
+       "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+       "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC News"
+      },
+      {
+       "date": "2026-11-22",
+       "title": "COP31 climate talks close to final deal, summit president says",
+       "link": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
+       "source": "Al Jazeera – Breaking News, World News a"
+      },
+      {
+       "date": "2026-11-22",
+       "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
+       "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC News"
+      }
+     ],
+     "story": null
+    },
+    {
+     "id": "32d43c08bbab",
+     "title": "Nvidia reinstates Jensen Huang as CEO after U.S. government input",
+     "link": "https://www.thehindu.com/sci-tech/technology/nvidia-reinstates-jensen-huang-as-ceo-after-us-government-input/article71735341.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-11-23T18:15:03+00:00",
+     "summary": "U.S. President Donald Trump welcomed the move as a “correct and proper decision”",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "b829939d7d8e",
+     "title": "Jensen Huang returns as NVIDIA CEO after intelligence scandal",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-returns-as-nvidia-ceo-after-intelligence-scandal?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-23T15:23:05+00:00",
+     "summary": "Jensen Huang is reinstated as NVIDIA’s CEO after reports he was targeted in an alleged foreign intelligence operation.",
+     "explain": null,
+     "related": [
+      {
+       "date": "2026-11-09",
+       "title": "Nvidia investigating reports that CEO Jensen Huang was targeted by Chinese intelligence",
+       "link": "https://www.thehindu.com/sci-tech/technology/nvidia-investigating-reports-that-ceo-jensen-huang-was-targeted-by-chinese-intelligence/article71681239.ece",
+       "source": "World News: Latest International News & "
+      },
+      {
+       "date": "2026-11-12",
+       "title": "Who is Jensen Huang and how the timeline of spy scandal unfolded",
+       "link": "https://www.thehindu.com/news/international/who-is-nvidia-ceo-jensen-huang-what-we-know-about-alleged-chinese-spy-scandal/article71689414.ece",
+       "source": "World News: Latest International News & "
+      },
+      {
+       "date": "2026-11-12",
+       "title": "Megaspeed to cooperate with U.S. probe into Nvidia CEO Jensen Huang scandal",
+       "link": "https://www.thehindu.com/news/international/megaspeed-to-cooperate-with-us-probe-into-nvidia-ceo-jensen-huang-scandal/article71693276.ece",
+       "source": "World News: Latest International News & "
+      },
+      {
+       "date": "2026-11-12",
+       "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+       "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC News"
+      }
+     ],
+     "story": null
+    },
+    {
+     "id": "1cca2f1fa481",
+     "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+     "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-23T13:02:05+00:00",
+     "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "b9aa5c1218e3",
+     "title": "COP31 talks fail as EU, others reject any climate deal without language on a fossil fuel phase-out",
+     "link": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-11-23T07:46:58+00:00",
+     "summary": "EU, Panama among about 130 parties that refuse to accept COP President’s consensus cover text, alleges that it “greenwashes” fossil fuels; India, China, Saudi Arabia are on the other side of the divide",
+     "explain": null,
+     "related": [
+      {
+       "date": "2026-11-20",
+       "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+       "link": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
+       "source": "Al Jazeera – Breaking News, World News a"
+      }
+     ],
+     "story": null
+    },
+    {
+     "id": "bd89f60feaea",
+     "title": "What's next after no deal at COP31 climate talks?",
+     "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-23T05:34:39+00:00",
+     "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+     "explain": null,
+     "related": [
+      {
+       "date": "2026-10-28",
+       "title": "What’s next for Brazil’s Flavio Bolsonaro after election defeat?",
+       "link": "https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss",
+       "source": "Al Jazeera – Breaking News, World News a"
+      },
+      {
+       "date": "2026-11-22",
+       "title": "COP31 climate talks close to final deal, summit president says",
+       "link": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
+       "source": "Al Jazeera – Breaking News, World News a"
+      },
+      {
+       "date": "2026-11-22",
+       "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
+       "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC News"
+      }
+     ],
+     "story": null
+    },
     {
      "id": "9da807a88711",
      "title": "Democrats clinch a historic House majority of at least 258 seats, largest since 1992",
@@ -1276,145 +1180,37 @@
      "story": null
     },
     {
-     "id": "87733164e979",
-     "title": "Poland says Russia tried to assassinate Ukrainian rapper twice",
-     "link": "https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-23T01:53:23+00:00",
-     "summary": "Polish confirmation comes after Copenhagen reveals alleged Russian plot to kill US-Ukrainian citizen on Danish soil.",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "1cca2f1fa481",
-     "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-     "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-23T01:23:43+00:00",
-     "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "7aee7d86637f",
-     "title": "South Korea education minister resigns over exam cheating scandal",
-     "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-22T09:20:45+00:00",
-     "summary": "South Korea's education minister, Choi Kyo-jin, has resigned following a chaotic college entrance exam.",
-     "explain": "The exam is a vital cultural and academic event in South Korea, and perceived unfairness or administrative failure carries significant political weight. The resignation reflects the government's struggle to modernize test integrity without compromising the stability of the exam itself.",
-     "related": [],
-     "story": {
-      "id": "world-south-korean-education-exam-scandal",
-      "title": "South Korean Education Exam Scandal",
-      "so_far": "South Korea's 'Suneung' college entrance exam is a high-pressure event that can influence a student's entire professional future. Recently, the government attempted to implement new, last-minute AI-monitoring technology to prevent cheating, but the implementation failed, causing mass confusion for students and families.",
-      "timeline": [
-       {
-        "date": "2026-11-22",
-        "text": "Minister Choi Kyo-jin stepped down after emergency anti-cheating measures involving artificial intelligence led to widespread disruptions during the national exam.",
-        "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "7e76ee4d551d",
-     "title": "Nepal PM India visit LIVE: Saryu-Kamala Express from Ayodhya to Janakpur, Nepal inaugurated today",
-     "link": "https://www.thehindu.com/news/national/nepal-pm-india-visit-balen-shah-begins-bilateral-trip-energy-connectivity-on-agenda-live-updates-november-23-2026/article71733252.ece",
+     "id": "2d7a71120145",
+     "title": "Federal appeals court gives President Donald Trump path to erasing hush money conviction",
+     "link": "https://www.thehindu.com/news/international/federal-appeals-court-gives-president-donald-trump-path-to-erasing-hush-money-conviction/article71736252.ece",
      "source": "World News: Latest International News & ",
-     "published": "2026-11-23T09:21:58+00:00",
-     "summary": "Nepal Prime Minister Balendra Shah arrived in India for his first official bilateral visit, coinciding with the inauguration of a new express train route between Ayodhya and Janakpur.",
-     "explain": "A bilateral visit is a formal trip between two countries to discuss trade, culture, and government policy. The inauguration of a train line between Ayodhya (a significant religious city in India) and Janakpur (a major site in Nepal) symbolizes the shared cultural history and the effort to boost tourism and connectivity between the two nations.",
-     "related": [],
-     "story": {
-      "id": "india-nepal-india-diplomatic-relations",
-      "title": "Nepal-India Diplomatic Relations",
-      "so_far": "India and Nepal share a unique cultural and geopolitical relationship, often referred to as 'Roti-Beti' ties, which encompasses open borders and strong religious connections. Recent years have seen periodic diplomatic exchanges aimed at improving connectivity and trade. High-level visits between the two nations are standard practice to reinforce cooperation on infrastructure projects and security.",
-      "timeline": [
-       {
-        "date": "2026-11-23",
-        "text": "Nepal PM Balendra Shah is on his first official state visit to India, marking a diplomatic milestone.",
-        "link": "https://www.thehindu.com/news/national/nepal-pm-india-visit-balen-shah-begins-bilateral-trip-energy-connectivity-on-agenda-live-updates-november-23-2026/article71733252.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-23",
-        "text": "PM Modi and Nepal PM Balendra Shah held a bilateral meeting at Hyderabad House in Delhi.",
-        "link": "https://www.thehindu.com/videos/shorts/pm-modi-meets-nepal-pm-balendra-shah-both-exchange-gifts-including-gangajal-and-rudraksha-in-delhi/article71733938.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "5872fa30d751",
-     "title": "Israel at an Inflection Point",
-     "link": "https://www.thehindu.com/news/international/israel-at-an-inflection-point/article71734081.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-11-23T09:20:37+00:00",
-     "summary": "The e-book brings together incisive essays by leading scholars and experts to offer a realistic picture of the strategic and political landscape surrounding the Jewish nation",
+     "published": "2026-11-23T21:36:25+00:00",
+     "summary": "The panel ordered a lower court to promptly issue a decision on whether the case should remain in federal court; if that happens, Mr. Trump could then argue that the verdict should be discarded because of Presidential im",
      "explain": null,
      "related": [],
      "story": null
     },
     {
-     "id": "ff880650c2c2",
-     "title": "Widowed amid war and displacement: Sudanese mothers struggle to survive",
-     "link": "https://www.aljazeera.com/features/2026/11/23/widowed-amid-war-and-displacement-sudanese-mothers-struggle-to-survive?traffic_source=rss",
+     "id": "51bdd5004f99",
+     "title": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
+     "link": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-23T08:53:10+00:00",
-     "summary": "War widows in Sudan face growing challenges supporting their children as the cost of living increases.",
+     "published": "2026-11-23T21:30:40+00:00",
+     "summary": "US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran&#039;s global financial activities.",
      "explain": null,
      "related": [],
      "story": null
     },
     {
-     "id": "3d4046b7eba7",
-     "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
-     "link": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-23T08:53:01+00:00",
-     "summary": "The two leaders committed to upholding sovereignty and \"non-interference in the internal affairs of states\".",
+     "id": "a2a959deab80",
+     "title": "Israel’s southern Syria incursion triggers fear and destruction",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-23T21:19:17+00:00",
+     "summary": "Families in Koya have been shot at, had their homes set on fire, and been forced to flee after Israeli incursions.",
      "explain": null,
      "related": [],
      "story": null
-    },
-    {
-     "id": "1e958cfcae97",
-     "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-     "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-23T08:41:08+00:00",
-     "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "92c612fd0fa5",
-     "title": "Russian ships hit by Ukrainian drones off Libya coast, Zelensky says",
-     "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-23T08:36:57+00:00",
-     "summary": "A Russian ship docked in Libya was damaged by a suspected drone attack.",
-     "explain": "A sea drone is a small, uncrewed boat capable of carrying explosives to attack ships or port infrastructure. This incident highlights the volatile security environment in Libya and the potential for unintended escalation involving foreign assets.",
-     "related": [],
-     "story": {
-      "id": "world-russian-ship-attacked-in-libya",
-      "title": "Russian Ship Attacked in Libya",
-      "so_far": "Libya has been fractured by civil war and political instability for over a decade, with various international powers supporting different factions. The presence of Russian vessels in Libyan ports is a sensitive geopolitical issue due to Russia's influence in the region.",
-      "timeline": [
-       {
-        "date": "2026-11-22",
-        "text": "A suspected sea drone strike damaged a Russian vessel at a naval base in Benghazi, Libya; no party has claimed responsibility.",
-        "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       }
-      ]
-     }
     }
    ]
   },
@@ -1422,25 +1218,111 @@
    "label": "Business & Finance",
    "articles": [
     {
-     "id": "d62e83983847",
-     "title": "After missing salary, employees at Indian-origin CEO's robotic soldier startup backed by Eric Trump lose health benefits",
-     "link": "https://www.livemint.com/companies/news/after-missing-salary-employees-at-indian-origin-ceos-robotic-soldier-startup-backed-by-eric-trump-lose-health-benefits-11795396927193.html",
-     "source": "mint - companies",
-     "published": "2026-11-23T01:38:59+00:00",
-     "summary": "Foundation Future has terminated employees’ health benefits amid cash-flow concerns, after reports that it missed payroll in October. The robotics startup says it will offer COBRA coverage. CEO Sankaet Pathak has attribu",
+     "id": "fa5d89ceffcd",
+     "title": "Nvidia reinstates Jensen Huang as CEO, Trump says no risk to national security",
+     "link": "https://www.thehindubusinessline.com/info-tech/nvidia-reinstates-jensen-huang-as-ceo/article71735223.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-23T16:28:40+00:00",
+     "summary": "The board reinstated Huang after a series of meetings and discussions and after receiving input from “senior levels of the United States government”",
      "explain": null,
-     "related": [],
+     "related": [
+      {
+       "date": "2026-11-10",
+       "title": "‘No ordinary CEO’: Why Nvidia’s Jensen Huang is indispensable to the AI industry",
+       "link": "https://www.thehindubusinessline.com/info-tech/no-ordinary-ceo-why-nvidias-jensen-huang-is-indispensable-to-the-ai-industry/article71684765.ece",
+       "source": "Business News Today: Latest Business New"
+      },
+      {
+       "date": "2026-11-10",
+       "title": "Donald Trump says FBI is investigating Jensen Huang’s affair with alleged Chinese spy as trouble mounts for Nvidia CEO",
+       "link": "https://www.livemint.com/companies/news/donald-trump-says-fbi-is-investigating-jensen-huang-s-affair-with-alleged-chinese-spy-as-trouble-mounts-for-nvidia-ceo-11794273697767.html",
+       "source": "mint - companies"
+      },
+      {
+       "date": "2026-11-18",
+       "title": "End of the road for Jensen Huang? Nvidia Board Chairman Harvey Jones says no intention to rehire him as CEO",
+       "link": "https://www.livemint.com/companies/news/end-of-the-road-for-jensen-huang-nvidia-board-chairman-harvey-jones-says-no-intention-to-rehire-him-as-ceo-11794963686059.html",
+       "source": "mint - companies"
+      }
+     ],
      "story": null
     },
     {
-     "id": "774ce43f23be",
-     "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-     "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
-     "source": "Business News",
-     "published": "2026-11-22T18:55:05+00:00",
-     "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+     "id": "86073fb101d6",
+     "title": "Tata Sons board meeting deferred to November 30",
+     "link": "https://www.thehindubusinessline.com/companies/tata-sons-board-meeting-deferred-to-november-30/article71735338.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-23T15:11:04+00:00",
+     "summary": "The board meeting will take place in the backdrop of Reserve Bank of India’s communication to Tata Sons for listing it’s shares - an issue that has divided the Tata group",
      "explain": null,
-     "related": [],
+     "related": [
+      {
+       "date": "2026-10-26",
+       "title": "Noel Tata seeks record of Tata Sons September 17 board meet",
+       "link": "https://www.thehindubusinessline.com/companies/noel-tata-seeks-record-of-tata-sons-september-17-board-meet/article71628511.ece",
+       "source": "Business News Today: Latest Business New"
+      },
+      {
+       "date": "2026-10-26",
+       "title": "Noel Tata challenges Chandrasekaran's reappointment as Tata Sons chairman, seeks board meeting video",
+       "link": "https://www.livemint.com/companies/people/noel-tata-challenges-chandrasekarans-reappointment-as-tata-sons-chairman-seeks-board-meeting-video-11793037220242.html",
+       "source": "mint - companies"
+      },
+      {
+       "date": "2026-11-20",
+       "title": "Noel Tata renews demand for September 17 board meeting recording",
+       "link": "https://www.thehindubusinessline.com/companies/noel-tata-renews-demand-for-september-17-board-meeting-recording/article71725853.ece",
+       "source": "Business News Today: Latest Business New"
+      }
+     ],
+     "story": null
+    },
+    {
+     "id": "3c3d9c639dfe",
+     "title": "Nvidia reinstates Jensen Huang as CEO, shares surge 31%",
+     "link": "https://www.livemint.com/companies/people/nvidia-reinstates-jensen-huang-as-ceo-11795442533071.html",
+     "source": "mint - companies",
+     "published": "2026-11-23T14:04:47+00:00",
+     "summary": "Nvidia CEO Jensen Huang, who was fired last week from the top job, has been reinstated, according to a company post on X.",
+     "explain": null,
+     "related": [
+      {
+       "date": "2026-11-10",
+       "title": "‘No ordinary CEO’: Why Nvidia’s Jensen Huang is indispensable to the AI industry",
+       "link": "https://www.thehindubusinessline.com/info-tech/no-ordinary-ceo-why-nvidias-jensen-huang-is-indispensable-to-the-ai-industry/article71684765.ece",
+       "source": "Business News Today: Latest Business New"
+      },
+      {
+       "date": "2026-11-12",
+       "title": "Elon Musk offers to hire Nvidia CEO Jensen Huang",
+       "link": "https://economictimes.indiatimes.com/news/new-updates/musk-wants-to-hire-jensen-huang-elon-musk-says-he-would-be-honoured-to-recruit-nvidia-ceo-if-board-decides-to-replace-him/articleshow/135753303.cms",
+       "source": "Economic Times"
+      },
+      {
+       "date": "2026-11-13",
+       "title": "‘I’m a piece of sh--’: Inside Jensen Huang’s final hours as Nvidia CEO",
+       "link": "https://www.livemint.com/companies/people/im-a-piece-of-sh-inside-jensen-huang-s-final-hours-as-nvidia-ceo-11794545307416.html",
+       "source": "mint - companies"
+      },
+      {
+       "date": "2026-11-14",
+       "title": "Elon Musk backs petition seeking Jensen Huang’s reinstatement at Nvidia",
+       "link": "https://www.thehindubusinessline.com/news/world/elon-musk-backs-petition-seeking-jensen-huangs-reinstatement-at-nvidia/article71700695.ece",
+       "source": "Business News Today: Latest Business New"
+      },
+      {
+       "date": "2026-11-16",
+       "title": "Who is Madison Huang? Why Jensen Huang’s daughter is in spotlight at Nvidia amid CEO succession speculation",
+       "link": "https://www.livemint.com/companies/people/who-is-madison-huang-why-jensen-huang-s-daughter-is-in-spotlight-at-nvidia-amid-ceo-succession-speculation-11794826174350.html",
+       "source": "mint - companies"
+      },
+      {
+       "date": "2026-11-17",
+       "title": "Nvidia board rules out Jensen Huang’s return as CEO amid growing campaign",
+       "link": "https://www.thehindubusinessline.com/info-tech/nvidia-board-rules-out-jensen-huangs-return-as-ceo-amid-growing-campaign/article71709569.ece",
+       "source": "Business News Today: Latest Business New"
+      }
+     ],
      "story": null
     },
     {
@@ -1455,117 +1337,69 @@
      "story": null
     },
     {
-     "id": "4114bb992f60",
-     "title": "Why COP31 nations failed to produce a joint declaration?",
-     "link": "https://www.thehindubusinessline.com/multimedia/video/cop31-explained-why-nations-failed-joint-declaration/article71734103.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-23T09:29:03+00:00",
+     "id": "316f6dd30f51",
+     "title": "₹1 tn inheritance row: Kalyani family's mediation fails",
+     "link": "https://economictimes.indiatimes.com/news/company/corporate-trends/mediation-fails-in-kalyani-familys-rs-1-lakh-crore-inheritance-dispute-sc-told/articleshow/136093113.cms",
+     "source": "Economic Times",
+     "published": "2026-11-23T07:14:35+00:00",
      "summary": "",
      "explain": null,
      "related": [],
      "story": null
     },
     {
-     "id": "f461ed51a90f",
-     "title": "India announces 24,000 crore Nepalese rupee development package for Nepal after Modi-Shah talks",
-     "link": "https://www.thehindubusinessline.com/news/india-announces-24000-crore-nepalese-rupee-development-package-for-nepal-after-modi-shah-talks/article71734084.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-23T09:27:33+00:00",
-     "summary": "The discussions covered development cooperation, energy security, health, education and infrastructure, with both leaders expressing confidence in stronger bilateral relations.",
+     "id": "14de73f85880",
+     "title": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
+     "link": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html",
+     "source": "Business News",
+     "published": "2026-11-23T21:55:27+00:00",
+     "summary": "In addition to ESPN channels, Super Bowl 61 will also be available on streaming platform Disney+ as well as the company's broadcast network ABC.",
      "explain": null,
      "related": [],
      "story": null
     },
     {
-     "id": "4b62c4d6da81",
-     "title": "India to grow 7% in FY27, El Nino impact to drive food prices higher: S&P",
-     "link": "https://www.thehindubusinessline.com/economy/india-to-grow-7-in-fy27-el-nino-impact-to-drive-food-prices-higher-sp/article71734021.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-23T09:25:17+00:00",
-     "summary": "High energy prices to be the largest macro headwind for the Indian economy and global AI build-out the largest tailwind",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "279fb8c3a082",
-     "title": "Food companies turn to technology to pack more nutrition into everyday diets",
-     "link": "https://www.livemint.com/companies/news/india-fmcg-companies-nutrition-fortified-foods-protein-products-11795159893908.html",
+     "id": "4c21ec4b1f45",
+     "title": "Jensen Huangs return to Nvidia caps a comeback bid that stumbled before White House helped",
+     "link": "https://www.livemint.com/companies/jensen-huangs-return-to-nvidia-caps-a-comeback-bid-that-stumbled-before-white-house-helped-11795468659174.html",
      "source": "mint - companies",
-     "published": "2026-11-23T09:17:49+00:00",
-     "summary": "FMCG companies are using nutritional innovation to differentiate everyday staples, with Aashirvaad High Protein Atta priced about 55% above regular atta and Eggoz Protein Plus eggs around 37% higher.",
+     "published": "2026-11-23T21:17:38+00:00",
+     "summary": "Jensen Huang's return to Nvidia caps a comeback bid that stumbled before White House helped",
      "explain": null,
      "related": [],
      "story": null
     },
     {
-     "id": "1a6bbbbe37cc",
-     "title": "L&T Technology Services clarifies cyber incident reports, says operations remain normal",
-     "link": "https://www.thehindubusinessline.com/info-tech/lt-technology-services-clarifies-cyber-incident-reports-says-operations-remain-normal/article71734002.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-23T09:15:35+00:00",
-     "summary": "The engineering services company told stock exchanges it was assessing reports of a possible cyber incident and would make disclosures if required.",
+     "id": "2bd59c37e1cc",
+     "title": "Sugar prices dip 4-5% as Maha, UP supplies rise",
+     "link": "https://economictimes.indiatimes.com/news/economy/agriculture/sugar-prices-dip-4-5-as-maharashtra-up-supplies-rise/articleshow/136112496.cms",
+     "source": "Economic Times",
+     "published": "2026-11-23T18:32:54+00:00",
+     "summary": "",
      "explain": null,
      "related": [],
      "story": null
     },
     {
-     "id": "69d25f7e0994",
-     "title": "Dalmia Bharat board approves ₹700 crore share buyback at up to ₹1,850 per share",
-     "link": "https://www.thehindubusinessline.com/markets/dalmia-bharat-board-approves-700-crore-share-buyback-at-up-to-1850-per-share/article71734042.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-23T09:15:26+00:00",
-     "summary": "The company will buy back up to 37.83 lakh shares, representing 2.02% of its existing paid-up equity share capital",
+     "id": "2eb9bddfb78c",
+     "title": "CrowdStrike snaps up Zscaler in $44 billion deal as cyber threats mount",
+     "link": "https://www.livemint.com/companies/crowdstrike-snaps-up-zscaler-in-44-billion-deal-as-cyber-threats-mount-11795458732828.html",
+     "source": "mint - companies",
+     "published": "2026-11-23T18:32:12+00:00",
+     "summary": "ZSCALER-M-A-CROWDSTRIKE:CrowdStrike snaps up Zscaler in $44 billion deal as cyber threats mount",
      "explain": null,
      "related": [],
      "story": null
     },
     {
-     "id": "dbba6daafe39",
-     "title": "Sensex today | Stock Market Live: Sensex down over 1,250 pts, Nifty around 25,400 as global sell-off weighs on markets",
-     "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-23-november-2026/article71733179.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-23T09:14:45+00:00",
-     "summary": "Sensex, Nifty, Share Prices Live: Indian equity benchmarks reversed their early gains and fell sharply in morning trade on Monday, tracking global weakness amid concerns over US-Iran tensions, crude oil prices and the st",
+     "id": "69f8954ad3bc",
+     "title": "Zscaler’s Chaudhrys to Reap $14.5 Billion From CrowdStrike Deal",
+     "link": "https://www.livemint.com/companies/zscalers-chaudhrys-to-reap-14-5-billion-from-crowdstrike-deal-11795458673610.html",
+     "source": "mint - companies",
+     "published": "2026-11-23T18:31:13+00:00",
+     "summary": "The biggest winners of CrowdStrike Holdings Inc.’s $44 billion acquisition of cybersecurity software maker Zscaler Inc. — by far — are the company’s billionaire founder, Jay Chaudhry, and members of his family, who combi",
      "explain": null,
-     "related": [
-      {
-       "date": "2026-11-13",
-       "title": "Sensex today | Stock Market Live Updates: Stock to buy today: SBI Life Insurance (₹1,820)",
-       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-13-november-2026/article71693403.ece",
-       "source": "Business News Today: Latest Business New"
-      },
-      {
-       "date": "2026-11-16",
-       "title": "Sensex today | Stock Market Live Updates: Nifty, Sensex eye fresh gains amid global weakness",
-       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-16th-november-2026/article71705118.ece",
-       "source": "Business News Today: Latest Business New"
-      },
-      {
-       "date": "2026-11-17",
-       "title": "Sensex today | Stock Market Live Updates: Stock to buy today: CAMS",
-       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-17th-november-2026/article71708442.ece",
-       "source": "Business News Today: Latest Business New"
-      },
-      {
-       "date": "2026-11-18",
-       "title": "Sensex today | Stock Market Live Updates: Stock to buy today: Cemindia Projects (₹1,353) – BUY",
-       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-18-november-2026/article71711870.ece",
-       "source": "Business News Today: Latest Business New"
-      },
-      {
-       "date": "2026-11-19",
-       "title": "Sensex today | Stock Market Live: Stock to buy today: Sagility (₹45) – BUY",
-       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-19th-november-2026/article71717151.ece",
-       "source": "Business News Today: Latest Business New"
-      },
-      {
-       "date": "2026-11-20",
-       "title": "Sensex today | Stock Market Live: Sensex jumps 700 pts, Nifty touches fresh 10-month high at 25,730",
-       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-20th-november-2026/article71720685.ece",
-       "source": "Business News Today: Latest Business New"
-      }
-     ],
+     "related": [],
      "story": null
     }
    ]
@@ -1574,125 +1408,130 @@
    "label": "Markets & Crypto",
    "articles": [
     {
-     "id": "57c38197ffdf",
-     "title": "Up 32% in one month! Small-cap stock under ₹50 hits 5% upper circuit despite weak trends on Dalal Street; do you have?",
-     "link": "https://www.livemint.com/market/stock-market-news/up-32-in-one-month-small-cap-stock-under-rs-50-hits-5-upper-circuit-despite-weak-trends-on-dalal-street-do-you-have-11795422451498.html",
+     "id": "84c263db14c5",
+     "title": "Nasdaq surges 6%, Dow soars 1,400 pts as markets rebound on Huang’s return: Stock Market Live Updates",
+     "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-meta-anthropic-amd-micron-tesla-ai-chip-earnings-fed-rate-treasury-yield-news-23rd-november-2026/liveblog/136104474.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-11-23T13:12:48+00:00",
+     "summary": "",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "eccc7115fbeb",
+     "title": "Live updates: Bitcoin climbs only modestly as Nasdaq soars 6% on Huang return",
+     "link": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025",
+     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
+     "published": "2026-11-23T13:01:20+00:00",
+     "summary": "",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "0410dea83628",
+     "title": "Nvidia’s 31% Surge Exposes Wall Street’s Growing Stock Trap",
+     "link": "https://www.livemint.com/market/nvidias-31-surge-exposes-wall-street-s-growing-stock-trap-11795470573054.html",
      "source": "mint - markets",
-     "published": "2026-11-23T09:11:24+00:00",
-     "summary": "TAKE Limited shares hit their 5% upper circuit on 23 November, extending a sharp short-term rally despite steep losses over longer periods. Analysts see improving momentum but warn that low liquidity and circuit movement",
+     "published": "2026-11-23T21:49:32+00:00",
+     "summary": "Monday’s spectacular stock rebound exposes the latest trap facing investors in a market dominated by a handful of technology giants: Selling them offers protection when markets plunge, but risks missing the recovery.",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "78f7a83e386d",
+     "title": "Here’s what happened in crypto today",
+     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph.com News",
+     "published": "2026-11-23T21:40:44+00:00",
+     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "f02781614058",
+     "title": "Gold Rebounds as Huang’s Return to Nvidia Revives Risk Appetite",
+     "link": "https://www.livemint.com/market/gold-rebounds-as-huang-s-return-to-nvidia-revives-risk-appetite-11795469022718.html",
+     "source": "mint - markets",
+     "published": "2026-11-23T21:23:42+00:00",
+     "summary": "Gold extended its rebound in a broad risk-on rally triggered by the reinstatement of Jensen Huang as chief executive officer of Nvidia Corp.",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "b1fd119930de",
+     "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
+     "link": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph.com News",
+     "published": "2026-11-23T21:04:03+00:00",
+     "summary": "US prosecutors are seeking control of stolen USDC, while Elliptic says hackers have moved $247 million through Bitcoin mixers.",
      "explain": null,
      "related": [
       {
-       "date": "2026-11-12",
-       "title": "Up 85% YTD! Circuit-to-circuit penny stock under ₹2 hits 5% upper circuit for the third straight session; do you own?",
-       "link": "https://www.livemint.com/market/stock-market-news/up-85-ytd-circuit-to-circuit-penny-stock-under-rs-2-hits-5-upper-circuit-for-the-third-straight-session-do-you-own-11794478097571.html",
+       "date": "2026-11-02",
+       "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
+       "link": "https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+       "source": "Cointelegraph.com News"
+      },
+      {
+       "date": "2026-11-02",
+       "title": "North Korea Denies Role in $6.3 Billion Binance Crypto Heist",
+       "link": "https://www.livemint.com/market/north-korea-denies-role-in-6-3-billion-binance-crypto-heist-11793662674891.html",
        "source": "mint - markets"
-      }
-     ],
-     "story": null
-    },
-    {
-     "id": "7d2251a202a7",
-     "title": "‘MoldyRoost’ ads can steal crypto wallet recovery phrases from iPhones",
-     "link": "https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph.com News",
-     "published": "2026-11-23T09:05:44+00:00",
-     "summary": "The campaign used at least 480 ad domains to target users in more than 47 countries and could infect a vulnerable iPhone with a single tap.",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "17fb3b807ca8",
-     "title": "Who is killing Nifty 50 rally? SBI, RIL, HDFC Bank, Axis Bank, Hindalco, JSW among stocks dragging index into red",
-     "link": "https://www.livemint.com/market/stock-market-news/who-is-killing-the-nifty-50-rally-sbi-ril-hdfc-axis-bank-hindalco-tata-steel-jsw-steel-among-key-stocks-giving-r-11795422323375.html",
-     "source": "mint - markets",
-     "published": "2026-11-23T09:01:03+00:00",
-     "summary": "Indian markets fell sharply on Monday after a five-session rally, with the Nifty 50 dropping below 25,500 and the Sensex losing about 1.5%. Metal, banking and finance stocks led the decline, as Tata Steel, Hindalco, Axis",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "af0f6f8b92c9",
-     "title": "Up 115% in 6 months! Small-cap chemical stock under ₹200 jumps 11% despite stock market crash; reason for rise, target",
-     "link": "https://www.livemint.com/market/stock-market-news/up-115-in-6-months-small-cap-chemical-stock-under-200-jumps-11-despite-stock-market-crash-reason-for-rise-target-11795421422249.html",
-     "source": "mint - markets",
-     "published": "2026-11-23T08:51:22+00:00",
-     "summary": "Small-cap stock under ₹200: Chemical stock opened at ₹107 apiece today, as compared to previous close of ₹97.42 on Friday last week and touched an intraday high of ₹116.80.",
-     "explain": null,
-     "related": [
+      },
       {
        "date": "2026-11-03",
-       "title": "Small-cap stock under ₹50 jumps 5% after announcement of Q2 Results 2026, dividend | Up 65% in 6 months; do you own?",
-       "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-jumps-5-after-announcement-of-q2-results-2026-dividend-up-65-in-6-months-do-you-own-11793700056652.html",
-       "source": "mint - markets"
+       "title": "North Korea denies role in $6.4 billion Binance hack after FBI points to TraderTraitor",
+       "link": "https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor",
+       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
       }
      ],
      "story": null
     },
     {
-     "id": "e0eb6d2031d8",
-     "title": "TCS vs Infosys vs Wipro shares: Despite global AI bloodbath, why are Indian IT stocks rising? Experts decode",
-     "link": "https://www.livemint.com/market/stock-market-news/tcs-vs-infosys-vs-wipro-shares-despite-global-ai-bloodbath-why-are-indian-it-stocks-rising-experts-decode-11795416602297.html",
+     "id": "d7b80068ba16",
+     "title": "Credit Fear Gauge Drops as Huang’s Return Boosts AI Hopes",
+     "link": "https://www.livemint.com/market/credit-fear-gauge-drops-as-huang-s-return-boosts-ai-hopes-11795467289630.html",
      "source": "mint - markets",
-     "published": "2026-11-23T08:29:48+00:00",
-     "summary": "TCS vs Infosys vs Wipro shares: Experts believe global rotation out of expensive AI hardware/infrastructure plays into undervalued, asset-light IT services companies",
+     "published": "2026-11-23T20:54:49+00:00",
+     "summary": "Corporate-debt markets rallied globally on Monday, with US fear gauges improving the most in months and technology firms’ bonds rebounding after Nvidia Corp.’s board reinstated Jensen Huang as chief executive officer.",
      "explain": null,
      "related": [],
      "story": null
     },
     {
-     "id": "92ee1ba945da",
-     "title": "Thomas Cook share price surges 15%, extends three-session rally to 19% | More upside ahead? Key levels to watch",
-     "link": "https://www.livemint.com/market/stock-market-news/thomas-cook-share-price-surges-15-extends-three-session-rally-to-19-more-upside-ahead-key-levels-to-watch-11795417866319.html",
+     "id": "a03027de715c",
+     "title": "Taiwan Meets With TSMC, Financial Firms in Bid to Calm Markets",
+     "link": "https://www.livemint.com/market/taiwan-meets-with-tsmc-financial-firms-in-bid-to-calm-markets-11795466488909.html",
      "source": "mint - markets",
-     "published": "2026-11-23T08:25:41+00:00",
-     "summary": "Thomas Cook shares surged nearly 15% intraday on 23 November, extending a three-session gain to almost 19% amid heavy trading. Investors have also focused on the company’s expansion of its resort and retail networks and ",
+     "published": "2026-11-23T20:41:28+00:00",
+     "summary": "Taiwan Premier Cho Jung-tai met with executives from tech companies including Taiwan Semiconductor Manufacturing Co. and the island’s biggest financial firms — a rare move aimed at calming jittery investors.",
      "explain": null,
      "related": [],
      "story": null
     },
     {
-     "id": "905eff51ff1f",
-     "title": "Crash proof stocks: Sensex, Nifty bleed but these shares come out in flying green colour - HCL, TCS, Infy, Maruti - List",
-     "link": "https://www.livemint.com/market/stock-market-news/crash-proof-stocks-sensex-nifty-bleed-but-these-shares-come-out-in-flying-green-colour-hcl-tcs-infy-maruti-list-11795417938149.html",
-     "source": "mint - markets",
-     "published": "2026-11-23T08:10:54+00:00",
-     "summary": "Indian equities fell sharply on Monday, with the Nifty 50 closing below 25,500 and the Sensex down about 1.4%. Only 12 Nifty constituents advanced, while IT, pharmaceutical, hospital and finance stocks showed resilience.",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "a45a4df3178e",
-     "title": "Bitcoin ETFs shed $1.8B in third-largest weekly outflow",
-     "link": "https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "id": "8a4877f80608",
+     "title": "Kalshi secures temporary win in New York gambling law dispute",
+     "link": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph.com News",
-     "published": "2026-11-23T08:08:52+00:00",
-     "summary": "Bitcoin ETF outflows reached $4.14 billion in November through Friday, nearing June’s $4.51 billion total.",
+     "published": "2026-11-23T20:38:43+00:00",
+     "summary": "The ruling allows Kalshi to continue operating as its legal battle with New York over sports-related event contracts moves toward a January hearing.",
      "explain": null,
      "related": [],
      "story": null
     },
     {
-     "id": "bb410073f3fc",
-     "title": "HFCL 160% up in 2026 vs Sterlite Technologies up 476%; but both crashed today - Experts suggest which one to buy",
-     "link": "https://www.livemint.com/market/stock-market-news/hfcl-160-up-in-2026-vs-sterlite-technologies-up-476-but-both-crashed-today-experts-suggest-which-one-to-buy-11795417569234.html",
+     "id": "79697cef2157",
+     "title": "Nvidia’s Big Rebound Hammers Leveraged Funds Betting on a Fall",
+     "link": "https://www.livemint.com/market/nvidias-big-rebound-hammers-leveraged-funds-betting-on-a-fall-11795466061291.html",
      "source": "mint - markets",
-     "published": "2026-11-23T08:05:39+00:00",
-     "summary": "On Monday, both HFCL and Sterlite Technologies shares fell 5%, hitting the lower circuit limit, amid weak market sentiment on Dalal Street.",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "9de7c584d38c",
-     "title": "Crypto thieves are using online ads to infect iPhones with a single tap, research finds",
-     "link": "https://www.coindesk.com/tech/2026/11/23/moldyroost-malvertizing-campaign-uses-one-tap-iphone-hacks-to-hunt-crypto-wallet-keys-research-shows",
-     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
-     "published": "2026-11-23T07:45:30+00:00",
-     "summary": "",
+     "published": "2026-11-23T20:34:20+00:00",
+     "summary": "For investors betting against Nvidia Corp., Monday’s big rebound turned a lucrative wager into a financial wrecking ball.",
      "explain": null,
      "related": [],
      "story": null
