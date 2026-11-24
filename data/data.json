@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-23T22:08:55.290571+00:00",
- "prices_generated": "2026-11-23T23:14:27.901632+00:00",
+ "generated": "2026-11-24T11:27:58.495800+00:00",
+ "prices_generated": "2026-11-24T11:27:58.495800+00:00",
  "ai": "gemini",
- "pulse": null,
+ "pulse": "Indian markets saw a sharp decline today, with the Bank Nifty falling over 3%, likely driven by investor caution and sector-specific weakness. In contrast, US markets surged significantly, fueled by strong investor optimism following the return of Jensen Huang to the helm of Nvidia. Meanwhile, major cryptocurrencies and precious metals faced downward pressure, possibly due to a shift in capital toward surging US tech stocks and ongoing volatility in the digital asset space.",
  "ticker_strip": [
   "^NSEI",
   "^BSESN",
@@ -55,10 +55,10 @@
   "^NSEI": {
    "symbol": "^NSEI",
    "name": "Nifty 50",
-   "price": 25800.5996,
-   "change": 286.2988,
-   "pct": 1.12,
-   "pct_1m": 14.16,
+   "price": 25349.6504,
+   "change": -450.9492,
+   "pct": -1.75,
+   "pct_1m": 12.17,
    "spark": [
     22600.0,
     22753.1992,
@@ -79,17 +79,18 @@
     25387.4004,
     25227.9492,
     25514.3008,
-    25800.5996
+    25800.5996,
+    25349.6504
    ],
-   "asof": "2026-11-20"
+   "asof": "2026-11-23"
   },
   "^BSESN": {
    "symbol": "^BSESN",
    "name": "Sensex",
-   "price": 83919.7109,
-   "change": 897.9609,
-   "pct": 1.08,
-   "pct_1m": 14.76,
+   "price": 82435.9922,
+   "change": -1483.7188,
+   "pct": -1.77,
+   "pct_1m": 12.73,
    "spark": [
     73123.8281,
     73606.75,
@@ -110,17 +111,18 @@
     82532.1875,
     82031.8125,
     83021.75,
-    83919.7109
+    83919.7109,
+    82435.9922
    ],
-   "asof": "2026-11-20"
+   "asof": "2026-11-23"
   },
   "^NSEBANK": {
    "symbol": "^NSEBANK",
    "name": "Bank Nifty",
-   "price": 64635.1992,
-   "change": 1572.1992,
-   "pct": 2.49,
-   "pct_1m": 19.06,
+   "price": 62585.3516,
+   "change": -2049.8477,
+   "pct": -3.17,
+   "pct_1m": 15.29,
    "spark": [
     54287.3516,
     54366.6992,
@@ -141,9 +143,10 @@
     62273.25,
     62038.6484,
     63063.0,
-    64635.1992
+    64635.1992,
+    62585.3516
    ],
-   "asof": "2026-11-20"
+   "asof": "2026-11-23"
   },
   "^GSPC": {
    "symbol": "^GSPC",
@@ -180,8 +183,8 @@
   "^IXIC": {
    "symbol": "^IXIC",
    "name": "Nasdaq",
-   "price": 24089.5586,
-   "change": 1471.8281,
+   "price": 24089.5605,
+   "change": 1471.8301,
    "pct": 6.51,
    "pct_1m": -7.95,
    "spark": [
@@ -205,7 +208,7 @@
     24429.8809,
     23879.1992,
     22617.7305,
-    24089.5586
+    24089.5605
    ],
    "asof": "2026-11-23"
   },
@@ -244,12 +247,11 @@
   "BTC-USD": {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 61324.5508,
-   "change": 162.6406,
-   "pct": 0.27,
-   "pct_1m": -24.36,
+   "price": 59775.7305,
+   "change": -1435.2539,
+   "pct": -2.34,
+   "pct_1m": -26.01,
    "spark": [
-    81074.1875,
     80790.8359,
     80024.0078,
     80006.6562,
@@ -280,19 +282,19 @@
     58798.9805,
     60094.0898,
     61161.9102,
-    61324.5508
+    61210.9844,
+    59775.7305
    ],
-   "asof": "2026-11-23"
+   "asof": "2026-11-24"
   },
   "ETH-USD": {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 1714.9399,
-   "change": -6.1357,
-   "pct": -0.36,
-   "pct_1m": -28.07,
+   "price": 1684.8101,
+   "change": -24.0413,
+   "pct": -1.41,
+   "pct_1m": -28.49,
    "spark": [
-    2384.0774,
     2355.9536,
     2326.9202,
     2320.2812,
@@ -323,19 +325,19 @@
     1619.4321,
     1682.2046,
     1721.0757,
-    1714.9399
+    1708.8513,
+    1684.8101
    ],
-   "asof": "2026-11-23"
+   "asof": "2026-11-24"
   },
   "SOL-USD": {
    "symbol": "SOL-USD",
    "name": "Solana",
-   "price": 71.83,
-   "change": 1.2599,
-   "pct": 1.79,
-   "pct_1m": -30.11,
+   "price": 70.23,
+   "change": -1.7518,
+   "pct": -2.43,
+   "pct_1m": -31.33,
    "spark": [
-    102.7799,
     102.2717,
     101.2232,
     100.7549,
@@ -366,19 +368,19 @@
     68.7475,
     70.2152,
     70.5701,
-    71.83
+    71.9818,
+    70.23
    ],
-   "asof": "2026-11-23"
+   "asof": "2026-11-24"
   },
   "USDINR=X": {
    "symbol": "USDINR=X",
    "name": "USD/INR",
    "price": 92.9,
-   "change": -0.395,
-   "pct": -0.42,
-   "pct_1m": -1.91,
+   "change": 0.227,
+   "pct": 0.24,
+   "pct_1m": -2.15,
    "spark": [
-    94.7113,
     94.938,
     95.187,
     95.1778,
@@ -399,19 +401,19 @@
     93.4746,
     93.4653,
     93.295,
+    92.673,
     92.9
    ],
-   "asof": "2026-11-23"
+   "asof": "2026-11-24"
   },
   "EURINR=X": {
    "symbol": "EURINR=X",
    "name": "EUR/INR",
-   "price": 101.3428,
-   "change": -0.9212,
-   "pct": -0.9,
-   "pct_1m": -4.68,
+   "price": 101.3743,
+   "change": 0.0663,
+   "pct": 0.07,
+   "pct_1m": -4.24,
    "spark": [
-    106.315,
     105.868,
     106.269,
     105.761,
@@ -432,19 +434,19 @@
     102.673,
     102.468,
     102.264,
-    101.3428
+    101.308,
+    101.3743
    ],
-   "asof": "2026-11-23"
+   "asof": "2026-11-24"
   },
   "EURUSD=X": {
    "symbol": "EURUSD=X",
    "name": "EUR/USD",
-   "price": 1.0908,
-   "change": -0.0062,
-   "pct": -0.57,
-   "pct_1m": -2.8,
+   "price": 1.0951,
+   "change": -0.0021,
+   "pct": -0.19,
+   "pct_1m": -2.38,
    "spark": [
-    1.1221,
     1.1218,
     1.1174,
     1.113,
@@ -465,19 +467,19 @@
     1.0993,
     1.0972,
     1.097,
-    1.0908
+    1.0972,
+    1.0951
    ],
-   "asof": "2026-11-23"
+   "asof": "2026-11-24"
   },
   "GBPINR=X": {
    "symbol": "GBPINR=X",
    "name": "GBP/INR",
-   "price": 121.0801,
-   "change": -1.0161,
-   "pct": -0.83,
-   "pct_1m": -4.07,
+   "price": 121.1061,
+   "change": -0.0911,
+   "pct": -0.08,
+   "pct_1m": -4.62,
    "spark": [
-    126.2137,
     126.9686,
     127.0049,
     126.6426,
@@ -498,19 +500,52 @@
     123.4515,
     122.8714,
     122.0962,
-    121.0801
+    121.1972,
+    121.1061
    ],
-   "asof": "2026-11-23"
+   "asof": "2026-11-24"
+  },
+  "GC=F": {
+   "symbol": "GC=F",
+   "name": "Gold",
+   "price": 3624.8999,
+   "change": -26.5,
+   "pct": -0.73,
+   "pct_1m": -10.24,
+   "spark": [
+    4038.3999,
+    4074.6001,
+    4051.6001,
+    4031.3999,
+    3898.8999,
+    3969.6001,
+    3940.3999,
+    4073.0,
+    4113.5,
+    4074.8999,
+    4114.5,
+    4030.2,
+    4000.5,
+    3885.3,
+    3886.3,
+    3853.0,
+    3864.2,
+    3741.8999,
+    3685.5,
+    3515.3999,
+    3651.3999,
+    3624.8999
+   ],
+   "asof": "2026-11-24"
   },
   "SI=F": {
    "symbol": "SI=F",
    "name": "Silver",
-   "price": 43.195,
-   "change": 2.16,
-   "pct": 5.26,
-   "pct_1m": -19.58,
+   "price": 41.815,
+   "change": -1.332,
+   "pct": -3.09,
+   "pct_1m": -22.72,
    "spark": [
-    53.711,
     54.108,
     54.293,
     53.457,
@@ -531,19 +566,19 @@
     44.999,
     44.318,
     41.035,
-    43.195
+    43.147,
+    41.815
    ],
-   "asof": "2026-11-23"
+   "asof": "2026-11-24"
   },
   "CL=F": {
    "symbol": "CL=F",
    "name": "WTI Crude",
-   "price": 80.18,
-   "change": -3.8,
-   "pct": -4.52,
-   "pct_1m": -22.36,
+   "price": 80.03,
+   "change": -0.14,
+   "pct": -0.17,
+   "pct_1m": -21.35,
    "spark": [
-    103.27,
     101.76,
     99.9,
     102.78,
@@ -564,19 +599,19 @@
     83.26,
     83.21,
     83.98,
-    80.18
+    80.17,
+    80.03
    ],
-   "asof": "2026-11-23"
+   "asof": "2026-11-24"
   },
   "BZ=F": {
    "symbol": "BZ=F",
    "name": "Brent Crude",
-   "price": 86.8,
-   "change": -5.77,
-   "pct": -6.23,
-   "pct_1m": -25.63,
+   "price": 86.83,
+   "change": -2.54,
+   "pct": -2.84,
+   "pct_1m": -25.02,
    "spark": [
-    116.72,
     115.81,
     113.88,
     115.32,
@@ -597,17 +632,18 @@
     91.95,
     91.98,
     92.57,
-    86.8
+    89.37,
+    86.83
    ],
-   "asof": "2026-11-23"
+   "asof": "2026-11-24"
   },
   "RELIANCE.NS": {
    "symbol": "RELIANCE.NS",
    "name": "Reliance",
-   "price": 1377.5,
-   "change": 1.9,
-   "pct": 0.14,
-   "pct_1m": 15.76,
+   "price": 1351.0,
+   "change": -26.5,
+   "pct": -1.92,
+   "pct_1m": 13.53,
    "spark": [
     1190.0,
     1201.8,
@@ -628,17 +664,18 @@
     1367.0,
     1363.0,
     1375.6,
-    1377.5
+    1377.5,
+    1351.0
    ],
-   "asof": "2026-11-20"
+   "asof": "2026-11-23"
   },
   "TCS.NS": {
    "symbol": "TCS.NS",
    "name": "TCS",
-   "price": 2376.2,
-   "change": 33.5,
-   "pct": 1.43,
-   "pct_1m": -6.08,
+   "price": 2460.0,
+   "change": 83.8,
+   "pct": 3.53,
+   "pct_1m": -2.77,
    "spark": [
     2530.0,
     2535.0,
@@ -659,17 +696,18 @@
     2406.6001,
     2379.5,
     2342.7,
-    2376.2
+    2376.2,
+    2460.0
    ],
-   "asof": "2026-11-20"
+   "asof": "2026-11-23"
   },
   "HDFCBANK.NS": {
    "symbol": "HDFCBANK.NS",
    "name": "HDFC Bank",
-   "price": 846.0,
-   "change": 24.2,
-   "pct": 2.94,
-   "pct_1m": 22.11,
+   "price": 817.8,
+   "change": -28.2,
+   "pct": -3.33,
+   "pct_1m": 18.04,
    "spark": [
     692.8,
     688.05,
@@ -690,17 +728,18 @@
     814.95,
     808.15,
     821.8,
-    846.0
+    846.0,
+    817.8
    ],
-   "asof": "2026-11-20"
+   "asof": "2026-11-23"
   },
   "INFY.NS": {
    "symbol": "INFY.NS",
    "name": "Infosys",
-   "price": 1098.0,
-   "change": 6.1,
-   "pct": 0.56,
-   "pct_1m": -2.66,
+   "price": 1103.4,
+   "change": 5.4,
+   "pct": 0.49,
+   "pct_1m": -2.18,
    "spark": [
     1127.9613,
     1139.8881,
@@ -721,9 +760,10 @@
     1130.0,
     1108.8,
     1091.9,
-    1098.0
+    1098.0,
+    1103.4
    ],
-   "asof": "2026-11-20"
+   "asof": "2026-11-23"
   },
   "AAPL": {
    "symbol": "AAPL",
@@ -820,51 +860,17 @@
     492.5
    ],
    "asof": "2026-11-23"
-  },
-  "GC=F": {
-   "symbol": "GC=F",
-   "name": "Gold",
-   "price": 3637.0,
-   "change": 121.6001,
-   "pct": 3.46,
-   "pct_1m": -9.25,
-   "spark": [
-    4007.8999,
-    4038.3999,
-    4074.6001,
-    4051.6001,
-    4031.3999,
-    3898.8999,
-    3969.6001,
-    3940.3999,
-    4073.0,
-    4113.5,
-    4074.8999,
-    4114.5,
-    4030.2,
-    4000.5,
-    3885.3,
-    3886.3,
-    3853.0,
-    3864.2,
-    3741.8999,
-    3685.5,
-    3515.3999,
-    3637.0
-   ],
-   "asof": "2026-11-23"
   }
  },
  "mutual_funds": [
   {
    "code": 120716,
    "name": "UTI Nifty 50 Index Fund (Direct, Growth)",
-   "nav": 181.7794,
-   "pct": 1.12,
-   "pct_1m": 14.21,
-   "date": "20-11-2026",
+   "nav": 178.5983,
+   "pct": -1.75,
+   "pct_1m": 14.09,
+   "date": "23-11-2026",
    "spark": [
-    159.1593,
     156.5445,
     158.5759,
     157.4672,
@@ -894,18 +900,18 @@
     178.8713,
     177.7464,
     179.7634,
-    181.7794
+    181.7794,
+    178.5983
    ]
   },
   {
    "code": 122639,
    "name": "Parag Parikh Flexi Cap (Direct, Growth)",
-   "nav": 95.4585,
-   "pct": 0.81,
-   "pct_1m": 7.45,
-   "date": "20-11-2026",
+   "nav": 94.9255,
+   "pct": -0.56,
+   "pct_1m": 8.29,
+   "date": "23-11-2026",
    "spark": [
-    88.8389,
     87.6555,
     88.9258,
     88.5547,
@@ -935,7 +941,8 @@
     94.289,
     94.1452,
     94.6945,
-    95.4585
+    95.4585,
+    94.9255
    ]
   }
  ],
@@ -944,121 +951,444 @@
    "label": "India",
    "articles": [
     {
-     "id": "740a7ff4c66d",
-     "title": "Will bank manager accept Kayalvizhi Alagiri’s apology, asks Madras High Court",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/will-bank-manager-accept-kayalvizhi-alagiris-apology-asks-madras-high-court/article71735095.ece",
+     "id": "6537224d42fe",
+     "title": "Thirupparankundram 'deepathoon' row LIVE: Tamil Nadu BJP chief arrested, tight security in hillock on Karthigai Deepam day",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/karthigai-deepam-deepathoon-lighting-2026-live-updates-november-24-tamil-nadu/article71737406.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-23T20:59:04+00:00",
-     "summary": "Justice V. Lakshminarayanan grants a day’s time for the police to find out if the victim, subjected to physical assault, would agree for closure of criminal prosecution against the accused",
-     "explain": null,
+     "published": "2026-11-24T11:23:28+00:00",
+     "summary": "Tamil Nadu BJP state president K. Annamalai was arrested amid heightened security at Thirupparankundram during the Karthigai Deepam festival. The tension stems from a legal dispute over whether lamp-lighting rituals are permitted on the hillock.",
+     "explain": "Karthigai Deepam is a festival of lights celebrated in Tamil Nadu. The 'deepathoon' refers to a lamp post or pillar where devotees light lamps. Disputes often arise here because the hill is protected or requires strict crowd management, leading the administration to restrict access, which religious groups argue interferes with their traditional rights.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "india-thirupparankundram-religious-ritual-disp",
+      "title": "Thirupparankundram Religious Ritual Dispute",
+      "so_far": "Thirupparankundram is a historic temple town in Tamil Nadu that frequently sees friction between religious traditionalists and local administrative authorities. Recent legal challenges involve court orders attempting to balance public order and security with specific traditional lamp-lighting customs during the Karthigai Deepam festival.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "The arrest of a political leader marks a significant escalation in a localized religious and administrative dispute regarding festival protocols.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/karthigai-deepam-deepathoon-lighting-2026-live-updates-november-24-tamil-nadu/article71737406.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
     },
     {
-     "id": "6810d8127f00",
-     "title": "Rajasthan women’s varsity signs MoU with BRICS nations for global leadership centre",
-     "link": "https://www.thehindu.com/news/national/rajasthan/rajasthan-womens-varsity-signs-mou-with-brics-nations-for-global-leadership-centre/article71736242.ece",
+     "id": "7785d724d940",
+     "title": "CJP won't stand with any political party in upcoming UP elections, says Abhijeet Dipke",
+     "link": "https://www.thehindu.com/news/national/uttar-pradesh/cjp-wont-stand-with-any-political-party-in-upcoming-up-elections-says-abhijeet-dipke/article71738185.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-23T20:45:25+00:00",
-     "summary": "The MoU was signed on the conclusion of a five-day BRICS women leaders’ summit, organised on the university campus, which focused on promoting women’s leadership, cultural exchanges, and mutual cooperation and innovative",
-     "explain": null,
+     "published": "2026-11-24T11:20:36+00:00",
+     "summary": "Abhijeet Dipke of the Citizens for Justice and Peace (CJP) stated that the organization will remain neutral in the upcoming Uttar Pradesh elections. He emphasized a desire for future electoral focus on youth issues rather than identity-based politics.",
+     "explain": "CJP (Citizens for Justice and Peace) is a civil rights group in India. Their declaration of neutrality is significant because elections in UP are often influenced by 'vote banks,' where political parties focus on the specific grievances or aspirations of specific castes or religious communities.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "india-up-election-discourse",
+      "title": "UP Election Discourse",
+      "so_far": "Elections in Uttar Pradesh, India’s most populous state, are frequently characterized by deeply polarized debates centered on caste, religion, and regional identity. Organizations like the CJP often monitor these processes to advocate for human rights and constitutional values.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "A non-governmental organization has publicly declared its non-partisan stance ahead of the state's upcoming electoral cycle.",
+        "link": "https://www.thehindu.com/news/national/uttar-pradesh/cjp-wont-stand-with-any-political-party-in-upcoming-up-elections-says-abhijeet-dipke/article71738185.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
     },
     {
-     "id": "b945048c5cca",
-     "title": "Proposal for extending scholarship to Sri Lankan students to pursue medical education in Tamil Nadu",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/proposal-for-extending-scholarship-to-sri-lankan-students-to-pursue-medical-education-in-tamil-nadu/article71735477.ece",
+     "id": "eb40dfe33265",
+     "title": "Sprouted dal, not maggots: BIAL clarifies allegations regarding meal served at Bengaluru airport’s 080 International Lounge",
+     "link": "https://www.thehindu.com/news/cities/bangalore/sprouted-dal-not-maggots-bial-clarifies-allegations-regarding-meal-served-at-bengaluru-airports-080-international-lounge/article71737818.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-23T20:34:05+00:00",
-     "summary": "",
-     "explain": null,
+     "published": "2026-11-24T11:20:29+00:00",
+     "summary": "Bangalore International Airport Limited (BIAL) refuted claims that maggots were found in food served at a lounge, identifying the object as sprouted lentils.",
+     "explain": "BIAL manages Kempegowda International Airport in Bengaluru. Sprouted dal is a common, healthy Indian food ingredient where lentils are soaked until they grow small tails; it is common for the uninitiated to mistake these sprouts for larvae or insects.",
      "related": [],
-     "story": null
-    },
-    {
-     "id": "49172f4a4ae1",
-     "title": "No Winter Session of Parliament? Skipped only four times in history",
-     "link": "https://www.thehindu.com/news/national/no-winter-session-of-parliament-skipped-only-four-times-in-history/article71735258.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-23T20:32:44+00:00",
-     "summary": "Each previous instance coincided with extraordinary disruptions, from the Emergency and Lok Sabha dissolutions to Indira Gandhi’s assassination and the COVID-19 pandemic",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "74f9bf9667da",
-     "title": "Inquiry into his old foreign visits based on false allegations, says Naveen Patnaik",
-     "link": "https://www.thehindu.com/news/national/odisha/inquiry-into-his-old-foreign-visits-based-on-false-allegations-says-naveen-patnaik/article71736237.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-23T20:28:51+00:00",
-     "summary": "Naveen Patnaik says there is possibility of BJP government in Odisha could delay rural and urban body polls next year in view of their debacle in Rajasthan",
-     "explain": null,
-     "related": [
-      {
-       "date": "2026-11-21",
-       "title": "Odisha government orders inquiry into foreign visits by former CM Naveen Patnaik, aide Pandian",
-       "link": "https://www.thehindu.com/news/national/odisha/odisha-government-orders-inquiry-into-foreign-visits-by-former-cm-naveen-patnaik-aide-pandian/article71729218.ece",
-       "source": "India Latest News: Top National Headline"
-      }
-     ],
-     "story": null
+     "story": {
+      "id": "india-bengaluru-airport-food-safety-inquiry",
+      "title": "Bengaluru Airport Food Safety Inquiry",
+      "so_far": "Food safety in high-traffic transit hubs is highly scrutinized by passengers and social media users. Allegations regarding unhygienic conditions are frequently investigated by airport management to protect brand reputation and ensure public health compliance.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "An internal inspection has concluded that viral allegations of food contamination at the airport lounge were based on a misunderstanding of a dish's ingredients.",
+        "link": "https://www.thehindu.com/news/cities/bangalore/sprouted-dal-not-maggots-bial-clarifies-allegations-regarding-meal-served-at-bengaluru-airports-080-international-lounge/article71737818.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
     },
     {
      "id": "9a0368a4e795",
      "title": "CJP’s Saurav Das claims he was stopped at Delhi airport from travelling to U.K.",
      "link": "https://www.thehindu.com/news/national/cjps-saurav-das-claims-he-was-stopped-at-delhi-airport-from-travelling-to-uk/article71736209.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-23T19:49:46+00:00",
-     "summary": "In posts on X, Mr. Das said he was stopped at the immigration counter at the Delhi airport before boarding his 1 a.m. flight to London",
-     "explain": null,
+     "published": "2026-11-24T11:19:37+00:00",
+     "summary": "Saurav Das of CJP reported being prevented from boarding a flight to London at Delhi airport.",
+     "explain": "The term 'offloaded' refers to being denied permission to board a flight after check-in. In India, this is often linked to 'Look Out Circulars' (LOCs)—notices issued by law enforcement agencies to immigration authorities to detain or prevent individuals from leaving the country if they are under investigation.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "india-travel-restrictions-on-civil-society-act",
+      "title": "Travel Restrictions on Civil Society Activists",
+      "so_far": "In recent years, several Indian activists, journalists, and members of civil society organizations have reported facing hurdles at airports, including being offloaded from international flights without detailed explanations. The government maintains that such actions are consistent with national security and legal protocols.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "A prominent activist claimed he was stopped at the immigration counter, raising concerns about potential travel bans on civil society members.",
+        "link": "https://www.thehindu.com/news/national/cjps-saurav-das-claims-he-was-stopped-at-delhi-airport-from-travelling-to-uk/article71736209.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
     },
     {
-     "id": "e517ed1b85a9",
-     "title": "The Bilkis Bano order — justice deferred again",
-     "link": "https://www.thehindu.com/opinion/lead/the-bilkis-bano-order-justice-deferred-again/article71735769.ece",
+     "id": "ec4fe12f6cd3",
+     "title": "APSCHE to hold 10 regional workshops on All-India Survey on Higher Education data",
+     "link": "https://www.thehindu.com/news/national/andhra-pradesh/apsche-to-hold-10-regional-workshops-on-all-india-survey-on-higher-education-data/article71737701.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-23T19:45:52+00:00",
-     "summary": "The right to liberty cannot undermine a survivor’s dignity, voice and difficult quest for justice",
-     "explain": null,
+     "published": "2026-11-24T11:18:21+00:00",
+     "summary": "The Andhra Pradesh State Council of Higher Education (APSCHE) is organizing workshops to improve the quality of data submitted for national higher education rankings.",
+     "explain": "NIRF and NAAC are the standard bodies that measure how good an Indian college is. They look at factors like research quality, graduation rates, and teacher-student ratios. Colleges often struggle to collect and submit this massive amount of data correctly.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "india-higher-education-accreditation-standards",
+      "title": "Higher Education Accreditation Standards",
+      "so_far": "Indian universities participate in the NIRF (National Institutional Ranking Framework) and NAAC (National Assessment and Accreditation Council) assessments to determine their national standing and funding. Accurate data reporting is essential for these rankings.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "APSCHE is launching 10 regional workshops to standardize how institutions report data for national rankings.",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/apsche-to-hold-10-regional-workshops-on-all-india-survey-on-higher-education-data/article71737701.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
     },
     {
-     "id": "d7278ce4bc19",
-     "title": "Power outage during Minister’s programme in Kannur: KSEB staff rally behind suspended sub-engineer",
-     "link": "https://www.thehindu.com/news/national/kerala/power-outage-during-ministers-programme-in-kannur-kseb-staff-rally-behind-suspended-sub-engineer/article71733750.ece",
+     "id": "a260c8dbc7b4",
+     "title": "Bengaluru Metro facilitates transportation of donor heart from Goraguntepalya to Bommasandra",
+     "link": "https://www.thehindu.com/news/national/karnataka/bengaluru-metro-facilitates-transportation-of-donor-heart-from-goraguntepalya-to-bommasandra/article71737996.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-23T19:45:31+00:00",
-     "summary": "",
-     "explain": null,
+     "published": "2026-11-24T11:17:33+00:00",
+     "summary": "Bengaluru's metro system facilitated the rapid transport of a human heart for transplantation.",
+     "explain": "A green corridor is a specialized traffic management technique where all signals are turned green to allow ambulances to move without stopping. Because Bengaluru traffic can be gridlocked, using the metro rail to bypass the roads is a critical medical innovation.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "india-medical-transport-via-public-infrastruct",
+      "title": "Medical Transport via Public Infrastructure",
+      "so_far": "Organ transplantation requires strict 'green corridors'—routes cleared of traffic by police—to ensure a donor organ reaches the recipient within a life-saving window. Bengaluru's metro is increasingly used to bypass heavy urban traffic.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "The Namma Metro has now successfully assisted in the transport of human organs five times, showcasing the utility of public transport in medical emergencies.",
+        "link": "https://www.thehindu.com/news/national/karnataka/bengaluru-metro-facilitates-transportation-of-donor-heart-from-goraguntepalya-to-bommasandra/article71737996.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
     },
     {
-     "id": "1406d06b6c55",
-     "title": "Violence erupts in Pithapuram amid JSP councillors’ sparring over vice-chairman pick",
-     "link": "https://www.thehindu.com/news/national/andhra-pradesh/tension-in-pithapuram-as-jsp-councillors-differ-over-vice-chairman-pick/article71734975.ece",
+     "id": "6f987b3e698a",
+     "title": "Collector files police complaint against Kallakurichi TVK MLA in Tamil Nadu",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/collector-files-complaint-against-kallakurichi-tvk-mla/article71736185.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-23T19:40:50+00:00",
-     "summary": "Jana Sena Party Councillors, supporters opposed the party’s decision to elect Bojja Venkateswara Rao as Pithapuram Municipal Vice-Chairman on the grounds of being a newcomer to the party.",
-     "explain": null,
+     "published": "2026-11-24T11:12:09+00:00",
+     "summary": "A District Collector has filed a police complaint against a Kallakurichi MLA for alleged inappropriate behavior and unsolicited messaging.",
+     "explain": "A District Collector is the highest-ranking civil service official in a district, responsible for administration. An MLA (Member of Legislative Assembly) is an elected politician. When a bureaucrat complains against a politician, it highlights significant tension between the executive and legislative branches of government.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "india-political-realignments-and-legal-battles",
+      "title": "Political Realignments and Legal Battles",
+      "so_far": "Legislative Council elections involve complex power dynamics where alliances are often tested. Internal dissent and accusations of failing to support party-aligned candidates reflect broader instability within party hierarchies.",
+      "timeline": [
+       {
+        "date": "2026-11-04",
+        "text": "National Conference leadership has formally accused the BJP of engineering party defections to weaken their political standing.",
+        "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/mp-ruhullahs-exit-from-nc-a-success-of-bjp-attempt-to-disempower-people-like-in-1953-nc-leaders/article71666469.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-05",
+        "text": "Internal friction within the NDA alliance has surfaced following a defeat in a local Legislative Council election.",
+        "link": "https://www.thehindu.com/news/national/bihar/bjp-not-giving-much-importance-to-rajput-says-rajiv-pratap-rudy/article71666350.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-05",
+        "text": "The Supreme Court redirected a legal challenge regarding rebel Trinamool Congress MLAs to the Calcutta High Court for resolution.",
+        "link": "https://www.thehindu.com/news/national/west-bengal/supreme-court-asks-calcutta-high-court-to-decide-plea-for-direction-on-disqualification-of-rebel-trinamool-mlas/article71669372.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-05",
+        "text": "The Supreme Court formally declined to hear the disqualification plea, referring the issue to the Calcutta High Court.",
+        "link": "https://www.ndtv.com/india-news/sc-asks-calcutta-hc-to-decide-plea-for-direction-on-disqualification-of-rebel-tmc-mlas-12286753#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-11-05",
+        "text": "A senior BJP leader has publicly rejected allegations of political conspiracy against the TVK government, shifting the blame onto the ruling party for unethical recruitment.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/nainar-nagenthran-rejects-tn-ministers-charge-of-aiadmk-bjp-conspiracy-to-bring-down-tvk-government/article71669007.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-10",
+        "text": "A rare internal 'implosion' has occurred in the National Conference, with the old guard attempting to reassert influence over Omar Abdullah's administration.",
+        "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/return-of-patriarch-farooq-steps-in-as-nc-old-guard-reasserts-influence-to-check-omar/article71683985.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-10",
+        "text": "Tensions within the United Democratic Front (UDF) have surfaced as senior leaders debate the frequency of ruling front meetings.",
+        "link": "https://www.thehindu.com/news/national/kerala/in-veiled-dig-at-satheesan-udf-convener-adoor-prakash-questions-delay-in-convening-meeting-of-ruling-front/article71685846.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-16",
+        "text": "The Punjab BJP has officially established committees to outline its future policy goals and grievances against the opposition.",
+        "link": "https://www.thehindu.com/news/national/punjab/punjab-bjp-forms-manifesto-chargesheet-committees/article71706608.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-22",
+        "text": "Congress party members are actively countering controversial remarks made by a party leader, underscoring internal dissent.",
+        "link": "https://www.ndtv.com/india-news/congress-leader-mumtaz-patel-counters-party-mp-on-mohammed-siraj-row-slams-hate-politics-12361146#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "A formal police complaint has been registered by a high-ranking bureaucrat against a sitting legislator, intensifying political friction.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/collector-files-complaint-against-kallakurichi-tvk-mla/article71736185.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "A public spat between senior party leaders suggests deepening internal fractures within the Congress party in Kerala.",
+        "link": "https://www.thehindu.com/news/national/kerala/rift-within-congress-rajmohan-unnithan-challenges-shafi-parambil-to-public-debate-warns-teacher-and-disciple-will-be-exposed/article71738065.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "The state government informed the High Court that there is a discrepancy regarding whether a formal complaint was ever submitted in the case involving a legislator and a bureaucrat.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-chief-secretary-did-not-receive-complaint-from-woman-ias-officer-over-kallakurichi-tvk-mlas-alleged-misbehaviour-madras-hc-told/article71733781.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
     },
     {
-     "id": "26d5b21565b2",
-     "title": "Krushi OWS holds road safety awareness competitions for school students",
-     "link": "https://www.thehindu.com/news/national/andhra-pradesh/krushi-ows-holds-road-safety-awareness-competitions-for-school-students/article71734936.ece",
+     "id": "41a25feb04a7",
+     "title": "Karnataka moves Supreme Court to restrain Tamil Nadu in Cauvery–South Vellar–Vaigai–Gundar Link Project",
+     "link": "https://www.thehindu.com/news/national/karnataka-moves-supreme-court-to-restrain-tamil-nadu-in-cauverysouth-vellarvaigaigundar-link-project/article71738245.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-23T19:40:06+00:00",
-     "summary": "",
-     "explain": null,
+     "published": "2026-11-24T11:10:13+00:00",
+     "summary": "Karnataka has approached the Supreme Court to halt a water project being developed by Tamil Nadu, citing a lack of central government approval.",
+     "explain": "The Cauvery River basin is a major source of water for both Karnataka and Tamil Nadu. Disputes arise because both states claim historical rights to a set amount of water. Legal intervention is sought to decide if new projects unfairly reduce the share of water flowing to the other state.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "india-odisha-andhra-pradesh-border-dispute",
+      "title": "Odisha-Andhra Pradesh Border Dispute",
+      "so_far": "India’s southern states frequently engage in litigation over the sharing of river waters, such as the Cauvery. These disputes are often historic and involve competing needs for irrigation, drinking water, and industrial projects.",
+      "timeline": [
+       {
+        "date": "2026-10-19",
+        "text": "Naveen Patnaik has criticized the Odisha government for remaining silent on Andhra Pradesh's recent poll notification for villages in the contested Kotia region.",
+        "link": "https://www.ndtv.com/india-news/naveen-patnaik-slams-silence-on-andhra-poll-notice-in-3-disputed-villages-12208236#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-10-19",
+        "text": "Patnaik highlighted that the decades-old dispute involves competing claims by both states over 21 villages in Kotia.",
+        "link": "https://www.thehindu.com/news/national/odisha/naveen-patnaik-questions-odisha-governments-silence-on-andhras-poll-notification-for-disputed-kotia-villages/article71603050.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "The ongoing legal rivalry between Karnataka and Tamil Nadu has expanded to a new water-sharing project, with Karnataka seeking a judicial stay.",
+        "link": "https://www.thehindu.com/news/national/karnataka-moves-supreme-court-to-restrain-tamil-nadu-in-cauverysouth-vellarvaigaigundar-link-project/article71738245.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "537c7a57415e",
+     "title": "Rift within Congress: Rajmohan Unnithan challenges Shafi Parambil to public debate, warns ‘teacher and disciple will be exposed’",
+     "link": "https://www.thehindu.com/news/national/kerala/rift-within-congress-rajmohan-unnithan-challenges-shafi-parambil-to-public-debate-warns-teacher-and-disciple-will-be-exposed/article71738065.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-24T11:09:10+00:00",
+     "summary": "Internal tensions within the Congress party in Kerala have escalated, with senior leader Rajmohan Unnithan challenging a colleague to a public debate over corruption allegations.",
+     "explain": "Internal party rifts in India often play out in the media rather than in private meetings. When leaders challenge each other to 'debates' or offer to resign, it is a sign of severe organizational instability where personal reputations are being leveraged to settle political scores.",
+     "related": [],
+     "story": {
+      "id": "india-political-realignments-and-legal-battles",
+      "title": "Political Realignments and Legal Battles",
+      "so_far": "Legislative Council elections involve complex power dynamics where alliances are often tested. Internal dissent and accusations of failing to support party-aligned candidates reflect broader instability within party hierarchies.",
+      "timeline": [
+       {
+        "date": "2026-11-04",
+        "text": "National Conference leadership has formally accused the BJP of engineering party defections to weaken their political standing.",
+        "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/mp-ruhullahs-exit-from-nc-a-success-of-bjp-attempt-to-disempower-people-like-in-1953-nc-leaders/article71666469.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-05",
+        "text": "Internal friction within the NDA alliance has surfaced following a defeat in a local Legislative Council election.",
+        "link": "https://www.thehindu.com/news/national/bihar/bjp-not-giving-much-importance-to-rajput-says-rajiv-pratap-rudy/article71666350.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-05",
+        "text": "The Supreme Court redirected a legal challenge regarding rebel Trinamool Congress MLAs to the Calcutta High Court for resolution.",
+        "link": "https://www.thehindu.com/news/national/west-bengal/supreme-court-asks-calcutta-high-court-to-decide-plea-for-direction-on-disqualification-of-rebel-trinamool-mlas/article71669372.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-05",
+        "text": "The Supreme Court formally declined to hear the disqualification plea, referring the issue to the Calcutta High Court.",
+        "link": "https://www.ndtv.com/india-news/sc-asks-calcutta-hc-to-decide-plea-for-direction-on-disqualification-of-rebel-tmc-mlas-12286753#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-11-05",
+        "text": "A senior BJP leader has publicly rejected allegations of political conspiracy against the TVK government, shifting the blame onto the ruling party for unethical recruitment.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/nainar-nagenthran-rejects-tn-ministers-charge-of-aiadmk-bjp-conspiracy-to-bring-down-tvk-government/article71669007.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-10",
+        "text": "A rare internal 'implosion' has occurred in the National Conference, with the old guard attempting to reassert influence over Omar Abdullah's administration.",
+        "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/return-of-patriarch-farooq-steps-in-as-nc-old-guard-reasserts-influence-to-check-omar/article71683985.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-10",
+        "text": "Tensions within the United Democratic Front (UDF) have surfaced as senior leaders debate the frequency of ruling front meetings.",
+        "link": "https://www.thehindu.com/news/national/kerala/in-veiled-dig-at-satheesan-udf-convener-adoor-prakash-questions-delay-in-convening-meeting-of-ruling-front/article71685846.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-16",
+        "text": "The Punjab BJP has officially established committees to outline its future policy goals and grievances against the opposition.",
+        "link": "https://www.thehindu.com/news/national/punjab/punjab-bjp-forms-manifesto-chargesheet-committees/article71706608.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-22",
+        "text": "Congress party members are actively countering controversial remarks made by a party leader, underscoring internal dissent.",
+        "link": "https://www.ndtv.com/india-news/congress-leader-mumtaz-patel-counters-party-mp-on-mohammed-siraj-row-slams-hate-politics-12361146#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "A formal police complaint has been registered by a high-ranking bureaucrat against a sitting legislator, intensifying political friction.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/collector-files-complaint-against-kallakurichi-tvk-mla/article71736185.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "A public spat between senior party leaders suggests deepening internal fractures within the Congress party in Kerala.",
+        "link": "https://www.thehindu.com/news/national/kerala/rift-within-congress-rajmohan-unnithan-challenges-shafi-parambil-to-public-debate-warns-teacher-and-disciple-will-be-exposed/article71738065.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "The state government informed the High Court that there is a discrepancy regarding whether a formal complaint was ever submitted in the case involving a legislator and a bureaucrat.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-chief-secretary-did-not-receive-complaint-from-woman-ias-officer-over-kallakurichi-tvk-mlas-alleged-misbehaviour-madras-hc-told/article71733781.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "2249451bb574",
+     "title": "T.N. Chief Secretary did not receive complaint from woman IAS officer over Kallakurichi TVK MLA’s alleged misbehaviour, Madras HC told",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-chief-secretary-did-not-receive-complaint-from-woman-ias-officer-over-kallakurichi-tvk-mlas-alleged-misbehaviour-madras-hc-told/article71733781.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-24T11:07:43+00:00",
+     "summary": "The Tamil Nadu Chief Secretary reported to the Madras High Court that no formal complaint had been received from a woman IAS officer regarding the Kallakurichi MLA.",
+     "explain": "This development is part of the ongoing investigation into the conduct of public officials. The High Court is involved to ensure that the investigation is conducted without political influence and that due process is followed when a government official accuses a politician of harassment.",
+     "related": [],
+     "story": {
+      "id": "india-political-realignments-and-legal-battles",
+      "title": "Political Realignments and Legal Battles",
+      "so_far": "Legislative Council elections involve complex power dynamics where alliances are often tested. Internal dissent and accusations of failing to support party-aligned candidates reflect broader instability within party hierarchies.",
+      "timeline": [
+       {
+        "date": "2026-11-04",
+        "text": "National Conference leadership has formally accused the BJP of engineering party defections to weaken their political standing.",
+        "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/mp-ruhullahs-exit-from-nc-a-success-of-bjp-attempt-to-disempower-people-like-in-1953-nc-leaders/article71666469.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-05",
+        "text": "Internal friction within the NDA alliance has surfaced following a defeat in a local Legislative Council election.",
+        "link": "https://www.thehindu.com/news/national/bihar/bjp-not-giving-much-importance-to-rajput-says-rajiv-pratap-rudy/article71666350.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-05",
+        "text": "The Supreme Court redirected a legal challenge regarding rebel Trinamool Congress MLAs to the Calcutta High Court for resolution.",
+        "link": "https://www.thehindu.com/news/national/west-bengal/supreme-court-asks-calcutta-high-court-to-decide-plea-for-direction-on-disqualification-of-rebel-trinamool-mlas/article71669372.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-05",
+        "text": "The Supreme Court formally declined to hear the disqualification plea, referring the issue to the Calcutta High Court.",
+        "link": "https://www.ndtv.com/india-news/sc-asks-calcutta-hc-to-decide-plea-for-direction-on-disqualification-of-rebel-tmc-mlas-12286753#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-11-05",
+        "text": "A senior BJP leader has publicly rejected allegations of political conspiracy against the TVK government, shifting the blame onto the ruling party for unethical recruitment.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/nainar-nagenthran-rejects-tn-ministers-charge-of-aiadmk-bjp-conspiracy-to-bring-down-tvk-government/article71669007.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-10",
+        "text": "A rare internal 'implosion' has occurred in the National Conference, with the old guard attempting to reassert influence over Omar Abdullah's administration.",
+        "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/return-of-patriarch-farooq-steps-in-as-nc-old-guard-reasserts-influence-to-check-omar/article71683985.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-10",
+        "text": "Tensions within the United Democratic Front (UDF) have surfaced as senior leaders debate the frequency of ruling front meetings.",
+        "link": "https://www.thehindu.com/news/national/kerala/in-veiled-dig-at-satheesan-udf-convener-adoor-prakash-questions-delay-in-convening-meeting-of-ruling-front/article71685846.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-16",
+        "text": "The Punjab BJP has officially established committees to outline its future policy goals and grievances against the opposition.",
+        "link": "https://www.thehindu.com/news/national/punjab/punjab-bjp-forms-manifesto-chargesheet-committees/article71706608.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-22",
+        "text": "Congress party members are actively countering controversial remarks made by a party leader, underscoring internal dissent.",
+        "link": "https://www.ndtv.com/india-news/congress-leader-mumtaz-patel-counters-party-mp-on-mohammed-siraj-row-slams-hate-politics-12361146#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "A formal police complaint has been registered by a high-ranking bureaucrat against a sitting legislator, intensifying political friction.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/collector-files-complaint-against-kallakurichi-tvk-mla/article71736185.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "A public spat between senior party leaders suggests deepening internal fractures within the Congress party in Kerala.",
+        "link": "https://www.thehindu.com/news/national/kerala/rift-within-congress-rajmohan-unnithan-challenges-shafi-parambil-to-public-debate-warns-teacher-and-disciple-will-be-exposed/article71738065.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "The state government informed the High Court that there is a discrepancy regarding whether a formal complaint was ever submitted in the case involving a legislator and a bureaucrat.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-chief-secretary-did-not-receive-complaint-from-woman-ias-officer-over-kallakurichi-tvk-mlas-alleged-misbehaviour-madras-hc-told/article71733781.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
     }
    ]
   },
@@ -1066,184 +1396,527 @@
    "label": "World",
    "articles": [
     {
-     "id": "af28b459709a",
-     "title": "Why did COP31 climate talks collapse without a deal?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/why-did-cop31-climate-talks-collapse-without-a-deal?traffic_source=rss",
+     "id": "d468e65f3b63",
+     "title": "Sheikh Hasina plans to return to Bangladesh from exile on December 16, spokesperson says",
+     "link": "https://www.thehindu.com/news/international/former-bangladesh-pm-sheikh-hasina-return-to-bangladesh/article71737182.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-11-24T09:43:38+00:00",
+     "summary": "Former Bangladeshi Prime Minister Sheikh Hasina plans to return from exile in India on December 16, 2026.",
+     "explain": "Sheikh Hasina was the long-serving leader of Bangladesh until 2024, when widespread protests against her government escalated, leading to her resignation and departure. Her return is politically significant as it may challenge the stability of the interim government that took over after her exit. 'Exile' refers to living away from one's home country, often due to political pressure or fear of persecution.",
+     "related": [],
+     "story": {
+      "id": "world-sheikh-hasina-s-planned-return",
+      "title": "Sheikh Hasina's Planned Return",
+      "so_far": "Sheikh Hasina ruled Bangladesh for 15 years before being ousted in a student-led mass uprising on August 5, 2024. She fled the country shortly after and has since been residing in India while her administration's policies face scrutiny from the interim leadership.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "A spokesperson confirmed that Hasina intends to return to Bangladesh on December 16, 2026.",
+        "link": "https://www.thehindu.com/news/international/former-bangladesh-pm-sheikh-hasina-return-to-bangladesh/article71737182.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "b564169a016e",
+     "title": "Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back",
+     "link": "https://www.aljazeera.com/features/2026/11/24/was-jensen-huang-too-big-to-fire-why-nvidia-trump-brought-him-back?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-23T16:38:30+00:00",
-     "summary": "The longest UN climate summit in history collapsed without a final deal in Turkiye, the first such failure in 17 years.",
-     "explain": null,
+     "published": "2026-11-24T10:48:38+00:00",
+     "summary": "Jensen Huang has been reinstated as CEO of Nvidia less than two weeks after his removal, a move reportedly brokered by U.S. President Donald Trump.",
+     "explain": "Jensen Huang is the face of Nvidia, a company that designs the powerful chips necessary to run modern artificial intelligence. His quick return after being fired highlights how central he is to the AI market, which relies heavily on his leadership and vision. When a CEO is reinstated, it means they are returned to their job after being dismissed or stepping down.",
+     "related": [
+      {
+       "date": "2026-11-10",
+       "title": "Trump says FBI looking into Nvidia CEO Jensen Huang's affair with 'Chinese agent'",
+       "link": "https://www.thehindu.com/news/international/trump-says-fbi-looking-into-nvidia-ceo-jensen-huangs-affair-with-chinese-agent/article71684773.ece",
+       "source": "World News: Latest International News & "
+      },
+      {
+       "date": "2026-11-17",
+       "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+       "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+       "source": "BBC News"
+      },
+      {
+       "date": "2026-11-23",
+       "title": "Jensen Huang returns as NVIDIA CEO after intelligence scandal",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-returns-as-nvidia-ceo-after-intelligence-scandal?traffic_source=rss",
+       "source": "Al Jazeera – Breaking News, World News a"
+      },
+      {
+       "date": "2026-11-23",
+       "title": "Nvidia reinstates Jensen Huang as CEO after U.S. government input",
+       "link": "https://www.thehindu.com/sci-tech/technology/nvidia-reinstates-jensen-huang-as-ceo-after-us-government-input/article71735341.ece",
+       "source": "World News: Latest International News & "
+      }
+     ],
+     "story": {
+      "id": "world-jensen-huang-s-return-to-nvidia",
+      "title": "Jensen Huang's Return to Nvidia",
+      "so_far": "Jensen Huang served as the longtime CEO of Nvidia, a leader in artificial intelligence and semiconductor manufacturing. Following a period of leadership instability and corporate internal changes, he was briefly removed from his position, causing significant fluctuations in stock market confidence and AI industry sentiment.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "Following an intervention by President Trump, Huang has officially returned to his role as CEO of the tech giant.",
+        "link": "https://www.aljazeera.com/features/2026/11/24/was-jensen-huang-too-big-to-fire-why-nvidia-trump-brought-him-back?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "President Trump is credited with personally brokering the deal to return Huang to his position at Nvidia.",
+        "link": "https://www.thehindu.com/sci-tech/technology/why-us-president-donald-trump-believed-he-needed-to-get-jensen-huang-back-at-nvidia/article71737068.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-24",
+        "text": "Market confidence in Nvidia has recovered quickly as investors react positively to Huang's reinstatement.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "The return of the CEO was met with public support from the company's workforce.",
+        "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "f10f29df477b",
+     "title": "Russian strike kills two in Ukraine, days after ship attack off Libya",
+     "link": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-24T09:51:26+00:00",
+     "summary": "Russian strikes in Zaporizhzhia killed two people, following a recent Ukrainian attack on a Russian ship in Libya.",
+     "explain": "The ongoing war between Russia and Ukraine is increasingly involving third-party nations as both sides seek tactical advantages globally. By striking a Russian ship in a Libyan port, Ukraine has signaled that it is capable of targeting Russian assets far from the front lines, to which Russia often responds with strikes on Ukrainian civilian or infrastructure targets.",
      "related": [
       {
        "date": "2026-11-21",
-       "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-       "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-       "source": "BBC News"
-      },
-      {
-       "date": "2026-11-22",
-       "title": "COP31 climate talks close to final deal, summit president says",
-       "link": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
+       "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+       "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
        "source": "Al Jazeera – Breaking News, World News a"
       },
       {
        "date": "2026-11-22",
-       "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
-       "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+       "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
        "source": "BBC News"
       }
      ],
-     "story": null
+     "story": {
+      "id": "world-diplomatic-talks-on-ukraine",
+      "title": "Diplomatic Talks on Ukraine",
+      "so_far": "The conflict between Russia and Ukraine has persisted since 2022, causing immense devastation and triggering massive global diplomatic and military efforts from Western allies. Attempts to negotiate peace are frequent but fragile, often undermined by continued military hostilities.",
+      "timeline": [
+       {
+        "date": "2026-11-13",
+        "text": "A violent drone attack occurred in Russia, complicating ongoing international diplomatic efforts to seek a ceasefire.",
+        "link": "https://www.thehindu.com/news/international/russia-says-four-killed-in-major-ukraine-drone-barrage/article71697111.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-14",
+        "text": "Zelensky revealed that US representatives proposed a controversial land-for-NATO membership swap to end the war.",
+        "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-11-19",
+        "text": "The Crimean Bridge has been targeted again, causing a suspension of traffic across the vital Russian supply and transit route.",
+        "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-11-20",
+        "text": "The conflict escalated with a Russian missile strike on Kyiv's infrastructure following a Ukrainian operation against the Crimean Bridge.",
+        "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-11-21",
+        "text": "Tensions have sharpened as Ukraine’s president directly challenged President-elect Trump’s characterization of his relationship with Vladimir Putin.",
+        "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-11-21",
+        "text": "New reports indicate that U.S. envoys are proposing security discussions that worry Ukraine and NATO members.",
+        "link": "https://www.thehindu.com/news/international/russia-dusts-off-its-pre-war-demands-as-the-us-raises-discussing-european-security-at-ukraine-talks/article71727588.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-21",
+        "text": "The recent attack on Kryvyi Rih coincides with reports of Russian missiles landing in Poland, further complicating international peace efforts.",
+        "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-11-21",
+        "text": "The incident adds to the growing uncertainty surrounding peace negotiations brokered by the U.S.",
+        "link": "https://www.thehindu.com/news/international/ballistic-missile-attack-on-zelenskyys-hometown-kills-2/article71729235.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-22",
+        "text": "New footage records a Russian missile strike on a civilian area in Lviv, illustrating the continued volatility of the war.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-11-22",
+        "text": "A five-storey apartment building was destroyed in a Russian strike, resulting in at least two deaths and four injuries.",
+        "link": "https://www.thehindu.com/news/international/a-russian-attack-destroyed-an-apartment-building-in-dymer-near-kyiv-killing-two-as-kaliningrad-sounded-a-rare-air-alert/article71731042.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-23",
+        "text": "The sinking of a Russian warship in a Libyan port demonstrates the global reach of the current conflict.",
+        "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "Russia retaliated against Ukrainian territory following a maritime engagement in Libya, marking a geographic expansion of the conflict.",
+        "link": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
     },
     {
-     "id": "32d43c08bbab",
-     "title": "Nvidia reinstates Jensen Huang as CEO after U.S. government input",
-     "link": "https://www.thehindu.com/sci-tech/technology/nvidia-reinstates-jensen-huang-as-ceo-after-us-government-input/article71735341.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-11-23T18:15:03+00:00",
-     "summary": "U.S. President Donald Trump welcomed the move as a “correct and proper decision”",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "b829939d7d8e",
-     "title": "Jensen Huang returns as NVIDIA CEO after intelligence scandal",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-returns-as-nvidia-ceo-after-intelligence-scandal?traffic_source=rss",
+     "id": "b05c42833339",
+     "title": "US army says detonation of lead explosives in Iowa will proceed",
+     "link": "https://www.aljazeera.com/news/2026/11/24/us-army-says-detonation-of-lead-explosives-in-iowa-will-proceed?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-23T15:23:05+00:00",
-     "summary": "Jensen Huang is reinstated as NVIDIA’s CEO after reports he was targeted in an alleged foreign intelligence operation.",
-     "explain": null,
+     "published": "2026-11-24T08:24:08+00:00",
+     "summary": "The U.S. Army intends to proceed with the controlled detonation of lead explosives in Iowa despite public opposition.",
+     "explain": "Controlled detonation is a process used by the military to safely destroy hazardous or expired explosives by blowing them up in a managed environment. In this case, Iowans are worried because lead is a toxic heavy metal that can persist in the environment and cause health issues if inhaled or ingested via contaminated dust.",
+     "related": [],
+     "story": {
+      "id": "world-iowa-lead-explosives-detonation",
+      "title": "Iowa Lead Explosives Detonation",
+      "so_far": "The U.S. Army has planned to dispose of legacy or surplus lead-based explosives through controlled explosions in Iowa. Local residents and environmental groups have raised significant safety concerns regarding the potential for toxic dust clouds and soil contamination, leading to a protracted legal fight.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "The Army has confirmed its intent to move forward with the detonations after overcoming recent legal hurdles.",
+        "link": "https://www.aljazeera.com/news/2026/11/24/us-army-says-detonation-of-lead-explosives-in-iowa-will-proceed?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "Despite the Army's earlier intent to proceed, a presidential order has officially paused the operation.",
+        "link": "https://www.thehindu.com/news/international/trump-orders-us-army-to-pause-detonation-of-lead-explosives-in-iowa/article71737035.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "5c0877cad5db",
+     "title": "Why U.S. President Donald Trump believed he needed to get Jensen Huang back at Nvidia",
+     "link": "https://www.thehindu.com/sci-tech/technology/why-us-president-donald-trump-believed-he-needed-to-get-jensen-huang-back-at-nvidia/article71737068.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-11-24T07:37:14+00:00",
+     "summary": "President Donald Trump intervened to ensure Jensen Huang's reinstatement as CEO of Nvidia.",
+     "explain": "The president's direct involvement in the leadership of a private tech company is unusual, reflecting the high stakes of the 'AI arms race' and Nvidia's strategic importance to the U.S. economy and national security.",
      "related": [
       {
-       "date": "2026-11-09",
-       "title": "Nvidia investigating reports that CEO Jensen Huang was targeted by Chinese intelligence",
-       "link": "https://www.thehindu.com/sci-tech/technology/nvidia-investigating-reports-that-ceo-jensen-huang-was-targeted-by-chinese-intelligence/article71681239.ece",
+       "date": "2026-11-10",
+       "title": "Trump says FBI looking into Nvidia CEO Jensen Huang's affair with 'Chinese agent'",
+       "link": "https://www.thehindu.com/news/international/trump-says-fbi-looking-into-nvidia-ceo-jensen-huangs-affair-with-chinese-agent/article71684773.ece",
        "source": "World News: Latest International News & "
       },
       {
-       "date": "2026-11-12",
-       "title": "Who is Jensen Huang and how the timeline of spy scandal unfolded",
-       "link": "https://www.thehindu.com/news/international/who-is-nvidia-ceo-jensen-huang-what-we-know-about-alleged-chinese-spy-scandal/article71689414.ece",
-       "source": "World News: Latest International News & "
-      },
-      {
-       "date": "2026-11-12",
-       "title": "Megaspeed to cooperate with U.S. probe into Nvidia CEO Jensen Huang scandal",
-       "link": "https://www.thehindu.com/news/international/megaspeed-to-cooperate-with-us-probe-into-nvidia-ceo-jensen-huang-scandal/article71693276.ece",
-       "source": "World News: Latest International News & "
-      },
-      {
-       "date": "2026-11-12",
-       "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-       "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+       "date": "2026-11-17",
+       "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+       "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
        "source": "BBC News"
       }
      ],
-     "story": null
+     "story": {
+      "id": "world-jensen-huang-s-return-to-nvidia",
+      "title": "Jensen Huang's Return to Nvidia",
+      "so_far": "Jensen Huang served as the longtime CEO of Nvidia, a leader in artificial intelligence and semiconductor manufacturing. Following a period of leadership instability and corporate internal changes, he was briefly removed from his position, causing significant fluctuations in stock market confidence and AI industry sentiment.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "Following an intervention by President Trump, Huang has officially returned to his role as CEO of the tech giant.",
+        "link": "https://www.aljazeera.com/features/2026/11/24/was-jensen-huang-too-big-to-fire-why-nvidia-trump-brought-him-back?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "President Trump is credited with personally brokering the deal to return Huang to his position at Nvidia.",
+        "link": "https://www.thehindu.com/sci-tech/technology/why-us-president-donald-trump-believed-he-needed-to-get-jensen-huang-back-at-nvidia/article71737068.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-24",
+        "text": "Market confidence in Nvidia has recovered quickly as investors react positively to Huang's reinstatement.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "The return of the CEO was met with public support from the company's workforce.",
+        "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       }
+      ]
+     }
     },
     {
-     "id": "1cca2f1fa481",
-     "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-     "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+     "id": "d1c244474690",
+     "title": "Nvidia live: Markets surge as Jensen Huang returns as CEO",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-24T06:24:25+00:00",
+     "summary": "Nvidia shares surged following the news that Jensen Huang has returned as CEO.",
+     "explain": "Stock markets often react sharply to leadership changes, particularly for companies that define an entire sector. Investors see Huang as critical to Nvidia's competitive edge, so his return signaled stability to the market.",
+     "related": [
+      {
+       "date": "2026-11-23",
+       "title": "Jensen Huang returns as NVIDIA CEO after intelligence scandal",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-returns-as-nvidia-ceo-after-intelligence-scandal?traffic_source=rss",
+       "source": "Al Jazeera – Breaking News, World News a"
+      },
+      {
+       "date": "2026-11-23",
+       "title": "Nvidia reinstates Jensen Huang as CEO after U.S. government input",
+       "link": "https://www.thehindu.com/sci-tech/technology/nvidia-reinstates-jensen-huang-as-ceo-after-us-government-input/article71735341.ece",
+       "source": "World News: Latest International News & "
+      }
+     ],
+     "story": {
+      "id": "world-jensen-huang-s-return-to-nvidia",
+      "title": "Jensen Huang's Return to Nvidia",
+      "so_far": "Jensen Huang served as the longtime CEO of Nvidia, a leader in artificial intelligence and semiconductor manufacturing. Following a period of leadership instability and corporate internal changes, he was briefly removed from his position, causing significant fluctuations in stock market confidence and AI industry sentiment.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "Following an intervention by President Trump, Huang has officially returned to his role as CEO of the tech giant.",
+        "link": "https://www.aljazeera.com/features/2026/11/24/was-jensen-huang-too-big-to-fire-why-nvidia-trump-brought-him-back?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "President Trump is credited with personally brokering the deal to return Huang to his position at Nvidia.",
+        "link": "https://www.thehindu.com/sci-tech/technology/why-us-president-donald-trump-believed-he-needed-to-get-jensen-huang-back-at-nvidia/article71737068.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-24",
+        "text": "Market confidence in Nvidia has recovered quickly as investors react positively to Huang's reinstatement.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "The return of the CEO was met with public support from the company's workforce.",
+        "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "3ad83d806c7b",
+     "title": "Trump orders U.S. Army to pause detonation of lead explosives in Iowa",
+     "link": "https://www.thehindu.com/news/international/trump-orders-us-army-to-pause-detonation-of-lead-explosives-in-iowa/article71737035.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-11-24T01:37:20+00:00",
+     "summary": "President Trump has ordered a temporary pause on the detonation of lead explosives in Iowa following court action.",
+     "explain": "This move shows the balancing act between the federal government's military disposal needs and the pressure from local voters concerned about health risks. An appeals court stay is a temporary legal hold that stops an action from moving forward while judges review the case.",
+     "related": [],
+     "story": {
+      "id": "world-iowa-lead-explosives-detonation",
+      "title": "Iowa Lead Explosives Detonation",
+      "so_far": "The U.S. Army has planned to dispose of legacy or surplus lead-based explosives through controlled explosions in Iowa. Local residents and environmental groups have raised significant safety concerns regarding the potential for toxic dust clouds and soil contamination, leading to a protracted legal fight.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "The Army has confirmed its intent to move forward with the detonations after overcoming recent legal hurdles.",
+        "link": "https://www.aljazeera.com/news/2026/11/24/us-army-says-detonation-of-lead-explosives-in-iowa-will-proceed?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "Despite the Army's earlier intent to proceed, a presidential order has officially paused the operation.",
+        "link": "https://www.thehindu.com/news/international/trump-orders-us-army-to-pause-detonation-of-lead-explosives-in-iowa/article71737035.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "bba9360b46dd",
+     "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
+     "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-23T13:02:05+00:00",
-     "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "b9aa5c1218e3",
-     "title": "COP31 talks fail as EU, others reject any climate deal without language on a fossil fuel phase-out",
-     "link": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-11-23T07:46:58+00:00",
-     "summary": "EU, Panama among about 130 parties that refuse to accept COP President’s consensus cover text, alleges that it “greenwashes” fossil fuels; India, China, Saudi Arabia are on the other side of the divide",
-     "explain": null,
+     "published": "2026-11-24T01:21:41+00:00",
+     "summary": "Employees at Nvidia headquarters greeted Jensen Huang with applause upon his return.",
+     "explain": "The positive internal reaction at Nvidia headquarters indicates strong employee morale and belief in Huang's leadership, which is a significant factor in how effectively a company can recover from such internal turmoil.",
      "related": [
       {
-       "date": "2026-11-20",
-       "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
-       "link": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
+       "date": "2026-11-23",
+       "title": "Jensen Huang returns as NVIDIA CEO after intelligence scandal",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-returns-as-nvidia-ceo-after-intelligence-scandal?traffic_source=rss",
        "source": "Al Jazeera – Breaking News, World News a"
+      },
+      {
+       "date": "2026-11-23",
+       "title": "Nvidia reinstates Jensen Huang as CEO after U.S. government input",
+       "link": "https://www.thehindu.com/sci-tech/technology/nvidia-reinstates-jensen-huang-as-ceo-after-us-government-input/article71735341.ece",
+       "source": "World News: Latest International News & "
       }
      ],
-     "story": null
+     "story": {
+      "id": "world-jensen-huang-s-return-to-nvidia",
+      "title": "Jensen Huang's Return to Nvidia",
+      "so_far": "Jensen Huang served as the longtime CEO of Nvidia, a leader in artificial intelligence and semiconductor manufacturing. Following a period of leadership instability and corporate internal changes, he was briefly removed from his position, causing significant fluctuations in stock market confidence and AI industry sentiment.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "Following an intervention by President Trump, Huang has officially returned to his role as CEO of the tech giant.",
+        "link": "https://www.aljazeera.com/features/2026/11/24/was-jensen-huang-too-big-to-fire-why-nvidia-trump-brought-him-back?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "President Trump is credited with personally brokering the deal to return Huang to his position at Nvidia.",
+        "link": "https://www.thehindu.com/sci-tech/technology/why-us-president-donald-trump-believed-he-needed-to-get-jensen-huang-back-at-nvidia/article71737068.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-24",
+        "text": "Market confidence in Nvidia has recovered quickly as investors react positively to Huang's reinstatement.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "The return of the CEO was met with public support from the company's workforce.",
+        "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       }
+      ]
+     }
     },
     {
-     "id": "bd89f60feaea",
-     "title": "What's next after no deal at COP31 climate talks?",
-     "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+     "id": "d5798a57ab97",
+     "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+     "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-23T05:34:39+00:00",
-     "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
-     "explain": null,
-     "related": [
-      {
-       "date": "2026-10-28",
-       "title": "What’s next for Brazil’s Flavio Bolsonaro after election defeat?",
-       "link": "https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss",
-       "source": "Al Jazeera – Breaking News, World News a"
-      },
-      {
-       "date": "2026-11-22",
-       "title": "COP31 climate talks close to final deal, summit president says",
-       "link": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
-       "source": "Al Jazeera – Breaking News, World News a"
-      },
-      {
-       "date": "2026-11-22",
-       "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
-       "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC News"
-      }
-     ],
-     "story": null
+     "published": "2026-11-23T20:48:35+00:00",
+     "summary": "Ukraine's sinking of a Russian battleship in Libya indicates the war is expanding into new international territories.",
+     "explain": "Libya is a country in North Africa that has been involved in its own civil conflict, making it a place where various world powers, including Russia, have sought influence. By striking a Russian asset there, Ukraine is demonstrating its reach and complicating Russia's international military operations.",
+     "related": [],
+     "story": {
+      "id": "world-diplomatic-talks-on-ukraine",
+      "title": "Diplomatic Talks on Ukraine",
+      "so_far": "The conflict between Russia and Ukraine has persisted since 2022, causing immense devastation and triggering massive global diplomatic and military efforts from Western allies. Attempts to negotiate peace are frequent but fragile, often undermined by continued military hostilities.",
+      "timeline": [
+       {
+        "date": "2026-11-13",
+        "text": "A violent drone attack occurred in Russia, complicating ongoing international diplomatic efforts to seek a ceasefire.",
+        "link": "https://www.thehindu.com/news/international/russia-says-four-killed-in-major-ukraine-drone-barrage/article71697111.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-14",
+        "text": "Zelensky revealed that US representatives proposed a controversial land-for-NATO membership swap to end the war.",
+        "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-11-19",
+        "text": "The Crimean Bridge has been targeted again, causing a suspension of traffic across the vital Russian supply and transit route.",
+        "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-11-20",
+        "text": "The conflict escalated with a Russian missile strike on Kyiv's infrastructure following a Ukrainian operation against the Crimean Bridge.",
+        "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-11-21",
+        "text": "Tensions have sharpened as Ukraine’s president directly challenged President-elect Trump’s characterization of his relationship with Vladimir Putin.",
+        "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-11-21",
+        "text": "New reports indicate that U.S. envoys are proposing security discussions that worry Ukraine and NATO members.",
+        "link": "https://www.thehindu.com/news/international/russia-dusts-off-its-pre-war-demands-as-the-us-raises-discussing-european-security-at-ukraine-talks/article71727588.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-21",
+        "text": "The recent attack on Kryvyi Rih coincides with reports of Russian missiles landing in Poland, further complicating international peace efforts.",
+        "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-11-21",
+        "text": "The incident adds to the growing uncertainty surrounding peace negotiations brokered by the U.S.",
+        "link": "https://www.thehindu.com/news/international/ballistic-missile-attack-on-zelenskyys-hometown-kills-2/article71729235.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-22",
+        "text": "New footage records a Russian missile strike on a civilian area in Lviv, illustrating the continued volatility of the war.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-11-22",
+        "text": "A five-storey apartment building was destroyed in a Russian strike, resulting in at least two deaths and four injuries.",
+        "link": "https://www.thehindu.com/news/international/a-russian-attack-destroyed-an-apartment-building-in-dymer-near-kyiv-killing-two-as-kaliningrad-sounded-a-rare-air-alert/article71731042.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-23",
+        "text": "The sinking of a Russian warship in a Libyan port demonstrates the global reach of the current conflict.",
+        "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "Russia retaliated against Ukrainian territory following a maritime engagement in Libya, marking a geographic expansion of the conflict.",
+        "link": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
     },
     {
-     "id": "9da807a88711",
-     "title": "Democrats clinch a historic House majority of at least 258 seats, largest since 1992",
-     "link": "https://www.thehindu.com/news/international/democrats-clinch-a-historic-house-majority-of-at-least-258-seats-largest-since-1992/article71733328.ece",
+     "id": "a03a789e4633",
+     "title": "Israeli airstrike kills senior Hamas security official in Gaza, Hamas sources say",
+     "link": "https://www.thehindu.com/news/international/hamas-security-official-killed-in-israel-strikes-in-gaza/article71738279.ece",
      "source": "World News: Latest International News & ",
-     "published": "2026-11-23T05:11:52+00:00",
-     "summary": "Republicans will have at least 173 seats in the minority",
-     "explain": null,
+     "published": "2026-11-24T11:10:02+00:00",
+     "summary": "An Israeli airstrike killed a senior Hamas security official in Gaza.",
+     "explain": "The Shin Bet is Israel's internal security agency responsible for intelligence and counter-terrorism. This event is part of a broader, ongoing campaign by Israel to target the leaders and security infrastructure of Hamas, which is the governing militant group in Gaza.",
      "related": [],
-     "story": null
-    },
-    {
-     "id": "2d7a71120145",
-     "title": "Federal appeals court gives President Donald Trump path to erasing hush money conviction",
-     "link": "https://www.thehindu.com/news/international/federal-appeals-court-gives-president-donald-trump-path-to-erasing-hush-money-conviction/article71736252.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-11-23T21:36:25+00:00",
-     "summary": "The panel ordered a lower court to promptly issue a decision on whether the case should remain in federal court; if that happens, Mr. Trump could then argue that the verdict should be discarded because of Presidential im",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "51bdd5004f99",
-     "title": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
-     "link": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-23T21:30:40+00:00",
-     "summary": "US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran&#039;s global financial activities.",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "a2a959deab80",
-     "title": "Israel’s southern Syria incursion triggers fear and destruction",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-23T21:19:17+00:00",
-     "summary": "Families in Koya have been shot at, had their homes set on fire, and been forced to flee after Israeli incursions.",
-     "explain": null,
-     "related": [],
-     "story": null
+     "story": {
+      "id": "world-targeted-airstrike-in-gaza",
+      "title": "Targeted Airstrike in Gaza",
+      "so_far": "Gaza has been the center of intense conflict between Israel and Hamas for years. Following the escalations of 2023 and 2024, the region continues to experience frequent airstrikes and ground military activity as Israel seeks to dismantle Hamas's operational and leadership capabilities.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "The Israeli military and Shin Bet security service confirmed the death of a senior Hamas security official.",
+        "link": "https://www.thehindu.com/news/international/hamas-security-official-killed-in-israel-strikes-in-gaza/article71738279.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
     }
    ]
   },
@@ -1251,189 +1924,253 @@
    "label": "Business & Finance",
    "articles": [
     {
-     "id": "fa5d89ceffcd",
-     "title": "Nvidia reinstates Jensen Huang as CEO, Trump says no risk to national security",
-     "link": "https://www.thehindubusinessline.com/info-tech/nvidia-reinstates-jensen-huang-as-ceo/article71735223.ece",
+     "id": "09c305725135",
+     "title": "Ventive plans ₹1,350 crore hotel expansion without fresh equity",
+     "link": "https://www.livemint.com/companies/news/ventive-plans-1-350-crore-hotel-expansion-without-fresh-equity-11795512185406.html",
+     "source": "mint - companies",
+     "published": "2026-11-24T11:21:53+00:00",
+     "summary": "Ventive Hospitality plans to expand its hotel portfolio with an investment of ₹1,350 crore without issuing new equity. The company aims for significant growth in operating earnings by fiscal year 2031, relying on its current assets.",
+     "explain": "Ventive Hospitality is a company that owns and manages hotels. By opting for expansion 'without fresh equity,' they are using existing cash or debt to grow rather than selling more ownership shares in the company. This is a common strategy to avoid diluting the current shareholders' value.",
+     "related": [],
+     "story": {
+      "id": "business-ventive-hospitality-expansion-strategy",
+      "title": "Ventive Hospitality Expansion Strategy",
+      "so_far": "Ventive Hospitality is a major player in the Indian hospitality market, frequently managing luxury hotels and resorts. The company has been optimizing its financial structure to fund large-scale developments while maintaining manageable debt levels.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "Ventive Hospitality has announced a ₹1,350 crore expansion plan focused on existing properties to reach profitability targets by 2031.",
+        "link": "https://www.livemint.com/companies/news/ventive-plans-1-350-crore-hotel-expansion-without-fresh-equity-11795512185406.html",
+        "source": "mint - companies"
+       }
+      ]
+     }
+    },
+    {
+     "id": "e70cb9a4ffa0",
+     "title": "SFIA India, China’s CCPIT CHEM in pact to promote specialty fertilizers",
+     "link": "https://www.thehindubusinessline.com/economy/agri-business/sfia-india-chinas-ccpit-chem-in-pact-to-promote-specialty-fertilizers/article71738308.ece",
      "source": "Business News Today: Latest Business New",
-     "published": "2026-11-23T16:28:40+00:00",
-     "summary": "The board reinstated Huang after a series of meetings and discussions and after receiving input from “senior levels of the United States government”",
-     "explain": null,
-     "related": [
-      {
-       "date": "2026-11-10",
-       "title": "‘No ordinary CEO’: Why Nvidia’s Jensen Huang is indispensable to the AI industry",
-       "link": "https://www.thehindubusinessline.com/info-tech/no-ordinary-ceo-why-nvidias-jensen-huang-is-indispensable-to-the-ai-industry/article71684765.ece",
-       "source": "Business News Today: Latest Business New"
-      },
-      {
-       "date": "2026-11-10",
-       "title": "Donald Trump says FBI is investigating Jensen Huang’s affair with alleged Chinese spy as trouble mounts for Nvidia CEO",
-       "link": "https://www.livemint.com/companies/news/donald-trump-says-fbi-is-investigating-jensen-huang-s-affair-with-alleged-chinese-spy-as-trouble-mounts-for-nvidia-ceo-11794273697767.html",
-       "source": "mint - companies"
-      },
-      {
-       "date": "2026-11-18",
-       "title": "End of the road for Jensen Huang? Nvidia Board Chairman Harvey Jones says no intention to rehire him as CEO",
-       "link": "https://www.livemint.com/companies/news/end-of-the-road-for-jensen-huang-nvidia-board-chairman-harvey-jones-says-no-intention-to-rehire-him-as-ceo-11794963686059.html",
-       "source": "mint - companies"
-      }
-     ],
-     "story": null
+     "published": "2026-11-24T11:20:03+00:00",
+     "summary": "The Specialty Fertilizers Industry Association (SFIA) of India has signed a pact with China's CCPIT CHEM to enhance trade and technology transfer. The partnership aims to foster collaboration between manufacturers and industry stakeholders in the agriculture sector.",
+     "explain": "CCPIT CHEM is a Chinese council that promotes chemical industry trade. This agreement signifies a formal effort to share technical expertise and trade specialty fertilizers, which are nutrient-dense products used to improve plant growth. It highlights international efforts to modernize agricultural practices.",
+     "related": [],
+     "story": {
+      "id": "business-india-china-specialty-fertilizers-pact",
+      "title": "India-China Specialty Fertilizers Pact",
+      "so_far": "Specialty fertilizers are advanced agricultural inputs designed to increase crop yield and soil health. India, with its large agrarian economy, frequently seeks technology partnerships to improve farm productivity and modernize its supply chain.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "India and China have entered a strategic partnership to boost cooperation in the specialty fertilizer and agriculture industry.",
+        "link": "https://www.thehindubusinessline.com/economy/agri-business/sfia-india-chinas-ccpit-chem-in-pact-to-promote-specialty-fertilizers/article71738308.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
     },
     {
-     "id": "86073fb101d6",
-     "title": "Tata Sons board meeting deferred to November 30",
-     "link": "https://www.thehindubusinessline.com/companies/tata-sons-board-meeting-deferred-to-november-30/article71735338.ece",
+     "id": "6f72d4c28e52",
+     "title": "IKEA India eyes profitability by FY29; furniture contributes 55%, food 10% of revenue",
+     "link": "https://www.thehindubusinessline.com/companies/ikea-india-eyes-profitability-by-fy29-furniture-contributes-55-food-10-of-revenue/article71738184.ece",
      "source": "Business News Today: Latest Business New",
-     "published": "2026-11-23T15:11:04+00:00",
-     "summary": "The board meeting will take place in the backdrop of Reserve Bank of India’s communication to Tata Sons for listing it’s shares - an issue that has divided the Tata group",
-     "explain": null,
+     "published": "2026-11-24T11:18:14+00:00",
+     "summary": "IKEA India expects to reach profitability by fiscal year 2029, driven by strong sales in furniture and growing contributions from its restaurants and smaller store formats. Online channels and compact city stores are playing a key role in their expansion.",
+     "explain": "IKEA is a global Swedish furniture retailer. Being 'profitable' means the company generates more revenue than it spends on operations and expansion. Their strategy in India includes selling food, which has become a significant portion of their revenue, helping to attract customers into their stores.",
+     "related": [],
+     "story": {
+      "id": "business-ikea-india-path-to-profitability",
+      "title": "IKEA India Path to Profitability",
+      "so_far": "IKEA entered the Indian market as a major foreign direct investment in retail, known for its massive blue-and-yellow warehouses. In recent years, the company has adapted its strategy to suit Indian consumer preferences, including smaller store footprints and integrated dining.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "IKEA projects a break-even point by FY29 as it pivots toward a mix of large-format retail, smaller city stores, and food services.",
+        "link": "https://www.thehindubusinessline.com/companies/ikea-india-eyes-profitability-by-fy29-furniture-contributes-55-food-10-of-revenue/article71738184.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "dfbd88e3fb83",
+     "title": "Uday Kotak on Jensen Huang coming back as NVIDIA CEO: ‘When elephants dance, everyone moves to give space!’ - Full text",
+     "link": "https://www.livemint.com/companies/people/uday-kotak-on-jensen-huang-coming-back-as-nvidia-ceo-when-elephants-dance-everyone-moves-to-give-space-full-text-11795515952949.html",
+     "source": "mint - companies",
+     "published": "2026-11-24T11:09:20+00:00",
+     "summary": "Nvidia shares surged following the board's unanimous decision to reinstate co-founder Jensen Huang as CEO. Industry leaders like Uday Kotak view this leadership change as a pivotal moment for global AI markets and geopolitical economic shifts.",
+     "explain": "Jensen Huang is a high-profile figure in the tech world. A 'CEO reinstatement' indicates the board of directors believes he is the best person to lead the company during a critical competitive race in artificial intelligence, which is why investors reacted so positively.",
+     "related": [],
+     "story": {
+      "id": "business-jensen-huang-returns-as-nvidia-ceo",
+      "title": "Jensen Huang Returns as Nvidia CEO",
+      "so_far": "Nvidia is the world's leading manufacturer of AI-focused microchips, which are essential for training large language models. The company has faced internal leadership shifts that have sparked significant discussion regarding the future of the semiconductor industry.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "Nvidia board members have unanimously reappointed Jensen Huang as CEO, triggering a massive market rally and investor optimism.",
+        "link": "https://www.livemint.com/companies/people/uday-kotak-on-jensen-huang-coming-back-as-nvidia-ceo-when-elephants-dance-everyone-moves-to-give-space-full-text-11795515952949.html",
+        "source": "mint - companies"
+       }
+      ]
+     }
+    },
+    {
+     "id": "5e728a2d0e6a",
+     "title": "GalaxEye places orders with Bellatrix for propulsion systems for 30 satellities",
+     "link": "https://www.thehindubusinessline.com/companies/galaxeye-places-orders-with-bellatrix-for-propulsion-systems-for-30-satellities/article71738259.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-24T11:07:17+00:00",
+     "summary": "GalaxEye has commissioned Bellatrix Aerospace to supply electric propulsion systems for 30 of its OptoSAR Gen-II satellites. The order will be fulfilled in a phased delivery schedule.",
+     "explain": "Electric propulsion systems use electricity to accelerate propellant for satellite maneuvering, which is more fuel-efficient than traditional chemical rockets. GalaxEye is building a constellation of satellites to observe the Earth, and they need Bellatrix's propulsion tech to keep their satellites correctly positioned.",
+     "related": [],
+     "story": {
+      "id": "business-galaxeye-satellite-propulsion-order",
+      "title": "GalaxEye Satellite Propulsion Order",
+      "so_far": "The private space sector in India is expanding rapidly, with startups developing niche technologies like high-resolution radar imaging (OptoSAR) and electric propulsion. These systems allow small satellites to adjust their orbits efficiently in space.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "GalaxEye has secured a contract with Bellatrix for advanced electric propulsion systems to support a 30-satellite constellation.",
+        "link": "https://www.thehindubusinessline.com/companies/galaxeye-places-orders-with-bellatrix-for-propulsion-systems-for-30-satellities/article71738259.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "359e912fdedc",
+     "title": "Keralam's Wayanad set to become India's first e-waste-free district",
+     "link": "https://www.thehindubusinessline.com/news/national/keralams-wayanad-set-to-become-indias-first-e-waste-free-district/article71738071.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-24T11:07:13+00:00",
+     "summary": "The Wayanad district in Kerala is on track to become India's first e-waste-free district, with future goals to reach carbon-neutral status. This initiative focuses on the responsible collection and processing of discarded electronic devices.",
+     "explain": "E-waste is 'electronic waste.' Becoming 'e-waste-free' means the local government has established a system where old electronics are recycled safely instead of being dumped in landfills. Carbon neutrality means the district is working to ensure it releases no more carbon dioxide than it captures.",
+     "related": [],
+     "story": {
+      "id": "business-wayanad-sustainability-initiatives",
+      "title": "Wayanad Sustainability Initiatives",
+      "so_far": "E-waste consists of discarded electronics like mobile phones and computers, which contain toxic materials that require specific disposal methods. Many Indian districts are implementing sustainable waste management programs to mitigate environmental impact.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "Wayanad is nearing status as India's first e-waste-free district as part of a broader carbon neutrality initiative.",
+        "link": "https://www.thehindubusinessline.com/news/national/keralams-wayanad-set-to-become-indias-first-e-waste-free-district/article71738071.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "623e2b9f4bda",
+     "title": "Mafatlal targets $1 b revenue by decade-end, aims to double margins to 6-8%",
+     "link": "https://www.thehindubusinessline.com/news/mafatlal-targets-1-b-revenue-by-decade-end-aims-to-double-margins-to-6-8/article71737820.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-24T10:54:25+00:00",
+     "summary": "Mafatlal is aiming for $1 billion in revenue by the end of the decade, with plans to double margins to 6-8%. The company is focused on its defense business and an asset-light manufacturing model to drive growth.",
+     "explain": "An 'asset-light' business model focuses on outsourcing heavy manufacturing to reduce capital expenditure, allowing the company to stay lean and profitable. Expanding into 'defense' is a common strategy for Indian conglomerates looking to participate in the government's 'Make in India' initiative.",
      "related": [
       {
-       "date": "2026-10-26",
-       "title": "Noel Tata seeks record of Tata Sons September 17 board meet",
-       "link": "https://www.thehindubusinessline.com/companies/noel-tata-seeks-record-of-tata-sons-september-17-board-meet/article71628511.ece",
-       "source": "Business News Today: Latest Business New"
-      },
-      {
-       "date": "2026-10-26",
-       "title": "Noel Tata challenges Chandrasekaran's reappointment as Tata Sons chairman, seeks board meeting video",
-       "link": "https://www.livemint.com/companies/people/noel-tata-challenges-chandrasekarans-reappointment-as-tata-sons-chairman-seeks-board-meeting-video-11793037220242.html",
-       "source": "mint - companies"
-      },
-      {
-       "date": "2026-11-20",
-       "title": "Noel Tata renews demand for September 17 board meeting recording",
-       "link": "https://www.thehindubusinessline.com/companies/noel-tata-renews-demand-for-september-17-board-meeting-recording/article71725853.ece",
+       "date": "2026-10-30",
+       "title": "Omron India Automation targets to double revenue by FY30",
+       "link": "https://www.thehindubusinessline.com/companies/omron-india-automation-targets-to-double-revenue-by-fy30/article71644572.ece",
        "source": "Business News Today: Latest Business New"
       }
      ],
-     "story": null
+     "story": {
+      "id": "business-mafatlal-growth-and-margin-strategy",
+      "title": "Mafatlal Growth and Margin Strategy",
+      "so_far": "Mafatlal is a diversified Indian group with interests ranging from textiles to industrial products. The company has been restructuring its operations to focus on high-growth segments like defense and logistics.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "Mafatlal has set a $1 billion revenue target by 2030, supported by a shift toward the defense sector and asset-light production.",
+        "link": "https://www.thehindubusinessline.com/news/mafatlal-targets-1-b-revenue-by-decade-end-aims-to-double-margins-to-6-8/article71737820.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
     },
     {
-     "id": "3c3d9c639dfe",
-     "title": "Nvidia reinstates Jensen Huang as CEO, shares surge 31%",
-     "link": "https://www.livemint.com/companies/people/nvidia-reinstates-jensen-huang-as-ceo-11795442533071.html",
-     "source": "mint - companies",
-     "published": "2026-11-23T14:04:47+00:00",
-     "summary": "Nvidia CEO Jensen Huang, who was fired last week from the top job, has been reinstated, according to a company post on X.",
-     "explain": null,
-     "related": [
-      {
-       "date": "2026-11-10",
-       "title": "‘No ordinary CEO’: Why Nvidia’s Jensen Huang is indispensable to the AI industry",
-       "link": "https://www.thehindubusinessline.com/info-tech/no-ordinary-ceo-why-nvidias-jensen-huang-is-indispensable-to-the-ai-industry/article71684765.ece",
-       "source": "Business News Today: Latest Business New"
-      },
-      {
-       "date": "2026-11-12",
-       "title": "Elon Musk offers to hire Nvidia CEO Jensen Huang",
-       "link": "https://economictimes.indiatimes.com/news/new-updates/musk-wants-to-hire-jensen-huang-elon-musk-says-he-would-be-honoured-to-recruit-nvidia-ceo-if-board-decides-to-replace-him/articleshow/135753303.cms",
-       "source": "Economic Times"
-      },
-      {
-       "date": "2026-11-13",
-       "title": "‘I’m a piece of sh--’: Inside Jensen Huang’s final hours as Nvidia CEO",
-       "link": "https://www.livemint.com/companies/people/im-a-piece-of-sh-inside-jensen-huang-s-final-hours-as-nvidia-ceo-11794545307416.html",
-       "source": "mint - companies"
-      },
-      {
-       "date": "2026-11-14",
-       "title": "Elon Musk backs petition seeking Jensen Huang’s reinstatement at Nvidia",
-       "link": "https://www.thehindubusinessline.com/news/world/elon-musk-backs-petition-seeking-jensen-huangs-reinstatement-at-nvidia/article71700695.ece",
-       "source": "Business News Today: Latest Business New"
-      },
-      {
-       "date": "2026-11-16",
-       "title": "Who is Madison Huang? Why Jensen Huang’s daughter is in spotlight at Nvidia amid CEO succession speculation",
-       "link": "https://www.livemint.com/companies/people/who-is-madison-huang-why-jensen-huang-s-daughter-is-in-spotlight-at-nvidia-amid-ceo-succession-speculation-11794826174350.html",
-       "source": "mint - companies"
-      },
-      {
-       "date": "2026-11-17",
-       "title": "Nvidia board rules out Jensen Huang’s return as CEO amid growing campaign",
-       "link": "https://www.thehindubusinessline.com/info-tech/nvidia-board-rules-out-jensen-huangs-return-as-ceo-amid-growing-campaign/article71709569.ece",
-       "source": "Business News Today: Latest Business New"
-      }
-     ],
-     "story": null
-    },
-    {
-     "id": "e5ed8a1126dc",
-     "title": "Kalyani family dispute: SC suggests arbitration after mediation fails",
-     "link": "https://www.livemint.com/companies/people/baba-kalyani-sugandha-hiremath-family-dispute-supreme-court-arbitration-11795422643554.html",
-     "source": "mint - companies",
-     "published": "2026-11-23T09:29:36+00:00",
-     "summary": "The court has sought instructions from the parties on the proposal and will hear the matter again after two weeks",
-     "explain": null,
+     "id": "f48150d64ae5",
+     "title": "SpiceJet operations shrink to six aircraft, just over 20 daily flights",
+     "link": "https://www.thehindubusinessline.com/economy/logistics/spicejet-operations-shrink-to-six-aircraft-just-over-20-daily-flights/article71737916.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-24T10:54:23+00:00",
+     "summary": "SpiceJet’s operational fleet has dropped to six aircraft, managing just over 20 daily flights. The airline's promoter, Ajay Singh, is in talks with the Civil Aviation Ministry regarding the airline's ongoing financial and operational instability.",
+     "explain": "An airline's 'fleet' refers to the total number of planes it operates. When a fleet shrinks to six, it indicates a severe financial or maintenance crisis, making it difficult for the airline to maintain its routes and provide service. The Civil Aviation Ministry regulates flight safety and business conduct in India.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "business-spicejet-operational-crisis",
+      "title": "SpiceJet Operational Crisis",
+      "so_far": "SpiceJet has faced recurring financial difficulties, high debt, and maintenance issues for several years, leading to frequent grounding of its aircraft. The airline has struggled to maintain its flight schedules against larger competitors.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "SpiceJet's fleet has shrunk to only six planes as the airline struggles with severe operational contractions.",
+        "link": "https://www.thehindubusinessline.com/economy/logistics/spicejet-operations-shrink-to-six-aircraft-just-over-20-daily-flights/article71737916.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
     },
     {
-     "id": "316f6dd30f51",
-     "title": "₹1 tn inheritance row: Kalyani family's mediation fails",
-     "link": "https://economictimes.indiatimes.com/news/company/corporate-trends/mediation-fails-in-kalyani-familys-rs-1-lakh-crore-inheritance-dispute-sc-told/articleshow/136093113.cms",
+     "id": "73a9eeaa77a5",
+     "title": "TSMC stock jumps 10%, adds $158 billion in market value as Nvidia's Jensen Huang returns as CEO",
+     "link": "https://www.livemint.com/companies/news/tsmc-stock-jumps-10-adds-158-billion-in-market-value-as-nvidias-jensen-huang-returns-as-ceo-11795515269169.html",
+     "source": "mint - companies",
+     "published": "2026-11-24T10:48:41+00:00",
+     "summary": "TSMC stock jumped 10%, adding $158 billion in market value following the news of Jensen Huang’s return as Nvidia CEO. The rally reflects the interconnectedness of global semiconductor supply chains.",
+     "explain": "TSMC (Taiwan Semiconductor Manufacturing Company) manufactures the specialized chips designed by Nvidia. When investors feel optimistic about Nvidia's future, they often also buy shares of TSMC, because the two companies rely heavily on each other for revenue and production.",
+     "related": [],
+     "story": {
+      "id": "business-potential-tesla-and-spacex-merger",
+      "title": "Potential Tesla and SpaceX Merger",
+      "so_far": "Tesla, led by Elon Musk, is a major electric vehicle manufacturer, while SpaceX is his aerospace firm focusing on rocket development and satellite internet. The two companies have operated as separate entities despite being under the same leadership. A merger of this scale would be unprecedented in the technology and automotive sectors.",
+      "timeline": [
+       {
+        "date": "2026-10-21",
+        "text": "Elon Musk announced that independent committees at both companies are discussing a possible merger, though no formal agreement exists.",
+        "link": "https://www.livemint.com/companies/news/a-good-idea-elon-musk-says-special-committees-will-discuss-tesla-and-spacex-merger-while-he-sits-out-11792544836520.html",
+        "source": "mint - companies"
+       },
+       {
+        "date": "2026-11-15",
+        "text": "SpaceX demonstrated advanced flight capabilities during a 22-hour orbital mission, successfully catching the returning Starship spacecraft.",
+        "link": "https://www.livemint.com/companies/news/holy-grail-of-spaceflight-spacex-pulls-off-first-ever-midair-catch-of-starship-returning-from-orbit-11794704126187.html",
+        "source": "mint - companies"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "TSMC stock value soared by $158 billion in response to the leadership change at its partner firm, Nvidia.",
+        "link": "https://www.livemint.com/companies/news/tsmc-stock-jumps-10-adds-158-billion-in-market-value-as-nvidias-jensen-huang-returns-as-ceo-11795515269169.html",
+        "source": "mint - companies"
+       }
+      ]
+     }
+    },
+    {
+     "id": "f9023228dc12",
+     "title": "Kedarnath yatra to be in just 27 minutes: Nitin Gadkari",
+     "link": "https://economictimes.indiatimes.com/news/new-updates/nitin-gadkari-says-kedarnath-devotees-may-soon-reach-temple-in-just-27-minutes-heres-how/articleshow/136126669.cms",
      "source": "Economic Times",
-     "published": "2026-11-23T07:14:35+00:00",
-     "summary": "",
-     "explain": null,
+     "published": "2026-11-24T10:46:22+00:00",
+     "summary": "Union Minister Nitin Gadkari announced that the travel time for the Kedarnath yatra will be reduced to 27 minutes. This is part of ongoing infrastructure development aimed at improving connectivity to major pilgrimage sites in India.",
+     "explain": "The 'Kedarnath yatra' is a pilgrimage journey. By reducing the time to 27 minutes, the government is likely implementing a new ropeway or air connection system. These infrastructure projects are significant because they boost local tourism and accessibility to historically remote areas.",
      "related": [],
-     "story": null
-    },
-    {
-     "id": "14de73f85880",
-     "title": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
-     "link": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html",
-     "source": "Business News",
-     "published": "2026-11-23T21:55:27+00:00",
-     "summary": "In addition to ESPN channels, Super Bowl 61 will also be available on streaming platform Disney+ as well as the company's broadcast network ABC.",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "4c21ec4b1f45",
-     "title": "Jensen Huangs return to Nvidia caps a comeback bid that stumbled before White House helped",
-     "link": "https://www.livemint.com/companies/jensen-huangs-return-to-nvidia-caps-a-comeback-bid-that-stumbled-before-white-house-helped-11795468659174.html",
-     "source": "mint - companies",
-     "published": "2026-11-23T21:17:38+00:00",
-     "summary": "Jensen Huang's return to Nvidia caps a comeback bid that stumbled before White House helped",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "2bd59c37e1cc",
-     "title": "Sugar prices dip 4-5% as Maha, UP supplies rise",
-     "link": "https://economictimes.indiatimes.com/news/economy/agriculture/sugar-prices-dip-4-5-as-maharashtra-up-supplies-rise/articleshow/136112496.cms",
-     "source": "Economic Times",
-     "published": "2026-11-23T18:32:54+00:00",
-     "summary": "",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "2eb9bddfb78c",
-     "title": "CrowdStrike snaps up Zscaler in $44 billion deal as cyber threats mount",
-     "link": "https://www.livemint.com/companies/crowdstrike-snaps-up-zscaler-in-44-billion-deal-as-cyber-threats-mount-11795458732828.html",
-     "source": "mint - companies",
-     "published": "2026-11-23T18:32:12+00:00",
-     "summary": "ZSCALER-M-A-CROWDSTRIKE:CrowdStrike snaps up Zscaler in $44 billion deal as cyber threats mount",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "69f8954ad3bc",
-     "title": "Zscaler’s Chaudhrys to Reap $14.5 Billion From CrowdStrike Deal",
-     "link": "https://www.livemint.com/companies/zscalers-chaudhrys-to-reap-14-5-billion-from-crowdstrike-deal-11795458673610.html",
-     "source": "mint - companies",
-     "published": "2026-11-23T18:31:13+00:00",
-     "summary": "The biggest winners of CrowdStrike Holdings Inc.’s $44 billion acquisition of cybersecurity software maker Zscaler Inc. — by far — are the company’s billionaire founder, Jay Chaudhry, and members of his family, who combi",
-     "explain": null,
-     "related": [],
-     "story": null
+     "story": {
+      "id": "business-kedarnath-infrastructure-development",
+      "title": "Kedarnath Infrastructure Development",
+      "so_far": "Kedarnath is a major Hindu pilgrimage site in Uttarakhand, known for its remote location in the Himalayas. The Indian government has prioritized building better roads and ropeways to handle high volumes of tourists and pilgrims safely.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "Nitin Gadkari announced new transport connectivity that will drastically reduce travel time to the Kedarnath pilgrimage site.",
+        "link": "https://economictimes.indiatimes.com/news/new-updates/nitin-gadkari-says-kedarnath-devotees-may-soon-reach-temple-in-just-27-minutes-heres-how/articleshow/136126669.cms",
+        "source": "Economic Times"
+       }
+      ]
+     }
     }
    ]
   },
@@ -1446,10 +2183,70 @@
      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-meta-anthropic-amd-micron-tesla-ai-chip-earnings-fed-rate-treasury-yield-news-23rd-november-2026/liveblog/136104474.cms",
      "source": "Markets-Economic Times",
      "published": "2026-11-23T13:12:48+00:00",
-     "summary": "",
-     "explain": null,
+     "summary": "US stock markets, particularly the Nasdaq, saw a significant rebound following the news that Jensen Huang has returned to lead Nvidia.",
+     "explain": "When major tech companies struggle, they often experience a 'sell-off' where investors panic and sell shares, causing prices to drop sharply. Jensen Huang is the high-profile leader of Nvidia, a company that makes the specialized chips essential for Artificial Intelligence (AI). His return is seen by investors as a stabilizing force, which helps boost market confidence.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "markets-us-tech-market-volatility",
+      "title": "US Tech Market Volatility",
+      "so_far": "The US tech market has faced a turbulent 2026 as high interest rates and changing advertising demand have pressured growth-focused digital and software companies. Many of these firms saw inflated valuations during the previous cycle and are now undergoing significant market correction.",
+      "timeline": [
+       {
+        "date": "2026-10-24",
+        "text": "A list of 'portfolio killers' identifies top US stocks that have faced significant capital erosion throughout 2026.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/portfolio-killers-10-us-stocks-that-wiped-out-up-to-66-of-investors-wealth-in-2026/slideshow/135167355.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-29",
+        "text": "Weak earnings reports from major tech players like Alphabet are triggering a decline in US tech market futures.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-shares-edge-higher-as-investors-assess-tech-earnings-fed-outlook/articleshow/135285079.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-07",
+        "text": "The sector faces fresh uncertainty as political outcomes threaten to slow down infrastructure projects essential for AI growth.",
+        "link": "https://www.livemint.com/market/us-markets-next-week-9-14-nov-after-crash-and-bounce-back-investors-eye-inflation-data-tech-earnings-and-more-11794072283036.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-10",
+        "text": "Rising Treasury yields fueled by hawkish comments from Fed Governor Waller are pressuring markets ahead of new inflation data.",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-rise-as-feds-waller-presses-rate-hike-case/articleshow/135708551.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-10",
+        "text": "Market sentiment turned bearish as higher-than-expected inflation data cooled hopes for quick interest rate cuts by the Federal Reserve.",
+        "link": "https://www.livemint.com/market/wall-st-retreats-as-hot-inflation-data-fed-comments-fuel-rate-worries-11794339875709.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-10",
+        "text": "The market saw a broad retreat as Fed-related rate concerns exacerbated selling pressure.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-anthropic-ipo-nvidia-intel-marvell-tech-ai-chip-stocks-inflation-fed-rate-hike-treasury-bond-yield-news-10th-november-2026/liveblog/135712173.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-22",
+        "text": "Analysts are looking to holiday retail spending to provide a sentiment boost to markets currently pressured by high interest rates and AI-sector corrections.",
+        "link": "https://www.livemint.com/market/wall-st-week-ahead-black-friday-brings-consumer-spending-into-focus-for-ai-rocked-market-11795356076825.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-23",
+        "text": "Nvidia shares surged 31.5% after the company reinstated co-founder Jensen Huang as CEO, sparking a broader rally across technology indices.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-meta-anthropic-amd-micron-tesla-ai-chip-earnings-fed-rate-treasury-yield-news-23rd-november-2026/liveblog/136104474.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "Nvidia stock jumped 31.5% in a single day after the board brought back Jensen Huang, significantly impacting both company valuation and shareholder wealth.",
+        "link": "https://www.livemint.com/market/stock-market-news/315-surge-in-nvidia-share-adds-34-billion-to-jensen-huangs-wealth-in-a-day-whats-his-net-worth-now-11795516605100.html",
+        "source": "mint - markets"
+       }
+      ]
+     }
     },
     {
      "id": "eccc7115fbeb",
@@ -1457,117 +2254,454 @@
      "link": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025",
      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
      "published": "2026-11-23T13:01:20+00:00",
-     "summary": "",
-     "explain": null,
+     "summary": "Bitcoin showed only modest gains in response to the broader stock market rally fueled by Nvidia's leadership change.",
+     "explain": "Bitcoin is often viewed by some traders as a 'risk asset' similar to tech stocks, meaning it tends to move in the same direction as the Nasdaq. However, this article highlights that Bitcoin's price does not always perfectly mirror stock market movements, especially during times of specific corporate-driven volatility.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "markets-bitcoin-long-term-market-outlook",
+      "title": "Bitcoin Long-term Market Outlook",
+      "so_far": "Bitcoin is a decentralized digital currency often referred to as 'digital gold' due to its fixed supply. Investors debate its role in portfolios, with proponents citing its potential for high growth and detractors pointing to its extreme price volatility and lack of intrinsic industrial value.",
+      "timeline": [
+       {
+        "date": "2026-11-17",
+        "text": "Bitcoin hit local lows near $63,000 as traders prepared for heightened volatility linked to Nvidia's Q3 performance.",
+        "link": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-18",
+        "text": "Bitcoin prices steadied near the $60,000 level after Nvidia's earnings report provided a boost to broader tech markets.",
+        "link": "https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-18",
+        "text": "Bitcoin saw a price decline as investors pivoted toward traditional tech stocks ahead of Nvidia's Q3 earnings release.",
+        "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-11-19",
+        "text": "Investor appetite for Bitcoin is waning, evidenced by ETF outflows amid broader market shifts.",
+        "link": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-11-19",
+        "text": "Bitcoin price volatility continues as investors pivot between crypto and the highly anticipated Anthropic public debut.",
+        "link": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-19",
+        "text": "Higher interest rates are creating financial hurdles for companies attempting to expand their Bitcoin treasury holdings.",
+        "link": "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-19",
+        "text": "Bitcoin volatility remains high, appearing unfazed by the fluctuating performance of new AI stock debuts.",
+        "link": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-20",
+        "text": "BlackRock's IBIT experienced its largest-ever daily outflow as liquidity was redirected toward high-profile tech IPOs.",
+        "link": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-20",
+        "text": "Bitcoin has entered a bearish phase, breaking below significant psychological support levels amid wider financial market weakness.",
+        "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-11-21",
+        "text": "Bitcoin fell to a two-year price low as market participants abandoned risk-sensitive digital assets.",
+        "link": "https://www.livemint.com/market/cryptocurrency/bitcoin-price-crash-falls-to-lowest-level-in-two-years-what-s-behind-plunge-of-world-s-largest-cryptocurrency-11795267687216.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-23",
+        "text": "Bitcoin failed to mirror the strong performance of tech stocks following Jensen Huang's return to Nvidia.",
+        "link": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "Bitcoin saw its price slip under the $60,000 threshold following a temporary market spike.",
+        "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       }
+      ]
+     }
     },
     {
-     "id": "0410dea83628",
-     "title": "Nvidia’s 31% Surge Exposes Wall Street’s Growing Stock Trap",
-     "link": "https://www.livemint.com/market/nvidias-31-surge-exposes-wall-street-s-growing-stock-trap-11795470573054.html",
-     "source": "mint - markets",
-     "published": "2026-11-23T21:49:32+00:00",
-     "summary": "Monday’s spectacular stock rebound exposes the latest trap facing investors in a market dominated by a handful of technology giants: Selling them offers protection when markets plunge, but risks missing the recovery.",
-     "explain": null,
+     "id": "74827f48bbc9",
+     "title": "Bitcoin’s drop to $55,000 left a record 11.6 million BTC underwater",
+     "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-s-drop-to-usd55-000-left-a-record-11-6-million-btc-underwater",
+     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
+     "published": "2026-11-24T11:11:38+00:00",
+     "summary": "A sharp drop in Bitcoin's price to $55,000 resulted in over 11 million BTC held by investors currently being worth less than their original purchase price.",
+     "explain": "Being 'underwater' in finance means your investment is worth less now than when you bought it. This situation can lead to 'forced selling,' where investors who are scared of losing more money sell their assets to 'stop the bleeding,' which often drives the price down even further.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "markets-bitcoin-underwater-investor-metrics",
+      "title": "Bitcoin Underwater Investor Metrics",
+      "so_far": "Bitcoin is a decentralized digital currency known for extreme price fluctuations. When investors buy at high prices and the market subsequently crashes, these holdings are described as being 'underwater,' meaning the current market value is lower than the amount paid to acquire the coins.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "Market data reveals that 11.6 million BTC are currently held by investors at a loss following recent price volatility.",
+        "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-s-drop-to-usd55-000-left-a-record-11-6-million-btc-underwater",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       }
+      ]
+     }
     },
     {
-     "id": "78f7a83e386d",
-     "title": "Here’s what happened in crypto today",
-     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph.com News",
-     "published": "2026-11-23T21:40:44+00:00",
-     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "f02781614058",
-     "title": "Gold Rebounds as Huang’s Return to Nvidia Revives Risk Appetite",
-     "link": "https://www.livemint.com/market/gold-rebounds-as-huang-s-return-to-nvidia-revives-risk-appetite-11795469022718.html",
-     "source": "mint - markets",
-     "published": "2026-11-23T21:23:42+00:00",
-     "summary": "Gold extended its rebound in a broad risk-on rally triggered by the reinstatement of Jensen Huang as chief executive officer of Nvidia Corp.",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "b1fd119930de",
-     "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
-     "link": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph.com News",
-     "published": "2026-11-23T21:04:03+00:00",
-     "summary": "US prosecutors are seeking control of stolen USDC, while Elliptic says hackers have moved $247 million through Bitcoin mixers.",
-     "explain": null,
+     "id": "e0d2e4aed8bf",
+     "title": "U.S. seeks $1.1 billion seized in Binance hack as North Korean funds keep moving",
+     "link": "https://www.coindesk.com/policy/2026/11/24/u-s-seeks-usd1-1-billion-seized-in-binance-hack-as-north-korean-funds-keep-moving",
+     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
+     "published": "2026-11-24T10:58:51+00:00",
+     "summary": "US authorities are pursuing the recovery of $1.1 billion in funds linked to a previous Binance exchange hack, noting that illicit actors are still moving funds.",
+     "explain": "A 'hack' in the crypto world occurs when malicious actors find a loophole in a platform's security and drain funds. Tracking these funds is notoriously difficult, so authorities use forensic analysis of the blockchain to watch how the money moves, hoping to catch the actors or freeze the funds when they try to convert them into traditional currency.",
      "related": [
-      {
-       "date": "2026-11-02",
-       "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
-       "link": "https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-       "source": "Cointelegraph.com News"
-      },
-      {
-       "date": "2026-11-02",
-       "title": "North Korea Denies Role in $6.3 Billion Binance Crypto Heist",
-       "link": "https://www.livemint.com/market/north-korea-denies-role-in-6-3-billion-binance-crypto-heist-11793662674891.html",
-       "source": "mint - markets"
-      },
       {
        "date": "2026-11-03",
        "title": "North Korea denies role in $6.4 billion Binance hack after FBI points to TraderTraitor",
        "link": "https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor",
        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+      },
+      {
+       "date": "2026-11-09",
+       "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
+       "link": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
+       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+      },
+      {
+       "date": "2026-11-09",
+       "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
+       "link": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+       "source": "Cointelegraph.com News"
+      },
+      {
+       "date": "2026-11-23",
+       "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
+       "link": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+       "source": "Cointelegraph.com News"
       }
      ],
-     "story": null
+     "story": {
+      "id": "markets-tracking-stolen-cryptocurrency-funds",
+      "title": "Tracking Stolen Cryptocurrency Funds",
+      "so_far": "Cryptocurrency exchanges are central platforms where digital assets are traded. Because transactions are recorded on a public ledger called a blockchain, investigators can often track where stolen money goes, even as hackers attempt to hide their tracks through complex transfers.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "The US government is seeking to seize $1.1 billion associated with a past Binance hack as part of an ongoing investigation into movement of stolen assets.",
+        "link": "https://www.coindesk.com/policy/2026/11/24/u-s-seeks-usd1-1-billion-seized-in-binance-hack-as-north-korean-funds-keep-moving",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       }
+      ]
+     }
     },
     {
-     "id": "d7b80068ba16",
-     "title": "Credit Fear Gauge Drops as Huang’s Return Boosts AI Hopes",
-     "link": "https://www.livemint.com/market/credit-fear-gauge-drops-as-huang-s-return-boosts-ai-hopes-11795467289630.html",
+     "id": "3bd5729cb6c4",
+     "title": "BTCS sells more than half its ether to repay $43.8 million in Aave debt",
+     "link": "https://www.coindesk.com/business/2026/11/24/btcs-sells-more-than-half-its-ether-to-repay-usd43-8-million-in-aave-debt",
+     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
+     "published": "2026-11-24T10:55:30+00:00",
+     "summary": "BTCS has sold a majority of its Ethereum holdings to pay down its debt with the decentralized finance (DeFi) protocol Aave.",
+     "explain": "Debt management is a common challenge for companies in the crypto space. By selling assets like Ethereum to pay off a loan, a company is essentially 'deleveraging,' or reducing their exposure to the risk of price drops in the crypto market, ensuring they remain solvent despite market volatility.",
+     "related": [],
+     "story": {
+      "id": "markets-corporate-debt-management-in-crypto",
+      "title": "Corporate Debt Management in Crypto",
+      "so_far": "DeFi (Decentralized Finance) protocols like Aave allow users to borrow money against their crypto assets without a traditional bank. This process requires users to provide 'collateral'—digital currency locked up to ensure the loan is repaid. If the value of the collateral drops or if the borrower needs to reduce leverage, they may be forced to sell their holdings.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "BTCS sold over 50% of its Ethereum assets to settle a $43.8 million debt obligation.",
+        "link": "https://www.coindesk.com/business/2026/11/24/btcs-sells-more-than-half-its-ether-to-repay-usd43-8-million-in-aave-debt",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "0d386eef2d57",
+     "title": "31.5% surge in Nvidia share adds $34 billion to Jensen Huang's wealth in a day; what's his net worth now?",
+     "link": "https://www.livemint.com/market/stock-market-news/315-surge-in-nvidia-share-adds-34-billion-to-jensen-huangs-wealth-in-a-day-whats-his-net-worth-now-11795516605100.html",
      "source": "mint - markets",
-     "published": "2026-11-23T20:54:49+00:00",
-     "summary": "Corporate-debt markets rallied globally on Monday, with US fear gauges improving the most in months and technology firms’ bonds rebounding after Nvidia Corp.’s board reinstated Jensen Huang as chief executive officer.",
-     "explain": null,
+     "published": "2026-11-24T10:50:42+00:00",
+     "summary": "Nvidia shares rose significantly, boosting Jensen Huang's personal wealth by $34 billion following his reinstatement as CEO.",
+     "explain": "A 'rally' in a stock's price indicates strong buying interest, usually triggered by positive news. For a company like Nvidia, leadership stability is crucial because they are the leading supplier of AI chips; investors prefer experienced leaders during periods of rapid industry growth.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "markets-us-tech-market-volatility",
+      "title": "US Tech Market Volatility",
+      "so_far": "The US tech market has faced a turbulent 2026 as high interest rates and changing advertising demand have pressured growth-focused digital and software companies. Many of these firms saw inflated valuations during the previous cycle and are now undergoing significant market correction.",
+      "timeline": [
+       {
+        "date": "2026-10-24",
+        "text": "A list of 'portfolio killers' identifies top US stocks that have faced significant capital erosion throughout 2026.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/portfolio-killers-10-us-stocks-that-wiped-out-up-to-66-of-investors-wealth-in-2026/slideshow/135167355.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-10-29",
+        "text": "Weak earnings reports from major tech players like Alphabet are triggering a decline in US tech market futures.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-shares-edge-higher-as-investors-assess-tech-earnings-fed-outlook/articleshow/135285079.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-07",
+        "text": "The sector faces fresh uncertainty as political outcomes threaten to slow down infrastructure projects essential for AI growth.",
+        "link": "https://www.livemint.com/market/us-markets-next-week-9-14-nov-after-crash-and-bounce-back-investors-eye-inflation-data-tech-earnings-and-more-11794072283036.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-10",
+        "text": "Rising Treasury yields fueled by hawkish comments from Fed Governor Waller are pressuring markets ahead of new inflation data.",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-rise-as-feds-waller-presses-rate-hike-case/articleshow/135708551.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-10",
+        "text": "Market sentiment turned bearish as higher-than-expected inflation data cooled hopes for quick interest rate cuts by the Federal Reserve.",
+        "link": "https://www.livemint.com/market/wall-st-retreats-as-hot-inflation-data-fed-comments-fuel-rate-worries-11794339875709.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-10",
+        "text": "The market saw a broad retreat as Fed-related rate concerns exacerbated selling pressure.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-anthropic-ipo-nvidia-intel-marvell-tech-ai-chip-stocks-inflation-fed-rate-hike-treasury-bond-yield-news-10th-november-2026/liveblog/135712173.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-22",
+        "text": "Analysts are looking to holiday retail spending to provide a sentiment boost to markets currently pressured by high interest rates and AI-sector corrections.",
+        "link": "https://www.livemint.com/market/wall-st-week-ahead-black-friday-brings-consumer-spending-into-focus-for-ai-rocked-market-11795356076825.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-23",
+        "text": "Nvidia shares surged 31.5% after the company reinstated co-founder Jensen Huang as CEO, sparking a broader rally across technology indices.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-meta-anthropic-amd-micron-tesla-ai-chip-earnings-fed-rate-treasury-yield-news-23rd-november-2026/liveblog/136104474.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "Nvidia stock jumped 31.5% in a single day after the board brought back Jensen Huang, significantly impacting both company valuation and shareholder wealth.",
+        "link": "https://www.livemint.com/market/stock-market-news/315-surge-in-nvidia-share-adds-34-billion-to-jensen-huangs-wealth-in-a-day-whats-his-net-worth-now-11795516605100.html",
+        "source": "mint - markets"
+       }
+      ]
+     }
     },
     {
-     "id": "a03027de715c",
-     "title": "Taiwan Meets With TSMC, Financial Firms in Bid to Calm Markets",
-     "link": "https://www.livemint.com/market/taiwan-meets-with-tsmc-financial-firms-in-bid-to-calm-markets-11795466488909.html",
+     "id": "2de647b447fb",
+     "title": "Silver price crash: Rates today in India down ₹1 lakh in 3 months! Recovery or more fall ahead for MCX silver futures?",
+     "link": "https://www.livemint.com/market/commodities/silver-price-crash-rates-today-in-india-down-rs-1-lakh-in-3-months-recovery-or-more-fall-ahead-for-mcx-silver-futures-11795511561513.html",
      "source": "mint - markets",
-     "published": "2026-11-23T20:41:28+00:00",
-     "summary": "Taiwan Premier Cho Jung-tai met with executives from tech companies including Taiwan Semiconductor Manufacturing Co. and the island’s biggest financial firms — a rare move aimed at calming jittery investors.",
-     "explain": null,
+     "published": "2026-11-24T10:33:02+00:00",
+     "summary": "Silver prices in India showed a recovery on the MCX exchange after a period of significant decline.",
+     "explain": "The 'MCX' (Multi Commodity Exchange) is where people trade commodities like gold and silver in India. When we see a 'recovery,' it means the price had been falling (often due to global market factors), and now buyers are returning, pushing the price back up.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "markets-silver-market-price-trends",
+      "title": "Silver Market Price Trends",
+      "so_far": "Silver is a precious metal traded on the Multi Commodity Exchange (MCX) in India. Its price is affected by industrial demand, currency strength (the Rupee vs. the Dollar), and its role as a hedge against inflation. A sharp rise or fall is usually monitored by industrial buyers and retail investors alike.",
+      "timeline": [
+       {
+        "date": "2026-11-24",
+        "text": "Silver prices in India rebounded to ₹1,54,205 per kg, showing a gain of ₹6,392 after dropping ₹1 lakh over the last three months.",
+        "link": "https://www.livemint.com/market/commodities/silver-price-crash-rates-today-in-india-down-rs-1-lakh-in-3-months-recovery-or-more-fall-ahead-for-mcx-silver-futures-11795511561513.html",
+        "source": "mint - markets"
+       }
+      ]
+     }
     },
     {
-     "id": "8a4877f80608",
-     "title": "Kalshi secures temporary win in New York gambling law dispute",
-     "link": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph.com News",
-     "published": "2026-11-23T20:38:43+00:00",
-     "summary": "The ruling allows Kalshi to continue operating as its legal battle with New York over sports-related event contracts moves toward a January hearing.",
-     "explain": null,
+     "id": "28830979c0ee",
+     "title": "South Korea regulator backs bank-controlled stablecoins after months of dispute",
+     "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute",
+     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
+     "published": "2026-11-24T10:29:14+00:00",
+     "summary": "South Korean regulators have approved the use of stablecoins issued by banks, marking a shift in regional crypto policy.",
+     "explain": "Regulatory approval provides a framework that makes a product 'legal' and safe for banks to offer. By allowing banks to issue their own stablecoins, South Korea is trying to modernize its payment systems while maintaining government oversight, making it easier for institutions to handle digital money without as much fear of fraud.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "markets-hsbc-stablecoin-integration",
+      "title": "HSBC Stablecoin Integration",
+      "so_far": "Stablecoins are digital tokens designed to stay at a steady price, usually $1, by being backed by stable assets like cash or bonds. Integrating these into the traditional banking system is a major step toward making crypto a legitimate part of the global financial system.",
+      "timeline": [
+       {
+        "date": "2026-10-23",
+        "text": "HSBC launched its first stablecoin for general retail customers via its banking application.",
+        "link": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-11-02",
+        "text": "The Hong Kong Monetary Authority (HKMA) will integrate regulated stablecoins into its tokenized government debt trials, alongside HSBC's expanding RedCoin stablecoin.",
+        "link": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-14",
+        "text": "New central bank trials involving the UK, Singapore, and Thailand are investigating stablecoins to modernize cross-border payments.",
+        "link": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "South Korean authorities officially endorsed bank-controlled stablecoins, ending a long regulatory standoff.",
+        "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       }
+      ]
+     }
     },
     {
-     "id": "79697cef2157",
-     "title": "Nvidia’s Big Rebound Hammers Leveraged Funds Betting on a Fall",
-     "link": "https://www.livemint.com/market/nvidias-big-rebound-hammers-leveraged-funds-betting-on-a-fall-11795466061291.html",
-     "source": "mint - markets",
-     "published": "2026-11-23T20:34:20+00:00",
-     "summary": "For investors betting against Nvidia Corp., Monday’s big rebound turned a lucrative wager into a financial wrecking ball.",
-     "explain": null,
+     "id": "1531e2d6934e",
+     "title": "Bitcoin falls below $60,000 as rally on Jensen Huang’s Nvidia return fades",
+     "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades",
+     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
+     "published": "2026-11-24T10:08:38+00:00",
+     "summary": "Bitcoin's price dipped below $60,000 as the initial excitement regarding Nvidia's leadership change began to cool.",
+     "explain": "The 'rally' mentioned refers to a short-term increase in price based on market sentiment. Often, after a surge driven by news, 'profit taking' occurs—where traders sell their holdings to lock in gains—which causes the price to pull back, as seen here.",
+     "related": [
+      {
+       "date": "2026-10-23",
+       "title": "Bitcoin Falls Below $83,000 as AI Jitters Weigh on Sentiment",
+       "link": "https://www.livemint.com/market/bitcoin-falls-below-83-000-as-ai-jitters-weigh-on-sentiment-11792719088220.html",
+       "source": "mint - markets"
+      }
+     ],
+     "story": {
+      "id": "markets-bitcoin-long-term-market-outlook",
+      "title": "Bitcoin Long-term Market Outlook",
+      "so_far": "Bitcoin is a decentralized digital currency often referred to as 'digital gold' due to its fixed supply. Investors debate its role in portfolios, with proponents citing its potential for high growth and detractors pointing to its extreme price volatility and lack of intrinsic industrial value.",
+      "timeline": [
+       {
+        "date": "2026-11-17",
+        "text": "Bitcoin hit local lows near $63,000 as traders prepared for heightened volatility linked to Nvidia's Q3 performance.",
+        "link": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-18",
+        "text": "Bitcoin prices steadied near the $60,000 level after Nvidia's earnings report provided a boost to broader tech markets.",
+        "link": "https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-18",
+        "text": "Bitcoin saw a price decline as investors pivoted toward traditional tech stocks ahead of Nvidia's Q3 earnings release.",
+        "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-11-19",
+        "text": "Investor appetite for Bitcoin is waning, evidenced by ETF outflows amid broader market shifts.",
+        "link": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-11-19",
+        "text": "Bitcoin price volatility continues as investors pivot between crypto and the highly anticipated Anthropic public debut.",
+        "link": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-19",
+        "text": "Higher interest rates are creating financial hurdles for companies attempting to expand their Bitcoin treasury holdings.",
+        "link": "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-19",
+        "text": "Bitcoin volatility remains high, appearing unfazed by the fluctuating performance of new AI stock debuts.",
+        "link": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-20",
+        "text": "BlackRock's IBIT experienced its largest-ever daily outflow as liquidity was redirected toward high-profile tech IPOs.",
+        "link": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-20",
+        "text": "Bitcoin has entered a bearish phase, breaking below significant psychological support levels amid wider financial market weakness.",
+        "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-11-21",
+        "text": "Bitcoin fell to a two-year price low as market participants abandoned risk-sensitive digital assets.",
+        "link": "https://www.livemint.com/market/cryptocurrency/bitcoin-price-crash-falls-to-lowest-level-in-two-years-what-s-behind-plunge-of-world-s-largest-cryptocurrency-11795267687216.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-23",
+        "text": "Bitcoin failed to mirror the strong performance of tech stocks following Jensen Huang's return to Nvidia.",
+        "link": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "Bitcoin saw its price slip under the $60,000 threshold following a temporary market spike.",
+        "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "7c449a070678",
+     "title": "RBI DG asks primary dealers to bid responsibly in G-Sec underwriting auctions",
+     "link": "https://economictimes.indiatimes.com/markets/bonds/rbi-dg-asks-primary-dealers-to-bid-responsibly-in-g-sec-underwriting-auctions/articleshow/136125661.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-11-24T09:26:23+00:00",
+     "summary": "The RBI has called for more disciplined bidding by primary dealers during auctions of government securities to ensure market stability.",
+     "explain": "Primary dealers are special financial institutions that agree to buy government bonds when the government needs to borrow money. When the RBI asks them to 'bid responsibly,' it means they want these dealers to provide steady, predictable prices rather than causing extreme swings that might make it more expensive for the government to manage its debt.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "markets-rbi-banking-liquidity-management",
+      "title": "RBI Banking Liquidity Management",
+      "so_far": "The Reserve Bank of India (RBI) manages the amount of 'liquidity' (cash) in the banking system to keep inflation in check and interest rates stable. When there is too much cash, the RBI pulls it out; when there is too little, it injects cash into the system.",
+      "timeline": [
+       {
+        "date": "2026-10-22",
+        "text": "The RBI is utilizing reverse repo auctions to withdraw excess liquidity that spiked after capital inflows under the FCNR(B) scheme.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-rbi-is-draining-excess-liquidity-but-also-injecting-funds/articleshow/135103570.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-09",
+        "text": "State-run banks, acting as proxies for central bank intervention, used dollar bids to check the rupee's rapid ascent.",
+        "link": "https://economictimes.indiatimes.com/markets/forex/indian-rupee-breaks-six-day-winning-streak-on-state-banks-dollar-bids/articleshow/135678769.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-09",
+        "text": "A report highlights the central bank's massive forward market position as a strategic tool to limit rupee appreciation regardless of foreign investment inflows.",
+        "link": "https://economictimes.indiatimes.com/markets/forex/rbis-usd-239-bn-forward-dollar-position-to-limit-rupee-gains-despite-fpi-inflows-report/articleshow/135678171.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "RBI Deputy Governor Rohit Jain criticized volatile bidding practices and urged better market-making activities from primary dealers during government auctions.",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/rbi-dg-asks-primary-dealers-to-bid-responsibly-in-g-sec-underwriting-auctions/articleshow/136125661.cms",
+        "source": "Markets-Economic Times"
+       }
+      ]
+     }
     }
    ]
   }
