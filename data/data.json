@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-25T20:02:14.304128+00:00",
- "prices_generated": "2026-11-25T21:25:46.156608+00:00",
+ "generated": "2026-11-26T09:55:21.434524+00:00",
+ "prices_generated": "2026-11-26T09:55:21.434524+00:00",
  "ai": "gemini",
- "pulse": null,
+ "pulse": "Indian markets saw modest gains today, likely supported by strong loan growth projections for banks and the Nifty reaching a 26-week high. Meanwhile, US markets were mixed as weakness in major AI-linked tech stocks weighed on the Nasdaq despite positive sentiment for the Dow. Commodities were significantly influenced by a sharp drop in crude oil prices, which possibly helped drive investors toward safe-haven assets like gold and silver.",
  "ticker_strip": [
   "^NSEI",
   "^BSESN",
@@ -55,10 +55,10 @@
   "^NSEI": {
    "symbol": "^NSEI",
    "name": "Nifty 50",
-   "price": 25349.6504,
-   "change": -450.9492,
-   "pct": -1.75,
-   "pct_1m": 11.41,
+   "price": 25884.5,
+   "change": 65.25,
+   "pct": 0.25,
+   "pct_1m": 13.76,
    "spark": [
     22753.1992,
     22749.75,
@@ -79,17 +79,19 @@
     25227.9492,
     25514.3008,
     25800.5996,
-    25349.6504
+    25349.6504,
+    25819.25,
+    25884.5
    ],
-   "asof": "2026-11-23"
+   "asof": "2026-11-26"
   },
   "^BSESN": {
    "symbol": "^BSESN",
    "name": "Sensex",
-   "price": 82435.9922,
-   "change": -1483.7188,
-   "pct": -1.77,
-   "pct_1m": 12.0,
+   "price": 84277.2969,
+   "change": 339.0156,
+   "pct": 0.4,
+   "pct_1m": 14.5,
    "spark": [
     73606.75,
     73598.6719,
@@ -110,17 +112,19 @@
     82031.8125,
     83021.75,
     83919.7109,
-    82435.9922
+    82435.9922,
+    83938.2812,
+    84277.2969
    ],
-   "asof": "2026-11-23"
+   "asof": "2026-11-26"
   },
   "^NSEBANK": {
    "symbol": "^NSEBANK",
    "name": "Bank Nifty",
-   "price": 62585.3516,
-   "change": -2049.8477,
-   "pct": -3.17,
-   "pct_1m": 15.12,
+   "price": 63535.3008,
+   "change": -167.9492,
+   "pct": -0.26,
+   "pct_1m": 16.86,
    "spark": [
     54366.6992,
     53974.8984,
@@ -141,9 +145,11 @@
     62038.6484,
     63063.0,
     64635.1992,
-    62585.3516
+    62585.3516,
+    63703.25,
+    63535.3008
    ],
-   "asof": "2026-11-23"
+   "asof": "2026-11-26"
   },
   "^GSPC": {
    "symbol": "^GSPC",
@@ -182,10 +188,10 @@
   "^IXIC": {
    "symbol": "^IXIC",
    "name": "Nasdaq",
-   "price": 23547.0645,
-   "change": -186.4746,
-   "pct": -0.79,
-   "pct_1m": -10.02,
+   "price": 23585.8008,
+   "change": -147.7383,
+   "pct": -0.62,
+   "pct_1m": -9.87,
    "spark": [
     26169.3809,
     26477.8105,
@@ -209,7 +215,7 @@
     22617.7305,
     24089.5605,
     23733.5391,
-    23547.0645
+    23585.8008
    ],
    "asof": "2026-11-25"
   },
@@ -250,12 +256,11 @@
   "BTC-USD": {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 60248.8516,
-   "change": 501.0859,
-   "pct": 0.84,
-   "pct_1m": -24.71,
+   "price": 60852.2305,
+   "change": 474.0312,
+   "pct": 0.79,
+   "pct_1m": -23.94,
    "spark": [
-    80024.0078,
     80006.6562,
     80805.0781,
     81267.5859,
@@ -286,19 +291,19 @@
     61161.9102,
     61210.9844,
     59747.7656,
-    60248.8516
+    60378.1992,
+    60852.2305
    ],
-   "asof": "2026-11-25"
+   "asof": "2026-11-26"
   },
   "ETH-USD": {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 1687.97,
-   "change": 10.2751,
-   "pct": 0.61,
-   "pct_1m": -27.46,
+   "price": 1701.76,
+   "change": 10.991,
+   "pct": 0.65,
+   "pct_1m": -26.66,
    "spark": [
-    2326.9202,
     2320.2812,
     2347.73,
     2357.624,
@@ -329,19 +334,19 @@
     1721.0757,
     1708.8513,
     1677.6948,
-    1687.97
+    1690.769,
+    1701.76
    ],
-   "asof": "2026-11-25"
+   "asof": "2026-11-26"
   },
   "SOL-USD": {
    "symbol": "SOL-USD",
    "name": "Solana",
-   "price": 70.6,
-   "change": 0.9642,
-   "pct": 1.38,
-   "pct_1m": -30.25,
+   "price": 71.02,
+   "change": 0.6268,
+   "pct": 0.89,
+   "pct_1m": -29.51,
    "spark": [
-    101.2232,
     100.7549,
     101.255,
     102.3075,
@@ -372,17 +377,18 @@
     70.5701,
     71.9818,
     69.6358,
-    70.6
+    70.3932,
+    71.02
    ],
-   "asof": "2026-11-25"
+   "asof": "2026-11-26"
   },
   "USDINR=X": {
    "symbol": "USDINR=X",
    "name": "USD/INR",
-   "price": 92.22,
-   "change": -0.6952,
-   "pct": -0.75,
-   "pct_1m": -2.86,
+   "price": 92.4475,
+   "change": -0.3591,
+   "pct": -0.39,
+   "pct_1m": -2.62,
    "spark": [
     94.938,
     95.187,
@@ -406,17 +412,18 @@
     93.295,
     92.673,
     92.9152,
-    92.22
+    92.8066,
+    92.4475
    ],
-   "asof": "2026-11-25"
+   "asof": "2026-11-26"
   },
   "EURINR=X": {
    "symbol": "EURINR=X",
    "name": "EUR/INR",
-   "price": 101.2496,
-   "change": -0.0184,
-   "pct": -0.02,
-   "pct_1m": -4.36,
+   "price": 101.4242,
+   "change": -0.3458,
+   "pct": -0.34,
+   "pct_1m": -4.2,
    "spark": [
     105.868,
     106.269,
@@ -440,17 +447,18 @@
     102.264,
     101.308,
     101.268,
-    101.2496
+    101.77,
+    101.4242
    ],
-   "asof": "2026-11-25"
+   "asof": "2026-11-26"
   },
   "EURUSD=X": {
    "symbol": "EURUSD=X",
    "name": "EUR/USD",
-   "price": 1.0977,
-   "change": 0.0069,
-   "pct": 0.63,
-   "pct_1m": -2.14,
+   "price": 1.0975,
+   "change": 0.0012,
+   "pct": 0.11,
+   "pct_1m": -2.17,
    "spark": [
     1.1218,
     1.1174,
@@ -474,17 +482,18 @@
     1.097,
     1.0972,
     1.0908,
-    1.0977
+    1.0962,
+    1.0975
    ],
-   "asof": "2026-11-25"
+   "asof": "2026-11-26"
   },
   "GBPINR=X": {
    "symbol": "GBPINR=X",
    "name": "GBP/INR",
-   "price": 120.9801,
-   "change": -0.1131,
-   "pct": -0.09,
-   "pct_1m": -4.72,
+   "price": 121.1802,
+   "change": -0.5025,
+   "pct": -0.41,
+   "pct_1m": -4.56,
    "spark": [
     126.9686,
     127.0049,
@@ -508,17 +517,18 @@
     122.0962,
     121.1972,
     121.0932,
-    120.9801
+    121.6827,
+    121.1802
    ],
-   "asof": "2026-11-25"
+   "asof": "2026-11-26"
   },
   "GC=F": {
    "symbol": "GC=F",
    "name": "Gold",
-   "price": 3601.5,
-   "change": 39.6001,
-   "pct": 1.11,
-   "pct_1m": -10.82,
+   "price": 3602.0,
+   "change": 66.2,
+   "pct": 1.87,
+   "pct_1m": -10.81,
    "spark": [
     4038.3999,
     4074.6001,
@@ -542,17 +552,18 @@
     3515.3999,
     3651.3999,
     3561.8999,
-    3601.5
+    3535.8,
+    3602.0
    ],
-   "asof": "2026-11-25"
+   "asof": "2026-11-26"
   },
   "SI=F": {
    "symbol": "SI=F",
    "name": "Silver",
-   "price": 41.415,
-   "change": 0.655,
-   "pct": 1.61,
-   "pct_1m": -23.46,
+   "price": 41.895,
+   "change": 1.843,
+   "pct": 4.6,
+   "pct_1m": -22.57,
    "spark": [
     54.108,
     54.293,
@@ -576,17 +587,18 @@
     41.035,
     43.147,
     40.76,
-    41.415
+    40.052,
+    41.895
    ],
-   "asof": "2026-11-25"
+   "asof": "2026-11-26"
   },
   "CL=F": {
    "symbol": "CL=F",
    "name": "WTI Crude",
-   "price": 84.15,
-   "change": 2.1,
-   "pct": 2.56,
-   "pct_1m": -17.31,
+   "price": 83.44,
+   "change": -0.24,
+   "pct": -0.29,
+   "pct_1m": -18.0,
    "spark": [
     101.76,
     99.9,
@@ -610,17 +622,18 @@
     83.98,
     80.17,
     82.05,
-    84.15
+    83.68,
+    83.44
    ],
-   "asof": "2026-11-25"
+   "asof": "2026-11-26"
   },
   "BZ=F": {
    "symbol": "BZ=F",
    "name": "Brent Crude",
-   "price": 90.74,
-   "change": -0.66,
-   "pct": -0.72,
-   "pct_1m": -21.65,
+   "price": 90.04,
+   "change": -4.57,
+   "pct": -4.83,
+   "pct_1m": -22.25,
    "spark": [
     115.81,
     113.88,
@@ -644,17 +657,18 @@
     92.57,
     89.37,
     91.4,
-    90.74
+    94.61,
+    90.04
    ],
-   "asof": "2026-11-25"
+   "asof": "2026-11-26"
   },
   "RELIANCE.NS": {
    "symbol": "RELIANCE.NS",
    "name": "Reliance",
-   "price": 1351.0,
-   "change": -26.5,
-   "pct": -1.92,
-   "pct_1m": 12.41,
+   "price": 1396.2,
+   "change": 22.2999,
+   "pct": 1.62,
+   "pct_1m": 16.18,
    "spark": [
     1201.8,
     1196.2,
@@ -675,17 +689,19 @@
     1363.0,
     1375.6,
     1377.5,
-    1351.0
+    1351.0,
+    1373.9,
+    1396.2
    ],
-   "asof": "2026-11-23"
+   "asof": "2026-11-26"
   },
   "TCS.NS": {
    "symbol": "TCS.NS",
    "name": "TCS",
-   "price": 2460.0,
-   "change": 83.8,
-   "pct": 3.53,
-   "pct_1m": -2.96,
+   "price": 2640.3,
+   "change": 123.0,
+   "pct": 4.89,
+   "pct_1m": 4.15,
    "spark": [
     2535.0,
     2496.8999,
@@ -706,17 +722,19 @@
     2379.5,
     2342.7,
     2376.2,
-    2460.0
+    2460.0,
+    2517.3,
+    2640.3
    ],
-   "asof": "2026-11-23"
+   "asof": "2026-11-26"
   },
   "HDFCBANK.NS": {
    "symbol": "HDFCBANK.NS",
    "name": "HDFC Bank",
-   "price": 817.8,
-   "change": -28.2,
-   "pct": -3.33,
-   "pct_1m": 18.86,
+   "price": 862.0,
+   "change": 15.8,
+   "pct": 1.87,
+   "pct_1m": 25.28,
    "spark": [
     688.05,
     680.2,
@@ -737,17 +755,19 @@
     808.15,
     821.8,
     846.0,
-    817.8
+    817.8,
+    846.2,
+    862.0
    ],
-   "asof": "2026-11-23"
+   "asof": "2026-11-26"
   },
   "INFY.NS": {
    "symbol": "INFY.NS",
    "name": "Infosys",
-   "price": 1103.4,
-   "change": 5.4,
-   "pct": 0.49,
-   "pct_1m": -3.2,
+   "price": 1183.0,
+   "change": 53.0,
+   "pct": 4.69,
+   "pct_1m": 3.78,
    "spark": [
     1139.8881,
     1136.9552,
@@ -768,9 +788,11 @@
     1108.8,
     1091.9,
     1098.0,
-    1103.4
+    1103.4,
+    1130.0,
+    1183.0
    ],
-   "asof": "2026-11-23"
+   "asof": "2026-11-26"
   },
   "AAPL": {
    "symbol": "AAPL",
@@ -879,12 +901,11 @@
   {
    "code": 120716,
    "name": "UTI Nifty 50 Index Fund (Direct, Growth)",
-   "nav": 178.5983,
-   "pct": -1.75,
-   "pct_1m": 14.09,
-   "date": "23-11-2026",
+   "nav": 181.9059,
+   "pct": 1.85,
+   "pct_1m": 14.71,
+   "date": "25-11-2026",
    "spark": [
-    156.5445,
     158.5759,
     157.4672,
     159.991,
@@ -914,18 +935,18 @@
     177.7464,
     179.7634,
     181.7794,
-    178.5983
+    178.5983,
+    181.9059
    ]
   },
   {
    "code": 122639,
    "name": "Parag Parikh Flexi Cap (Direct, Growth)",
-   "nav": 94.9255,
-   "pct": -0.56,
-   "pct_1m": 8.29,
-   "date": "23-11-2026",
+   "nav": 95.7601,
+   "pct": 0.88,
+   "pct_1m": 7.69,
+   "date": "25-11-2026",
    "spark": [
-    87.6555,
     88.9258,
     88.5547,
     89.5841,
@@ -955,7 +976,8 @@
     94.1452,
     94.6945,
     95.4585,
-    94.9255
+    94.9255,
+    95.7601
    ]
   }
  ],
@@ -964,114 +986,313 @@
    "label": "India",
    "articles": [
     {
-     "id": "14fd61e7cae6",
-     "title": "'Koi Cinema Thodi Hai': Anant Singh Turns Daughter's Wedding Into Fair",
-     "link": "https://www.ndtv.com/india-news/anant-singh-sivangi-singh-daughters-wedding-into-fair-mokama-mla-bihar-12376989#publisher=newsstand",
+     "id": "5c7a1758d7ca",
+     "title": "Tata Trusts decides to move Bombay High Court challenging N. Chandrasekaran’s reappointment",
+     "link": "https://www.thehindu.com/business/Industry/tata-trusts-to-move-high-court-against-reappointment-of-n-chandrasekaran-as-executive-chairman-of-tata-sons/article71745407.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-26T08:49:05+00:00",
+     "summary": "Tata Trusts is challenging the reappointment of N. Chandrasekaran as the head of Tata Sons in the Bombay High Court. The Trusts allege the reappointment violates the company's Articles of Association.",
+     "explain": "The Tata Trusts, which hold a majority stake in the group, are taking legal action because they believe the proper processes were not followed to reappoint N. Chandrasekaran. This matters because it highlights a rare internal dispute at the highest levels of one of India's most influential business groups. Articles of Association are essentially a company's internal constitution, and legal challenges to them usually arise when major shareholders disagree on power and authority.",
+     "related": [],
+     "story": {
+      "id": "india-tata-trusts-challenges-leadership-appoin",
+      "title": "Tata Trusts Challenges Leadership Appointment",
+      "so_far": "Tata Sons is the primary holding company for the Tata Group, one of India's largest conglomerates. N. Chandrasekaran has served as the Chairman of Tata Sons, leading the group's strategy and governance. The Articles of Association define the internal rules and procedures that govern how a company functions, including how leadership appointments must be conducted.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "Tata Trusts is challenging the reappointment of N. Chandrasekaran as the head of Tata Sons in the Bombay High Court. The Trusts allege the reappointment violates the company's Articles of Association.",
+        "link": "https://www.thehindu.com/business/Industry/tata-trusts-to-move-high-court-against-reappointment-of-n-chandrasekaran-as-executive-chairman-of-tata-sons/article71745407.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-26",
+        "text": "The legal challenge targets the September 17 approval of Chandrasekaran's five-year term extension.",
+        "link": "https://www.ndtv.com/india-news/tata-trusts-to-go-to-court-against-n-chandrasekarans-reappointment-12379003#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       }
+      ]
+     }
+    },
+    {
+     "id": "12f650d911dd",
+     "title": "Tata Trusts To Go To Court Against N Chandrasekaran's Reappointment",
+     "link": "https://www.ndtv.com/india-news/tata-trusts-to-go-to-court-against-n-chandrasekarans-reappointment-12379003#publisher=newsstand",
      "source": "NDTV News Search Records Found 1000",
-     "published": "2026-11-25T19:25:47+00:00",
-     "summary": "The family planned for four to five lakh guests and a menu of more than 150 dishes.",
-     "explain": null,
+     "published": "2026-11-26T08:07:18+00:00",
+     "summary": "Tata Trusts is moving to the Bombay High Court to challenge the reappointment of N. Chandrasekaran, which was previously approved on September 17.",
+     "explain": "See previous entry.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "india-tata-trusts-challenges-leadership-appoin",
+      "title": "Tata Trusts Challenges Leadership Appointment",
+      "so_far": "Tata Sons is the primary holding company for the Tata Group, one of India's largest conglomerates. N. Chandrasekaran has served as the Chairman of Tata Sons, leading the group's strategy and governance. The Articles of Association define the internal rules and procedures that govern how a company functions, including how leadership appointments must be conducted.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "Tata Trusts is challenging the reappointment of N. Chandrasekaran as the head of Tata Sons in the Bombay High Court. The Trusts allege the reappointment violates the company's Articles of Association.",
+        "link": "https://www.thehindu.com/business/Industry/tata-trusts-to-move-high-court-against-reappointment-of-n-chandrasekaran-as-executive-chairman-of-tata-sons/article71745407.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-26",
+        "text": "The legal challenge targets the September 17 approval of Chandrasekaran's five-year term extension.",
+        "link": "https://www.ndtv.com/india-news/tata-trusts-to-go-to-court-against-n-chandrasekarans-reappointment-12379003#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       }
+      ]
+     }
     },
     {
-     "id": "e9e465a80a63",
-     "title": "Bihar village turns wedding venue as Anant Singh’s daughter ties the knot",
-     "link": "https://indianexpress.com/article/india/mokama-mla-anant-singh-daughter-shivangi-wedding-nadwan-bihar-five-lakh-guests-horse-race-december-1-surrender-10978410/",
-     "source": "India | The Indian Express",
-     "published": "2026-11-25T14:14:57+00:00",
-     "summary": "",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "ec4eea3aa35a",
-     "title": "G.O. issued on CAS for teachers of aided arts and science colleges",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/go-issued-on-cas-for-teachers-of-aided-arts-and-science-colleges/article71743611.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-25T19:22:41+00:00",
-     "summary": "The eligibility criteria and procedures to be followed for CAS will be implemented ‘in strict adherence’ to guidelines issued through a G.O. of January 11, 2021.",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "cd2a3dc97bff",
-     "title": "Kashi Tamil Sangamam aims to remind youth of India’s cultural unity: Pralhad Joshi",
-     "link": "https://indianexpress.com/article/india/kashi-tamil-sangamam-aims-to-remind-youth-of-indias-cultural-unity-pralhad-joshi-10978639/",
-     "source": "India | The Indian Express",
-     "published": "2026-11-25T19:07:03+00:00",
-     "summary": "",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "c33067d28698",
-     "title": "Three persons killed in accident in Tiruvannamalai",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/three-persons-killed-in-accident-in-tiruvannamalai/article71742410.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-25T19:06:28+00:00",
-     "summary": "",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "6695fc86f2af",
-     "title": "Man arrested for murdering his wife over family dispute",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/man-arrested-for-murdering-his-wife-over-family-dispute/article71742418.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-25T19:05:56+00:00",
-     "summary": "",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "6ec726b9eefb",
-     "title": "Peace along LAC: India, China hold military-level talks in Arunachal",
-     "link": "https://indianexpress.com/article/india/peace-along-lac-india-china-hold-military-level-talks-in-arunachal-10978638/",
-     "source": "India | The Indian Express",
-     "published": "2026-11-25T19:04:27+00:00",
-     "summary": "",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "8762361d4115",
-     "title": "Burglars decamp with 15 sovereigns of gold, cash from house near Jolarpet",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/burglars-decamp-with-15-sovereigns-of-gold-cash-from-house-near-jolarpet/article71742424.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-25T19:04:03+00:00",
-     "summary": "",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "1df922bd63b1",
-     "title": "Over 600 tonnes of waste generated on Maha Deepam day removed in Tiruvannamalai",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/over-600-tonnes-of-waste-generated-on-maha-deepam-day-removed-in-tiruvannamalai/article71742403.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-25T19:02:59+00:00",
-     "summary": "Most of the collected wastes would be dumped at the 15 acre-landfill site near the Girivalam path",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "7417d434677d",
-     "title": "Supreme Court's Deepam Order Flouted, How TVK Approach Differs From MK Stalin",
-     "link": "https://www.ndtv.com/india-news/supreme-courts-deepam-order-defied-how-tvk-approach-differs-from-mk-stalin-12377628#publisher=newsstand",
+     "id": "bee475eb51dd",
+     "title": "Centre Asks Netflix To Block Pakistani Content Amid 'Jo Bachay...' Series Row",
+     "link": "https://www.ndtv.com/india-news/centre-asks-netflix-to-block-pakistani-content-in-india-honour-2025-commitment-amid-jo-bachay-hain-sang-samait-lo-row-sources-12379420#publisher=newsstand",
      "source": "NDTV News Search Records Found 1000",
-     "published": "2026-11-25T19:01:38+00:00",
-     "summary": "The TVK government's approach is reflected in the Collector's latest report,.",
-     "explain": null,
+     "published": "2026-11-26T07:57:35+00:00",
+     "summary": "The Indian government has directed Netflix to block Pakistani content, citing a 2025 advisory. This follows scrutiny of the series 'Jo Bachay...'.",
+     "explain": "The government is invoking an existing advisory to ensure compliance from streaming platforms regarding content from Pakistan. This matters as it reflects the state's ongoing efforts to control cross-border cultural influence and enforce regulatory standards on digital entertainment. The term 'advisory' refers to a formal government recommendation or directive that companies are expected to follow.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "india-government-restrictions-on-streaming-con",
+      "title": "Government Restrictions on Streaming Content",
+      "so_far": "The Indian government frequently regulates digital streaming platforms (OTT services) under Information Technology rules. Policies are often designed to ensure that content aligns with national security interests, cultural sensitivities, or foreign policy stances. In May 2025, an advisory was issued limiting the availability of certain foreign-origin content on streaming platforms.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "The Indian government has directed Netflix to block Pakistani content, citing a 2025 advisory. This follows scrutiny of the series 'Jo Bachay...'.",
+        "link": "https://www.ndtv.com/india-news/centre-asks-netflix-to-block-pakistani-content-in-india-honour-2025-commitment-amid-jo-bachay-hain-sang-samait-lo-row-sources-12379420#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-11-26",
+        "text": "Government sources have formally reminded Netflix that the 2025 ban on Pakistan-origin content is still in effect.",
+        "link": "https://www.thehindu.com/news/national/jo-bachay...-government-warns-netflix-on-pakistani-series/article71745740.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "c2a7962cfd60",
+     "title": "Jo Bachay… government warns Netflix on Pakistani series",
+     "link": "https://www.thehindu.com/news/national/jo-bachay...-government-warns-netflix-on-pakistani-series/article71745740.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-26T07:51:42+00:00",
+     "summary": "Officials have warned Netflix that a 2025 ban on Pakistani-origin content remains active, following debates over the series 'Jo Bachay...'.",
+     "explain": "See previous entry.",
+     "related": [],
+     "story": {
+      "id": "india-government-restrictions-on-streaming-con",
+      "title": "Government Restrictions on Streaming Content",
+      "so_far": "The Indian government frequently regulates digital streaming platforms (OTT services) under Information Technology rules. Policies are often designed to ensure that content aligns with national security interests, cultural sensitivities, or foreign policy stances. In May 2025, an advisory was issued limiting the availability of certain foreign-origin content on streaming platforms.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "The Indian government has directed Netflix to block Pakistani content, citing a 2025 advisory. This follows scrutiny of the series 'Jo Bachay...'.",
+        "link": "https://www.ndtv.com/india-news/centre-asks-netflix-to-block-pakistani-content-in-india-honour-2025-commitment-amid-jo-bachay-hain-sang-samait-lo-row-sources-12379420#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-11-26",
+        "text": "Government sources have formally reminded Netflix that the 2025 ban on Pakistan-origin content is still in effect.",
+        "link": "https://www.thehindu.com/news/national/jo-bachay...-government-warns-netflix-on-pakistani-series/article71745740.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "febce346ed66",
+     "title": "ASI unveils tactile experience model of iconic sculpture of Gangaikondacholapuram Brihadisvara Temple",
+     "link": "https://www.thehindu.com/news/cities/Tiruchirapalli/asi-unveils-tactile-experience-model-of-iconic-sculpture-of-brihadisvara-temple/article71742537.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-26T09:44:41+00:00",
+     "summary": "The Archaeological Survey of India (ASI) has unveiled a tactile model of a sculpture at the Brihadisvara Temple to improve accessibility. A Braille booklet about the UNESCO site was also released.",
+     "explain": "These initiatives provide people with visual impairments the opportunity to interact with and understand historical monuments. Tactile models allow users to 'see' through touch, making heritage sites more inclusive. It highlights a move toward making cultural history accessible to all citizens.",
+     "related": [],
+     "story": {
+      "id": "india-heritage-accessibility-initiatives",
+      "title": "Heritage Accessibility Initiatives",
+      "so_far": "The Brihadisvara Temple in Gangaikondacholapuram is a historic site from the Chola dynasty and is recognized as a UNESCO World Heritage site. The Archaeological Survey of India is the central agency responsible for archaeological research and the protection of cultural heritage.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "The Archaeological Survey of India (ASI) has unveiled a tactile model of a sculpture at the Brihadisvara Temple to improve accessibility. A Braille booklet about the UNESCO site was also released.",
+        "link": "https://www.thehindu.com/news/cities/Tiruchirapalli/asi-unveils-tactile-experience-model-of-iconic-sculpture-of-brihadisvara-temple/article71742537.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "92da4795522e",
+     "title": "Gadkari announces ₹1 lakh crore road projects for Bengal",
+     "link": "https://www.thehindu.com/news/national/west-bengal/gadkari-announces-1-lakh-crore-road-projects-for-bengal/article71745900.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-26T09:44:40+00:00",
+     "summary": "Union Minister Nitin Gadkari announced ₹1 lakh crore in road infrastructure projects for West Bengal. The goal is to improve connectivity within the state and to neighboring regions.",
+     "explain": "This announcement involves a significant financial commitment to build and upgrade roads in West Bengal. Better road infrastructure generally helps reduce transport costs, improves trade, and makes travel safer for the public. It is a standard mechanism for central-state cooperation in national development.",
+     "related": [],
+     "story": {
+      "id": "india-west-bengal-infrastructure-development",
+      "title": "West Bengal Infrastructure Development",
+      "so_far": "The Ministry of Road Transport and Highways manages major national highway expansion projects across India. Central government funding is frequently directed toward states to spur economic growth through better logistics and transport networks.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "Union Minister Nitin Gadkari announced ₹1 lakh crore in road infrastructure projects for West Bengal. The goal is to improve connectivity within the state and to neighboring regions.",
+        "link": "https://www.thehindu.com/news/national/west-bengal/gadkari-announces-1-lakh-crore-road-projects-for-bengal/article71745900.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "1f6f93695fab",
+     "title": "Defence, aerospace sector outpaces IT and pharma growth in Telangana: Minister Uttam Kumar Reddy",
+     "link": "https://www.thehindu.com/news/national/telangana/defence-aerospace-sector-outpaces-it-and-pharma-growth-in-telangana-minister-uttam-kumar-reddy/article71745871.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-26T09:41:47+00:00",
+     "summary": "Telangana's Minister stated that the state's defense and aerospace sectors are growing faster than IT and pharma. The state aims to be a key hub for global manufacturing in these fields.",
+     "explain": "This signifies a shift in industrial strategy as the state moves beyond its traditional economic pillars of software and medicine. Growth in defense and aerospace manufacturing involves highly specialized engineering and often leads to long-term industrial stability. 'CII' refers to the Confederation of Indian Industry, an organization that lobbies for business interests.",
+     "related": [],
+     "story": {
+      "id": "india-telangana-industrial-growth",
+      "title": "Telangana Industrial Growth",
+      "so_far": "Telangana, particularly Hyderabad, has historically been known as an IT and pharmaceutical hub in India. The government has been actively courting heavy industries and defense manufacturers to diversify the state's economic output.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "Telangana's Minister stated that the state's defense and aerospace sectors are growing faster than IT and pharma. The state aims to be a key hub for global manufacturing in these fields.",
+        "link": "https://www.thehindu.com/news/national/telangana/defence-aerospace-sector-outpaces-it-and-pharma-growth-in-telangana-minister-uttam-kumar-reddy/article71745871.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "51764b304dcd",
+     "title": "Polling under way in 23 urban local bodies and 3,240 gram panchayats in Andhra Pradesh | LIVE",
+     "link": "https://www.thehindu.com/news/national/andhra-pradesh/urban-local-bodies-polls-andhra-pradesh-tdp-ysrcp-live-updates-november-26-2026/article71745216.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-26T09:37:56+00:00",
+     "summary": "Andhra Pradesh is holding local body elections across 23 urban areas and over 3,000 gram panchayats. Votes are set to be counted on November 30.",
+     "explain": "Local elections are vital because they decide who manages day-to-day services like water, sanitation, and local infrastructure. Voters in these elections select representatives who are closest to their community's immediate needs, unlike national or state elections which focus on broad policy.",
+     "related": [
+      {
+       "date": "2026-11-01",
+       "title": "Stage set for polling in 92 urban local bodies in Andhra Pradesh | LIVE",
+       "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-urban-local-body-elections-polling-municipalities-corporation-results-november-1-2026-live-updates/article71651965.ece",
+       "source": "India Latest News: Top National Headline"
+      }
+     ],
+     "story": {
+      "id": "india-andhra-pradesh-local-body-elections",
+      "title": "Andhra Pradesh Local Body Elections",
+      "so_far": "Local body elections in Andhra Pradesh reflect the shifting influence of major parties like the TDP and YSRCP. These elections for mayor and council seats are crucial as they determine the administration of local municipal services.",
+      "timeline": [
+       {
+        "date": "2026-10-22",
+        "text": "Elections for 100 local bodies have been paused pending further review by the SEC and district authorities.",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-sec-stops-election-process-for-100-ulbsafter-supreme-court-order/article71608801.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-10-22",
+        "text": "The Supreme Court has intervened to ensure that candidates who were blocked from filing nominations are given a resolution path by the State Election Commission.",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/why-are-andhra-pradeshs-civic-poll-nominations-under-the-supreme-courts-scrutiny-explained/article71610915.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-01",
+        "text": "Polling is currently active in 92 local bodies, with some candidates winning seats unopposed.",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-urban-local-body-elections-polling-municipalities-corporation-results-november-1-2026-live-updates/article71651965.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-02",
+        "text": "Severe Cyclone Murasu is now making landfall, with winds reaching up to 120 kmph, impacting coastal districts.",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/severe-cyclone-murasu-landfall-on-november-3-2026/article71658293.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-03",
+        "text": "Cyclone Murasu has arrived in Andhra Pradesh, forcing officials to juggle disaster relief with the administrative requirements of local elections.",
+        "link": "https://www.thehindu.com/news/national/cyclone-murasu-landfall-live-updates-november-3-2026-rain-andhra-pradesh-telangana-odisha-weather/article71659195.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-04",
+        "text": "The TDP achieved significant victories in mayoral elections across Tirupati, Kadapa, and Nellore, marking a shift in local power dynamics.",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-wins-mayor-posts-in-tirupati-kadapa-and-nellore-by-big-margins/article71664555.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-10",
+        "text": "TDP local units in Rajam are formally requesting the party high command to field candidates for the municipal chairperson post after a 20-year hiatus.",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-keen-to-contest-for-rajam-municipal-chairpersons-post-as-elections-will-be-held-after-a-gap-of-two-decades/article71685092.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-20",
+        "text": "Three new Zilla Parishad chairpersons were selected without competition, signaling consolidation of support in those specific districts.",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/chairpersons-elected-unopposed-to-zilla-parishads-in-three-districts/article71725467.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-26",
+        "text": "Polling is currently underway for local municipal and village council seats.",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/urban-local-bodies-polls-andhra-pradesh-tdp-ysrcp-live-updates-november-26-2026/article71745216.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "1d9f39bcc18a",
+     "title": "KPSC recruitment scam in Karnataka: How question papers and answer keys reached candidates ahead of exams | Explained",
+     "link": "https://www.thehindu.com/news/national/karnataka/kpsc-recruitment-scam-in-karnataka-how-question-papers-and-answer-keys-reached-candidates-ahead-of-exams-explained/article71741790.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-26T09:37:25+00:00",
+     "summary": "The Enforcement Directorate has filed a complaint against former Karnataka Public Service Commission officials in a recruitment scandal. Allegations involve the leaking of question papers and answer keys.",
+     "explain": "The Enforcement Directorate (ED) is investigating the financial aspects of a scheme where candidates allegedly paid to gain early access to test materials. This corruption prevents qualified individuals from obtaining government positions. The 'PMLA' (Prevention of Money Laundering Act) is the law used by the ED to track and prosecute financial crimes linked to such fraud.",
+     "related": [],
+     "story": {
+      "id": "india-kpsc-recruitment-corruption-inquiry",
+      "title": "KPSC Recruitment Corruption Inquiry",
+      "so_far": "Public service commissions in India are responsible for conducting exams for state government jobs. These positions are highly sought after due to their stability. Recruitment scams involving leaked papers or manipulated results are serious issues that undermine the fairness of government hiring.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "The Enforcement Directorate has filed a complaint against former Karnataka Public Service Commission officials in a recruitment scandal. Allegations involve the leaking of question papers and answer keys.",
+        "link": "https://www.thehindu.com/news/national/karnataka/kpsc-recruitment-scam-in-karnataka-how-question-papers-and-answer-keys-reached-candidates-ahead-of-exams-explained/article71741790.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "3c44d74d228d",
+     "title": "78 MoUs signed at second edition of VETTRI Tamil Nadu Investment and Conversion Conclave",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/78-mous-signed-at-second-edition-of-vettri-tamil-nadu-investment-and-conversion-conclave/article71741815.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-26T09:36:29+00:00",
+     "summary": "Tamil Nadu signed 78 MoUs at an investment conclave, totaling ₹58,214 crore in expected investments. These projects are projected to create over 65,000 jobs.",
+     "explain": "By signing these agreements, Tamil Nadu hopes to increase industrial activity and reduce unemployment. Job creation is the primary incentive for governments to provide tax breaks or infrastructure support to corporations. The investment figures represent the total capital companies plan to spend on new facilities or expansion projects.",
+     "related": [],
+     "story": {
+      "id": "india-tamil-nadu-investment-initiatives",
+      "title": "Tamil Nadu Investment Initiatives",
+      "so_far": "State governments frequently host investment summits (conclaves) to attract businesses and manufacturing units to their region. An MoU, or Memorandum of Understanding, is a formal agreement between a state government and a company detailing the intent to invest, though it is often non-binding until specific contracts are signed.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "Tamil Nadu signed 78 MoUs at an investment conclave, totaling ₹58,214 crore in expected investments. These projects are projected to create over 65,000 jobs.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/78-mous-signed-at-second-edition-of-vettri-tamil-nadu-investment-and-conversion-conclave/article71741815.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
     }
    ]
   },
@@ -1083,123 +1304,222 @@
      "title": "North Korea expels Swiss diplomat in sanctions row",
      "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-25T19:19:06+00:00",
-     "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
-     "explain": null,
+     "published": "2026-11-25T21:51:17+00:00",
+     "summary": "North Korea has expelled a Swiss diplomat, citing a dispute over sanctions. Diplomatic communications will now be handled through alternative embassies in Bern and Beijing.",
+     "explain": "A diplomat being declared 'persona non grata' is a formal way for a country to tell a foreign representative they are no longer welcome, effectively forcing them to leave. North Korea claims these sanctions unfairly target their youth programs, while international observers are concerned about the alleged forced transfer of children from Ukraine, a practice that has triggered global sanctions against various Russian and North Korean entities.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "world-north-korea-expels-swiss-diplomat",
+      "title": "North Korea Expels Swiss Diplomat",
+      "so_far": "North Korea has recently become embroiled in a diplomatic conflict with Switzerland regarding the Songdowon International Children’s Camp. The tension escalated after Switzerland imposed sanctions on the facility over allegations that it was involved in the transfer of children from Russian-occupied regions of Ukraine. This has led to the expulsion of a Swiss diplomat, marking a sharp decline in bilateral relations.",
+      "timeline": [
+       {
+        "date": "2026-11-25",
+        "text": "North Korea has expelled a Swiss diplomat, citing a dispute over sanctions. Diplomatic communications will now be handled through alternative embassies in Bern and Beijing.",
+        "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-11-25",
+        "text": "Kim Yo Jong publicly addressed the sanctions, directly linking the expulsion to the diplomatic fallout over the Songdowon camp.",
+        "link": "https://www.thehindu.com/news/international/north-korea-declares-a-swiss-diplomat-persona-non-grata-and-orders-him-to-leave/article71741084.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-26",
+        "text": "The dispute has been specifically identified as originating from sanctions imposed on the Songdowon children's camp.",
+        "link": "https://www.aljazeera.com/news/2026/11/26/why-has-north-korea-expelled-a-swiss-diplomat-from-pyongyang?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
     },
     {
-     "id": "06666e0f536e",
-     "title": "Israeli strike kills Hamas official, his wife and children",
-     "link": "https://www.thehindu.com/news/international/israeli-strike-kills-hamas-official-his-wife-and-children/article71743893.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-11-25T17:59:46+00:00",
-     "summary": "The Israeli military confirmed it had killed Abuelouf, whom it described as a significant figure who \"served as ‌a key source of expertise in efforts to restrict the IDF’s counterterrorism operations in the ‌Gaza ⁠Strip\"",
-     "explain": null,
-     "related": [
-      {
-       "date": "2026-10-25",
-       "title": "Israeli air strike on Gaza City university kills three people",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
-       "source": "Al Jazeera – Breaking News, World News a"
-      },
-      {
-       "date": "2026-11-21",
-       "title": "Israeli strike kills three in vehicle distributing aid in Gaza, witnesses say",
-       "link": "https://www.thehindu.com/news/international/israeli-strike-kills-three-in-vehicle-distributing-aid-in-gaza-witnesses-say/article71729327.ece",
-       "source": "World News: Latest International News & "
-      },
-      {
-       "date": "2026-11-24",
-       "title": "Israeli airstrike kills senior Hamas security official in Gaza, Hamas sources say",
-       "link": "https://www.thehindu.com/news/international/hamas-security-official-killed-in-israel-strikes-in-gaza/article71738279.ece",
-       "source": "World News: Latest International News & "
-      },
-      {
-       "date": "2026-11-24",
-       "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-       "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-       "source": "BBC News"
-      },
-      {
-       "date": "2026-11-24",
-       "title": "Senior Hamas security official killed in Israeli drone strikes",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss",
-       "source": "Al Jazeera – Breaking News, World News a"
-      }
-     ],
-     "story": null
-    },
-    {
-     "id": "807ddf85c452",
-     "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
-     "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-25T15:42:50+00:00",
-     "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "1a0361adfb7d",
-     "title": "South Africa court repeals ‘farmgate’ impeachment threat against Ramaphosa",
-     "link": "https://www.aljazeera.com/news/2026/11/25/south-africa-court-repeals-farmgate-impeachment-threat-against-ramaphosa?traffic_source=rss",
+     "id": "a24b042bd1f0",
+     "title": "Why has North Korea expelled a Swiss diplomat from Pyongyang?",
+     "link": "https://www.aljazeera.com/news/2026/11/26/why-has-north-korea-expelled-a-swiss-diplomat-from-pyongyang?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-25T15:35:33+00:00",
-     "summary": "The ruling hands the president ​a political reprieve by removing a finding that had exposed him to possible impeachment.",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "a851cafa2644",
-     "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
-     "link": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-25T14:06:13+00:00",
-     "summary": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
-     "explain": null,
+     "published": "2026-11-26T08:54:49+00:00",
+     "summary": "The diplomatic rift between North Korea and Switzerland is centered on the Songdowon International Children’s Camp.",
+     "explain": "The Songdowon camp is a youth facility in North Korea that has come under international scrutiny. Sanctions are trade or financial penalties applied by one country or organization against another to influence their behavior; here, Switzerland is using them to signal disapproval of North Korea's alleged cooperation with Russia regarding Ukrainian territories.",
      "related": [
       {
-       "date": "2026-10-25",
-       "title": "Israeli air strike on Gaza City university kills three people",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
-       "source": "Al Jazeera – Breaking News, World News a"
-      },
-      {
-       "date": "2026-11-12",
-       "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-       "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC News"
-      },
-      {
-       "date": "2026-11-21",
-       "title": "Israeli strike kills three in vehicle distributing aid in Gaza, witnesses say",
-       "link": "https://www.thehindu.com/news/international/israeli-strike-kills-three-in-vehicle-distributing-aid-in-gaza-witnesses-say/article71729327.ece",
+       "date": "2026-11-25",
+       "title": "North Korea declares a Swiss diplomat persona non grata and orders him to leave",
+       "link": "https://www.thehindu.com/news/international/north-korea-declares-a-swiss-diplomat-persona-non-grata-and-orders-him-to-leave/article71741084.ece",
        "source": "World News: Latest International News & "
       },
       {
-       "date": "2026-11-24",
-       "title": "Israeli airstrike kills senior Hamas security official in Gaza, Hamas sources say",
-       "link": "https://www.thehindu.com/news/international/hamas-security-official-killed-in-israel-strikes-in-gaza/article71738279.ece",
-       "source": "World News: Latest International News & "
-      },
-      {
-       "date": "2026-11-24",
-       "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-       "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+       "date": "2026-11-25",
+       "title": "North Korea expels Swiss diplomat in sanctions row",
+       "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
        "source": "BBC News"
-      },
-      {
-       "date": "2026-11-24",
-       "title": "Senior Hamas security official killed in Israeli drone strikes",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss",
-       "source": "Al Jazeera – Breaking News, World News a"
       }
      ],
-     "story": null
+     "story": {
+      "id": "world-north-korea-expels-swiss-diplomat",
+      "title": "North Korea Expels Swiss Diplomat",
+      "so_far": "North Korea has recently become embroiled in a diplomatic conflict with Switzerland regarding the Songdowon International Children’s Camp. The tension escalated after Switzerland imposed sanctions on the facility over allegations that it was involved in the transfer of children from Russian-occupied regions of Ukraine. This has led to the expulsion of a Swiss diplomat, marking a sharp decline in bilateral relations.",
+      "timeline": [
+       {
+        "date": "2026-11-25",
+        "text": "North Korea has expelled a Swiss diplomat, citing a dispute over sanctions. Diplomatic communications will now be handled through alternative embassies in Bern and Beijing.",
+        "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-11-25",
+        "text": "Kim Yo Jong publicly addressed the sanctions, directly linking the expulsion to the diplomatic fallout over the Songdowon camp.",
+        "link": "https://www.thehindu.com/news/international/north-korea-declares-a-swiss-diplomat-persona-non-grata-and-orders-him-to-leave/article71741084.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-26",
+        "text": "The dispute has been specifically identified as originating from sanctions imposed on the Songdowon children's camp.",
+        "link": "https://www.aljazeera.com/news/2026/11/26/why-has-north-korea-expelled-a-swiss-diplomat-from-pyongyang?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "29da9615d62b",
+     "title": "Fuel tanker crash ignites massive fire on highway surrounding Cairo, killing at least 31 people",
+     "link": "https://www.thehindu.com/news/international/fuel-tanker-crash-ignites-massive-fire-on-highway-surrounding-cairo/article71744262.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-11-26T06:26:42+00:00",
+     "summary": "A fuel tanker crash on Cairo's Ring Road caused a massive fire, killing at least 31 people and injuring 25.",
+     "explain": "This is a tragic traffic accident where a vehicle carrying flammable fuel overturned, leading to a large-scale fire that impacted nearby cars and motorcycles. In a city like Cairo, traffic safety and road maintenance are ongoing challenges, and such incidents underscore the risks posed to commuters when hazardous materials are transported through heavily congested urban areas.",
+     "related": [],
+     "story": {
+      "id": "world-cairo-fuel-tanker-fire",
+      "title": "Cairo Fuel Tanker Fire",
+      "so_far": "Cairo, the densely populated capital of Egypt, relies on a vast network of highways like the Ring Road to facilitate travel and commerce. Infrastructure accidents, such as vehicle fires, are significant hazards in the city due to high traffic volume and the frequent transport of fuel and industrial goods.",
+      "timeline": [
+       {
+        "date": "2026-11-25",
+        "text": "The death toll is confirmed at 31, with 21 injured after the tanker overturned.",
+        "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-11-26",
+        "text": "A fuel tanker crash on Cairo's Ring Road caused a massive fire, killing at least 31 people and injuring 25.",
+        "link": "https://www.thehindu.com/news/international/fuel-tanker-crash-ignites-massive-fire-on-highway-surrounding-cairo/article71744262.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "78ef9046099f",
+     "title": "Duran Duran guitarist Andy Taylor dies aged 65",
+     "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-26T05:19:35+00:00",
+     "summary": "Andy Taylor, guitarist for the band Duran Duran, has passed away at the age of 65 following a battle with prostate cancer.",
+     "explain": "Andy Taylor was a significant figure in pop music history as the lead guitarist for Duran Duran. His death marks a major loss for the music industry, highlighting the long-term impact of health struggles like prostate cancer on even high-profile individuals.",
+     "related": [],
+     "story": {
+      "id": "world-duran-duran-guitarist-andy-taylor",
+      "title": "Duran Duran Guitarist Andy Taylor",
+      "so_far": "Andy Taylor was a founding member of the iconic 1980s British new wave band Duran Duran. The group achieved global fame with hits like 'Rio' and 'Hungry Like the Wolf,' defining much of the musical landscape of that era.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "Andy Taylor, guitarist for the band Duran Duran, has passed away at the age of 65 following a battle with prostate cancer.",
+        "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "c011f2d16b05",
+     "title": "Macy's postpones Thanksgiving parade due to severe weather",
+     "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-26T04:04:14+00:00",
+     "summary": "For the first time in its 100-year history, the Macy's Thanksgiving Day Parade has been postponed due to severe weather forecasts.",
+     "explain": "Severe weather, including high winds and heavy rain, has forced city officials to delay the parade to ensure public safety. High winds are particularly dangerous for the parade's signature giant balloons, which require careful handling even in mild conditions.",
+     "related": [],
+     "story": {
+      "id": "world-macy-s-parade-postponed",
+      "title": "Macy's Parade Postponed",
+      "so_far": "The Macy's Thanksgiving Day Parade is a massive annual tradition in New York City, featuring giant balloons and large crowds. It has run consistently for a century, typically serving as a major symbol of the holiday season in the United States.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "For the first time in its 100-year history, the Macy's Thanksgiving Day Parade has been postponed due to severe weather forecasts.",
+        "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-11-26",
+        "text": "Authorities confirmed this is the first time in the parade's history that weather has caused a postponement.",
+        "link": "https://www.thehindu.com/news/international/bad-weather-postpones-macys-100th-thanksgiving-day-parade-for-first-time-ever/article71745030.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "9685099dfe0e",
+     "title": "Bad weather postpones Macy’s 100th Thanksgiving Day Parade for first time ever",
+     "link": "https://www.thehindu.com/news/international/bad-weather-postpones-macys-100th-thanksgiving-day-parade-for-first-time-ever/article71745030.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-11-26T01:34:38+00:00",
+     "summary": "New York City has postponed the 100th anniversary of the Macy's Thanksgiving Day Parade due to extreme weather warnings.",
+     "explain": "The postponement reflects the severity of the expected storm, which includes winds that would likely cause the massive balloons to become unmanageable and pose a risk to spectators and participants alike.",
+     "related": [],
+     "story": {
+      "id": "world-macy-s-parade-postponed",
+      "title": "Macy's Parade Postponed",
+      "so_far": "The Macy's Thanksgiving Day Parade is a massive annual tradition in New York City, featuring giant balloons and large crowds. It has run consistently for a century, typically serving as a major symbol of the holiday season in the United States.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "For the first time in its 100-year history, the Macy's Thanksgiving Day Parade has been postponed due to severe weather forecasts.",
+        "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-11-26",
+        "text": "Authorities confirmed this is the first time in the parade's history that weather has caused a postponement.",
+        "link": "https://www.thehindu.com/news/international/bad-weather-postpones-macys-100th-thanksgiving-day-parade-for-first-time-ever/article71745030.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "5c096ce5b72b",
+     "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+     "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-25T22:18:06+00:00",
+     "summary": "A fatal fuel tanker crash on a busy Cairo ring road resulted in 31 deaths and 21 injuries.",
+     "explain": "This update confirms the scale of the Cairo tragedy. Traffic accidents involving fuel tankers are particularly lethal due to the rapid spread of fire and the dense concentration of other vehicles on main transport arteries.",
+     "related": [],
+     "story": {
+      "id": "world-cairo-fuel-tanker-fire",
+      "title": "Cairo Fuel Tanker Fire",
+      "so_far": "Cairo, the densely populated capital of Egypt, relies on a vast network of highways like the Ring Road to facilitate travel and commerce. Infrastructure accidents, such as vehicle fires, are significant hazards in the city due to high traffic volume and the frequent transport of fuel and industrial goods.",
+      "timeline": [
+       {
+        "date": "2026-11-25",
+        "text": "The death toll is confirmed at 31, with 21 injured after the tanker overturned.",
+        "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-11-26",
+        "text": "A fuel tanker crash on Cairo's Ring Road caused a massive fire, killing at least 31 people and injuring 25.",
+        "link": "https://www.thehindu.com/news/international/fuel-tanker-crash-ignites-massive-fire-on-highway-surrounding-cairo/article71744262.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
     },
     {
      "id": "be3f52a79f7e",
@@ -1207,99 +1527,80 @@
      "link": "https://www.thehindu.com/news/international/north-korea-declares-a-swiss-diplomat-persona-non-grata-and-orders-him-to-leave/article71741084.ece",
      "source": "World News: Latest International News & ",
      "published": "2026-11-25T05:43:02+00:00",
-     "summary": "Kim Yo Jong, the powerful sister of North Korean leader Kim Jong Un,c ondemned Switzerland for imposing sanctions on a youth camp in eastern North Korea over its alleged role in the transfer of children from Russia-occup",
-     "explain": null,
+     "summary": "Kim Yo Jong condemned Switzerland for its sanctions against a North Korean youth camp, leading to the diplomat's expulsion.",
+     "explain": "Kim Yo Jong is a key figure in North Korea and the sister of the leader Kim Jong Un, often acting as a spokesperson for the regime's hardline foreign policy. Her involvement signals that the government views the sanctions on the youth camp as a significant challenge to their authority.",
      "related": [],
-     "story": null
-    },
-    {
-     "id": "f1c3294406c4",
-     "title": "Thomas Markle charged in U.S. on second count of possessing child sexual abuse material",
-     "link": "https://www.thehindu.com/news/international/thomas-markle-charged-in-us-on-second-count-of-possessing-child-sexual-abuse-material/article71740964.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-11-25T03:03:03+00:00",
-     "summary": "Thomas Markle, 82, faces an additional federal charge in Los Angeles regarding the possession of child sexual abuse material.",
-     "explain": "Federal charges for possession of child sexual abuse material involve evidence gathered by international law enforcement agencies. Legal indictments are formal accusations that lead to a trial where the evidence must be proven beyond a reasonable doubt.",
-     "related": [
-      {
-       "date": "2026-11-06",
-       "title": "FBI arrests Thomas Markle, father of Meghan, over child sexual abuse material",
-       "link": "https://www.thehindu.com/news/international/meghan-markle-father-thomas-arrested-fbi/article71675624.ece",
-       "source": "World News: Latest International News & "
-      }
-     ],
      "story": {
-      "id": "world-thomas-markle-legal-case",
-      "title": "Thomas Markle Legal Case",
-      "so_far": "This is a high-profile legal matter involving international cooperation between the U.S. and the Philippines to investigate the distribution and possession of illegal sexual material.",
+      "id": "world-north-korea-expels-swiss-diplomat",
+      "title": "North Korea Expels Swiss Diplomat",
+      "so_far": "North Korea has recently become embroiled in a diplomatic conflict with Switzerland regarding the Songdowon International Children’s Camp. The tension escalated after Switzerland imposed sanctions on the facility over allegations that it was involved in the transfer of children from Russian-occupied regions of Ukraine. This has led to the expulsion of a Swiss diplomat, marking a sharp decline in bilateral relations.",
       "timeline": [
        {
         "date": "2026-11-25",
-        "text": "A new indictment has doubled the number of federal charges against the defendant in a case originating from a Philippines-based investigation.",
-        "link": "https://www.thehindu.com/news/international/thomas-markle-charged-in-us-on-second-count-of-possessing-child-sexual-abuse-material/article71740964.ece",
+        "text": "North Korea has expelled a Swiss diplomat, citing a dispute over sanctions. Diplomatic communications will now be handled through alternative embassies in Bern and Beijing.",
+        "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+       },
+       {
+        "date": "2026-11-25",
+        "text": "Kim Yo Jong publicly addressed the sanctions, directly linking the expulsion to the diplomatic fallout over the Songdowon camp.",
+        "link": "https://www.thehindu.com/news/international/north-korea-declares-a-swiss-diplomat-persona-non-grata-and-orders-him-to-leave/article71741084.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-26",
+        "text": "The dispute has been specifically identified as originating from sanctions imposed on the Songdowon children's camp.",
+        "link": "https://www.aljazeera.com/news/2026/11/26/why-has-north-korea-expelled-a-swiss-diplomat-from-pyongyang?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "6c3b8226fbf7",
+     "title": "Massive fire at Bangkok oil refinery leaves several injured, Bangchak Corp shuts all units",
+     "link": "https://www.thehindu.com/news/international/bangkok-oil-refinery-fire-blast-bangchak-injured-casualties-nov-26-2026/article71745999.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-11-26T09:46:28+00:00",
+     "summary": "A major fire broke out at an oil refinery in Bangkok, causing injuries and leading the operator, Bangchak Corp, to shut down all units.",
+     "explain": "The fire at the refinery has resulted in significant damage, forcing the facility to suspend operations. The presence of black smoke and high flames indicates a significant industrial accident that has the potential to impact both the local environment and energy supply chains.",
+     "related": [],
+     "story": {
+      "id": "world-bangkok-oil-refinery-fire",
+      "title": "Bangkok Oil Refinery Fire",
+      "so_far": "Oil refineries are critical industrial facilities that process crude oil into gasoline and other products. They are high-risk sites that require stringent safety protocols due to the presence of large quantities of flammable materials.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "A major fire broke out at an oil refinery in Bangkok, causing injuries and leading the operator, Bangchak Corp, to shut down all units.",
+        "link": "https://www.thehindu.com/news/international/bangkok-oil-refinery-fire-blast-bangchak-injured-casualties-nov-26-2026/article71745999.ece",
         "source": "World News: Latest International News & "
        }
       ]
      }
     },
     {
-     "id": "8ad2f2a3a54a",
-     "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-     "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-25T19:54:52+00:00",
-     "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
-     "explain": null,
-     "related": [
-      {
-       "date": "2026-11-24",
-       "title": "US army says detonation of lead explosives in Iowa will proceed",
-       "link": "https://www.aljazeera.com/news/2026/11/24/us-army-says-detonation-of-lead-explosives-in-iowa-will-proceed?traffic_source=rss",
-       "source": "Al Jazeera – Breaking News, World News a"
-      }
-     ],
-     "story": null
-    },
-    {
-     "id": "52f1405a3b94",
-     "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
-     "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-25T19:47:39+00:00",
-     "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "035bca8c01ae",
-     "title": "US Army declares Iowa lead azide detonation ‘tremendously successful’",
-     "link": "https://www.aljazeera.com/news/2026/11/25/us-army-declares-iowa-lead-azide-detonation-tremendously-successful?traffic_source=rss",
+     "id": "e414faee5133",
+     "title": "Iqbal in space: Urdu poet’s verses unite India, Pakistan beyond Earth",
+     "link": "https://www.aljazeera.com/news/2026/11/26/iqbal-in-space-urdu-poets-verses-unite-india-pakistan-beyond-earth?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-25T19:41:49+00:00",
-     "summary": "Army hails Iowa&#039;s lead azide disposal operation as some experts warn of potentially hidden toxins.",
-     "explain": null,
-     "related": [
-      {
-       "date": "2026-11-24",
-       "title": "Trump orders U.S. Army to pause detonation of lead explosives in Iowa",
-       "link": "https://www.thehindu.com/news/international/trump-orders-us-army-to-pause-detonation-of-lead-explosives-in-iowa/article71737035.ece",
-       "source": "World News: Latest International News & "
-      },
-      {
-       "date": "2026-11-24",
-       "title": "US army says detonation of lead explosives in Iowa will proceed",
-       "link": "https://www.aljazeera.com/news/2026/11/24/us-army-says-detonation-of-lead-explosives-in-iowa-will-proceed?traffic_source=rss",
-       "source": "Al Jazeera – Breaking News, World News a"
-      },
-      {
-       "date": "2026-11-24",
-       "title": "US Army to detonate more than 4 tonnes of lead azide in Iowa on Wednesday",
-       "link": "https://www.aljazeera.com/news/2026/11/24/us-army-to-detonate-more-than-4-tonnes-of-lead-azide-in-iowa-on-wednesday?traffic_source=rss",
-       "source": "Al Jazeera – Breaking News, World News a"
-      }
-     ],
-     "story": null
+     "published": "2026-11-26T09:40:59+00:00",
+     "summary": "During a mission on China's space station, a Pakistani astronaut recited poetry by Allama Iqbal, symbolizing cultural ties between India and Pakistan in space.",
+     "explain": "The recitation of Iqbal's verses by a Pakistani astronaut on a Chinese space station highlights how cultural identity and historical figures can transcend political conflicts. This symbolic act showcases a moment of international cooperation and cultural pride in the context of space exploration.",
+     "related": [],
+     "story": {
+      "id": "world-poetry-in-space",
+      "title": "Poetry in Space",
+      "so_far": "Allama Iqbal was a philosopher and poet whose work is highly regarded in both India and Pakistan. His legacy often serves as a point of shared cultural heritage, even as the two nations maintain a historically contentious relationship.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "During a mission on China's space station, a Pakistani astronaut recited poetry by Allama Iqbal, symbolizing cultural ties between India and Pakistan in space.",
+        "link": "https://www.aljazeera.com/news/2026/11/26/iqbal-in-space-urdu-poets-verses-unite-india-pakistan-beyond-earth?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
     }
    ]
   },
@@ -1307,132 +1608,301 @@
    "label": "Business & Finance",
    "articles": [
     {
-     "id": "0983a2e3f1c5",
-     "title": "Flipkart CEO Kalyan Krishnamurthy to exit Flipkart after a decade",
-     "link": "https://www.thehindubusinessline.com/companies/flipkart-ceo-kalyan-krishnamurthy-to-exit-flipkart-after-a-decade/article71741638.ece",
+     "id": "65dd4b108f82",
+     "title": "Apple to open first store in Hyderabad on Dec 10",
+     "link": "https://www.thehindubusinessline.com/info-tech/apple-to-open-first-store-in-hyderabad-on-dec-10/article71745510.ece",
      "source": "Business News Today: Latest Business New",
-     "published": "2026-11-25T17:23:47+00:00",
-     "summary": "Krishnamurthy was appointed as the Group CEO after the founders’ Sachin Bansal and Binny Bansal exit following its sale to Walmart",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "c31bb73909d7",
-     "title": "Bharti Airtel to invest ₹1,200 crore in three data centres in Assam",
-     "link": "https://www.thehindubusinessline.com/info-tech/bharti-airtel-to-invest-1200-crore-in-three-data-centres-in-assam/article71743545.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-25T15:50:52+00:00",
-     "summary": "The investment includes a ₹700-crore facility in Guwahati and projects in Jorhat and Silchar, with phased capacity plans already outlined",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "366dd62ebee0",
-     "title": "Air India CEO outlines group integration, ₹6,000-crore savings plan",
-     "link": "https://www.thehindubusinessline.com/economy/logistics/air-india-ceo-outlines-group-integration-6000-crore-savings-plan/article71743022.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-25T14:59:41+00:00",
-     "summary": "Common corporate functions, network realignment and new businesses form part of Gebremariam’s profitability push",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "6869a8eb4d66",
-     "title": "Air India CEO Tewolde targets ₹6,000 crore in savings under ‘one group’ push",
-     "link": "https://www.livemint.com/companies/news/air-india-ceo-tewolde-targets-6-000-crore-in-savings-under-one-group-push-11795615847512.html",
-     "source": "mint - companies",
-     "published": "2026-11-25T14:56:44+00:00",
-     "summary": "The restructuring brings Air India and Air India Express closer through shared back-end functions while keeping their flying permits separate.",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "811411a2c352",
-     "title": "Who is Kalyan Krishnamurthy? Meet Flipkart CEO stepping down after nearly a decade at the helm; what’s next for him?",
-     "link": "https://www.livemint.com/companies/people/who-is-kalyan-krishnamurthy-meet-flipkart-ceo-stepping-down-after-nearly-a-decade-at-the-helm-what-s-next-for-him-11795596463140.html",
-     "source": "mint - companies",
-     "published": "2026-11-25T09:10:35+00:00",
-     "summary": "Kalyan Krishnamurthy is stepping down as Flipkart CEO after 11 years, with his future plans currently unconfirmed.",
-     "explain": "Leadership turnover in major tech firms often reflects shifts in strategic focus. Krishnamurthy was a key figure during Flipkart's acquisition by Walmart and its subsequent efforts to expand into new delivery sectors. His departure marks the end of a significant era for the firm.",
+     "published": "2026-11-26T06:52:42+00:00",
+     "summary": "Apple is set to open its seventh retail store in India, located at Lake Shore-Y Junction Mall in Hyderabad, on December 10.",
+     "explain": "Apple is opening a new, branded store in Hyderabad to sell its products directly to customers. This matters because it shows Apple's commitment to the Indian market, where it previously relied mostly on third-party retailers. A 'retail outlet' is a physical shop where consumers can purchase goods and receive support directly from the manufacturer.",
      "related": [],
      "story": {
-      "id": "business-flipkart-leadership-transition",
-      "title": "Flipkart Leadership Transition",
-      "so_far": "Flipkart, a major player in the Indian e-commerce market, has been working toward an initial public offering (IPO) while simultaneously diversifying into quick commerce and food delivery services. The company has faced ongoing pressure to manage growth and profitability as it expands its logistics network.",
+      "id": "business-apple-retail-expansion-in-india",
+      "title": "Apple Retail Expansion in India",
+      "so_far": "Apple has been steadily expanding its physical footprint in India to tap into the growing premium smartphone market. By opening dedicated retail stores, the company aims to offer a direct customer experience and better control over its brand presence in a key global growth market.",
       "timeline": [
        {
-        "date": "2026-11-25",
-        "text": "Kalyan Krishnamurthy has resigned as Flipkart CEO, leaving the company under the interim leadership of Balaji Thiagarajan.",
-        "link": "https://www.livemint.com/companies/news/kalyan-krishnamurthy-flipkart-ipo-walmart-11795596685318.html",
-        "source": "mint - companies"
-       },
-       {
-        "date": "2026-11-25",
-        "text": "The company has confirmed Krishnamurthy's departure, though no specific reason or next step for the executive has been announced.",
-        "link": "https://www.livemint.com/companies/people/who-is-kalyan-krishnamurthy-meet-flipkart-ceo-stepping-down-after-nearly-a-decade-at-the-helm-what-s-next-for-him-11795596463140.html",
-        "source": "mint - companies"
+        "date": "2026-11-26",
+        "text": "Apple announced the opening of a new retail location in Hyderabad scheduled for December 10, 2026.",
+        "link": "https://www.thehindubusinessline.com/info-tech/apple-to-open-first-store-in-hyderabad-on-dec-10/article71745510.ece",
+        "source": "Business News Today: Latest Business New"
        }
       ]
      }
     },
     {
-     "id": "aa189149475d",
-     "title": "BNP Paribas moves up global systemic bank list, capital buffer rises",
-     "link": "https://www.livemint.com/companies/bnp-paribas-moves-up-global-systemic-bank-list-capital-buffer-rises-11795635991423.html",
-     "source": "mint - companies",
-     "published": "2026-11-25T19:46:30+00:00",
-     "summary": "BNP PARIBAS-CAPITAL/:BNP Paribas moves up global systemic bank list, capital buffer rises",
-     "explain": null,
+     "id": "65009f8cb78d",
+     "title": "India draws $31 billion in climate equity funding, but power and transport dominate",
+     "link": "https://www.thehindubusinessline.com/economy/india-draws-31-billion-in-climate-equity-funding-but-power-and-transport-dominate/article71745942.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-26T09:51:23+00:00",
+     "summary": "India secured $31 billion in climate equity funding in 2026, though the bulk of investment remains concentrated in power and transport sectors.",
+     "explain": "Climate equity funding refers to investments in companies working on solutions to climate change, such as clean energy or emissions reduction. The fact that deals are getting larger but fewer means investors are concentrating their money in established, big-ticket projects rather than small, experimental firms. This consolidation helps scale proven technologies faster.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "business-climate-funding-trends-in-india",
+      "title": "Climate Funding Trends in India",
+      "so_far": "As India aims for ambitious net-zero goals, there is an urgent need for capital to transition the economy toward sustainable practices. Investors have been pouring money into renewables, electric vehicles, and green infrastructure, but access to capital for smaller startups remains challenging.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "A report indicates that while total climate funding has reached $31 billion, the number of individual funding rounds has decreased, suggesting a move toward fewer, larger deals.",
+        "link": "https://www.thehindubusinessline.com/economy/india-draws-31-billion-in-climate-equity-funding-but-power-and-transport-dominate/article71745942.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
     },
     {
-     "id": "1f5711dde9a9",
-     "title": "Labour Codes: 74% of firms brace for higher employment costs",
-     "link": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/labour-codes-74-of-firms-brace-for-higher-employment-costs-gratuity-and-pf-to-drive-increase/articleshow/136171581.cms",
-     "source": "Economic Times",
-     "published": "2026-11-25T19:04:58+00:00",
-     "summary": "",
-     "explain": null,
+     "id": "fa9a27d4cab4",
+     "title": "Indian banks to sustain 15% loan growth in FY28, says Fitch Ratings",
+     "link": "https://www.thehindubusinessline.com/money-and-banking/indian-banks-to-sustain-15-loan-growth-in-fy28-says-fitch-ratings/article71745550.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-26T09:49:21+00:00",
+     "summary": "Fitch Ratings projects Indian banks will maintain 15% loan growth through fiscal year 2028, supported by economic expansion despite rising asset-quality concerns.",
+     "explain": "Loan growth measures how much more money banks are lending out compared to previous periods. A 15% growth rate is considered healthy, as it shows that companies and consumers are confident enough to borrow for expansion and spending. 'Asset-quality' refers to the health of a bank's loans; if a borrower misses payments, the 'quality' of that asset (the loan) goes down.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "business-indian-banking-sector-outlook",
+      "title": "Indian Banking Sector Outlook",
+      "so_far": "India’s banking sector has undergone significant reforms and balance sheet cleanups in recent years. As the economy grows, demand for credit from both businesses and individuals remains high, which is a key indicator of economic health and corporate investment activity.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "Fitch Ratings issued a forecast predicting sustained 15% loan growth for Indian banks into FY28, citing economic strength as a key driver.",
+        "link": "https://www.thehindubusinessline.com/money-and-banking/indian-banks-to-sustain-15-loan-growth-in-fy28-says-fitch-ratings/article71745550.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
     },
     {
-     "id": "f8e7c6607500",
-     "title": "GAIL plans data centre foray with facility in Faridabad",
-     "link": "https://economictimes.indiatimes.com/industry/energy/oil-gas/gail-plans-data-centre-foray-with-5-mw-facility-in-faridabad-eyes-expansion-across-four-states/articleshow/136171473.cms",
-     "source": "Economic Times",
-     "published": "2026-11-25T18:57:13+00:00",
-     "summary": "",
-     "explain": null,
+     "id": "1617789155f1",
+     "title": "Hindustan Foods to invest ₹100 crore in new Tamil Nadu home care plant",
+     "link": "https://www.thehindubusinessline.com/companies/hindustan-foods-to-invest-100-crore-in-new-tamil-nadu-home-care-plant/article71745954.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-26T09:48:38+00:00",
+     "summary": "Hindustan Foods announced a ₹100 crore investment to establish a new home care manufacturing plant in Tamil Nadu.",
+     "explain": "Contract manufacturing is when a company hires another business to produce their goods for them. This allows brands to focus on marketing and sales while a partner like Hindustan Foods handles the logistics of building and operating factories. This investment indicates growth in the demand for consumer goods.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "business-hindustan-foods-manufacturing-expansion",
+      "title": "Hindustan Foods Manufacturing Expansion",
+      "so_far": "Hindustan Foods acts as a contract manufacturer for major consumer brands. By setting up new plants, these companies can increase production capacity to meet rising consumer demand for household products in India.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "The company has formally committed ₹100 crore to build a new home care production facility in Tamil Nadu.",
+        "link": "https://www.thehindubusinessline.com/companies/hindustan-foods-to-invest-100-crore-in-new-tamil-nadu-home-care-plant/article71745954.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
     },
     {
-     "id": "209c3287cac8",
-     "title": "SpaceX Receives Government Approval to Launch Space Data Centers",
-     "link": "https://www.livemint.com/companies/spacex-receives-government-approval-to-launch-space-data-centers-11795632238029.html",
-     "source": "mint - companies",
-     "published": "2026-11-25T18:43:57+00:00",
-     "summary": "The US Federal Communications Commission approved SpaceX’s request to launch as many as 1 million satellites for Elon Musk’s vision to build a network of data centers in orbit for complex artificial intelligence computin",
-     "explain": null,
-     "related": [],
-     "story": null
+     "id": "3d1c5f048487",
+     "title": "Sensex today | Stock Market Live: Nifty at 26-week high, Sensex in volatile trade; HDFC Bank, IT stocks lead, FMCG lags",
+     "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-26-november-2026/article71742218.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-26T09:48:16+00:00",
+     "summary": "The Sensex and Nifty indices experienced volatile trading, with the Nifty reaching a 26-week high before settling.",
+     "explain": "The Sensex and Nifty are indexes that track the performance of India's largest, most actively traded companies. When they go up, it generally means investors are feeling optimistic about the economy. 'Volatility' refers to how rapidly and significantly stock prices change, often reacting to news or shifts in investor sentiment.",
+     "related": [
+      {
+       "date": "2026-11-16",
+       "title": "Sensex today | Stock Market Live Updates: Nifty, Sensex eye fresh gains amid global weakness",
+       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-16th-november-2026/article71705118.ece",
+       "source": "Business News Today: Latest Business New"
+      },
+      {
+       "date": "2026-11-17",
+       "title": "Sensex today | Stock Market Live Updates: Stock to buy today: CAMS",
+       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-17th-november-2026/article71708442.ece",
+       "source": "Business News Today: Latest Business New"
+      },
+      {
+       "date": "2026-11-18",
+       "title": "Sensex today | Stock Market Live Updates: Stock to buy today: Cemindia Projects (₹1,353) – BUY",
+       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-18-november-2026/article71711870.ece",
+       "source": "Business News Today: Latest Business New"
+      },
+      {
+       "date": "2026-11-19",
+       "title": "Sensex today | Stock Market Live: Stock to buy today: Sagility (₹45) – BUY",
+       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-19th-november-2026/article71717151.ece",
+       "source": "Business News Today: Latest Business New"
+      },
+      {
+       "date": "2026-11-20",
+       "title": "Sensex today | Stock Market Live: Sensex jumps 700 pts, Nifty touches fresh 10-month high at 25,730",
+       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-20th-november-2026/article71720685.ece",
+       "source": "Business News Today: Latest Business New"
+      },
+      {
+       "date": "2026-11-23",
+       "title": "Sensex today | Stock Market Live: Sensex down over 1,250 pts, Nifty around 25,400 as global sell-off weighs on markets",
+       "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-23-november-2026/article71733179.ece",
+       "source": "Business News Today: Latest Business New"
+      }
+     ],
+     "story": {
+      "id": "business-indian-stock-market-volatility",
+      "title": "Indian Stock Market Volatility",
+      "so_far": "Stock market performance in India is often driven by corporate earnings, interest rate expectations, and global economic signals. Investors closely track indices like the Sensex and Nifty to gauge the overall confidence of the market.",
+      "timeline": [
+       {
+        "date": "2026-10-23",
+        "text": "The stock market extended losses as global crude oil prices surged to $114 per barrel.",
+        "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-23rd-october-2026/article71611889.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-10-28",
+        "text": "Benchmark indices declined on October 28, 2026, due to sector-specific pressure and global macroeconomic uncertainty.",
+        "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-28-october-2026/article71631075.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-06",
+        "text": "Market indicators like the Gift Nifty are signaling a negative start for the trading session.",
+        "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-6-november-2026/article71669668.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-06",
+        "text": "Infosys shares traded in the US showed resilience despite the wider sell-off in the Nasdaq.",
+        "link": "https://www.thehindubusinessline.com/markets/nifty-may-lose-around-170-points-at-open-after-sharp-rally/article71672643.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-06",
+        "text": "A list of specific companies has been identified as being in focus for market participants during today's session.",
+        "link": "https://www.thehindubusinessline.com/markets/stocks-to-watch-nov-6-adani-ports-rajesh-power-hexaware-tech-blue-cloud-hcc-stl-networks-knowledge-marine-ashoka-buildcon-lokesh-machines-anondita/article71672628.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-26",
+        "text": "On November 26, 2026, the Sensex and Nifty showed gains, though the Nifty stopped just shy of the 26,000-point mark amid daily fluctuations.",
+        "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-26-november-2026/article71742218.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
     },
     {
-     "id": "35ea664f627a",
-     "title": "ET Bengal Ascends: From luchi to boardroom deals",
-     "link": "https://economictimes.indiatimes.com/news/india/et-bengal-ascends-from-luchi-to-boardroom-deals-kolkata-serves-up-a-feast-of-ambition/articleshow/136170984.cms",
-     "source": "Economic Times",
-     "published": "2026-11-25T18:31:12+00:00",
-     "summary": "",
-     "explain": null,
+     "id": "2de1dddfbcb9",
+     "title": "Cracks in AI stocks weaken Wall Street’s once-reliable carry trade",
+     "link": "https://www.thehindubusinessline.com/markets/cracks-in-ai-stocks-weaken-wall-streets-once-reliable-carry-trade/article71745337.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-26T09:46:34+00:00",
+     "summary": "Global investors are reassessing 'carry trade' strategies as volatility in AI stocks and geopolitical instability impact currency markets.",
+     "explain": "A 'carry trade' is a strategy where an investor borrows money in a currency with a low interest rate and uses it to invest in assets in a currency with a higher interest rate. It works well when markets are calm, but when 'volatility'—or unpredictable price swings—rises, this strategy becomes risky, causing investors to pull back.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "business-global-market-carry-trade-reassessment",
+      "title": "Global Market Carry Trade Reassessment",
+      "so_far": "Investors frequently seek opportunities across borders, moving capital based on where they expect the highest returns. High-tech sectors, particularly AI, have been primary drivers of global capital flow recently, but shifting economic conditions are forcing a change in these tactics.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "Increasing market instability is prompting global money managers to move away from carry trade strategies that were previously considered reliable.",
+        "link": "https://www.thehindubusinessline.com/markets/cracks-in-ai-stocks-weaken-wall-streets-once-reliable-carry-trade/article71745337.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "36fec19603c4",
+     "title": "India’s protein startup funding hits $46 million in 2026, but deal count falls sharply",
+     "link": "https://www.thehindubusinessline.com/economy/indias-protein-startup-funding-hits-46-million-in-2026-but-deal-count-falls-sharply/article71745847.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-26T09:39:03+00:00",
+     "summary": "Funding for Indian protein-focused startups reached $46 million in 2026, characterized by fewer, more concentrated investments.",
+     "explain": "This trend highlights that investors are becoming more cautious. Instead of spreading small amounts of money across many startups, they are placing larger bets on the companies they believe have the best chance of long-term success. The focus on 'protein' reflects shifting health and dietary preferences among Indian consumers.",
+     "related": [],
+     "story": {
+      "id": "business-protein-startup-investment-trends",
+      "title": "Protein Startup Investment Trends",
+      "so_far": "The Indian food-tech market is expanding to cater to a growing demographic interested in plant-based proteins and alternative nutrition. Early-stage startups in this space have been working to capture market share, though investors are becoming more selective.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "Data shows that while total investment hit $46 million, the number of deals has dropped, indicating capital is flowing into fewer, larger companies.",
+        "link": "https://www.thehindubusinessline.com/economy/indias-protein-startup-funding-hits-46-million-in-2026-but-deal-count-falls-sharply/article71745847.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "61e8889be788",
+     "title": "Nifty IT jumps over 2% as HCLTech, Wipro, Infosys lead IT rally",
+     "link": "https://www.thehindubusinessline.com/markets/nifty-it-jumps-over-2-as-hcltech-wipro-infosys-lead-it-rally/article71745930.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-26T09:31:52+00:00",
+     "summary": "Nifty IT index gained over 2%, driven by strong performances from major companies like HCLTech, Wipro, and Infosys.",
+     "explain": "The 'Nifty IT' is a specialized subset of the Nifty index that only tracks software and technology services companies. When this sector 'rallies,' it means investors believe these firms will be profitable, often due to new contracts or optimistic economic outlooks for the businesses that hire them.",
+     "related": [],
+     "story": {
+      "id": "business-indian-it-sector-rally",
+      "title": "Indian IT Sector Rally",
+      "so_far": "The IT sector is a pillar of the Indian economy, providing services to global corporations. Performance is typically sensitive to spending habits of international clients, particularly in the US and Europe.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "Major Indian IT stocks saw significant growth on November 26, 2026, leading to a broader rally in the Nifty IT sector.",
+        "link": "https://www.thehindubusinessline.com/markets/nifty-it-jumps-over-2-as-hcltech-wipro-infosys-lead-it-rally/article71745930.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "8558a1adbff2",
+     "title": "JioStar takes Indian entertainment, films and news to US viewers through Fubo",
+     "link": "https://www.thehindubusinessline.com/info-tech/jiostar-takes-indian-entertainment-films-and-news-to-us-viewers-through-fubo/article71745885.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-26T09:24:01+00:00",
+     "summary": "JioStar has launched seven Indian entertainment and news channels on the US-based streaming platform Fubo.",
+     "explain": "JioStar is a media entity under the Jio umbrella that distributes TV content. Fubo is an American streaming service that provides live TV over the internet. This expansion helps Jio reach Indian expatriates living in the US who want to watch channels from home, increasing Jio's global revenue and influence.",
+     "related": [],
+     "story": {
+      "id": "business-jiostar-us-market-expansion",
+      "title": "JioStar US Market Expansion",
+      "so_far": "Jio Platforms has been aggressively expanding its content library and distribution reach. By partnering with international platforms like Fubo, the company is looking to capture the Indian diaspora and global audiences interested in Indian media.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "JioStar channels, including Star Plus and News18, became available to US viewers via Fubo starting November 16, 2026.",
+        "link": "https://www.thehindubusinessline.com/info-tech/jiostar-takes-indian-entertainment-films-and-news-to-us-viewers-through-fubo/article71745885.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "2188de48d53c",
+     "title": "Motilal Oswal Large and Midcap Fund: Conviction drives standout returns",
+     "link": "https://www.thehindubusinessline.com/portfolio/mutual-funds/conviction-drives-standout-returns/article71719311.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-26T09:16:28+00:00",
+     "summary": "The Motilal Oswal Large and Midcap Fund is receiving attention for its consistent long-term performance and growth-focused investment strategy.",
+     "explain": "A 'Large and Midcap Fund' is a mutual fund that invests specifically in the largest and medium-sized companies in a stock market. Investors choose these because they offer a balance of stability (from large companies) and growth potential (from mid-sized ones). 'Conviction' in this context means the fund manager has high confidence in their specific stock choices.",
+     "related": [],
+     "story": {
+      "id": "business-mutual-fund-performance-analysis",
+      "title": "Mutual Fund Performance Analysis",
+      "so_far": "Mutual funds are investment vehicles that pool money from many investors to buy a diversified portfolio of stocks. Investors often rely on historical performance to choose funds, though past success does not guarantee future results.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "A review of the seven-year-old Motilal Oswal fund highlights its success in maintaining high returns through disciplined investment.",
+        "link": "https://www.thehindubusinessline.com/portfolio/mutual-funds/conviction-drives-standout-returns/article71719311.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
     }
    ]
   },
@@ -1498,92 +1968,363 @@
      }
     },
     {
-     "id": "8812cf14e8e5",
-     "title": "Copper slumps to lowest in 11 months as investors flee",
-     "link": "https://economictimes.indiatimes.com/markets/commodities/copper-slumps-to-lowest-in-11-months-as-investors-flee/articleshow/136172100.cms",
-     "source": "Markets-Economic Times",
-     "published": "2026-11-25T19:53:49+00:00",
-     "summary": "Copper prices on the London Metal Exchange have plummeted to their lowest point in over 11 months, fueled by a shift away from technology and AI stocks, causing widespread market anxiety. Notably, open interest in copper",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "653ec6b56c16",
-     "title": "US yields fall but move off lows as stocks pare sharp losses",
-     "link": "https://www.livemint.com/market/us-yields-fall-but-move-off-lows-as-stocks-pare-sharp-losses-11795635802694.html",
-     "source": "mint - markets",
-     "published": "2026-11-25T19:43:22+00:00",
-     "summary": "USA-BONDS/ (UPDATE 1, GRAPHICS):TREASURIES-US yields fall but move off lows as stocks pare sharp losses",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "9b1e84ef62f6",
-     "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
-     "link": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "id": "daa7c26db82e",
+     "title": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
+     "link": "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph.com News",
-     "published": "2026-11-25T18:54:51+00:00",
-     "summary": "Ethlabs co-founder Julian Ma told Cointelegraph that AI poses a more immediate threat as Ethereum prepares for one of its biggest security overhauls since the Merge.",
-     "explain": null,
+     "published": "2026-11-26T09:42:34+00:00",
+     "summary": "US spot Bitcoin ETFs saw $5.39 billion in net outflows in November, while Morgan Stanley's Bitcoin Trust recorded $114.1 million in inflows.",
+     "explain": "Bitcoin ETFs (Exchange-Traded Funds) allow investors to buy exposure to Bitcoin through traditional stock exchanges without holding the cryptocurrency directly. A massive outflow occurs when many investors decide to sell their shares simultaneously, often driven by fear, profit-taking, or a loss of confidence in the underlying asset's short-term performance.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "markets-bitcoin-long-term-market-outlook",
+      "title": "Bitcoin Long-term Market Outlook",
+      "so_far": "Bitcoin is a decentralized digital currency often referred to as 'digital gold' due to its fixed supply. Investors debate its role in portfolios, with proponents citing its potential for high growth and detractors pointing to its extreme price volatility and lack of intrinsic industrial value.",
+      "timeline": [
+       {
+        "date": "2026-11-19",
+        "text": "Higher interest rates are creating financial hurdles for companies attempting to expand their Bitcoin treasury holdings.",
+        "link": "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-19",
+        "text": "Bitcoin volatility remains high, appearing unfazed by the fluctuating performance of new AI stock debuts.",
+        "link": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-20",
+        "text": "BlackRock's IBIT experienced its largest-ever daily outflow as liquidity was redirected toward high-profile tech IPOs.",
+        "link": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-20",
+        "text": "Bitcoin has entered a bearish phase, breaking below significant psychological support levels amid wider financial market weakness.",
+        "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-11-21",
+        "text": "Bitcoin fell to a two-year price low as market participants abandoned risk-sensitive digital assets.",
+        "link": "https://www.livemint.com/market/cryptocurrency/bitcoin-price-crash-falls-to-lowest-level-in-two-years-what-s-behind-plunge-of-world-s-largest-cryptocurrency-11795267687216.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-23",
+        "text": "Bitcoin failed to mirror the strong performance of tech stocks following Jensen Huang's return to Nvidia.",
+        "link": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "Bitcoin saw its price slip under the $60,000 threshold following a temporary market spike.",
+        "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "Analysts at 21Shares predict that Bitcoin's downward price pressure may continue in the near term.",
+        "link": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "Bitcoin is experiencing renewed volatility as investors weigh the potential macroeconomic impact of incoming US trade tariffs.",
+        "link": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-25",
+        "text": "Bitcoin price action showed weakness, falling below the $60,000 threshold amidst a general decline in altcoin valuations.",
+        "link": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-11-26",
+        "text": "November outflows reached $5.39 billion for US spot Bitcoin ETFs, highlighting a period of significant divestment for the asset class.",
+        "link": "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-26",
+        "text": "Switzerland has introduced a new spot Bitcoin ETF that stores assets directly in cold storage, marking a structural change from debt-based crypto products.",
+        "link": "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       }
+      ]
+     }
     },
     {
-     "id": "3d67e4fd63ba",
-     "title": "Soybeans rebound ahead of holiday as soymeal futures climb",
-     "link": "https://www.livemint.com/market/soybeans-rebound-ahead-of-holiday-as-soymeal-futures-climb-11795631929299.html",
+     "id": "14d515207687",
+     "title": "Gold price today in India ₹58,500 away from record high; right time to buy amid rebound from 14-month low?",
+     "link": "https://www.livemint.com/market/commodities/gold-price-today-in-india-rs-58-500-away-from-record-high-right-time-to-buy-amid-rebound-from-14-month-low-11795679635348.html",
      "source": "mint - markets",
-     "published": "2026-11-25T18:38:48+00:00",
-     "summary": "GLOBAL-GRAINS/ (UPDATE 2):GRAINS-Soybeans rebound ahead of holiday as soymeal futures climb",
-     "explain": null,
+     "published": "2026-11-26T09:29:23+00:00",
+     "summary": "Indian gold prices have rebounded from 14-month lows but remain significantly below the record high of ₹1,80,779 reached in January 2026.",
+     "explain": "Gold prices in India are quoted via the MCX (Multi Commodity Exchange), where investors and jewelers trade standardized contracts. When prices drop significantly, it often triggers buying interest for physical jewelry, though global economic factors continue to drive the underlying price volatility.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "markets-indian-gold-market-price-trends",
+      "title": "Indian Gold Market Price Trends",
+      "so_far": "Gold is a traditional store of value in India, often surging during wedding and festival seasons. Market prices are heavily influenced by global interest rates, the strength of the US dollar, and local import duties set by the government.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "Gold prices are trading around ₹1,22,250 per 10 grams, showing a slight recovery after a sharp monthly decline.",
+        "link": "https://www.livemint.com/market/commodities/gold-price-today-in-india-rs-58-500-away-from-record-high-right-time-to-buy-amid-rebound-from-14-month-low-11795679635348.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-26",
+        "text": "Gold prices saw a modest daily uptick of 1.2% in domestic trading.",
+        "link": "https://www.livemint.com/market/commodities/gold-rate-today-in-chennai-hyderabad-bangalore-check-26-november-mcx-yellow-metal-prices-details-11795681144857.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-26",
+        "text": "Experts now identify support levels between ₹1.15 lakh and ₹1.17 lakh, recommending a gradual investment strategy.",
+        "link": "https://www.livemint.com/market/commodities/gold-prices-crash-rs-22-000-in-a-month-is-this-the-right-time-to-buy-to-make-profits-when-prices-go-up-experts-advice-11795679163869.html",
+        "source": "mint - markets"
+       }
+      ]
+     }
     },
     {
-     "id": "02d2c61229ba",
-     "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
-     "link": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
-     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
-     "published": "2026-11-25T18:24:47+00:00",
-     "summary": "",
-     "explain": null,
+     "id": "6654ad368939",
+     "title": "BPCL vs IOCL vs HPCL: Jefferies names its top OMC stocks to buy as crude prices fall | Check target prices, rationale",
+     "link": "https://www.livemint.com/market/stock-market-news/bpcl-vs-iocl-vs-hpcl-jefferies-names-its-top-omc-stocks-to-buy-as-crude-prices-fall-check-target-prices-rationale-11795681099588.html",
+     "source": "mint - markets",
+     "published": "2026-11-26T09:25:46+00:00",
+     "summary": "Jefferies analysts issued a bullish report on BPCL and IOCL due to favorable oil marketing margins, while maintaining a negative outlook on HPCL.",
+     "explain": "Refining margins represent the profit a company makes by turning raw crude oil into finished products like petrol and diesel. 'Underperform' is an analyst rating suggesting that the stock is expected to perform worse than the overall market or its industry peers.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "markets-indian-oil-marketing-company-outlook",
+      "title": "Indian Oil Marketing Company Outlook",
+      "so_far": "Oil Marketing Companies (OMCs) like BPCL, IOCL, and HPCL are critical to India's energy infrastructure, processing crude oil into fuel for the transport and industrial sectors. Their profitability is often tied to the difference between international crude prices and the regulated prices they charge domestic consumers.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "Jefferies maintained 'Buy' ratings for BPCL and IOCL but kept an 'Underperform' rating on HPCL based on current valuations.",
+        "link": "https://www.livemint.com/market/stock-market-news/bpcl-vs-iocl-vs-hpcl-jefferies-names-its-top-omc-stocks-to-buy-as-crude-prices-fall-check-target-prices-rationale-11795681099588.html",
+        "source": "mint - markets"
+       }
+      ]
+     }
     },
     {
-     "id": "a0f2d9521f60",
-     "title": "US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
-     "link": "https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "id": "cdf064e46ff0",
+     "title": "Switzerland’s first spot Bitcoin ETF ticks up 0.6% in opening hour",
+     "link": "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph.com News",
-     "published": "2026-11-25T17:53:10+00:00",
-     "summary": "US core inflation rose more than expected in October as markets anticipate a December interest rate hike, which could slow a crypto market recovery.",
-     "explain": null,
+     "published": "2026-11-26T09:18:15+00:00",
+     "summary": "Switzerland launched its first spot Bitcoin ETF, which differs from previous products by holding physical Bitcoin in cold storage at a bank.",
+     "explain": "Cold storage refers to keeping digital assets on a device not connected to the internet, making them much harder for hackers to steal. This Swiss ETF model provides investors with direct ownership rights to the underlying Bitcoin, reducing the risks associated with holding complex derivative-based products.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "markets-bitcoin-long-term-market-outlook",
+      "title": "Bitcoin Long-term Market Outlook",
+      "so_far": "Bitcoin is a decentralized digital currency often referred to as 'digital gold' due to its fixed supply. Investors debate its role in portfolios, with proponents citing its potential for high growth and detractors pointing to its extreme price volatility and lack of intrinsic industrial value.",
+      "timeline": [
+       {
+        "date": "2026-11-19",
+        "text": "Higher interest rates are creating financial hurdles for companies attempting to expand their Bitcoin treasury holdings.",
+        "link": "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-19",
+        "text": "Bitcoin volatility remains high, appearing unfazed by the fluctuating performance of new AI stock debuts.",
+        "link": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-20",
+        "text": "BlackRock's IBIT experienced its largest-ever daily outflow as liquidity was redirected toward high-profile tech IPOs.",
+        "link": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-20",
+        "text": "Bitcoin has entered a bearish phase, breaking below significant psychological support levels amid wider financial market weakness.",
+        "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-11-21",
+        "text": "Bitcoin fell to a two-year price low as market participants abandoned risk-sensitive digital assets.",
+        "link": "https://www.livemint.com/market/cryptocurrency/bitcoin-price-crash-falls-to-lowest-level-in-two-years-what-s-behind-plunge-of-world-s-largest-cryptocurrency-11795267687216.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-23",
+        "text": "Bitcoin failed to mirror the strong performance of tech stocks following Jensen Huang's return to Nvidia.",
+        "link": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "Bitcoin saw its price slip under the $60,000 threshold following a temporary market spike.",
+        "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "Analysts at 21Shares predict that Bitcoin's downward price pressure may continue in the near term.",
+        "link": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "Bitcoin is experiencing renewed volatility as investors weigh the potential macroeconomic impact of incoming US trade tariffs.",
+        "link": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-25",
+        "text": "Bitcoin price action showed weakness, falling below the $60,000 threshold amidst a general decline in altcoin valuations.",
+        "link": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+       },
+       {
+        "date": "2026-11-26",
+        "text": "November outflows reached $5.39 billion for US spot Bitcoin ETFs, highlighting a period of significant divestment for the asset class.",
+        "link": "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       },
+       {
+        "date": "2026-11-26",
+        "text": "Switzerland has introduced a new spot Bitcoin ETF that stores assets directly in cold storage, marking a structural change from debt-based crypto products.",
+        "link": "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News"
+       }
+      ]
+     }
     },
     {
-     "id": "37b1c5448e21",
-     "title": "Nasdaq 100 plunges nearly 5%, briefly enters bear-market zone as AI fears and fresh tariffs hit sentiment",
-     "link": "https://www.livemint.com/market/stock-market-news/nasdaq-100-plunges-nearly-5-briefly-enters-bear-market-zone-as-ai-fears-and-fresh-tariffs-hit-sentiment-11795626875336.html",
+     "id": "5faf71073863",
+     "title": "Allied Blenders shares: After 50% jump in 6 months, Elara Securities sees 25% more returns; assigns Buy rating | Target",
+     "link": "https://www.livemint.com/market/stock-market-news/allied-blenders-shares-after-50-jump-in-6-months-elara-securities-sees-25-more-returns-assigns-buy-rating-target-11795682211839.html",
      "source": "mint - markets",
-     "published": "2026-11-25T17:43:56+00:00",
-     "summary": "US stocks fell sharply as investors sold AI-related shares over concerns about heavy investment, borrowing costs and future returns. The Nasdaq 100 briefly entered bear-market territory, while hotter-than-expected inflat",
-     "explain": null,
+     "published": "2026-11-26T09:11:22+00:00",
+     "summary": "Allied Blenders shares have surged 50% in six months, with analysts predicting another 25% upside due to brand growth and cost reduction.",
+     "explain": "EPS CAGR (Earnings Per Share Compound Annual Growth Rate) is a metric that shows how much a company's profit per share is expected to grow, on average, over a specific period. It is used by investors to determine if a stock's current price is justified by its future growth potential.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "markets-allied-blenders-market-performance",
+      "title": "Allied Blenders Market Performance",
+      "so_far": "Allied Blenders and Distillers is an Indian beverage company known for its spirits portfolio. Like many consumer-facing stocks, its performance is driven by its ability to transition consumers toward premium products and maintain margins despite fluctuating raw material costs.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "Elara Securities has set a new price target of ₹1,000 for Allied Blenders, citing strong premium brand positioning and efficiency gains.",
+        "link": "https://www.livemint.com/market/stock-market-news/allied-blenders-shares-after-50-jump-in-6-months-elara-securities-sees-25-more-returns-assigns-buy-rating-target-11795682211839.html",
+        "source": "mint - markets"
+       }
+      ]
+     }
     },
     {
-     "id": "70610a5f9f80",
-     "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
-     "link": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
-     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
-     "published": "2026-11-25T17:38:33+00:00",
-     "summary": "",
-     "explain": null,
+     "id": "3a40ccead870",
+     "title": "Gold rate today in Chennai, Hyderabad, Bangalore: Check 26 November MCX yellow metal prices details",
+     "link": "https://www.livemint.com/market/commodities/gold-rate-today-in-chennai-hyderabad-bangalore-check-26-november-mcx-yellow-metal-prices-details-11795681144857.html",
+     "source": "mint - markets",
+     "published": "2026-11-26T08:55:55+00:00",
+     "summary": "MCX gold prices in India opened 1.2% higher, currently trading at ₹1,22,740 per 10 grams as of November 26.",
+     "explain": "The MCX is India's primary exchange for trading commodities like gold, silver, and oil. The 'opening' price is the first trade of the business day, which often reflects overnight news from global markets or shifts in local investor sentiment.",
+     "related": [
+      {
+       "date": "2026-11-06",
+       "title": "Gold, Silver Price Live updates: Check latest gold and silver prices on Dhanteras. Check 22K, 24K physical rates today (November 6)",
+       "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/gold-silver-rates-live-updates-22k-24k-18k-mcx-gold-silver-price-on-dhanteras-6th-november-city-wise-latest-gold-news/liveblog/135591659.cms",
+       "source": "Markets-Economic Times"
+      }
+     ],
+     "story": {
+      "id": "markets-indian-gold-market-price-trends",
+      "title": "Indian Gold Market Price Trends",
+      "so_far": "Gold is a traditional store of value in India, often surging during wedding and festival seasons. Market prices are heavily influenced by global interest rates, the strength of the US dollar, and local import duties set by the government.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "Gold prices are trading around ₹1,22,250 per 10 grams, showing a slight recovery after a sharp monthly decline.",
+        "link": "https://www.livemint.com/market/commodities/gold-price-today-in-india-rs-58-500-away-from-record-high-right-time-to-buy-amid-rebound-from-14-month-low-11795679635348.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-26",
+        "text": "Gold prices saw a modest daily uptick of 1.2% in domestic trading.",
+        "link": "https://www.livemint.com/market/commodities/gold-rate-today-in-chennai-hyderabad-bangalore-check-26-november-mcx-yellow-metal-prices-details-11795681144857.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-26",
+        "text": "Experts now identify support levels between ₹1.15 lakh and ₹1.17 lakh, recommending a gradual investment strategy.",
+        "link": "https://www.livemint.com/market/commodities/gold-prices-crash-rs-22-000-in-a-month-is-this-the-right-time-to-buy-to-make-profits-when-prices-go-up-experts-advice-11795679163869.html",
+        "source": "mint - markets"
+       }
+      ]
+     }
+    },
+    {
+     "id": "08bcc2971930",
+     "title": "NMDC battles weak offtake despite strong steel demand",
+     "link": "https://www.livemint.com/market/mark-to-market/nmdc-share-price-iron-ore-sales-fall-steel-demand-11795675631542.html",
+     "source": "mint - markets",
+     "published": "2026-11-26T08:49:11+00:00",
+     "summary": "NMDC is facing lower demand for iron ore as global steel output surpluses, largely driven by China's cooling industrial activity, pressure prices.",
+     "explain": "Iron ore 'offtake' refers to the amount of material actually purchased or taken by customers from a producer. When China, a massive consumer of steel, slows down its economy, it leads to a supply glut, which forces mining companies to lower prices to move their inventory.",
      "related": [],
-     "story": null
+     "story": {
+      "id": "markets-nmdc-market-and-ore-demand",
+      "title": "NMDC Market and Ore Demand",
+      "so_far": "NMDC is India's largest iron ore producer, an essential raw material for making steel. Because steel is heavily used in construction and infrastructure, the company's health is a direct barometer for the global industrial economy.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "NMDC is struggling with weak sales volume because of a global surplus of steel and reduced demand from China.",
+        "link": "https://www.livemint.com/market/mark-to-market/nmdc-share-price-iron-ore-sales-fall-steel-demand-11795675631542.html",
+        "source": "mint - markets"
+       }
+      ]
+     }
+    },
+    {
+     "id": "aedb27e717b3",
+     "title": "Gold prices crash ₹22,000 in a month: Is this the right time to buy to make profits when prices go up? Experts' advice",
+     "link": "https://www.livemint.com/market/commodities/gold-prices-crash-rs-22-000-in-a-month-is-this-the-right-time-to-buy-to-make-profits-when-prices-go-up-experts-advice-11795679163869.html",
+     "source": "mint - markets",
+     "published": "2026-11-26T08:27:45+00:00",
+     "summary": "After a ₹22,000 drop in a month, analysts are advising cautious, staggered gold purchases as market volatility persists.",
+     "explain": "Staggered purchases, often called 'dollar-cost averaging' or 'rupee-cost averaging,' involve buying assets in smaller, regular intervals rather than all at once. This strategy helps investors avoid the risk of buying at a temporary high point, as the average cost of the investment is smoothed out over time.",
+     "related": [],
+     "story": {
+      "id": "markets-indian-gold-market-price-trends",
+      "title": "Indian Gold Market Price Trends",
+      "so_far": "Gold is a traditional store of value in India, often surging during wedding and festival seasons. Market prices are heavily influenced by global interest rates, the strength of the US dollar, and local import duties set by the government.",
+      "timeline": [
+       {
+        "date": "2026-11-26",
+        "text": "Gold prices are trading around ₹1,22,250 per 10 grams, showing a slight recovery after a sharp monthly decline.",
+        "link": "https://www.livemint.com/market/commodities/gold-price-today-in-india-rs-58-500-away-from-record-high-right-time-to-buy-amid-rebound-from-14-month-low-11795679635348.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-26",
+        "text": "Gold prices saw a modest daily uptick of 1.2% in domestic trading.",
+        "link": "https://www.livemint.com/market/commodities/gold-rate-today-in-chennai-hyderabad-bangalore-check-26-november-mcx-yellow-metal-prices-details-11795681144857.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-26",
+        "text": "Experts now identify support levels between ₹1.15 lakh and ₹1.17 lakh, recommending a gradual investment strategy.",
+        "link": "https://www.livemint.com/market/commodities/gold-prices-crash-rs-22-000-in-a-month-is-this-the-right-time-to-buy-to-make-profits-when-prices-go-up-experts-advice-11795679163869.html",
+        "source": "mint - markets"
+       }
+      ]
+     }
     }
    ]
   }
