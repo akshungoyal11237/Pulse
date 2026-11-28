@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-27T19:34:04.737217+00:00",
- "prices_generated": "2026-11-27T20:34:22.104677+00:00",
+ "generated": "2026-11-28T09:15:15.272441+00:00",
+ "prices_generated": "2026-11-28T09:15:15.272441+00:00",
  "ai": "gemini",
- "pulse": "Indian markets ended with modest gains today, likely reflecting investor caution ahead of key corporate board meetings and local political developments. US markets surged significantly, possibly driven by investor optimism following major corporate acquisition news and strong performance in the technology sector. Meanwhile, gold and silver saw substantial price jumps, while major cryptocurrencies traded mostly lower as investors monitored data security concerns within the crypto ecosystem.",
+ "pulse": "Indian markets retreated today as investors likely reacted to ongoing corporate tensions surrounding Tata Sons board meetings. Conversely, US indices surged significantly, possibly fueled by positive market sentiment and bullish momentum in the technology sector. Meanwhile, gold and silver saw sharp gains, likely serving as a hedge for investors amidst broader global economic uncertainty, while major cryptocurrencies remained largely stagnant.",
  "ticker_strip": [
   "^NSEI",
   "^BSESN",
@@ -55,10 +55,10 @@
   "^NSEI": {
    "symbol": "^NSEI",
    "name": "Nifty 50",
-   "price": 25884.5,
-   "change": 65.25,
-   "pct": 0.25,
-   "pct_1m": 13.78,
+   "price": 25607.1992,
+   "change": -277.3008,
+   "pct": -1.07,
+   "pct_1m": 12.56,
    "spark": [
     22749.75,
     22698.8496,
@@ -80,17 +80,18 @@
     25800.5996,
     25349.6504,
     25819.25,
-    25884.5
+    25884.5,
+    25607.1992
    ],
-   "asof": "2026-11-26"
+   "asof": "2026-11-27"
   },
   "^BSESN": {
    "symbol": "^BSESN",
    "name": "Sensex",
-   "price": 84328.5938,
-   "change": 390.3125,
-   "pct": 0.46,
-   "pct_1m": 14.58,
+   "price": 83339.2578,
+   "change": -989.3359,
+   "pct": -1.17,
+   "pct_1m": 13.23,
    "spark": [
     73598.6719,
     73246.0312,
@@ -112,17 +113,18 @@
     83919.7109,
     82435.9922,
     83938.2812,
-    84328.5938
+    84328.5938,
+    83339.2578
    ],
-   "asof": "2026-11-26"
+   "asof": "2026-11-27"
   },
   "^NSEBANK": {
    "symbol": "^NSEBANK",
    "name": "Bank Nifty",
-   "price": 63535.3008,
-   "change": -167.9492,
-   "pct": -0.26,
-   "pct_1m": 17.71,
+   "price": 63040.8984,
+   "change": -494.4023,
+   "pct": -0.78,
+   "pct_1m": 16.8,
    "spark": [
     53974.8984,
     54267.3984,
@@ -144,9 +146,10 @@
     64635.1992,
     62585.3516,
     63703.25,
-    63535.3008
+    63535.3008,
+    63040.8984
    ],
-   "asof": "2026-11-26"
+   "asof": "2026-11-27"
   },
   "^GSPC": {
    "symbol": "^GSPC",
@@ -250,12 +253,11 @@
   "BTC-USD": {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 59729.25,
-   "change": -765.4609,
-   "pct": -1.27,
-   "pct_1m": -26.08,
+   "price": 59547.3086,
+   "change": -319.0625,
+   "pct": -0.53,
+   "pct_1m": -26.73,
    "spark": [
-    80805.0781,
     81267.5859,
     77775.1094,
     77198.2109,
@@ -286,19 +288,19 @@
     59747.7656,
     60378.1992,
     60494.7109,
-    59729.25
+    59866.3711,
+    59547.3086
    ],
-   "asof": "2026-11-27"
+   "asof": "2026-11-28"
   },
   "ETH-USD": {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 1665.78,
-   "change": -21.9618,
-   "pct": -1.3,
-   "pct_1m": -29.05,
+   "price": 1649.63,
+   "change": -11.4532,
+   "pct": -0.69,
+   "pct_1m": -30.03,
    "spark": [
-    2347.73,
     2357.624,
     2249.4983,
     2241.0544,
@@ -329,19 +331,19 @@
     1677.6948,
     1690.769,
     1687.7418,
-    1665.78
+    1661.0833,
+    1649.63
    ],
-   "asof": "2026-11-27"
+   "asof": "2026-11-28"
   },
   "SOL-USD": {
    "symbol": "SOL-USD",
    "name": "Solana",
-   "price": 72.06,
-   "change": 1.1272,
-   "pct": 1.59,
-   "pct_1m": -28.83,
+   "price": 71.01,
+   "change": -0.5703,
+   "pct": -0.8,
+   "pct_1m": -30.59,
    "spark": [
-    101.255,
     102.3075,
     95.4941,
     96.2188,
@@ -372,17 +374,18 @@
     69.6358,
     70.3932,
     70.9328,
-    72.06
+    71.5803,
+    71.01
    ],
-   "asof": "2026-11-27"
+   "asof": "2026-11-28"
   },
   "USDINR=X": {
    "symbol": "USDINR=X",
    "name": "USD/INR",
-   "price": 92.98,
-   "change": 0.7424,
-   "pct": 0.8,
-   "pct_1m": -2.32,
+   "price": 92.99,
+   "change": 0.5401,
+   "pct": 0.58,
+   "pct_1m": -2.31,
    "spark": [
     95.187,
     95.1778,
@@ -407,17 +410,18 @@
     92.9152,
     92.8066,
     92.2376,
-    92.98
+    92.4499,
+    92.99
    ],
-   "asof": "2026-11-27"
+   "asof": "2026-11-28"
   },
   "EURINR=X": {
    "symbol": "EURINR=X",
    "name": "EUR/INR",
-   "price": 101.7044,
-   "change": 0.6064,
-   "pct": 0.6,
-   "pct_1m": -4.3,
+   "price": 101.6567,
+   "change": 0.3147,
+   "pct": 0.31,
+   "pct_1m": -4.34,
    "spark": [
     106.269,
     105.761,
@@ -442,17 +446,18 @@
     101.268,
     101.77,
     101.098,
-    101.7044
+    101.342,
+    101.6567
    ],
-   "asof": "2026-11-27"
+   "asof": "2026-11-28"
   },
   "EURUSD=X": {
    "symbol": "EURUSD=X",
    "name": "EUR/USD",
-   "price": 1.0939,
-   "change": -0.0032,
-   "pct": -0.29,
-   "pct_1m": -2.11,
+   "price": 1.0972,
+   "change": 0.0002,
+   "pct": 0.02,
+   "pct_1m": -1.8,
    "spark": [
     1.1174,
     1.113,
@@ -477,17 +482,17 @@
     1.0908,
     1.0962,
     1.097,
-    1.0939
+    1.0972
    ],
    "asof": "2026-11-27"
   },
   "GBPINR=X": {
    "symbol": "GBPINR=X",
    "name": "GBP/INR",
-   "price": 121.7573,
-   "change": 0.805,
-   "pct": 0.67,
-   "pct_1m": -4.13,
+   "price": 121.7704,
+   "change": 0.6072,
+   "pct": 0.5,
+   "pct_1m": -4.12,
    "spark": [
     127.0049,
     126.6426,
@@ -512,17 +517,18 @@
     121.0932,
     121.6827,
     120.9523,
-    121.7573
+    121.1632,
+    121.7704
    ],
-   "asof": "2026-11-27"
+   "asof": "2026-11-28"
   },
   "GC=F": {
    "symbol": "GC=F",
    "name": "Gold",
-   "price": 3668.5,
-   "change": 132.7,
-   "pct": 3.75,
-   "pct_1m": -9.46,
+   "price": 3639.6001,
+   "change": 103.8,
+   "pct": 2.94,
+   "pct_1m": -10.17,
    "spark": [
     4051.6001,
     4031.3999,
@@ -545,17 +551,17 @@
     3651.3999,
     3561.8999,
     3535.8,
-    3668.5
+    3639.6001
    ],
    "asof": "2026-11-27"
   },
   "SI=F": {
    "symbol": "SI=F",
    "name": "Silver",
-   "price": 43.702,
-   "change": 3.65,
-   "pct": 9.11,
-   "pct_1m": -18.25,
+   "price": 43.167,
+   "change": 3.115,
+   "pct": 7.78,
+   "pct_1m": -19.25,
    "spark": [
     53.457,
     52.191,
@@ -578,7 +584,7 @@
     43.147,
     40.76,
     40.052,
-    43.702
+    43.167
    ],
    "asof": "2026-11-27"
   },
@@ -618,10 +624,10 @@
   "BZ=F": {
    "symbol": "BZ=F",
    "name": "Brent Crude",
-   "price": 90.84,
-   "change": -3.77,
-   "pct": -3.98,
-   "pct_1m": -21.23,
+   "price": 95.44,
+   "change": 0.83,
+   "pct": 0.88,
+   "pct_1m": -17.24,
    "spark": [
     115.32,
     114.88,
@@ -644,17 +650,17 @@
     89.37,
     91.4,
     94.61,
-    90.84
+    95.44
    ],
    "asof": "2026-11-27"
   },
   "RELIANCE.NS": {
    "symbol": "RELIANCE.NS",
    "name": "Reliance",
-   "price": 1396.2,
-   "change": 22.2999,
-   "pct": 1.62,
-   "pct_1m": 16.72,
+   "price": 1382.6,
+   "change": -13.6,
+   "pct": -0.97,
+   "pct_1m": 15.58,
    "spark": [
     1196.2,
     1158.0,
@@ -676,17 +682,18 @@
     1377.5,
     1351.0,
     1373.9,
-    1396.2
+    1396.2,
+    1382.6
    ],
-   "asof": "2026-11-26"
+   "asof": "2026-11-27"
   },
   "TCS.NS": {
    "symbol": "TCS.NS",
    "name": "TCS",
-   "price": 2640.3,
-   "change": 123.0,
-   "pct": 4.89,
-   "pct_1m": 5.74,
+   "price": 2572.5,
+   "change": -67.8,
+   "pct": -2.57,
+   "pct_1m": 3.03,
    "spark": [
     2496.8999,
     2460.0,
@@ -708,17 +715,18 @@
     2376.2,
     2460.0,
     2517.3,
-    2640.3
+    2640.3,
+    2572.5
    ],
-   "asof": "2026-11-26"
+   "asof": "2026-11-27"
   },
   "HDFCBANK.NS": {
    "symbol": "HDFCBANK.NS",
    "name": "HDFC Bank",
-   "price": 862.0,
-   "change": 15.8,
-   "pct": 1.87,
-   "pct_1m": 26.73,
+   "price": 857.25,
+   "change": -4.75,
+   "pct": -0.55,
+   "pct_1m": 26.03,
    "spark": [
     680.2,
     685.3,
@@ -740,17 +748,18 @@
     846.0,
     817.8,
     846.2,
-    862.0
+    862.0,
+    857.25
    ],
-   "asof": "2026-11-26"
+   "asof": "2026-11-27"
   },
   "INFY.NS": {
    "symbol": "INFY.NS",
    "name": "Infosys",
-   "price": 1183.0,
-   "change": 53.0,
-   "pct": 4.69,
-   "pct_1m": 4.05,
+   "price": 1151.3,
+   "change": -31.7,
+   "pct": -2.68,
+   "pct_1m": 1.26,
    "spark": [
     1136.9552,
     1097.9977,
@@ -772,9 +781,10 @@
     1098.0,
     1103.4,
     1130.0,
-    1183.0
+    1183.0,
+    1151.3
    ],
-   "asof": "2026-11-26"
+   "asof": "2026-11-27"
   },
   "AAPL": {
    "symbol": "AAPL",
@@ -880,12 +890,11 @@
   {
    "code": 120716,
    "name": "UTI Nifty 50 Index Fund (Direct, Growth)",
-   "nav": 182.365,
-   "pct": 0.25,
-   "pct_1m": 15.81,
-   "date": "26-11-2026",
+   "nav": 180.41,
+   "pct": -1.07,
+   "pct_1m": 12.76,
+   "date": "27-11-2026",
    "spark": [
-    157.4672,
     159.991,
     159.31,
     161.9479,
@@ -915,7 +924,8 @@
     181.7794,
     178.5983,
     181.9059,
-    182.365
+    182.365,
+    180.41
    ]
   },
   {
@@ -965,333 +975,309 @@
    "label": "India",
    "articles": [
     {
-     "id": "125cbd836400",
-     "title": "Global fashion brands shift orders from Bangladesh to India amid unrest",
-     "link": "https://www.thehindu.com/business/global-fashion-brands-shift-orders-from-bangladesh-to-india-amid-unrest/article71752292.ece",
+     "id": "668b4899e507",
+     "title": "Delimitation Bill LIVE: This Bill is dangerous to democracy, says Kharge; DMK announces support for Centre's proposal",
+     "link": "https://www.thehindu.com/news/national/delimitation-bill-special-parliament-session-india-bloc-meeting-opposition-bjp-live-updates-november-28-2026/article71753535.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-27T19:27:54+00:00",
-     "summary": "Global fashion brands are diverting $254 million in clothing orders from Bangladesh to India due to recent unrest in Bangladesh.",
-     "explain": "International fashion brands often outsource production to countries where labor is inexpensive. When one major manufacturing hub, such as Bangladesh, faces political or social instability, companies shift these 'orders'—contracts to produce specific batches of clothing—to other countries to ensure their supply chains remain uninterrupted. This is a significant economic opportunity for India to capture market share.",
+     "published": "2026-11-28T09:11:50+00:00",
+     "summary": "Opposition parties are critiquing a proposed Delimitation Bill, with leaders warning that redrawing electoral boundaries could threaten federalism and unfairly impact the representation of southern states.",
+     "explain": "Delimitation is intended to ensure that each electoral district has a roughly equal number of voters, maintaining the principle of 'one person, one vote.' Critics fear that if the process relies solely on the most recent census, states that have successfully implemented family planning and population control will lose parliamentary seats. This has created a deep political rift between the Union government and several state governments.",
      "related": [],
      "story": {
-      "id": "india-india-s-growing-apparel-manufacturing-se",
-      "title": "India's Growing Apparel Manufacturing Sector",
-      "so_far": "India has been aggressively seeking to increase its manufacturing capacity to attract foreign investment. Amidst regional instability in manufacturing hubs like Bangladesh, international brands are looking for stable alternatives in Southeast and South Asia.",
+      "id": "india-delimitation-bill-legislative-debate",
+      "title": "Delimitation Bill Legislative Debate",
+      "so_far": "Delimitation is the process of redrawing the boundaries of Lok Sabha and Assembly constituencies based on population data. It is a highly sensitive political topic in India because it changes the electoral weight of states, potentially diminishing the influence of states with lower population growth, such as those in South India, while increasing it for those with higher growth.",
       "timeline": [
        {
-        "date": "2026-11-27",
-        "text": "Global fashion brands are diverting $254 million in clothing orders from Bangladesh to India due to recent unrest in Bangladesh.",
-        "link": "https://www.thehindu.com/business/global-fashion-brands-shift-orders-from-bangladesh-to-india-amid-unrest/article71752292.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "8024d21caeef",
-     "title": "Kumari Sachu honoured withcultural excellence award",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/kumari-sachu-honoured-withcultural-excellence-award/article71751930.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-27T19:26:48+00:00",
-     "summary": "Veteran actress Kumari Sachu has been honored with a cultural excellence award.",
-     "explain": "Cultural awards are given to individuals who have made substantial contributions to the arts, often spanning decades. These honors serve to preserve cultural heritage and celebrate the influence of specific artists on the national identity.",
-     "related": [],
-     "story": {
-      "id": "india-cultural-awards-and-recognition",
-      "title": "Cultural Awards and Recognition",
-      "so_far": "The Indian government and various cultural bodies frequently bestow awards on veteran artists to recognize their lifetime contributions to Indian cinema, theater, and arts.",
-      "timeline": [
-       {
-        "date": "2026-11-27",
-        "text": "Veteran actress Kumari Sachu has been honored with a cultural excellence award.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/kumari-sachu-honoured-withcultural-excellence-award/article71751930.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "c490e1c5e09a",
-     "title": "T.N. govt. sanctions ₹1,037.7 crore to upgrade 340 village, panchayat union roads",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-sanctions-10377-crore-to-upgrade-340-village-panchayat-union-roads/article71751046.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-27T19:26:02+00:00",
-     "summary": "The Tamil Nadu government has sanctioned ₹1,037.7 crore for the improvement of 340 village and panchayat union roads.",
-     "explain": "Infrastructure development involves the construction and maintenance of essential systems like roads, which are vital for economic activity. A 'sanction' in this context is the official government approval to release funds for specific projects, ensuring the money is spent legally on rural road networks.",
-     "related": [],
-     "story": {
-      "id": "india-tamil-nadu-rural-infrastructure-developm",
-      "title": "Tamil Nadu Rural Infrastructure Development",
-      "so_far": "Improving rural connectivity is a priority for many Indian state governments, aimed at fostering economic growth by linking remote villages to trade centers. These projects are typically funded through specific state budgetary allocations or central government grants.",
-      "timeline": [
-       {
-        "date": "2026-11-27",
-        "text": "The Tamil Nadu government has sanctioned ₹1,037.7 crore for the improvement of 340 village and panchayat union roads.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-sanctions-10377-crore-to-upgrade-340-village-panchayat-union-roads/article71751046.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "e9b49505b091",
-     "title": "Karnataka government serves show-cause notice to IOCL terminal in Bengaluru over ethanol measurement discrepancies",
-     "link": "https://www.thehindu.com/news/national/karnataka/karnataka-government-serves-show-cause-notice-to-iocl-terminal-in-bengaluru-over-ethanol-measurement-discrepancies/article71751423.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-27T19:15:13+00:00",
-     "summary": "Karnataka's Legal Metrology Department issued a show-cause notice to an IOCL terminal in Bengaluru regarding inaccuracies in ethanol-blended fuel measurements.",
-     "explain": "A 'show-cause notice' is a formal legal requirement for an entity to explain why they should not be penalized for an alleged violation. This case involves checking whether the fuel being pumped—which contains a mixture of petrol and ethanol—is being measured accurately so that consumers receive the exact amount they pay for.",
-     "related": [],
-     "story": {
-      "id": "india-fuel-quality-and-measurement-oversight",
-      "title": "Fuel Quality and Measurement Oversight",
-      "so_far": "In India, fuel is often blended with ethanol to meet environmental standards and reduce reliance on imported oil. Regulatory bodies like the Department of Legal Metrology conduct regular inspections to ensure that oil marketing companies comply with safety and volume accuracy regulations.",
-      "timeline": [
-       {
-        "date": "2026-11-27",
-        "text": "Karnataka's Legal Metrology Department issued a show-cause notice to an IOCL terminal in Bengaluru regarding inaccuracies in ethanol-blended fuel measurements.",
-        "link": "https://www.thehindu.com/news/national/karnataka/karnataka-government-serves-show-cause-notice-to-iocl-terminal-in-bengaluru-over-ethanol-measurement-discrepancies/article71751423.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "f842718eac56",
-     "title": "Nagenthran, Annamalai welcome SC order on Thirupparankundram issue",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/nagenthran-annamalai-welcome-sc-order-on-thirupparankundram-issue/article71751705.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-27T19:14:37+00:00",
-     "summary": "",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "85a4c54772f0",
-     "title": "Civil society groups urge Karnataka Chief Minister to scrutinise SIR deletions ahead of local polls",
-     "link": "https://www.thehindu.com/news/cities/bangalore/civil-society-groups-urge-karnataka-chief-minister-to-scrutinise-sir-deletions-ahead-of-local-polls/article71752033.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-27T19:14:31+00:00",
-     "summary": "Civil society groups are demanding that the Karnataka government audit electoral rolls before upcoming local body elections, citing alleged deletions.",
-     "explain": "Electoral rolls are the official lists of people eligible to vote. If names are deleted without a clear, valid reason (such as death or relocation), it can disenfranchise legitimate voters. 'SIR' usually refers to Systematic Improvement or internal verification processes, and advocates are demanding transparency to ensure the fairness of upcoming local elections.",
-     "related": [],
-     "story": {
-      "id": "india-election-commission-internal-operations",
-      "title": "Election Commission Internal Operations",
-      "so_far": "The ECI is responsible for maintaining the accuracy of the national electoral roll. Periodic reviews, such as the verification of SIR notices, are essential to remove duplicate, deceased, or ineligible voters to ensure the integrity of the polling process.",
-      "timeline": [
-       {
-        "date": "2026-11-06",
-        "text": "Government officials have pushed back against opposition claims regarding the electoral roll revision, calling for fact-based discourse.",
-        "link": "https://www.thehindu.com/news/national/bihar/congress-wants-to-spread-anarchy-in-the-name-of-democracy-bhupender-yadav/article71670188.ece",
+        "date": "2026-11-28",
+        "text": "Opposition parties are critiquing a proposed Delimitation Bill, with leaders warning that redrawing electoral boundaries could threaten federalism and unfairly impact the representation of southern states.",
+        "link": "https://www.thehindu.com/news/national/delimitation-bill-special-parliament-session-india-bloc-meeting-opposition-bjp-live-updates-november-28-2026/article71753535.ece",
         "source": "India Latest News: Top National Headline"
        },
        {
-        "date": "2026-11-06",
-        "text": "A fresh opportunity for voter registration has been granted across seven states and union territories, including Delhi.",
-        "link": "https://www.thehindu.com/news/national/eci-sir-draft-rolls-fresh-opportunity-to-electors-seven-states/article71674069.ece",
+        "date": "2026-11-28",
+        "text": "Opposition representatives continue to vocalize concerns that the delimitation process will favor Northern states at the expense of Southern representation.",
+        "link": "https://www.thehindu.com/news/national/kerala/delimitation-bill-a-bid-to-reduce-political-representation-of-south-indian-states-chennithala/article71754017.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "7e14f27c279d",
+     "title": "Supreme Court clears way for Hockey India election on December 5, sets aside Orissa HC orders",
+     "link": "https://www.thehindu.com/news/national/supreme-court-clears-way-for-hockey-india-election-on-december-5-sets-aside-orissa-hc-orders/article71754025.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-28T09:10:29+00:00",
+     "summary": "The Supreme Court has permitted Hockey India to proceed with its elections on December 5, overriding previous stay orders from the Orissa High Court.",
+     "explain": "The Supreme Court intervened to resolve a legal standoff that threatened to halt the organization's leadership elections. By appointing a committee led by a retired judge, the court is attempting to settle internal grievances and ensure the sport's national administration continues to function without further legal gridlock.",
+     "related": [],
+     "story": {
+      "id": "india-hockey-india-administrative-oversight",
+      "title": "Hockey India Administrative Oversight",
+      "so_far": "Hockey India is the national governing body for field hockey in India. The organization frequently faces internal governance disputes, often involving state-level hockey units that challenge the body's electoral processes or administrative legitimacy in court.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "The Supreme Court has permitted Hockey India to proceed with its elections on December 5, overriding previous stay orders from the Orissa High Court.",
+        "link": "https://www.thehindu.com/news/national/supreme-court-clears-way-for-hockey-india-election-on-december-5-sets-aside-orissa-hc-orders/article71754025.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "907eca4e9195",
+     "title": "Palaniswami calls TVK Kallakurichi MLA’s arrest a victory for AIADMK’s sustained agitations",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-calls-tvk-kallakurichi-mlas-arrest-a-victory-for-aiadmks-sustained-agitations/article71753633.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-28T09:08:50+00:00",
+     "summary": "The arrest of a TVK party MLA in Kallakurichi has been welcomed by AIADMK leadership as a sign of their successful political pressure.",
+     "explain": "The arrest of an elected official in Tamil Nadu often serves as a flashpoint for political maneuvering between rival parties. For the AIADMK, framing this as a 'victory' is a strategy to demonstrate their influence in holding the current administration accountable for alleged legal or procedural infractions.",
+     "related": [],
+     "story": {
+      "id": "india-tamil-nadu-political-rivalries",
+      "title": "Tamil Nadu Political Rivalries",
+      "so_far": "Tamil Nadu politics is characterized by intense competition between major regional parties like the AIADMK and the DMK, along with newly emerging players like TVK. Criminal investigations against legislators are frequently used by opposing camps to highlight corruption or administrative failure.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "The arrest of a TVK party MLA in Kallakurichi has been welcomed by AIADMK leadership as a sign of their successful political pressure.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-calls-tvk-kallakurichi-mlas-arrest-a-victory-for-aiadmks-sustained-agitations/article71753633.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "76ffa34dbf03",
+     "title": "\"Mortgaging Self-Respect\": Sanjay Raut On Sharad Pawar's Delimitation Move",
+     "link": "https://www.ndtv.com/india-news/cracks-within-maharashtra-opposition-uddhav-sena-mp-sanjay-raut-attacks-sharad-pawar-over-delimitation-move-12388434#publisher=newsstand",
+     "source": "NDTV News Search Records Found 1000",
+     "published": "2026-11-28T09:08:37+00:00",
+     "summary": "Internal friction continues within the NCP(SP) regarding their strategic stance on the delimitation issue and potential cabinet positions.",
+     "explain": "Political parties often experience internal dissent when deciding how to navigate controversial legislation. Criticism from alliance members suggests that despite a united front, there are underlying disagreements on how much individual parties should compromise or 'mortgage' their positions to gain political leverage or cabinet berths.",
+     "related": [],
+     "story": {
+      "id": "india-political-realignments-and-legal-battles",
+      "title": "Political Realignments and Legal Battles",
+      "so_far": "Legislative Council elections involve complex power dynamics where alliances are often tested. Internal dissent and accusations of failing to support party-aligned candidates reflect broader instability within party hierarchies.",
+      "timeline": [
+       {
+        "date": "2026-11-05",
+        "text": "The Supreme Court redirected a legal challenge regarding rebel Trinamool Congress MLAs to the Calcutta High Court for resolution.",
+        "link": "https://www.thehindu.com/news/national/west-bengal/supreme-court-asks-calcutta-high-court-to-decide-plea-for-direction-on-disqualification-of-rebel-trinamool-mlas/article71669372.ece",
         "source": "India Latest News: Top National Headline"
        },
        {
-        "date": "2026-11-07",
-        "text": "The proposal, linked to electoral roll revisions, has triggered concerns that those removed from the rolls may also be denied government welfare services.",
-        "link": "https://www.thehindu.com/news/national/voter-id-for-welfare-what-rajiv-ranjan-singhs-proposal-could-mean/article71677492.ece",
-        "source": "India Latest News: Top National Headline"
+        "date": "2026-11-05",
+        "text": "The Supreme Court formally declined to hear the disqualification plea, referring the issue to the Calcutta High Court.",
+        "link": "https://www.ndtv.com/india-news/sc-asks-calcutta-hc-to-decide-plea-for-direction-on-disqualification-of-rebel-tmc-mlas-12286753#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
        },
        {
-        "date": "2026-11-09",
-        "text": "A Ladakh-based group has demanded an election delay, alleging that large-scale voter list deletions have occurred nationwide.",
-        "link": "https://www.thehindu.com/news/national/ladakh/postpone-panchayat-municipal-elections-to-april-may-next-year-ladakh-group/article71683915.ece",
+        "date": "2026-11-05",
+        "text": "A senior BJP leader has publicly rejected allegations of political conspiracy against the TVK government, shifting the blame onto the ruling party for unethical recruitment.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/nainar-nagenthran-rejects-tn-ministers-charge-of-aiadmk-bjp-conspiracy-to-bring-down-tvk-government/article71669007.ece",
         "source": "India Latest News: Top National Headline"
        },
        {
         "date": "2026-11-10",
-        "text": "The ECI expanded the scope of the Model Code of Conduct to include state-appointed retired officials.",
-        "link": "https://www.thehindu.com/news/national/eci-extends-model-code-restrictions-to-retired-govt-officials-engaged-by-states/article71685602.ece",
+        "text": "A rare internal 'implosion' has occurred in the National Conference, with the old guard attempting to reassert influence over Omar Abdullah's administration.",
+        "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/return-of-patriarch-farooq-steps-in-as-nc-old-guard-reasserts-influence-to-check-omar/article71683985.ece",
         "source": "India Latest News: Top National Headline"
        },
        {
-        "date": "2026-11-11",
-        "text": "A citizens' collective in Tamil Nadu is protesting the removal of 74 lakh voters from electoral rolls, citing errors in the revision process.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/over-74-lakh-voters-missing-from-tamil-nadu-electoral-rolls-says-citizens-collective/article71685695.ece",
+        "date": "2026-11-10",
+        "text": "Tensions within the United Democratic Front (UDF) have surfaced as senior leaders debate the frequency of ruling front meetings.",
+        "link": "https://www.thehindu.com/news/national/kerala/in-veiled-dig-at-satheesan-udf-convener-adoor-prakash-questions-delay-in-convening-meeting-of-ruling-front/article71685846.ece",
         "source": "India Latest News: Top National Headline"
        },
        {
-        "date": "2026-11-13",
-        "text": "Rajasthan has officially recorded over 5.26 crore voters following a recent intensive revision process.",
-        "link": "https://www.thehindu.com/news/national/rajasthan/special-summary-revision-draft-roll-records-526-crore-voters-in-rajasthan/article71697685.ece",
+        "date": "2026-11-16",
+        "text": "The Punjab BJP has officially established committees to outline its future policy goals and grievances against the opposition.",
+        "link": "https://www.thehindu.com/news/national/punjab/punjab-bjp-forms-manifesto-chargesheet-committees/article71706608.ece",
         "source": "India Latest News: Top National Headline"
        },
        {
-        "date": "2026-11-17",
-        "text": "Opposition leader Rahul Gandhi is contesting the ECI's October 26 affidavit, demanding evidence of internal consensus on the controversial electoral reform process.",
-        "link": "https://www.thehindu.com/news/national/no-proof-from-eci-to-show-sir-was-a-unanimous-decision-rahul-gandhi-to-sc/article71707772.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-17",
-        "text": "A audit found that over 1.13 lakh new voter registrations in Bengaluru lack corresponding Form 6 or Form 8 documentation.",
-        "link": "https://www.thehindu.com/news/cities/bangalore/sir-no-application-records-for-over-113-lakh-new-enrollments-in-bengalurus-final-voter-rolls/article71690564.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-18",
-        "text": "The ECI has addressed nearly all pending electoral notices regarding voter registration in Delhi.",
-        "link": "https://www.ndtv.com/india-news/32-8-lakh-of-33-lakh-sir-notices-issued-in-delhi-cleared-by-election-commission-12346165#publisher=newsstand",
+        "date": "2026-11-22",
+        "text": "Congress party members are actively countering controversial remarks made by a party leader, underscoring internal dissent.",
+        "link": "https://www.ndtv.com/india-news/congress-leader-mumtaz-patel-counters-party-mp-on-mohammed-siraj-row-slams-hate-politics-12361146#publisher=newsstand",
         "source": "NDTV News Search Records Found 1000"
        },
        {
-        "date": "2026-11-21",
-        "text": "The SIR commission is officially probing a high-profile claim by the Uttar Pradesh Chief Minister regarding mass voter exclusion.",
-        "link": "https://www.thehindu.com/news/national/independent-sir-commission-asks-cm-adityanath-for-proof-of-his-statement-that-127-crore-hindus-excluded/article71727732.ece",
+        "date": "2026-11-24",
+        "text": "A formal police complaint has been registered by a high-ranking bureaucrat against a sitting legislator, intensifying political friction.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/collector-files-complaint-against-kallakurichi-tvk-mla/article71736185.ece",
         "source": "India Latest News: Top National Headline"
        },
        {
-        "date": "2026-11-27",
-        "text": "Groups are pushing for a public audit of electoral roll deletions in Karnataka ahead of local polls, arguing the current list is inaccurate.",
-        "link": "https://www.thehindu.com/news/cities/bangalore/civil-society-groups-urge-karnataka-chief-minister-to-scrutinise-sir-deletions-ahead-of-local-polls/article71752033.ece",
+        "date": "2026-11-24",
+        "text": "A public spat between senior party leaders suggests deepening internal fractures within the Congress party in Kerala.",
+        "link": "https://www.thehindu.com/news/national/kerala/rift-within-congress-rajmohan-unnithan-challenges-shafi-parambil-to-public-debate-warns-teacher-and-disciple-will-be-exposed/article71738065.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-24",
+        "text": "The state government informed the High Court that there is a discrepancy regarding whether a formal complaint was ever submitted in the case involving a legislator and a bureaucrat.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-chief-secretary-did-not-receive-complaint-from-woman-ias-officer-over-kallakurichi-tvk-mlas-alleged-misbehaviour-madras-hc-told/article71733781.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-26",
+        "text": "A court ruling has invalidated a legislator's election following findings of procedural errors in their initial filing documents.",
+        "link": "https://www.ndtv.com/india-news/up-bjp-mla-om-kumars-election-set-aside-by-allahabad-high-court-over-nomination-paper-anomalies-12382443#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-11-28",
+        "text": "Leaders like Sanjay Raut have criticized the NCP(SP) leadership's recent political maneuvers regarding the Delimitation Bill, highlighting tension within the opposition bloc.",
+        "link": "https://www.ndtv.com/india-news/cracks-within-maharashtra-opposition-uddhav-sena-mp-sanjay-raut-attacks-sharad-pawar-over-delimitation-move-12388434#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       }
+      ]
+     }
+    },
+    {
+     "id": "30125ab7b218",
+     "title": "'Committed To Fulfil Our Promise To Nari Shakti': PM Modi On Women's Quota Bill",
+     "link": "https://www.ndtv.com/india-news/pm-modi-on-womens-quota-delimitation-bill-we-made-a-promise-to-nari-shakti-remain-committed-to-fulfilling-it-12388213#publisher=newsstand",
+     "source": "NDTV News Search Records Found 1000",
+     "published": "2026-11-28T09:06:50+00:00",
+     "summary": "Prime Minister Narendra Modi reaffirmed his commitment to the Women's Reservation Bill amid ongoing political discussions regarding the upcoming special parliamentary session.",
+     "explain": "This bill is seen as a landmark move to ensure gender representation in India's legislative bodies. Frequent mentions by the Prime Minister emphasize the government's official policy goal to elevate the role of women in public life, frequently referred to in government rhetoric as 'Nari Shakti' or women's power.",
+     "related": [],
+     "story": {
+      "id": "india-women-s-reservation-bill-implementation",
+      "title": "Women's Reservation Bill Implementation",
+      "so_far": "The Women's Reservation Bill, which seeks to reserve one-third of seats in the Lok Sabha and state legislative assemblies for women, has been a long-standing point of legislative discussion in India. It aims to increase gender parity in political decision-making, though its implementation has historically faced delays.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "Prime Minister Narendra Modi reaffirmed his commitment to the Women's Reservation Bill amid ongoing political discussions regarding the upcoming special parliamentary session.",
+        "link": "https://www.ndtv.com/india-news/pm-modi-on-womens-quota-delimitation-bill-we-made-a-promise-to-nari-shakti-remain-committed-to-fulfilling-it-12388213#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       }
+      ]
+     }
+    },
+    {
+     "id": "45bd228abd1b",
+     "title": "Karnataka to launch ‘Delhi Chalo’ protest if Centre fails to release drought relief: Karnataka CM D.K. Shivakumar",
+     "link": "https://www.thehindu.com/news/national/karnataka/karnataka-to-launch-delhi-chalo-protest-if-centre-fails-to-release-drought-relief-karnataka-cm-dk-shivakumar/article71753746.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-28T09:04:56+00:00",
+     "summary": "Karnataka CM D.K. Shivakumar has threatened to organize a protest in Delhi if the central government does not release pending drought relief funds.",
+     "explain": "When states and the center differ on the necessity or amount of disaster funding, it leads to 'cooperative federalism' tensions. The threat of a 'Delhi Chalo' (March to Delhi) protest is a common political tactic used by state leaders to signal to their constituents that they are fighting for state resources against a recalcitrant central administration.",
+     "related": [],
+     "story": {
+      "id": "india-center-state-drought-relief-dispute",
+      "title": "Center-State Drought Relief Dispute",
+      "so_far": "Drought relief is a form of financial assistance provided by the central government to states suffering from crop failure, water scarcity, and agricultural distress. The process relies on state governments providing accurate damage reports, which are then vetted by central authorities.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "Karnataka CM D.K. Shivakumar has threatened to organize a protest in Delhi if the central government does not release pending drought relief funds.",
+        "link": "https://www.thehindu.com/news/national/karnataka/karnataka-to-launch-delhi-chalo-protest-if-centre-fails-to-release-drought-relief-karnataka-cm-dk-shivakumar/article71753746.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "537a218bc5fb",
-     "title": "KPSC released a list of 4,697 candidates, who have qualified for the main examination Gazetted Probationary posts",
-     "link": "https://www.thehindu.com/news/national/karnataka/kpsc-released-a-list-of-4697-candidates-who-have-qualified-for-the-main-examination-gazetted-probationary-posts/article71751304.ece",
+     "id": "2ff683287db0",
+     "title": "Delimitation Bill a bid to reduce political representation of south Indian States: Chennithala",
+     "link": "https://www.thehindu.com/news/national/kerala/delimitation-bill-a-bid-to-reduce-political-representation-of-south-indian-states-chennithala/article71754017.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-27T19:14:16+00:00",
-     "summary": "The Karnataka Public Service Commission (KPSC) has qualified 4,697 candidates for the Gazetted Probationary main examination.",
-     "explain": "Gazetted Probationary posts are high-level government administrative jobs. A '1:15 ratio' means that for every single job vacancy, the commission selects 15 candidates from the preliminary round to compete in the main exam, making the process highly competitive.",
+     "published": "2026-11-28T09:03:56+00:00",
+     "summary": "Opposition leader Chennithala has echoed concerns that the proposed Delimitation Bill will disproportionately strip South Indian states of their political power.",
+     "explain": "The core of this argument is demographic. Because South Indian states have seen slower population growth due to effective public health and social policies, they argue they should not be penalized by having their legislative influence reduced compared to states that have grown more rapidly.",
      "related": [],
      "story": {
-      "id": "india-kpsc-recruitment-procedures",
-      "title": "KPSC Recruitment Procedures",
-      "so_far": "The KPSC conducts competitive exams to recruit officers for government departments in Karnataka. These processes involve a preliminary exam to screen candidates, followed by a main examination for the most qualified individuals, often maintained at a fixed ratio.",
+      "id": "india-delimitation-bill-legislative-debate",
+      "title": "Delimitation Bill Legislative Debate",
+      "so_far": "Delimitation is the process of redrawing the boundaries of Lok Sabha and Assembly constituencies based on population data. It is a highly sensitive political topic in India because it changes the electoral weight of states, potentially diminishing the influence of states with lower population growth, such as those in South India, while increasing it for those with higher growth.",
       "timeline": [
        {
-        "date": "2026-11-27",
-        "text": "The Karnataka Public Service Commission (KPSC) has qualified 4,697 candidates for the Gazetted Probationary main examination.",
-        "link": "https://www.thehindu.com/news/national/karnataka/kpsc-released-a-list-of-4697-candidates-who-have-qualified-for-the-main-examination-gazetted-probationary-posts/article71751304.ece",
+        "date": "2026-11-28",
+        "text": "Opposition parties are critiquing a proposed Delimitation Bill, with leaders warning that redrawing electoral boundaries could threaten federalism and unfairly impact the representation of southern states.",
+        "link": "https://www.thehindu.com/news/national/delimitation-bill-special-parliament-session-india-bloc-meeting-opposition-bjp-live-updates-november-28-2026/article71753535.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-28",
+        "text": "Opposition representatives continue to vocalize concerns that the delimitation process will favor Northern states at the expense of Southern representation.",
+        "link": "https://www.thehindu.com/news/national/kerala/delimitation-bill-a-bid-to-reduce-political-representation-of-south-indian-states-chennithala/article71754017.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "a08e8fe4ac8f",
-     "title": "Vijay reviews rainfall situation in T.N., directs steps to ensure drinking water, fodder supply",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/vijay-reviews-rainfall-situation-in-tn-directs-steps-to-ensure-drinking-water-fodder-supply/article71750406.ece",
+     "id": "24f0d6b79f9f",
+     "title": "AP to set up Skill India International Centre at Rajamahendravaram",
+     "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-to-set-up-skill-india-international-centre-at-rajamahendravaram/article71751849.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-27T19:12:56+00:00",
-     "summary": "Actor-turned-politician Vijay has reviewed the rainfall situation in Tamil Nadu and ordered officials to secure essential supplies.",
-     "explain": "The monsoon is a seasonal weather pattern that brings heavy rains, which are essential for agriculture but often overwhelm urban infrastructure. When an official or public figure 'reviews the situation,' they are checking how government departments are managing flood damage, maintaining clean drinking water supplies, and providing fodder for livestock.",
+     "published": "2026-11-28T09:03:22+00:00",
+     "summary": "Andhra Pradesh signed a memorandum to establish a Skill India International Centre in Rajamahendravaram to enhance vocational training.",
+     "explain": "Skill India centers are part of a broader government effort to harness India's 'demographic dividend'—a large, young population. By partnering with state agencies, the center aims to boost employability in specific regions, helping workers find better jobs both domestically and internationally.",
      "related": [],
      "story": {
-      "id": "india-tamil-nadu-monsoon-disruptions",
-      "title": "Tamil Nadu Monsoon Disruptions",
-      "so_far": "Coastal Tamil Nadu frequently experiences heavy rainfall during the Northeast monsoon season. Urban centers like Chennai often face infrastructure and transportation challenges when localized downpours exceed drainage capacities.",
+      "id": "india-skill-india-international-centre-initiat",
+      "title": "Skill India International Centre Initiative",
+      "so_far": "The Skill India initiative is a government program designed to train millions of Indian youth in various industry-relevant skills. These centers are intended to bridge the gap between education and employment by providing certified vocational training that meets global standards.",
       "timeline": [
        {
-        "date": "2026-10-21",
-        "text": "Chennai and four other districts have closed schools due to heavy rain and flood alerts.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-rain-schools-in-chennai-four-other-districts-declare-holiday/article71606049.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-21",
-        "text": "Cuddalore district officials have identified 239 vulnerable areas and readied 233 shelters in anticipation of the Northeast monsoon.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-minister-reviews-northeast-monsoon-preparedness-in-cuddalore/article71606919.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-24",
-        "text": "A mudslide linked to heavy rainfall caused by a developing cyclonic storm has resulted in fatalities in the Nilgiris district.",
-        "link": "https://www.thehindu.com/news/national/bay-of-bengal-weather-update-cyclone-alert-latest-weather-news-live-updates-october-24-2026/article71619022.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-26",
-        "text": "Highways department officials have restricted heavy vehicle traffic on the Kodaikanal ghat section to prevent accidents caused by heavy rains.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/rain-lashes-districts-across-southern-tamil-nadu/article71626092.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-29",
-        "text": "Disputes over administrative protocol arose after the Mayor was not informed about the Chief Minister's monsoon inspection of Ripon Buildings.",
-        "link": "https://www.thehindu.com/news/cities/chennai/chennai-corporation-council-mayor-says-she-was-not-informed-of-timing-of-cm-vijays-northeast-monsoon-inspection/article71639545.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-10-31",
-        "text": "Corporation Commissioner G.S. Sameeran issued new protocols to ensure better road maintenance and prevent waterlogging caused by high road levels.",
-        "link": "https://www.thehindu.com/news/cities/chennai/chennai-corporation-directs-engineers-to-undertake-milling-before-relaying-roads-to-prevent-rise-in-levels/article71648415.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-02",
-        "text": "Cyclone Murasu has intensified into a severe storm, forcing authorities to close schools and colleges in Chennai and Tiruvallur as heavy rains are expected.",
-        "link": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-02",
-        "text": "The cyclonic system has intensified and is forecasted to cross the south Andhra Pradesh coast.",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-live-updates-november-2-2026/article71655112.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-02",
-        "text": "District Collectors have officially declared a holiday for schools and colleges in response to heavy rains.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/cyclone-murasu-tamil-nadu-schools-colleges-holiday-chennai-november-2/article71655116.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-02",
-        "text": "Heavy rain alerts have been issued for several districts, including Chennai, Chengalpattu, and Kancheepuram, with school closures extended.",
-        "link": "https://www.thehindu.com/news/cities/chennai/storm-murasu-to-bring-very-heavy-rains-over-north-tamil-nadu/article71653048.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-27",
-        "text": "Vijay has stepped in to monitor monsoon impact and coordinate relief measures for water and fodder in affected regions.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/vijay-reviews-rainfall-situation-in-tn-directs-steps-to-ensure-drinking-water-fodder-supply/article71750406.ece",
+        "date": "2026-11-28",
+        "text": "Andhra Pradesh signed a memorandum to establish a Skill India International Centre in Rajamahendravaram to enhance vocational training.",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-to-set-up-skill-india-international-centre-at-rajamahendravaram/article71751849.ece",
         "source": "India Latest News: Top National Headline"
        }
       ]
      }
     },
     {
-     "id": "a0f74b6c25c8",
-     "title": "VCK, MMK flag concerns over SC ruling in Thirupparankundram issue",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/vck-mmk-flag-concerns-over-sc-ruling-in-thirupparankundram-issue/article71751439.ece",
+     "id": "b3c3ad5af299",
+     "title": "Thirupparankundram row: 'Deepathoon' lamp lighting likely at 5:00 p.m.; access restricted to select witnesses",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-27T19:11:15+00:00",
-     "summary": "",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "271c43722f5c",
-     "title": "CRPF arrives in Madurai to secure Thirupparankundram area",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/crpf-arrives-in-madurai-to-secure-thirupparankundram-area/article71752366.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-27T19:10:06+00:00",
-     "summary": "Public and political debate continues following a Supreme Court (SC) ruling on the Thirupparankundram land issue, with security forces deployed to the area.",
-     "explain": "Land disputes in India often involve complex historical records and competing claims between private owners, religious institutions, and the state. When the Supreme Court issues a ruling, it is the final legal word, but implementation can still face local resistance. The deployment of the CRPF (Central Reserve Police Force) indicates that the state government is taking precautions to prevent unrest in the area.",
+     "published": "2026-11-28T09:00:09+00:00",
+     "summary": "The Supreme Court is monitoring a dispute regarding the ceremonial lighting of the 'Karthigai Deepam' at a temple pillar in Thirupparankundram following allegations of executive disobedience.",
+     "explain": "This situation involves a conflict between judicial orders and executive (government) actions. The Supreme Court's involvement highlights the sensitivity of managing religious spaces, where the state must balance its duty to enforce the law with the community's desire to maintain traditional religious practices.",
      "related": [],
      "story": {
-      "id": "india-thirupparankundram-land-dispute",
-      "title": "Thirupparankundram Land Dispute",
-      "so_far": "Thirupparankundram is a significant religious and historical site in Tamil Nadu. Disputes over land ownership, temple management, or administrative control often lead to legal battles that reach the Supreme Court, sometimes triggering protests and political mobilization by various local groups.",
+      "id": "india-temple-ceremonial-rights-dispute",
+      "title": "Temple Ceremonial Rights Dispute",
+      "so_far": "Religious ceremonies at ancient temples are often governed by complex local customs and historical rights. When these traditions clash with administrative decisions or modern safety regulations, they often end up in court for resolution.",
       "timeline": [
        {
-        "date": "2026-11-27",
-        "text": "Public and political debate continues following a Supreme Court (SC) ruling on the Thirupparankundram land issue, with security forces deployed to the area.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/crpf-arrives-in-madurai-to-secure-thirupparankundram-area/article71752366.ece",
+        "date": "2026-11-28",
+        "text": "The Supreme Court is monitoring a dispute regarding the ceremonial lighting of the 'Karthigai Deepam' at a temple pillar in Thirupparankundram following allegations of executive disobedience.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece",
         "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b0ba9999c32c",
+     "title": "Human Rights Commission Seeks Report Over Removal Of Sikh Flag In Gurdaspur",
+     "link": "https://www.ndtv.com/india-news/human-rights-commission-seeks-report-over-removal-of-sikh-flag-in-punjabs-gurdaspur-12388499#publisher=newsstand",
+     "source": "NDTV News Search Records Found 1000",
+     "published": "2026-11-28T08:57:27+00:00",
+     "summary": "The National Human Rights Commission has requested a report regarding the alleged removal of a Sikh flag in Gurdaspur, citing potential human rights violations.",
+     "explain": "The removal of a religious flag is viewed by many as an infringement on the freedom of religious expression. By seeking a report, the NHRC is performing an oversight role to ensure that local authorities are not unfairly targeting or suppressing the practices of specific religious communities.",
+     "related": [],
+     "story": {
+      "id": "india-religious-expression-and-human-rights",
+      "title": "Religious Expression and Human Rights",
+      "so_far": "The NHRC is an independent statutory body in India responsible for protecting the human rights of citizens. It can launch investigations or seek reports from state authorities when allegations of discrimination, state abuse, or violations of religious freedom arise.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "The National Human Rights Commission has requested a report regarding the alleged removal of a Sikh flag in Gurdaspur, citing potential human rights violations.",
+        "link": "https://www.ndtv.com/india-news/human-rights-commission-seeks-report-over-removal-of-sikh-flag-in-punjabs-gurdaspur-12388499#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
        }
       ]
      }
@@ -1302,179 +1288,103 @@
    "label": "World",
    "articles": [
     {
-     "id": "453d3e4ed7e5",
-     "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
-     "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-27T16:53:46+00:00",
-     "summary": "Canada's Supreme Court has largely upheld a Quebec law prohibiting public servants, such as teachers and police officers, from wearing religious symbols at work.",
-     "explain": "The law prohibits employees in positions of authority—like teachers, judges, and police—from wearing items like hijabs, turbans, or crucifixes while on the job. The debate centers on the tension between Quebec's 'laïcité' (state secularism) and the Canadian Charter of Rights and Freedoms, which protects freedom of religion.",
+     "id": "30d71c3e2dda",
+     "title": "US disables ship attempting to breach Iran blockade",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-27T23:55:16+00:00",
+     "summary": "The U.S. military disabled a commercial vessel that reportedly departed from an Iranian port and refused to comply with warnings to halt. This event highlights the ongoing tensions regarding international blockades in the region.",
+     "explain": "A blockade is an act of war or a strategic maneuver intended to prevent goods or people from entering or leaving a specific area by sea. By disabling the ship, the U.S. is enforcing its geopolitical interests in the Persian Gulf, a critical region for global oil trade. This move increases the risk of direct confrontation between the U.S. and Iran.",
      "related": [],
      "story": {
-      "id": "world-quebec-religious-symbols-law",
-      "title": "Quebec Religious Symbols Law",
-      "so_far": "Known as Bill 21, the Quebec legislation has been a subject of intense national debate since its passage, balancing the province's secularist principles against individual religious freedom. Critics, including various religious organizations, have argued the law discriminates against Muslim, Sikh, and other minority groups, while proponents maintain it is necessary to preserve the state's neutrality in the public sphere.",
+      "id": "world-u-s-iran-diplomatic-standoff",
+      "title": "U.S.-Iran Diplomatic Standoff",
+      "so_far": "The International Atomic Energy Agency (IAEA) is the global body responsible for monitoring nuclear technology to ensure it is used for peaceful purposes. Access to Iranian facilities has been a central point of contention for years, particularly following military strikes that disrupted previous inspection protocols.",
       "timeline": [
        {
-        "date": "2026-11-27",
-        "text": "The Supreme Court of Canada rejected legal challenges brought by various religious groups against the provincial law.",
-        "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "125cbd836400",
-     "title": "Global fashion brands shift orders from Bangladesh to India amid unrest",
-     "link": "https://www.thehindu.com/business/global-fashion-brands-shift-orders-from-bangladesh-to-india-amid-unrest/article71752292.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-11-27T19:27:54+00:00",
-     "summary": "Global fashion brands are diverting $254 million in clothing orders from Bangladesh to India due to recent unrest in Bangladesh.",
-     "explain": "International fashion brands often outsource production to countries where labor is inexpensive. When one major manufacturing hub, such as Bangladesh, faces political or social instability, companies shift these 'orders'—contracts to produce specific batches of clothing—to other countries to ensure their supply chains remain uninterrupted. This is a significant economic opportunity for India to capture market share.",
-     "related": [],
-     "story": {
-      "id": "india-india-s-growing-apparel-manufacturing-se",
-      "title": "India's Growing Apparel Manufacturing Sector",
-      "so_far": "India has been aggressively seeking to increase its manufacturing capacity to attract foreign investment. Amidst regional instability in manufacturing hubs like Bangladesh, international brands are looking for stable alternatives in Southeast and South Asia.",
-      "timeline": [
-       {
-        "date": "2026-11-27",
-        "text": "Global fashion brands are diverting $254 million in clothing orders from Bangladesh to India due to recent unrest in Bangladesh.",
-        "link": "https://www.thehindu.com/business/global-fashion-brands-shift-orders-from-bangladesh-to-india-amid-unrest/article71752292.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "efb9059940a5",
-     "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-     "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-27T18:52:33+00:00",
-     "summary": "The Macy's Thanksgiving Day parade in New York City was delayed by two days due to severe weather, causing significant logistical and financial strain for participating marching bands.",
-     "explain": "Marching bands often spend years fundraising to travel to major parades. A sudden delay creates immediate financial problems, as groups must pay for extra days of hotel rooms, food, and bus transportation, often without clear sources of additional funding.",
-     "related": [],
-     "story": {
-      "id": "world-macy-s-parade-weather-delay",
-      "title": "Macy's Parade Weather Delay",
-      "so_far": "The Macy's Thanksgiving Day Parade is an annual tradition in New York City, involving thousands of performers and drawing millions of spectators. While it is rarely cancelled, extreme weather occasionally forces adjustments to the route or scheduling, which impacts the complex logistics of participants arriving from across the country.",
-      "timeline": [
-       {
-        "date": "2026-11-27",
-        "text": "Stormy conditions forced organizers to reschedule the event, creating travel and budget crises for many student musical groups.",
-        "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       }
-      ]
-     }
-    },
-    {
-     "id": "ff4dad67af43",
-     "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-     "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-27T18:42:50+00:00",
-     "summary": "Ukraine is bracing for another harsh winter as the war with Russia continues with no clear end in sight.",
-     "explain": "Ukraine has faced constant attacks on its energy infrastructure during winters since the 2022 invasion. The focus is on whether international support can be sustained as the conflict enters a long-term 'stalemate' phase where neither side is making significant territorial gains but the human and economic costs continue to climb.",
-     "related": [],
-     "story": {
-      "id": "world-diplomatic-talks-on-ukraine",
-      "title": "Diplomatic Talks on Ukraine",
-      "so_far": "The conflict between Russia and Ukraine has persisted since 2022, causing immense devastation and triggering massive global diplomatic and military efforts from Western allies. Attempts to negotiate peace are frequent but fragile, often undermined by continued military hostilities.",
-      "timeline": [
-       {
-        "date": "2026-11-14",
-        "text": "Zelensky revealed that US representatives proposed a controversial land-for-NATO membership swap to end the war.",
-        "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-11-03",
+        "text": "The U.S. carried out limited defensive strikes on Qeshm Island as tensions persist despite ongoing diplomatic discussions.",
+        "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
        },
        {
-        "date": "2026-11-19",
-        "text": "The Crimean Bridge has been targeted again, causing a suspension of traffic across the vital Russian supply and transit route.",
-        "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-11-20",
-        "text": "The conflict escalated with a Russian missile strike on Kyiv's infrastructure following a Ukrainian operation against the Crimean Bridge.",
-        "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-11-21",
-        "text": "Tensions have sharpened as Ukraine’s president directly challenged President-elect Trump’s characterization of his relationship with Vladimir Putin.",
-        "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-11-21",
-        "text": "New reports indicate that U.S. envoys are proposing security discussions that worry Ukraine and NATO members.",
-        "link": "https://www.thehindu.com/news/international/russia-dusts-off-its-pre-war-demands-as-the-us-raises-discussing-european-security-at-ukraine-talks/article71727588.ece",
+        "date": "2026-11-03",
+        "text": "U.S. leadership signaled optimism regarding potential diplomatic settlements with Iran despite ongoing regional military friction.",
+        "link": "https://www.thehindu.com/news/international/us-strikes-iran-strait-of-hormuz-midterm-elections-trump-netanyahu-vance/article71659244.ece",
         "source": "World News: Latest International News & "
        },
        {
-        "date": "2026-11-21",
-        "text": "The recent attack on Kryvyi Rih coincides with reports of Russian missiles landing in Poland, further complicating international peace efforts.",
-        "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
+        "date": "2026-11-03",
+        "text": "Despite military action, Iranian officials appear to be signaling a commitment to ongoing diplomatic tracks.",
+        "link": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
        },
        {
-        "date": "2026-11-21",
-        "text": "The incident adds to the growing uncertainty surrounding peace negotiations brokered by the U.S.",
-        "link": "https://www.thehindu.com/news/international/ballistic-missile-attack-on-zelenskyys-hometown-kills-2/article71729235.ece",
+        "date": "2026-11-03",
+        "text": "Hostility persists as a billboard threatening Donald Trump’s life was erected in Tehran's Enghelab Square.",
+        "link": "https://www.thehindu.com/news/international/iran-unveils-huge-billboard-with-threat-against-donald-trumps-life/article71660523.ece",
         "source": "World News: Latest International News & "
        },
        {
-        "date": "2026-11-22",
-        "text": "New footage records a Russian missile strike on a civilian area in Lviv, illustrating the continued volatility of the war.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss",
+        "date": "2026-11-03",
+        "text": "Multiple defensive strikes were reported on Qeshm Island, marking a significant escalation in the recent cycle of regional activity.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/us-conducts-series-of-defensive-strikes-against-iran?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
        },
        {
-        "date": "2026-11-22",
-        "text": "A five-storey apartment building was destroyed in a Russian strike, resulting in at least two deaths and four injuries.",
-        "link": "https://www.thehindu.com/news/international/a-russian-attack-destroyed-an-apartment-building-in-dymer-near-kyiv-killing-two-as-kaliningrad-sounded-a-rare-air-alert/article71731042.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-11-23",
-        "text": "The sinking of a Russian warship in a Libyan port demonstrates the global reach of the current conflict.",
-        "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-11-07",
+        "text": "The U.S. is using financial incentives to gather intelligence on Iran's nuclear program amidst threats of potential military strikes.",
+        "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
        },
        {
-        "date": "2026-11-24",
-        "text": "Russia retaliated against Ukrainian territory following a maritime engagement in Libya, marking a geographic expansion of the conflict.",
-        "link": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss",
+        "date": "2026-11-07",
+        "text": "The U.S. government announced a $20 million reward through the Rewards for Justice program for intelligence related to Iran's nuclear activities.",
+        "link": "https://www.thehindu.com/news/international/united-states-offers-20-million-reward-for-information-on-irans-nuclear-program-centcom/article71677324.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-12",
+        "text": "Trump publicly distanced himself from reports of pending negotiations between his Vice President and Iranian officials.",
+        "link": "https://www.thehindu.com/news/international/trump-says-us-does-not-need-a-deal-with-iran/article71695103.ece",
+        "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-13",
+        "text": "President Trump declared that the U.S. does not need a deal with Iran, potentially overruling reported efforts by Vice President Vance to initiate high-level talks.",
+        "link": "https://www.aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-11-13",
+        "text": "Iran intensified rhetoric and reported a tactical strike on a U.S. military asset in the Persian Gulf region.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-11-13",
+        "text": "The IAEA issued a renewed demand for site access, pointing to a long-term information gap regarding Iran's nuclear activities.",
+        "link": "https://www.thehindu.com/news/international/un-nuclear-watchdog-urges-iran-to-take-steps-towards-inspections/article71697585.ece",
+        "source": "World News: Latest International News & "
        },
        {
         "date": "2026-11-27",
-        "text": "Civilians and soldiers are preparing for another punishing winter of conflict, fueling international discussions about the sustainability of the war.",
-        "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "text": "The U.S. military forcibly intercepted and disabled a ship violating an Iranian blockade, signaling an escalation in maritime enforcement.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
        }
       ]
      }
     },
     {
      "id": "b70e74d828dd",
-     "title": "U.S. military says it disabled commercial ship trying to run Iran blockade",
+     "title": "U.S. disables ship trying to leave Iran, as Tehran vows to confront blockade",
      "link": "https://www.thehindu.com/news/international/us-military-says-it-disabled-commercial-ship-trying-to-run-iran-blockade/article71752214.ece",
      "source": "World News: Latest International News & ",
-     "published": "2026-11-27T18:21:56+00:00",
+     "published": "2026-11-27T19:35:02+00:00",
      "summary": "The U.S. military disabled a Palau-flagged cargo ship that was allegedly attempting to bypass a blockade related to Iranian shipping.",
      "explain": "The 'Pacific Archer' was reportedly trying to circumvent international restrictions. The U.S. uses naval and air assets to enforce these blockades, meaning 'disabling a ship' involves damaging its propulsion or steering to prevent it from reaching its destination without necessarily destroying the vessel entirely.",
-     "related": [
-      {
-       "date": "2026-11-07",
-       "title": "U.S. military says it disabled cargo vessel in Gulf of Oman",
-       "link": "https://www.thehindu.com/news/international/us-military-says-it-disabled-cargo-vessel-in-gulf-of-oman/article71679590.ece",
-       "source": "World News: Latest International News & "
-      }
-     ],
+     "related": [],
      "story": {
       "id": "world-u-s-military-blocks-ship",
       "title": "U.S. Military Blocks Ship",
@@ -1490,113 +1400,158 @@
      }
     },
     {
-     "id": "fe3c098e3351",
-     "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-     "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-27T18:00:40+00:00",
-     "summary": "President Zelensky expressed frustration with the US approach to the Ukraine-Russia war, criticizing the personal rapport between Donald Trump and Vladimir Putin.",
-     "explain": "The ongoing war in Ukraine has relied heavily on Western military and diplomatic support. Zelensky's comments highlight the anxiety in Kyiv regarding how potential changes in U.S. leadership or personal alliances might affect the level of support Ukraine receives for its defense and eventual peace negotiations.",
+     "id": "2c9f98743235",
+     "title": "Spain faces political shift as far right gains ground",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-28T08:54:02+00:00",
+     "summary": "Spain is experiencing a notable shift in its political landscape as far-right parties gain increased electoral support.",
+     "explain": "A political shift towards the far-right often involves parties advocating for stricter borders, reduced international integration, and social policies rooted in nationalism. This matters because it could alter Spain's relationship with the European Union and its approach to domestic social issues.",
      "related": [],
      "story": {
-      "id": "world-u-s-diplomatic-efforts-in-ukraine",
-      "title": "U.S. Diplomatic Efforts in Ukraine",
-      "so_far": "The war in Ukraine began with the 2022 Russian invasion, leading to widespread Western support for Kyiv. Relations between the current U.S. administration and the Ukrainian government have occasionally been strained, complicating international efforts to negotiate a peace or a ceasefire.",
+      "id": "world-spain-s-rising-far-right-politics",
+      "title": "Spain's Rising Far-Right Politics",
+      "so_far": "Spain, like many European nations, has seen a resurgence of nationalist and populist parties in recent years. This trend is often driven by public concerns regarding immigration, economic stability, and perceived failures of traditional moderate political institutions.",
       "timeline": [
        {
-        "date": "2026-10-21",
-        "text": "A U.S. envoy is engaging in high-level diplomacy with both Kyiv and Moscow to resolve tensions regarding the ongoing war.",
-        "link": "https://www.thehindu.com/news/international/us-envoy-witkoff-meets-putin-in-saint-petersburg/article71606691.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-11-27",
-        "text": "Zelensky publicly criticized the perceived closeness between Trump and Putin, suggesting the US is not applying sufficient pressure on Russia for peace.",
-        "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "date": "2026-11-28",
+        "text": "Spain reports a surge in support for far-right political movements, signaling a shift in the country's national political alignment.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
        }
       ]
      }
     },
     {
-     "id": "71137fe5cf6b",
-     "title": "Mexico files complaint with US over DEA tip line on alleged drug dealers",
-     "link": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
+     "id": "c5e632c1e278",
+     "title": "Sudanese launch clean-up drive as rubbish overwhelms Khartoum’s streets",
+     "link": "https://www.aljazeera.com/news/2026/11/28/sudanese-launch-clean-up-drive-as-garbage-overwhelms-khartoum-streets?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-27T17:58:36+00:00",
-     "summary": "Mexico has formally complained to the United States regarding a DEA-operated tip line that solicits information on alleged drug dealers within Mexican territory.",
-     "explain": "The DEA (Drug Enforcement Administration) is a U.S. agency that often conducts cross-border operations. Mexico is sensitive to these interventions, fearing that foreign agencies operate without accountability or respect for local laws. The tip line is seen by Mexico as an end-run around local law enforcement.",
+     "published": "2026-11-28T08:24:03+00:00",
+     "summary": "Residents in Khartoum, Sudan, have organized a grassroots effort to clear trash from the city's streets to mitigate disease risks following prolonged instability.",
+     "explain": "When basic municipal services like trash collection collapse, waste piles up, leading to the spread of diseases such as cholera. The grassroots clean-up drive is a response by the local community to manage these health hazards in the absence of an effective state administration.",
+     "related": [],
+     "story": {
+      "id": "world-khartoum-clean-up-efforts",
+      "title": "Khartoum Clean-up Efforts",
+      "so_far": "Sudan has been plagued by prolonged conflict and political instability, which has devastated infrastructure and basic public services. The lack of functional government oversight has led to the degradation of urban sanitation, creating dangerous living conditions for the civilian population.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "Citizens in Khartoum are leading community-driven sanitation initiatives to address a mounting public health crisis caused by waste accumulation.",
+        "link": "https://www.aljazeera.com/news/2026/11/28/sudanese-launch-clean-up-drive-as-garbage-overwhelms-khartoum-streets?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "267cd4c2de83",
+     "title": "UN’s Albanese leaves Costa Rica airport after constitutional court verdict",
+     "link": "https://www.aljazeera.com/news/2026/11/28/uns-albanese-leaves-costa-rica-airport-after-constitutional-court-verdict?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-28T08:05:18+00:00",
+     "summary": "UN official Francesca Albanese has been released from a Costa Rican airport following a constitutional court ruling.",
+     "explain": "Francesca Albanese is a UN special rapporteur, a role tasked with investigating human rights violations. Being held at an airport suggests a legal or diplomatic challenge by local authorities, which the Costa Rican high court has now overruled in favor of her release.",
+     "related": [],
+     "story": {
+      "id": "world-un-official-released-in-costa-rica",
+      "title": "UN Official Released in Costa Rica",
+      "so_far": "Diplomatic immunity and the freedom of movement for international officials are established under international law, but these rights are occasionally contested during political or legal disputes in host nations. This incident highlights tensions regarding the treatment of international representatives.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "A Costa Rican constitutional court ordered the release of UN official Francesca Albanese, who had been detained at an airport.",
+        "link": "https://www.aljazeera.com/news/2026/11/28/uns-albanese-leaves-costa-rica-airport-after-constitutional-court-verdict?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "537ab67d544c",
+     "title": "Several students reportedly killed, wounded in explosion at a middle school in eastern Afghanistan",
+     "link": "https://www.thehindu.com/news/international/several-students-reportedly-killed-wounded-in-explosion-at-a-middle-school-in-eastern-afghanistan/article71753929.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-11-28T08:03:42+00:00",
+     "summary": "Explosions occurring near schools in Afghanistan’s eastern provinces, including Kunar, have resulted in at least six student deaths, with concerns that the casualty count may rise.",
+     "explain": "These attacks on educational institutions aim to undermine public security and sow terror. In the context of Afghanistan, such violence often targets civilian morale and attempts to exert pressure on the de facto authorities.",
+     "related": [],
+     "story": {
+      "id": "world-explosions-at-afghan-schools",
+      "title": "Explosions at Afghan Schools",
+      "so_far": "Since the Taliban's return to power in 2021, security across Afghanistan has remained volatile. Schools and minority populations are frequently targeted by various militant groups, such as the Islamic State-Khorasan Province (ISKP), who oppose the current administration and seek to destabilize the country.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "At least six students have died in separate, confirmed explosions near middle schools in Afghanistan's eastern regions.",
+        "link": "https://www.thehindu.com/news/international/several-students-reportedly-killed-wounded-in-explosion-at-a-middle-school-in-eastern-afghanistan/article71753929.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "e7ae23db4d08",
+     "title": "Cheers, tears as Maria Machado seeks ideas for Venezuela reform",
+     "link": "https://www.thehindu.com/news/international/cheers-tears-as-maria-machado-seeks-ideas-for-venezuela-reform/article71753627.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-11-28T07:46:53+00:00",
+     "summary": "Maria Corina Machado is collecting democratic reform proposals in Venezuela, nearly a year after Washington’s intervention led to the ousting of Nicolas Maduro.",
+     "explain": "The 'diaspora' refers to the millions of Venezuelans who fled the country during the political and economic crisis. Machado’s initiative to include them in reform proposals is an attempt to achieve national reconciliation and stabilize the country after years of deep divisions.",
+     "related": [],
+     "story": {
+      "id": "world-post-maduro-reform-in-venezuela",
+      "title": "Post-Maduro Reform in Venezuela",
+      "so_far": "Following the collapse of the Maduro regime and subsequent U.S. intervention 11 months ago, Venezuela has entered a period of extreme political transition. The country is now attempting to rebuild its democratic institutions after years of authoritarian rule, economic collapse, and mass migration.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "Opposition leader Maria Corina Machado is gathering citizen and diaspora feedback to draft democratic reforms following the recent change in leadership.",
+        "link": "https://www.thehindu.com/news/international/cheers-tears-as-maria-machado-seeks-ideas-for-venezuela-reform/article71753627.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "bc8e248820b2",
+     "title": "At least six students killed in blast beside school in Afghanistan’s Kunar",
+     "link": "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-28T07:42:09+00:00",
+     "summary": "Official says the figures were preliminary and the casualty numbers could change as more information becomes available.",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "9590b504bfda",
+     "title": "Saudi Arabia, Houthis trade attacks on rival capitals",
+     "link": "https://www.thehindu.com/news/international/saudi-arabia-houthis-trade-attacks-on-rival-capitals/article71753601.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-11-28T07:35:52+00:00",
+     "summary": "Tensions in Yemen have intensified as Saudi-led coalition forces and Houthi rebels exchange retaliatory strikes in their respective capitals.",
+     "explain": "A proxy conflict is a war where external powers support opposing sides in a local conflict rather than fighting each other directly. By striking each other's capitals, both sides are signaling a significant escalation, raising fears of a broader regional conflict.",
      "related": [
       {
-       "date": "2026-10-21",
-       "title": "Mexico charges prosecutor with treason over US involvement in drug raid",
-       "link": "https://www.aljazeera.com/news/2026/10/21/mexico-charges-prosecutor-with-treason-over-us-involvement-in-drug-raid?traffic_source=rss",
+       "date": "2026-10-23",
+       "title": "Indian killed as Houthis attack Saudi Arabia’s Dammam airport",
+       "link": "https://www.thehindu.com/news/national/indian-national-killed-in-saudi-dammam-airport-attack-others-injured/article71610871.ece",
+       "source": "World News: Latest International News & "
+      },
+      {
+       "date": "2026-10-24",
+       "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+       "link": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
        "source": "Al Jazeera – Breaking News, World News a"
       }
      ],
      "story": {
-      "id": "world-mexico-prosecutor-treason-charge",
-      "title": "Mexico Prosecutor Treason Charge",
-      "so_far": "Mexico and the U.S. have a complex history regarding drug enforcement. Mexican law maintains strict regulations on the presence and activities of foreign agents on its soil, viewing them through the lens of national sovereignty.",
-      "timeline": [
-       {
-        "date": "2026-10-21",
-        "text": "A prosecutor is facing treason charges following a controversial drug raid involving U.S. personnel.",
-        "link": "https://www.aljazeera.com/news/2026/10/21/mexico-charges-prosecutor-with-treason-over-us-involvement-in-drug-raid?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-11-27",
-        "text": "Mexico claims the DEA's actions infringe upon its national sovereignty and complicate bilateral security cooperation.",
-        "link": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
-    },
-    {
-     "id": "945b34e0fa00",
-     "title": "Chinese Military tests new Taiwan landing tactics in coastal drills",
-     "link": "https://www.thehindu.com/news/international/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/article71752063.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-11-27T17:55:08+00:00",
-     "summary": "Geospatial data indicates that the Chinese military conducted new exercises in Dacheng Bay aimed at testing tactics for landing troops on Taiwan.",
-     "explain": "Dacheng Bay is a strategic location on China's coast. Amphibious landing tactics involve moving soldiers and equipment from sea to land, a complex military operation essential for any potential invasion or seizure of Taiwanese islands.",
-     "related": [],
-     "story": {
-      "id": "world-chinese-military-taiwan-drills",
-      "title": "Chinese Military Taiwan Drills",
-      "so_far": "China claims sovereignty over Taiwan and has steadily increased military pressure, including regular naval and air incursions. The U.S. maintains a 'One China' policy while officially supporting Taiwan's ability to defend itself, creating a fragile status quo in the Taiwan Strait.",
-      "timeline": [
-       {
-        "date": "2026-11-27",
-        "text": "Satellite imagery identified new landing drills, signaling continued preparation for potential amphibious operations against Taiwan.",
-        "link": "https://www.thehindu.com/news/international/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/article71752063.ece",
-        "source": "World News: Latest International News & "
-       }
-      ]
-     }
-    },
-    {
-     "id": "89e40441573d",
-     "title": "Saudi strike kills 11 in Yemen, reports Houthi media",
-     "link": "https://www.thehindu.com/news/international/saudi-strike-kills-11-in-yemen-reports-houthi-media/article71752134.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-11-27T17:52:06+00:00",
-     "summary": "Houthi media reports that a Saudi-led strike killed 11 people in Yemen, following a Houthi attack on a Saudi oil refinery.",
-     "explain": "The conflict in Yemen involves the Houthi movement (aligned with Iran) fighting the government (backed by a Saudi-led coalition). The 'civil war' has seen years of airstrikes, drone attacks, and blockades. Attacks on oil infrastructure and subsequent airstrikes against population centers are common escalations.",
-     "related": [],
-     "story": {
       "id": "world-houthi-strike-on-yemeni-camp",
       "title": "Houthi Strike on Yemeni Camp",
-      "so_far": "Yemen has been embroiled in a prolonged civil war involving the Houthi rebel movement, which is backed by Iran, against the internationally recognized government supported by a Saudi-led coalition. The conflict has caused one of the world's worst humanitarian crises.",
+      "so_far": "The Yemeni Civil War has been a theater for a regional proxy conflict for years. The Houthi rebels, backed by Iran, control parts of the country, while the internationally recognized government receives support from a Saudi-led coalition. Fighting often leads to devastating impacts on civilian infrastructure.",
       "timeline": [
-       {
-        "date": "2026-10-20",
-        "text": "The death toll from the missile attack has risen to 60 as officials continue searching for those missing.",
-        "link": "https://www.thehindu.com/news/international/death-toll-rises-to-60-in-houthi-strike-on-yemen-training-camp-in-deadliest-attack-in-months/article71604054.ece",
-        "source": "World News: Latest International News & "
-       },
        {
         "date": "2026-10-24",
         "text": "The Houthi movement significantly escalated its campaign by targeting major Saudi airports and energy infrastructure in retaliation for recent military actions.",
@@ -1662,29 +1617,35 @@
         "text": "The cycle of violence has intensified, with retaliatory strikes occurring between Houthi rebels and the Saudi-backed coalition.",
         "link": "https://www.thehindu.com/news/international/saudi-strike-kills-11-in-yemen-reports-houthi-media/article71752134.ece",
         "source": "World News: Latest International News & "
+       },
+       {
+        "date": "2026-11-28",
+        "text": "Direct exchanges of fire between the Houthi movement and the Saudi-led coalition have expanded to include attacks on their respective capital cities.",
+        "link": "https://www.thehindu.com/news/international/saudi-arabia-houthis-trade-attacks-on-rival-capitals/article71753601.ece",
+        "source": "World News: Latest International News & "
        }
       ]
      }
     },
     {
-     "id": "1648f7af7876",
-     "title": "Spanish rescuers treat migrants as hundreds arrive in Canary Islands",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-27T17:44:50+00:00",
-     "summary": "The Spanish military is providing medical aid to hundreds of migrants who arrived at the Canary Islands via boat.",
-     "explain": "Migrants often use small, overcrowded boats (pangas) to traverse the ocean. The 'Military Emergencies Unit' is a specialized Spanish branch that helps with disasters; its involvement indicates the scale of the arrival has surpassed the capacity of local healthcare services on the island.",
+     "id": "5da15caaccb7",
+     "title": "Australian wrestler Bronson Reed dies aged 38, WWE says",
+     "link": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-28T07:31:14+00:00",
+     "summary": "Australian professional wrestler Bronson Reed has passed away at the age of 38.",
+     "explain": "Professional wrestling is a form of sports entertainment where performers combine athletic skill with scripted storylines. Tributes for Reed highlight his impact on the global wrestling industry and his popularity among fans.",
      "related": [],
      "story": {
-      "id": "world-canary-islands-migrant-influx",
-      "title": "Canary Islands Migrant Influx",
-      "so_far": "The Canary Islands, an autonomous community of Spain located off the coast of West Africa, are a major destination for migrants crossing the Atlantic from Africa. These journeys are notoriously dangerous, and their arrival often overwhelms local infrastructure, requiring federal intervention from Madrid.",
+      "id": "world-death-of-bronson-reed",
+      "title": "Death of Bronson Reed",
+      "so_far": "Bronson Reed was a prominent figure in professional wrestling, known for his work in WWE (World Wrestling Entertainment) and other international promotions. His career made him a notable athlete within the Australian sports community.",
       "timeline": [
        {
-        "date": "2026-11-27",
-        "text": "A surge in arrivals has triggered a deployment of the Military Emergencies Unit to handle humanitarian needs on El Hierro.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
+        "date": "2026-11-28",
+        "text": "WWE performer and Australian athlete Bronson Reed has died at 38, prompting international tributes.",
+        "link": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
        }
       ]
      }
@@ -1694,6 +1655,191 @@
   "business": {
    "label": "Business & Finance",
    "articles": [
+    {
+     "id": "dad4cf7795cd",
+     "title": "Tata Sons files caveats after Bombay HC refuses relief to Tata trusts' plea",
+     "link": "https://www.thehindubusinessline.com/companies/tata-sons-files-caveats-after-bombay-hc-refuses-relief-to-tata-trusts-plea/article71753773.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-28T06:47:20+00:00",
+     "summary": "Tata Sons has filed legal caveats to ensure it is heard if Tata Trusts appeals a recent Bombay High Court ruling.",
+     "explain": "A caveat is a formal legal notice filed with a court to prevent any order from being passed without giving the filing party a chance to be heard. This dispute centers on internal governance disagreements within the philanthropic Tata Trusts and the management of Tata Sons, which is the holding company for the massive Tata Group conglomerate.",
+     "related": [
+      {
+       "date": "2026-11-27",
+       "title": "With no HC relief for Tata Trusts, Tata Sons board to meet on Monday",
+       "link": "https://www.thehindubusinessline.com/companies/bombay-high-court-declines-relief-to-tata-trusts/article71752030.ece",
+       "source": "Business News Today: Latest Business New"
+      }
+     ],
+     "story": {
+      "id": "business-tata-trusts-governance-dispute",
+      "title": "Tata Trusts Governance Dispute",
+      "so_far": "Venu Srinivasan and Vijay Singh, who have been associated with Tata entities, filed complaints alleging governance failures within Tata Trusts. The Charity Commissioner of Maharashtra is currently reviewing the matter to determine if the trust acted in compliance with regulatory standards. Meanwhile, Tata Sons is attempting to move forward with a board meeting to finalize IPO plans, which is currently the subject of the court's scrutiny.",
+      "timeline": [
+       {
+        "date": "2026-10-19",
+        "text": "Tata Trusts filed a legal response with the Charity Commissioner of Maharashtra refuting claims of mismanagement.",
+        "link": "https://www.thehindubusinessline.com/companies/tata-trusts-files-response-to-venu-srinivasan-vijay-singhs-complaints-with-charity-commissioner-of-maharashtra/article71602913.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-02",
+        "text": "Trustee Darius Khambata has resigned, citing concerns over recent board-level decisions involving leadership retention.",
+        "link": "https://www.livemint.com/companies/people/who-is-darius-khambata-harvard-alumnus-exits-tata-trusts-says-september-17-events-sullied-tata-sons-reputation-11793612555315.html",
+        "source": "mint - companies"
+       },
+       {
+        "date": "2026-11-02",
+        "text": "Khambata formally expressed that 'spin doctoring' cannot mask governance concerns following his resignation.",
+        "link": "https://www.thehindubusinessline.com/companies/darius-khambata-steps-down-from-tata-trusts-says-tata-sons-reputation-sullied-following-september-17-board-meet/article71656292.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-20",
+        "text": "Noel Tata is continuing to push for access to internal records regarding a specific September board meeting.",
+        "link": "https://www.thehindubusinessline.com/companies/noel-tata-renews-demand-for-september-17-board-meeting-recording/article71725853.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-27",
+        "text": "The charitable arm of Tata is pushing for greater board influence and is actively blocking a stock market listing for the group's holding company.",
+        "link": "https://www.thehindubusinessline.com/companies/inside-tata-sons-the-rules-the-rift-and-what-happens-next/article71749777.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-27",
+        "text": "The Bombay High Court cleared the way for Tata Sons to hold a board meeting regarding IPO plans despite ongoing legal challenges from Tata Trusts.",
+        "link": "https://www.thehindubusinessline.com/companies/bombay-high-court-declines-relief-to-tata-trusts/article71752030.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-27",
+        "text": "The court confirmed that Tata Sons can hold its meeting, with all decisions made therein remaining subject to the court’s final ruling.",
+        "link": "https://www.livemint.com/companies/tata-trusts-vs-tata-sons-bombay-high-court-11795785693009.html",
+        "source": "mint - companies"
+       },
+       {
+        "date": "2026-11-28",
+        "text": "Tata Sons preemptively filed caveats in the Bombay High Court and Supreme Court to block potential appeals from Tata Trusts regarding the company's upcoming board meeting and leadership appointments.",
+        "link": "https://www.thehindubusinessline.com/companies/tata-sons-files-caveats-after-bombay-hc-refuses-relief-to-tata-trusts-plea/article71753773.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-28",
+        "text": "Tata Sons preemptively filed caveats in the Bombay High Court and Supreme Court to block potential appeals from Tata Trusts regarding the company's upcoming board meeting and leadership appointments.",
+        "link": "https://www.livemint.com/companies/news/tata-sons-files-caveats-in-bombay-hc-sc-ahead-of-possible-tata-trusts-appeal-over-board-meeting-all-about-the-row-11795846285289.html",
+        "source": "mint - companies"
+       }
+      ]
+     }
+    },
+    {
+     "id": "850575eb2dfa",
+     "title": "Tata Sons files caveats in Bombay HC, SC ahead of possible Tata trusts' appeal over board meeting: All about the row",
+     "link": "https://www.livemint.com/companies/news/tata-sons-files-caveats-in-bombay-hc-sc-ahead-of-possible-tata-trusts-appeal-over-board-meeting-all-about-the-row-11795846285289.html",
+     "source": "mint - companies",
+     "published": "2026-11-28T06:24:08+00:00",
+     "summary": "Tata Sons has filed legal caveats to ensure it is heard if Tata Trusts appeals a recent Bombay High Court ruling.",
+     "explain": "A caveat is a formal legal notice filed with a court to prevent any order from being passed without giving the filing party a chance to be heard. This dispute centers on internal governance disagreements within the philanthropic Tata Trusts and the management of Tata Sons, which is the holding company for the massive Tata Group conglomerate.",
+     "related": [
+      {
+       "date": "2026-11-23",
+       "title": "Tata Sons board meeting deferred to November 30",
+       "link": "https://www.thehindubusinessline.com/companies/tata-sons-board-meeting-deferred-to-november-30/article71735338.ece",
+       "source": "Business News Today: Latest Business New"
+      }
+     ],
+     "story": {
+      "id": "business-tata-trusts-governance-dispute",
+      "title": "Tata Trusts Governance Dispute",
+      "so_far": "Venu Srinivasan and Vijay Singh, who have been associated with Tata entities, filed complaints alleging governance failures within Tata Trusts. The Charity Commissioner of Maharashtra is currently reviewing the matter to determine if the trust acted in compliance with regulatory standards. Meanwhile, Tata Sons is attempting to move forward with a board meeting to finalize IPO plans, which is currently the subject of the court's scrutiny.",
+      "timeline": [
+       {
+        "date": "2026-10-19",
+        "text": "Tata Trusts filed a legal response with the Charity Commissioner of Maharashtra refuting claims of mismanagement.",
+        "link": "https://www.thehindubusinessline.com/companies/tata-trusts-files-response-to-venu-srinivasan-vijay-singhs-complaints-with-charity-commissioner-of-maharashtra/article71602913.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-02",
+        "text": "Trustee Darius Khambata has resigned, citing concerns over recent board-level decisions involving leadership retention.",
+        "link": "https://www.livemint.com/companies/people/who-is-darius-khambata-harvard-alumnus-exits-tata-trusts-says-september-17-events-sullied-tata-sons-reputation-11793612555315.html",
+        "source": "mint - companies"
+       },
+       {
+        "date": "2026-11-02",
+        "text": "Khambata formally expressed that 'spin doctoring' cannot mask governance concerns following his resignation.",
+        "link": "https://www.thehindubusinessline.com/companies/darius-khambata-steps-down-from-tata-trusts-says-tata-sons-reputation-sullied-following-september-17-board-meet/article71656292.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-20",
+        "text": "Noel Tata is continuing to push for access to internal records regarding a specific September board meeting.",
+        "link": "https://www.thehindubusinessline.com/companies/noel-tata-renews-demand-for-september-17-board-meeting-recording/article71725853.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-27",
+        "text": "The charitable arm of Tata is pushing for greater board influence and is actively blocking a stock market listing for the group's holding company.",
+        "link": "https://www.thehindubusinessline.com/companies/inside-tata-sons-the-rules-the-rift-and-what-happens-next/article71749777.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-27",
+        "text": "The Bombay High Court cleared the way for Tata Sons to hold a board meeting regarding IPO plans despite ongoing legal challenges from Tata Trusts.",
+        "link": "https://www.thehindubusinessline.com/companies/bombay-high-court-declines-relief-to-tata-trusts/article71752030.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-27",
+        "text": "The court confirmed that Tata Sons can hold its meeting, with all decisions made therein remaining subject to the court’s final ruling.",
+        "link": "https://www.livemint.com/companies/tata-trusts-vs-tata-sons-bombay-high-court-11795785693009.html",
+        "source": "mint - companies"
+       },
+       {
+        "date": "2026-11-28",
+        "text": "Tata Sons preemptively filed caveats in the Bombay High Court and Supreme Court to block potential appeals from Tata Trusts regarding the company's upcoming board meeting and leadership appointments.",
+        "link": "https://www.thehindubusinessline.com/companies/tata-sons-files-caveats-after-bombay-hc-refuses-relief-to-tata-trusts-plea/article71753773.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-28",
+        "text": "Tata Sons preemptively filed caveats in the Bombay High Court and Supreme Court to block potential appeals from Tata Trusts regarding the company's upcoming board meeting and leadership appointments.",
+        "link": "https://www.livemint.com/companies/news/tata-sons-files-caveats-in-bombay-hc-sc-ahead-of-possible-tata-trusts-appeal-over-board-meeting-all-about-the-row-11795846285289.html",
+        "source": "mint - companies"
+       }
+      ]
+     }
+    },
+    {
+     "id": "2de3259d067d",
+     "title": "HDFC Bank UPI SMS alerts changing from January 1",
+     "link": "https://economictimes.indiatimes.com/wealth/save/hdfc-bank-upi-sms-alert-changes-from-january-1-2027-bank-wont-send-alerts-for-these-upi-transactions/articleshow/136239659.cms",
+     "source": "Economic Times",
+     "published": "2026-11-28T05:47:28+00:00",
+     "summary": "HDFC Bank will discontinue SMS notifications for small-value UPI transactions starting January 1, 2027.",
+     "explain": "UPI is a mobile-based payment system developed by the National Payments Corporation of India (NPCI). By stopping SMS alerts for very small transactions, banks aim to manage their operational expenses, as sending millions of text messages daily incurs significant costs.",
+     "related": [],
+     "story": {
+      "id": "business-hdfc-bank-upi-alert-policy-change",
+      "title": "HDFC Bank UPI Alert Policy Change",
+      "so_far": "UPI (Unified Payments Interface) is India's real-time payment system that enables instant bank-to-bank transfers. Banks manage billions of these transactions, and notification policies are often adjusted based on infrastructure costs and user demand.",
+      "timeline": [
+       {
+        "date": "2026-11-27",
+        "text": "The bank clarified that the SMS alert removal applies specifically to UPI transactions of ₹500 or less, with email alerts serving as the primary notification method for these users.",
+        "link": "https://www.livemint.com/companies/news/no-hdfc-bank-sms-alerts-for-upi-payments-up-to-500-from-1st-january-2027-heres-why-what-customers-should-know-11795787590342.html",
+        "source": "mint - companies"
+       },
+       {
+        "date": "2026-11-28",
+        "text": "Effective January 1, 2027, HDFC Bank will stop sending SMS alerts for UPI payments of ₹500 or less to reduce messaging costs, though email notifications will remain active for all transactions.",
+        "link": "https://economictimes.indiatimes.com/wealth/save/hdfc-bank-upi-sms-alert-changes-from-january-1-2027-bank-wont-send-alerts-for-these-upi-transactions/articleshow/136239659.cms",
+        "source": "Economic Times"
+       }
+      ]
+     }
+    },
     {
      "id": "23ae035d3d19",
      "title": "With no HC relief for Tata Trusts, Tata Sons board to meet on Monday",
@@ -1768,6 +1914,47 @@
         "text": "The court confirmed that Tata Sons can hold its meeting, with all decisions made therein remaining subject to the court’s final ruling.",
         "link": "https://www.livemint.com/companies/tata-trusts-vs-tata-sons-bombay-high-court-11795785693009.html",
         "source": "mint - companies"
+       },
+       {
+        "date": "2026-11-28",
+        "text": "Tata Sons preemptively filed caveats in the Bombay High Court and Supreme Court to block potential appeals from Tata Trusts regarding the company's upcoming board meeting and leadership appointments.",
+        "link": "https://www.thehindubusinessline.com/companies/tata-sons-files-caveats-after-bombay-hc-refuses-relief-to-tata-trusts-plea/article71753773.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-28",
+        "text": "Tata Sons preemptively filed caveats in the Bombay High Court and Supreme Court to block potential appeals from Tata Trusts regarding the company's upcoming board meeting and leadership appointments.",
+        "link": "https://www.livemint.com/companies/news/tata-sons-files-caveats-in-bombay-hc-sc-ahead-of-possible-tata-trusts-appeal-over-board-meeting-all-about-the-row-11795846285289.html",
+        "source": "mint - companies"
+       }
+      ]
+     }
+    },
+    {
+     "id": "54784eeb347d",
+     "title": "No HDFC bank SMS alerts for UPI payments up to ₹500 from 1st January 2027 - here's why; what customers should know",
+     "link": "https://www.livemint.com/companies/news/no-hdfc-bank-sms-alerts-for-upi-payments-up-to-500-from-1st-january-2027-heres-why-what-customers-should-know-11795787590342.html",
+     "source": "mint - companies",
+     "published": "2026-11-27T14:46:20+00:00",
+     "summary": "HDFC Bank will discontinue SMS notifications for small-value UPI transactions starting January 1, 2027.",
+     "explain": "UPI is a mobile-based payment system developed by the National Payments Corporation of India (NPCI). By stopping SMS alerts for very small transactions, banks aim to manage their operational expenses, as sending millions of text messages daily incurs significant costs.",
+     "related": [],
+     "story": {
+      "id": "business-hdfc-bank-upi-alert-policy-change",
+      "title": "HDFC Bank UPI Alert Policy Change",
+      "so_far": "UPI (Unified Payments Interface) is India's real-time payment system that enables instant bank-to-bank transfers. Banks manage billions of these transactions, and notification policies are often adjusted based on infrastructure costs and user demand.",
+      "timeline": [
+       {
+        "date": "2026-11-27",
+        "text": "The bank clarified that the SMS alert removal applies specifically to UPI transactions of ₹500 or less, with email alerts serving as the primary notification method for these users.",
+        "link": "https://www.livemint.com/companies/news/no-hdfc-bank-sms-alerts-for-upi-payments-up-to-500-from-1st-january-2027-heres-why-what-customers-should-know-11795787590342.html",
+        "source": "mint - companies"
+       },
+       {
+        "date": "2026-11-28",
+        "text": "Effective January 1, 2027, HDFC Bank will stop sending SMS alerts for UPI payments of ₹500 or less to reduce messaging costs, though email notifications will remain active for all transactions.",
+        "link": "https://economictimes.indiatimes.com/wealth/save/hdfc-bank-upi-sms-alert-changes-from-january-1-2027-bank-wont-send-alerts-for-these-upi-transactions/articleshow/136239659.cms",
+        "source": "Economic Times"
        }
       ]
      }
@@ -1840,190 +2027,110 @@
         "text": "The court confirmed that Tata Sons can hold its meeting, with all decisions made therein remaining subject to the court’s final ruling.",
         "link": "https://www.livemint.com/companies/tata-trusts-vs-tata-sons-bombay-high-court-11795785693009.html",
         "source": "mint - companies"
-       }
-      ]
-     }
-    },
-    {
-     "id": "0cc6ba561a78",
-     "title": "Armani heirs consider buying small slice of fashion house in stake sale, sources say",
-     "link": "https://www.livemint.com/companies/armani-heirs-consider-buying-small-slice-of-fashion-house-in-stake-sale-sources-say-11795805621602.html",
-     "source": "mint - companies",
-     "published": "2026-11-27T18:53:41+00:00",
-     "summary": "Heirs of the Armani fashion empire are reportedly exploring the potential sale of a minority stake in the company.",
-     "explain": "A 'stake sale' means the current owners are looking to sell a part of their ownership in the company to external investors. This is often done by family-owned businesses to unlock cash value, diversify assets, or prepare for long-term succession planning.",
-     "related": [],
-     "story": {
-      "id": "business-armani-heirs-consider-stake-sale",
-      "title": "Armani Heirs Consider Stake Sale",
-      "so_far": "Giorgio Armani founded his eponymous Italian luxury fashion brand in 1975. The company remains one of the few major independent fashion houses, and discussions regarding its future ownership have surfaced periodically as the founder ages.",
-      "timeline": [
+       },
        {
-        "date": "2026-11-27",
-        "text": "The Armani family is considering selling a small portion of the fashion house to investors.",
-        "link": "https://www.livemint.com/companies/armani-heirs-consider-buying-small-slice-of-fashion-house-in-stake-sale-sources-say-11795805621602.html",
+        "date": "2026-11-28",
+        "text": "Tata Sons preemptively filed caveats in the Bombay High Court and Supreme Court to block potential appeals from Tata Trusts regarding the company's upcoming board meeting and leadership appointments.",
+        "link": "https://www.thehindubusinessline.com/companies/tata-sons-files-caveats-after-bombay-hc-refuses-relief-to-tata-trusts-plea/article71753773.ece",
+        "source": "Business News Today: Latest Business New"
+       },
+       {
+        "date": "2026-11-28",
+        "text": "Tata Sons preemptively filed caveats in the Bombay High Court and Supreme Court to block potential appeals from Tata Trusts regarding the company's upcoming board meeting and leadership appointments.",
+        "link": "https://www.livemint.com/companies/news/tata-sons-files-caveats-in-bombay-hc-sc-ahead-of-possible-tata-trusts-appeal-over-board-meeting-all-about-the-row-11795846285289.html",
         "source": "mint - companies"
        }
       ]
      }
     },
     {
-     "id": "dceb970f3643",
-     "title": "Verizon in Talks to Buy Fidium in $6 Billion Deal, FT Says",
-     "link": "https://www.livemint.com/companies/verizon-in-talks-to-buy-fidium-in-6-billion-deal-ft-says-11795804342081.html",
-     "source": "mint - companies",
-     "published": "2026-11-27T18:32:21+00:00",
-     "summary": "Verizon is reportedly in negotiations to acquire the broadband operator Fidium in a deal valued at approximately $6 billion.",
-     "explain": "This acquisition, if completed, would allow Verizon to bring more customers under its broadband network. 'Broadband' refers to high-speed internet service. Buying a competitor or service provider is a standard corporate strategy to grow market share without building new infrastructure from scratch.",
+     "id": "13e8e23121c9",
+     "title": "Bond market to stay cautious ahead of RBI policy: Equirus",
+     "link": "https://www.thehindubusinessline.com/markets/bond-market-to-stay-cautious-ahead-of-rbi-policy-equirus/article71753946.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-28T09:12:33+00:00",
+     "summary": "Market analysts at Equirus predict the Indian government bond market will remain cautious as the Reserve Bank of India (RBI) prepares for its upcoming policy review.",
+     "explain": "The Reserve Bank of India (RBI) meets periodically to decide on interest rates, which directly impact the cost of borrowing for companies and consumers. When the market is 'cautious,' investors tend to hold back on making large purchases or trades because they are waiting for official signals on how the central bank will move rates.",
      "related": [],
      "story": {
-      "id": "business-verizon-fidium-acquisition-talks",
-      "title": "Verizon-Fidium Acquisition Talks",
-      "so_far": "Verizon is a major American telecommunications company known for its wireless and fiber-optic network infrastructure. In a saturated market, telecommunications firms frequently look for acquisitions to increase their subscriber count and expand their geographic reach.",
+      "id": "business-indian-bond-market-outlook",
+      "title": "Indian Bond Market Outlook",
+      "so_far": "Government securities (G-Secs) are debt instruments issued by the government to borrow money from the public. Yields, or the returns earned by investors, inversely track bond prices and are highly sensitive to RBI's monetary policy and inflation data.",
       "timeline": [
        {
-        "date": "2026-11-27",
-        "text": "Verizon is seeking to expand its broadband footprint through a potential $6 billion purchase of Fidium.",
-        "link": "https://www.livemint.com/companies/verizon-in-talks-to-buy-fidium-in-6-billion-deal-ft-says-11795804342081.html",
+        "date": "2026-11-28",
+        "text": "Analysts expect 10-year benchmark government bond yields to fluctuate between 7.18% and 7.42% in the near term due to uncertainty regarding future interest rate policies.",
+        "link": "https://www.thehindubusinessline.com/markets/bond-market-to-stay-cautious-ahead-of-rbi-policy-equirus/article71753946.ece",
+        "source": "Business News Today: Latest Business New"
+       }
+      ]
+     }
+    },
+    {
+     "id": "2f06a8b926e4",
+     "title": "IndiGo drops 10 international destinations in 2026: India's largest airline is cutting overseas flights; here’s why",
+     "link": "https://www.livemint.com/companies/news/indigo-drops-10-international-destinations-in-2026-indias-largest-airline-is-cutting-overseas-flights-here-s-why-11795856134529.html",
+     "source": "mint - companies",
+     "published": "2026-11-28T09:00:13+00:00",
+     "summary": "IndiGo, India's largest airline, has cancelled flights to 10 international destinations throughout 2026.",
+     "explain": "Airlines often cut routes when the cost of operating them—due to factors like fuel, leasing planes, or lack of passenger demand—outweighs the profit. 'Airspace restrictions' can refer to geopolitical conflicts that prevent planes from flying over certain countries, forcing longer and more expensive routes.",
+     "related": [],
+     "story": {
+      "id": "business-indigo-international-network-cuts",
+      "title": "IndiGo International Network Cuts",
+      "so_far": "IndiGo has been the dominant force in the Indian aviation market, aggressively expanding its domestic and international footprint over the last few years. Recent operational challenges in the global aviation industry, such as engine supply chain issues and pilot shortages, have forced many airlines to re-evaluate their flight networks.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "The airline cited a combination of airspace restrictions, aircraft leasing constraints, and weakened demand as reasons for withdrawing from 10 international routes this year.",
+        "link": "https://www.livemint.com/companies/news/indigo-drops-10-international-destinations-in-2026-indias-largest-airline-is-cutting-overseas-flights-here-s-why-11795856134529.html",
         "source": "mint - companies"
        }
       ]
      }
     },
     {
-     "id": "8aba265dc42c",
-     "title": "Congress finds few takers for its delimitation fight",
-     "link": "https://economictimes.indiatimes.com/news/politics-and-nation/india-blocs-unity-frays-as-allies-weigh-support-for-delimitation-bill/articleshow/136230554.cms",
-     "source": "Economic Times",
-     "published": "2026-11-27T18:07:18+00:00",
-     "summary": "Recent efforts by the Congress party to spark a political debate on constituency delimitation have gained little traction.",
-     "explain": "Delimitation essentially reshapes the electoral map. When a political party tries to make it a 'fight,' they are usually challenging the criteria used for drawing these lines. The article suggests that despite the party's efforts, the public or other political groups are not prioritizing this specific issue right now.",
+     "id": "7e30a3b648cb",
+     "title": "UK bank capital rule changes: Why UBS sees Lloyds and NatWest gaining the most",
+     "link": "https://www.livemint.com/companies/news/uk-bank-capital-rule-changes-why-ubs-sees-lloyds-and-natwest-gaining-the-most-11795855835293.html",
+     "source": "mint - companies",
+     "published": "2026-11-28T08:56:24+00:00",
+     "summary": "UBS analysts suggest that upcoming changes to UK bank capital requirements will likely favor Lloyds and NatWest.",
+     "explain": "Capital requirements are safety rules that ensure banks don't collapse if many customers default on loans. When regulators loosen these requirements, it's considered good news for the banks because it 'frees up' money they were previously required to lock away, which can then be used to pay dividends to investors or grow the business.",
      "related": [],
      "story": {
-      "id": "business-political-delimitation-debate",
-      "title": "Political Delimitation Debate",
-      "so_far": "Delimitation is the process of redrawing boundaries of Lok Sabha or Assembly constituencies based on population census data. This is a sensitive issue in India as it directly impacts the electoral representation and political power of different states.",
+      "id": "business-uk-banking-regulatory-changes",
+      "title": "UK Banking Regulatory Changes",
+      "so_far": "Banks are required by regulators to hold a certain amount of capital (cash reserves) to protect against unexpected losses. This is known as a capital adequacy ratio. Changes to these requirements can either force banks to hold more cash or allow them to return excess capital to shareholders.",
       "timeline": [
        {
-        "date": "2026-11-27",
-        "text": "The Congress party is struggling to build political momentum or public support for its position on the delimitation process.",
-        "link": "https://economictimes.indiatimes.com/news/politics-and-nation/india-blocs-unity-frays-as-allies-weigh-support-for-delimitation-bill/articleshow/136230554.cms",
-        "source": "Economic Times"
+        "date": "2026-11-28",
+        "text": "Proposed updates to capital rules could allow Lloyds and NatWest to unlock capital worth roughly 1.5% of their market value, potentially boosting their share prices.",
+        "link": "https://www.livemint.com/companies/news/uk-bank-capital-rule-changes-why-ubs-sees-lloyds-and-natwest-gaining-the-most-11795855835293.html",
+        "source": "mint - companies"
        }
       ]
      }
     },
     {
-     "id": "c017c4b725c7",
-     "title": "Rajya Sabha MP Laxmi Verma injured in road accident",
-     "link": "https://economictimes.indiatimes.com/news/politics-and-nation/rajya-sabha-mp-laxmi-verma-injured-in-road-accident-chhattisgarh-cm-vishnu-deo-sai-says/articleshow/136230628.cms",
-     "source": "Economic Times",
-     "published": "2026-11-27T17:59:09+00:00",
-     "summary": "Rajya Sabha Member of Parliament Laxmi Verma has been injured following a road accident.",
-     "explain": "This is a brief news update regarding the health of a public servant. No further geopolitical or business implications have been reported.",
+     "id": "09d72011d5f3",
+     "title": "Banned Nvidia chips surface in China despite Trump’s ‘2–3 year’ wait remark; here’s how it's linked to Alice Huang",
+     "link": "https://www.livemint.com/companies/news/banned-nvidia-chips-surface-in-china-despite-trump-s-2-3-year-wait-remark-here-s-how-its-linked-to-alice-huang-11795852454950.html",
+     "source": "mint - companies",
+     "published": "2026-11-28T08:47:18+00:00",
+     "summary": "High-end Nvidia semiconductors subject to US export bans have reportedly been found in China.",
+     "explain": "Semiconductors, or 'chips,' are the brains of modern computers. Advanced AI chips are crucial for training Large Language Models (like ChatGPT). By banning their sale to China, the US aims to maintain a technological lead by preventing its competitor from acquiring the hardware necessary to train powerful artificial intelligence systems.",
      "related": [],
      "story": {
-      "id": "business-mp-laxmi-verma-accident",
-      "title": "MP Laxmi Verma Accident",
-      "so_far": "Laxmi Verma is an elected official serving in the upper house of India's parliament. Such incidents are reported to track the status of public officials.",
+      "id": "business-us-export-bans-and-nvidia-chips",
+      "title": "US Export Bans and Nvidia Chips",
+      "so_far": "The US has imposed strict export controls on advanced AI chips, including those manufactured by Nvidia, to prevent China from utilizing them for military-related AI development. Enforcement of these bans has been a major point of tension in US-China tech relations.",
       "timeline": [
        {
-        "date": "2026-11-27",
-        "text": "Rajya Sabha MP Laxmi Verma was involved in a road accident, resulting in injuries.",
-        "link": "https://economictimes.indiatimes.com/news/politics-and-nation/rajya-sabha-mp-laxmi-verma-injured-in-road-accident-chhattisgarh-cm-vishnu-deo-sai-says/articleshow/136230628.cms",
-        "source": "Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "9b0b762bb2b1",
-     "title": "Rare and hidden cultural treasures of Kashi come into the light",
-     "link": "https://www.thehindubusinessline.com/news/variety/rare-andhidden-cultural-treasures-of-kashi-come-into-the-light/article71751238.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-27T16:48:18+00:00",
-     "summary": "The 35-day CII Banaras Biennale is currently showcasing historically hidden cultural artifacts from the city of Kashi.",
-     "explain": "A 'Biennale' is an art exhibition held every two years. This event highlights the cultural legacy of Kashi, using tourism and art displays to draw attention to the city's historical significance, which in turn can support local tourism-related businesses.",
-     "related": [],
-     "story": {
-      "id": "business-cii-banaras-biennale-exhibition",
-      "title": "CII Banaras Biennale Exhibition",
-      "so_far": "Kashi, or Varanasi, is one of the world's oldest continuously inhabited cities, serving as a major hub for Indian art, culture, and spirituality. The Confederation of Indian Industry (CII) often organizes events to boost local tourism and cultural recognition.",
-      "timeline": [
-       {
-        "date": "2026-11-27",
-        "text": "The event has brought rare cultural treasures from Kashi into the public domain for the first time.",
-        "link": "https://www.thehindubusinessline.com/news/variety/rare-andhidden-cultural-treasures-of-kashi-come-into-the-light/article71751238.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "b86e6698d081",
-     "title": "Japanese electronics maker Leo Electronics to invest ₹500 crore in Karnataka, create 800 jobs",
-     "link": "https://www.thehindubusinessline.com/news/national/japanese-electronics-maker-leo-electronics-to-invest-500-crore-in-karnataka-create-800-jobs/article71752129.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-27T16:45:01+00:00",
-     "summary": "Leo Electronics has agreed to invest ₹500 crore in Karnataka to set up operations, a move expected to create 800 jobs.",
-     "explain": "Foreign direct investment, such as this, helps grow a state's economy by bringing in capital and creating jobs. '₹500 crore' is roughly equivalent to $60 million USD. This move marks the company's commitment to the 'Make in India' ecosystem.",
-     "related": [],
-     "story": {
-      "id": "business-leo-electronics-karnataka-investment",
-      "title": "Leo Electronics Karnataka Investment",
-      "so_far": "Karnataka, and specifically Bengaluru, is a primary destination for foreign investment in India's technology and manufacturing sectors. The state government often signs Memorandums of Understanding (MoUs) to secure such investments.",
-      "timeline": [
-       {
-        "date": "2026-11-27",
-        "text": "Japanese company Leo Electronics is entering the Indian manufacturing market with a major investment in Karnataka.",
-        "link": "https://www.thehindubusinessline.com/news/national/japanese-electronics-maker-leo-electronics-to-invest-500-crore-in-karnataka-create-800-jobs/article71752129.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "b6c9e50ec08c",
-     "title": "SC cites regulatory reforms, declines to order creation of unified portal for unclaimed financial assets",
-     "link": "https://www.thehindubusinessline.com/news/sc-cites-regulatory-reforms-declines-to-order-creation-of-unified-portal-for-unclaimed-financial-assets/article71751908.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-27T16:35:32+00:00",
-     "summary": "The Supreme Court has declined to mandate a unified portal for unclaimed financial assets, citing ongoing regulatory reforms.",
-     "explain": "A 'public interest litigation' (PIL) is a legal mechanism that allows individuals to seek justice on behalf of the public. The court decided that since government regulators like the RBI and SEBI are already updating their own systems to handle unclaimed money, a new, separate portal is not required at this time.",
-     "related": [],
-     "story": {
-      "id": "business-supreme-court-unclaimed-assets-ruling",
-      "title": "Supreme Court Unclaimed Assets Ruling",
-      "so_far": "Unclaimed assets in India include bank deposits, dividends, and shares that remain inactive for years, often forgotten by their owners. Sucheta Dalal, a prominent journalist, has long advocated for better transparency in how these dormant funds are handled.",
-      "timeline": [
-       {
-        "date": "2026-11-27",
-        "text": "The Supreme Court disposed of a public interest litigation seeking a centralized portal, trusting existing regulatory improvements.",
-        "link": "https://www.thehindubusinessline.com/news/sc-cites-regulatory-reforms-declines-to-order-creation-of-unified-portal-for-unclaimed-financial-assets/article71751908.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
-    },
-    {
-     "id": "a301ee48e04d",
-     "title": "Indian retail investors post $353 million in gains from global stocks: Vested report",
-     "link": "https://www.thehindubusinessline.com/markets/indian-retail-investors-post-353-million-in-gains-from-global-stocks-vested-report/article71751389.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-27T16:19:31+00:00",
-     "summary": "Indian retail investors earned $353 million from international stock markets in 2026, according to a report by Vested.",
-     "explain": "This trend shows that Indian investors are moving beyond local assets to capture gains from international companies. The significant increase in participants indicates a growing sophistication and appetite for 'global diversification,' which is the practice of spreading risk across different international economies.",
-     "related": [],
-     "story": {
-      "id": "business-indian-investment-in-global-stocks",
-      "title": "Indian Investment in Global Stocks",
-      "so_far": "Indian investors have increasingly sought to diversify their portfolios by investing in US-listed companies, ETFs, and global bonds. Platforms like Vested provide the infrastructure for Indian nationals to access these foreign markets legally.",
-      "timeline": [
-       {
-        "date": "2026-11-27",
-        "text": "Participation in global stock markets among Indian investors increased by 51% in 2026.",
-        "link": "https://www.thehindubusinessline.com/markets/indian-retail-investors-post-353-million-in-gains-from-global-stocks-vested-report/article71751389.ece",
-        "source": "Business News Today: Latest Business New"
+        "date": "2026-11-28",
+        "text": "Despite warnings that China would be restricted from accessing advanced Blackwell chips for years, reports indicate these banned components are still surfacing in the Chinese market.",
+        "link": "https://www.livemint.com/companies/news/banned-nvidia-chips-surface-in-china-despite-trump-s-2-3-year-wait-remark-here-s-how-its-linked-to-alice-huang-11795852454950.html",
+        "source": "mint - companies"
        }
       ]
      }
@@ -2034,23 +2141,36 @@
    "label": "Markets & Crypto",
    "articles": [
     {
-     "id": "78f99b4b90b7",
+     "id": "043118f3247c",
      "title": "Gold pares gains as Fed hike risks linger, eyes first weekly rise in three weeks",
-     "link": "https://www.livemint.com/market/gold-pares-gains-as-fed-hike-risks-linger-eyes-first-weekly-rise-in-three-weeks-11795807102935.html",
-     "source": "mint - markets",
-     "published": "2026-11-27T19:18:22+00:00",
-     "summary": "Gold prices eased slightly as investors reconsidered the likelihood of further interest rate hikes from the U.S. Federal Reserve. Despite the dip, the metal remains on track for its first weekly gain in three weeks.",
-     "explain": "Gold is a 'safe-haven' asset investors buy during times of economic stress. When the Federal Reserve raises interest rates, investors often sell gold to move capital into interest-bearing assets like government bonds. A 'hike risk' means investors fear the Fed will make borrowing more expensive, which usually puts downward pressure on gold prices.",
-     "related": [],
+     "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-pares-gains-as-fed-hike-risks-linger-eyes-first-weekly-rise-in-three-weeks/articleshow/136237788.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-11-28T03:52:36+00:00",
+     "summary": "Gold prices have seen a slight recovery after hitting a 15-month low, though gains are capped by Federal Reserve interest rate concerns.",
+     "explain": "Gold is considered a 'safe-haven' asset, meaning investors buy it when they are worried about the global economy. When the Federal Reserve raises interest rates to combat inflation, it makes the dollar stronger and more attractive to investors, which often pushes the price of gold down. 'Bargain hunting' occurs when investors buy an asset after its price has fallen significantly, hoping it will recover.",
+     "related": [
+      {
+       "date": "2026-11-27",
+       "title": "Gold pares gains as Fed hike risks linger, eyes first weekly rise in three weeks",
+       "link": "https://www.livemint.com/market/gold-pares-gains-as-fed-hike-risks-linger-eyes-first-weekly-rise-in-three-weeks-11795807102935.html",
+       "source": "mint - markets"
+      }
+     ],
      "story": {
-      "id": "markets-gold-market-performance",
-      "title": "Gold Market Performance",
-      "so_far": "Gold is traditionally viewed as a hedge against inflation and economic uncertainty. Its value often moves inversely to the U.S. dollar and interest rates; when rates rise, gold (which pays no interest) becomes less attractive to investors compared to bonds or cash.",
+      "id": "markets-gold-market-price-fluctuations",
+      "title": "Gold Market Price Fluctuations",
+      "so_far": "Gold is often used by investors as a hedge against inflation and economic uncertainty. Its price is inversely related to the US dollar and interest rates; when the Federal Reserve raises rates, gold—which pays no interest—typically becomes less attractive to investors.",
       "timeline": [
        {
-        "date": "2026-11-27",
-        "text": "Gold prices are fluctuating as the market weighs Federal Reserve interest rate policy against potential inflationary pressures.",
-        "link": "https://www.livemint.com/market/gold-pares-gains-as-fed-hike-risks-linger-eyes-first-weekly-rise-in-three-weeks-11795807102935.html",
+        "date": "2026-11-28",
+        "text": "Gold prices are showing a potential weekly gain of nearly 3% following recent 15-month lows, despite pressure from a strong US dollar.",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-pares-gains-as-fed-hike-risks-linger-eyes-first-weekly-rise-in-three-weeks/articleshow/136237788.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-28",
+        "text": "Precious metals have staged a sharp rebound driven by bargain hunting and a cooling of market volatility, though US inflation remains a persistent threat.",
+        "link": "https://www.livemint.com/market/stock-market-news/gold-silver-prices-stage-stunning-comeback-after-15-month-low-can-the-rally-sustain-key-levels-trading-strategy-11795851316845.html",
         "source": "mint - markets"
        }
       ]
@@ -2313,248 +2433,188 @@
      }
     },
     {
-     "id": "423da3c05efb",
-     "title": "Standard Chartered's Zodia Custody suffers data breach, exposing client information",
-     "link": "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information",
-     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
-     "published": "2026-11-26T12:38:51+00:00",
-     "summary": "Zodia Custody, a crypto firm backed by Standard Chartered, has reported a data breach that compromised client information.",
-     "explain": "A data breach occurs when unauthorized individuals gain access to sensitive or private information stored by a company. Zodia Custody acts as a 'digital vault' for institutions, so this breach highlights the persistent risks involved in securing digital assets against increasingly sophisticated cyberattacks.",
+     "id": "a6aeb4bcce72",
+     "title": "TBZ, PC Jewellers, Kalyan, Titan: Gold price down 30% from peak but these jewellery stocks soar up to 244% in 2026 YTD",
+     "link": "https://www.livemint.com/market/stock-market-news/tbz-pc-jewellers-kalyan-titan-gold-price-down-30-from-peak-but-these-jewellery-stocks-soar-up-to-244-in-2026-ytd-11795852433989.html",
+     "source": "mint - markets",
+     "published": "2026-11-28T09:05:49+00:00",
+     "summary": "Jewellery stocks in India are surging in 2026 despite a significant decline in the price of physical gold.",
+     "explain": "Stock prices reflect the expected future value of a company. While lower gold prices might seem bad for jewellery companies, lower costs can actually stimulate consumer demand, helping these retailers sell more volume. These stocks are performing well because the companies themselves are improving their business models through debt reduction and growth strategies.",
      "related": [],
      "story": {
-      "id": "markets-zodia-custody-data-breach",
-      "title": "Zodia Custody Data Breach",
-      "so_far": "Zodia Custody is an institutional-grade crypto asset custodian supported by banking giant Standard Chartered. Cybersecurity remains a critical concern for such firms, as they hold the keys to significant digital assets on behalf of corporate and institutional clients.",
+      "id": "markets-indian-jewellery-retail-sector-performan",
+      "title": "Indian Jewellery Retail Sector Performance",
+      "so_far": "The Indian jewellery market is highly sensitive to the price of gold, which is a culturally significant investment and decorative item. Publicly traded jewellery retailers track demand shifts and are increasingly focusing on formalizing their supply chains and expanding retail footprints.",
       "timeline": [
        {
-        "date": "2026-11-26",
-        "text": "Zodia Custody confirmed a security incident involving unauthorized access to client data.",
-        "link": "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+        "date": "2026-11-28",
+        "text": "Companies like TBZ, PC Jewellers, Kalyan, and Titan have seen significant stock appreciation in 2026, driven by strong earnings and expansion efforts despite gold price volatility.",
+        "link": "https://www.livemint.com/market/stock-market-news/tbz-pc-jewellers-kalyan-titan-gold-price-down-30-from-peak-but-these-jewellery-stocks-soar-up-to-244-in-2026-ytd-11795852433989.html",
+        "source": "mint - markets"
        }
       ]
      }
     },
     {
-     "id": "c2f9a772f718",
-     "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
-     "link": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph.com News",
-     "published": "2026-11-27T19:23:00+00:00",
-     "summary": "Data from CryptoQuant indicates that large Bitcoin holders, known as 'whales,' are continuing to buy Bitcoin despite a recent market downturn. This behavior deviates from traditional selling patterns typically seen in the fourth quarter.",
-     "explain": "In crypto markets, 'whales' are individuals or entities that hold enough Bitcoin to move the market price when they trade. When whales buy during a downturn, it is often interpreted by analysts as a sign of confidence that the price will recover, as they are betting against the current negative market sentiment.",
+     "id": "ff07761ddffd",
+     "title": "Top stocks to buy on Monday, 30 Nov: Choice Broking's Kkunal V recommends three shares for next week | Target, stop loss",
+     "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-on-monday-30-nov-choice-brokings-kkunal-v-recommends-three-shares-for-next-week-target-stop-loss-11795851548679.html",
+     "source": "mint - markets",
+     "published": "2026-11-28T08:34:32+00:00",
+     "summary": "The Nifty 50 index ended a four-week winning streak, closing down at 25,607.20.",
+     "explain": "The Nifty 50 is a benchmark index that tracks the performance of the 50 largest companies on the National Stock Exchange of India. A 'winning streak' refers to consecutive weeks where the index closes higher than the week before. When this streak breaks, it often signals a cooling-off period for investors who were previously buying aggressively.",
      "related": [],
      "story": {
-      "id": "markets-bitcoin-long-term-market-outlook",
-      "title": "Bitcoin Long-term Market Outlook",
-      "so_far": "Bitcoin is a decentralized digital currency often referred to as 'digital gold' due to its fixed supply. Investors debate its role in portfolios, with proponents citing its potential for high growth and detractors pointing to its extreme price volatility and lack of intrinsic industrial value.",
+      "id": "markets-indian-stock-market-volatility",
+      "title": "Indian Stock Market Volatility",
+      "so_far": "The Nifty and Sensex are the two primary benchmarks for the Indian stock market. They track the performance of the largest companies across various sectors. Investors monitor global indices like the Dow Jones Industrial Average (DJIA) and the GIFT Nifty—an offshore derivative index—to predict how the Indian market might behave when it opens locally.",
       "timeline": [
        {
-        "date": "2026-11-21",
-        "text": "Bitcoin fell to a two-year price low as market participants abandoned risk-sensitive digital assets.",
-        "link": "https://www.livemint.com/market/cryptocurrency/bitcoin-price-crash-falls-to-lowest-level-in-two-years-what-s-behind-plunge-of-world-s-largest-cryptocurrency-11795267687216.html",
+        "date": "2026-11-17",
+        "text": "Indian indices are facing pressure from weak global sentiment, particularly from the US tech sector, though they previously benefited from foreign inflows and lower crude prices.",
+        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-senco-gold-adani-enterprises-bse-cipla-shares-in-focus-on-tuesday-17-november-full-list-11794879685406.html",
         "source": "mint - markets"
        },
        {
-        "date": "2026-11-23",
-        "text": "Bitcoin failed to mirror the strong performance of tech stocks following Jensen Huang's return to Nvidia.",
-        "link": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+        "date": "2026-11-17",
+        "text": "The anticipation of Nvidia's upcoming financial results is contributing to global caution, which is expected to dampen market performance in India today.",
+        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-17-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-cue-11794875550779.html",
+        "source": "mint - markets"
        },
        {
-        "date": "2026-11-24",
-        "text": "Bitcoin saw its price slip under the $60,000 threshold following a temporary market spike.",
-        "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+        "date": "2026-11-18",
+        "text": "The Indian market faces a potential weak opening as technical indicators show resistance for the Nifty near 25,500.",
+        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-18-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-cues-11794962131039.html",
+        "source": "mint - markets"
        },
        {
-        "date": "2026-11-24",
-        "text": "Analysts at 21Shares predict that Bitcoin's downward price pressure may continue in the near term.",
-        "link": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
+        "date": "2026-11-19",
+        "text": "Domestic Indian markets are expected to open lower due to negative signals from the GIFT Nifty index and recent losses in the Sensex and Nifty.",
+        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-coal-india-jio-financial-nalco-bharat-forge-sky-gold-dalmia-bharat-and-7-others-in-focus-11795052380903.html",
+        "source": "mint - markets"
        },
        {
-        "date": "2026-11-24",
-        "text": "Bitcoin is experiencing renewed volatility as investors weigh the potential macroeconomic impact of incoming US trade tariffs.",
-        "link": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
+        "date": "2026-11-19",
+        "text": "The GIFT Nifty signals a negative start for Indian equities as they face mixed global market conditions.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-hcl-tech-adani-green-share-price-19-november-2026/liveblog/135975324.cms",
+        "source": "Markets-Economic Times"
+       },
+       {
+        "date": "2026-11-19",
+        "text": "Indian equities are expected to fall following Wall Street losses and a stronger US dollar.",
+        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-19-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-cues-11795048871272.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-20",
+        "text": "The Indian market is showing resilience, outperforming global trends for the moment, but faces potential pressure from international market slides.",
+        "link": "https://www.livemint.com/market/pulse-of-the-street-dalal-street-extends-winning-run-as-global-markets-slide-11795181421343.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-21",
+        "text": "Nifty and Sensex recorded a four-session winning streak while investors look ahead to a busy week of corporate earnings and shareholder rewards.",
+        "link": "https://www.livemint.com/market/stock-market-news/upcoming-dividend-split-rights-issue-record-dates-next-week-nov-23-27-pashupati-cotspin-zee-ent-varvee-and-more-11795245232145.html",
+        "source": "mint - markets"
+       },
+       {
+        "date": "2026-11-22",
+        "text": "The Nifty 50 has shown strong resilience, with experts identifying 26,000 as the next major resistance level for the upcoming week.",
+        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-nifty-posts-longest-weekly-winning-streak-in-5-months-will-rally-survive-next-week-nov-2327-11795350642959.html",
+        "source": "mint - markets"
        },
        {
         "date": "2026-11-25",
-        "text": "Bitcoin price action showed weakness, falling below the $60,000 threshold amidst a general decline in altcoin valuations.",
-        "link": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-11-26",
-        "text": "November outflows reached $5.39 billion for US spot Bitcoin ETFs, highlighting a period of significant divestment for the asset class.",
-        "link": "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-26",
-        "text": "Switzerland has introduced a new spot Bitcoin ETF that stores assets directly in cold storage, marking a structural change from debt-based crypto products.",
-        "link": "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-26",
-        "text": "Bitcoin has rebounded above $60,000, though it remains significantly down from its 2025 peak.",
-        "link": "https://www.livemint.com/market/stock-market-news/bitcoin-price-today-worlds-largest-crypto-rebounds-above-60-000-but-remains-down-over-50-from-peak-11795716656707.html",
+        "text": "Indices pulled back significantly from daily highs as traders reacted to negative cues from Asian and US markets, ending the day with caution.",
+        "link": "https://www.livemint.com/market/stock-market-news/rollercoaster-ride-in-stock-market-today-nifty-pares-gains-by-270-points-sensex-crashes-over-900-from-days-high-11795593625240.html",
         "source": "mint - markets"
        },
        {
         "date": "2026-11-26",
-        "text": "Analysts note that the rise in dormant supply historically suggests that investors are holding onto their assets instead of selling, a common signal of a market bottom.",
-        "link": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
+        "text": "J.P. Morgan raised its outlook for the Nifty 50, suggesting Indian equities offer stability for investors moving away from volatile AI stocks.",
+        "link": "https://www.livemint.com/market/stock-market-news/nifty-50-to-hit-29-000-j-p-morgan-calls-indian-stocks-a-safe-haven-from-ai-trades-sees-12-upside-key-reasons-11795710323279.html",
+        "source": "mint - markets"
        },
        {
-        "date": "2026-11-27",
-        "text": "Bitcoin surged past $61,000, aligning with positive momentum in US tech futures.",
-        "link": "https://www.coindesk.com/markets/2026/11/27/bitcoin-tops-usd61-000-as-nasdaq-futures-extend-wednesday-s-rebound",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-11-27",
-        "text": "CryptoQuant data reveals that Bitcoin 'whales' are accumulating BTC rather than selling, defying historical end-of-year profit-taking trends.",
-        "link": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
+        "date": "2026-11-28",
+        "text": "The Nifty index snapped its four-week winning streak, falling 0.75% as analysts issue cautious buy recommendations.",
+        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-on-monday-30-nov-choice-brokings-kkunal-v-recommends-three-shares-for-next-week-target-stop-loss-11795851548679.html",
+        "source": "mint - markets"
        }
       ]
      }
     },
     {
-     "id": "982f89a9020b",
-     "title": "Canadian dollar holds on to weekly gain as investors bet on December rate hike",
-     "link": "https://www.livemint.com/market/canadian-dollar-holds-on-to-weekly-gain-as-investors-bet-on-december-rate-hike-11795807102867.html",
+     "id": "e424e252cf72",
+     "title": "Jaiprakash Power Ventures, CarTrade Tech among 11 smallcap stocks that plunged the most in a year, but mutual funds raised stakes",
+     "link": "https://economictimes.indiatimes.com/markets/stocks/news/jaiprakash-power-ventures-cartrade-tech-among-11-smallcap-stocks-that-plunged-the-most-in-a-year-but-mutual-funds-raised-stakes/slideshow/136242594.cms",
+     "source": "Markets-Economic Times",
+     "published": "2026-11-28T08:31:12+00:00",
+     "summary": "Institutional mutual funds have been increasing their investments in certain small-cap stocks despite these companies suffering major price drops over the past year.",
+     "explain": "When mutual funds buy shares of a company whose stock price is falling, they are often 'averaging down' or betting that the company is undervalued and will recover in the long term. Small-cap stocks are generally more volatile, meaning their prices can swing wildly compared to larger, more established 'blue-chip' companies.",
+     "related": [],
+     "story": {
+      "id": "markets-mutual-fund-small-cap-accumulation",
+      "title": "Mutual Fund Small-cap Accumulation",
+      "so_far": "Small-cap stocks represent smaller, younger, or niche companies that carry higher risk but higher growth potential than large-cap firms. Mutual funds are professional investment vehicles that pool money from many individuals to buy a diverse range of stocks, guided by research-based strategies.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "Data shows that mutual funds have consistently increased stakes in 11 major small-cap laggards, including Jaiprakash Power Ventures and CarTrade Tech, over the last five quarters.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jaiprakash-power-ventures-cartrade-tech-among-11-smallcap-stocks-that-plunged-the-most-in-a-year-but-mutual-funds-raised-stakes/slideshow/136242594.cms",
+        "source": "Markets-Economic Times"
+       }
+      ]
+     }
+    },
+    {
+     "id": "0db9c96bc5c8",
+     "title": "Mint Money Festival | Trust is the wealth that keeps Indian markets moving: NSE CEO Ashish Chauhan",
+     "link": "https://www.livemint.com/market/stock-market-news/mint-money-festival-trust-is-the-wealth-that-keeps-indian-markets-moving-nse-ceo-ashish-chauhan-11795850063118.html",
      "source": "mint - markets",
-     "published": "2026-11-27T19:18:22+00:00",
-     "summary": "The Canadian dollar maintained its weekly gains as investors anticipate a potential interest rate hike by the Bank of Canada in December. Strengthening economic expectations are supporting the currency's value.",
-     "explain": "When investors expect a central bank to raise interest rates, they often buy that country's currency to earn higher returns on their savings or bonds. This increased demand drives up the currency's value in the global exchange market.",
+     "published": "2026-11-28T08:24:48+00:00",
+     "summary": "NSE CEO Ashish Chauhan highlights that rising household participation in the stock market is built on long-term institutional trust.",
+     "explain": "Trust is a cornerstone of any financial market; it ensures that investors believe their money is safe and that trading is fair. When individual households participate, it provides the market with 'liquidity' (the ability to buy and sell easily) and reflects confidence in the nation's economic future.",
      "related": [],
      "story": {
-      "id": "markets-global-currency-market-trends",
-      "title": "Global Currency Market Trends",
-      "so_far": "The value of currencies like the yuan is influenced by national economic health and global trade sentiment. When investors lose 'risk appetite,' they often sell assets in emerging markets or currencies considered riskier and move capital into the US dollar, which is viewed as a safer, more stable store of value.",
+      "id": "markets-retail-investor-trust-in-nse",
+      "title": "Retail Investor Trust in NSE",
+      "so_far": "The National Stock Exchange (NSE) is the leading stock exchange in India. In recent years, India has seen a massive surge in 'retail' or individual investors opening demat accounts to trade directly in equities, moving away from traditional savings like gold or real estate.",
       "timeline": [
        {
-        "date": "2026-11-17",
-        "text": "The dollar index surged to 103.66 as market participants brace for potential interest rate hikes, which has pressured other currencies like the Australian dollar.",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/us-dollar-hits-19-month-peak-on-fed-hike-bets-aussie-dips/articleshow/135907267.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-11-17",
-        "text": "Gold continues to face downward pressure as the strength of the US dollar makes the precious metal less attractive compared to interest-bearing assets.",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-hovers-near-over-one-year-low-as-firm-dollar-fed-hike-bets-weigh/articleshow/135907217.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-11-18",
-        "text": "The US dollar strengthened due to expectations of continued interest rate hikes by the Federal Reserve.",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-holds-near-19-month-high-as-data-supports-case-for-us-rate-hikes/articleshow/135945560.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-11-18",
-        "text": "Gold prices dropped to their lowest levels since October 2025 as the Federal Reserve signaled more potential rate hikes.",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-over-one-year-low-ahead-of-fed-minutes/articleshow/135945512.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-11-18",
-        "text": "Both Bitcoin and gold are facing downward pressure as the market prices in a likely U.S. Federal Reserve interest rate hike.",
-        "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "Gold prices rose 0.6% as investors weigh the likelihood of a 25-basis-point US interest rate hike in December.",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-recovers-from-one-year-low-as-markets-assess-fed-rate-outlook/articleshow/135975129.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "FOMC minutes indicate a stronger consensus for interest rate hikes than previously suggested by recent votes, pushing markets to price in a December increase.",
-        "link": "https://cointelegraph.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "The offshore Chinese yuan hit a one-month low as investors seek the safety of the US dollar.",
-        "link": "https://www.livemint.com/market/offshore-chinese-yuan-drops-to-weakest-level-in-over-a-month-11795114293193.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-21",
-        "text": "The dollar index dipped to 103.86 as investor confidence wavered, while Bitcoin experienced a parallel decline below $60,000.",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-weaker-as-fed-fueled-rally-stalls-lower-us-yields-help-yen/articleshow/136045620.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-11-26",
-        "text": "Gold is declining as anticipation of a 'hawkish' Fed policy increases the appeal of the US dollar.",
-        "link": "https://www.livemint.com/market/gold-drifts-lower-as-fed-rate-hike-fears-loom-11795720313647.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-27",
-        "text": "The dollar index hit a 22-month high this week, supported by speculation regarding Federal Reserve interest rate hikes.",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-lingers-near-22-month-peak-as-ai-worries-simmer/articleshow/136207046.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-11-27",
-        "text": "The Canadian dollar is holding gains due to market bets on an upcoming interest rate increase.",
-        "link": "https://www.livemint.com/market/canadian-dollar-holds-on-to-weekly-gain-as-investors-bet-on-december-rate-hike-11795807102867.html",
+        "date": "2026-11-28",
+        "text": "NSE CEO Ashish Chauhan attributed the recent influx of Indian household capital into the markets to a fundamental increase in trust within the system.",
+        "link": "https://www.livemint.com/market/stock-market-news/mint-money-festival-trust-is-the-wealth-that-keeps-indian-markets-moving-nse-ceo-ashish-chauhan-11795850063118.html",
         "source": "mint - markets"
        }
       ]
      }
     },
     {
-     "id": "ce5e4d5a1df3",
-     "title": "OPEC+ set to keep oil production targets steady: Report",
-     "link": "https://economictimes.indiatimes.com/markets/commodities/opec-set-to-keep-oil-production-targets-steady-report/articleshow/136232084.cms",
-     "source": "Markets-Economic Times",
-     "published": "2026-11-27T18:46:42+00:00",
-     "summary": "OPEC+ is expected to maintain its current oil production targets through the first quarter of 2027. The decision comes amid uncertainty regarding global demand and ongoing geopolitical tensions.",
-     "explain": "OPEC+ (Organization of the Petroleum Exporting Countries plus Russia and other allies) manages global oil supply. By 'maintaining production targets,' they are signaling that they do not want to flood the market with oil, which would cause prices to drop, nor do they want to create an artificial shortage that could spike inflation.",
+     "id": "de14ec6ff359",
+     "title": "Gold, silver prices stage stunning comeback after 15-month low: Can the rally sustain? Key levels, trading strategy",
+     "link": "https://www.livemint.com/market/stock-market-news/gold-silver-prices-stage-stunning-comeback-after-15-month-low-can-the-rally-sustain-key-levels-trading-strategy-11795851316845.html",
+     "source": "mint - markets",
+     "published": "2026-11-28T07:50:03+00:00",
+     "summary": "Gold and silver have rebounded from 15-month lows, though analysts remain wary of the impact of future US Federal Reserve rate hikes.",
+     "explain": "Short covering occurs when investors who 'shorted' an asset (bet that its price would go down) are forced to buy it back as the price rises, which adds further upward pressure on the price. 'Market volatility' refers to the frequency and magnitude of price swings; lower volatility is generally seen as a sign of stabilization.",
      "related": [],
      "story": {
-      "id": "markets-opec-production-strategy",
-      "title": "OPEC+ Production Strategy",
-      "so_far": "OPEC+ is a group of oil-producing nations that coordinates production levels to influence global oil prices. When they keep production low, prices tend to rise; when they increase production, prices tend to fall. They must balance member needs for revenue with global economic demand.",
+      "id": "markets-gold-market-price-fluctuations",
+      "title": "Gold Market Price Fluctuations",
+      "so_far": "Gold is often used by investors as a hedge against inflation and economic uncertainty. Its price is inversely related to the US dollar and interest rates; when the Federal Reserve raises rates, gold—which pays no interest—typically becomes less attractive to investors.",
       "timeline": [
        {
-        "date": "2026-11-27",
-        "text": "OPEC+ plans to keep production levels steady through Q1 2027 despite concerns over potential global surpluses.",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/opec-set-to-keep-oil-production-targets-steady-report/articleshow/136232084.cms",
+        "date": "2026-11-28",
+        "text": "Gold prices are showing a potential weekly gain of nearly 3% following recent 15-month lows, despite pressure from a strong US dollar.",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-pares-gains-as-fed-hike-risks-linger-eyes-first-weekly-rise-in-three-weeks/articleshow/136237788.cms",
         "source": "Markets-Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "1d6c48cef7b5",
-     "title": "Copper sweeps higher as China offers stock market support",
-     "link": "https://economictimes.indiatimes.com/markets/commodities/copper-sweeps-higher-as-china-offers-stock-market-support/articleshow/136232015.cms",
-     "source": "Markets-Economic Times",
-     "published": "2026-11-27T18:43:45+00:00",
-     "summary": "Copper prices rose following China's announcement of new support measures for its stock market. Stronger Chinese industrial profit data also contributed to a more positive outlook for the metal.",
-     "explain": "Copper is a vital industrial metal. When China—a major hub for manufacturing—announces policies to support its stock market, it usually implies that more construction and infrastructure projects will be funded. This increases demand for copper, causing its price to rise on global exchanges.",
-     "related": [],
-     "story": {
-      "id": "markets-copper-market-and-china-economic-policy",
-      "title": "Copper Market and China Economic Policy",
-      "so_far": "Copper is often called 'Dr. Copper' because its price is seen as a health indicator for the global economy, as it is used heavily in construction, electronics, and manufacturing. China is the world's largest consumer of copper, so Chinese economic health is the primary driver of global copper prices.",
-      "timeline": [
+       },
        {
-        "date": "2026-11-27",
-        "text": "Copper prices rebounded after the Chinese government announced supportive economic policies.",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/copper-sweeps-higher-as-china-offers-stock-market-support/articleshow/136232015.cms",
-        "source": "Markets-Economic Times"
+        "date": "2026-11-28",
+        "text": "Precious metals have staged a sharp rebound driven by bargain hunting and a cooling of market volatility, though US inflation remains a persistent threat.",
+        "link": "https://www.livemint.com/market/stock-market-news/gold-silver-prices-stage-stunning-comeback-after-15-month-low-can-the-rally-sustain-key-levels-trading-strategy-11795851316845.html",
+        "source": "mint - markets"
        }
       ]
      }
