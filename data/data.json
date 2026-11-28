@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-28T09:15:15.272441+00:00",
- "prices_generated": "2026-11-28T11:15:37.114553+00:00",
+ "generated": "2026-11-28T18:21:04.007945+00:00",
+ "prices_generated": "2026-11-28T18:21:04.007945+00:00",
  "ai": "gemini",
- "pulse": "Indian markets retreated today as investors likely reacted to ongoing corporate tensions surrounding Tata Sons board meetings. Conversely, US indices surged significantly, possibly fueled by positive market sentiment and bullish momentum in the technology sector. Meanwhile, gold and silver saw sharp gains, likely serving as a hedge for investors amidst broader global economic uncertainty, while major cryptocurrencies remained largely stagnant.",
+ "pulse": null,
  "ticker_strip": [
   "^NSEI",
   "^BSESN",
@@ -253,10 +253,10 @@
   "BTC-USD": {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 59198.1484,
-   "change": -668.2227,
-   "pct": -1.12,
-   "pct_1m": -27.16,
+   "price": 59373.9297,
+   "change": -492.4414,
+   "pct": -0.82,
+   "pct_1m": -26.94,
    "spark": [
     81267.5859,
     77775.1094,
@@ -289,17 +289,17 @@
     60378.1992,
     60494.7109,
     59866.3711,
-    59198.1484
+    59373.9297
    ],
    "asof": "2026-11-28"
   },
   "ETH-USD": {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 1646.02,
-   "change": -15.0632,
-   "pct": -0.91,
-   "pct_1m": -30.18,
+   "price": 1643.97,
+   "change": -17.1133,
+   "pct": -1.03,
+   "pct_1m": -30.27,
    "spark": [
     2357.624,
     2249.4983,
@@ -332,17 +332,17 @@
     1690.769,
     1687.7418,
     1661.0833,
-    1646.02
+    1643.97
    ],
    "asof": "2026-11-28"
   },
   "SOL-USD": {
    "symbol": "SOL-USD",
    "name": "Solana",
-   "price": 70.72,
-   "change": -0.8603,
-   "pct": -1.2,
-   "pct_1m": -30.88,
+   "price": 70.35,
+   "change": -1.2303,
+   "pct": -1.72,
+   "pct_1m": -31.24,
    "spark": [
     102.3075,
     95.4941,
@@ -375,7 +375,7 @@
     70.3932,
     70.9328,
     71.5803,
-    70.72
+    70.35
    ],
    "asof": "2026-11-28"
   },
@@ -975,11 +975,304 @@
    "label": "India",
    "articles": [
     {
+     "id": "2943798c7f59",
+     "title": "7 women among 8 killed after vehicle falls into 300-metre gorge in Uttarakhand",
+     "link": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-accident-death-toll-updates/article71755407.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-28T17:09:53+00:00",
+     "summary": "Eight people, including seven women, were killed when their vehicle plunged into a 300-meter gorge in Uttarakhand's Pauri district.",
+     "explain": "A gorge is a narrow, deep valley between hills or mountains. In this context, the accident highlights the inherent dangers of traveling on treacherous mountain roads, where a single loss of control can lead to fatal drops.",
+     "related": [
+      {
+       "date": "2026-10-25",
+       "title": "One killed as off-road vehicle plunges into gorge at Kakkadampoyil in Keralam’s Kozhikode",
+       "link": "https://www.thehindu.com/news/national/kerala/one-killed-as-off-road-vehicle-plunges-into-gorge-at-kakkadampoyil-in-keralams-kozhikode/article71624454.ece",
+       "source": "India Latest News: Top National Headline"
+      }
+     ],
+     "story": {
+      "id": "india-uttarakhand-fatal-road-accident",
+      "title": "Uttarakhand Fatal Road Accident",
+      "so_far": "Road accidents in the mountainous terrain of Uttarakhand are a recurring concern due to narrow roads, steep cliffs, and frequent landslides. Local authorities rely on the SDRF for rapid response and rescue efforts in these remote, high-altitude regions.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "A tragic vehicle crash in Pauri district resulted in eight fatalities, prompting a recovery operation by local police and the State Disaster Response Force (SDRF).",
+        "link": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-accident-death-toll-updates/article71755407.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "6d080fe21b2c",
+     "title": "INDIA bloc to oppose delimitation Bills; Rahul warns of 'murder' of democracy",
+     "link": "https://www.thehindu.com/news/national/india-bloc-decides-to-oppose-delimitation-bill-says-it-is-against-scssts-will-end-democracy/article71754026.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-28T16:40:18+00:00",
+     "summary": "The INDIA bloc has united to oppose the government's upcoming delimitation bills, which they argue threaten democratic representation.",
+     "explain": "Delimitation is the act of redrawing the boundaries of Parliamentary and Assembly constituencies to ensure each vote has similar weight. The Opposition fears these specific bills may alter the balance of power in the Presidential electoral college and disproportionately affect southern states, potentially diluting their political voice.",
+     "related": [],
+     "story": {
+      "id": "india-opposition-to-delimitation-bills",
+      "title": "Opposition to Delimitation Bills",
+      "so_far": "Delimitation is the process of redrawing electoral boundaries to reflect population changes. It is a politically sensitive issue in India because it impacts the number of seats states hold in the parliament, often leading to tensions between northern and southern states regarding political influence.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "Opposition leaders, led by Rahul Gandhi and Mallikarjun Kharge, are organizing a national campaign and reaching out to allies to stall the new delimitation and constitutional amendment bills.",
+        "link": "https://www.thehindu.com/news/national/india-bloc-decides-to-oppose-delimitation-bill-says-it-is-against-scssts-will-end-democracy/article71754026.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-28",
+        "text": "Mallikarjun Kharge compared the potential consequences of the government's move to political structures in China, intensifying the rhetoric against the legislative proposal.",
+        "link": "https://www.ndtv.com/india-news/threat-to-democracy-india-bloc-to-oppose-delimitation-move-12389694#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-11-28",
+        "text": "The proposed 132nd Amendment Bill and Delimitation (Second) Bill could shift the value of MP and MLA votes in the Presidential election, raising concerns about the future balance of power between different government houses.",
+        "link": "https://www.thehindu.com/news/national/new-bills-will-expand-presidential-electoral-college-dilute-value-of-mp-mla-votes/article71754699.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-28",
+        "text": "Congress is actively lobbying Chief Ministers of southern states to publicly oppose the delimitation exercise, describing the proposed policy as 'divisive.'",
+        "link": "https://www.thehindu.com/news/national/congress-reaches-out-to-dmk-other-opposition-parties-to-stall-passage-of-delimitation-bill/article71751727.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "49c7484015e2",
+     "title": "\"Threat To Democracy\": INDIA Bloc To Oppose Delimitation Move",
+     "link": "https://www.ndtv.com/india-news/threat-to-democracy-india-bloc-to-oppose-delimitation-move-12389694#publisher=newsstand",
+     "source": "NDTV News Search Records Found 1000",
+     "published": "2026-11-28T14:21:50+00:00",
+     "summary": "The INDIA bloc continues its protest against the government's proposed delimitation measures, labeling the move a threat to democratic integrity.",
+     "explain": "The Opposition is criticizing the government's planned changes to constituency borders. They believe these changes could undermine the democratic process, suggesting that shifting political weight could lead to centralized control, which they contrast against India's parliamentary democratic system.",
+     "related": [],
+     "story": {
+      "id": "india-opposition-to-delimitation-bills",
+      "title": "Opposition to Delimitation Bills",
+      "so_far": "Delimitation is the process of redrawing electoral boundaries to reflect population changes. It is a politically sensitive issue in India because it impacts the number of seats states hold in the parliament, often leading to tensions between northern and southern states regarding political influence.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "Opposition leaders, led by Rahul Gandhi and Mallikarjun Kharge, are organizing a national campaign and reaching out to allies to stall the new delimitation and constitutional amendment bills.",
+        "link": "https://www.thehindu.com/news/national/india-bloc-decides-to-oppose-delimitation-bill-says-it-is-against-scssts-will-end-democracy/article71754026.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-28",
+        "text": "Mallikarjun Kharge compared the potential consequences of the government's move to political structures in China, intensifying the rhetoric against the legislative proposal.",
+        "link": "https://www.ndtv.com/india-news/threat-to-democracy-india-bloc-to-oppose-delimitation-move-12389694#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-11-28",
+        "text": "The proposed 132nd Amendment Bill and Delimitation (Second) Bill could shift the value of MP and MLA votes in the Presidential election, raising concerns about the future balance of power between different government houses.",
+        "link": "https://www.thehindu.com/news/national/new-bills-will-expand-presidential-electoral-college-dilute-value-of-mp-mla-votes/article71754699.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-28",
+        "text": "Congress is actively lobbying Chief Ministers of southern states to publicly oppose the delimitation exercise, describing the proposed policy as 'divisive.'",
+        "link": "https://www.thehindu.com/news/national/congress-reaches-out-to-dmk-other-opposition-parties-to-stall-passage-of-delimitation-bill/article71751727.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "62f7f6218c38",
+     "title": "Six arrested in Ongole gold dacoity case",
+     "link": "https://www.thehindu.com/news/national/andhra-pradesh/six-arrested-in-ongole-gold-dacoity-case/article71755433.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-28T18:16:37+00:00",
+     "summary": "Police in Ongole have arrested six individuals, including a family member, in connection with a major gold theft.",
+     "explain": "Dacoity is a legal term in South Asia referring to robbery committed by a group of five or more people. The recovery of the stolen goods is a key step in ensuring accountability for the theft.",
+     "related": [
+      {
+       "date": "2026-10-22",
+       "title": "Three accused in Pilathara gold robbery case in Keralam’s Kannur arrested",
+       "link": "https://www.thehindu.com/news/national/kerala/three-accused-in-pilathara-gold-robbery-case-in-keralams-kannur-arrested/article71610416.ece",
+       "source": "India Latest News: Top National Headline"
+      }
+     ],
+     "story": {
+      "id": "india-ongole-gold-dacoity-case",
+      "title": "Ongole Gold Dacoity Case",
+      "so_far": "Dacoity, or armed robbery, remains a serious criminal offense in India. Local police investigations in towns like Ongole often involve tracking complex networks of perpetrators when incidents involve high-value assets like gold.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "Authorities recovered over 500 grams of gold worth ₹60 lakh after apprehending suspects involved in the heist.",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/six-arrested-in-ongole-gold-dacoity-case/article71755433.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "88bc2f4f7717",
+     "title": "Chithra recalls encouragement extended by Telugu music lovers",
+     "link": "https://www.thehindu.com/news/national/andhra-pradesh/chithra-recalls-encouragement-extended-by-telugu-music-lovers/article71754619.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-28T18:13:52+00:00",
+     "summary": "Playback singer Chithra is preparing for live musical concerts in Vijayawada and Visakhapatnam this December.",
+     "explain": "A playback singer is a professional who records songs that are used in films, with actors performing the lyrics on screen. These concerts are major cultural events, highlighting the deep regional popularity of cinematic music in Andhra Pradesh.",
+     "related": [],
+     "story": {
+      "id": "india-chithra-musical-concert-tour",
+      "title": "Chithra Musical Concert Tour",
+      "so_far": "Playback singing is a central element of the Indian film industry, where professional singers record tracks that actors lip-sync to on screen. Artists like Chithra maintain significant cultural influence and draw large crowds for live performances.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "The singer announced upcoming performances at the IGMC stadium and Radisson Blu Resort to celebrate her connection with Telugu audiences.",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/chithra-recalls-encouragement-extended-by-telugu-music-lovers/article71754619.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "0353e628bf23",
+     "title": "Fresh tension erupts at SRFTI as police removes makeshift stage set up by students",
+     "link": "https://www.thehindu.com/news/cities/kolkata/fresh-tension-erupts-at-srfti-as-police-removes-makeshift-stage-set-up-by-students/article71753767.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-28T18:13:49+00:00",
+     "summary": "Tensions rose at the Satyajit Ray Film and Television Institute (SRFTI) after police cleared a student-built stage.",
+     "explain": "SRFTI is an autonomous film school in India. When students erect stages or protests, it often signals an ongoing dispute regarding student rights or academic policies, leading to a visible police presence intended to maintain order on campus grounds.",
+     "related": [],
+     "story": {
+      "id": "india-srfti-campus-tensions",
+      "title": "SRFTI Campus Tensions",
+      "so_far": "SRFTI is a premier film training institute in Kolkata. Conflicts between student bodies and administration often arise over issues of campus expression, governance, or administrative policy, sometimes leading to police intervention.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "Police barricaded the entrance and removed a makeshift stage erected by students, leading to fresh unrest on campus.",
+        "link": "https://www.thehindu.com/news/cities/kolkata/fresh-tension-erupts-at-srfti-as-police-removes-makeshift-stage-set-up-by-students/article71753767.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "0706dc30e97f",
+     "title": "New Bills will expand Presidential electoral college, dilute value of MP-MLA votes",
+     "link": "https://www.thehindu.com/news/national/new-bills-will-expand-presidential-electoral-college-dilute-value-of-mp-mla-votes/article71754699.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-28T18:01:00+00:00",
+     "summary": "New constitutional and delimitation bills are set to alter the Presidential electoral college, potentially reducing the influence of the Rajya Sabha.",
+     "explain": "The Presidential electoral college consists of elected members of both houses of Parliament and legislative assemblies. By changing how boundaries are drawn and potentially freezing seat counts while population changes, the bills shift how much 'weight' each representative's vote carries, directly changing how the President is selected.",
+     "related": [],
+     "story": {
+      "id": "india-opposition-to-delimitation-bills",
+      "title": "Opposition to Delimitation Bills",
+      "so_far": "Delimitation is the process of redrawing electoral boundaries to reflect population changes. It is a politically sensitive issue in India because it impacts the number of seats states hold in the parliament, often leading to tensions between northern and southern states regarding political influence.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "Opposition leaders, led by Rahul Gandhi and Mallikarjun Kharge, are organizing a national campaign and reaching out to allies to stall the new delimitation and constitutional amendment bills.",
+        "link": "https://www.thehindu.com/news/national/india-bloc-decides-to-oppose-delimitation-bill-says-it-is-against-scssts-will-end-democracy/article71754026.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-28",
+        "text": "Mallikarjun Kharge compared the potential consequences of the government's move to political structures in China, intensifying the rhetoric against the legislative proposal.",
+        "link": "https://www.ndtv.com/india-news/threat-to-democracy-india-bloc-to-oppose-delimitation-move-12389694#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-11-28",
+        "text": "The proposed 132nd Amendment Bill and Delimitation (Second) Bill could shift the value of MP and MLA votes in the Presidential election, raising concerns about the future balance of power between different government houses.",
+        "link": "https://www.thehindu.com/news/national/new-bills-will-expand-presidential-electoral-college-dilute-value-of-mp-mla-votes/article71754699.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-28",
+        "text": "Congress is actively lobbying Chief Ministers of southern states to publicly oppose the delimitation exercise, describing the proposed policy as 'divisive.'",
+        "link": "https://www.thehindu.com/news/national/congress-reaches-out-to-dmk-other-opposition-parties-to-stall-passage-of-delimitation-bill/article71751727.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "21834e5caf7e",
+     "title": "Denmark and Europe must build a stronger partnership with India: Rasmussen",
+     "link": "https://www.thehindu.com/news/national/india-is-a-great-power-whose-rise-we-will-continue-to-witness-danish-fm-as-5-year-action-plan-adopted/article71754760.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-28T17:57:06+00:00",
+     "summary": "Danish Foreign Minister Rasmussen called for stronger partnerships between India and Europe to address global instability.",
+     "explain": "Multilateral collaboration refers to cooperation between multiple countries or organizations. Strengthening ties with Europe is strategic for India, as it opens doors for technology transfers, green energy cooperation, and shared security initiatives.",
+     "related": [],
+     "story": {
+      "id": "india-india-europe-diplomatic-ties",
+      "title": "India-Europe Diplomatic Ties",
+      "so_far": "India’s foreign policy increasingly emphasizes 'multi-alignment,' maintaining strong strategic ties with Western nations, the EU, and other global powers to navigate current geopolitical tensions.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "Denmark is advocating for increased multilateral collaboration with India to resolve ongoing international conflicts.",
+        "link": "https://www.thehindu.com/news/national/india-is-a-great-power-whose-rise-we-will-continue-to-witness-danish-fm-as-5-year-action-plan-adopted/article71754760.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
+     "id": "270fb1f15149",
+     "title": "Congress reaches out to DMK, other Opposition parties to stall passage of delimitation Bill",
+     "link": "https://www.thehindu.com/news/national/congress-reaches-out-to-dmk-other-opposition-parties-to-stall-passage-of-delimitation-bill/article71751727.ece",
+     "source": "India Latest News: Top National Headline",
+     "published": "2026-11-28T17:54:35+00:00",
+     "summary": "The Congress party is mobilizing opposition state leaders to campaign against the government's delimitation bills.",
+     "explain": "The Opposition is utilizing a state-level lobbying strategy to challenge federal legislation. By involving Chief Ministers, they hope to amplify regional concerns that the redrawing of electoral maps might favor some states at the expense of others, specifically targeting the political power balance between India's diverse regions.",
+     "related": [],
+     "story": {
+      "id": "india-opposition-to-delimitation-bills",
+      "title": "Opposition to Delimitation Bills",
+      "so_far": "Delimitation is the process of redrawing electoral boundaries to reflect population changes. It is a politically sensitive issue in India because it impacts the number of seats states hold in the parliament, often leading to tensions between northern and southern states regarding political influence.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "Opposition leaders, led by Rahul Gandhi and Mallikarjun Kharge, are organizing a national campaign and reaching out to allies to stall the new delimitation and constitutional amendment bills.",
+        "link": "https://www.thehindu.com/news/national/india-bloc-decides-to-oppose-delimitation-bill-says-it-is-against-scssts-will-end-democracy/article71754026.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-28",
+        "text": "Mallikarjun Kharge compared the potential consequences of the government's move to political structures in China, intensifying the rhetoric against the legislative proposal.",
+        "link": "https://www.ndtv.com/india-news/threat-to-democracy-india-bloc-to-oppose-delimitation-move-12389694#publisher=newsstand",
+        "source": "NDTV News Search Records Found 1000"
+       },
+       {
+        "date": "2026-11-28",
+        "text": "The proposed 132nd Amendment Bill and Delimitation (Second) Bill could shift the value of MP and MLA votes in the Presidential election, raising concerns about the future balance of power between different government houses.",
+        "link": "https://www.thehindu.com/news/national/new-bills-will-expand-presidential-electoral-college-dilute-value-of-mp-mla-votes/article71754699.ece",
+        "source": "India Latest News: Top National Headline"
+       },
+       {
+        "date": "2026-11-28",
+        "text": "Congress is actively lobbying Chief Ministers of southern states to publicly oppose the delimitation exercise, describing the proposed policy as 'divisive.'",
+        "link": "https://www.thehindu.com/news/national/congress-reaches-out-to-dmk-other-opposition-parties-to-stall-passage-of-delimitation-bill/article71751727.ece",
+        "source": "India Latest News: Top National Headline"
+       }
+      ]
+     }
+    },
+    {
      "id": "668b4899e507",
-     "title": "Delimitation Bill LIVE: This Bill is dangerous to democracy, says Kharge; DMK announces support for Centre's proposal",
+     "title": "Delimitation Bill highlights: 'The number 850 represents murder of democracy,' says Rahul; DMK announces support for Centre's proposal",
      "link": "https://www.thehindu.com/news/national/delimitation-bill-special-parliament-session-india-bloc-meeting-opposition-bjp-live-updates-november-28-2026/article71753535.ece",
      "source": "India Latest News: Top National Headline",
-     "published": "2026-11-28T09:11:50+00:00",
+     "published": "2026-11-28T17:46:53+00:00",
      "summary": "Opposition parties are critiquing a proposed Delimitation Bill, with leaders warning that redrawing electoral boundaries could threaten federalism and unfairly impact the representation of southern states.",
      "explain": "Delimitation is intended to ensure that each electoral district has a roughly equal number of voters, maintaining the principle of 'one person, one vote.' Critics fear that if the process relies solely on the most recent census, states that have successfully implemented family planning and population control will lose parliamentary seats. This has created a deep political rift between the Union government and several state governments.",
      "related": [],
@@ -1002,285 +1295,6 @@
        }
       ]
      }
-    },
-    {
-     "id": "7e14f27c279d",
-     "title": "Supreme Court clears way for Hockey India election on December 5, sets aside Orissa HC orders",
-     "link": "https://www.thehindu.com/news/national/supreme-court-clears-way-for-hockey-india-election-on-december-5-sets-aside-orissa-hc-orders/article71754025.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-28T09:10:29+00:00",
-     "summary": "The Supreme Court has permitted Hockey India to proceed with its elections on December 5, overriding previous stay orders from the Orissa High Court.",
-     "explain": "The Supreme Court intervened to resolve a legal standoff that threatened to halt the organization's leadership elections. By appointing a committee led by a retired judge, the court is attempting to settle internal grievances and ensure the sport's national administration continues to function without further legal gridlock.",
-     "related": [],
-     "story": {
-      "id": "india-hockey-india-administrative-oversight",
-      "title": "Hockey India Administrative Oversight",
-      "so_far": "Hockey India is the national governing body for field hockey in India. The organization frequently faces internal governance disputes, often involving state-level hockey units that challenge the body's electoral processes or administrative legitimacy in court.",
-      "timeline": [
-       {
-        "date": "2026-11-28",
-        "text": "The Supreme Court has permitted Hockey India to proceed with its elections on December 5, overriding previous stay orders from the Orissa High Court.",
-        "link": "https://www.thehindu.com/news/national/supreme-court-clears-way-for-hockey-india-election-on-december-5-sets-aside-orissa-hc-orders/article71754025.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "907eca4e9195",
-     "title": "Palaniswami calls TVK Kallakurichi MLA’s arrest a victory for AIADMK’s sustained agitations",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-calls-tvk-kallakurichi-mlas-arrest-a-victory-for-aiadmks-sustained-agitations/article71753633.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-28T09:08:50+00:00",
-     "summary": "The arrest of a TVK party MLA in Kallakurichi has been welcomed by AIADMK leadership as a sign of their successful political pressure.",
-     "explain": "The arrest of an elected official in Tamil Nadu often serves as a flashpoint for political maneuvering between rival parties. For the AIADMK, framing this as a 'victory' is a strategy to demonstrate their influence in holding the current administration accountable for alleged legal or procedural infractions.",
-     "related": [],
-     "story": {
-      "id": "india-tamil-nadu-political-rivalries",
-      "title": "Tamil Nadu Political Rivalries",
-      "so_far": "Tamil Nadu politics is characterized by intense competition between major regional parties like the AIADMK and the DMK, along with newly emerging players like TVK. Criminal investigations against legislators are frequently used by opposing camps to highlight corruption or administrative failure.",
-      "timeline": [
-       {
-        "date": "2026-11-28",
-        "text": "The arrest of a TVK party MLA in Kallakurichi has been welcomed by AIADMK leadership as a sign of their successful political pressure.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-calls-tvk-kallakurichi-mlas-arrest-a-victory-for-aiadmks-sustained-agitations/article71753633.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "76ffa34dbf03",
-     "title": "\"Mortgaging Self-Respect\": Sanjay Raut On Sharad Pawar's Delimitation Move",
-     "link": "https://www.ndtv.com/india-news/cracks-within-maharashtra-opposition-uddhav-sena-mp-sanjay-raut-attacks-sharad-pawar-over-delimitation-move-12388434#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-11-28T09:08:37+00:00",
-     "summary": "Internal friction continues within the NCP(SP) regarding their strategic stance on the delimitation issue and potential cabinet positions.",
-     "explain": "Political parties often experience internal dissent when deciding how to navigate controversial legislation. Criticism from alliance members suggests that despite a united front, there are underlying disagreements on how much individual parties should compromise or 'mortgage' their positions to gain political leverage or cabinet berths.",
-     "related": [],
-     "story": {
-      "id": "india-political-realignments-and-legal-battles",
-      "title": "Political Realignments and Legal Battles",
-      "so_far": "Legislative Council elections involve complex power dynamics where alliances are often tested. Internal dissent and accusations of failing to support party-aligned candidates reflect broader instability within party hierarchies.",
-      "timeline": [
-       {
-        "date": "2026-11-05",
-        "text": "The Supreme Court redirected a legal challenge regarding rebel Trinamool Congress MLAs to the Calcutta High Court for resolution.",
-        "link": "https://www.thehindu.com/news/national/west-bengal/supreme-court-asks-calcutta-high-court-to-decide-plea-for-direction-on-disqualification-of-rebel-trinamool-mlas/article71669372.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-05",
-        "text": "The Supreme Court formally declined to hear the disqualification plea, referring the issue to the Calcutta High Court.",
-        "link": "https://www.ndtv.com/india-news/sc-asks-calcutta-hc-to-decide-plea-for-direction-on-disqualification-of-rebel-tmc-mlas-12286753#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-05",
-        "text": "A senior BJP leader has publicly rejected allegations of political conspiracy against the TVK government, shifting the blame onto the ruling party for unethical recruitment.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/nainar-nagenthran-rejects-tn-ministers-charge-of-aiadmk-bjp-conspiracy-to-bring-down-tvk-government/article71669007.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-10",
-        "text": "A rare internal 'implosion' has occurred in the National Conference, with the old guard attempting to reassert influence over Omar Abdullah's administration.",
-        "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/return-of-patriarch-farooq-steps-in-as-nc-old-guard-reasserts-influence-to-check-omar/article71683985.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-10",
-        "text": "Tensions within the United Democratic Front (UDF) have surfaced as senior leaders debate the frequency of ruling front meetings.",
-        "link": "https://www.thehindu.com/news/national/kerala/in-veiled-dig-at-satheesan-udf-convener-adoor-prakash-questions-delay-in-convening-meeting-of-ruling-front/article71685846.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-16",
-        "text": "The Punjab BJP has officially established committees to outline its future policy goals and grievances against the opposition.",
-        "link": "https://www.thehindu.com/news/national/punjab/punjab-bjp-forms-manifesto-chargesheet-committees/article71706608.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-22",
-        "text": "Congress party members are actively countering controversial remarks made by a party leader, underscoring internal dissent.",
-        "link": "https://www.ndtv.com/india-news/congress-leader-mumtaz-patel-counters-party-mp-on-mohammed-siraj-row-slams-hate-politics-12361146#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-24",
-        "text": "A formal police complaint has been registered by a high-ranking bureaucrat against a sitting legislator, intensifying political friction.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/collector-files-complaint-against-kallakurichi-tvk-mla/article71736185.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-24",
-        "text": "A public spat between senior party leaders suggests deepening internal fractures within the Congress party in Kerala.",
-        "link": "https://www.thehindu.com/news/national/kerala/rift-within-congress-rajmohan-unnithan-challenges-shafi-parambil-to-public-debate-warns-teacher-and-disciple-will-be-exposed/article71738065.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-24",
-        "text": "The state government informed the High Court that there is a discrepancy regarding whether a formal complaint was ever submitted in the case involving a legislator and a bureaucrat.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-chief-secretary-did-not-receive-complaint-from-woman-ias-officer-over-kallakurichi-tvk-mlas-alleged-misbehaviour-madras-hc-told/article71733781.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-26",
-        "text": "A court ruling has invalidated a legislator's election following findings of procedural errors in their initial filing documents.",
-        "link": "https://www.ndtv.com/india-news/up-bjp-mla-om-kumars-election-set-aside-by-allahabad-high-court-over-nomination-paper-anomalies-12382443#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       },
-       {
-        "date": "2026-11-28",
-        "text": "Leaders like Sanjay Raut have criticized the NCP(SP) leadership's recent political maneuvers regarding the Delimitation Bill, highlighting tension within the opposition bloc.",
-        "link": "https://www.ndtv.com/india-news/cracks-within-maharashtra-opposition-uddhav-sena-mp-sanjay-raut-attacks-sharad-pawar-over-delimitation-move-12388434#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       }
-      ]
-     }
-    },
-    {
-     "id": "30125ab7b218",
-     "title": "'Committed To Fulfil Our Promise To Nari Shakti': PM Modi On Women's Quota Bill",
-     "link": "https://www.ndtv.com/india-news/pm-modi-on-womens-quota-delimitation-bill-we-made-a-promise-to-nari-shakti-remain-committed-to-fulfilling-it-12388213#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-11-28T09:06:50+00:00",
-     "summary": "Prime Minister Narendra Modi reaffirmed his commitment to the Women's Reservation Bill amid ongoing political discussions regarding the upcoming special parliamentary session.",
-     "explain": "This bill is seen as a landmark move to ensure gender representation in India's legislative bodies. Frequent mentions by the Prime Minister emphasize the government's official policy goal to elevate the role of women in public life, frequently referred to in government rhetoric as 'Nari Shakti' or women's power.",
-     "related": [],
-     "story": {
-      "id": "india-women-s-reservation-bill-implementation",
-      "title": "Women's Reservation Bill Implementation",
-      "so_far": "The Women's Reservation Bill, which seeks to reserve one-third of seats in the Lok Sabha and state legislative assemblies for women, has been a long-standing point of legislative discussion in India. It aims to increase gender parity in political decision-making, though its implementation has historically faced delays.",
-      "timeline": [
-       {
-        "date": "2026-11-28",
-        "text": "Prime Minister Narendra Modi reaffirmed his commitment to the Women's Reservation Bill amid ongoing political discussions regarding the upcoming special parliamentary session.",
-        "link": "https://www.ndtv.com/india-news/pm-modi-on-womens-quota-delimitation-bill-we-made-a-promise-to-nari-shakti-remain-committed-to-fulfilling-it-12388213#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       }
-      ]
-     }
-    },
-    {
-     "id": "45bd228abd1b",
-     "title": "Karnataka to launch ‘Delhi Chalo’ protest if Centre fails to release drought relief: Karnataka CM D.K. Shivakumar",
-     "link": "https://www.thehindu.com/news/national/karnataka/karnataka-to-launch-delhi-chalo-protest-if-centre-fails-to-release-drought-relief-karnataka-cm-dk-shivakumar/article71753746.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-28T09:04:56+00:00",
-     "summary": "Karnataka CM D.K. Shivakumar has threatened to organize a protest in Delhi if the central government does not release pending drought relief funds.",
-     "explain": "When states and the center differ on the necessity or amount of disaster funding, it leads to 'cooperative federalism' tensions. The threat of a 'Delhi Chalo' (March to Delhi) protest is a common political tactic used by state leaders to signal to their constituents that they are fighting for state resources against a recalcitrant central administration.",
-     "related": [],
-     "story": {
-      "id": "india-center-state-drought-relief-dispute",
-      "title": "Center-State Drought Relief Dispute",
-      "so_far": "Drought relief is a form of financial assistance provided by the central government to states suffering from crop failure, water scarcity, and agricultural distress. The process relies on state governments providing accurate damage reports, which are then vetted by central authorities.",
-      "timeline": [
-       {
-        "date": "2026-11-28",
-        "text": "Karnataka CM D.K. Shivakumar has threatened to organize a protest in Delhi if the central government does not release pending drought relief funds.",
-        "link": "https://www.thehindu.com/news/national/karnataka/karnataka-to-launch-delhi-chalo-protest-if-centre-fails-to-release-drought-relief-karnataka-cm-dk-shivakumar/article71753746.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "2ff683287db0",
-     "title": "Delimitation Bill a bid to reduce political representation of south Indian States: Chennithala",
-     "link": "https://www.thehindu.com/news/national/kerala/delimitation-bill-a-bid-to-reduce-political-representation-of-south-indian-states-chennithala/article71754017.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-28T09:03:56+00:00",
-     "summary": "Opposition leader Chennithala has echoed concerns that the proposed Delimitation Bill will disproportionately strip South Indian states of their political power.",
-     "explain": "The core of this argument is demographic. Because South Indian states have seen slower population growth due to effective public health and social policies, they argue they should not be penalized by having their legislative influence reduced compared to states that have grown more rapidly.",
-     "related": [],
-     "story": {
-      "id": "india-delimitation-bill-legislative-debate",
-      "title": "Delimitation Bill Legislative Debate",
-      "so_far": "Delimitation is the process of redrawing the boundaries of Lok Sabha and Assembly constituencies based on population data. It is a highly sensitive political topic in India because it changes the electoral weight of states, potentially diminishing the influence of states with lower population growth, such as those in South India, while increasing it for those with higher growth.",
-      "timeline": [
-       {
-        "date": "2026-11-28",
-        "text": "Opposition parties are critiquing a proposed Delimitation Bill, with leaders warning that redrawing electoral boundaries could threaten federalism and unfairly impact the representation of southern states.",
-        "link": "https://www.thehindu.com/news/national/delimitation-bill-special-parliament-session-india-bloc-meeting-opposition-bjp-live-updates-november-28-2026/article71753535.ece",
-        "source": "India Latest News: Top National Headline"
-       },
-       {
-        "date": "2026-11-28",
-        "text": "Opposition representatives continue to vocalize concerns that the delimitation process will favor Northern states at the expense of Southern representation.",
-        "link": "https://www.thehindu.com/news/national/kerala/delimitation-bill-a-bid-to-reduce-political-representation-of-south-indian-states-chennithala/article71754017.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "24f0d6b79f9f",
-     "title": "AP to set up Skill India International Centre at Rajamahendravaram",
-     "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-to-set-up-skill-india-international-centre-at-rajamahendravaram/article71751849.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-28T09:03:22+00:00",
-     "summary": "Andhra Pradesh signed a memorandum to establish a Skill India International Centre in Rajamahendravaram to enhance vocational training.",
-     "explain": "Skill India centers are part of a broader government effort to harness India's 'demographic dividend'—a large, young population. By partnering with state agencies, the center aims to boost employability in specific regions, helping workers find better jobs both domestically and internationally.",
-     "related": [],
-     "story": {
-      "id": "india-skill-india-international-centre-initiat",
-      "title": "Skill India International Centre Initiative",
-      "so_far": "The Skill India initiative is a government program designed to train millions of Indian youth in various industry-relevant skills. These centers are intended to bridge the gap between education and employment by providing certified vocational training that meets global standards.",
-      "timeline": [
-       {
-        "date": "2026-11-28",
-        "text": "Andhra Pradesh signed a memorandum to establish a Skill India International Centre in Rajamahendravaram to enhance vocational training.",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-to-set-up-skill-india-international-centre-at-rajamahendravaram/article71751849.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "b3c3ad5af299",
-     "title": "Thirupparankundram row: 'Deepathoon' lamp lighting likely at 5:00 p.m.; access restricted to select witnesses",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece",
-     "source": "India Latest News: Top National Headline",
-     "published": "2026-11-28T09:00:09+00:00",
-     "summary": "The Supreme Court is monitoring a dispute regarding the ceremonial lighting of the 'Karthigai Deepam' at a temple pillar in Thirupparankundram following allegations of executive disobedience.",
-     "explain": "This situation involves a conflict between judicial orders and executive (government) actions. The Supreme Court's involvement highlights the sensitivity of managing religious spaces, where the state must balance its duty to enforce the law with the community's desire to maintain traditional religious practices.",
-     "related": [],
-     "story": {
-      "id": "india-temple-ceremonial-rights-dispute",
-      "title": "Temple Ceremonial Rights Dispute",
-      "so_far": "Religious ceremonies at ancient temples are often governed by complex local customs and historical rights. When these traditions clash with administrative decisions or modern safety regulations, they often end up in court for resolution.",
-      "timeline": [
-       {
-        "date": "2026-11-28",
-        "text": "The Supreme Court is monitoring a dispute regarding the ceremonial lighting of the 'Karthigai Deepam' at a temple pillar in Thirupparankundram following allegations of executive disobedience.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece",
-        "source": "India Latest News: Top National Headline"
-       }
-      ]
-     }
-    },
-    {
-     "id": "b0ba9999c32c",
-     "title": "Human Rights Commission Seeks Report Over Removal Of Sikh Flag In Gurdaspur",
-     "link": "https://www.ndtv.com/india-news/human-rights-commission-seeks-report-over-removal-of-sikh-flag-in-punjabs-gurdaspur-12388499#publisher=newsstand",
-     "source": "NDTV News Search Records Found 1000",
-     "published": "2026-11-28T08:57:27+00:00",
-     "summary": "The National Human Rights Commission has requested a report regarding the alleged removal of a Sikh flag in Gurdaspur, citing potential human rights violations.",
-     "explain": "The removal of a religious flag is viewed by many as an infringement on the freedom of religious expression. By seeking a report, the NHRC is performing an oversight role to ensure that local authorities are not unfairly targeting or suppressing the practices of specific religious communities.",
-     "related": [],
-     "story": {
-      "id": "india-religious-expression-and-human-rights",
-      "title": "Religious Expression and Human Rights",
-      "so_far": "The NHRC is an independent statutory body in India responsible for protecting the human rights of citizens. It can launch investigations or seek reports from state authorities when allegations of discrimination, state abuse, or violations of religious freedom arise.",
-      "timeline": [
-       {
-        "date": "2026-11-28",
-        "text": "The National Human Rights Commission has requested a report regarding the alleged removal of a Sikh flag in Gurdaspur, citing potential human rights violations.",
-        "link": "https://www.ndtv.com/india-news/human-rights-commission-seeks-report-over-removal-of-sikh-flag-in-punjabs-gurdaspur-12388499#publisher=newsstand",
-        "source": "NDTV News Search Records Found 1000"
-       }
-      ]
-     }
     }
    ]
   },
@@ -1288,364 +1302,243 @@
    "label": "World",
    "articles": [
     {
-     "id": "30d71c3e2dda",
-     "title": "US disables ship attempting to breach Iran blockade",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
+     "id": "ef4124b3ff9a",
+     "title": "Putin unveils new nuclear submarine",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/putin-unveils-new-nuclear-submarine?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-27T23:55:16+00:00",
-     "summary": "The U.S. military disabled a commercial vessel that reportedly departed from an Iranian port and refused to comply with warnings to halt. This event highlights the ongoing tensions regarding international blockades in the region.",
-     "explain": "A blockade is an act of war or a strategic maneuver intended to prevent goods or people from entering or leaving a specific area by sea. By disabling the ship, the U.S. is enforcing its geopolitical interests in the Persian Gulf, a critical region for global oil trade. This move increases the risk of direct confrontation between the U.S. and Iran.",
+     "published": "2026-11-28T13:32:51+00:00",
+     "summary": "Russian President Vladimir Putin attended the commissioning of a new nuclear-powered submarine.",
+     "explain": "A nuclear-powered submarine uses a nuclear reactor as its primary power source, allowing it to stay submerged for long periods without needing to surface for fuel. This makes them difficult to track and essential for naval strategic deterrence. Such commissioning events are often used by leaders to demonstrate military strength to domestic and international audiences.",
      "related": [],
      "story": {
-      "id": "world-u-s-iran-diplomatic-standoff",
-      "title": "U.S.-Iran Diplomatic Standoff",
-      "so_far": "The International Atomic Energy Agency (IAEA) is the global body responsible for monitoring nuclear technology to ensure it is used for peaceful purposes. Access to Iranian facilities has been a central point of contention for years, particularly following military strikes that disrupted previous inspection protocols.",
+      "id": "world-russia-commissions-new-nuclear-submarine",
+      "title": "Russia Commissions New Nuclear Submarine",
+      "so_far": "Russia maintains one of the world's largest nuclear arsenals and naval fleets. The development and deployment of new nuclear-powered submarines are consistent with Russia's ongoing strategy to modernize its military capabilities and project naval power globally.",
       "timeline": [
        {
-        "date": "2026-11-03",
-        "text": "The U.S. carried out limited defensive strikes on Qeshm Island as tensions persist despite ongoing diplomatic discussions.",
-        "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-11-03",
-        "text": "U.S. leadership signaled optimism regarding potential diplomatic settlements with Iran despite ongoing regional military friction.",
-        "link": "https://www.thehindu.com/news/international/us-strikes-iran-strait-of-hormuz-midterm-elections-trump-netanyahu-vance/article71659244.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-11-03",
-        "text": "Despite military action, Iranian officials appear to be signaling a commitment to ongoing diplomatic tracks.",
-        "link": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-11-03",
-        "text": "Hostility persists as a billboard threatening Donald Trump’s life was erected in Tehran's Enghelab Square.",
-        "link": "https://www.thehindu.com/news/international/iran-unveils-huge-billboard-with-threat-against-donald-trumps-life/article71660523.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-11-03",
-        "text": "Multiple defensive strikes were reported on Qeshm Island, marking a significant escalation in the recent cycle of regional activity.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/us-conducts-series-of-defensive-strikes-against-iran?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-11-07",
-        "text": "The U.S. is using financial incentives to gather intelligence on Iran's nuclear program amidst threats of potential military strikes.",
-        "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-11-07",
-        "text": "The U.S. government announced a $20 million reward through the Rewards for Justice program for intelligence related to Iran's nuclear activities.",
-        "link": "https://www.thehindu.com/news/international/united-states-offers-20-million-reward-for-information-on-irans-nuclear-program-centcom/article71677324.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-11-12",
-        "text": "Trump publicly distanced himself from reports of pending negotiations between his Vice President and Iranian officials.",
-        "link": "https://www.thehindu.com/news/international/trump-says-us-does-not-need-a-deal-with-iran/article71695103.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-11-13",
-        "text": "President Trump declared that the U.S. does not need a deal with Iran, potentially overruling reported efforts by Vice President Vance to initiate high-level talks.",
-        "link": "https://www.aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-11-13",
-        "text": "Iran intensified rhetoric and reported a tactical strike on a U.S. military asset in the Persian Gulf region.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-11-13",
-        "text": "The IAEA issued a renewed demand for site access, pointing to a long-term information gap regarding Iran's nuclear activities.",
-        "link": "https://www.thehindu.com/news/international/un-nuclear-watchdog-urges-iran-to-take-steps-towards-inspections/article71697585.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-11-27",
-        "text": "The U.S. military forcibly intercepted and disabled a ship violating an Iranian blockade, signaling an escalation in maritime enforcement.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
+        "date": "2026-11-28",
+        "text": "President Putin officially commissioned a new nuclear-powered submarine into the Russian navy.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/putin-unveils-new-nuclear-submarine?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News a"
        }
       ]
      }
     },
     {
-     "id": "b70e74d828dd",
-     "title": "U.S. disables ship trying to leave Iran, as Tehran vows to confront blockade",
-     "link": "https://www.thehindu.com/news/international/us-military-says-it-disabled-commercial-ship-trying-to-run-iran-blockade/article71752214.ece",
+     "id": "9aba0bc9dc99",
+     "title": "At risk of losing power, Netanyahu makes long-shot unity appeal to rival Eisenkot",
+     "link": "https://www.thehindu.com/news/international/at-risk-of-losing-power-netanyahu-makes-long-shot-unity-appeal-to-rival-eisenkot/article71755606.ece",
      "source": "World News: Latest International News & ",
-     "published": "2026-11-27T19:35:02+00:00",
-     "summary": "The U.S. military disabled a Palau-flagged cargo ship that was allegedly attempting to bypass a blockade related to Iranian shipping.",
-     "explain": "The 'Pacific Archer' was reportedly trying to circumvent international restrictions. The U.S. uses naval and air assets to enforce these blockades, meaning 'disabling a ship' involves damaging its propulsion or steering to prevent it from reaching its destination without necessarily destroying the vessel entirely.",
+     "published": "2026-11-28T18:01:55+00:00",
+     "summary": "Israeli leader Benjamin Netanyahu is attempting to secure his political future by reaching out to rival Gadi Eisenkot amid a potential loss of power.",
+     "explain": "In Israel's parliamentary system, no single party usually wins an outright majority, requiring the Prime Minister to form a 'coalition' of several parties. If a leader loses the support of enough coalition members, they risk a vote of no confidence and may lose power. A 'unity appeal' refers to an attempt to bridge deep ideological divides to form a government that can withstand political pressure.",
      "related": [],
      "story": {
-      "id": "world-u-s-military-blocks-ship",
-      "title": "U.S. Military Blocks Ship",
-      "so_far": "The U.S. maintains various sanctions and blockades aimed at limiting Iran's ability to export oil and military equipment. Tensions in the region are frequently heightened by naval confrontations and interdictions in the Persian Gulf and the Strait of Hormuz.",
-      "timeline": [
-       {
-        "date": "2026-11-27",
-        "text": "U.S. aircraft used precision munitions to disable the M/V Pacific Archer after it left an Iranian port.",
-        "link": "https://www.thehindu.com/news/international/us-military-says-it-disabled-commercial-ship-trying-to-run-iran-blockade/article71752214.ece",
-        "source": "World News: Latest International News & "
-       }
-      ]
-     }
-    },
-    {
-     "id": "2c9f98743235",
-     "title": "Spain faces political shift as far right gains ground",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-28T08:54:02+00:00",
-     "summary": "Spain is experiencing a notable shift in its political landscape as far-right parties gain increased electoral support.",
-     "explain": "A political shift towards the far-right often involves parties advocating for stricter borders, reduced international integration, and social policies rooted in nationalism. This matters because it could alter Spain's relationship with the European Union and its approach to domestic social issues.",
-     "related": [],
-     "story": {
-      "id": "world-spain-s-rising-far-right-politics",
-      "title": "Spain's Rising Far-Right Politics",
-      "so_far": "Spain, like many European nations, has seen a resurgence of nationalist and populist parties in recent years. This trend is often driven by public concerns regarding immigration, economic stability, and perceived failures of traditional moderate political institutions.",
+      "id": "world-netanyahu-s-coalition-survival-efforts",
+      "title": "Netanyahu's Coalition Survival Efforts",
+      "so_far": "Israeli politics is currently characterized by high instability and frequent coalition negotiations. Benjamin Netanyahu, a long-serving prime minister, frequently navigates complex electoral mathematics to maintain a parliamentary majority, which is required to stay in power.",
       "timeline": [
        {
         "date": "2026-11-28",
-        "text": "Spain reports a surge in support for far-right political movements, signaling a shift in the country's national political alignment.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
-    },
-    {
-     "id": "c5e632c1e278",
-     "title": "Sudanese launch clean-up drive as rubbish overwhelms Khartoum’s streets",
-     "link": "https://www.aljazeera.com/news/2026/11/28/sudanese-launch-clean-up-drive-as-garbage-overwhelms-khartoum-streets?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-28T08:24:03+00:00",
-     "summary": "Residents in Khartoum, Sudan, have organized a grassroots effort to clear trash from the city's streets to mitigate disease risks following prolonged instability.",
-     "explain": "When basic municipal services like trash collection collapse, waste piles up, leading to the spread of diseases such as cholera. The grassroots clean-up drive is a response by the local community to manage these health hazards in the absence of an effective state administration.",
-     "related": [],
-     "story": {
-      "id": "world-khartoum-clean-up-efforts",
-      "title": "Khartoum Clean-up Efforts",
-      "so_far": "Sudan has been plagued by prolonged conflict and political instability, which has devastated infrastructure and basic public services. The lack of functional government oversight has led to the degradation of urban sanitation, creating dangerous living conditions for the civilian population.",
-      "timeline": [
-       {
-        "date": "2026-11-28",
-        "text": "Citizens in Khartoum are leading community-driven sanitation initiatives to address a mounting public health crisis caused by waste accumulation.",
-        "link": "https://www.aljazeera.com/news/2026/11/28/sudanese-launch-clean-up-drive-as-garbage-overwhelms-khartoum-streets?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
-    },
-    {
-     "id": "267cd4c2de83",
-     "title": "UN’s Albanese leaves Costa Rica airport after constitutional court verdict",
-     "link": "https://www.aljazeera.com/news/2026/11/28/uns-albanese-leaves-costa-rica-airport-after-constitutional-court-verdict?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-28T08:05:18+00:00",
-     "summary": "UN official Francesca Albanese has been released from a Costa Rican airport following a constitutional court ruling.",
-     "explain": "Francesca Albanese is a UN special rapporteur, a role tasked with investigating human rights violations. Being held at an airport suggests a legal or diplomatic challenge by local authorities, which the Costa Rican high court has now overruled in favor of her release.",
-     "related": [],
-     "story": {
-      "id": "world-un-official-released-in-costa-rica",
-      "title": "UN Official Released in Costa Rica",
-      "so_far": "Diplomatic immunity and the freedom of movement for international officials are established under international law, but these rights are occasionally contested during political or legal disputes in host nations. This incident highlights tensions regarding the treatment of international representatives.",
-      "timeline": [
-       {
-        "date": "2026-11-28",
-        "text": "A Costa Rican constitutional court ordered the release of UN official Francesca Albanese, who had been detained at an airport.",
-        "link": "https://www.aljazeera.com/news/2026/11/28/uns-albanese-leaves-costa-rica-airport-after-constitutional-court-verdict?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       }
-      ]
-     }
-    },
-    {
-     "id": "537ab67d544c",
-     "title": "Several students reportedly killed, wounded in explosion at a middle school in eastern Afghanistan",
-     "link": "https://www.thehindu.com/news/international/several-students-reportedly-killed-wounded-in-explosion-at-a-middle-school-in-eastern-afghanistan/article71753929.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-11-28T08:03:42+00:00",
-     "summary": "Explosions occurring near schools in Afghanistan’s eastern provinces, including Kunar, have resulted in at least six student deaths, with concerns that the casualty count may rise.",
-     "explain": "These attacks on educational institutions aim to undermine public security and sow terror. In the context of Afghanistan, such violence often targets civilian morale and attempts to exert pressure on the de facto authorities.",
-     "related": [],
-     "story": {
-      "id": "world-explosions-at-afghan-schools",
-      "title": "Explosions at Afghan Schools",
-      "so_far": "Since the Taliban's return to power in 2021, security across Afghanistan has remained volatile. Schools and minority populations are frequently targeted by various militant groups, such as the Islamic State-Khorasan Province (ISKP), who oppose the current administration and seek to destabilize the country.",
-      "timeline": [
-       {
-        "date": "2026-11-28",
-        "text": "At least six students have died in separate, confirmed explosions near middle schools in Afghanistan's eastern regions.",
-        "link": "https://www.thehindu.com/news/international/several-students-reportedly-killed-wounded-in-explosion-at-a-middle-school-in-eastern-afghanistan/article71753929.ece",
+        "text": "Netanyahu is seeking a unity deal with political rival Gadi Eisenkot after Eisenkot made separate coalition agreements with other parties.",
+        "link": "https://www.thehindu.com/news/international/at-risk-of-losing-power-netanyahu-makes-long-shot-unity-appeal-to-rival-eisenkot/article71755606.ece",
         "source": "World News: Latest International News & "
        }
       ]
      }
     },
     {
-     "id": "e7ae23db4d08",
-     "title": "Cheers, tears as Maria Machado seeks ideas for Venezuela reform",
-     "link": "https://www.thehindu.com/news/international/cheers-tears-as-maria-machado-seeks-ideas-for-venezuela-reform/article71753627.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-11-28T07:46:53+00:00",
-     "summary": "Maria Corina Machado is collecting democratic reform proposals in Venezuela, nearly a year after Washington’s intervention led to the ousting of Nicolas Maduro.",
-     "explain": "The 'diaspora' refers to the millions of Venezuelans who fled the country during the political and economic crisis. Machado’s initiative to include them in reform proposals is an attempt to achieve national reconciliation and stabilize the country after years of deep divisions.",
-     "related": [],
-     "story": {
-      "id": "world-post-maduro-reform-in-venezuela",
-      "title": "Post-Maduro Reform in Venezuela",
-      "so_far": "Following the collapse of the Maduro regime and subsequent U.S. intervention 11 months ago, Venezuela has entered a period of extreme political transition. The country is now attempting to rebuild its democratic institutions after years of authoritarian rule, economic collapse, and mass migration.",
-      "timeline": [
-       {
-        "date": "2026-11-28",
-        "text": "Opposition leader Maria Corina Machado is gathering citizen and diaspora feedback to draft democratic reforms following the recent change in leadership.",
-        "link": "https://www.thehindu.com/news/international/cheers-tears-as-maria-machado-seeks-ideas-for-venezuela-reform/article71753627.ece",
-        "source": "World News: Latest International News & "
-       }
-      ]
-     }
-    },
-    {
-     "id": "bc8e248820b2",
-     "title": "At least six students killed in blast beside school in Afghanistan’s Kunar",
-     "link": "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News a",
-     "published": "2026-11-28T07:42:09+00:00",
-     "summary": "Official says the figures were preliminary and the casualty numbers could change as more information becomes available.",
-     "explain": null,
-     "related": [],
-     "story": null
-    },
-    {
-     "id": "9590b504bfda",
-     "title": "Saudi Arabia, Houthis trade attacks on rival capitals",
-     "link": "https://www.thehindu.com/news/international/saudi-arabia-houthis-trade-attacks-on-rival-capitals/article71753601.ece",
-     "source": "World News: Latest International News & ",
-     "published": "2026-11-28T07:35:52+00:00",
-     "summary": "Tensions in Yemen have intensified as Saudi-led coalition forces and Houthi rebels exchange retaliatory strikes in their respective capitals.",
-     "explain": "A proxy conflict is a war where external powers support opposing sides in a local conflict rather than fighting each other directly. By striking each other's capitals, both sides are signaling a significant escalation, raising fears of a broader regional conflict.",
-     "related": [
-      {
-       "date": "2026-10-23",
-       "title": "Indian killed as Houthis attack Saudi Arabia’s Dammam airport",
-       "link": "https://www.thehindu.com/news/national/indian-national-killed-in-saudi-dammam-airport-attack-others-injured/article71610871.ece",
-       "source": "World News: Latest International News & "
-      },
-      {
-       "date": "2026-10-24",
-       "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
-       "link": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
-       "source": "Al Jazeera – Breaking News, World News a"
-      }
-     ],
-     "story": {
-      "id": "world-houthi-strike-on-yemeni-camp",
-      "title": "Houthi Strike on Yemeni Camp",
-      "so_far": "The Yemeni Civil War has been a theater for a regional proxy conflict for years. The Houthi rebels, backed by Iran, control parts of the country, while the internationally recognized government receives support from a Saudi-led coalition. Fighting often leads to devastating impacts on civilian infrastructure.",
-      "timeline": [
-       {
-        "date": "2026-10-24",
-        "text": "The Houthi movement significantly escalated its campaign by targeting major Saudi airports and energy infrastructure in retaliation for recent military actions.",
-        "link": "https://www.thehindu.com/news/international/houthis-attack-yemens-aden-say-saudi-strikes-kill-16/article71620895.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-10-24",
-        "text": "The scope of the Houthi attacks has expanded to include critical coastal and transport infrastructure in Aden.",
-        "link": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-11-01",
-        "text": "Government forces have gained ground in al-Jawf, capturing significant military supplies.",
-        "link": "https://www.aljazeera.com/news/2026/11/1/yemeni-government-forces-seize-strategic-positions-in-al-jawf?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-11-15",
-        "text": "Fighting has intensified significantly in Marib and al-Jawf, leading to a massive increase in displaced civilians.",
-        "link": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-11-16",
-        "text": "Houthi militants have launched a new offensive, threatening one of the last remaining strongholds of the internationally recognized government.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-11-16",
-        "text": "Government forces are pulling back from critical maritime chokepoints to consolidate defenses around Aden amid a significant battlefield setback.",
-        "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-       },
-       {
-        "date": "2026-11-16",
-        "text": "Analysts suggest the Houthi advancement is strengthening Iran’s regional influence amidst the broader regional conflict.",
-        "link": "https://www.thehindu.com/news/international/yemeni-government-forces-retreat-from-strait-in-major-setback-in-war-against-houthis/article71705608.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-11-17",
-        "text": "The Yemeni army claims to have launched 661 attacks against the Houthis, who are currently advancing toward the strategic port city of Aden.",
-        "link": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-11-21",
-        "text": "Houthi rebels have launched a series of missile attacks targeting Riyadh over three nights, escalating the regional threat to Saudi infrastructure.",
-        "link": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News a"
-       },
-       {
-        "date": "2026-11-21",
-        "text": "The Houthis have intensified their military response following a 'special operation' conducted by the Saudi coalition on November 20.",
-        "link": "https://www.thehindu.com/news/international/yemens-houthis-launch-strikes-after-saudi-coalitions-special-operation/article71729354.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-11-27",
-        "text": "The cycle of violence has intensified, with retaliatory strikes occurring between Houthi rebels and the Saudi-backed coalition.",
-        "link": "https://www.thehindu.com/news/international/saudi-strike-kills-11-in-yemen-reports-houthi-media/article71752134.ece",
-        "source": "World News: Latest International News & "
-       },
-       {
-        "date": "2026-11-28",
-        "text": "Direct exchanges of fire between the Houthi movement and the Saudi-led coalition have expanded to include attacks on their respective capital cities.",
-        "link": "https://www.thehindu.com/news/international/saudi-arabia-houthis-trade-attacks-on-rival-capitals/article71753601.ece",
-        "source": "World News: Latest International News & "
-       }
-      ]
-     }
-    },
-    {
-     "id": "5da15caaccb7",
-     "title": "Australian wrestler Bronson Reed dies aged 38, WWE says",
-     "link": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss",
+     "id": "c197789788fc",
+     "title": "Argentina's bid to stop Falklands oil drilling rejected",
+     "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-28T07:31:14+00:00",
-     "summary": "Australian professional wrestler Bronson Reed has passed away at the age of 38.",
-     "explain": "Professional wrestling is a form of sports entertainment where performers combine athletic skill with scripted storylines. Tributes for Reed highlight his impact on the global wrestling industry and his popularity among fans.",
+     "published": "2026-11-28T18:01:05+00:00",
+     "summary": "A legal challenge from Argentina to block oil and gas exploration near the Falkland Islands has been rejected.",
+     "explain": "The dispute centers on who owns the rights to extract natural resources found in the seabed around the islands. Sovereign claims over territorial waters often dictate which nations can authorize commercial drilling. Rejecting Argentina's bid means the planned exploration project can proceed under British-authorized licenses.",
      "related": [],
      "story": {
-      "id": "world-death-of-bronson-reed",
-      "title": "Death of Bronson Reed",
-      "so_far": "Bronson Reed was a prominent figure in professional wrestling, known for his work in WWE (World Wrestling Entertainment) and other international promotions. His career made him a notable athlete within the Australian sports community.",
+      "id": "world-falkland-islands-oil-exploration-dispute",
+      "title": "Falkland Islands Oil Exploration Dispute",
+      "so_far": "The Falkland Islands, known as Las Malvinas in Argentina, have been a source of long-standing territorial dispute between the UK and Argentina. The UK maintains control of the islands, while Argentina continues to assert sovereignty over the territory and its surrounding waters, including potential natural resources.",
       "timeline": [
        {
         "date": "2026-11-28",
-        "text": "WWE performer and Australian athlete Bronson Reed has died at 38, prompting international tributes.",
-        "link": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss",
+        "text": "The attempt by Argentina to halt a joint UK-Israeli oil and gas exploration venture near the Falkland Islands was dismissed.",
+        "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+       }
+      ]
+     }
+    },
+    {
+     "id": "254f830e8c26",
+     "title": "Dozens reported killed in series of Myanmar air attacks",
+     "link": "https://www.aljazeera.com/news/2026/11/28/dozens-reported-killed-in-series-of-myanmar-air-attacks?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-28T17:29:28+00:00",
+     "summary": "A series of air attacks in Myanmar has resulted in dozens of deaths, targeting civilian areas including a wedding, school, and refugee camp.",
+     "explain": "Myanmar is governed by a military junta, a government led by military leaders who took power by force. The civil war involves these government forces fighting against 'resistance groups' that seek to restore democratic rule or gain autonomy. Air strikes in densely populated areas like schools and markets represent a frequent and devastating tactic in this ongoing internal conflict.",
+     "related": [],
+     "story": {
+      "id": "world-escalating-civil-war-in-myanmar",
+      "title": "Escalating Civil War in Myanmar",
+      "so_far": "Since the 2021 military coup that removed Aung San Suu Kyi from power, Myanmar has been embroiled in a brutal civil war. The military government faces persistent armed resistance from various ethnic minority groups and pro-democracy militias, leading to widespread violence and thousands of civilian casualties.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "Deadly aerial strikes have hit multiple civilian locations, compounding the humanitarian toll of the ongoing civil war.",
+        "link": "https://www.aljazeera.com/news/2026/11/28/dozens-reported-killed-in-series-of-myanmar-air-attacks?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-11-28",
+        "text": "A specific airstrike on a wedding has caused roughly 20 deaths, as the civil war continues to impact civilian life.",
+        "link": "https://www.thehindu.com/news/international/airstrike-on-myanmar-wedding-venue-kills-around-20-say-witnesses/article71755393.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "4a7cc1cd388e",
+     "title": "Somali pirates hijack UAE ship from Yemen, say security officials",
+     "link": "https://www.thehindu.com/news/international/somali-pirates-hijack-uae-ship-from-yemen-say-security-officials/article71755549.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-11-28T17:13:05+00:00",
+     "summary": "Security officials report that Somali pirates have hijacked a UAE-owned ship off the coast of Yemen.",
+     "explain": "Piracy involves attackers using small, fast boats to board and seize control of merchant vessels. The Horn of Africa is near major shipping lanes where international trade passes; kidnappings of crews and demands for ransom are common motivations for these attacks. This resurgence creates significant risks for international maritime security and the global supply chain.",
+     "related": [],
+     "story": {
+      "id": "world-resurgence-of-somali-piracy",
+      "title": "Resurgence of Somali Piracy",
+      "so_far": "Somali piracy surged in the mid-2000s, peaking around 2011 before declining due to international naval patrols and improved vessel security. However, recent geopolitical instability in the Red Sea and Horn of Africa regions has created conditions that allow criminal groups to return to hijacking vessels for ransom.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "The hijacking of a UAE ship marks one of at least 16 piracy incidents since April, indicating a significant regional security problem.",
+        "link": "https://www.thehindu.com/news/international/somali-pirates-hijack-uae-ship-from-yemen-say-security-officials/article71755549.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "4e1eb335537b",
+     "title": "Taipei mayor re-elected in tight race",
+     "link": "https://www.thehindu.com/news/international/taipei-mayor-re-elected-in-tight-race/article71755528.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-11-28T17:09:06+00:00",
+     "summary": "Chiang Wan-an of the KMT party has been re-elected as mayor of Taipei.",
+     "explain": "The Kuomintang (KMT) is one of Taiwan's two major political parties. Historically, the KMT has advocated for warmer ties with Beijing, whereas the rival Democratic Progressive Party (DPP) emphasizes Taiwanese identity and autonomy. A mayor in a city like Taipei is a high-profile political position that often serves as a springboard for national presidential bids.",
+     "related": [],
+     "story": {
+      "id": "world-taipei-mayoral-election",
+      "title": "Taipei Mayoral Election",
+      "so_far": "Taipei is the capital of Taiwan, a self-governing democracy that faces constant political pressure from mainland China. Elections in Taiwan often hinge on political parties' approaches to cross-strait relations—the degree to which they prioritize economic integration with China versus maintaining distinct sovereignty.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "Chiang Wan-an won a tight race to retain his position as the mayor of Taipei.",
+        "link": "https://www.thehindu.com/news/international/taipei-mayor-re-elected-in-tight-race/article71755528.ece",
+        "source": "World News: Latest International News & "
+       }
+      ]
+     }
+    },
+    {
+     "id": "5d7460977218",
+     "title": "Pakistan vs Sri Lanka: ACC Men’s Asia Cup Rising Stars 2026 – teams, start time",
+     "link": "https://www.aljazeera.com/sports/2026/11/28/pakistan-vs-sri-lanka-acc-mens-asia-cup-rising-stars-2026-teams-start?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-28T17:07:44+00:00",
+     "summary": "Pakistan and Sri Lanka are scheduled to compete in the final of the 2026 ACC Men’s Asia Cup Rising Stars tournament.",
+     "explain": "This tournament is a professional cricket competition between nations in the Asian region. Cricket is the most popular sport in countries like Pakistan and Sri Lanka, and such regional cups are major cultural events. Being a 'Rising Stars' final means it features up-and-coming players who are not yet necessarily on the primary national teams.",
+     "related": [],
+     "story": {
+      "id": "world-asia-cup-rising-stars-final",
+      "title": "Asia Cup Rising Stars Final",
+      "so_far": "The Asian Cricket Council (ACC) organizes various tournaments to develop regional talent and promote cricket. The 'Rising Stars' series focuses on emerging talent, and these matches are highly significant for sports enthusiasts in the participating nations.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "Pakistan and Sri Lanka have reached the final match of the 2026 cricket tournament.",
+        "link": "https://www.aljazeera.com/sports/2026/11/28/pakistan-vs-sri-lanka-acc-mens-asia-cup-rising-stars-2026-teams-start?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "959d4afc0fb7",
+     "title": "Spurs-Lakers: Doncic shoved by fan, security intervenes as wristband tossed",
+     "link": "https://www.aljazeera.com/sports/2026/11/28/spurs-lakers-doncic-shoved-by-fan-security-intervenes-as-wristband-tossed?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-28T17:05:47+00:00",
+     "summary": "Luka Doncic was shoved by a spectator during a game, leading to a security intervention.",
+     "explain": "NBA players are protected by league policies that forbid fans from entering the court or making physical contact with athletes. Shoving or throwing objects at players is considered a serious breach of conduct. Such incidents often result in the fan receiving a lifetime ban from the arena and potential legal action.",
+     "related": [],
+     "story": {
+      "id": "world-nba-fan-player-security-incident",
+      "title": "NBA Fan-Player Security Incident",
+      "so_far": "Professional sports organizations, such as the NBA, have strict protocols regarding fan behavior to ensure the safety of players and staff. Incidents involving physical contact between fans and players are rare but treated with extreme severity by league officials and arena security.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "A fan tossed a wristband and shoved NBA star Luka Doncic after a game between the San Antonio Spurs and LA Lakers.",
+        "link": "https://www.aljazeera.com/sports/2026/11/28/spurs-lakers-doncic-shoved-by-fan-security-intervenes-as-wristband-tossed?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "2b490450a096",
+     "title": "Brentford thrash Manchester United 4-0 as Pochettino has horror home debut",
+     "link": "https://www.aljazeera.com/sports/2026/11/28/brentford-beat-manchester-united-4-0-as-pochettino-has-horror-home-debut?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News a",
+     "published": "2026-11-28T17:00:58+00:00",
+     "summary": "Brentford defeated Manchester United 4-0 in Mauricio Pochettino's debut game at Old Trafford, leaving United near the relegation zone.",
+     "explain": "The 'Premier League' is the top tier of English professional football. The 'relegation zone' refers to the bottom three spots in the league table; teams that finish the season in these spots are demoted to a lower tier of competition. Pochettino is a high-profile coach, and a loss of this scale in his opening match creates immediate uncertainty regarding his management of the team.",
+     "related": [],
+     "story": {
+      "id": "world-manchester-united-performance-struggles",
+      "title": "Manchester United Performance Struggles",
+      "so_far": "Manchester United is one of the most famous and historically successful football clubs in the English Premier League, but has struggled to maintain its dominance in recent years. Managers at the club face intense media and fan scrutiny during periods of poor form.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "A crushing 4-0 defeat by Brentford has heightened pressure on the team and new manager Mauricio Pochettino.",
+        "link": "https://www.aljazeera.com/sports/2026/11/28/brentford-beat-manchester-united-4-0-as-pochettino-has-horror-home-debut?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       }
+      ]
+     }
+    },
+    {
+     "id": "6c9d96edcce9",
+     "title": "Airstrike on Myanmar wedding venue kills around 20, say witnesses",
+     "link": "https://www.thehindu.com/news/international/airstrike-on-myanmar-wedding-venue-kills-around-20-say-witnesses/article71755393.ece",
+     "source": "World News: Latest International News & ",
+     "published": "2026-11-28T16:54:11+00:00",
+     "summary": "Witnesses report that an airstrike on a wedding venue in Myanmar killed approximately 20 people.",
+     "explain": "Myanmar's ongoing conflict involves the military junta using air power against groups opposing their rule. When air strikes target civilian gatherings like weddings, it causes international outcry and adds to the massive death toll documented by monitoring groups like ACLED (Armed Conflict Location & Event Data Project). The situation illustrates the severe danger posed to civilians during the civil war.",
+     "related": [],
+     "story": {
+      "id": "world-escalating-civil-war-in-myanmar",
+      "title": "Escalating Civil War in Myanmar",
+      "so_far": "Since the 2021 military coup that removed Aung San Suu Kyi from power, Myanmar has been embroiled in a brutal civil war. The military government faces persistent armed resistance from various ethnic minority groups and pro-democracy militias, leading to widespread violence and thousands of civilian casualties.",
+      "timeline": [
+       {
+        "date": "2026-11-28",
+        "text": "Deadly aerial strikes have hit multiple civilian locations, compounding the humanitarian toll of the ongoing civil war.",
+        "link": "https://www.aljazeera.com/news/2026/11/28/dozens-reported-killed-in-series-of-myanmar-air-attacks?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News a"
+       },
+       {
+        "date": "2026-11-28",
+        "text": "A specific airstrike on a wedding has caused roughly 20 deaths, as the civil war continues to impact civilian life.",
+        "link": "https://www.thehindu.com/news/international/airstrike-on-myanmar-wedding-venue-kills-around-20-say-witnesses/article71755393.ece",
+        "source": "World News: Latest International News & "
        }
       ]
      }
@@ -1660,7 +1553,7 @@
      "title": "Tata Sons files caveats after Bombay HC refuses relief to Tata trusts' plea",
      "link": "https://www.thehindubusinessline.com/companies/tata-sons-files-caveats-after-bombay-hc-refuses-relief-to-tata-trusts-plea/article71753773.ece",
      "source": "Business News Today: Latest Business New",
-     "published": "2026-11-28T06:47:20+00:00",
+     "published": "2026-11-28T13:51:39+00:00",
      "summary": "Tata Sons has filed legal caveats to ensure it is heard if Tata Trusts appeals a recent Bombay High Court ruling.",
      "explain": "A caveat is a formal legal notice filed with a court to prevent any order from being passed without giving the filing party a chance to be heard. This dispute centers on internal governance disagreements within the philanthropic Tata Trusts and the management of Tata Sons, which is the holding company for the massive Tata Group conglomerate.",
      "related": [
@@ -1819,7 +1712,14 @@
      "published": "2026-11-28T05:47:28+00:00",
      "summary": "HDFC Bank will discontinue SMS notifications for small-value UPI transactions starting January 1, 2027.",
      "explain": "UPI is a mobile-based payment system developed by the National Payments Corporation of India (NPCI). By stopping SMS alerts for very small transactions, banks aim to manage their operational expenses, as sending millions of text messages daily incurs significant costs.",
-     "related": [],
+     "related": [
+      {
+       "date": "2026-11-27",
+       "title": "No HDFC bank SMS alerts for UPI payments up to ₹500 from 1st January 2027 - here's why; what customers should know",
+       "link": "https://www.livemint.com/companies/news/no-hdfc-bank-sms-alerts-for-upi-payments-up-to-500-from-1st-january-2027-heres-why-what-customers-should-know-11795787590342.html",
+       "source": "mint - companies"
+      }
+     ],
      "story": {
       "id": "business-hdfc-bank-upi-alert-policy-change",
       "title": "HDFC Bank UPI Alert Policy Change",
@@ -1836,96 +1736,6 @@
         "text": "Effective January 1, 2027, HDFC Bank will stop sending SMS alerts for UPI payments of ₹500 or less to reduce messaging costs, though email notifications will remain active for all transactions.",
         "link": "https://economictimes.indiatimes.com/wealth/save/hdfc-bank-upi-sms-alert-changes-from-january-1-2027-bank-wont-send-alerts-for-these-upi-transactions/articleshow/136239659.cms",
         "source": "Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "23ae035d3d19",
-     "title": "With no HC relief for Tata Trusts, Tata Sons board to meet on Monday",
-     "link": "https://www.thehindubusinessline.com/companies/bombay-high-court-declines-relief-to-tata-trusts/article71752030.ece",
-     "source": "Business News Today: Latest Business New",
-     "published": "2026-11-27T16:50:01+00:00",
-     "summary": "The Bombay High Court has denied interim relief to certain Tata Trusts, allowing the Tata Sons board to proceed with its scheduled meeting.",
-     "explain": "The Bombay High Court has decided not to intervene in the internal affairs of Tata Sons, allowing its leadership to meet as planned. This matters because Tata Trusts, which hold a significant share in Tata Sons, have raised questions about corporate governance. 'Interim relief' is a temporary court order that halts an action until a final decision is reached; its denial means the status quo continues, allowing business operations to proceed.",
-     "related": [
-      {
-       "date": "2026-10-26",
-       "title": "Noel Tata seeks record of Tata Sons September 17 board meet",
-       "link": "https://www.thehindubusinessline.com/companies/noel-tata-seeks-record-of-tata-sons-september-17-board-meet/article71628511.ece",
-       "source": "Business News Today: Latest Business New"
-      },
-      {
-       "date": "2026-11-02",
-       "title": "Darius Khambata steps down from Tata Trusts, says Tata Sons reputation sullied following September 17 board meet",
-       "link": "https://www.thehindubusinessline.com/companies/darius-khambata-steps-down-from-tata-trusts-says-tata-sons-reputation-sullied-following-september-17-board-meet/article71656292.ece",
-       "source": "Business News Today: Latest Business New"
-      },
-      {
-       "date": "2026-11-23",
-       "title": "Tata Sons board meeting deferred to November 30",
-       "link": "https://www.thehindubusinessline.com/companies/tata-sons-board-meeting-deferred-to-november-30/article71735338.ece",
-       "source": "Business News Today: Latest Business New"
-      }
-     ],
-     "story": {
-      "id": "business-tata-trusts-governance-dispute",
-      "title": "Tata Trusts Governance Dispute",
-      "so_far": "Venu Srinivasan and Vijay Singh, who have been associated with Tata entities, filed complaints alleging governance failures within Tata Trusts. The Charity Commissioner of Maharashtra is currently reviewing the matter to determine if the trust acted in compliance with regulatory standards. Meanwhile, Tata Sons is attempting to move forward with a board meeting to finalize IPO plans, which is currently the subject of the court's scrutiny.",
-      "timeline": [
-       {
-        "date": "2026-10-19",
-        "text": "Tata Trusts filed a legal response with the Charity Commissioner of Maharashtra refuting claims of mismanagement.",
-        "link": "https://www.thehindubusinessline.com/companies/tata-trusts-files-response-to-venu-srinivasan-vijay-singhs-complaints-with-charity-commissioner-of-maharashtra/article71602913.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-02",
-        "text": "Trustee Darius Khambata has resigned, citing concerns over recent board-level decisions involving leadership retention.",
-        "link": "https://www.livemint.com/companies/people/who-is-darius-khambata-harvard-alumnus-exits-tata-trusts-says-september-17-events-sullied-tata-sons-reputation-11793612555315.html",
-        "source": "mint - companies"
-       },
-       {
-        "date": "2026-11-02",
-        "text": "Khambata formally expressed that 'spin doctoring' cannot mask governance concerns following his resignation.",
-        "link": "https://www.thehindubusinessline.com/companies/darius-khambata-steps-down-from-tata-trusts-says-tata-sons-reputation-sullied-following-september-17-board-meet/article71656292.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-20",
-        "text": "Noel Tata is continuing to push for access to internal records regarding a specific September board meeting.",
-        "link": "https://www.thehindubusinessline.com/companies/noel-tata-renews-demand-for-september-17-board-meeting-recording/article71725853.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-27",
-        "text": "The charitable arm of Tata is pushing for greater board influence and is actively blocking a stock market listing for the group's holding company.",
-        "link": "https://www.thehindubusinessline.com/companies/inside-tata-sons-the-rules-the-rift-and-what-happens-next/article71749777.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-27",
-        "text": "The Bombay High Court cleared the way for Tata Sons to hold a board meeting regarding IPO plans despite ongoing legal challenges from Tata Trusts.",
-        "link": "https://www.thehindubusinessline.com/companies/bombay-high-court-declines-relief-to-tata-trusts/article71752030.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-27",
-        "text": "The court confirmed that Tata Sons can hold its meeting, with all decisions made therein remaining subject to the court’s final ruling.",
-        "link": "https://www.livemint.com/companies/tata-trusts-vs-tata-sons-bombay-high-court-11795785693009.html",
-        "source": "mint - companies"
-       },
-       {
-        "date": "2026-11-28",
-        "text": "Tata Sons preemptively filed caveats in the Bombay High Court and Supreme Court to block potential appeals from Tata Trusts regarding the company's upcoming board meeting and leadership appointments.",
-        "link": "https://www.thehindubusinessline.com/companies/tata-sons-files-caveats-after-bombay-hc-refuses-relief-to-tata-trusts-plea/article71753773.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-28",
-        "text": "Tata Sons preemptively filed caveats in the Bombay High Court and Supreme Court to block potential appeals from Tata Trusts regarding the company's upcoming board meeting and leadership appointments.",
-        "link": "https://www.livemint.com/companies/news/tata-sons-files-caveats-in-bombay-hc-sc-ahead-of-possible-tata-trusts-appeal-over-board-meeting-all-about-the-row-11795846285289.html",
-        "source": "mint - companies"
        }
       ]
      }
@@ -1960,180 +1770,70 @@
      }
     },
     {
-     "id": "d843aef3e4aa",
-     "title": "No stay for Tata Trusts: HC lets Tata Sons board meet, casting vote intact",
-     "link": "https://www.livemint.com/companies/tata-trusts-vs-tata-sons-bombay-high-court-11795785693009.html",
-     "source": "mint - companies",
-     "published": "2026-11-27T13:30:52+00:00",
-     "summary": "The Bombay High Court ruled that Tata Sons may move forward with its board meeting, though any final outcome will be contingent on the court's ultimate judgment.",
-     "explain": "This development allows the corporate decision-making process at Tata Sons to continue, but ensures that if the court eventually finds for the petitioners (the Tata Trusts representatives), any actions taken at the meeting could be challenged or overturned. It is a protective measure to ensure that major corporate changes, like an IPO, are legally sound.",
-     "related": [
-      {
-       "date": "2026-10-26",
-       "title": "Noel Tata seeks record of Tata Sons September 17 board meet",
-       "link": "https://www.thehindubusinessline.com/companies/noel-tata-seeks-record-of-tata-sons-september-17-board-meet/article71628511.ece",
-       "source": "Business News Today: Latest Business New"
-      },
-      {
-       "date": "2026-11-02",
-       "title": "Darius Khambata steps down from Tata Trusts, says Tata Sons reputation sullied following September 17 board meet",
-       "link": "https://www.thehindubusinessline.com/companies/darius-khambata-steps-down-from-tata-trusts-says-tata-sons-reputation-sullied-following-september-17-board-meet/article71656292.ece",
-       "source": "Business News Today: Latest Business New"
-      }
-     ],
-     "story": {
-      "id": "business-tata-trusts-governance-dispute",
-      "title": "Tata Trusts Governance Dispute",
-      "so_far": "Venu Srinivasan and Vijay Singh, who have been associated with Tata entities, filed complaints alleging governance failures within Tata Trusts. The Charity Commissioner of Maharashtra is currently reviewing the matter to determine if the trust acted in compliance with regulatory standards. Meanwhile, Tata Sons is attempting to move forward with a board meeting to finalize IPO plans, which is currently the subject of the court's scrutiny.",
-      "timeline": [
-       {
-        "date": "2026-10-19",
-        "text": "Tata Trusts filed a legal response with the Charity Commissioner of Maharashtra refuting claims of mismanagement.",
-        "link": "https://www.thehindubusinessline.com/companies/tata-trusts-files-response-to-venu-srinivasan-vijay-singhs-complaints-with-charity-commissioner-of-maharashtra/article71602913.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-02",
-        "text": "Trustee Darius Khambata has resigned, citing concerns over recent board-level decisions involving leadership retention.",
-        "link": "https://www.livemint.com/companies/people/who-is-darius-khambata-harvard-alumnus-exits-tata-trusts-says-september-17-events-sullied-tata-sons-reputation-11793612555315.html",
-        "source": "mint - companies"
-       },
-       {
-        "date": "2026-11-02",
-        "text": "Khambata formally expressed that 'spin doctoring' cannot mask governance concerns following his resignation.",
-        "link": "https://www.thehindubusinessline.com/companies/darius-khambata-steps-down-from-tata-trusts-says-tata-sons-reputation-sullied-following-september-17-board-meet/article71656292.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-20",
-        "text": "Noel Tata is continuing to push for access to internal records regarding a specific September board meeting.",
-        "link": "https://www.thehindubusinessline.com/companies/noel-tata-renews-demand-for-september-17-board-meeting-recording/article71725853.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-27",
-        "text": "The charitable arm of Tata is pushing for greater board influence and is actively blocking a stock market listing for the group's holding company.",
-        "link": "https://www.thehindubusinessline.com/companies/inside-tata-sons-the-rules-the-rift-and-what-happens-next/article71749777.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-27",
-        "text": "The Bombay High Court cleared the way for Tata Sons to hold a board meeting regarding IPO plans despite ongoing legal challenges from Tata Trusts.",
-        "link": "https://www.thehindubusinessline.com/companies/bombay-high-court-declines-relief-to-tata-trusts/article71752030.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-27",
-        "text": "The court confirmed that Tata Sons can hold its meeting, with all decisions made therein remaining subject to the court’s final ruling.",
-        "link": "https://www.livemint.com/companies/tata-trusts-vs-tata-sons-bombay-high-court-11795785693009.html",
-        "source": "mint - companies"
-       },
-       {
-        "date": "2026-11-28",
-        "text": "Tata Sons preemptively filed caveats in the Bombay High Court and Supreme Court to block potential appeals from Tata Trusts regarding the company's upcoming board meeting and leadership appointments.",
-        "link": "https://www.thehindubusinessline.com/companies/tata-sons-files-caveats-after-bombay-hc-refuses-relief-to-tata-trusts-plea/article71753773.ece",
-        "source": "Business News Today: Latest Business New"
-       },
-       {
-        "date": "2026-11-28",
-        "text": "Tata Sons preemptively filed caveats in the Bombay High Court and Supreme Court to block potential appeals from Tata Trusts regarding the company's upcoming board meeting and leadership appointments.",
-        "link": "https://www.livemint.com/companies/news/tata-sons-files-caveats-in-bombay-hc-sc-ahead-of-possible-tata-trusts-appeal-over-board-meeting-all-about-the-row-11795846285289.html",
-        "source": "mint - companies"
-       }
-      ]
-     }
-    },
-    {
-     "id": "13e8e23121c9",
-     "title": "Bond market to stay cautious ahead of RBI policy: Equirus",
-     "link": "https://www.thehindubusinessline.com/markets/bond-market-to-stay-cautious-ahead-of-rbi-policy-equirus/article71753946.ece",
+     "id": "2f24d0de6207",
+     "title": "Nvidia, Oracle and the Neoclouds: Bond markets remain wary, while stock markets soothe on Jensen Huang’s return",
+     "link": "https://www.thehindubusinessline.com/portfolio/nvidia-oracle-and-the-neoclouds-bond-markets-remain-wary-while-stock-markets-soothe-on-jensen-huangs-return/article71754365.ece",
      "source": "Business News Today: Latest Business New",
-     "published": "2026-11-28T09:12:33+00:00",
-     "summary": "Market analysts at Equirus predict the Indian government bond market will remain cautious as the Reserve Bank of India (RBI) prepares for its upcoming policy review.",
-     "explain": "The Reserve Bank of India (RBI) meets periodically to decide on interest rates, which directly impact the cost of borrowing for companies and consumers. When the market is 'cautious,' investors tend to hold back on making large purchases or trades because they are waiting for official signals on how the central bank will move rates.",
+     "published": "2026-11-28T18:07:54+00:00",
+     "summary": "Credit markets are demanding 15 per cent from some AI borrowers, even as the Nasdaq claws back its worst week since Covid",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "business-indian-bond-market-outlook",
-      "title": "Indian Bond Market Outlook",
-      "so_far": "Government securities (G-Secs) are debt instruments issued by the government to borrow money from the public. Yields, or the returns earned by investors, inversely track bond prices and are highly sensitive to RBI's monetary policy and inflation data.",
-      "timeline": [
-       {
-        "date": "2026-11-28",
-        "text": "Analysts expect 10-year benchmark government bond yields to fluctuate between 7.18% and 7.42% in the near term due to uncertainty regarding future interest rate policies.",
-        "link": "https://www.thehindubusinessline.com/markets/bond-market-to-stay-cautious-ahead-of-rbi-policy-equirus/article71753946.ece",
-        "source": "Business News Today: Latest Business New"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "2f06a8b926e4",
-     "title": "IndiGo drops 10 international destinations in 2026: India's largest airline is cutting overseas flights; here’s why",
-     "link": "https://www.livemint.com/companies/news/indigo-drops-10-international-destinations-in-2026-indias-largest-airline-is-cutting-overseas-flights-here-s-why-11795856134529.html",
+     "id": "3f6d8225d4ac",
+     "title": "Who is Anand Kumar Polamada? CA professional who worked at Bangalore Airport now heads Delhi Airport's finance",
+     "link": "https://www.livemint.com/companies/people/who-is-anand-kumar-polamada-ca-professional-who-worked-at-bangalore-airport-now-heads-delhi-airports-finance-11795887398735.html",
      "source": "mint - companies",
-     "published": "2026-11-28T09:00:13+00:00",
-     "summary": "IndiGo, India's largest airline, has cancelled flights to 10 international destinations throughout 2026.",
-     "explain": "Airlines often cut routes when the cost of operating them—due to factors like fuel, leasing planes, or lack of passenger demand—outweighs the profit. 'Airspace restrictions' can refer to geopolitical conflicts that prevent planes from flying over certain countries, forcing longer and more expensive routes.",
+     "published": "2026-11-28T17:51:08+00:00",
+     "summary": "Polamada boasts nearly 24 years of professional experience, previously had stints at Bangalore International Airport (BIAL) and GMR Hyderabad International Airport (GHIAL).",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "business-indigo-international-network-cuts",
-      "title": "IndiGo International Network Cuts",
-      "so_far": "IndiGo has been the dominant force in the Indian aviation market, aggressively expanding its domestic and international footprint over the last few years. Recent operational challenges in the global aviation industry, such as engine supply chain issues and pilot shortages, have forced many airlines to re-evaluate their flight networks.",
-      "timeline": [
-       {
-        "date": "2026-11-28",
-        "text": "The airline cited a combination of airspace restrictions, aircraft leasing constraints, and weakened demand as reasons for withdrawing from 10 international routes this year.",
-        "link": "https://www.livemint.com/companies/news/indigo-drops-10-international-destinations-in-2026-indias-largest-airline-is-cutting-overseas-flights-here-s-why-11795856134529.html",
-        "source": "mint - companies"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "7e30a3b648cb",
-     "title": "UK bank capital rule changes: Why UBS sees Lloyds and NatWest gaining the most",
-     "link": "https://www.livemint.com/companies/news/uk-bank-capital-rule-changes-why-ubs-sees-lloyds-and-natwest-gaining-the-most-11795855835293.html",
-     "source": "mint - companies",
-     "published": "2026-11-28T08:56:24+00:00",
-     "summary": "UBS analysts suggest that upcoming changes to UK bank capital requirements will likely favor Lloyds and NatWest.",
-     "explain": "Capital requirements are safety rules that ensure banks don't collapse if many customers default on loans. When regulators loosen these requirements, it's considered good news for the banks because it 'frees up' money they were previously required to lock away, which can then be used to pay dividends to investors or grow the business.",
+     "id": "994d1c542052",
+     "title": "The world will end, Anthropic's here",
+     "link": "https://economictimes.indiatimes.com/opinion/et-commentary/anthropic-is-here-and-nothing-will-ever-be-the-same/articleshow/136250197.cms",
+     "source": "Economic Times",
+     "published": "2026-11-28T17:40:00+00:00",
+     "summary": "",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "business-uk-banking-regulatory-changes",
-      "title": "UK Banking Regulatory Changes",
-      "so_far": "Banks are required by regulators to hold a certain amount of capital (cash reserves) to protect against unexpected losses. This is known as a capital adequacy ratio. Changes to these requirements can either force banks to hold more cash or allow them to return excess capital to shareholders.",
-      "timeline": [
-       {
-        "date": "2026-11-28",
-        "text": "Proposed updates to capital rules could allow Lloyds and NatWest to unlock capital worth roughly 1.5% of their market value, potentially boosting their share prices.",
-        "link": "https://www.livemint.com/companies/news/uk-bank-capital-rule-changes-why-ubs-sees-lloyds-and-natwest-gaining-the-most-11795855835293.html",
-        "source": "mint - companies"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "09d72011d5f3",
-     "title": "Banned Nvidia chips surface in China despite Trump’s ‘2–3 year’ wait remark; here’s how it's linked to Alice Huang",
-     "link": "https://www.livemint.com/companies/news/banned-nvidia-chips-surface-in-china-despite-trump-s-2-3-year-wait-remark-here-s-how-its-linked-to-alice-huang-11795852454950.html",
-     "source": "mint - companies",
-     "published": "2026-11-28T08:47:18+00:00",
-     "summary": "High-end Nvidia semiconductors subject to US export bans have reportedly been found in China.",
-     "explain": "Semiconductors, or 'chips,' are the brains of modern computers. Advanced AI chips are crucial for training Large Language Models (like ChatGPT). By banning their sale to China, the US aims to maintain a technological lead by preventing its competitor from acquiring the hardware necessary to train powerful artificial intelligence systems.",
+     "id": "ff074088fe53",
+     "title": "India's last homes wait for a power connection",
+     "link": "https://economictimes.indiatimes.com/industry/energy/power/centre-asks-states-to-ensure-power-connections-for-all-households-by-march-2027/articleshow/136252273.cms",
+     "source": "Economic Times",
+     "published": "2026-11-28T17:39:59+00:00",
+     "summary": "",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "business-us-export-bans-and-nvidia-chips",
-      "title": "US Export Bans and Nvidia Chips",
-      "so_far": "The US has imposed strict export controls on advanced AI chips, including those manufactured by Nvidia, to prevent China from utilizing them for military-related AI development. Enforcement of these bans has been a major point of tension in US-China tech relations.",
-      "timeline": [
-       {
-        "date": "2026-11-28",
-        "text": "Despite warnings that China would be restricted from accessing advanced Blackwell chips for years, reports indicate these banned components are still surfacing in the Chinese market.",
-        "link": "https://www.livemint.com/companies/news/banned-nvidia-chips-surface-in-china-despite-trump-s-2-3-year-wait-remark-here-s-how-its-linked-to-alice-huang-11795852454950.html",
-        "source": "mint - companies"
-       }
-      ]
-     }
+     "story": null
+    },
+    {
+     "id": "7aefac3a4b9b",
+     "title": "US targets ship for violating Iran port blockade",
+     "link": "https://economictimes.indiatimes.com/news/international/world-news/us-targets-ship-for-violating-iran-port-blockade/articleshow/136252649.cms",
+     "source": "Economic Times",
+     "published": "2026-11-28T17:33:42+00:00",
+     "summary": "",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "556095b5b421",
+     "title": "What should investors do about Lumax Auto Technologies after the recent rally?",
+     "link": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/what-should-investors-do-about-lumax-auto-technologies-after-the-recent-rally/article71749954.ece",
+     "source": "Business News Today: Latest Business New",
+     "published": "2026-11-28T16:43:19+00:00",
+     "summary": "At 44x earnings, a growing order-book and ambitions for FY31 seem to be priced in",
+     "explain": null,
+     "related": [],
+     "story": null
     }
    ]
   },
@@ -2233,6 +1933,24 @@
        }
       ]
      }
+    },
+    {
+     "id": "708d985f62f4",
+     "title": "US markets week ahead: Investors eye jobs data, manufacturing &amp; services reports; Salesforce &amp; Marvell earnings in focus",
+     "link": "https://www.livemint.com/market/stock-market-news/us-markets-week-ahead-investors-eye-jobs-data-manufacturing-services-reports-salesforce-marvell-earnings-11795885001393.html",
+     "source": "mint - markets",
+     "published": "2026-11-28T17:15:02+00:00",
+     "summary": "The upcoming economic releases will be among the final major data points for 2026, at a time when households, businesses and policymakers continue to grapple with persistent inflation",
+     "explain": null,
+     "related": [
+      {
+       "date": "2026-10-31",
+       "title": "Wall Street week ahead: All eyes on US midterm elections, jobs data; earnings from Apple, AMD and Palantir also in focus",
+       "link": "https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-all-eyes-on-us-midterm-elections-jobs-data-earnings-from-apple-amd-and-palantir-also-in-focus-11793462491155.html",
+       "source": "mint - markets"
+      }
+     ],
+     "story": null
     },
     {
      "id": "d3ab843c757e",
@@ -2337,287 +2055,66 @@
      }
     },
     {
-     "id": "e05c594ff4a8",
-     "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
-     "link": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph.com News",
-     "published": "2026-11-26T21:33:47+00:00",
-     "summary": "Binance confirms the completion of its withdrawal restoration process following the major hack.",
-     "explain": "This confirms that the phased security lockdown initiated on November 1st has concluded. Full restoration of withdrawal functions allows customers to move their assets off the exchange platform, signaling a return to business-as-usual for the exchange.",
+     "id": "0bcd6f990876",
+     "title": "Tether adds $10 million in Bitdeer stock after holding through an 87% drop",
+     "link": "https://www.coindesk.com/business/2026/11/28/tether-adds-usd10-million-in-bitdeer-stock-after-holding-through-an-87-drop",
+     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
+     "published": "2026-11-28T16:01:54+00:00",
+     "summary": "",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "9886f96f881c",
+     "title": "Gold, silver and platinum prices rise as demand for precious metals strengthens; key levels to watch",
+     "link": "https://www.livemint.com/market/commodities/gold-silver-and-platinum-prices-rise-as-demand-for-precious-metals-strengthens-key-levels-to-watch-11795876887313.html",
+     "source": "mint - markets",
+     "published": "2026-11-28T14:57:37+00:00",
+     "summary": "The broader outlook for precious metals will depend on changes in investor sentiment, movements in the US dollar and Treasury yields, and developments in global financial markets",
+     "explain": null,
      "related": [
       {
-       "date": "2026-11-01",
-       "title": "Binance says phase one of withdrawals opens after $6.3B hack",
-       "link": "https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-       "source": "Cointelegraph.com News"
+       "date": "2026-11-27",
+       "title": "Gold vs silver: Precious metals prices crashed and rebounded - which of them could deliver better returns in 2027?",
+       "link": "https://www.livemint.com/market/commodities/gold-vs-silver-precious-metals-prices-crashed-and-rebounded-which-of-them-could-deliver-better-returns-in-2027-11795767982019.html",
+       "source": "mint - markets"
       }
      ],
-     "story": {
-      "id": "markets-binance-6-3-billion-security-breach",
-      "title": "Binance $6.3 Billion Security Breach",
-      "so_far": "In late October 2026, the global cryptocurrency exchange Binance suffered a major security breach resulting in the loss of $6.3 billion in assets. Following the incident, the platform paused withdrawals to investigate and secure user funds, gradually phasing in restores over the month of November.",
-      "timeline": [
-       {
-        "date": "2026-10-29",
-        "text": "The breach was officially confirmed as the largest crypto hack to date.",
-        "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-10-30",
-        "text": "Binance is actively investigating the breach and has pledged to cover user losses while security firms link the activity to North Korean actors.",
-        "link": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-10-30",
-        "text": "The breach continues to evolve as further vulnerabilities are identified within the exchange's infrastructure.",
-        "link": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-10-30",
-        "text": "TRM Labs has identified potential links between the theft and North Korea-affiliated hackers.",
-        "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/biggest-crypto-heist-in-history-how-binances-6-billion-hack-rattled-markets-and-what-it-means-for-investors/articleshow/135348042.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-10-30",
-        "text": "Technical analysis suggests the Ethereum upgrade EIP-7702 likely facilitated the bypass of withdrawal safeguards.",
-        "link": "https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-10-30",
-        "text": "The stolen funds total over 18,000 BTC and 500,000 ETH, surpassing the corporate reserves of major competitors like Coinbase.",
-        "link": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-10-31",
-        "text": "Binance announced a plan to cover losses for customers after a $6.3 billion cyberattack targeted the exchange's digital assets.",
-        "link": "https://www.livemint.com/market/cryptocurrency/binance-replaces-90-of-stolen-crypto-after-record-6-3-billion-hack-pledges-to-cover-remaining-losses-11793469971870.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-01",
-        "text": "The exchange has begun the process of allowing users to withdraw their funds again, starting with Bitcoin, as part of its recovery efforts.",
-        "link": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       },
-       {
-        "date": "2026-11-01",
-        "text": "Investigators have identified the North Korean group 'TraderTraitor' as the culprit behind the massive theft.",
-        "link": "https://www.livemint.com/market/stock-market-news/binance-hack-inside-24-hours-at-crypto-s-biggest-ever-6-3-bn-internet-bank-robbery-full-story-from-4-20-pm-thursday-11793520978709.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-01",
-        "text": "The FBI has officially blamed North Korea for the $6.3 billion theft, while Binance confirms the first phase of withdrawal services is live.",
-        "link": "https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-26",
-        "text": "The platform has finalized the recovery process, returning full access to customers.",
-        "link": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News"
-       },
-       {
-        "date": "2026-11-27",
-        "text": "The exchange has fully resumed normal operations and withdrawal capabilities four weeks after the incident.",
-        "link": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "a6aeb4bcce72",
-     "title": "TBZ, PC Jewellers, Kalyan, Titan: Gold price down 30% from peak but these jewellery stocks soar up to 244% in 2026 YTD",
-     "link": "https://www.livemint.com/market/stock-market-news/tbz-pc-jewellers-kalyan-titan-gold-price-down-30-from-peak-but-these-jewellery-stocks-soar-up-to-244-in-2026-ytd-11795852433989.html",
+     "id": "02fb82eb3da6",
+     "title": "Gold price forecast: Can precious metal fall below ₹1,00,000 per 10 grams in the near-term? Experts' views",
+     "link": "https://www.livemint.com/market/commodities/gold-price-forecast-can-precious-metal-fall-below-1-00-000-per-10-grams-in-the-near-term-experts-views-11795874325765.html",
      "source": "mint - markets",
-     "published": "2026-11-28T09:05:49+00:00",
-     "summary": "Jewellery stocks in India are surging in 2026 despite a significant decline in the price of physical gold.",
-     "explain": "Stock prices reflect the expected future value of a company. While lower gold prices might seem bad for jewellery companies, lower costs can actually stimulate consumer demand, helping these retailers sell more volume. These stocks are performing well because the companies themselves are improving their business models through debt reduction and growth strategies.",
+     "published": "2026-11-28T14:48:12+00:00",
+     "summary": "Gold price forecast: Gold prices have faced pressure from expectations of a more hawkish US Federal Reserve, elevated bond yields and a stronger US dollar.",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "markets-indian-jewellery-retail-sector-performan",
-      "title": "Indian Jewellery Retail Sector Performance",
-      "so_far": "The Indian jewellery market is highly sensitive to the price of gold, which is a culturally significant investment and decorative item. Publicly traded jewellery retailers track demand shifts and are increasingly focusing on formalizing their supply chains and expanding retail footprints.",
-      "timeline": [
-       {
-        "date": "2026-11-28",
-        "text": "Companies like TBZ, PC Jewellers, Kalyan, and Titan have seen significant stock appreciation in 2026, driven by strong earnings and expansion efforts despite gold price volatility.",
-        "link": "https://www.livemint.com/market/stock-market-news/tbz-pc-jewellers-kalyan-titan-gold-price-down-30-from-peak-but-these-jewellery-stocks-soar-up-to-244-in-2026-ytd-11795852433989.html",
-        "source": "mint - markets"
-       }
-      ]
-     }
+     "story": null
     },
     {
-     "id": "ff07761ddffd",
-     "title": "Top stocks to buy on Monday, 30 Nov: Choice Broking's Kkunal V recommends three shares for next week | Target, stop loss",
-     "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-on-monday-30-nov-choice-brokings-kkunal-v-recommends-three-shares-for-next-week-target-stop-loss-11795851548679.html",
+     "id": "7d7a53118a38",
+     "title": "Bybit’s $1.4 billion hack postmortem is ready. You won’t get to see it.",
+     "link": "https://www.coindesk.com/business/2026/11/28/bybit-s-usd1-4-billion-hack-postmortem-is-ready-you-won-t-get-to-see-it",
+     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News",
+     "published": "2026-11-28T14:00:00+00:00",
+     "summary": "",
+     "explain": null,
+     "related": [],
+     "story": null
+    },
+    {
+     "id": "583d93d14add",
+     "title": "Mint Money Festival | Vijay Kedia outlines 10 investing rules for younger investors",
+     "link": "https://www.livemint.com/market/mint-money-festival-vijay-kedia-10-investing-rules-younger-investors-11795872055485.html",
      "source": "mint - markets",
-     "published": "2026-11-28T08:34:32+00:00",
-     "summary": "The Nifty 50 index ended a four-week winning streak, closing down at 25,607.20.",
-     "explain": "The Nifty 50 is a benchmark index that tracks the performance of the 50 largest companies on the National Stock Exchange of India. A 'winning streak' refers to consecutive weeks where the index closes higher than the week before. When this streak breaks, it often signals a cooling-off period for investors who were previously buying aggressively.",
+     "published": "2026-11-28T13:56:22+00:00",
+     "summary": "From doing your own research and avoiding borrowed money to staying invested for the long term, ace investor Vijay Kedia recast time-tested market wisdom in Gen Z language at the Mint Money Festival 2026.",
+     "explain": null,
      "related": [],
-     "story": {
-      "id": "markets-indian-stock-market-volatility",
-      "title": "Indian Stock Market Volatility",
-      "so_far": "The Nifty and Sensex are the two primary benchmarks for the Indian stock market. They track the performance of the largest companies across various sectors. Investors monitor global indices like the Dow Jones Industrial Average (DJIA) and the GIFT Nifty—an offshore derivative index—to predict how the Indian market might behave when it opens locally.",
-      "timeline": [
-       {
-        "date": "2026-11-17",
-        "text": "Indian indices are facing pressure from weak global sentiment, particularly from the US tech sector, though they previously benefited from foreign inflows and lower crude prices.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-senco-gold-adani-enterprises-bse-cipla-shares-in-focus-on-tuesday-17-november-full-list-11794879685406.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-17",
-        "text": "The anticipation of Nvidia's upcoming financial results is contributing to global caution, which is expected to dampen market performance in India today.",
-        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-17-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-cue-11794875550779.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-18",
-        "text": "The Indian market faces a potential weak opening as technical indicators show resistance for the Nifty near 25,500.",
-        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-18-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-cues-11794962131039.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "Domestic Indian markets are expected to open lower due to negative signals from the GIFT Nifty index and recent losses in the Sensex and Nifty.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-coal-india-jio-financial-nalco-bharat-forge-sky-gold-dalmia-bharat-and-7-others-in-focus-11795052380903.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "The GIFT Nifty signals a negative start for Indian equities as they face mixed global market conditions.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-hcl-tech-adani-green-share-price-19-november-2026/liveblog/135975324.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-11-19",
-        "text": "Indian equities are expected to fall following Wall Street losses and a stronger US dollar.",
-        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-19-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-cues-11795048871272.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-20",
-        "text": "The Indian market is showing resilience, outperforming global trends for the moment, but faces potential pressure from international market slides.",
-        "link": "https://www.livemint.com/market/pulse-of-the-street-dalal-street-extends-winning-run-as-global-markets-slide-11795181421343.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-21",
-        "text": "Nifty and Sensex recorded a four-session winning streak while investors look ahead to a busy week of corporate earnings and shareholder rewards.",
-        "link": "https://www.livemint.com/market/stock-market-news/upcoming-dividend-split-rights-issue-record-dates-next-week-nov-23-27-pashupati-cotspin-zee-ent-varvee-and-more-11795245232145.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-22",
-        "text": "The Nifty 50 has shown strong resilience, with experts identifying 26,000 as the next major resistance level for the upcoming week.",
-        "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-nifty-posts-longest-weekly-winning-streak-in-5-months-will-rally-survive-next-week-nov-2327-11795350642959.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-25",
-        "text": "Indices pulled back significantly from daily highs as traders reacted to negative cues from Asian and US markets, ending the day with caution.",
-        "link": "https://www.livemint.com/market/stock-market-news/rollercoaster-ride-in-stock-market-today-nifty-pares-gains-by-270-points-sensex-crashes-over-900-from-days-high-11795593625240.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-26",
-        "text": "J.P. Morgan raised its outlook for the Nifty 50, suggesting Indian equities offer stability for investors moving away from volatile AI stocks.",
-        "link": "https://www.livemint.com/market/stock-market-news/nifty-50-to-hit-29-000-j-p-morgan-calls-indian-stocks-a-safe-haven-from-ai-trades-sees-12-upside-key-reasons-11795710323279.html",
-        "source": "mint - markets"
-       },
-       {
-        "date": "2026-11-28",
-        "text": "The Nifty index snapped its four-week winning streak, falling 0.75% as analysts issue cautious buy recommendations.",
-        "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-on-monday-30-nov-choice-brokings-kkunal-v-recommends-three-shares-for-next-week-target-stop-loss-11795851548679.html",
-        "source": "mint - markets"
-       }
-      ]
-     }
-    },
-    {
-     "id": "e424e252cf72",
-     "title": "Jaiprakash Power Ventures, CarTrade Tech among 11 smallcap stocks that plunged the most in a year, but mutual funds raised stakes",
-     "link": "https://economictimes.indiatimes.com/markets/stocks/news/jaiprakash-power-ventures-cartrade-tech-among-11-smallcap-stocks-that-plunged-the-most-in-a-year-but-mutual-funds-raised-stakes/slideshow/136242594.cms",
-     "source": "Markets-Economic Times",
-     "published": "2026-11-28T08:31:12+00:00",
-     "summary": "Institutional mutual funds have been increasing their investments in certain small-cap stocks despite these companies suffering major price drops over the past year.",
-     "explain": "When mutual funds buy shares of a company whose stock price is falling, they are often 'averaging down' or betting that the company is undervalued and will recover in the long term. Small-cap stocks are generally more volatile, meaning their prices can swing wildly compared to larger, more established 'blue-chip' companies.",
-     "related": [],
-     "story": {
-      "id": "markets-mutual-fund-small-cap-accumulation",
-      "title": "Mutual Fund Small-cap Accumulation",
-      "so_far": "Small-cap stocks represent smaller, younger, or niche companies that carry higher risk but higher growth potential than large-cap firms. Mutual funds are professional investment vehicles that pool money from many individuals to buy a diverse range of stocks, guided by research-based strategies.",
-      "timeline": [
-       {
-        "date": "2026-11-28",
-        "text": "Data shows that mutual funds have consistently increased stakes in 11 major small-cap laggards, including Jaiprakash Power Ventures and CarTrade Tech, over the last five quarters.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jaiprakash-power-ventures-cartrade-tech-among-11-smallcap-stocks-that-plunged-the-most-in-a-year-but-mutual-funds-raised-stakes/slideshow/136242594.cms",
-        "source": "Markets-Economic Times"
-       }
-      ]
-     }
-    },
-    {
-     "id": "0db9c96bc5c8",
-     "title": "Mint Money Festival | Trust is the wealth that keeps Indian markets moving: NSE CEO Ashish Chauhan",
-     "link": "https://www.livemint.com/market/stock-market-news/mint-money-festival-trust-is-the-wealth-that-keeps-indian-markets-moving-nse-ceo-ashish-chauhan-11795850063118.html",
-     "source": "mint - markets",
-     "published": "2026-11-28T08:24:48+00:00",
-     "summary": "NSE CEO Ashish Chauhan highlights that rising household participation in the stock market is built on long-term institutional trust.",
-     "explain": "Trust is a cornerstone of any financial market; it ensures that investors believe their money is safe and that trading is fair. When individual households participate, it provides the market with 'liquidity' (the ability to buy and sell easily) and reflects confidence in the nation's economic future.",
-     "related": [],
-     "story": {
-      "id": "markets-retail-investor-trust-in-nse",
-      "title": "Retail Investor Trust in NSE",
-      "so_far": "The National Stock Exchange (NSE) is the leading stock exchange in India. In recent years, India has seen a massive surge in 'retail' or individual investors opening demat accounts to trade directly in equities, moving away from traditional savings like gold or real estate.",
-      "timeline": [
-       {
-        "date": "2026-11-28",
-        "text": "NSE CEO Ashish Chauhan attributed the recent influx of Indian household capital into the markets to a fundamental increase in trust within the system.",
-        "link": "https://www.livemint.com/market/stock-market-news/mint-money-festival-trust-is-the-wealth-that-keeps-indian-markets-moving-nse-ceo-ashish-chauhan-11795850063118.html",
-        "source": "mint - markets"
-       }
-      ]
-     }
-    },
-    {
-     "id": "de14ec6ff359",
-     "title": "Gold, silver prices stage stunning comeback after 15-month low: Can the rally sustain? Key levels, trading strategy",
-     "link": "https://www.livemint.com/market/stock-market-news/gold-silver-prices-stage-stunning-comeback-after-15-month-low-can-the-rally-sustain-key-levels-trading-strategy-11795851316845.html",
-     "source": "mint - markets",
-     "published": "2026-11-28T07:50:03+00:00",
-     "summary": "Gold and silver have rebounded from 15-month lows, though analysts remain wary of the impact of future US Federal Reserve rate hikes.",
-     "explain": "Short covering occurs when investors who 'shorted' an asset (bet that its price would go down) are forced to buy it back as the price rises, which adds further upward pressure on the price. 'Market volatility' refers to the frequency and magnitude of price swings; lower volatility is generally seen as a sign of stabilization.",
-     "related": [],
-     "story": {
-      "id": "markets-gold-market-price-fluctuations",
-      "title": "Gold Market Price Fluctuations",
-      "so_far": "Gold is often used by investors as a hedge against inflation and economic uncertainty. Its price is inversely related to the US dollar and interest rates; when the Federal Reserve raises rates, gold—which pays no interest—typically becomes less attractive to investors.",
-      "timeline": [
-       {
-        "date": "2026-11-28",
-        "text": "Gold prices are showing a potential weekly gain of nearly 3% following recent 15-month lows, despite pressure from a strong US dollar.",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-pares-gains-as-fed-hike-risks-linger-eyes-first-weekly-rise-in-three-weeks/articleshow/136237788.cms",
-        "source": "Markets-Economic Times"
-       },
-       {
-        "date": "2026-11-28",
-        "text": "Precious metals have staged a sharp rebound driven by bargain hunting and a cooling of market volatility, though US inflation remains a persistent threat.",
-        "link": "https://www.livemint.com/market/stock-market-news/gold-silver-prices-stage-stunning-comeback-after-15-month-low-can-the-rally-sustain-key-levels-trading-strategy-11795851316845.html",
-        "source": "mint - markets"
-       }
-      ]
-     }
+     "story": null
     }
    ]
   }
